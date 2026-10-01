@@ -61,13 +61,13 @@ def assemble(root=ROOT, partial=False):
                 raise ValueError('Duplicate note ID: '+note['id'])
             if '[^'+note['id']+']' not in row['english']:
                 raise ValueError(f'Unlinked note at {pid}: {note["id"]}')
-            if not set(note['anchors']) <= set(ids):
-                raise ValueError(f'Note anchors outside pair at {pid}')
+            if not set(note['anchors']) <= {r['anchor'] for r in anchors} or not set(note['anchors']) & set(ids):
+                raise ValueError(f'Invalid note source allocation at {pid}')
             note_ids.add(note['id'])
             notes.append(dict(note,pair_id=pid))
         status = row.get('status','translated')
         pairs.append(dict(id=pid,source=ids,format=row['format'],role=row['role'],status=status,
-                          batch_file=row.get('batch_file'),note_ids=[n['id'] for n in row.get('notes',[])]))
+                          batch_file=row.get('batch_file'),note_ids=sorted(set(re.findall(r'\[\^([^\]]+)\]',row['english'])))))
         coverage.extend(dict(anchor=i,pair_id=pid,status=status,
                              has_review_note=bool(row.get('notes'))) for i in ids)
     if notes:

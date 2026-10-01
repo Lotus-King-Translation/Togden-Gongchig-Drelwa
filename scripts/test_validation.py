@@ -95,4 +95,56 @@ class ValidationTests(unittest.TestCase):
     def test_final_rejects_unprocessed(self):
         with self.assertRaisesRegex(ValueError,'Unprocessed'):validate(self.root,final=True)
 
+class FinalGateTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.tmp=tempfile.TemporaryDirectory()
+        cls.root=Path(cls.tmp.name)
+        for name in ['source','glossary','guidelines']:
+            shutil.copytree(ROOT/name,cls.root/name)
+        for name in ['paired','translations/batches']:
+            (cls.root/name).mkdir(parents=True,exist_ok=True)
+        anchors=json.loads((cls.root/'source/anchors.json').read_text())
+        rows=[]
+        for a in anchors:
+            n=a['index'];notes=[];english='Synthetic structural test content.'
+            if any(c in a['tibetan'] for c in 'x×✖'):
+                nid='TEST-'+a['anchor'];english+='[^'+nid+']'
+                notes=[dict(id=nid,anchors=[a['anchor']],tibetan=a['tibetan'],category='source reading',problem='Synthetic placeholder test.',treatment='Test only.',uncertainty='Not a translation.',review_action='Test only.')]
+            rows.append(dict(start=n,end=n,format='prose',role='main_text',english=english,notes=notes))
+        (cls.root/'translations/batches/fixture.jsonl').write_text('\n'.join(json.dumps(r,ensure_ascii=False) for r in rows)+'\n')
+        assemble(cls.root)
+
+    @classmethod
+    def tearDownClass(cls):cls.tmp.cleanup()
+
+    def test_unsigned_final_rejected_and_signed_final_accepted(self):
+        self.assertEqual(validate(self.root)['anchors'],4499)
+        with self.assertRaisesRegex(ValueError,'signoff'):validate(self.root,final=True)
+        manifest=json.loads((self.root/'paired/manifest.json').read_text())
+        signoff={k:manifest[k] for k in ['source_sha256','translation_sha256','notes_sha256']}
+        signoff.update(release_kind='annotated-working-draft',human_certification=False,structural_validation=True,negative_tests=True)
+        p=self.root/'translations/release-signoff.json';p.write_text(json.dumps(signoff))
+        try:
+            self.assertTrue(validate(self.root,final=True)['final_mode'])
+            signoff['translation_sha256']='stale';p.write_text(json.dumps(signoff))
+            with self.assertRaisesRegex(ValueError,'Stale'):validate(self.root,final=True)
+        finally:p.unlink()
+
+    def test_lost_required_note(self):
+        p=self.root/'paired/translation.md';original=p.read_text()
+        import re
+        changed=re.sub(r'\[\^TEST-U[0-9]+\]','',original,count=1)
+        p.write_text(changed)
+        try:
+            with self.assertRaisesRegex(ValueError,'note/reference'):validate(self.root)
+        finally:p.write_text(original)
+
+    def test_closing_material_loss(self):
+        p=self.root/'paired/source.md';original=p.read_text()
+        p.write_text(original[:original.index('<!-- pair: TGD-004499')])
+        try:
+            with self.assertRaises(ValueError):validate(self.root)
+        finally:p.write_text(original)
+
 if __name__=='__main__':unittest.main()

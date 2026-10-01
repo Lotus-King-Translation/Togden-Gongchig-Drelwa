@@ -1,16 +1,18 @@
 # Project status
 
 - Work: Togden Rinpoche's Gongchig commentary; work code TGD.
-- Phase: provisional source fixed; whole-text translation preparation.
+- Phase: provisional source fixed; whole-text translation in progress.
 - Governing transcript: archived root/001.txt, upstream 063eb57bc01767fe1a33d8db50074ca936086f56.
 - Golden edition: skipped by explicit owner instruction D01; no physical witness authenticated.
 - Source items registered: 9; fixed anchors: 4,499; English reference entries: 4,482 present, 17 blank.
 - Source reconciliation: all 4,499 UUIDs aligned; 13 outer-whitespace differences and 2 residual PO/raw differences recorded.
-- Translation: 0/4,499 source anchors completed; 4,499 remaining.
-- Paired reading structure: preparation pending; no released pair IDs yet.
+- Translation draft snapshot: 743/4,499 source anchors represented in new English; 3,756 remaining. Translator self-checks still in progress.
+- Paired reading structure: 3,927 draft pairs including explicit unprocessed placeholders; no released pair IDs yet.
 - Textual emendations/restorations: 0. Scan checks required by this scope: 0; performed: 0.
 - Full scan proofreading: false; exhaustive witness collation: false; independent translation QC: false.
 - Deliverables complete: archival intake, source register, anchored input. Remaining: paired structure, annotated translation, coverage/usage/proposals, validation, draft release.
 - Finite task: translate U00001–U04499 as one complete working draft under standard v2.0.
 - Working partitions: U00001–U01685; U01686–U03196; U03197–U04499. These are not separate chapter releases.
 - Unresolved source: PO/raw differences U00176 and U01173; original placeholders retained. See source/PROVENANCE.md.
+
+- Validation: source/archive verification and 22 positive/corruption tests pass; final-mode gate remains closed while coverage is incomplete.

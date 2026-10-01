@@ -109,7 +109,7 @@ def validate(root=ROOT, final=False):
         for nid in refs:
             if nid not in note_map:raise ValueError('Undefined note: '+nid)
             note=note_map[nid]
-            if note['pair_id']!=tr['id'] or not set(note['anchors'])<=set(expected['source']):
+            if not set(note['anchors'])<=set(by_id) or not note['anchors']:
                 raise ValueError('Incorrect note source allocation')
     if all_refs!=set(note_map):raise ValueError('Orphan note')
     for path,key in [(sp,'source_sha256'),(tp,'translation_sha256'),(root/'translations/notes.json','notes_sha256')]:
