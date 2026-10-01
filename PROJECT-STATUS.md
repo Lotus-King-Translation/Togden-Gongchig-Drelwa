@@ -15,4 +15,4 @@
 - Working partitions: U00001–U01685; U01686–U03196; U03197–U04499. These are not separate chapter releases.
 - Unresolved source: PO/raw differences U00176 and U01173; original placeholders retained. See source/PROVENANCE.md.
 
-- Validation: source/archive verification and 22 positive/corruption tests pass; final-mode gate remains closed while coverage is incomplete.
+- Validation: source/archive verification and 23 positive/corruption tests pass; final-mode gate remains closed while coverage is incomplete.

@@ -140,6 +140,14 @@ class FinalGateTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError,'note/reference'):validate(self.root)
         finally:p.write_text(original)
 
+    def test_note_quote_must_match_inflected_source(self):
+        p=self.root/'translations/notes.json';original=p.read_text()
+        rows=json.loads(original);rows[0]['tibetan']+='not source'
+        p.write_text(json.dumps(rows))
+        try:
+            with self.assertRaisesRegex(ValueError,'quotation differs'):validate(self.root)
+        finally:p.write_text(original)
+
     def test_closing_material_loss(self):
         p=self.root/'paired/source.md';original=p.read_text()
         p.write_text(original[:original.index('<!-- pair: TGD-004499')])
