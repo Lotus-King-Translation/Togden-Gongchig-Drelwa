@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-01",
+  "release_kind": "annotated-working-draft",
+  "repository": "https://github.com/Lotus-King-Translation/Togden-Gongchig-Drelwa",
+  "release_commit": "4751f1dac1c08fc6cac408a1844d23e35c23e7be",
+  "tags": {
+    "annotated-working-draft-v0.1.0": {
+      "tag_object": "c21496e87611144a855b6b1bac480cea2bd59282",
+      "peeled_commit": "4751f1dac1c08fc6cac408a1844d23e35c23e7be"
+    },
+    "paired-v0.1.0": {
+      "tag_object": "49f8ce208406e9c20292a3230f51fcee0a786ba9",
+      "peeled_commit": "4751f1dac1c08fc6cac408a1844d23e35c23e7be"
+    }
+  },
+  "source_tag": "provisional-source-v0.1.0",
+  "source_commit": "8d7a583020ffc3dee6a4e56f6cecc35a18e09436",
+  "source_tag_unchanged": true,
+  "remote_tag_objects_and_peeled_commits_verified": true,
+  "anchors": 4499,
+  "pairs": 970,
+  "review_notes": 350,
+  "unprocessed_anchors": 0,
+  "structural_tests_passed": 26,
+  "final_mode_passed": true,
+  "reproducible_publication": true,
+  "translator_self_checks_complete": [
+    "A",
+    "B",
+    "C"
+  ],
+  "independent_semantic_qc": false,
+  "human_certification": false,
+  "source_sha256": "902aae3473f3c0e7fbd173795727b77ada62ad2a11d70c74774ef10d255960a1",
+  "translation_sha256": "f26fa33f7c93c33057f3e9e7b026e5168949cee07beaf5f5bc60789f74451491",
+  "notes_sha256": "29638ba69603afcdf1736a27b20c6b358753390565c341f61c9f4cd6f247c83b",
+  "receipt_policy": "This receipt is committed after the fixed release tags; those tags are not moved."
+}

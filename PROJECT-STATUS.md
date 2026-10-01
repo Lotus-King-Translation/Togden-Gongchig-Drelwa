@@ -14,5 +14,5 @@
 - Validation: exact pinned-source preservation, ordered coverage, note agreement and final-mode checks pass; 26 tests pass; tooling audit V1–V4 closed; publication rebuild reproduces exactly.
 - Full scan proofreading: false; exhaustive witness collation: false; targeted scan checks required/performed: 0/0.
 - Deliverable groups: source, paired translation, notes, coverage, usage/proposals, reports and reading projections complete.
-- Release versions: annotated-working-draft-v0.1.0 and paired-v0.1.0; remote verification belongs in translations/receipts/ after tagging.
+- Released draft tags: annotated-working-draft-v0.1.0 and paired-v0.1.0 at 4751f1dac1c08fc6cac408a1844d23e35c23e7be. Remote tag objects and commits verified; receipt: translations/receipts/draft-v0.1.0.json.
 - Next finite task, on a future review request: independent semantic QC of U00001–U00069 against the fixed draft and active glossary. Not started.
