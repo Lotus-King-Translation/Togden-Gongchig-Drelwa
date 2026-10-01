@@ -75,6 +75,8 @@ def validate(root=ROOT, final=False):
         raise ValueError('Pair identity/order mismatch')
     manifest=json.loads((root/'paired/manifest.json').read_text())
     if len(manifest['pairs'])!=len(srows):raise ValueError('Manifest pair count mismatch')
+    if manifest.get('source_commit')!='8d7a583020ffc3dee6a4e56f6cecc35a18e09436':raise ValueError('Wrong pinned source commit')
+    if manifest.get('glossary_sha256')!=sha(root/'glossary/expanded_tibetan_english_glossary.csv'):raise ValueError('Wrong pinned glossary')
     coverage=[]
     for sr,tr,expected in zip(srows,trows,manifest['pairs']):
         md=sr['metadata'];ids=md['source'].split()
@@ -99,6 +101,10 @@ def validate(root=ROOT, final=False):
     notes=json.loads((root/'translations/notes.json').read_text())
     note_map={n['id']:n for n in notes}
     if len(note_map)!=len(notes):raise ValueError('Duplicate note ID')
+    for note in notes:
+        if not note['anchors'] or not set(note['anchors'])<=set(by_id):raise ValueError('Unknown note source')
+        quoted='\n'.join(by_id[a]['tibetan'] for a in note['anchors'])
+        if not note['tibetan'] or note['tibetan'] not in quoted:raise ValueError('Note quotation differs from exact source: '+note['id'])
     definitions=re.findall(r'^\[\^([^\]]+)\]:',tfooter,re.M)
     if sorted(definitions)!=sorted(note_map):raise ValueError('Footnote definitions differ')
     all_refs=set()
@@ -112,6 +118,11 @@ def validate(root=ROOT, final=False):
             if not set(note['anchors'])<=set(by_id) or not note['anchors']:
                 raise ValueError('Incorrect note source allocation')
     if all_refs!=set(note_map):raise ValueError('Orphan note')
+    anchor_to_pair={a:p for p in manifest['pairs'] for a in p['source']}
+    for note in notes:
+        for anchor in note['anchors']:
+            if note['id'] not in anchor_to_pair[anchor]['note_ids']:
+                raise ValueError('Affected source span lacks note link: '+note['id'])
     for path,key in [(sp,'source_sha256'),(tp,'translation_sha256'),(root/'translations/notes.json','notes_sha256')]:
         if sha(path)!=manifest[key]:raise ValueError('Unrecorded canonical mutation: '+str(path.name))
     if final:
@@ -129,6 +140,8 @@ def validate(root=ROOT, final=False):
                 formats=dict(Counter(r['metadata']['format'] for r in srows)),
                 source_edition=sf['edition'],translation_edition=tf['translation-edition'],
                 independent_semantic_qc=False,final_mode=final)
+    if manifest.get('coverage_counts')!=result['coverage'] or manifest.get('format_counts')!=result['formats']:
+        raise ValueError('Manifest counts differ from canonical reading')
     return result
 
 if __name__=='__main__':

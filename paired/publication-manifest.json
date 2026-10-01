@@ -1,0 +1,35 @@
+{
+  "generated_from": [
+    "paired/source.md",
+    "paired/translation.md",
+    "translations/notes.json"
+  ],
+  "input_hashes": {
+    "paired/source.md": "5ed9090016b233477488c16a59f9a051ceed57410c959fdb5bead432648cbf45",
+    "paired/translation.md": "7ebb70f0439de323a3feaea842cc17f88348efc218f1c803ddd7c6a0c8c495dc",
+    "translations/notes.json": "724c08c7b8dc125d1f5310f99ead3fd28842b688202ac09c519861f4f3ddaba9"
+  },
+  "output_hashes": {
+    "paired/bilingual.md": "da5d711545b46219230256b22e3b7090a4fe8bfc1703660ecd252056d2263b96",
+    "paired/bilingual.html": "3a4eb1a126e31f3d67921de66d687dd22f69aa1e899b3e0a1928af284f4aaf40"
+  },
+  "counts": {
+    "pairs": 3030,
+    "anchors": 4499,
+    "notes": 136,
+    "coverage": {
+      "translated": 1896,
+      "unprocessed": 2603
+    },
+    "formats": {
+      "h1": 1,
+      "prose": 2913,
+      "verse": 114,
+      "h3": 2
+    },
+    "source_edition": "provisional-source-v0.1.0",
+    "translation_edition": "annotated-working-draft-v0.1.0",
+    "independent_semantic_qc": false,
+    "final_mode": false
+  }
+}

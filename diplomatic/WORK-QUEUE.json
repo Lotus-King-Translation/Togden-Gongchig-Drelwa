@@ -1,5 +1,9 @@
 {
-  "schema_version": 1,
-  "scope": "bounded golden-edition work only",
-  "tasks": []
+  "phase": "golden edition",
+  "status": "skipped_by_owner",
+  "decision": "D01",
+  "open_items": [],
+  "completed_editorial_interventions": 0,
+  "restored_anchors": 0,
+  "scan_checks_performed": 0
 }

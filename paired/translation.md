@@ -8,7 +8,7 @@ status: working-draft
 ---
 
 <!-- pair: TGD-000001 -->
-The Summer Drum-Word, an Ear Adornment Delighting New Conceptual Minds: An Explanation of the Single Enlightened Intent, the Sacred Dharma of Lord Drigungpa, the Essence of the Meaning Transmission of the Sage’s Teaching[^N-A-001]
+The Summer Drum Sound, an Ear Adornment Delighting New Conceptual Minds: An Explanation of the Single Enlightened Intent, the Sacred Dharma of Lord Drigungpa, the Essence of the Meaning Transmission of the Sage’s Teaching[^N-A-001]
 
 <!-- pair: TGD-000002 -->
 Namo guru ratna śrī ye. [Homage to Guru Ratnaśrī.]
@@ -58,7 +58,7 @@ Now, our destined deity, the one upon whom our flower has fallen, is the preciou
 First: the meaning of the title
 
 <!-- pair: TGD-000035 -->
-“Vajra”: the illustrative vajra signifies the vajra of the meaning illustrated. It is profound, being difficult to realize through words and conceptualizing; other erroneous views cannot overcome it. Its emptiness is indivisible, and it is rare like a precious vajra. Thus it is called “vajra”: the text of such utterances, the one hundred and fifty-two statements together with forty-seven supplements.
+“Vajra”: the illustrative vajra signifies the vajra of the meaning illustrated. It is profound, being difficult to realize through words and conceptualizing; other erroneous views cannot overcome it. Its emptiness is indivisible, and it is rare like a precious vajra. Thus it is called “vajra”: the text of such utterances, the one hundred and fifty-two statements together with forty-seven supplements.[^N-A-004]
 
 <!-- pair: TGD-000040 -->
 Second: the translator’s homage
@@ -175,1189 +175,261 @@ Supplement. Others say that the twelve branches of scripture are separate and un
 The twelve are sūtra, melodic exposition, prediction, verse, intentional utterance, occasion, exemplary account, “thus it occurred,” birth story, extensive teaching, marvel, and definitive exposition.[^N-A-015]
 
 <!-- pair: TGD-000200 -->
-[Not yet translated: U00200.]
-
-<!-- pair: TGD-000201 -->
-[Not yet translated: U00201.]
-
-<!-- pair: TGD-000202 -->
-[Not yet translated: U00202.]
-
-<!-- pair: TGD-000203 -->
-[Not yet translated: U00203.]
+The first five are the śrāvakas’ sūtra basket; the next four are the Vinaya basket; the next two are the bodhisattvas’ sūtra basket; and the final one is the Abhidharma of both.
 
 <!-- pair: TGD-000204 -->
-[Not yet translated: U00204.]
-
-<!-- pair: TGD-000205 -->
-[Not yet translated: U00205.]
-
-<!-- pair: TGD-000206 -->
-[Not yet translated: U00206.]
+Supplement. Some scholars say that the three baskets do not intersect: what is taught in Vinaya is absent from Abhidharma, and so forth; hence they are unmixed.
 
 <!-- pair: TGD-000207 -->
-[Not yet translated: U00207.]
-
-<!-- pair: TGD-000208 -->
-[Not yet translated: U00208.]
-
-<!-- pair: TGD-000209 -->
-[Not yet translated: U00209.]
-
-<!-- pair: TGD-000210 -->
-[Not yet translated: U00210.]
+Here, as with the preceding discussion of baskets, all three baskets are contained even within a single basket such as Vinaya. From the initial teaching at Vārāṇasī until final nirvāṇa in Kuśinagara, they were taught in combination. They differ only in relative emphasis; if they were separate, the three trainings would be severed from one another.
 
 <!-- pair: TGD-000211 -->
-[Not yet translated: U00211.]
-
-<!-- pair: TGD-000212 -->
-[Not yet translated: U00212.]
+Vajra statement. Other holders of the teaching say that the various vehicles, lesser and great, were turned for three distinct kinds of lineage holders.
 
 <!-- pair: TGD-000213 -->
-[Not yet translated: U00213.]
-
-<!-- pair: TGD-000214 -->
-[Not yet translated: U00214.]
-
-<!-- pair: TGD-000215 -->
-[Not yet translated: U00215.]
-
-<!-- pair: TGD-000216 -->
-[Not yet translated: U00216.]
-
-<!-- pair: TGD-000217 -->
-[Not yet translated: U00217.]
-
-<!-- pair: TGD-000218 -->
-[Not yet translated: U00218.]
-
-<!-- pair: TGD-000219 -->
-[Not yet translated: U00219.]
-
-<!-- pair: TGD-000220 -->
-[Not yet translated: U00220.]
+Our own position here is that the three aspects of the Dharma wheel were taught as distinctive methods for leading the disciples’ realization higher and higher, or for enhancing it. Someone such as Varuṇa was ripened through the Dharma wheel of the four truths, becoming unstained by afflictions. In the middle turning, those very four truths and everything from form to omniscience were taught as free from conceptual elaborations; discerning knowing that directly realizes the absence of characteristics arose. The Buddha ripened them greatly by saying, “I too am an arhat, and you too are arhats.”
 
 <!-- pair: TGD-000221 -->
-[Not yet translated: U00221.]
-
-<!-- pair: TGD-000222 -->
-[Not yet translated: U00222.]
-
-<!-- pair: TGD-000223 -->
-[Not yet translated: U00223.]
-
-<!-- pair: TGD-000224 -->
-[Not yet translated: U00224.]
-
-<!-- pair: TGD-000225 -->
-[Not yet translated: U00225.]
-
-<!-- pair: TGD-000226 -->
-[Not yet translated: U00226.]
+But realizing emptiness in that way is insufficient. To bring them into the inconceivable state, he refuted the lower position with statements such as “You are not arhats,” taught the supreme perfections of purity, happiness, permanence, and self, and prophesied their awakening. Thus the wheel of definitive meaning ripened them greatly. This is established by “Do not cling to the aggregates as awakening and hold them supreme,” and “That beginner …” and similar statements.[^N-A-016]
 
 <!-- pair: TGD-000227 -->
-[Not yet translated: U00227.]
-
-<!-- pair: TGD-000228 -->
-[Not yet translated: U00228.]
-
-<!-- pair: TGD-000229 -->
-[Not yet translated: U00229.]
-
-<!-- pair: TGD-000230 -->
-[Not yet translated: U00230.]
-
-<!-- pair: TGD-000231 -->
-[Not yet translated: U00231.]
+Supplement. Some scholars hold that the five excellences—teacher, retinue, Dharma, place, and time—encompass the Buddha’s word but do not extend to everything. Here, all six classes of saṃsāra and all nirvāṇa are held to be encompassed by the five excellences. On the side of purification, the three wheels each have Buddha’s word, treatises, and pith instructions, making nine. These, and each of the six migrations of saṃsāra, have all five excellences, beginning with a teacher.
 
 <!-- pair: TGD-000232 -->
-[Not yet translated: U00232.]
-
-<!-- pair: TGD-000233 -->
-[Not yet translated: U00233.]
-
-<!-- pair: TGD-000234 -->
-[Not yet translated: U00234.]
-
-<!-- pair: TGD-000235 -->
-[Not yet translated: U00235.]
-
-<!-- pair: TGD-000236 -->
-[Not yet translated: U00236.]
-
-<!-- pair: TGD-000237 -->
-[Not yet translated: U00237.]
-
-<!-- pair: TGD-000238 -->
-[Not yet translated: U00238.]
-
-<!-- pair: TGD-000239 -->
-[Not yet translated: U00239.]
-
-<!-- pair: TGD-000240 -->
-[Not yet translated: U00240.]
-
-<!-- pair: TGD-000241 -->
-[Not yet translated: U00241.]
-
-<!-- pair: TGD-000242 -->
-[Not yet translated: U00242.]
-
-<!-- pair: TGD-000243 -->
-[Not yet translated: U00243.]
+Vajra statement. Some say that the subject matters of the three Dharma wheels are distinct, their earlier and later teachings unmixed. Here all three—the first, second, and third—are complete in each Dharma wheel. In the first, the noble path abandons origin, the cause of suffering, and actualizes the result, cessation. In the second, one abandons origin in the form of perception’s dualistic grasping at good and bad, and origin dependent on Dharma, such as thinking, “I shall attain the seven qualities of higher rebirth.” Thus one actualizes dependent arising, emptiness, and signlessness. In the third, one abandons origin in the form of subtle habitual tendencies in the continuum of bodhisattvas abiding authentically, thereby actualizing ultimate cessation. They are alike in abandoning origin.
 
 <!-- pair: TGD-000244 -->
-[Not yet translated: U00244.]
-
-<!-- pair: TGD-000245 -->
-[Not yet translated: U00245.]
-
-<!-- pair: TGD-000246 -->
-[Not yet translated: U00246.]
-
-<!-- pair: TGD-000247 -->
-[Not yet translated: U00247.]
+In the first there are the four truths, characterized through denying and affirming; the three doors of liberation and so forth, without characteristics; and definitive meaning, the ten powers taught after Caṇḍapradyota’s three requests.[^N-A-017] These are likewise present in the other two.
 
 <!-- pair: TGD-000248 -->
-[Not yet translated: U00248.]
-
-<!-- pair: TGD-000249 -->
-[Not yet translated: U00249.]
-
-<!-- pair: TGD-000250 -->
-[Not yet translated: U00250.]
-
-<!-- pair: TGD-000251 -->
-[Not yet translated: U00251.]
-
-<!-- pair: TGD-000252 -->
-[Not yet translated: U00252.]
-
-<!-- pair: TGD-000253 -->
-[Not yet translated: U00253.]
-
-<!-- pair: TGD-000254 -->
-[Not yet translated: U00254.]
-
-<!-- pair: TGD-000255 -->
-[Not yet translated: U00255.]
-
-<!-- pair: TGD-000256 -->
-[Not yet translated: U00256.]
-
-<!-- pair: TGD-000257 -->
-[Not yet translated: U00257.]
+Vajra statement. Other scholars say that although the connected meanings of the three wheels are complete in this way, the words expressing them are sometimes unclear. Here the seed of each later teaching abides in each earlier one, so it is clear in the words too. Just as a newborn’s original body remains the basis when the child reaches maturity, what was initially taught is merely taught clearly at the final stage; nothing contradictory is taught. In the first turning, the essence of a vow is non-informative [form]; this is the seed of the middle turning.[^N-A-018] In the middle, the Explanation of Enlightened Intent says:
 
 <!-- pair: TGD-000258 -->
-[Not yet translated: U00258.]
-
-<!-- pair: TGD-000259 -->
-[Not yet translated: U00259.]
-
-<!-- pair: TGD-000260 -->
-[Not yet translated: U00260.]
-
-<!-- pair: TGD-000261 -->
-[Not yet translated: U00261.]
+The appropriating consciousness is profound and subtle;
+All its seeds flow like a river.
+Lest they conceptualize it as a self,
+I have not taught it to the immature.
 
 <!-- pair: TGD-000262 -->
-[Not yet translated: U00262.]
+And:
 
 <!-- pair: TGD-000263 -->
-[Not yet translated: U00263.]
+Perfection of discerning knowing, beyond speech, thought, and expression …
 
 <!-- pair: TGD-000264 -->
-[Not yet translated: U00264.]
-
-<!-- pair: TGD-000265 -->
-[Not yet translated: U00265.]
-
-<!-- pair: TGD-000266 -->
-[Not yet translated: U00266.]
-
-<!-- pair: TGD-000267 -->
-[Not yet translated: U00267.]
-
-<!-- pair: TGD-000268 -->
-[Not yet translated: U00268.]
+The passage continuing as far as “essence itself” is the seed of the final turning. During the final Dharma wheel the seed of mantra is also planted. The Descent into Laṅkā says:
 
 <!-- pair: TGD-000269 -->
-[Not yet translated: U00269.]
-
-<!-- pair: TGD-000270 -->
-[Not yet translated: U00270.]
-
-<!-- pair: TGD-000271 -->
-[Not yet translated: U00271.]
-
-<!-- pair: TGD-000272 -->
-[Not yet translated: U00272.]
-
-<!-- pair: TGD-000273 -->
-[Not yet translated: U00273.]
+Mahāmati, having reached the end of the levels,
+In the place of Dharma empowerment,
+The dense and delightful Akaniṣṭha,
+The authentic buddha awakens there;
+An emanation awakens here.
 
 <!-- pair: TGD-000274 -->
-[Not yet translated: U00274.]
+And in the same text:
 
 <!-- pair: TGD-000275 -->
-[Not yet translated: U00275.]
-
-<!-- pair: TGD-000276 -->
-[Not yet translated: U00276.]
-
-<!-- pair: TGD-000277 -->
-[Not yet translated: U00277.]
-
-<!-- pair: TGD-000278 -->
-[Not yet translated: U00278.]
+In the desire realm and the formless realm
+Buddhas do not fully awaken.
+In Akaniṣṭha of the form realm,
+Free from desire, you awaken.
 
 <!-- pair: TGD-000279 -->
-[Not yet translated: U00279.]
-
-<!-- pair: TGD-000280 -->
-[Not yet translated: U00280.]
+These and similar passages clearly establish how the seeds of each later teaching, beginning with the resultant vehicle, abide in the earlier causal vehicles.
 
 <!-- pair: TGD-000281 -->
-[Not yet translated: U00281.]
-
-<!-- pair: TGD-000282 -->
-[Not yet translated: U00282.]
-
-<!-- pair: TGD-000283 -->
-[Not yet translated: U00283.]
+Vajra statement. Some do not accept dividing the three wheels through three places, three times, and three kinds of lineage holders. Here the Dharma wheel is established as threefold through the decisive points of sūtra and meaning.
 
 <!-- pair: TGD-000284 -->
-[Not yet translated: U00284.]
-
-<!-- pair: TGD-000285 -->
-[Not yet translated: U00285.]
-
-<!-- pair: TGD-000286 -->
-[Not yet translated: U00286.]
-
-<!-- pair: TGD-000287 -->
-[Not yet translated: U00287.]
-
-<!-- pair: TGD-000288 -->
-[Not yet translated: U00288.]
-
-<!-- pair: TGD-000289 -->
-[Not yet translated: U00289.]
-
-<!-- pair: TGD-000290 -->
-[Not yet translated: U00290.]
+First, the Brahmā-class gods said, “Amazing! The Dharma wheel never before turned in this world by any ascetic, brahmin, god, Māra, Brahmā, or anyone else has been turned.” This establishes the first. When Subhūti taught the chapter on suchness, the gods of the pure realms scattered flowers, saying, “Amazing! We see the second Dharma wheel being turned in Jambudvīpa.” This establishes the second.
 
 <!-- pair: TGD-000291 -->
-[Not yet translated: U00291.]
-
-<!-- pair: TGD-000292 -->
-[Not yet translated: U00292.]
-
-<!-- pair: TGD-000293 -->
-[Not yet translated: U00293.]
-
-<!-- pair: TGD-000294 -->
-[Not yet translated: U00294.]
-
-<!-- pair: TGD-000295 -->
-[Not yet translated: U00295.]
-
-<!-- pair: TGD-000296 -->
-[Not yet translated: U00296.]
-
-<!-- pair: TGD-000297 -->
-[Not yet translated: U00297.]
+In the Explanation of Enlightened Intent, Paramārthasamudgata says that the Blessed One’s first turning at Vārāṇasī is surpassable, leaves an opening, has provisional meaning, and provides a basis for dispute. The second turning at Vulture Peak is likewise. The current turning leaves no opening and is unsurpassable, and so forth; this establishes it as the last. These decisive scriptural statements establish three.
 
 <!-- pair: TGD-000298 -->
-[Not yet translated: U00298.]
-
-<!-- pair: TGD-000299 -->
-[Not yet translated: U00299.]
-
-<!-- pair: TGD-000300 -->
-[Not yet translated: U00300.]
-
-<!-- pair: TGD-000301 -->
-[Not yet translated: U00301.]
-
-<!-- pair: TGD-000302 -->
-[Not yet translated: U00302.]
+Second, concerning the decisive point of meaning: the Buddha taught that stages of manifest realization are needed in the continuum as the method of abandoning saṃsāra. They arise successively in an individual’s continuum. This meaning is the same as that of the four wheels in Gampopa’s four yogas; thus three are established.[^N-A-019] The same applies to those who specifically explain higher and lower meanings in the three wheels. Therefore they cannot be divided by place, time, and the like.
 
 <!-- pair: TGD-000303 -->
-[Not yet translated: U00303.]
-
-<!-- pair: TGD-000304 -->
-[Not yet translated: U00304.]
-
-<!-- pair: TGD-000305 -->
-[Not yet translated: U00305.]
+For the Vajra Beak and other teachings were given at Vārāṇasī; the four truths and teachings on the essence, including the sūtra [title unclear], at Rājagṛha; and the four truths were taught to Subhadra at Kuśinagara.[^N-A-020]
 
 <!-- pair: TGD-000306 -->
-[Not yet translated: U00306.]
-
-<!-- pair: TGD-000307 -->
-[Not yet translated: U00307.]
-
-<!-- pair: TGD-000308 -->
-[Not yet translated: U00308.]
-
-<!-- pair: TGD-000309 -->
-[Not yet translated: U00309.]
-
-<!-- pair: TGD-000310 -->
-[Not yet translated: U00310.]
+Second, time does not divide them either. At the beginning he taught the great vehicle in his mother’s womb; immediately after awakening, the [Destroyer], [Individual Liberation], the opening of the Avataṃsaka, and so forth; in the middle, teachings involving Sudhana and the [Adornment of the Stem]; and finally the Questions on Vinaya and so forth.[^N-A-021]
 
 <!-- pair: TGD-000311 -->
-[Not yet translated: U00311.]
-
-<!-- pair: TGD-000312 -->
-[Not yet translated: U00312.]
+Third, retinues do not divide them: Maitreya and others were present in the first turning, and the excellent group of five was present in both the middle and final turnings.
 
 <!-- pair: TGD-000313 -->
-[Not yet translated: U00313.]
-
-<!-- pair: TGD-000314 -->
-[Not yet translated: U00314.]
-
-<!-- pair: TGD-000315 -->
-[Not yet translated: U00315.]
-
-<!-- pair: TGD-000316 -->
-[Not yet translated: U00316.]
-
-<!-- pair: TGD-000317 -->
-[Not yet translated: U00317.]
-
-<!-- pair: TGD-000318 -->
-[Not yet translated: U00318.]
+Vajra statement. Some proponents of nine approaches say that denial is treated in the Vinaya Analysis, affirmation in the Vinaya Bases and Minor Matters, and the resolution of doubts in the Vinaya Questions. These three—denying, affirming, and resolving doubt—are their subject matter; the four truths are extensively taught in Abhidharma, so [the teaching of the four truths] belongs to the Abhidharma basket.[^N-A-022]
 
 <!-- pair: TGD-000319 -->
-[Not yet translated: U00319.]
-
-<!-- pair: TGD-000320 -->
-[Not yet translated: U00320.]
-
-<!-- pair: TGD-000321 -->
-[Not yet translated: U00321.]
-
-<!-- pair: TGD-000322 -->
-[Not yet translated: U00322.]
-
-<!-- pair: TGD-000323 -->
-[Not yet translated: U00323.]
-
-<!-- pair: TGD-000324 -->
-[Not yet translated: U00324.]
-
-<!-- pair: TGD-000325 -->
-[Not yet translated: U00325.]
-
-<!-- pair: TGD-000326 -->
-[Not yet translated: U00326.]
-
-<!-- pair: TGD-000327 -->
-[Not yet translated: U00327.]
-
-<!-- pair: TGD-000328 -->
-[Not yet translated: U00328.]
-
-<!-- pair: TGD-000329 -->
-[Not yet translated: U00329.]
-
-<!-- pair: TGD-000330 -->
-[Not yet translated: U00330.]
+Here the Vinaya basket is the Dharma wheel of the four truths. Afflictions are [afflicted] ordinary mind, and karma is what is connected with it; from these two arises suffering as result. The Vinaya Analysis teaches the discipline of turning away from what must be abandoned: the prohibitions concerning saṃsāra’s causes and results. Its two hundred and fifty-three [rules] concern knowing suffering and abandoning origin. By relying on the lama as root and the noble path as branches, one attains cessation as result. The four Vinaya scriptures teach the discipline of engaging in what must be adopted: the prescriptions accomplishing nirvāṇa’s causes and results. Noncontravention of the forty-seven [matters], beginning with going forth, is the path; through it origin is abandoned and suffering ceases—this is the truth of cessation.[^N-A-023]
 
 <!-- pair: TGD-000331 -->
-[Not yet translated: U00331.]
-
-<!-- pair: TGD-000332 -->
-[Not yet translated: U00332.]
-
-<!-- pair: TGD-000333 -->
-[Not yet translated: U00333.]
-
-<!-- pair: TGD-000334 -->
-[Not yet translated: U00334.]
-
-<!-- pair: TGD-000335 -->
-[Not yet translated: U00335.]
-
-<!-- pair: TGD-000336 -->
-[Not yet translated: U00336.]
-
-<!-- pair: TGD-000337 -->
-[Not yet translated: U00337.]
-
-<!-- pair: TGD-000338 -->
-[Not yet translated: U00338.]
+Even the treatises explain the meaning of the four Vinaya divisions through the four truths. In terms of definite emergence: who emerges? The person, or origin. Where does one emerge? Nirvāṇa, or cessation. By what method does one emerge? Through training in denying and affirming on the noble path.[^N-A-024] The Vinaya Base of Lodgings prescribes the five-part wheel of existence at the entrance. Scripture also says:
 
 <!-- pair: TGD-000339 -->
-[Not yet translated: U00339.]
-
-<!-- pair: TGD-000340 -->
-[Not yet translated: U00340.]
-
-<!-- pair: TGD-000341 -->
-[Not yet translated: U00341.]
-
-<!-- pair: TGD-000342 -->
-[Not yet translated: U00342.]
+Monks, I and you [have wandered]—[^N-A-025]
+Not seeing the four noble truths
+Just as they are,
+We revolve on the long road.
 
 <!-- pair: TGD-000343 -->
-[Not yet translated: U00343.]
-
-<!-- pair: TGD-000344 -->
-[Not yet translated: U00344.]
+And master Nāgārjuna says:
 
 <!-- pair: TGD-000345 -->
-[Not yet translated: U00345.]
-
-<!-- pair: TGD-000346 -->
-[Not yet translated: U00346.]
-
-<!-- pair: TGD-000347 -->
-[Not yet translated: U00347.]
-
-<!-- pair: TGD-000348 -->
-[Not yet translated: U00348.]
+At Vārāṇasī in Kāśī,
+Through the wondrous Dharma wheel of liberation,
+You completely cut through the mass of afflictions—
+I bow to the four stūpas of primordial knowing.
 
 <!-- pair: TGD-000349 -->
-[Not yet translated: U00349.]
-
-<!-- pair: TGD-000350 -->
-[Not yet translated: U00350.]
+So it is stated. [The concluding phrase is uncertain:] རིག་པ་ཕའང་; there is no Vinaya apart from the four truths.[^N-A-026]
 
 <!-- pair: TGD-000351 -->
-[Not yet translated: U00351.]
-
-<!-- pair: TGD-000352 -->
-[Not yet translated: U00352.]
-
-<!-- pair: TGD-000353 -->
-[Not yet translated: U00353.]
-
-<!-- pair: TGD-000354 -->
-[Not yet translated: U00354.]
-
-<!-- pair: TGD-000355 -->
-[Not yet translated: U00355.]
-
-<!-- pair: TGD-000356 -->
-[Not yet translated: U00356.]
-
-<!-- pair: TGD-000357 -->
-[Not yet translated: U00357.]
-
-<!-- pair: TGD-000358 -->
-[Not yet translated: U00358.]
-
-<!-- pair: TGD-000359 -->
-[Not yet translated: U00359.]
+Vajra statement. Others hold that among teachings of the various vehicles, the middle turning, without characteristics, is definitive. Some classify what was told to Trapuṣa and Bhallika as first, the four truths as middle, and the absence of characteristics as definitive; teaching various vehicles is then an indeterminate wheel. [They also say] the latter two are not definitive, citing the Supreme Continuum’s “Like clouds, dreams, and illusions …”: these are provisional meanings.[^N-A-027]
 
 <!-- pair: TGD-000360 -->
-[Not yet translated: U00360.]
-
-<!-- pair: TGD-000361 -->
-[Not yet translated: U00361.]
-
-<!-- pair: TGD-000362 -->
-[Not yet translated: U00362.]
-
-<!-- pair: TGD-000363 -->
-[Not yet translated: U00363.]
-
-<!-- pair: TGD-000364 -->
-[Not yet translated: U00364.]
-
-<!-- pair: TGD-000365 -->
-[Not yet translated: U00365.]
-
-<!-- pair: TGD-000366 -->
-[Not yet translated: U00366.]
-
-<!-- pair: TGD-000367 -->
-[Not yet translated: U00367.]
+Here Lord Drigungpa holds that the teaching of various vehicles is the wheel of definitive meaning. In the sequence of stages, first cause and result are taught; in the middle, emptiness without characteristics; and finally, on that basis, emptiness engages in various causes and results and unfolds as various paths. Having taught various vehicles, he establishes a single vehicle. He also establishes the Three Jewels as permanent in their unbroken succession.
 
 <!-- pair: TGD-000368 -->
-[Not yet translated: U00368.]
-
-<!-- pair: TGD-000369 -->
-[Not yet translated: U00369.]
-
-<!-- pair: TGD-000370 -->
-[Not yet translated: U00370.]
-
-<!-- pair: TGD-000371 -->
-[Not yet translated: U00371.]
-
-<!-- pair: TGD-000372 -->
-[Not yet translated: U00372.]
-
-<!-- pair: TGD-000373 -->
-[Not yet translated: U00373.]
-
-<!-- pair: TGD-000374 -->
-[Not yet translated: U00374.]
-
-<!-- pair: TGD-000375 -->
-[Not yet translated: U00375.]
+Scripturally, the Tathāgata Essence Sūtra teaches the essence through the example of a jewel washed three times and wiped three times; thus the final teaching is definitive. The Explanation of Enlightened Intent likewise says the final turning is unsurpassable, leaves no opening, is definitive in meaning, and provides no basis for dispute, whereas the [preceding] two are surpassable and provide a basis for dispute. In terms of the stages of practice and the arising of manifest realization, too, the final turning is certainly definitive.[^N-A-028]
 
 <!-- pair: TGD-000376 -->
-[Not yet translated: U00376.]
-
-<!-- pair: TGD-000377 -->
-[Not yet translated: U00377.]
-
-<!-- pair: TGD-000378 -->
-[Not yet translated: U00378.]
+If one thinks this contradicts the statement that emptiness is definitive and cause and result provisional, that statement is made only from a particular angle. Emptiness and cause and result are inseparable; the later teaching is definitive. The chapter of the Ḍākinī Net says:
 
 <!-- pair: TGD-000379 -->
-[Not yet translated: U00379.]
-
-<!-- pair: TGD-000380 -->
-[Not yet translated: U00380.]
+If emptiness were the method,
+Buddhahood would not be attained.
 
 <!-- pair: TGD-000381 -->
-[Not yet translated: U00381.]
-
-<!-- pair: TGD-000382 -->
-[Not yet translated: U00382.]
-
-<!-- pair: TGD-000383 -->
-[Not yet translated: U00383.]
-
-<!-- pair: TGD-000384 -->
-[Not yet translated: U00384.]
-
-<!-- pair: TGD-000385 -->
-[Not yet translated: U00385.]
-
-<!-- pair: TGD-000386 -->
-[Not yet translated: U00386.]
+So it is stated. Vajra statement. Others say that among the six limits—provisional and definitive meaning, intended and unintended meaning, literal and nonliteral expression—the provisional, intended, and nonliteral are temporary expedient falsehoods, and [the other three] are definitive.[^N-A-029]
 
 <!-- pair: TGD-000387 -->
-[Not yet translated: U00387.]
-
-<!-- pair: TGD-000388 -->
-[Not yet translated: U00388.]
-
-<!-- pair: TGD-000389 -->
-[Not yet translated: U00389.]
-
-<!-- pair: TGD-000390 -->
-[Not yet translated: U00390.]
-
-<!-- pair: TGD-000391 -->
-[Not yet translated: U00391.]
-
-<!-- pair: TGD-000392 -->
-[Not yet translated: U00392.]
-
-<!-- pair: TGD-000393 -->
-[Not yet translated: U00393.]
-
-<!-- pair: TGD-000394 -->
-[Not yet translated: U00394.]
-
-<!-- pair: TGD-000395 -->
-[Not yet translated: U00395.]
-
-<!-- pair: TGD-000396 -->
-[Not yet translated: U00396.]
-
-<!-- pair: TGD-000397 -->
-[Not yet translated: U00397.]
+Here the enlightened intent of all six limits is solely definitive meaning; it is held to be reality itself. The Buddha teaches causes, results, and dependent arising just as they exist as a method of liberating beings from saṃsāra. Whatever manner of teaching he employs is the play of boundless skillful means. Since all six limits are utterances leading to the great bliss of spontaneous presence, from that standpoint all have a meaning that leads onward [provisional meaning]. Since the ways of accomplishing temporary and ultimate results, and of producing saṃsāra’s sufferings, unfailingly and certainly yield their results, all are solely definitive in meaning. In meaning there is no separate provisional and definitive. The Moon Lamp Sūtra says:
 
 <!-- pair: TGD-000398 -->
-[Not yet translated: U00398.]
-
-<!-- pair: TGD-000399 -->
-[Not yet translated: U00399.]
-
-<!-- pair: TGD-000400 -->
-[Not yet translated: U00400.]
-
-<!-- pair: TGD-000401 -->
-[Not yet translated: U00401.]
+Young one, I shall instruct and teach you.
+Have faith: there is no untruth in me.
+A sugata does not speak false words;
+The victorious one, in compassionate responsiveness, always speaks truth.
 
 <!-- pair: TGD-000402 -->
-[Not yet translated: U00402.]
-
-<!-- pair: TGD-000403 -->
-[Not yet translated: U00403.]
-
-<!-- pair: TGD-000404 -->
-[Not yet translated: U00404.]
-
-<!-- pair: TGD-000405 -->
-[Not yet translated: U00405.]
-
-<!-- pair: TGD-000406 -->
-[Not yet translated: U00406.]
-
-<!-- pair: TGD-000407 -->
-[Not yet translated: U00407.]
-
-<!-- pair: TGD-000408 -->
-[Not yet translated: U00408.]
+And the Golden Light says, “The teacher of truth does not deceive,” and there are boundless similar passages. Because of compassionate responsiveness, seeing dependent arising as it is, and accomplishing beings’ benefit and happiness, all is solely definitive meaning. To divide it into true and false accumulates karma for birth in the Unremitting Hell: be careful what you let your ears accept.[^N-A-030] Therefore the enlightened intent of the six limits is held to be solely definitive meaning.
 
 <!-- pair: TGD-000409 -->
-[Not yet translated: U00409.]
-
-<!-- pair: TGD-000410 -->
-[Not yet translated: U00410.]
-
-<!-- pair: TGD-000411 -->
-[Not yet translated: U00411.]
-
-<!-- pair: TGD-000412 -->
-[Not yet translated: U00412.]
-
-<!-- pair: TGD-000413 -->
-[Not yet translated: U00413.]
-
-<!-- pair: TGD-000414 -->
-[Not yet translated: U00414.]
-
-<!-- pair: TGD-000415 -->
-[Not yet translated: U00415.]
-
-<!-- pair: TGD-000416 -->
-[Not yet translated: U00416.]
+Vajra statement. Others say that the great vehicle’s Middle Way and Ordinary-Mind-Only systems have distinct Buddha-word: the Perfection teachings, and the four Ordinary-Mind-Only sūtras such as the Avataṃsaka. Likewise, among treatises Maitreya composed the Ornament of Manifest Realization and Supreme Continuum for the first, and the Ornament and the two Distinctions for the second. The noble father and son composed the reasoning collections explaining the enlightened intent of the Middle Way, while Asaṅga and his brother composed explanations of the enlightened intent of Ordinary Mind Only, such as the higher and lower Abhidharma. In brief, examined through either Buddha-word or treatise, Middle Way and Ordinary Mind Only are distinct.[^N-A-031]
 
 <!-- pair: TGD-000417 -->
-[Not yet translated: U00417.]
-
-<!-- pair: TGD-000418 -->
-[Not yet translated: U00418.]
-
-<!-- pair: TGD-000419 -->
-[Not yet translated: U00419.]
+Here the Buddha-word of Ordinary Mind Only teaches the meaning of the Middle Way free from extremes. This is established through Buddha-word, treatises, and the lama’s pith instructions. First, the Descent into Laṅkā says:
 
 <!-- pair: TGD-000420 -->
-[Not yet translated: U00420.]
-
-<!-- pair: TGD-000421 -->
-[Not yet translated: U00421.]
-
-<!-- pair: TGD-000422 -->
-[Not yet translated: U00422.]
-
-<!-- pair: TGD-000423 -->
-[Not yet translated: U00423.]
+Realizing ordinary mind only,
+Making all things clear,
+And turning back conceptual thought about external things—
+That very path is the Middle Way.
 
 <!-- pair: TGD-000424 -->
-[Not yet translated: U00424.]
-
-<!-- pair: TGD-000425 -->
-[Not yet translated: U00425.]
-
-<!-- pair: TGD-000426 -->
-[Not yet translated: U00426.]
-
-<!-- pair: TGD-000427 -->
-[Not yet translated: U00427.]
-
-<!-- pair: TGD-000428 -->
-[Not yet translated: U00428.]
-
-<!-- pair: TGD-000429 -->
-[Not yet translated: U00429.]
-
-<!-- pair: TGD-000430 -->
-[Not yet translated: U00430.]
-
-<!-- pair: TGD-000431 -->
-[Not yet translated: U00431.]
+Second, the noble master who saw the extremes of existence and nonexistence was foretold in twenty-one sūtras and tantras. Yet these predictions rely on Buddha-word of Ordinary Mind Only—the Great Drum, the Descent into Laṅkā, the Mañjuśrī Root Tantra, and so forth—rather than on the Perfection or Middle Way Buddha-word. Since they say he will turn the Dharma wheel, the scriptures containing the prediction are understood as the Dharma that this person would teach.
 
 <!-- pair: TGD-000432 -->
-[Not yet translated: U00432.]
-
-<!-- pair: TGD-000433 -->
-[Not yet translated: U00433.]
-
-<!-- pair: TGD-000434 -->
-[Not yet translated: U00434.]
+Third, in pith instruction too, when Ordinary Mind Only establishes all phenomena within ordinary mind, ordinary mind itself is the Middle Way free from conceptual elaborations. For it is said, “The intrinsic nature of ordinary mind is clear light.”
 
 <!-- pair: TGD-000435 -->
-[Not yet translated: U00435.]
-
-<!-- pair: TGD-000436 -->
-[Not yet translated: U00436.]
-
-<!-- pair: TGD-000437 -->
-[Not yet translated: U00437.]
-
-<!-- pair: TGD-000438 -->
-[Not yet translated: U00438.]
-
-<!-- pair: TGD-000439 -->
-[Not yet translated: U00439.]
-
-<!-- pair: TGD-000440 -->
-[Not yet translated: U00440.]
-
-<!-- pair: TGD-000441 -->
-[Not yet translated: U00441.]
-
-<!-- pair: TGD-000442 -->
-[Not yet translated: U00442.]
-
-<!-- pair: TGD-000443 -->
-[Not yet translated: U00443.]
-
-<!-- pair: TGD-000444 -->
-[Not yet translated: U00444.]
+Supplement. Other scholars say that, when the Buddha’s Dharma is divided into baskets, the four Vinaya scriptures constitute the Vinaya basket, and what are now known as the collected sūtras constitute the Sūtra basket. Of higher and lower Abhidharma, the higher is absent from Tibet because it was destroyed by three: the non-Buddhist old woman Drakhen, the beggar Nyima Ngödrup, and the king of Tazik. The second comprises Entering Ordinary Mind, the Collection of Consciousness, Thorough Analysis, the Dharma Aggregate, Designation, and Authentic Progress. These seven were composed by seven śrāvakas and are the lower; there is no separate higher.[^N-A-032]
 
 <!-- pair: TGD-000445 -->
-[Not yet translated: U00445.]
-
-<!-- pair: TGD-000446 -->
-[Not yet translated: U00446.]
-
-<!-- pair: TGD-000447 -->
-[Not yet translated: U00447.]
-
-<!-- pair: TGD-000448 -->
-[Not yet translated: U00448.]
-
-<!-- pair: TGD-000449 -->
-[Not yet translated: U00449.]
-
-<!-- pair: TGD-000450 -->
-[Not yet translated: U00450.]
+Here the common sūtras and the uncommon sūtras teaching Ordinary Mind Only are held to be the Abhidharma basket. The four truths are Vinaya; absence of characteristics is Sūtra; the wheel of definitive meaning, including essence sūtras and the four Ordinary-Mind-Only sūtras, is Abhidharma, without higher and lower divisions.[^N-A-033] The reason is that Abhidharma teaches superior discerning knowing. Its ultimate meaning is not mere emptiness as a nonaffirming negation. The definitive wheel teaches the union of appearance and emptiness, the Dharma embodiment, permanent in its uninterrupted succession.
 
 <!-- pair: TGD-000451 -->
-[Not yet translated: U00451.]
-
-<!-- pair: TGD-000452 -->
-[Not yet translated: U00452.]
-
-<!-- pair: TGD-000453 -->
-[Not yet translated: U00453.]
-
-<!-- pair: TGD-000454 -->
-[Not yet translated: U00454.]
-
-<!-- pair: TGD-000455 -->
-[Not yet translated: U00455.]
-
-<!-- pair: TGD-000456 -->
-[Not yet translated: U00456.]
-
-<!-- pair: TGD-000457 -->
-[Not yet translated: U00457.]
-
-<!-- pair: TGD-000458 -->
-[Not yet translated: U00458.]
+Vajra statement. Most masters hold that false conventional things, such as the moon in water, cannot perform a function. Here even these are held capable of functioning. By examining a reflected moon or image as unestablished in intrinsic nature, [one sees] truth; an ordinary mind that realizes it, the action accomplished through that, and its ripening arise.[^N-A-034]
 
 <!-- pair: TGD-000459 -->
-[Not yet translated: U00459.]
-
-<!-- pair: TGD-000460 -->
-[Not yet translated: U00460.]
-
-<!-- pair: TGD-000461 -->
-[Not yet translated: U00461.]
-
-<!-- pair: TGD-000462 -->
-[Not yet translated: U00462.]
-
-<!-- pair: TGD-000463 -->
-[Not yet translated: U00463.]
-
-<!-- pair: TGD-000464 -->
-[Not yet translated: U00464.]
-
-<!-- pair: TGD-000465 -->
-[Not yet translated: U00465.]
-
-<!-- pair: TGD-000466 -->
-[Not yet translated: U00466.]
-
-<!-- pair: TGD-000467 -->
-[Not yet translated: U00467.]
+In the Sūtra of Repaying Kindness, Queen Mṛgāvatī’s five hundred sons attained solitary awakening upon seeing their own reflections in a pond. The great brahmin realized Mahāmudrā upon seeing a plant’s reflection in liquor held in a skull cup.[^N-A-035] In Vinaya scripture, seeing the moon in water brought about the death of five hundred monkeys. That reflected moon appears to everyone in accordance with the abiding character of dependent arising; it arises from the causes and conditions of space and water. Thus it has all four defining characteristics, and no distinction is made on that basis.
 
 <!-- pair: TGD-000468 -->
-[Not yet translated: U00468.]
-
-<!-- pair: TGD-000469 -->
-[Not yet translated: U00469.]
-
-<!-- pair: TGD-000470 -->
-[Not yet translated: U00470.]
-
-<!-- pair: TGD-000471 -->
-[Not yet translated: U00471.]
-
-<!-- pair: TGD-000472 -->
-[Not yet translated: U00472.]
-
-<!-- pair: TGD-000473 -->
-[Not yet translated: U00473.]
-
-<!-- pair: TGD-000474 -->
-[Not yet translated: U00474.]
-
-<!-- pair: TGD-000475 -->
-[Not yet translated: U00475.]
+Then what is the distinction? Action motivated by a virtuous ordinary mind free from affliction, together with its ripening, is authentic conventionality; its opposite is false conventionality. Master Nāgārjuna says, “The stairs of the two, authentic and conventional …,” and so forth.[^N-A-036] Śāntideva says:
 
 <!-- pair: TGD-000476 -->
-[Not yet translated: U00476.]
-
-<!-- pair: TGD-000477 -->
-[Not yet translated: U00477.]
+All these branches
+The Sage taught for the sake of discerning knowing.
 
 <!-- pair: TGD-000478 -->
-[Not yet translated: U00478.]
+So it is stated.
 
 <!-- pair: TGD-000479 -->
-[Not yet translated: U00479.]
-
-<!-- pair: TGD-000480 -->
-[Not yet translated: U00480.]
-
-<!-- pair: TGD-000481 -->
-[Not yet translated: U00481.]
-
-<!-- pair: TGD-000482 -->
-[Not yet translated: U00482.]
-
-<!-- pair: TGD-000483 -->
-[Not yet translated: U00483.]
-
-<!-- pair: TGD-000484 -->
-[Not yet translated: U00484.]
-
-<!-- pair: TGD-000485 -->
-[Not yet translated: U00485.]
-
-<!-- pair: TGD-000486 -->
-[Not yet translated: U00486.]
-
-<!-- pair: TGD-000487 -->
-[Not yet translated: U00487.]
+Vajra statement. Some say that although the path of the vehicle of characteristics traverses ten levels, the mantra path is simultaneous and need not traverse them; it is something different. Here, however, all paths traverse the ten levels. Whether sūtra or mantra, one proceeds through the levels in sequence from the first level, the path of seeing, to the last moment of the tenth. In both, progress is faster or slower according to the greater or lesser cognitive obscurations and whether prior training has taken place.
 
 <!-- pair: TGD-000488 -->
-[Not yet translated: U00488.]
-
-<!-- pair: TGD-000489 -->
-[Not yet translated: U00489.]
-
-<!-- pair: TGD-000490 -->
-[Not yet translated: U00490.]
-
-<!-- pair: TGD-000491 -->
-[Not yet translated: U00491.]
-
-<!-- pair: TGD-000492 -->
-[Not yet translated: U00492.]
-
-<!-- pair: TGD-000493 -->
-[Not yet translated: U00493.]
-
-<!-- pair: TGD-000494 -->
-[Not yet translated: U00494.]
-
-<!-- pair: TGD-000495 -->
-[Not yet translated: U00495.]
-
-<!-- pair: TGD-000496 -->
-[Not yet translated: U00496.]
-
-<!-- pair: TGD-000497 -->
-[Not yet translated: U00497.]
-
-<!-- pair: TGD-000498 -->
-[Not yet translated: U00498.]
+Even in the vehicle of characteristics, the Great Secret: Skill in Means recounts how the bodhisattva Joy-Maker, at the first level, saw the way afflictions abide and attained the eighth. In mantra, too, the master-king’s attainment of buddhahood in one life did not mean reaching a higher level without traversing the lower. It is like piercing stacked utpala petals with a needle. When long accumulation, the proximate cause of diligence, and the lama’s blessing come together, the higher [realizations] arise together.[^N-A-037] Apart from differences of method, both accomplish the same causes and result of buddhahood.
 
 <!-- pair: TGD-000499 -->
-[Not yet translated: U00499.]
-
-<!-- pair: TGD-000500 -->
-[Not yet translated: U00500.]
-
-<!-- pair: TGD-000501 -->
-[Not yet translated: U00501.]
-
-<!-- pair: TGD-000502 -->
-[Not yet translated: U00502.]
-
-<!-- pair: TGD-000503 -->
-[Not yet translated: U00503.]
-
-<!-- pair: TGD-000504 -->
-[Not yet translated: U00504.]
+Vajra statement. Some others hold that manifest realization on the path proceeds in two ways: gradually, as on rungs, like the noble master, or simultaneously, like the great brahmin.[^N-A-038] Here even these are certainly only successive entry. Leaving aside the vehicle of characteristics, even in mantra the Hevajra says:
 
 <!-- pair: TGD-000505 -->
-[Not yet translated: U00505.]
-
-<!-- pair: TGD-000506 -->
-[Not yet translated: U00506.]
+First the restoration-and-purification observance should be taught;
+After that, the trainings …
 
 <!-- pair: TGD-000507 -->
-[Not yet translated: U00507.]
-
-<!-- pair: TGD-000508 -->
-[Not yet translated: U00508.]
-
-<!-- pair: TGD-000509 -->
-[Not yet translated: U00509.]
-
-<!-- pair: TGD-000510 -->
-[Not yet translated: U00510.]
+This passage, and the preceding utpala example, show that simultaneous passage without successive traversal is impossible; thus succession is certain. If one asks how this statement applies, even in the vehicle of characteristics it is said:
 
 <!-- pair: TGD-000511 -->
-[Not yet translated: U00511.]
-
-<!-- pair: TGD-000512 -->
-[Not yet translated: U00512.]
+Through a single instant of knowing,
+Pervading the entire circle of knowables …
 
 <!-- pair: TGD-000513 -->
-[Not yet translated: U00513.]
-
-<!-- pair: TGD-000514 -->
-[Not yet translated: U00514.]
-
-<!-- pair: TGD-000515 -->
-[Not yet translated: U00515.]
-
-<!-- pair: TGD-000516 -->
-[Not yet translated: U00516.]
+Thus knowledge of all aspects is attained in a single instant; in this respect they are alike. If one thinks they differ because the accumulations require three incalculable aeons, accumulation has likewise preceded attainment in mantra. Otherwise one would have to admit a result without a cause.
 
 <!-- pair: TGD-000517 -->
-[Not yet translated: U00517.]
-
-<!-- pair: TGD-000518 -->
-[Not yet translated: U00518.]
-
-<!-- pair: TGD-000519 -->
-[Not yet translated: U00519.]
-
-<!-- pair: TGD-000520 -->
-[Not yet translated: U00520.]
-
-<!-- pair: TGD-000521 -->
-[Not yet translated: U00521.]
-
-<!-- pair: TGD-000522 -->
-[Not yet translated: U00522.]
-
-<!-- pair: TGD-000523 -->
-[Not yet translated: U00523.]
-
-<!-- pair: TGD-000524 -->
-[Not yet translated: U00524.]
-
-<!-- pair: TGD-000525 -->
-[Not yet translated: U00525.]
+Vajra statement. The three obscurations to primordial knowing—karmic, afflictive, and cognitive—are said to be, respectively, confusion about karmic causes and results, imputed [ignorance], and co-emergent ignorance or confusion about reality. Their successive abandonment is said to occur [at the first level and below; at the seventh and above;] with cognitive obscurations abandoned at the last moment of the tenth level.[^N-A-039]
 
 <!-- pair: TGD-000526 -->
-[Not yet translated: U00526.]
-
-<!-- pair: TGD-000527 -->
-[Not yet translated: U00527.]
-
-<!-- pair: TGD-000528 -->
-[Not yet translated: U00528.]
-
-<!-- pair: TGD-000529 -->
-[Not yet translated: U00529.]
-
-<!-- pair: TGD-000530 -->
-[Not yet translated: U00530.]
-
-<!-- pair: TGD-000531 -->
-[Not yet translated: U00531.]
-
-<!-- pair: TGD-000532 -->
-[Not yet translated: U00532.]
-
-<!-- pair: TGD-000533 -->
-[Not yet translated: U00533.]
-
-<!-- pair: TGD-000534 -->
-[Not yet translated: U00534.]
+Here cognitive obscurations may also be abandoned first. Jetsün Mila told Dagpo, “I hold that cognitive obscurations are to be abandoned first.” The reason is that after a lama gives pith instruction and subsequent guidance, cultivation must give rise to manifest realization that abandons karmic and afflictive obscurations. For that to arise, co-emergent ignorance must be abandoned, since what obscures the object to be realized is a cognitive obscuration. Therefore some with sharp faculties abandon cognitive obscurations first.
 
 <!-- pair: TGD-000535 -->
-[Not yet translated: U00535.]
-
-<!-- pair: TGD-000536 -->
-[Not yet translated: U00536.]
-
-<!-- pair: TGD-000537 -->
-[Not yet translated: U00537.]
-
-<!-- pair: TGD-000538 -->
-[Not yet translated: U00538.]
-
-<!-- pair: TGD-000539 -->
-[Not yet translated: U00539.]
-
-<!-- pair: TGD-000540 -->
-[Not yet translated: U00540.]
-
-<!-- pair: TGD-000541 -->
-[Not yet translated: U00541.]
-
-<!-- pair: TGD-000542 -->
-[Not yet translated: U00542.]
-
-<!-- pair: TGD-000543 -->
-[Not yet translated: U00543.]
-
-<!-- pair: TGD-000544 -->
-[Not yet translated: U00544.]
-
-<!-- pair: TGD-000545 -->
-[Not yet translated: U00545.]
+Vajra statement. Some hold that valid cognition is shared with Vedic reasoning and serves only to repel outsiders’ objections, so it is not the Buddha’s Dharma. Here valid cognition means unfailing knowing; in its fullest sense it is solely the Buddha’s primordial knowing. The Three Heaps says, “Become primordial knowing; become the eye; become power; become valid cognition.” Dignāga says:
 
 <!-- pair: TGD-000546 -->
-[Not yet translated: U00546.]
-
-<!-- pair: TGD-000547 -->
-[Not yet translated: U00547.]
+To the one who has become valid cognition, who wishes to benefit beings,
+The Teacher, the sugata, I bow.
 
 <!-- pair: TGD-000548 -->
-[Not yet translated: U00548.]
-
-<!-- pair: TGD-000549 -->
-[Not yet translated: U00549.]
-
-<!-- pair: TGD-000550 -->
-[Not yet translated: U00550.]
-
-<!-- pair: TGD-000551 -->
-[Not yet translated: U00551.]
-
-<!-- pair: TGD-000552 -->
-[Not yet translated: U00552.]
-
-<!-- pair: TGD-000553 -->
-[Not yet translated: U00553.]
-
-<!-- pair: TGD-000554 -->
-[Not yet translated: U00554.]
-
-<!-- pair: TGD-000555 -->
-[Not yet translated: U00555.]
+And Dharmakīrti’s Ascertainment of Valid Cognition says: “Attaining what benefits and abandoning what does not necessarily depend on prior authentic knowing. For those who do not know this, I compose this work.” From the temporary arising of even a little purposeful conceptual mind up to the attainment of buddhahood, free from faults and complete in qualities, all is accomplished through authentic knowing. For primordial knowing of the ten powers is authentic knowing.
 
 <!-- pair: TGD-000556 -->
-[Not yet translated: U00556.]
-
-<!-- pair: TGD-000557 -->
-[Not yet translated: U00557.]
-
-<!-- pair: TGD-000558 -->
-[Not yet translated: U00558.]
+Vajra statement. Some say that logical valid cognition only refutes tenet systems and has no result; they cite the Lord:[^N-A-040]
 
 <!-- pair: TGD-000559 -->
-[Not yet translated: U00559.]
-
-<!-- pair: TGD-000560 -->
-[Not yet translated: U00560.]
-
-<!-- pair: TGD-000561 -->
-[Not yet translated: U00561.]
+Direct perception and inference serve no purpose;
+To repel non-Buddhist disputants,
+Scholars devised them.
 
 <!-- pair: TGD-000562 -->
-[Not yet translated: U00562.]
-
-<!-- pair: TGD-000563 -->
-[Not yet translated: U00563.]
-
-<!-- pair: TGD-000564 -->
-[Not yet translated: U00564.]
-
-<!-- pair: TGD-000565 -->
-[Not yet translated: U00565.]
-
-<!-- pair: TGD-000566 -->
-[Not yet translated: U00566.]
+Thus some say. Here valid cognition teaches profound emptiness as its result. Valid cognition comprises three: the domain that is the object of comprehension, the conceptual mind that comprehends, and the means by which it is realized.
 
 <!-- pair: TGD-000567 -->
-[Not yet translated: U00567.]
-
-<!-- pair: TGD-000568 -->
-[Not yet translated: U00568.]
-
-<!-- pair: TGD-000569 -->
-[Not yet translated: U00569.]
-
-<!-- pair: TGD-000570 -->
-[Not yet translated: U00570.]
-
-<!-- pair: TGD-000571 -->
-[Not yet translated: U00571.]
-
-<!-- pair: TGD-000572 -->
-[Not yet translated: U00572.]
-
-<!-- pair: TGD-000573 -->
-[Not yet translated: U00573.]
-
-<!-- pair: TGD-000574 -->
-[Not yet translated: U00574.]
-
-<!-- pair: TGD-000575 -->
-[Not yet translated: U00575.]
+From the standpoint of object and essence there are three [pairs]: existent and nonexistent things, conditioned and unconditioned, hidden and extremely hidden.[^N-A-041] As instruments of comprehension, conceptual mind, awareness, and knowing have one meaning here. They are of two kinds: direct perception and inference. Direct perception includes sensory, mental-faculty, self-awareness, and yogic direct perception. Inference has three kinds: through the force of things, through renown, and through trust. The means of realization—contradiction and relation, denying and affirming, universal and particular, one and distinct, eliminative engagement, affirmative engagement, exclusion of other, definition and defined, substance and conceptual isolate, and the two kinds of inference—are the subject matter of valid cognition.
 
 <!-- pair: TGD-000576 -->
-[Not yet translated: U00576.]
-
-<!-- pair: TGD-000577 -->
-[Not yet translated: U00577.]
-
-<!-- pair: TGD-000578 -->
-[Not yet translated: U00578.]
-
-<!-- pair: TGD-000579 -->
-[Not yet translated: U00579.]
-
-<!-- pair: TGD-000580 -->
-[Not yet translated: U00580.]
-
-<!-- pair: TGD-000581 -->
-[Not yet translated: U00581.]
-
-<!-- pair: TGD-000582 -->
-[Not yet translated: U00582.]
+Inference for oneself uses a reason complete in the three modes: “Consider things grasped as truly existent: they have no true arising, because they are free of being one or many, like a reflection.” This teaches emptiness, the mode of being in which intrinsic nature is unestablished. The Commentary on Valid Cognition likewise says:
 
 <!-- pair: TGD-000583 -->
-[Not yet translated: U00583.]
-
-<!-- pair: TGD-000584 -->
-[Not yet translated: U00584.]
-
-<!-- pair: TGD-000585 -->
-[Not yet translated: U00585.]
-
-<!-- pair: TGD-000586 -->
-[Not yet translated: U00586.]
+When a thing is thoroughly examined,[^N-A-042]
+In reality that thing does not exist,
+Because these things lack
+The intrinsic nature of one or many.
 
 <!-- pair: TGD-000587 -->
-[Not yet translated: U00587.]
+And:
 
 <!-- pair: TGD-000588 -->
-[Not yet translated: U00588.]
-
-<!-- pair: TGD-000589 -->
-[Not yet translated: U00589.]
-
-<!-- pair: TGD-000590 -->
-[Not yet translated: U00590.]
-
-<!-- pair: TGD-000591 -->
-[Not yet translated: U00591.]
+Having wholly cleared the net of conceptual thought,
+Possessing an embodiment profound and vast,
+Samantabhadra’s rays of light
+Proliferate everywhere—to him I bow.
 
 <!-- pair: TGD-000592 -->
-[Not yet translated: U00592.]
-
-<!-- pair: TGD-000593 -->
-[Not yet translated: U00593.]
-
-<!-- pair: TGD-000594 -->
-[Not yet translated: U00594.]
+Thus valid cognition is established to have a result: that yogic direct perception is the truth of the path of seeing.[^N-A-043]
 
 <!-- pair: TGD-000595 -->
 [Not yet translated: U00595.]
@@ -4917,1108 +3989,272 @@ In that vehicle of hearers,
 “The ordinary mind of awakening …,” and “Without realizing signlessness …,” and so forth.
 
 <!-- pair: TGD-002044 -->
-[Not yet translated: U02044.]
-
-<!-- pair: TGD-002045 -->
-[Not yet translated: U02045.]
-
-<!-- pair: TGD-002046 -->
-[Not yet translated: U02046.]
-
-<!-- pair: TGD-002047 -->
-[Not yet translated: U02047.]
-
-<!-- pair: TGD-002048 -->
-[Not yet translated: U02048.]
-
-<!-- pair: TGD-002049 -->
-[Not yet translated: U02049.]
+Vajra statement. Taking as the subject the Ordinary-Mind-Only school’s claim that knowing empty of apprehended object and apprehending subject, self-aware and self-clear, is truly established: others say it is not established as self-aware and self-clear because what is aware and what it is aware of conflict. Object and object-possessor are relative, and self-awareness is not established; therefore they do not see the truth of the nature of phenomena.[^N-B-028]
 
 <!-- pair: TGD-002050 -->
-[Not yet translated: U02050.]
-
-<!-- pair: TGD-002051 -->
-[Not yet translated: U02051.]
+Here the Ordinary-Mind-Only school’s clear realization equals the clear realization of the bodhisattva’s seventh level, Far Gone. The Descent to Lanka says:
 
 <!-- pair: TGD-002052 -->
-[Not yet translated: U02052.]
-
-<!-- pair: TGD-002053 -->
-[Not yet translated: U02053.]
-
-<!-- pair: TGD-002054 -->
-[Not yet translated: U02054.]
-
-<!-- pair: TGD-002055 -->
-[Not yet translated: U02055.]
-
-<!-- pair: TGD-002056 -->
-[Not yet translated: U02056.]
+Ordinary-Mind-Only is the seventh;
+Absence of appearance is the eighth level.
+Two levels are abodes;
+The eleventh is the level of great primordial knowing.
+That is my level.
 
 <!-- pair: TGD-002057 -->
-[Not yet translated: U02057.]
-
-<!-- pair: TGD-002058 -->
-[Not yet translated: U02058.]
-
-<!-- pair: TGD-002059 -->
-[Not yet translated: U02059.]
-
-<!-- pair: TGD-002060 -->
-[Not yet translated: U02060.]
+So it is taught. At the sixth level, discerning knowing becomes manifest: realization of dependent arising in forward and reverse order is called discerning knowing that realizes ignorance. Realizing external and internal phenomena as ordinary mind, one can transform anything; that is the perfection of means.
 
 <!-- pair: TGD-002061 -->
-[Not yet translated: U02061.]
-
-<!-- pair: TGD-002062 -->
-[Not yet translated: U02062.]
-
-<!-- pair: TGD-002063 -->
-[Not yet translated: U02063.]
-
-<!-- pair: TGD-002064 -->
-[Not yet translated: U02064.]
-
-<!-- pair: TGD-002065 -->
-[Not yet translated: U02065.]
-
-<!-- pair: TGD-002066 -->
-[Not yet translated: U02066.]
-
-<!-- pair: TGD-002067 -->
-[Not yet translated: U02067.]
+The Extensive Sutra too says: “Children of the victors, the three realms are ordinary mind alone. The three times too are realized as equal to ordinary mind. That ordinary mind too is comprehended as without edge or center.” This is also explained well in the passage, “The teaching of Ordinary-Mind-Only teaches the Middle Way.”
 
 <!-- pair: TGD-002068 -->
-[Not yet translated: U02068.]
-
-<!-- pair: TGD-002069 -->
-[Not yet translated: U02069.]
-
-<!-- pair: TGD-002070 -->
-[Not yet translated: U02070.]
-
-<!-- pair: TGD-002071 -->
-[Not yet translated: U02071.]
-
-<!-- pair: TGD-002072 -->
-[Not yet translated: U02072.]
-
-<!-- pair: TGD-002073 -->
-[Not yet translated: U02073.]
-
-<!-- pair: TGD-002074 -->
-[Not yet translated: U02074.]
+Vajra statement. Samsara’s root is the personal self, held to be permanent, unitary, and autonomous: strongly clinging to the appropriated aggregates, one apprehends a self as a substance, a succession, an imputation, and so forth. Even without an apprehended personal self, claiming that external and internal phenomena arising merely through dependent arising exist is the self of phenomena. Protector Maitreya and Nagarjuna are said to contradict one another because they maintain, respectively, that its lack of intrinsic nature is realized at the first level and at the eighth.
 
 <!-- pair: TGD-002075 -->
-[Not yet translated: U02075.]
-
-<!-- pair: TGD-002076 -->
-[Not yet translated: U02076.]
-
-<!-- pair: TGD-002077 -->
-[Not yet translated: U02077.]
-
-<!-- pair: TGD-002078 -->
-[Not yet translated: U02078.]
-
-<!-- pair: TGD-002079 -->
-[Not yet translated: U02079.]
-
-<!-- pair: TGD-002080 -->
-[Not yet translated: U02080.]
-
-<!-- pair: TGD-002081 -->
-[Not yet translated: U02081.]
-
-<!-- pair: TGD-002082 -->
-[Not yet translated: U02082.]
-
-<!-- pair: TGD-002083 -->
-[Not yet translated: U02083.]
-
-<!-- pair: TGD-002084 -->
-[Not yet translated: U02084.]
+Here the two do not conflict. Their enlightened intent agrees that the absence of intrinsic nature in the self of phenomena is made manifest at the eighth level. If both kinds of selflessness were realized at the first level, the designation Far Gone would have no application. The enlightened intent concerning the first level is realization that the personal self apprehended in the aggregates lacks intrinsic nature. Realization that even the mere appearance of dependently arising phenomena lacks intrinsic nature—the selflessness of phenomena—occurs at the eighth. Both have the same enlightened intent. The Vast Play says:
 
 <!-- pair: TGD-002085 -->
-[Not yet translated: U02085.]
-
-<!-- pair: TGD-002086 -->
-[Not yet translated: U02086.]
-
-<!-- pair: TGD-002087 -->
-[Not yet translated: U02087.]
-
-<!-- pair: TGD-002088 -->
-[Not yet translated: U02088.]
+When I attained forbearance that here
+There is neither birth nor death,
+And all these phenomena lack intrinsic nature and self,
+Buddha Dipankara gave me his prediction.
 
 <!-- pair: TGD-002089 -->
-[Not yet translated: U02089.]
-
-<!-- pair: TGD-002090 -->
-[Not yet translated: U02090.]
-
-<!-- pair: TGD-002091 -->
-[Not yet translated: U02091.]
-
-<!-- pair: TGD-002092 -->
-[Not yet translated: U02092.]
-
-<!-- pair: TGD-002093 -->
-[Not yet translated: U02093.]
-
-<!-- pair: TGD-002094 -->
-[Not yet translated: U02094.]
+And the Sutra of the Questions of Vikurvanaraja says: “Only after realizing the selflessness of phenomena did I see a buddha.” Asked, “Did you not see one during two incalculable eons?” he answered, “I saw the transitory collection.” The Prediction of Dipankara says the same.
 
 <!-- pair: TGD-002095 -->
-[Not yet translated: U02095.]
-
-<!-- pair: TGD-002096 -->
-[Not yet translated: U02096.]
-
-<!-- pair: TGD-002097 -->
-[Not yet translated: U02097.]
+Statements that both are realized at the “first” refer to the eighth level, which is first among the pure levels and the youthful levels. Such scriptural passages and reasoning establish this.
 
 <!-- pair: TGD-002098 -->
-[Not yet translated: U02098.]
-
-<!-- pair: TGD-002099 -->
-[Not yet translated: U02099.]
-
-<!-- pair: TGD-002100 -->
-[Not yet translated: U02100.]
-
-<!-- pair: TGD-002101 -->
-[Not yet translated: U02101.]
-
-<!-- pair: TGD-002102 -->
-[Not yet translated: U02102.]
-
-<!-- pair: TGD-002103 -->
-[Not yet translated: U02103.]
-
-<!-- pair: TGD-002104 -->
-[Not yet translated: U02104.]
+Vajra statement. Others maintain that, among the ten levels and five paths, accumulation and preparation are worldly: the name “path” is applied to their cause. Seeing and cultivation are actual paths beyond the world; the final path is the result designated as a path. The ten levels are stages of clear realization. Beginning with the path of seeing, one proceeds through distinct [deep absorptions], such as Heroic Progress and finally the vajralike deep absorption; when the higher is realized, the lower is discarded.
 
 <!-- pair: TGD-002105 -->
-[Not yet translated: U02105.]
-
-<!-- pair: TGD-002106 -->
-[Not yet translated: U02106.]
+Here one traverses every level and path up to their culmination through the single essence of clear realization of the truth on the path of seeing. The King of Deep Absorption says:
 
 <!-- pair: TGD-002107 -->
-[Not yet translated: U02107.]
-
-<!-- pair: TGD-002108 -->
-[Not yet translated: U02108.]
-
-<!-- pair: TGD-002109 -->
-[Not yet translated: U02109.]
-
-<!-- pair: TGD-002110 -->
-[Not yet translated: U02110.]
+Whoever holds that supreme deep absorption
+Will attain Radiant, Hard to Purify, Manifest,
+Far Gone, Unmoving, Good Conceptual Mind,
+And Cloud of Dharma—the ten levels.
 
 <!-- pair: TGD-002111 -->
-[Not yet translated: U02111.]
-
-<!-- pair: TGD-002112 -->
-[Not yet translated: U02112.]
-
-<!-- pair: TGD-002113 -->
-[Not yet translated: U02113.]
-
-<!-- pair: TGD-002114 -->
-[Not yet translated: U02114.]
-
-<!-- pair: TGD-002115 -->
-[Not yet translated: U02115.]
-
-<!-- pair: TGD-002116 -->
-[Not yet translated: U02116.]
-
-<!-- pair: TGD-002117 -->
-[Not yet translated: U02117.]
+Applied to the four yogas: when co-emergent primordial knowing without elaboration becomes a little clear, there is one-pointedness; seeing its essence is freedom from conceptual elaborations; realizing all appearance as that itself is one taste; realizing equipoise and post-cultivation attainment, or object and object-possessor, as nondual is non-cultivation.[^N-B-029] It is like designating ten stages, differing until one has crossed the eighteen emptinesses and calm abiding.[^N-B-030]
 
 <!-- pair: TGD-002118 -->
-[Not yet translated: U02118.]
-
-<!-- pair: TGD-002119 -->
-[Not yet translated: U02119.]
-
-<!-- pair: TGD-002120 -->
-[Not yet translated: U02120.]
-
-<!-- pair: TGD-002121 -->
-[Not yet translated: U02121.]
-
-<!-- pair: TGD-002122 -->
-[Not yet translated: U02122.]
-
-<!-- pair: TGD-002123 -->
-[Not yet translated: U02123.]
+Addendum. Some say that although deep absorptions are numerous, vajralike deep absorption is the one at the end of the succession. Here all deep absorptions are vajralike: the path of seeing arises in dependence on the calm-abiding deep absorption of accumulation and preparation, and through it one traverses up to the tenth level.
 
 <!-- pair: TGD-002124 -->
-[Not yet translated: U02124.]
-
-<!-- pair: TGD-002125 -->
-[Not yet translated: U02125.]
-
-<!-- pair: TGD-002126 -->
-[Not yet translated: U02126.]
-
-<!-- pair: TGD-002127 -->
-[Not yet translated: U02127.]
-
-<!-- pair: TGD-002128 -->
-[Not yet translated: U02128.]
-
-<!-- pair: TGD-002129 -->
-[Not yet translated: U02129.]
-
-<!-- pair: TGD-002130 -->
-[Not yet translated: U02130.]
-
-<!-- pair: TGD-002131 -->
-[Not yet translated: U02131.]
+Vajra statement. Others say: “Immediately upon attaining the first level, one sees a hundred buddhas’ faces and twelve sets of a hundred qualities arise. If you call your one taste pure clear realization, it does not possess even the first level’s qualities.” Here, after attaining a level it must still be purified. There are six alternatives concerning how qualities arise: gradually, all at once, some present and some absent, present but unseen by others, the yogin’s experiential appearances, and scriptural testimony.[^N-B-031]
 
 <!-- pair: TGD-002132 -->
-[Not yet translated: U02132.]
-
-<!-- pair: TGD-002133 -->
-[Not yet translated: U02133.]
+First, qualities arise as described for someone like Shakyamuni, who traversed the path gradually over three incalculable eons.
 
 <!-- pair: TGD-002134 -->
-[Not yet translated: U02134.]
-
-<!-- pair: TGD-002135 -->
-[Not yet translated: U02135.]
-
-<!-- pair: TGD-002136 -->
-[Not yet translated: U02136.]
+Second, as with Avalokiteshvara, who is said to have attained the eighth level through a single arousal of the ordinary mind [of awakening]; and the old woman, who attained forbearance concerning non-arising phenomena but had not even the first level’s qualities.[^N-B-032]
 
 <!-- pair: TGD-002137 -->
-[Not yet translated: U02137.]
-
-<!-- pair: TGD-002138 -->
-[Not yet translated: U02138.]
-
-<!-- pair: TGD-002139 -->
-[Not yet translated: U02139.]
+Third, some qualities are present and some absent. Although Sudhana’s gurus were on the tenth level, they solemnly declared, “I know nothing beyond this,” and gave their directions.[^N-B-033]
 
 <!-- pair: TGD-002140 -->
-[Not yet translated: U02140.]
-
-<!-- pair: TGD-002141 -->
-[Not yet translated: U02141.]
-
-<!-- pair: TGD-002142 -->
-[Not yet translated: U02142.]
-
-<!-- pair: TGD-002143 -->
-[Not yet translated: U02143.]
-
-<!-- pair: TGD-002144 -->
-[Not yet translated: U02144.]
-
-<!-- pair: TGD-002145 -->
-[Not yet translated: U02145.]
-
-<!-- pair: TGD-002146 -->
-[Not yet translated: U02146.]
+Fourth, qualities exist but are unseen. Nagarjuna is predicted in the Descent to Lanka as being on the first level, in the Great Drum and Manjushri Root Continuum as being on the eighth, and in the Great Cloud as being on the tenth. Yet no one saw the twelve sets of a hundred qualities and so forth. Similarly, Amitabha abided upon Songtsen’s head and Protector Maitreya on Asanga’s shoulder, but were unseen.
 
 <!-- pair: TGD-002147 -->
-[Not yet translated: U02147.]
-
-<!-- pair: TGD-002148 -->
-[Not yet translated: U02148.]
+Fifth, as explained in the Ten Levels, what arises in the ordinary mind of awakening is seen only by the person himself, as with Mila.[^N-B-034]
 
 <!-- pair: TGD-002149 -->
-[Not yet translated: U02149.]
-
-<!-- pair: TGD-002150 -->
-[Not yet translated: U02150.]
+Sixth, sutras and continuums contain testimony that immediately upon attaining a level its qualities arise like the sun and its rays. Therefore one should not cling exclusively to one alternative.
 
 <!-- pair: TGD-002151 -->
-[Not yet translated: U02151.]
-
-<!-- pair: TGD-002152 -->
-[Not yet translated: U02152.]
+Vajra statement. Others say that the accumulation of primordial knowing, the result, arises from the accumulation of merit, the cause, because Engaging in Bodhisattva Activity states:
 
 <!-- pair: TGD-002153 -->
-[Not yet translated: U02153.]
-
-<!-- pair: TGD-002154 -->
-[Not yet translated: U02154.]
+All these branches
+The Sage taught for the sake of discerning knowing.
 
 <!-- pair: TGD-002155 -->
-[Not yet translated: U02155.]
+And:
 
 <!-- pair: TGD-002156 -->
-[Not yet translated: U02156.]
-
-<!-- pair: TGD-002157 -->
-[Not yet translated: U02157.]
+As long as that root of virtue is not complete,
+That holy awakening will not be exhausted.[^N-B-035]
 
 <!-- pair: TGD-002158 -->
-[Not yet translated: U02158.]
-
-<!-- pair: TGD-002159 -->
-[Not yet translated: U02159.]
-
-<!-- pair: TGD-002160 -->
-[Not yet translated: U02160.]
-
-<!-- pair: TGD-002161 -->
-[Not yet translated: U02161.]
-
-<!-- pair: TGD-002162 -->
-[Not yet translated: U02162.]
-
-<!-- pair: TGD-002163 -->
-[Not yet translated: U02163.]
-
-<!-- pair: TGD-002164 -->
-[Not yet translated: U02164.]
+So they argue. Here the two accumulations are united and abide inseparably in all three: The Ground, path, and result. The Play of Manjushri says that even at the time of The Ground, “Ignorance itself is awakening; awakening itself is ignorance.” And the Highest Continuum says:
 
 <!-- pair: TGD-002165 -->
-[Not yet translated: U02165.]
-
-<!-- pair: TGD-002166 -->
-[Not yet translated: U02166.]
-
-<!-- pair: TGD-002167 -->
-[Not yet translated: U02167.]
-
-<!-- pair: TGD-002168 -->
-[Not yet translated: U02168.]
+Because perfect buddha embodiment proliferates,
+Because suchness is inseparable,
+And because the lineage is present, all embodied beings
+Always possess buddha essence.
 
 <!-- pair: TGD-002169 -->
-[Not yet translated: U02169.]
-
-<!-- pair: TGD-002170 -->
-[Not yet translated: U02170.]
-
-<!-- pair: TGD-002171 -->
-[Not yet translated: U02171.]
+So it says. On the path too, the Condensed Perfection of Discerning Knowing says:
 
 <!-- pair: TGD-002172 -->
-[Not yet translated: U02172.]
+Discerning knowing goes before giving gifts.
 
 <!-- pair: TGD-002173 -->
-[Not yet translated: U02173.]
-
-<!-- pair: TGD-002174 -->
-[Not yet translated: U02174.]
-
-<!-- pair: TGD-002175 -->
-[Not yet translated: U02175.]
-
-<!-- pair: TGD-002176 -->
-[Not yet translated: U02176.]
+Thus there is primordial knowing in equipoise and the accumulation of merit in post-cultivation attainment. If one holds that they [proceed] one upon the other, it is like setting down the right and left feet while walking on the ground.[^N-B-036]
 
 <!-- pair: TGD-002177 -->
-[Not yet translated: U02177.]
-
-<!-- pair: TGD-002178 -->
-[Not yet translated: U02178.]
-
-<!-- pair: TGD-002179 -->
-[Not yet translated: U02179.]
+At the result, the two accumulations reach completion and the two embodiments become manifest. The noble master says:
 
 <!-- pair: TGD-002180 -->
-[Not yet translated: U02180.]
+Through this virtue, may all beings …
 
 <!-- pair: TGD-002181 -->
-[Not yet translated: U02181.]
-
-<!-- pair: TGD-002182 -->
-[Not yet translated: U02182.]
-
-<!-- pair: TGD-002183 -->
-[Not yet translated: U02183.]
+“Merit …,” and so forth. Otherwise cause and result would belong to different kinds, and it would follow that the ultimate is produced by the relative.
 
 <!-- pair: TGD-002184 -->
-[Not yet translated: U02184.]
-
-<!-- pair: TGD-002185 -->
-[Not yet translated: U02185.]
-
-<!-- pair: TGD-002186 -->
-[Not yet translated: U02186.]
-
-<!-- pair: TGD-002187 -->
-[Not yet translated: U02187.]
-
-<!-- pair: TGD-002188 -->
-[Not yet translated: U02188.]
-
-<!-- pair: TGD-002189 -->
-[Not yet translated: U02189.]
-
-<!-- pair: TGD-002190 -->
-[Not yet translated: U02190.]
+Vajra statement. Others say: “Of the field, intention, and substance of gathering accumulations, those with a less developed continuum should offer to the perfectly pure field, the Three Supreme Ones, since the result is immeasurable. They rely on the field of spiritual friends to make that a cause of renunciation and great liberation. Bodhisattvas with a more developed continuum cherish inferior fields and choose downward.”
 
 <!-- pair: TGD-002191 -->
-[Not yet translated: U02191.]
-
-<!-- pair: TGD-002192 -->
-[Not yet translated: U02192.]
-
-<!-- pair: TGD-002193 -->
-[Not yet translated: U02193.]
-
-<!-- pair: TGD-002194 -->
-[Not yet translated: U02194.]
-
-<!-- pair: TGD-002195 -->
-[Not yet translated: U02195.]
-
-<!-- pair: TGD-002196 -->
-[Not yet translated: U02196.]
-
-<!-- pair: TGD-002197 -->
-[Not yet translated: U02197.]
-
-<!-- pair: TGD-002198 -->
-[Not yet translated: U02198.]
-
-<!-- pair: TGD-002199 -->
-[Not yet translated: U02199.]
-
-<!-- pair: TGD-002200 -->
-[Not yet translated: U02200.]
-
-<!-- pair: TGD-002201 -->
-[Not yet translated: U02201.]
+Here our position is that, whether the continuum’s development is high or low, one must choose the higher field. A perfectly pure field brings vast temporary and ultimate results; dedication of those roots of virtue to self and others accomplishes great purposes. Giving with the three inferior fields as objects of focus—other [recipients], sentient beings, and those who cause harm—respectively increases afflictions, harms the teaching, and perpetuates harm to oneself.[^N-B-037]
 
 <!-- pair: TGD-002202 -->
-[Not yet translated: U02202.]
-
-<!-- pair: TGD-002203 -->
-[Not yet translated: U02203.]
-
-<!-- pair: TGD-002204 -->
-[Not yet translated: U02204.]
-
-<!-- pair: TGD-002205 -->
-[Not yet translated: U02205.]
-
-<!-- pair: TGD-002206 -->
-[Not yet translated: U02206.]
+Then why is it said that a bodhisattva who judges recipients as good or bad does not complete the perfections? Such inferior recipients must be made perfectly pure in the ordinary mind. All phenomena are formations of ordinary mind, like the dependent arising of an image of an embodiment and its object of focus.
 
 <!-- pair: TGD-002207 -->
-[Not yet translated: U02207.]
-
-<!-- pair: TGD-002208 -->
-[Not yet translated: U02208.]
-
-<!-- pair: TGD-002209 -->
-[Not yet translated: U02209.]
+Therefore, if one gives to an inferior recipient after arousing the perception of that recipient as a buddha, it will certainly be accomplished accordingly. For people of every degree of development, choosing the higher field and making the inferior field pure is an exceedingly profound essential point.
 
 <!-- pair: TGD-002210 -->
-[Not yet translated: U02210.]
-
-<!-- pair: TGD-002211 -->
-[Not yet translated: U02211.]
-
-<!-- pair: TGD-002212 -->
-[Not yet translated: U02212.]
-
-<!-- pair: TGD-002213 -->
-[Not yet translated: U02213.]
-
-<!-- pair: TGD-002214 -->
-[Not yet translated: U02214.]
-
-<!-- pair: TGD-002215 -->
-[Not yet translated: U02215.]
-
-<!-- pair: TGD-002216 -->
-[Not yet translated: U02216.]
-
-<!-- pair: TGD-002217 -->
-[Not yet translated: U02217.]
-
-<!-- pair: TGD-002218 -->
-[Not yet translated: U02218.]
-
-<!-- pair: TGD-002219 -->
-[Not yet translated: U02219.]
-
-<!-- pair: TGD-002220 -->
-[Not yet translated: U02220.]
-
-<!-- pair: TGD-002221 -->
-[Not yet translated: U02221.]
+Vajra statement. Others say that to transcend samsara one must abandon self-apprehension. Here, apprehending as self and thereby gathering accumulations in order to abandon that self-apprehension is maintained to be skillful means.[^N-B-038] By apprehending [things] as one’s own and offering them to the Three Supreme Ones, vast results increase. By giving away what was apprehended as one’s own, one realizes selflessness. By apprehending sentient beings as oneself and giving for their sake, one does not abide in peace. Engaging in Bodhisattva Activity likewise says:
 
 <!-- pair: TGD-002222 -->
-[Not yet translated: U02222.]
-
-<!-- pair: TGD-002223 -->
-[Not yet translated: U02223.]
-
-<!-- pair: TGD-002224 -->
-[Not yet translated: U02224.]
-
-<!-- pair: TGD-002225 -->
-[Not yet translated: U02225.]
-
-<!-- pair: TGD-002226 -->
-[Not yet translated: U02226.]
+Taking with my conceptual mind all these unowned things,
+I offer them well to the Sages, supreme among beings,
+Together with their children.
+Holy recipients endowed with great compassionate responsiveness,
+In loving enlightened intent toward me, accept these things of mine.
 
 <!-- pair: TGD-002227 -->
-[Not yet translated: U02227.]
-
-<!-- pair: TGD-002228 -->
-[Not yet translated: U02228.]
-
-<!-- pair: TGD-002229 -->
-[Not yet translated: U02229.]
-
-<!-- pair: TGD-002230 -->
-[Not yet translated: U02230.]
-
-<!-- pair: TGD-002231 -->
-[Not yet translated: U02231.]
-
-<!-- pair: TGD-002232 -->
-[Not yet translated: U02232.]
+So it says. All phenomena of samsara and nirvana are subject to transformation by ordinary mind. Therefore appropriating the happiness, goodness, splendor, and prosperity of samsara and nirvana and gathering accumulations becomes a cause for relinquishing self-apprehension—just as fire arising from wood burns the wood itself. Saraha too says:
 
 <!-- pair: TGD-002233 -->
-[Not yet translated: U02233.]
+Ordinary mind itself alone is the seed of everything.
 
 <!-- pair: TGD-002234 -->
-[Not yet translated: U02234.]
+“Where …,” and so forth, he says.
 
 <!-- pair: TGD-002235 -->
-[Not yet translated: U02235.]
-
-<!-- pair: TGD-002236 -->
-[Not yet translated: U02236.]
-
-<!-- pair: TGD-002237 -->
-[Not yet translated: U02237.]
-
-<!-- pair: TGD-002238 -->
-[Not yet translated: U02238.]
-
-<!-- pair: TGD-002239 -->
-[Not yet translated: U02239.]
-
-<!-- pair: TGD-002240 -->
-[Not yet translated: U02240.]
-
-<!-- pair: TGD-002241 -->
-[Not yet translated: U02241.]
-
-<!-- pair: TGD-002242 -->
-[Not yet translated: U02242.]
-
-<!-- pair: TGD-002243 -->
-[Not yet translated: U02243.]
+Vajra statement. Some say one dedicates only virtue one has personally done and gathered, not others’ virtue. Others say that the element of already present virtue cannot be dedicated: whatever merely exists is impermanent; since no phenomenon lies outside the basic space of phenomena, everything would absurdly be virtuous; and since dedication means transformation, if it changed it would become conditioned. Thus, they say, there is nothing to dedicate.
 
 <!-- pair: TGD-002244 -->
-[Not yet translated: U02244.]
-
-<!-- pair: TGD-002245 -->
-[Not yet translated: U02245.]
-
-<!-- pair: TGD-002246 -->
-[Not yet translated: U02246.]
-
-<!-- pair: TGD-002247 -->
-[Not yet translated: U02247.]
-
-<!-- pair: TGD-002248 -->
-[Not yet translated: U02248.]
-
-<!-- pair: TGD-002249 -->
-[Not yet translated: U02249.]
-
-<!-- pair: TGD-002250 -->
-[Not yet translated: U02250.]
-
-<!-- pair: TGD-002251 -->
-[Not yet translated: U02251.]
+Here, if one gathers the roots of virtue of samsara and nirvana into the single mandala of one’s own ordinary mind and dedicates them, that is what comes about. Suchness is said to be undivided, and arousing the ordinary mind [of awakening] is said to make one master of samsara and nirvana. The roots of virtue from that arousal until the holy Dharma disappears are for sentient beings’ sake; therefore past virtue should be dedicated. The Continuum of the Unmoving One says:
 
 <!-- pair: TGD-002252 -->
-[Not yet translated: U02252.]
-
-<!-- pair: TGD-002253 -->
-[Not yet translated: U02253.]
-
-<!-- pair: TGD-002254 -->
-[Not yet translated: U02254.]
-
-<!-- pair: TGD-002255 -->
-[Not yet translated: U02255.]
+Through the immeasurable, incalculable merit
+Gathered by the Blessed One, /[^N-B-039]
+May all beings without exception
+Attain the unsurpassed state.
 
 <!-- pair: TGD-002256 -->
-[Not yet translated: U02256.]
-
-<!-- pair: TGD-002257 -->
-[Not yet translated: U02257.]
+And the Extensive Mother also teaches dedicating the roots of virtue of the four noble ones.
 
 <!-- pair: TGD-002258 -->
-[Not yet translated: U02258.]
-
-<!-- pair: TGD-002259 -->
-[Not yet translated: U02259.]
-
-<!-- pair: TGD-002260 -->
-[Not yet translated: U02260.]
-
-<!-- pair: TGD-002261 -->
-[Not yet translated: U02261.]
-
-<!-- pair: TGD-002262 -->
-[Not yet translated: U02262.]
-
-<!-- pair: TGD-002263 -->
-[Not yet translated: U02263.]
-
-<!-- pair: TGD-002264 -->
-[Not yet translated: U02264.]
+As for the second position: if mere existence and being accepted entail impermanence, the buddhas’ primordial knowing and ultimate qualities such as their powers would also be impermanent, since they exist and are accepted. If no phenomenon lies outside the basic space of phenomena, why would everything not become stagnant neutrality? The reasoning is the same. Virtue and wrongdoing would then be altogether impossible.[^N-B-040]
 
 <!-- pair: TGD-002265 -->
-[Not yet translated: U02265.]
-
-<!-- pair: TGD-002266 -->
-[Not yet translated: U02266.]
-
-<!-- pair: TGD-002267 -->
-[Not yet translated: U02267.]
-
-<!-- pair: TGD-002268 -->
-[Not yet translated: U02268.]
-
-<!-- pair: TGD-002269 -->
-[Not yet translated: U02269.]
-
-<!-- pair: TGD-002270 -->
-[Not yet translated: U02270.]
-
-<!-- pair: TGD-002271 -->
-[Not yet translated: U02271.]
-
-<!-- pair: TGD-002272 -->
-[Not yet translated: U02272.]
+If dedicating the basic space of phenomena makes everything virtuous and therefore makes it a conditioned object bearing signs, the same applies to virtuous karma; dedication free of poison would become impossible. Dedication must therefore be posited in dependence on the relative: just as merit is made the thing dedicated, it does not proceed according to [ultimately established] characteristics.[^N-B-041] Ultimately, dedication itself is not established, so analysis of whether the basic space of phenomena is something to dedicate does not apply.
 
 <!-- pair: TGD-002273 -->
-[Not yet translated: U02273.]
-
-<!-- pair: TGD-002274 -->
-[Not yet translated: U02274.]
-
-<!-- pair: TGD-002275 -->
-[Not yet translated: U02275.]
-
-<!-- pair: TGD-002276 -->
-[Not yet translated: U02276.]
-
-<!-- pair: TGD-002277 -->
-[Not yet translated: U02277.]
+Therefore the basic space of phenomena, suchness, is to be dedicated: one focuses on all virtue as one taste in the basic space of phenomena and aspires to the natural state, the Dharma embodiment. The Dense Array of Adornments says:
 
 <!-- pair: TGD-002278 -->
-[Not yet translated: U02278.]
-
-<!-- pair: TGD-002279 -->
-[Not yet translated: U02279.]
-
-<!-- pair: TGD-002280 -->
-[Not yet translated: U02280.]
+The sugata essence, the virtuous element,
+Endowed with uncontaminated qualities—
+Through dedicating it, the result matures.
 
 <!-- pair: TGD-002281 -->
-[Not yet translated: U02281.]
-
-<!-- pair: TGD-002282 -->
-[Not yet translated: U02282.]
-
-<!-- pair: TGD-002283 -->
-[Not yet translated: U02283.]
-
-<!-- pair: TGD-002284 -->
-[Not yet translated: U02284.]
-
-<!-- pair: TGD-002285 -->
-[Not yet translated: U02285.]
-
-<!-- pair: TGD-002286 -->
-[Not yet translated: U02286.]
+And: “That sugata essence is also virtue.” In Vajra Banner’s Dedication: “Gathering all the elements together …,” and:
 
 <!-- pair: TGD-002287 -->
-[Not yet translated: U02287.]
-
-<!-- pair: TGD-002288 -->
-[Not yet translated: U02288.]
+Dedicate the virtue arising from yoga;
+Dedicate your own ordinary mind as well.
 
 <!-- pair: TGD-002289 -->
-[Not yet translated: U02289.]
-
-<!-- pair: TGD-002290 -->
-[Not yet translated: U02290.]
-
-<!-- pair: TGD-002291 -->
-[Not yet translated: U02291.]
-
-<!-- pair: TGD-002292 -->
-[Not yet translated: U02292.]
+And: “Whatever suchness’s intrinsic nature is like, dedicate all actions in that same way.”
 
 <!-- pair: TGD-002293 -->
-[Not yet translated: U02293.]
-
-<!-- pair: TGD-002294 -->
-[Not yet translated: U02294.]
-
-<!-- pair: TGD-002295 -->
-[Not yet translated: U02295.]
-
-<!-- pair: TGD-002296 -->
-[Not yet translated: U02296.]
-
-<!-- pair: TGD-002297 -->
-[Not yet translated: U02297.]
+The Compendium asks, “What is ultimate virtue?” and answers, “Suchness.” There are limitless scriptural passages, such as “the roots of virtue of our unsurpassed primordial knowing.”
 
 <!-- pair: TGD-002298 -->
-[Not yet translated: U02298.]
-
-<!-- pair: TGD-002299 -->
-[Not yet translated: U02299.]
-
-<!-- pair: TGD-002300 -->
-[Not yet translated: U02300.]
-
-<!-- pair: TGD-002301 -->
-[Not yet translated: U02301.]
-
-<!-- pair: TGD-002302 -->
-[Not yet translated: U02302.]
-
-<!-- pair: TGD-002303 -->
-[Not yet translated: U02303.]
+Although the Mother says that all phenomena, from form to omniscience, are unchanging, there is no contradiction: [dedication] relates to purifying the stains of relative delusion. Thus already present virtue is like the ocean, and virtue done and gathered is like its waves. Therefore dedicate both the gathered and the already present virtue of all samsara and nirvana.
 
 <!-- pair: TGD-002304 -->
-[Not yet translated: U02304.]
-
-<!-- pair: TGD-002305 -->
-[Not yet translated: U02305.]
-
-<!-- pair: TGD-002306 -->
-[Not yet translated: U02306.]
-
-<!-- pair: TGD-002307 -->
-[Not yet translated: U02307.]
-
-<!-- pair: TGD-002308 -->
-[Not yet translated: U02308.]
-
-<!-- pair: TGD-002309 -->
-[Not yet translated: U02309.]
+Vajra statement. Others say dedication to buddhas and gurus is necessary because faults have been abandoned and qualities perfected.[^N-B-042] Here too dedication for them is certainly necessary, because it speeds the completion of awakened activity, like adding wealth to a wealthy person. The Eight Thousand says:
 
 <!-- pair: TGD-002310 -->
-[Not yet translated: U02310.]
-
-<!-- pair: TGD-002311 -->
-[Not yet translated: U02311.]
-
-<!-- pair: TGD-002312 -->
-[Not yet translated: U02312.]
-
-<!-- pair: TGD-002313 -->
-[Not yet translated: U02313.]
-
-<!-- pair: TGD-002314 -->
-[Not yet translated: U02314.]
-
-<!-- pair: TGD-002315 -->
-[Not yet translated: U02315.]
-
-<!-- pair: TGD-002316 -->
-[Not yet translated: U02316.]
-
-<!-- pair: TGD-002317 -->
-[Not yet translated: U02317.]
+Buddhas’ activity does not depend on a single cause or condition; it is like the sound of a vina.[^N-B-043] Nanda and Nandabala offered the concentrated milk of a thousand cows and dedicated it, saying, “May the observance be accomplished”; through this [the Buddha] awakened at dawn. Likewise, when Devadatta’s hurled stone made his foot bleed, Kashyapa’s declaration of truth stopped it.
 
 <!-- pair: TGD-002318 -->
-[Not yet translated: U02318.]
+Gurus too, whether ordinary persons or abiding on the levels, can encounter obstacles; therefore dedication is necessary.
 
 <!-- pair: TGD-002319 -->
-[Not yet translated: U02319.]
+This is the fourth section: the explanation of twenty-five vajra statements and one supplementary shloka, gathering the essential points of the ordinary mind of awakening.
 
 <!-- pair: TGD-002320 -->
-[Not yet translated: U02320.]
-
-<!-- pair: TGD-002321 -->
-[Not yet translated: U02321.]
-
-<!-- pair: TGD-002322 -->
-[Not yet translated: U02322.]
-
-<!-- pair: TGD-002323 -->
-[Not yet translated: U02323.]
-
-<!-- pair: TGD-002324 -->
-[Not yet translated: U02324.]
-
-<!-- pair: TGD-002325 -->
-[Not yet translated: U02325.]
+Although others say that secret mantra teachings occur only with this Teacher, time, and realm, here mantra also occurs with other teachers and teachings. To become a buddha oneself one must abandon every coarse and subtle thing to abandon, and teach that to other disciples. Without mantra there would be no antidote for abandoning the subtle. The Manifest Awakening of Vairocana says:[^N-B-044]
 
 <!-- pair: TGD-002326 -->
-[Not yet translated: U02326.]
-
-<!-- pair: TGD-002327 -->
-[Not yet translated: U02327.]
-
-<!-- pair: TGD-002328 -->
-[Not yet translated: U02328.]
-
-<!-- pair: TGD-002329 -->
-[Not yet translated: U02329.]
-
-<!-- pair: TGD-002330 -->
-[Not yet translated: U02330.]
-
-<!-- pair: TGD-002331 -->
-[Not yet translated: U02331.]
+Perfect buddhas who have passed,
+Those likewise yet to come,
+And protectors now present
+Who abide for beings’ benefit—
+Knowing this excellent rite,
+They attain immeasurable omniscience.
 
 <!-- pair: TGD-002332 -->
-[Not yet translated: U02332.]
-
-<!-- pair: TGD-002333 -->
-[Not yet translated: U02333.]
-
-<!-- pair: TGD-002334 -->
-[Not yet translated: U02334.]
+And “the buddhas of the past …,” and so forth. Therefore mantra occurs elsewhere as well.
 
 <!-- pair: TGD-002335 -->
-[Not yet translated: U02335.]
-
-<!-- pair: TGD-002336 -->
-[Not yet translated: U02336.]
-
-<!-- pair: TGD-002337 -->
-[Not yet translated: U02337.]
-
-<!-- pair: TGD-002338 -->
-[Not yet translated: U02338.]
-
-<!-- pair: TGD-002339 -->
-[Not yet translated: U02339.]
+Addendum. Some say mantra is the fourth scriptural collection, since Excellent Accomplishment says, “Know this from the fourth, the collection of awareness-holders.” Others say it is discipline, because “it disciplines my ordinary mind.” Others say it is sutra, since Subahu says:
 
 <!-- pair: TGD-002340 -->
-[Not yet translated: U02340.]
-
-<!-- pair: TGD-002341 -->
-[Not yet translated: U02341.]
+I have correctly explained secret mantra
+In the manner of sutras; listen with a clear disposition.
 
 <!-- pair: TGD-002342 -->
-[Not yet translated: U02342.]
-
-<!-- pair: TGD-002343 -->
-[Not yet translated: U02343.]
-
-<!-- pair: TGD-002344 -->
-[Not yet translated: U02344.]
-
-<!-- pair: TGD-002345 -->
-[Not yet translated: U02345.]
-
-<!-- pair: TGD-002346 -->
-[Not yet translated: U02346.]
+So it says. Again, the Continuum of Clear Realization of Dharma Activity teaches outer and inner abhidharma, so some say mantra is inner abhidharma. Although each explains a particular position, most appear to include it chiefly in sutra.
 
 <!-- pair: TGD-002347 -->
-[Not yet translated: U02347.]
-
-<!-- pair: TGD-002348 -->
-[Not yet translated: U02348.]
-
-<!-- pair: TGD-002349 -->
-[Not yet translated: U02349.]
-
-<!-- pair: TGD-002350 -->
-[Not yet translated: U02350.]
-
-<!-- pair: TGD-002351 -->
-[Not yet translated: U02351.]
-
-<!-- pair: TGD-002352 -->
-[Not yet translated: U02352.]
-
-<!-- pair: TGD-002353 -->
-[Not yet translated: U02353.]
+Here mantra is the three scriptural collections, or like the essence of all three. Summarizing what an individual must abandon to awaken, the three trainings—the meaning of the three collections—abandon the three poisons. The union of generation and completion uproots what is to be abandoned, and one awakens in the embodiment of great bliss, the union in which means and discerning knowing are nondual. There is scriptural testimony for all three classifications; on this account they do not conflict, and it is most reasonable.
 
 <!-- pair: TGD-002354 -->
-[Not yet translated: U02354.]
-
-<!-- pair: TGD-002355 -->
-[Not yet translated: U02355.]
-
-<!-- pair: TGD-002356 -->
-[Not yet translated: U02356.]
-
-<!-- pair: TGD-002357 -->
-[Not yet translated: U02357.]
+Vajra statement. Mantra has three: The Ground, the three doors primordially abiding as the three vajras; the path, ripening and liberation; and the result, the four embodiments. The Manjushri Root Continuum says:
 
 <!-- pair: TGD-002358 -->
-[Not yet translated: U02358.]
-
-<!-- pair: TGD-002359 -->
-[Not yet translated: U02359.]
-
-<!-- pair: TGD-002360 -->
-[Not yet translated: U02360.]
-
-<!-- pair: TGD-002361 -->
-[Not yet translated: U02361.]
+Whoever has not seen the mandala—
+The yogin x
+With a fist against space x
+The water of a mirage x[^N-B-045]
 
 <!-- pair: TGD-002362 -->
-[Not yet translated: U02362.]
-
-<!-- pair: TGD-002363 -->
-[Not yet translated: U02363.]
-
-<!-- pair: TGD-002364 -->
-[Not yet translated: U02364.]
-
-<!-- pair: TGD-002365 -->
-[Not yet translated: U02365.]
-
-<!-- pair: TGD-002366 -->
-[Not yet translated: U02366.]
+Thus empowerment must come first. Others say it is attained when the one conferring it is a vajra master of superior, middling, or inferior capacity; the recipient is a person whose continuum has been purified through going for refuge and so forth; and the rite follows the continuums, properly performing the preparatory arrangements and the main rites of the four empowerments: vase, secret, discerning-knowing [primordial-knowing], and word.
 
 <!-- pair: TGD-002367 -->
-[Not yet translated: U02367.]
-
-<!-- pair: TGD-002368 -->
-[Not yet translated: U02368.]
-
-<!-- pair: TGD-002369 -->
-[Not yet translated: U02369.]
-
-<!-- pair: TGD-002370 -->
-[Not yet translated: U02370.]
-
-<!-- pair: TGD-002371 -->
-[Not yet translated: U02371.]
-
-<!-- pair: TGD-002372 -->
-[Not yet translated: U02372.]
+Here, through the dependent arising of a qualified master teaching instructions to a disciple endowed with confident devotion, the stains of apprehending the three doors as separate are purified. By pointing them out as the three vajras, certainty and realization arise: this is called attaining the empowerment of meaning.
 
 <!-- pair: TGD-002373 -->
-[Not yet translated: U02373.]
-
-<!-- pair: TGD-002374 -->
-[Not yet translated: U02374.]
-
-<!-- pair: TGD-002375 -->
-[Not yet translated: U02375.]
-
-<!-- pair: TGD-002376 -->
-[Not yet translated: U02376.]
-
-<!-- pair: TGD-002377 -->
-[Not yet translated: U02377.]
-
-<!-- pair: TGD-002378 -->
-[Not yet translated: U02378.]
+The vase empowerment is the simultaneous arising of certainty that the aggregates, elements, and sense fields are the mandala’s wheel. The secret empowerment is the arising of deep absorption in clarity-emptiness. The discerning-knowing–primordial-knowing empowerment concerns bliss-emptiness. The word empowerment is realization of ordinary mind itself as non-arising. When certainty concerning these meanings of empowerment arises in one’s continuum, empowerment is held to have been attained.
 
 <!-- pair: TGD-002379 -->
-[Not yet translated: U02379.]
-
-<!-- pair: TGD-002380 -->
-[Not yet translated: U02380.]
-
-<!-- pair: TGD-002381 -->
-[Not yet translated: U02381.]
-
-<!-- pair: TGD-002382 -->
-[Not yet translated: U02382.]
-
-<!-- pair: TGD-002383 -->
-[Not yet translated: U02383.]
-
-<!-- pair: TGD-002384 -->
-[Not yet translated: U02384.]
+Addendum. The three types of person, superior, middling, and inferior, respectively attain empowerment without its being conferred, attain it when it is conferred, and fail to attain it even when it is conferred. Others place the superior faculty first: through confident devotion to the guru, such a person purifies the three doors’ stains and attains empowerment without its being conferred.
 
 <!-- pair: TGD-002385 -->
-[Not yet translated: U02385.]
-
-<!-- pair: TGD-002386 -->
-[Not yet translated: U02386.]
-
-<!-- pair: TGD-002387 -->
-[Not yet translated: U02387.]
-
-<!-- pair: TGD-002388 -->
-[Not yet translated: U02388.]
-
-<!-- pair: TGD-002389 -->
-[Not yet translated: U02389.]
-
-<!-- pair: TGD-002390 -->
-[Not yet translated: U02390.]
-
-<!-- pair: TGD-002391 -->
-[Not yet translated: U02391.]
-
-<!-- pair: TGD-002392 -->
-[Not yet translated: U02392.]
-
-<!-- pair: TGD-002393 -->
-[Not yet translated: U02393.]
+Here, although one of superior faculty may have that realization, the rite is certainly necessary because the continuum’s rite is profound. Even with superior faculty the person is unripened, so both master and disciple incur the root downfall of divulging secrets. Like the blind leading the blind, such a person has no authorization to confer empowerment for others. Moreover, the rite is buddhas’ primordial knowing; performing it plants a seed of potency in that person’s continuum.
 
 <!-- pair: TGD-002394 -->
-[Not yet translated: U02394.]
-
-<!-- pair: TGD-002395 -->
-[Not yet translated: U02395.]
-
-<!-- pair: TGD-002396 -->
-[Not yet translated: U02396.]
+Empowerment must also be conferred on those of inferior faculty, because a cause in the form of habitual tendencies cannot fail eventually to give its result. There is no way around relying on a vase empowerment, which is like The Ground or a body.
 
 <!-- pair: TGD-002397 -->
-[Not yet translated: U02397.]
-
-<!-- pair: TGD-002398 -->
-[Not yet translated: U02398.]
-
-<!-- pair: TGD-002399 -->
-[Not yet translated: U02399.]
-
-<!-- pair: TGD-002400 -->
-[Not yet translated: U02400.]
-
-<!-- pair: TGD-002401 -->
-[Not yet translated: U02401.]
+Vajra statement. Others say that, of the four empowerments, the vase empowerment requires an extensive colored-powder mandala with three seats: the seat of buddhas and bodhisattvas, that of awareness women and goddesses, and that of wrathful males and females. If all three are not complete, it cannot be attained through a practice such as Vajrayogini.[^N-B-046]
 
 <!-- pair: TGD-002402 -->
-[Not yet translated: U02402.]
-
-<!-- pair: TGD-002403 -->
-[Not yet translated: U02403.]
-
-<!-- pair: TGD-002404 -->
-[Not yet translated: U02404.]
-
-<!-- pair: TGD-002405 -->
-[Not yet translated: U02405.]
+Here buddhas have abandoned the most subtle habitual tendencies and awakened as a single mandala wheel. “Seat” refers to the illusory body as support, with the self-aware ordinary mind of awakening abiding as what is supported.
 
 <!-- pair: TGD-002406 -->
-[Not yet translated: U02406.]
-
-<!-- pair: TGD-002407 -->
-[Not yet translated: U02407.]
-
-<!-- pair: TGD-002408 -->
-[Not yet translated: U02408.]
-
-<!-- pair: TGD-002409 -->
-[Not yet translated: U02409.]
-
-<!-- pair: TGD-002410 -->
-[Not yet translated: U02410.]
-
-<!-- pair: TGD-002411 -->
-[Not yet translated: U02411.]
+One’s five aggregates as the five buddhas, and the eight collections [of consciousness] as the eight bodhisattvas, are the seat of buddhas and bodhisattvas. The five elements as the five mothers and eight objects as the eight female bodhisattvas are the seat of awareness women and goddesses. The ten great “words” as the ten wrathful males, and ten objects as the ten wrathful females, are the seat of wrathful males and females.[^N-B-047]
 
 <!-- pair: TGD-002412 -->
 [Not yet translated: U02412.]
@@ -8543,1174 +6779,400 @@ Sons should rely on such a one.[^N-C-016]
 So it is said. If someone without qualities establishes others in qualities, that is not through their own power; it is through the Buddha’s power. The Noble Condensed [Perfection] says:
 
 <!-- pair: TGD-003383 -->
-[Not yet translated: U03383.]
-
-<!-- pair: TGD-003384 -->
-[Not yet translated: U03384.]
-
-<!-- pair: TGD-003385 -->
-[Not yet translated: U03385.]
-
-<!-- pair: TGD-003386 -->
-[Not yet translated: U03386.]
+Whatever Dharma the Victorious One’s hearers teach,
+Explain, or set forth with reasoning,
+Whatever supreme noble happiness they bring and whatever results they attain—
+All these are through the personal power of the Tathāgata.
 
 <!-- pair: TGD-003387 -->
-[Not yet translated: U03387.]
-
-<!-- pair: TGD-003388 -->
-[Not yet translated: U03388.]
-
-<!-- pair: TGD-003389 -->
-[Not yet translated: U03389.]
-
-<!-- pair: TGD-003390 -->
-[Not yet translated: U03390.]
-
-<!-- pair: TGD-003391 -->
-[Not yet translated: U03391.]
+Why? Whatever way of Dharma the Victorious One has taught,
+Those who become disciples of the supreme person train thoroughly in it.
+Having actualized it, they teach just as they have trained.
+They do so through the Buddha’s power, not the power of their own strength.
 
 <!-- pair: TGD-003392 -->
-[Not yet translated: U03392.]
+So it is said.
 
 <!-- pair: TGD-003393 -->
-[Not yet translated: U03393.]
-
-<!-- pair: TGD-003394 -->
-[Not yet translated: U03394.]
+Vajra statement. Some maintain that co-emergent primordial knowing is realized by examining it through hearing, reflection, cultivation, and the five logical reasons; they also speak of many other methods that are not certain.[^N-C-017]
 
 <!-- pair: TGD-003395 -->
-[Not yet translated: U03395.]
-
-<!-- pair: TGD-003396 -->
-[Not yet translated: U03396.]
-
-<!-- pair: TGD-003397 -->
-[Not yet translated: U03397.]
-
-<!-- pair: TGD-003398 -->
-[Not yet translated: U03398.]
+Here, the principal, indispensable means for generating realization is definitely lucid faith and confident devotion alone, because these support all wholesome qualities. The Heap of Jewels says:
 
 <!-- pair: TGD-003399 -->
-[Not yet translated: U03399.]
-
-<!-- pair: TGD-003400 -->
-[Not yet translated: U03400.]
-
-<!-- pair: TGD-003401 -->
-[Not yet translated: U03401.]
-
-<!-- pair: TGD-003402 -->
-[Not yet translated: U03402.]
+In people without faith
+Wholesome qualities do not arise,
+Just as green shoots do not arise
+From seeds burned by fire.
 
 <!-- pair: TGD-003403 -->
-[Not yet translated: U03403.]
-
-<!-- pair: TGD-003404 -->
-[Not yet translated: U03404.]
+And the Sūtra of the Ten Dharmas says:
 
 <!-- pair: TGD-003405 -->
-[Not yet translated: U03405.]
-
-<!-- pair: TGD-003406 -->
-[Not yet translated: U03406.]
-
-<!-- pair: TGD-003407 -->
-[Not yet translated: U03407.]
-
-<!-- pair: TGD-003408 -->
-[Not yet translated: U03408.]
+Faith is the supreme vehicle
+Whose guidance leads to definite emergence.
+Therefore a person with conceptual intelligence
+Should rely on following faith.[^N-C-018]
 
 <!-- pair: TGD-003409 -->
-[Not yet translated: U03409.]
-
-<!-- pair: TGD-003410 -->
-[Not yet translated: U03410.]
-
-<!-- pair: TGD-003411 -->
-[Not yet translated: U03411.]
-
-<!-- pair: TGD-003412 -->
-[Not yet translated: U03412.]
+Thus all the qualities of the path depend on lucid faith and confident devotion; the ultimate meaning too comes from them. The Supreme Continuum says:
 
 <!-- pair: TGD-003413 -->
-[Not yet translated: U03413.]
-
-<!-- pair: TGD-003414 -->
-[Not yet translated: U03414.]
-
-<!-- pair: TGD-003415 -->
-[Not yet translated: U03415.]
-
-<!-- pair: TGD-003416 -->
-[Not yet translated: U03416.]
+The ultimate meaning of the self-arisen
+Is to be realized through faith itself.
+The blazing radiance of the sun’s disk
+Cannot be seen by one without eyes.
 
 <!-- pair: TGD-003417 -->
-[Not yet translated: U03417.]
-
-<!-- pair: TGD-003418 -->
-[Not yet translated: U03418.]
+Thus, if confident devotion arises through perceiving [the lama] as the Dharma embodiment, it is as Tilopa said:[^N-C-019]
 
 <!-- pair: TGD-003419 -->
-[Not yet translated: U03419.]
-
-<!-- pair: TGD-003420 -->
-[Not yet translated: U03420.]
-
-<!-- pair: TGD-003421 -->
-[Not yet translated: U03421.]
+Nāropa, who attained the retention of never forgetting,
+Pleased me for twelve [years].
+He possesses my realization.[^N-C-020]
 
 <!-- pair: TGD-003422 -->
-[Not yet translated: U03422.]
-
-<!-- pair: TGD-003423 -->
-[Not yet translated: U03423.]
-
-<!-- pair: TGD-003424 -->
-[Not yet translated: U03424.]
-
-<!-- pair: TGD-003425 -->
-[Not yet translated: U03425.]
+That is how it comes about. If one asks what happens without faith: awakening cannot be attained, just as a stone at the bottom of a lake does not emerge onto dry land.
 
 <!-- pair: TGD-003426 -->
-[Not yet translated: U03426.]
-
-<!-- pair: TGD-003427 -->
-[Not yet translated: U03427.]
-
-<!-- pair: TGD-003428 -->
-[Not yet translated: U03428.]
-
-<!-- pair: TGD-003429 -->
-[Not yet translated: U03429.]
-
-<!-- pair: TGD-003430 -->
-[Not yet translated: U03430.]
-
-<!-- pair: TGD-003431 -->
-[Not yet translated: U03431.]
-
-<!-- pair: TGD-003432 -->
-[Not yet translated: U03432.]
+Vajra statement. Although some maintain that the ultimate view is the Great Middle Way, they do not possess realization of the authentic view, because it is posited by the conceptual mind. Yé Nying says, “Whatever one cultivates with an inferior mental faculty as ‘unborn,’ ‘empty,’ ‘selfless,’ or ‘emptiness’ is, here, cultivation of self.” And the Root [Verses on] Discerning Knowing says:[^N-C-021]
 
 <!-- pair: TGD-003433 -->
-[Not yet translated: U03433.]
-
-<!-- pair: TGD-003434 -->
-[Not yet translated: U03434.]
-
-<!-- pair: TGD-003435 -->
-[Not yet translated: U03435.]
-
-<!-- pair: TGD-003436 -->
-[Not yet translated: U03436.]
+To Gautama, who, taking [beings] into his loving care,
+Taught the holy Dharma
+For the abandonment of all views,
+I pay homage.[^N-C-022]
 
 <!-- pair: TGD-003437 -->
-[Not yet translated: U03437.]
-
-<!-- pair: TGD-003438 -->
-[Not yet translated: U03438.]
-
-<!-- pair: TGD-003439 -->
-[Not yet translated: U03439.]
-
-<!-- pair: TGD-003440 -->
-[Not yet translated: U03440.]
-
-<!-- pair: TGD-003441 -->
-[Not yet translated: U03441.]
-
-<!-- pair: TGD-003442 -->
-[Not yet translated: U03442.]
+So it is said. Therefore, ultimately, since that which is viewed and that which views are absent, no view is asserted. Merely conventionally, however, through the meeting of the dependent conditions of master and disciple, there is inseparable view and realization: realizing all phenomena as one’s own ordinary mind and that ordinary mind as the Dharma embodiment, free from conceptual elaborations. Or, as the Mother says:
 
 <!-- pair: TGD-003443 -->
-[Not yet translated: U03443.]
-
-<!-- pair: TGD-003444 -->
-[Not yet translated: U03444.]
+“In ordinary mind there is no ordinary mind: the intrinsic nature of ordinary mind is clear light.”
 
 <!-- pair: TGD-003445 -->
-[Not yet translated: U03445.]
-
-<!-- pair: TGD-003446 -->
-[Not yet translated: U03446.]
+Accordingly, that which makes appearance and existence arise as primordial knowing is held to be the supreme view, possessing realization without being separate from it.
 
 <!-- pair: TGD-003447 -->
-[Not yet translated: U03447.]
-
-<!-- pair: TGD-003448 -->
-[Not yet translated: U03448.]
-
-<!-- pair: TGD-003449 -->
-[Not yet translated: U03449.]
-
-<!-- pair: TGD-003450 -->
-[Not yet translated: U03450.]
+Some maintain that only the three—Madhyamaka, Mahamudra, and Dzogchen—are highest for realizing the natural state. Here, however, these three “greats” do not touch the natural state. The King of Deep Absorption Sūtra says:
 
 <!-- pair: TGD-003451 -->
-[Not yet translated: U03451.]
-
-<!-- pair: TGD-003452 -->
-[Not yet translated: U03452.]
-
-<!-- pair: TGD-003453 -->
-[Not yet translated: U03453.]
-
-<!-- pair: TGD-003454 -->
-[Not yet translated: U03454.]
+“Exists” and “does not exist” are extremes;
+Likewise, pure and impure are also extremes.
+Therefore, having completely abandoned these extremes,
+The learned should not abide even in the middle.
 
 <!-- pair: TGD-003455 -->
-[Not yet translated: U03455.]
+And the Avataṃsaka says:
 
 <!-- pair: TGD-003456 -->
-[Not yet translated: U03456.]
-
-<!-- pair: TGD-003457 -->
-[Not yet translated: U03457.]
-
-<!-- pair: TGD-003458 -->
-[Not yet translated: U03458.]
+Just as the intervening space, exceedingly x [unresolved],
+Likewise x [unresolved],
+It is not known as an object by mental faculty and ordinary mind.[^N-C-023]
 
 <!-- pair: TGD-003459 -->
-[Not yet translated: U03459.]
-
-<!-- pair: TGD-003460 -->
-[Not yet translated: U03460.]
+As this says, it is not settled by conceptual mind, ordinary mind, or words. What, then, is it?
 
 <!-- pair: TGD-003461 -->
-[Not yet translated: U03461.]
-
-<!-- pair: TGD-003462 -->
-[Not yet translated: U03462.]
-
-<!-- pair: TGD-003463 -->
-[Not yet translated: U03463.]
-
-<!-- pair: TGD-003464 -->
-[Not yet translated: U03464.]
+Perfection of discerning knowing, inexpressible, unthinkable, indescribable,
+Unborn, unceasing, the very essence of space,
+The sphere of individually self-aware primordial knowing—
+I pay homage to the mother of the victorious ones of the three times.
 
 <!-- pair: TGD-003465 -->
-[Not yet translated: U03465.]
-
-<!-- pair: TGD-003466 -->
-[Not yet translated: U03466.]
+And Dharma King Songtsen said:
 
 <!-- pair: TGD-003467 -->
-[Not yet translated: U03467.]
-
-<!-- pair: TGD-003468 -->
-[Not yet translated: U03468.]
-
-<!-- pair: TGD-003469 -->
-[Not yet translated: U03469.]
-
-<!-- pair: TGD-003470 -->
-[Not yet translated: U03470.]
+All thinking is conceptual mind;
+Leave the workings of conceptual mind aside.
+“Leave aside” is itself a phrase,
+So let go of grasping at the phrase.[^N-C-024]
 
 <!-- pair: TGD-003471 -->
-[Not yet translated: U03471.]
+And Tilopa said:
 
 <!-- pair: TGD-003472 -->
-[Not yet translated: U03472.]
-
-<!-- pair: TGD-003473 -->
-[Not yet translated: U03473.]
+Through phenomena of conceptual mind, the meaning beyond the conceptual mind is not realized;
+Through fabricated phenomena, buddhahood beyond doing is not attained.
 
 <!-- pair: TGD-003474 -->
-[Not yet translated: U03474.]
-
-<!-- pair: TGD-003475 -->
-[Not yet translated: U03475.]
-
-<!-- pair: TGD-003476 -->
-[Not yet translated: U03476.]
-
-<!-- pair: TGD-003477 -->
-[Not yet translated: U03477.]
-
-<!-- pair: TGD-003478 -->
-[Not yet translated: U03478.]
+Thus it is realization of the nondual meaning of saṃsāra and nirvāṇa, which words cannot express, statements cannot settle, and examples cannot indicate. The three assigned names are like fingers pointing to the moon.
 
 <!-- pair: TGD-003479 -->
-[Not yet translated: U03479.]
-
-<!-- pair: TGD-003480 -->
-[Not yet translated: U03480.]
-
-<!-- pair: TGD-003481 -->
-[Not yet translated: U03481.]
-
-<!-- pair: TGD-003482 -->
-[Not yet translated: U03482.]
-
-<!-- pair: TGD-003483 -->
-[Not yet translated: U03483.]
+Therefore it is called the “single white remedy.” Those who argue that it would consequently become three have crude understanding. On their reasoning, one would never find anything ultimately called nondual. Therefore it is supreme realization.[^N-C-025]
 
 <!-- pair: TGD-003484 -->
-[Not yet translated: U03484.]
-
-<!-- pair: TGD-003485 -->
-[Not yet translated: U03485.]
-
-<!-- pair: TGD-003486 -->
-[Not yet translated: U03486.]
-
-<!-- pair: TGD-003487 -->
-[Not yet translated: U03487.]
-
-<!-- pair: TGD-003488 -->
-[Not yet translated: U03488.]
-
-<!-- pair: TGD-003489 -->
-[Not yet translated: U03489.]
-
-<!-- pair: TGD-003490 -->
-[Not yet translated: U03490.]
+Vajra statement. Some maintain that the natural state is realized through hearing, reflection, and cultivation. Here, the emptiness of hearing, reflection, and cultivation is a place of slipping and straying: what is measured by awareness, examined by the conceptual mind, and settled through words is a meaning generalization of emptiness made into an object of conceptual mind, rather than the genuine thing. It is therefore said to be a place of slipping and straying from genuine, ultimate, inseparable view and realization. Lord Maitreya says:[^N-C-026]
 
 <!-- pair: TGD-003491 -->
-[Not yet translated: U03491.]
-
-<!-- pair: TGD-003492 -->
-[Not yet translated: U03492.]
-
-<!-- pair: TGD-003493 -->
-[Not yet translated: U03493.]
-
-<!-- pair: TGD-003494 -->
-[Not yet translated: U03494.]
+Because it is subtle, it is not an object of hearing;
+Because it is ultimate, it is not [an object] of reflection.
+Because the nature of phenomena is profound,
+It is not an object of worldly cultivation and the like.
 
 <!-- pair: TGD-003495 -->
-[Not yet translated: U03495.]
-
-<!-- pair: TGD-003496 -->
-[Not yet translated: U03496.]
+And Drigung Chöjé Rinpoche said:
 
 <!-- pair: TGD-003497 -->
-[Not yet translated: U03497.]
-
-<!-- pair: TGD-003498 -->
-[Not yet translated: U03498.]
-
-<!-- pair: TGD-003499 -->
-[Not yet translated: U03499.]
-
-<!-- pair: TGD-003500 -->
-[Not yet translated: U03500.]
+Do not cultivate your own ordinary mind or the objects of ordinary mind.
+Do not cultivate even what cannot be cultivated.
+Do not cultivate even the hope
+That some cultivation will arise from not cultivating.
 
 <!-- pair: TGD-003501 -->
-[Not yet translated: U03501.]
-
-<!-- pair: TGD-003502 -->
-[Not yet translated: U03502.]
-
-<!-- pair: TGD-003503 -->
-[Not yet translated: U03503.]
+In brief: slipping and straying into emptiness; slipping and straying into appearance; and slipping into conceptual thought about cause and result.
 
 <!-- pair: TGD-003504 -->
-[Not yet translated: U03504.]
-
-<!-- pair: TGD-003505 -->
-[Not yet translated: U03505.]
-
-<!-- pair: TGD-003506 -->
-[Not yet translated: U03506.]
-
-<!-- pair: TGD-003507 -->
-[Not yet translated: U03507.]
-
-<!-- pair: TGD-003508 -->
-[Not yet translated: U03508.]
+Vajra statement. [Some call] settling the nature of phenomena and taking it as an object “view,” and accomplishing calm abiding on that basis “cultivation.” Alternatively, they call the arising of experiences of bliss, clarity, and non-conceptuality through cultivating according to instructions “cultivation,” and the meaning generalization arising from that “view.”[^N-C-027]
 
 <!-- pair: TGD-003509 -->
-[Not yet translated: U03509.]
-
-<!-- pair: TGD-003510 -->
-[Not yet translated: U03510.]
-
-<!-- pair: TGD-003511 -->
-[Not yet translated: U03511.]
-
-<!-- pair: TGD-003512 -->
-[Not yet translated: U03512.]
-
-<!-- pair: TGD-003513 -->
-[Not yet translated: U03513.]
+Here, ultimate cultivation is becoming familiar with and uninterruptedly habituating to the realization that arises through the dependent conditions of master and disciple: authentic view inseparable from realization, untouched by the three. The Root Tantra of Cakrasaṃvara says:[^N-C-028]
 
 <!-- pair: TGD-003514 -->
-[Not yet translated: U03514.]
-
-<!-- pair: TGD-003515 -->
-[Not yet translated: U03515.]
+When the mental faculty is brought within,
+Whatever accomplishment is desired is attained.
 
 <!-- pair: TGD-003516 -->
-[Not yet translated: U03516.]
-
-<!-- pair: TGD-003517 -->
-[Not yet translated: U03517.]
+And the great lord Drigungpa said:
 
 <!-- pair: TGD-003518 -->
-[Not yet translated: U03518.]
-
-<!-- pair: TGD-003519 -->
-[Not yet translated: U03519.]
+The meaning of great diligence
+Is uninterrupted mindfulness.
 
 <!-- pair: TGD-003520 -->
-[Not yet translated: U03520.]
+And:
 
 <!-- pair: TGD-003521 -->
-[Not yet translated: U03521.]
-
-<!-- pair: TGD-003522 -->
-[Not yet translated: U03522.]
-
-<!-- pair: TGD-003523 -->
-[Not yet translated: U03523.]
-
-<!-- pair: TGD-003524 -->
-[Not yet translated: U03524.]
+If you do not know the great highway
+Of the buddhas of the three times as uninterrupted in time,
+If you do not know the interruption of mindfulness,
+Body and speech remain in frantic bustle.[^N-C-029]
 
 <!-- pair: TGD-003525 -->
-[Not yet translated: U03525.]
-
-<!-- pair: TGD-003526 -->
-[Not yet translated: U03526.]
-
-<!-- pair: TGD-003527 -->
-[Not yet translated: U03527.]
-
-<!-- pair: TGD-003528 -->
-[Not yet translated: U03528.]
-
-<!-- pair: TGD-003529 -->
-[Not yet translated: U03529.]
-
-<!-- pair: TGD-003530 -->
-[Not yet translated: U03530.]
-
-<!-- pair: TGD-003531 -->
-[Not yet translated: U03531.]
-
-<!-- pair: TGD-003532 -->
-[Not yet translated: U03532.]
+As stated, habituation is the close application of mindfulness to ordinary mind. Practicing it with the four right abandonments as its support, one successively actualizes the thirty-seven factors conducive to awakening: among the four bases, principally deep absorption of ordinary mind endowed with the formations of abandonment; the faculty of mindfulness; the strength of mindfulness; mindfulness among the seven factors of perfect awakening; and the factors of the noble path. Finally, it is accomplished up to the unshared [quality described here as] “possessing impaired mindfulness.”[^N-C-030]
 
 <!-- pair: TGD-003533 -->
-[Not yet translated: U03533.]
-
-<!-- pair: TGD-003534 -->
-[Not yet translated: U03534.]
+Vajra statement. Some say that virtue and wrongdoing are free, respectively, from accepting and rejecting, since deeds, agents, and ripened results are all emptiness.
 
 <!-- pair: TGD-003535 -->
-[Not yet translated: U03535.]
-
-<!-- pair: TGD-003536 -->
-[Not yet translated: U03536.]
-
-<!-- pair: TGD-003537 -->
-[Not yet translated: U03537.]
-
-<!-- pair: TGD-003538 -->
-[Not yet translated: U03538.]
-
-<!-- pair: TGD-003539 -->
-[Not yet translated: U03539.]
-
-<!-- pair: TGD-003540 -->
-[Not yet translated: U03540.]
-
-<!-- pair: TGD-003541 -->
-[Not yet translated: U03541.]
-
-<!-- pair: TGD-003542 -->
-[Not yet translated: U03542.]
+Here, activity is held to be ethical discipline free from accepting wrongdoing and rejecting virtue. Attractive objects of desire, together with what is to be prohibited, become sources [of suffering]; unpleasant objects of aversion, together with the path of liberation to be accomplished, are not to be discarded. For example, even regarding the single matter of food, the Vinaya Kārikā says:[^N-C-031]
 
 <!-- pair: TGD-003543 -->
-[Not yet translated: U03543.]
-
-<!-- pair: TGD-003544 -->
-[Not yet translated: U03544.]
+Eat with the ordinary mind’s intention, “I shall eat
+To avert the illness of sores.”
 
 <!-- pair: TGD-003545 -->
-[Not yet translated: U03545.]
-
-<!-- pair: TGD-003546 -->
-[Not yet translated: U03546.]
-
-<!-- pair: TGD-003547 -->
-[Not yet translated: U03547.]
+And in the perfections, one is told to eat for the worms in the body. In mantra too, offering [food] to the maṇḍala’s deities is taught as freedom from attachment and aversion.[^N-C-032]
 
 <!-- pair: TGD-003548 -->
-[Not yet translated: U03548.]
+In brief, the Secret Activity says:
 
 <!-- pair: TGD-003549 -->
-[Not yet translated: U03549.]
-
-<!-- pair: TGD-003550 -->
-[Not yet translated: U03550.]
-
-<!-- pair: TGD-003551 -->
-[Not yet translated: U03551.]
-
-<!-- pair: TGD-003552 -->
-[Not yet translated: U03552.]
+Activity without view
+And view without activity—
+These two are samaya demons of secret mantra
+And bring birth in the hell of Unceasing Torment.
 
 <!-- pair: TGD-003553 -->
-[Not yet translated: U03553.]
-
-<!-- pair: TGD-003554 -->
-[Not yet translated: U03554.]
-
-<!-- pair: TGD-003555 -->
-[Not yet translated: U03555.]
+Thus, if the happiness of bestowing a hundred sense pleasures on this body and the suffering of thrusting a hundred spears into it are equal, and one does not conceptualize them separately, one is liberated from cause and result. Otherwise:
 
 <!-- pair: TGD-003556 -->
-[Not yet translated: U03556.]
-
-<!-- pair: TGD-003557 -->
-[Not yet translated: U03557.]
-
-<!-- pair: TGD-003558 -->
-[Not yet translated: U03558.]
-
-<!-- pair: TGD-003559 -->
-[Not yet translated: U03559.]
+Desire, hatred, and bewilderment—
+Karma generated by these is nonvirtue.
+Nonattachment, nonhatred, and freedom from bewilderment—
+Karma generated by these is virtue.
 
 <!-- pair: TGD-003560 -->
-[Not yet translated: U03560.]
-
-<!-- pair: TGD-003561 -->
-[Not yet translated: U03561.]
-
-<!-- pair: TGD-003562 -->
-[Not yet translated: U03562.]
-
-<!-- pair: TGD-003563 -->
-[Not yet translated: U03563.]
-
-<!-- pair: TGD-003564 -->
-[Not yet translated: U03564.]
+As this says, the meaning is not “Do not accept virtue; do not reject wrongdoing.” Rather, whoever one is—superior, inferior, or middling—there is to be no intention of attachment to virtue and hatred toward nonvirtue.
 
 <!-- pair: TGD-003565 -->
-[Not yet translated: U03565.]
-
-<!-- pair: TGD-003566 -->
-[Not yet translated: U03566.]
-
-<!-- pair: TGD-003567 -->
-[Not yet translated: U03567.]
+Moreover, the activity undertaken by someone possessing view and realization must consist of practicing the essential meaning, the three precious trainings, without attachment or hatred.
 
 <!-- pair: TGD-003568 -->
-[Not yet translated: U03568.]
-
-<!-- pair: TGD-003569 -->
-[Not yet translated: U03569.]
-
-<!-- pair: TGD-003570 -->
-[Not yet translated: U03570.]
-
-<!-- pair: TGD-003571 -->
-[Not yet translated: U03571.]
-
-<!-- pair: TGD-003572 -->
-[Not yet translated: U03572.]
-
-<!-- pair: TGD-003573 -->
-[Not yet translated: U03573.]
+Vajra statement. Many hold view, cultivation, and activity to be different. Here, these three are held to be one, without separate differences: one cultivates the view endowed with realization and enhances it without contradicting it; moreover, all three must be practiced as lacking intrinsic nature. Accordingly:
 
 <!-- pair: TGD-003574 -->
-[Not yet translated: U03574.]
+When view, cultivation, and activity are one, the three embodiments have no joining or separation.[^N-C-033]
 
 <!-- pair: TGD-003575 -->
-[Not yet translated: U03575.]
+So it is said.
 
 <!-- pair: TGD-003576 -->
-[Not yet translated: U03576.]
-
-<!-- pair: TGD-003577 -->
-[Not yet translated: U03577.]
-
-<!-- pair: TGD-003578 -->
-[Not yet translated: U03578.]
-
-<!-- pair: TGD-003579 -->
-[Not yet translated: U03579.]
+Vajra statement. Some say, “Nondual Mahamudra and ethical discipline involving rejecting and accepting, denying and affirming, are not the same; they contradict each other.” Here, Mahamudra and ethical discipline share one essential point. This occurrence of emptiness as cause and result is a distinctive teaching absent elsewhere.
 
 <!-- pair: TGD-003580 -->
-[Not yet translated: U03580.]
-
-<!-- pair: TGD-003581 -->
-[Not yet translated: U03581.]
-
-<!-- pair: TGD-003582 -->
-[Not yet translated: U03582.]
-
-<!-- pair: TGD-003583 -->
-[Not yet translated: U03583.]
-
-<!-- pair: TGD-003584 -->
-[Not yet translated: U03584.]
-
-<!-- pair: TGD-003585 -->
-[Not yet translated: U03585.]
-
-<!-- pair: TGD-003586 -->
-[Not yet translated: U03586.]
-
-<!-- pair: TGD-003587 -->
-[Not yet translated: U03587.]
-
-<!-- pair: TGD-003588 -->
-[Not yet translated: U03588.]
+For, if ordinary mind itself is realized, attachment and hatred are absent; ethical discipline also abandons them, and that too depends on the Ground, the nature of phenomena. Clear realization of Mahamudra must depend on the ground of ethical discipline. They share the function of abandoning the three poisons and accomplishing temporary and ultimate qualities, and they are one with emptiness, the actual condition as it is.[^N-C-034]
 
 <!-- pair: TGD-003589 -->
-[Not yet translated: U03589.]
+Likewise:
 
 <!-- pair: TGD-003590 -->
-[Not yet translated: U03590.]
-
-<!-- pair: TGD-003591 -->
-[Not yet translated: U03591.]
-
-<!-- pair: TGD-003592 -->
-[Not yet translated: U03592.]
-
-<!-- pair: TGD-003593 -->
-[Not yet translated: U03593.]
+If there were no buddha element,
+There would be no disenchantment with suffering,
+No desire for nirvāṇa,
+And no aspiration to seek it.
 
 <!-- pair: TGD-003594 -->
-[Not yet translated: U03594.]
+The noble master said:
 
 <!-- pair: TGD-003595 -->
-[Not yet translated: U03595.]
-
-<!-- pair: TGD-003596 -->
-[Not yet translated: U03596.]
+Ethical discipline is said to be the supporting ground of all qualities,
+As earth is for the moving and the unmoving.
 
 <!-- pair: TGD-003597 -->
-[Not yet translated: U03597.]
+And:
 
 <!-- pair: TGD-003598 -->
-[Not yet translated: U03598.]
-
-<!-- pair: TGD-003599 -->
-[Not yet translated: U03599.]
-
-<!-- pair: TGD-003600 -->
-[Not yet translated: U03600.]
-
-<!-- pair: TGD-003601 -->
-[Not yet translated: U03601.]
+For ordinary people, those born from the [Buddha’s] speech,
+Those whose character is fixed on solitary awakening,
+And the children of the victorious ones, there is no cause
+Of definite goodness and higher rebirth other than ethical discipline.[^N-C-035]
 
 <!-- pair: TGD-003602 -->
-[Not yet translated: U03602.]
+And:
 
 <!-- pair: TGD-003603 -->
-[Not yet translated: U03603.]
+Through ethical discipline, those who desire peace become noble.
 
 <!-- pair: TGD-003604 -->
-[Not yet translated: U03604.]
-
-<!-- pair: TGD-003605 -->
-[Not yet translated: U03605.]
+And the King of Deep Absorption says:
 
 <!-- pair: TGD-003606 -->
-[Not yet translated: U03606.]
-
-<!-- pair: TGD-003607 -->
-[Not yet translated: U03607.]
-
-<!-- pair: TGD-003608 -->
-[Not yet translated: U03608.]
-
-<!-- pair: TGD-003609 -->
-[Not yet translated: U03609.]
+By cultivating emptiness, this king of deep absorption,
+One stands at the summit of pure ethical discipline.
+Having rested in equipoise in phenomena’s emptiness of intrinsic nature,
+The childish, intent on touching fire, do not know [this].[^N-C-036]
 
 <!-- pair: TGD-003610 -->
-[Not yet translated: U03610.]
-
-<!-- pair: TGD-003611 -->
-[Not yet translated: U03611.]
-
-<!-- pair: TGD-003612 -->
-[Not yet translated: U03612.]
-
-<!-- pair: TGD-003613 -->
-[Not yet translated: U03613.]
-
-<!-- pair: TGD-003614 -->
-[Not yet translated: U03614.]
-
-<!-- pair: TGD-003615 -->
-[Not yet translated: U03615.]
+So it is said. In brief, although both are free of afflictions, they do not interrupt wholesome Dharma activity. Though there is no fear of falling into bad destinies, they are one in [avoiding] even subtle wrongdoing.[^N-C-037]
 
 <!-- pair: TGD-003616 -->
-[Not yet translated: U03616.]
-
-<!-- pair: TGD-003617 -->
-[Not yet translated: U03617.]
-
-<!-- pair: TGD-003618 -->
-[Not yet translated: U03618.]
-
-<!-- pair: TGD-003619 -->
-[Not yet translated: U03619.]
-
-<!-- pair: TGD-003620 -->
-[Not yet translated: U03620.]
-
-<!-- pair: TGD-003621 -->
-[Not yet translated: U03621.]
-
-<!-- pair: TGD-003622 -->
-[Not yet translated: U03622.]
+Vajra statement. Some say, “Mahamudra is like space, so it cannot be assigned to virtue or nonvirtue; it is emptiness without faults or qualities.” Here, Mahamudra abides as the very character of all qualities throughout the Ground, path, and result. At the time of the Ground, disenchantment with suffering and the arising of desire and aspiration for nirvāṇa are the power of the element. The Supreme Continuum says:
 
 <!-- pair: TGD-003623 -->
-[Not yet translated: U03623.]
-
-<!-- pair: TGD-003624 -->
-[Not yet translated: U03624.]
-
-<!-- pair: TGD-003625 -->
-[Not yet translated: U03625.]
-
-<!-- pair: TGD-003626 -->
-[Not yet translated: U03626.]
+If there were no buddha element,
+There would be no disenchantment with suffering,
+No aspiration for nirvāṇa,
+And no wish to seek it.
 
 <!-- pair: TGD-003627 -->
-[Not yet translated: U03627.]
-
-<!-- pair: TGD-003628 -->
-[Not yet translated: U03628.]
-
-<!-- pair: TGD-003629 -->
-[Not yet translated: U03629.]
-
-<!-- pair: TGD-003630 -->
-[Not yet translated: U03630.]
+So it is said. The lama’s pointing out that very Ground and one’s becoming familiar with it is called the path. Through its power, whatever roots of virtue one undertakes become immeasurable. The Mother says:
 
 <!-- pair: TGD-003631 -->
-[Not yet translated: U03631.]
-
-<!-- pair: TGD-003632 -->
-[Not yet translated: U03632.]
+“Those who wish to pervade all world systems with a single flower or a single parasol should train in the perfection of discerning knowing.”
 
 <!-- pair: TGD-003633 -->
-[Not yet translated: U03633.]
-
-<!-- pair: TGD-003634 -->
-[Not yet translated: U03634.]
-
-<!-- pair: TGD-003635 -->
-[Not yet translated: U03635.]
-
-<!-- pair: TGD-003636 -->
-[Not yet translated: U03636.]
-
-<!-- pair: TGD-003637 -->
-[Not yet translated: U03637.]
-
-<!-- pair: TGD-003638 -->
-[Not yet translated: U03638.]
+So it is said. At the time of the result, the Dharma embodiment, together with its qualities and deeds, arises without interruption; thus it abides as the very character of qualities. In brief, throughout the Ground, path, and result, it abides without removing faults or adding qualities. The Supreme Continuum says:
 
 <!-- pair: TGD-003639 -->
-[Not yet translated: U03639.]
-
-<!-- pair: TGD-003640 -->
-[Not yet translated: U03640.]
-
-<!-- pair: TGD-003641 -->
-[Not yet translated: U03641.]
-
-<!-- pair: TGD-003642 -->
-[Not yet translated: U03642.]
+There is nothing here to remove,
+And not the slightest thing to add.
+Look authentically at the authentic;
+Seeing authentically, one is fully liberated.
 
 <!-- pair: TGD-003643 -->
-[Not yet translated: U03643.]
+So it is said.
 
 <!-- pair: TGD-003644 -->
-[Not yet translated: U03644.]
-
-<!-- pair: TGD-003645 -->
-[Not yet translated: U03645.]
-
-<!-- pair: TGD-003646 -->
-[Not yet translated: U03646.]
+[1] Vajra statement. Some say that qualities do not arise from equipoise but from post-cultivation attainment, citing Lord Atiśa:
 
 <!-- pair: TGD-003647 -->
-[Not yet translated: U03647.]
-
-<!-- pair: TGD-003648 -->
-[Not yet translated: U03648.]
+If ordinary mind is stable in equipoise,
+Do not give priority to virtue of body and speech.
 
 <!-- pair: TGD-003649 -->
-[Not yet translated: U03649.]
-
-<!-- pair: TGD-003650 -->
-[Not yet translated: U03650.]
-
-<!-- pair: TGD-003651 -->
-[Not yet translated: U03651.]
-
-<!-- pair: TGD-003652 -->
-[Not yet translated: U03652.]
-
-<!-- pair: TGD-003653 -->
-[Not yet translated: U03653.]
-
-<!-- pair: TGD-003654 -->
-[Not yet translated: U03654.]
+They also say that equipoise is like space. Further, there is the claim here that both virtue and nonvirtue obscure Mahamudra itself because they are formations, citing the Root [Verses on] Discerning Knowing:[^N-C-038]
 
 <!-- pair: TGD-003655 -->
-[Not yet translated: U03655.]
+The root of saṃsāra is formations.
 
 <!-- pair: TGD-003656 -->
-[Not yet translated: U03656.]
-
-<!-- pair: TGD-003657 -->
-[Not yet translated: U03657.]
-
-<!-- pair: TGD-003658 -->
-[Not yet translated: U03658.]
-
-<!-- pair: TGD-003659 -->
-[Not yet translated: U03659.]
-
-<!-- pair: TGD-003660 -->
-[Not yet translated: U03660.]
-
-<!-- pair: TGD-003661 -->
-[Not yet translated: U03661.]
+They say this is like white and black clouds: there is no difference in their obscuring the sun. Here, however, the essence of virtue cannot obscure Mahamudra in the Ground, path, or result. Like a lake and its waves, methods such as the thirty-seven factors conducive to awakening arise from it itself and make its essence grow ever greater. Through going for refuge and so forth, at buddhahood there arises nothing but the wheel of the Jewels.
 
 <!-- pair: TGD-003662 -->
-[Not yet translated: U03662.]
-
-<!-- pair: TGD-003663 -->
-[Not yet translated: U03663.]
-
-<!-- pair: TGD-003664 -->
-[Not yet translated: U03664.]
-
-<!-- pair: TGD-003665 -->
-[Not yet translated: U03665.]
+For every virtue done at the Ground and on the path ultimately, at buddhahood, brings inconceivable enlightened activity into uninterrupted engagement with the realms of beings.
 
 <!-- pair: TGD-003666 -->
-[Not yet translated: U03666.]
-
-<!-- pair: TGD-003667 -->
-[Not yet translated: U03667.]
-
-<!-- pair: TGD-003668 -->
-[Not yet translated: U03668.]
-
-<!-- pair: TGD-003669 -->
-[Not yet translated: U03669.]
-
-<!-- pair: TGD-003670 -->
-[Not yet translated: U03670.]
-
-<!-- pair: TGD-003671 -->
-[Not yet translated: U03671.]
-
-<!-- pair: TGD-003672 -->
-[Not yet translated: U03672.]
-
-<!-- pair: TGD-003673 -->
-[Not yet translated: U03673.]
-
-<!-- pair: TGD-003674 -->
-[Not yet translated: U03674.]
-
-<!-- pair: TGD-003675 -->
-[Not yet translated: U03675.]
+It is held that all qualities arise during equipoise. On attaining the path of seeing there are twelve sets of one hundred qualities; on the second ground, twelve sets of one thousand; on the fourth, twelve sets of one hundred koṭis; on the fifth, twelve sets of one thousand koṭis; on the sixth, twelve sets of one hundred thousand koṭis; on the seventh, twelve sets of one hundred thousand khrak-khrik; on the eighth, twelve times the number of particles in one hundred thousand great thousandfold world systems; and on the ninth, twelve times the number of particles in ten hundred thousand great thousandfold world systems.[^N-C-039]
 
 <!-- pair: TGD-003676 -->
-[Not yet translated: U03676.]
-
-<!-- pair: TGD-003677 -->
-[Not yet translated: U03677.]
-
-<!-- pair: TGD-003678 -->
-[Not yet translated: U03678.]
-
-<!-- pair: TGD-003679 -->
-[Not yet translated: U03679.]
-
-<!-- pair: TGD-003680 -->
-[Not yet translated: U03680.]
-
-<!-- pair: TGD-003681 -->
-[Not yet translated: U03681.]
-
-<!-- pair: TGD-003682 -->
-[Not yet translated: U03682.]
-
-<!-- pair: TGD-003683 -->
-[Not yet translated: U03683.]
-
-<!-- pair: TGD-003684 -->
-[Not yet translated: U03684.]
-
-<!-- pair: TGD-003685 -->
-[Not yet translated: U03685.]
+On the tenth ground, [the qualities number] the particles of the inexpressible: seeing the faces of buddhas and knowing their blessings; going to their fields; entering and emerging from deep absorption; shaking fields; making fields appear; opening Dharma gateways; maturing beings; abiding for aeons; directing the gaze of primordial knowing to former abodes; displaying bodies; and displaying a surrounding retinue of “scripture and awareness.”[^N-C-040]
 
 <!-- pair: TGD-003686 -->
-[Not yet translated: U03686.]
-
-<!-- pair: TGD-003687 -->
-[Not yet translated: U03687.]
-
-<!-- pair: TGD-003688 -->
-[Not yet translated: U03688.]
-
-<!-- pair: TGD-003689 -->
-[Not yet translated: U03689.]
-
-<!-- pair: TGD-003690 -->
-[Not yet translated: U03690.]
-
-<!-- pair: TGD-003691 -->
-[Not yet translated: U03691.]
-
-<!-- pair: TGD-003692 -->
-[Not yet translated: U03692.]
+As equipoise grows, qualities also increase. The inconceivable qualities at the culmination of the ten grounds, and the enlightened activity that matures and liberates beings after buddhahood, all arise from equipoise. Lord Phakdru said:
 
 <!-- pair: TGD-003693 -->
-[Not yet translated: U03693.]
-
-<!-- pair: TGD-003694 -->
-[Not yet translated: U03694.]
+The qualities of bodhisattvas on the ten grounds
+Are their abiding in the unborn.
 
 <!-- pair: TGD-003695 -->
-[Not yet translated: U03695.]
-
-<!-- pair: TGD-003696 -->
-[Not yet translated: U03696.]
-
-<!-- pair: TGD-003697 -->
-[Not yet translated: U03697.]
-
-<!-- pair: TGD-003698 -->
-[Not yet translated: U03698.]
-
-<!-- pair: TGD-003699 -->
-[Not yet translated: U03699.]
-
-<!-- pair: TGD-003700 -->
-[Not yet translated: U03700.]
-
-<!-- pair: TGD-003701 -->
-[Not yet translated: U03701.]
+So it is said. Were it otherwise, qualities ought to arise in lower ordinary beings but not in buddhas, because ordinary beings have only subsequent knowing, whereas buddhas never lack equipoise. This is refuted by the statement that the difference between the qualities of buddhas and tenth-ground bodhisattvas is like that between an ocean and the water in a cow’s hoofprint.[^N-C-041]
 
 <!-- pair: TGD-003702 -->
-[Not yet translated: U03702.]
-
-<!-- pair: TGD-003703 -->
-[Not yet translated: U03703.]
-
-<!-- pair: TGD-003704 -->
-[Not yet translated: U03704.]
-
-<!-- pair: TGD-003705 -->
-[Not yet translated: U03705.]
+Vajra statement. Some say, “If one realizes Dharma embodiment Mahamudra, all qualities arise even without accomplishing their causes.” Here, all qualities cannot arise without accomplishing their causes, for otherwise qualities would arise even in someone who had not gathered the two accumulations. Accordingly, the Heap of Jewels says:
 
 <!-- pair: TGD-003706 -->
-[Not yet translated: U03706.]
-
-<!-- pair: TGD-003707 -->
-[Not yet translated: U03707.]
-
-<!-- pair: TGD-003708 -->
-[Not yet translated: U03708.]
-
-<!-- pair: TGD-003709 -->
-[Not yet translated: U03709.]
+Through the causes and conditions of inconceivable
+Virtuous karma on the grounds,
+By completely abandoning bewilderment,
+Various rays of light are accomplished.[^N-C-042]
 
 <!-- pair: TGD-003710 -->
-[Not yet translated: U03710.]
-
-<!-- pair: TGD-003711 -->
-[Not yet translated: U03711.]
-
-<!-- pair: TGD-003712 -->
-[Not yet translated: U03712.]
-
-<!-- pair: TGD-003713 -->
-[Not yet translated: U03713.]
-
-<!-- pair: TGD-003714 -->
-[Not yet translated: U03714.]
-
-<!-- pair: TGD-003715 -->
-[Not yet translated: U03715.]
-
-<!-- pair: TGD-003716 -->
-[Not yet translated: U03716.]
+Countless such statements are taught. Qualities arising in equipoise and not arising without accomplishing their causes are not contradictory: the causes are accomplished without separation from that state, so this does not become subsequent knowing. For the Condensed [Perfection] says, “There is no conceited ordinary mind thinking, ‘I am in equipoise,’ or ‘I have arisen.’”
 
 <!-- pair: TGD-003717 -->
-[Not yet translated: U03717.]
-
-<!-- pair: TGD-003718 -->
-[Not yet translated: U03718.]
-
-<!-- pair: TGD-003719 -->
-[Not yet translated: U03719.]
-
-<!-- pair: TGD-003720 -->
-[Not yet translated: U03720.]
-
-<!-- pair: TGD-003721 -->
-[Not yet translated: U03721.]
+Addendum. Some say that the qualities of results of separation do not require causes. Here, all results of separation have causes, because a result without a cause is impossible in the actual condition. Thus, in the Sūtra of the Questions of the Girl Ratna:[^N-C-043]
 
 <!-- pair: TGD-003722 -->
-[Not yet translated: U03722.]
-
-<!-- pair: TGD-003723 -->
-[Not yet translated: U03723.]
-
-<!-- pair: TGD-003724 -->
-[Not yet translated: U03724.]
-
-<!-- pair: TGD-003725 -->
-[Not yet translated: U03725.]
-
-<!-- pair: TGD-003726 -->
-[Not yet translated: U03726.]
+“Girl, when practicing bodhisattva activity, one possesses the power of teaching that this Lesser Vehicle is impossible and has no occasion [to occur]. At buddhahood one will attain the power of knowing what is possible and impossible.” Such things are said.[^N-C-044]
 
 <!-- pair: TGD-003727 -->
-[Not yet translated: U03727.]
-
-<!-- pair: TGD-003728 -->
-[Not yet translated: U03728.]
-
-<!-- pair: TGD-003729 -->
-[Not yet translated: U03729.]
-
-<!-- pair: TGD-003730 -->
-[Not yet translated: U03730.]
+Vajra statement. Some say, “Since all phenomena are no other than one’s own ordinary mind, when its nature of phenomena is realized through the path, all the diverse appearances of virtue, nonvirtue, karma, results, and so on are realized as emptiness without appearance. There is no causal dependent arising, just as in space.”
 
 <!-- pair: TGD-003731 -->
-[Not yet translated: U03731.]
-
-<!-- pair: TGD-003732 -->
-[Not yet translated: U03732.]
-
-<!-- pair: TGD-003733 -->
-[Not yet translated: U03733.]
-
-<!-- pair: TGD-003734 -->
-[Not yet translated: U03734.]
-
-<!-- pair: TGD-003735 -->
-[Not yet translated: U03735.]
-
-<!-- pair: TGD-003736 -->
-[Not yet translated: U03736.]
-
-<!-- pair: TGD-003737 -->
-[Not yet translated: U03737.]
-
-<!-- pair: TGD-003738 -->
-[Not yet translated: U03738.]
+Here, when emptiness is realized, causal dependent arising itself occurs inseparably from it, without obstruction, like an illusory appearance. Thus emptiness does not block cause and result. For example, when a rainbow arising in space appears inseparably from that space, space does not block the rainbow. Accordingly, the King of Deep Absorption says:
 
 <!-- pair: TGD-003739 -->
-[Not yet translated: U03739.]
-
-<!-- pair: TGD-003740 -->
-[Not yet translated: U03740.]
-
-<!-- pair: TGD-003741 -->
-[Not yet translated: U03741.]
-
-<!-- pair: TGD-003742 -->
-[Not yet translated: U03742.]
+Though one knows that in the nature of phenomena there is no karmic ripening,
+Virtuous and nonvirtuous karma does not go to waste.
+That vehicle of solitary victors, abiding in peace,
+Follows the word of the hearers’ liberation.[^N-C-045]
 
 <!-- pair: TGD-003743 -->
-[Not yet translated: U03743.]
+The Sūtra of the Questions of Jönpa says:
 
 <!-- pair: TGD-003744 -->
-[Not yet translated: U03744.]
-
-<!-- pair: TGD-003745 -->
-[Not yet translated: U03745.]
-
-<!-- pair: TGD-003746 -->
-[Not yet translated: U03746.]
-
-<!-- pair: TGD-003747 -->
-[Not yet translated: U03747.]
+Blessed One, skilled in dependence on causes,
+Never possessing views of the two extremes,
+You teach precisely the ripened results of karma.
+Homage to you, free from the darkness of views.
 
 <!-- pair: TGD-003748 -->
-[Not yet translated: U03748.]
-
-<!-- pair: TGD-003749 -->
-[Not yet translated: U03749.]
+So it is said. The Jetsün gave Gampopa this Dharma instruction at his departure:
 
 <!-- pair: TGD-003750 -->
-[Not yet translated: U03750.]
-
-<!-- pair: TGD-003751 -->
-[Not yet translated: U03751.]
-
-<!-- pair: TGD-003752 -->
-[Not yet translated: U03752.]
-
-<!-- pair: TGD-003753 -->
-[Not yet translated: U03753.]
+Though you have no hope for buddhahood above,
+Do not interrupt wholesome Dharma activity.
+Though you have no fear of bad destinies below,
+Shun even the subtlest wrongdoing.
+So he said, and more.
 
 <!-- pair: TGD-003754 -->
-[Not yet translated: U03754.]
-
-<!-- pair: TGD-003755 -->
-[Not yet translated: U03755.]
-
-<!-- pair: TGD-003756 -->
-[Not yet translated: U03756.]
-
-<!-- pair: TGD-003757 -->
-[Not yet translated: U03757.]
-
-<!-- pair: TGD-003758 -->
-[Not yet translated: U03758.]
-
-<!-- pair: TGD-003759 -->
-[Not yet translated: U03759.]
-
-<!-- pair: TGD-003760 -->
-[Not yet translated: U03760.]
-
-<!-- pair: TGD-003761 -->
-[Not yet translated: U03761.]
-
-<!-- pair: TGD-003762 -->
-[Not yet translated: U03762.]
+If one thinks this contradictory, it is not. The King of Deep Absorption speaks of “the king of deep absorption in the evenness of all phenomena, extensively elaborated.” Evenness is emptiness; extensive elaboration is the elaboration of causal dependent arising. These two are taught as noncontradictory. Likewise:
 
 <!-- pair: TGD-003763 -->
-[Not yet translated: U03763.]
-
-<!-- pair: TGD-003764 -->
-[Not yet translated: U03764.]
+For whom emptiness is tenable,
+Everything is tenable.
 
 <!-- pair: TGD-003765 -->
-[Not yet translated: U03765.]
+And:
 
 <!-- pair: TGD-003766 -->
-[Not yet translated: U03766.]
-
-<!-- pair: TGD-003767 -->
-[Not yet translated: U03767.]
-
-<!-- pair: TGD-003768 -->
-[Not yet translated: U03768.]
+There is no phenomenon whatsoever
+Apart from dependent arising.
+Therefore, [something] that is not emptiness—[quotation breaks off].[^N-C-046]
 
 <!-- pair: TGD-003769 -->
-[Not yet translated: U03769.]
-
-<!-- pair: TGD-003770 -->
-[Not yet translated: U03770.]
-
-<!-- pair: TGD-003771 -->
-[Not yet translated: U03771.]
-
-<!-- pair: TGD-003772 -->
-[Not yet translated: U03772.]
+So it is said. Therefore, even when ultimate omniscience is attained, there is emergence or occurrence from the state free from conceptual elaborations without abandoning the fine distinctions of cause and result.
 
 <!-- pair: TGD-003773 -->
 [Not yet translated: U03773.]
@@ -11895,7 +9357,7 @@ So it is said. If someone without qualities establishes others in qualities, tha
 
 <!-- translation-notes -->
 
-[^N-A-001]: Anchors: U00001. Exact Tibetan: རྔ་སྒྲ་ Category: contextual use. Issue: The glossary assigns Word to སྒྲ་; this title uses it for a drum’s sound. Working treatment: Drum-Word retains the assigned term while flagging the acoustic title construction. Uncertainty: The working interpretation is provisional. Review action: Approve a scoped sound sense for this title or revise the title wording.
+[^N-A-001]: Anchors: U00001. Exact Tibetan: རྔ་སྒྲ་ Category: contextual use. Issue: The glossary assigns Word to སྒྲ་; this title uses it for a drum’s sound. Working treatment: Summer Drum Sound is a provisional acoustic rendering of this title compound; Word remains the unchanged canonical assignment. Uncertainty: The working interpretation is provisional. Review action: Approve a scoped sound sense for this title or revise the title wording.
 
 [^N-A-002]: Anchors: U00004. Exact Tibetan: སྤང་རྟོག་ Category: source reading. Issue: The supplied reading has རྟོག་, conceptualizing, where the formula appears to require རྟོགས་, realization. Working treatment: The conventional formula is supplied in brackets; the Tibetan remains unchanged. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
 
@@ -11924,6 +9386,62 @@ So it is said. If someone without qualities establishes others in qualities, tha
 [^N-A-014]: Anchors: U00193. Exact Tibetan: དེ་ལ་བྱེ་བྲག་སྨྲ་བ་གྲག་ Category: source reading. Issue: The quotation is only an incipit, and its exact grammatical completion is absent. Working treatment: Retain a provisional incipit instead of attributing a complete claim to the Vaibhāṣikas. Uncertainty: The working interpretation is provisional. Review action: Identify the quotation and verify གྲག་.
 
 [^N-A-015]: Anchors: U00197, U00198, U00199. Exact Tibetan: མདོ་སྡེ་དབྱངས་བསྙད་ལུང་བསྟན་ཚིགས་བཅད་ཆེད་བརྗོད་ Category: terminology gap. Issue: Names of the twelve scriptural branches lack established full-expression glossary entries. Working treatment: Render each as a separate branch, preserving source order; labels are provisional. Uncertainty: The working interpretation is provisional. Review action: Approve a consistent twelve-branch terminology set.
+
+[^N-A-016]: Anchors: U00221, U00225, U00226. Exact Tibetan: མི་ཆོག་ཆོག་ག་ Category: source reading. Issue: U00221 contains a repeated/doubtful phrase; U00225–226 are compressed quotation fragments. Working treatment: Translate the explicit insufficiency and progression; retain quotation fragments without inventing their missing continuation. Uncertainty: The working interpretation is provisional. Review action: Verify the repeated phrase and identify the quoted passages.
+
+[^N-A-017]: Anchors: U00246. Exact Tibetan: གཏུམ་པོ་རབ་སྣང་ལ་གསུམ་གསོལ་བས་ Category: syntax/reference. Issue: The relation of Caṇḍapradyota, the three requests, and the teaching is syntactically compressed. Working treatment: Render the requests as the occasion of teaching, provisionally. Uncertainty: The working interpretation is provisional. Review action: Verify the cited episode and its participants.
+
+[^N-A-018]: Anchors: U00253, U00255. Exact Tibetan: སྡོམ་པའི་ངོ་བོ་རྣམ་རིག་མིན་པ་ Category: terminology gap. Issue: The technical compound for non-informative form is compressed, without an explicit form noun. The basis analogy uses གཞི་ ordinarily, rather than an explicit doctrinal Ground. Working treatment: Supply form in brackets; use basis provisionally in the analogy. Uncertainty: The working interpretation is provisional. Review action: Approve terminology for རྣམ་རིག་མིན་པ་ and this ordinary basis construction.
+
+[^N-A-019]: Anchors: U00300. Exact Tibetan: རྣལ་འབྱོར་བཞིར་འཁོར་ལོ་བཞིའི་དོན་དང་གཅིག་པས་གསུམ་དུ་ངེས་པའོ། Category: scope. Issue: The source invokes four yogas and four wheels while concluding that three are established. Working treatment: Retain all numbers; no fourth-to-third harmonization. Uncertainty: The working interpretation is provisional. Review action: Check the four-wheels reading and the intended relation to three turnings.
+
+[^N-A-020]: Anchors: U00304. Exact Tibetan: མདོ་བཟུང་བ་སྙིང་པོ་བསྟན་པ་ Category: source reading. Issue: The sequence may contain a sūtra title or compressed description; its boundaries are uncertain. Working treatment: Keep the reference visibly unresolved rather than inventing a title. Uncertainty: The working interpretation is provisional. Review action: Identify the sūtra and verify the word division.
+
+[^N-A-021]: Anchors: U00308, U00309. Exact Tibetan: སངས་རྒྱས་མ་ཐག་རྣམ་འཇོམས་སོར་འབྲད་ཕལ་པོ་ཆེའི་དབུ་སྟོད་སོགས་དང༌། Category: source reading. Issue: U00308–309 have no human translation and contain doubtful or compressed textual titles, including སོར་འབྲད་ and ནོར་བཟང་མི་. Working treatment: Translate the temporal argument and retain bracketed provisional title identifications; not all titles are resolved. Uncertainty: The working interpretation is provisional. Review action: Collate these lines and identify every cited text; review whether སྡོང་པོ་རྒྱན་ refers to Gaṇḍavyūha.
+
+[^N-A-022]: Anchors: U00317. Exact Tibetan: བརྗོད་དོན་ཡིན་གྱི་བདེན་བཞི་བསྟན་པའི་ཕྱིར། Category: syntax/reference. Issue: The objection’s transition is compressed and appears textually awkward. Working treatment: Supply the subject of the concluding classification in brackets; preserve the opposition between Vinaya’s subjects and Abhidharma’s four truths. Uncertainty: The working interpretation is provisional. Review action: Check the clause ending after ཡིན་གྱི་.
+
+[^N-A-023]: Anchors: U00323, U00325, U00329. Exact Tibetan: རབ་བྱུང་སོགས་བཞི་བཅུ་བདུན་ Category: scope. Issue: The nouns governed by 253 and 47 are compressed or absent; the lama/path root-branch relation is terse. Working treatment: Supply rules and matters provisionally, retain both counts and the stated root/branch relation. Uncertainty: The working interpretation is provisional. Review action: Verify the counted sets and syntactic attachment of lama and noble path.
+
+[^N-A-024]: Anchors: U00333, U00334. Exact Tibetan: གང་འབྱུང་ན་གང་ཟག་གམ་ཀུན་འབྱུང༌། Category: syntax/reference. Issue: The identification of person with origin is unusually compressed; the parallel question concerns emergence. Working treatment: Preserve the alternatives as written rather than replacing origin with suffering. Uncertainty: The working interpretation is provisional. Review action: Check the alignment of the four truths with the questions.
+
+[^N-A-025]: Anchors: U00339, U00342. Exact Tibetan: ང་དང་ཁྱེད་ཅག་ཁོ་ན་ལས། Category: source reading. Issue: The first line’s ཁོ་ན་ལས་ is doubtful, and the last contains joined or malformed syllables. The reference’s “except you and me” changes the participants. Working treatment: Render the inclusive first-person reading provisionally and bracket the supplied verb. Uncertainty: The working interpretation is provisional. Review action: Compare this four-truths quotation with its source; verify the inclusive subject.
+
+[^N-A-026]: Anchors: U00350. Exact Tibetan: རིག་པ་ཕའང་ Category: source reading. Issue: This appears defective and cannot securely be construed as the reference’s “father of awareness.” Working treatment: Retain the exact Tibetan for the unresolved phrase; translate the clear remainder. Uncertainty: The working interpretation is provisional. Review action: Check whether a reasoning formula such as རིགས་པས་ཀྱང་ was intended, without silently emending.
+
+[^N-A-027]: Anchors: U00352, U00353, U00354, U00355, U00356. Exact Tibetan: ཕྱི་མ་གཉིས་ཀྱང་ངེས་དོན་མིན་ Category: syntax/reference. Issue: Several rival classifications are juxtaposed without clear quotation boundaries; the referent of latter two is uncertain. Working treatment: Keep the differing claims distinct and flag their unresolved allocation. Uncertainty: The working interpretation is provisional. Review action: Identify the rival schemes and the scope of each attribution.
+
+[^N-A-028]: Anchors: U00374. Exact Tibetan: བར་པ་གཉིས་ Category: source reading. Issue: Literally “the middle two” does not clearly fit the threefold scheme. Working treatment: Supply preceding in brackets provisionally, keeping the stated count two. Uncertainty: The working interpretation is provisional. Review action: Check བར་པ་གཉིས་ against the cited sūtra and source witness.
+
+[^N-A-029]: Anchors: U00386. Exact Tibetan: གསུམ་གནས་སྐབས་ཐབས་ཀྱི་རྫུན་པར་གསུངས་པས་ངེས་དོན་ཡིན་ Category: interpretive supply. Issue: The source seems to call the three expedient falsehoods definitive; the implied contrasting group is absent. Working treatment: Supply the other three in brackets as a provisional construction, without claiming the source itself contains that group. Uncertainty: The working interpretation is provisional. Review action: Check whether a negation or contrasting clause is missing; review the six-limit terminology.
+
+[^N-A-030]: Anchors: U00407. Exact Tibetan: མནར་མེད་དུ་སྐྱེ་ངའི་ལས་ Category: source reading. Issue: The transmitted སྐྱེ་ངའི་ is irregular; a birth-causing karma construction is contextually likely. Working treatment: Translate that construction provisionally; do not read the stray syllable as an explicit first-person possessive. Uncertainty: The working interpretation is provisional. Review action: Verify whether སྐྱེ་བའི་ was intended.
+
+[^N-A-031]: Anchors: U00410, U00411, U00415. Exact Tibetan: སེམས་ཙམ་ Category: terminology gap. Issue: No whole-expression school name is established in the glossary. Working treatment: Ordinary Mind Only preserves ordinary mind for སེམས་ while identifying the school; the school-name construction is provisional. Uncertainty: The working interpretation is provisional. Review action: Approve a school-name rendering without shortening standalone ordinary mind.
+
+[^N-A-032]: Anchors: U00438, U00440, U00441, U00442, U00443, U00444. Exact Tibetan: སེམས་ལ་འཇུག་པ་རྣམ་ཤེས་ཚོགས། Category: source reading. Issue: Proper names and Abhidharma titles are compressed; the apparent list does not transparently yield the stated seven. Working treatment: Retain a provisional literal title list and the explicit count seven; do not invent a missing title. Uncertainty: The working interpretation is provisional. Review action: Identify the named figures and seven treatises, checking the word divisions.
+
+[^N-A-033]: Anchors: U00448. Exact Tibetan: མངོན་པ་གོང་འོག་མ་ཡིན་ Category: scope. Issue: This can deny higher/lower classification or deny identification with those Abhidharma collections. Working treatment: Translate as rejecting the division, following the immediately preceding identification with the Abhidharma basket. Uncertainty: The working interpretation is provisional. Review action: Review the scope of མ་ཡིན་ in the taxonomy.
+
+[^N-A-034]: Anchors: U00455. Exact Tibetan: བདེན་མ་མཐོང་ཞིང་ Category: source reading. Issue: The transmitted line appears to say “not seeing truth,” whereas the argument and following examples point to seeing truth through a reflection. Working treatment: Bracket a provisional positive reading; preserve the unchanged negative-looking Tibetan in the source. Uncertainty: The working interpretation is provisional. Review action: Check whether བདེན་པ་མཐོང་ was intended; the polarity remains unresolved.
+
+[^N-A-035]: Anchors: U00461. Exact Tibetan: ཐོས་ཆང་ Category: source reading. Issue: The compound is irregular; skull-cup liquor is a plausible reading of ཐོད་ཆང་ but is not the supplied spelling. Working treatment: Use skull-cup liquor provisionally and disclose the proposed reading. Uncertainty: The working interpretation is provisional. Review action: Check the source spelling and identify the great brahmin’s episode.
+
+[^N-A-036]: Anchors: U00473. Exact Tibetan: ཡང་དག་ཀུན་རྫོབ་རྣམ་གཉིས་སྐས། Category: source reading. Issue: Only a compressed quotation fragment is supplied, with unclear relation between authentic and conventional. Working treatment: Retain the fragment’s two terms and stairs metaphor; do not complete it. Uncertainty: The working interpretation is provisional. Review action: Locate the quotation and check its wording.
+
+[^N-A-037]: Anchors: U00493, U00497. Exact Tibetan: གོང་མ་ཐབས་བྱུང་དུ་སྐྱེ་བ་ Category: source reading. Issue: The master-king is unnamed; ཐབས་བྱུང་ is an uncertain phrase, plausibly ཐབས་ཅིག་/together. Working treatment: Keep master-king unexpanded and render together provisionally without claiming a textual repair. Uncertainty: The working interpretation is provisional. Review action: Identify the master-king and check the phrase describing simultaneous arising.
+
+[^N-A-038]: Anchors: U00500, U00501. Exact Tibetan: གདངས་ལྟར་ Category: source reading. Issue: གདངས་ is canonically radiance, but the gradual-ascent analogy may have a defective spelling of rungs; གཉིས་ཆར་ is also doubtful for simultaneous. Working treatment: Use rungs and simultaneously as disclosed provisional readings. Uncertainty: The working interpretation is provisional. Review action: Check both source forms; do not promote these contextual treatments to glossary alternatives.
+
+[^N-A-039]: Anchors: U00520, U00523, U00524. Exact Tibetan: ས་དང་པོ་མན་ངག་དང་། Category: scope. Issue: The threefold ignorance list and abandonment ranges are defective or compressed: མན་ངག་ and འདུན་པ་ do not securely yield the expected ranges. Working treatment: Give bracketed provisional range readings, retain the explicit tenth-level endpoint, and mark the sequence unresolved. Uncertainty: The working interpretation is provisional. Review action: Collate the ignorance list and all three level ranges; do not treat the inferred ranges as fixed.
+
+[^N-A-040]: Anchors: U00557, U00558. Exact Tibetan: གྲུབ་མཐའ་དན་པ་སུན་འབྱིན་བྱེད་ Category: source reading. Issue: The untranslated reference entry contains དན་པ་, an unclear modifier of tenet systems. The following ལས་ links only/refutation, rather than necessarily meaning karma. Working treatment: Translate the clear objection that logic merely refutes tenets and has no result; leave the modifier’s force unresolved. Uncertainty: The working interpretation is provisional. Review action: Check དན་པ་ and identify the Lord’s quotation.
+
+[^N-A-041]: Anchors: U00569, U00573, U00574, U00575. Exact Tibetan: ལྐོག་གྱུར་ཤིན་ཏུ་ལྐོག་གྱུར་གསུམ་ Category: terminology gap. Issue: The source lists pairs but says three; epistemological terms are abbreviated and lack established full-expression glossary entries. Working treatment: Preserve the supplied list and count, supplying pairs in brackets; render technical labels provisionally. Uncertainty: The working interpretation is provisional. Review action: Review the epistemological taxonomy and establish glossary rows for recurrent logical terms.
+
+[^N-A-042]: Anchors: U00583. Exact Tibetan: གང་གི་དངོས་པོ་རྣམ་དག་ན། Category: source reading. Issue: The transmitted རྣམ་དག་ literally suggests purification, while the logical context and reference suggest examination. Working treatment: Use examined provisionally; do not silently alter the Tibetan. Uncertainty: The working interpretation is provisional. Review action: Verify the quotation, especially whether རྣམ་དཔྱད་ was intended.
+
+[^N-A-043]: Anchors: U00594. Exact Tibetan: མཐོང་ལས་གྱི་བདེན་པ་ Category: source reading. Issue: The supplied མཐོང་ལས་ is doubtful for མཐོང་ལམ་, path of seeing. Working treatment: Translate the path-of-seeing reading provisionally. Uncertainty: The working interpretation is provisional. Review action: Check the source spelling at this conclusion.
 
 [^N-B-001]: Anchors: U01686, U01687, U01688. Exact Tibetan: སྙིང་རྗེ་བྱང་ཆུབ་ཀྱི་སེམས Category: terminology gap. Issue: The glossary has ordinary mind for sems, but no complete bodhicitta, bodhisattva, sentient-being or snying rje entries. The repeated compassion in this sentence is in the source. Working treatment: Use ordinary mind of awakening for bodhicitta, bodhisattva and sentient being for the lexicalized personal compounds, and compassion for snying rje; preserve the repetition. These are local proposals, not additions to the active glossary. Uncertainty: Compound treatments and the first sentence syntax require human review. Review action: Review these whole-expression proposals across section 4; distinguish compassion from established compassionate responsiveness.
 
@@ -11979,6 +9497,46 @@ So it is said. If someone without qualities establishes others in qualities, tha
 
 [^N-B-027]: Anchors: U01982. Exact Tibetan: བློས་བྱས་པ་དང་གཞལ་བྱ་ཚད་མར་གྱུར་པའི་ཕྱིར། Category: syntax/reference. Issue: The relation between object of comprehension and valid cognition is compressed. Working treatment: Preserve the two items without turning the sentence into a doctrinal definition. Uncertainty: An omitted genitive or comparison may be involved. Review action: Review exact syntax against witness.
 
+[^N-B-028]: Anchors: U02044. Exact Tibetan: སེམས་ཙམ་པས Category: terminology gap. Issue: The school name and rang rig/rang gsal have no complete glossary assignments. Working treatment: Use Ordinary-Mind-Only to retain ordinary mind; self-aware and self-clear provisionally preserve awareness and clarity components. Uncertainty: Whether a conventional school name should be an approved whole-expression exception remains open. Review action: Review these compound proposals; do not activate them globally.
+
+[^N-B-029]: Anchors: U02112. Exact Tibetan: སྤྲོས་མེད་ལྷན་སྐྱེས་ཀྱིས་ཡེ་ཤེས་ཅུང་ཟད་གསལ་བ་ཚེ་གཅིག། Category: source reading. Issue: The source has tshe gcig, one time, where the four-yoga list suggests rtse gcig, one-pointedness. Working treatment: Use the proposed one-pointedness reading, marked here, without altering source. Uncertainty: Unverified correction in interpretation. Review action: Check witness before accepting the yoga identification.
+
+[^N-B-030]: Anchors: U02116, U02117. Exact Tibetan: སྟོང་ཉིད་བཅོ་བརྒྱད་དང་ཞི་གནས་རྒལ་བའི་བར་མི་གཅིག་ལ་ Category: syntax/reference. Issue: The analogy of eighteen emptinesses, calm abiding, and ten stages is syntactically compressed. Working treatment: Retain the items and numbers without harmonizing them. Uncertainty: The attachment of differing and crossing is provisional. Review action: Review source context and classification.
+
+[^N-B-031]: Anchors: U02129, U02131. Exact Tibetan: རྣལ་འབྱོར་པའི་ཉམས་སྣང་ལུང་ཁུངས་ཀྱི་མུ་དང་མུ་དྲུག Category: syntax/reference. Issue: The initial list is compressed; the following numbered examples clarify six categories. Working treatment: Separate six categories using the following examples; experiential appearances renders nyams snang, preserving experience and appearance. Uncertainty: Final two category labels require review. Review action: Compare list with six explanations.
+
+[^N-B-032]: Anchors: U02135. Exact Tibetan: བསྒྲེས་མོ་མོ་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་ཀྱང་ Category: source reading. Issue: The reference is blank; the source repeats mo after old woman. Working treatment: Translate from Tibetan, retaining the old-woman example without inventing a personal name. Uncertainty: The repeated syllable and narrative identification are unresolved. Review action: Check witness and identify the story.
+
+[^N-B-033]: Anchors: U02139. Exact Tibetan: དབུ་སྙུང་བཞེས་ནས Category: source reading. Issue: Unusual dbu snyung appears where an oath-taking expression is expected. Working treatment: Solemnly declared is a provisional interpretation; directions takes lung bstan in the narrative referral context. Uncertainty: Exact honorific expression and prediction/direction sense uncertain. Review action: Verify witness and narrative.
+
+[^N-B-034]: Anchors: U02148. Exact Tibetan: བྱང་ཆུབ་སེམས་བྱུང་བ་རྣམས Category: syntax/reference. Issue: The phrase may mean bodhisattvas’ arising experiences rather than events in bodhicitta; the reference adds no reliable resolution. Working treatment: Retain ordinary mind of awakening and mark the attachment as provisional. Uncertainty: Exact subject of what is seen remains uncertain. Review action: Check witness and the cited explanation.
+
+[^N-B-035]: Anchors: U02157. Exact Tibetan: བཟད་མི་འགྱུར Category: source reading. Issue: The source reads will not be exhausted, not will not arise or be attained. Working treatment: Keep the supplied verbal meaning, despite the argumentative difficulty. Uncertainty: Possible corrupt quotation. Review action: Check original quotation and witness.
+
+[^N-B-036]: Anchors: U02175, U02176. Exact Tibetan: གཅིག་ཐོག་གཅིག་གིས་འདོད་ན་ སར་གོམས་པ་གཡས་གཡོན་འདོར་བ་བཞིན་ནོ། ། Category: syntax/reference. Issue: The relationship between alternation and inseparability is implicit, and goms pa spelling is unusual for steps. Working treatment: Use a walking analogy provisionally; bracket proceed. Uncertainty: Whether this is a concession or objection remains uncertain. Review action: Review exact wording and rhetorical scope.
+
+[^N-B-037]: Anchors: U02196, U02197, U02198. Exact Tibetan: དེ་ལས་གཞན་སེམས་ཅན་དང་། གནོད་པ་བསྐྱལ་བ་སྟེ་ མར་དམན་པ་གསུམ Category: syntax/reference. Issue: Three lower fields are asserted, but only two clear noun phrases appear; other is treated provisionally as the first. Working treatment: Preserve the three outcomes and show supplied recipients in brackets. Uncertainty: Enumeration and causal distribution uncertain. Review action: Check witness for omitted wording; review threefold list.
+
+[^N-B-038]: Anchors: U02211, U02212, U02214, U02216, U02218. Exact Tibetan: བདག་འཛིན Category: terminology gap. Issue: The complete compound has no glossary row; ’dzin pa is apprehending subject, but these clauses use apprehension as an action. Working treatment: Use self-apprehension and apprehending as self/one’s own, preserving the apprehending role and the source play on ownership. Uncertainty: The shift between self and ownership is contextually supported but remains a usage proposal. Review action: Review compound and grammatical usage across this section.
+
+[^N-B-039]: Anchors: U02253. Exact Tibetan: བསོད་ནམས་གྲངས་མེད་གཞལ་མི་ལང་། །/ Category: source reading. Issue: A literal slash follows the verse punctuation in the fixed transcript. Working treatment: Keep the slash visible as an unresolved source mark. Uncertainty: Its function is unknown. Review action: Check archival witness; do not delete as tokenizer noise.
+
+[^N-B-040]: Anchors: U02262. Exact Tibetan: ལུང་མ་བསྟན Category: contextual use. Issue: Here the term denotes ethical neutrality in an argument, rather than a meditative state. Working treatment: Retain canonical stagnant neutrality while flagging its contextual scope. Uncertainty: Whether a scoped ethical-neutrality exception is needed remains open. Review action: Review this occurrence separately from meditative uses.
+
+[^N-B-041]: Anchors: U02270. Exact Tibetan: བསོད་ནམས་བསྔོ་བྱར་བྱེད་པ་བཞིན་མཚན་ལྟར་མི་འགྲོའོ། ། Category: syntax/reference. Issue: The last phrase mtshan ltar mi ’gro is elliptical. Working treatment: Supply ultimately established in brackets, provisionally connecting it to the following ultimate/relative contrast. Uncertainty: Possible alternate relation to sign-based apprehension. Review action: Review construction against source witness.
+
+[^N-B-042]: Anchors: U02304, U02305. Exact Tibetan: སངས་རྒྱས་དང་བླ་མ་ལ་བསྔོ་བ་དགོས་ཏེ་ Category: source reading. Issue: The objection says necessary, although the reply suggests the opponent may have claimed not necessary. Working treatment: Preserve the positive statement without supplying a negative. Uncertainty: Possible missing negative, unverified. Review action: Check witness and argumentative contrast.
+
+[^N-B-043]: Anchors: U02312. Exact Tibetan: པི་ཝང་གི་སྒྲ Category: contextual use. Issue: sgra is canonically word, but denotes an instrument’s audible sound here. Working treatment: Sound is an explicitly provisional contextual rendering for this physical simile. Uncertainty: A nonverbal-sound exception is not yet approved. Review action: Review scoped usage and proposed row, preserving word elsewhere.
+
+[^N-B-044]: Anchors: U02320, U02324. Exact Tibetan: གསང་སྔགས Category: terminology gap. Issue: Secret mantra, empowerment, samaya, generation/completion stage, and bodhisattva vocabulary lie outside the active glossary’s main Dzogchen-oriented inventory. Working treatment: Use these technical expressions provisionally in section 5, with source-linked usage records; retain all covered components such as ordinary mind, discerning knowing, primordial knowing, continuum, and embodiment. Uncertainty: No new technical assignment is owner-approved. Review action: Review section-5 candidate rows before final terminology approval.
+
+[^N-B-045]: Anchors: U02359, U02360, U02361. Exact Tibetan: རྣལ་འབྱོར་པ་ནིx མཁའ་ལ་ཁུ་ཚུར་གྱིསx སྨིག་རྒྱུའི་ཆུ་ནིx Category: source reading. Issue: Three literal x marks replace or abbreviate quoted wording. Working treatment: Retain x and fragmentary lineation without reconstructing the quotation. Uncertainty: Omitted wording unresolved. Review action: Compare exact quotation and witness.
+
+[^N-B-046]: Anchors: U02399. Exact Tibetan: རིག་མ Category: terminology gap. Issue: rig ma is absent as a whole expression; its ritual role is more specific than standalone awareness. Working treatment: Awareness woman provisionally preserves the awareness component; no claim that every such figure is a human consort. Uncertainty: Canonical compound and ritual scope pending. Review action: Review rig ma family and compare section-5 ritual uses.
+
+[^N-B-047]: Anchors: U02406, U02410. Exact Tibetan: ཚིག་ཆེན་བཅུ Category: source reading. Issue: The source reads ten great words, tshig, where bodily joints, tshigs, may be intended; eight collections also omits consciousness explicitly. Working treatment: Keep words quoted; disclose consciousness as a bracketed expansion of tshogs brgyad. Uncertainty: Anatomical identification remains unverified. Review action: Check mandala correspondences against witness; no silent spelling repair.
+
 [^N-C-001]: Anchors: U03197, U03198, U03199, U03200. Exact Tibetan: རྡོལ་ཆོས་དཔེ་དཀར་བུ་བཞི་དང། Category: terminology gap. Issue: These historical teaching names and the source label lack active whole-expression entries; the reference is blank at U03198. Working treatment: Translate all named groups provisionally; render རྡོ༽༽ as Vajra statement throughout this range. Tantra is a textual-category use, distinct from the glossary continuum. Uncertainty: The referents of the four booklets and tree/sky teachings are unverified. Review action: Check the historical titles and their lineage context; retain the source label.
 
 [^N-C-002]: Anchors: U03214, U03215, U03216. Exact Tibetan: རྒྱུད་དཀྲུག་པ། ལུང་བཅུས། མན་ངག་གབ་པའི་ཕྱིར Category: source reading. Issue: ལུང་བཅུས is not a straightforward reference to ten transmissions; the surrounding parallel phrases concern obscured instructions. Working treatment: Provisionally read བཅུས as twisted; preserve the transmitted spelling. Uncertainty: The exact form and intended description of transmission need source verification. Review action: Compare a witness at U03215 and review the three parallel clauses.
@@ -12010,3 +9568,63 @@ So it is said. If someone without qualities establishes others in qualities, tha
 [^N-C-015]: Anchors: U03370. Exact Tibetan: སངས་རྒྱས་ཞལ་འདི་གང་གི་ཐུགས་དང་ཞལ་ལ་གནས་པར Category: contextual use. Issue: ཞལ occurs twice and ཐུགས has no standalone active entry. The reference’s face/mind construction is not intelligible. Working treatment: Provisionally render the first ཞལ as utterance and the pair ཐུགས་དང་ཞལ as heart and mouth. Uncertainty: Utterance assumes metonymy; the transmitted reading may be incomplete. Review action: Check the quotation and approve or revise the local ཐུགས treatment.
 
 [^N-C-016]: Anchors: U03375. Exact Tibetan: བླ་མ་སྐྱོན་དང་ཡོན་ཏན་འདྲེན། Category: source reading. Issue: The verb འདྲེན literally leads or brings; the contrast appears to describe a lama bearing both faults and qualities. Working treatment: Use bear provisionally; do not silently change the Tibetan to a different verb. Uncertainty: A transcription error is possible but unverified. Review action: Compare the quotation in its textual source.
+
+[^N-C-017]: Anchors: U03393. Exact Tibetan: ཐོས་བསམ་སྒོམ་གསུམ་གཏན་ཚིག་ལྔས་གཞིག་ན་ Category: scope. Issue: The grouping of the three practices and five reasons is compressed; the reference treats primordial knowing as another thing examined rather than the object of realization. Working treatment: Read co-emergent primordial knowing as the object to be realized and retain both numerical groups. Uncertainty: Whether the five reasons qualify all three practices or only the examination is not settled. Review action: Review the instrumental scope and identify the five reasons.
+
+[^N-C-018]: Anchors: U03407. Exact Tibetan: བློ་དང་ལྡན་པའི་མིས Category: contextual use. Issue: Literal endowed with conceptual mind could misleadingly suggest that the contrast concerns possessing a mind rather than good judgment. Working treatment: Use conceptual intelligence locally, retaining the conceptual component; the canonical entry remains conceptual mind. Uncertainty: This is an unapproved contextual rendering of བློ in the compound. Review action: Approve or replace this scoped usage.
+
+[^N-C-019]: Anchors: U03417. Exact Tibetan: ཆོས་སྐུར་འདུ་ཤེས་པས་མོས་གུས་སྐྱེས་ན Category: interpretive supply. Issue: The object perceived as Dharma embodiment is not stated in this clause. Working treatment: Supply [the lama] from the surrounding faith/devotion discussion and Tilopa–Nāropa example. Uncertainty: Context strongly supports the supply, but it is not explicit. Review action: Confirm the referent when reviewing the full argument.
+
+[^N-C-020]: Anchors: U03420. Exact Tibetan: བཅུ་གཉིས་བར་དུ Category: interpretive supply. Issue: The unit of twelve is unstated. Working treatment: Supply [years], following the apparent duration of service. Uncertainty: The numeral is explicit; its unit is contextual. Review action: Check the quotation’s complete wording.
+
+[^N-C-021]: Anchors: U03428, U03430. Exact Tibetan: ཡེ་སྙིང་གིས Category: source reading. Issue: ཡེ་སྙིང appears to introduce an attribution, but the reference treats it as primordial essence. Working treatment: Retain Yé Nying provisionally as a source/name; do not silently identify it. Uncertainty: It may abbreviate a title rather than a person. Review action: Identify the quotation source and check the transmitted reading.
+
+[^N-C-022]: Anchors: U03433. Exact Tibetan: གང་གི་ཐུགས་བརྩེས་ཉེར་བཟུང་ན། Category: interpretive supply. Issue: The recipient of the loving care is implicit, and the opening clause has an unusual final ན. Working treatment: Supply [beings] and read the clause as qualifying Gautama. Uncertainty: Source spelling of Gautama and the clause ending are irregular. Review action: Compare the quoted verse without silently normalizing the source.
+
+[^N-C-023]: Anchors: U03456, U03457. Exact Tibetan: ཇི་ལྟར་བར་སྣངཤིན་ཏུx དེ་བཞིནx Category: source reading. Issue: Two x placeholders interrupt a quoted verse; བར་སྣངཤིན lacks an expected syllable separator. Working treatment: Keep both x marks visibly unresolved and translate only the supplied wording. Uncertainty: The missing text and verse structure are not recoverable from this transcript. Review action: Collate the quoted Avataṃsaka passage against a source witness.
+
+[^N-C-024]: Anchors: U03470. Exact Tibetan: ཚིག་གི་འཛིན་པ་བོར་ལ་ཐོད། Category: contextual use. Issue: འཛིན་པ here functions verbally as grasping at words, not as the noun apprehending subject; final ཐོད is unclear. Working treatment: Render the action as grasping provisionally and flag the unclear final word rather than supplying a separate action. Uncertainty: The repeated imperative likely resembles the preceding line, but no source correction is made. Review action: Check final ཐོད and review the contextual grasping use.
+
+[^N-C-025]: Anchors: U03479. Exact Tibetan: དཀར་པོ་ཆིག་ཐུབ Category: terminology gap. Issue: This technical epithet is absent from the glossary. Working treatment: Use single white remedy provisionally, retaining the singularity central to the objection. Uncertainty: Its medical/doctrinal connotations require terminology review. Review action: Review the term as a whole expression; do not activate a new mapping by repetition.
+
+[^N-C-026]: Anchors: U03486, U03487, U03488. Exact Tibetan: རིག་པས་གཞལ་བློས་བརྟགས Category: contextual use. Issue: རིག་པ can denote reasoning in this analytical context, while the active assignment is awareness. མཚན་ཉིད here contrasts a meaning generalization with the genuine realization. Working treatment: Retain awareness and explicitly flag the possible logical sense; translate མཚན་ཉིད as genuine locally. Uncertainty: The technical sense of རིག་པ and the repeated མཚན་ཉིད require review. Review action: Decide the occurrence-specific awareness/reasoning use without changing the canonical entry.
+
+[^N-C-027]: Anchors: U03504, U03505, U03506, U03507, U03508. Exact Tibetan: ཆོས་ཉིད་གཏན་ལ་ཕབ་ནས་ཡུལ་དུ་བྱེད་པ་ལྟ་བ་ Category: interpretive supply. Issue: The subject of the definitions is unstated; the following འདིར contrasts the author’s position. Working treatment: Supply [Some call] to mark the preceding definitions as the position being contrasted. Uncertainty: The disjunction at སྒོམ་པའམ is read as introducing an alternative account. Review action: Confirm the grouping of the two accounts.
+
+[^N-C-028]: Anchors: U03510, U03511. Exact Tibetan: གསུམ་གྱིས་ མ་རེག་པའི་རྟོགས་པ Category: syntax/reference. Issue: The three that do not touch realization are unnamed; they may refer to hearing/reflection/cultivation or the three named systems. Working treatment: Retain untouched by the three without supplying a definite referent. Uncertainty: The antecedent remains open. Review action: Resolve the antecedent from the full commentary or a parallel explanation.
+
+[^N-C-029]: Anchors: U03521, U03522, U03523, U03524. Exact Tibetan: དྲན་པའི་རྒྱུན་ཆད་མ་ཤེས་ན། Category: source reading. Issue: The third line says interruption, whereas the preceding teaching emphasizes uninterrupted mindfulness; the final idiom is uncertain. Working treatment: Retain interruption and provisionally translate ཏབ་ཏབ་ཁ as frantic bustle. Uncertainty: A missing negation or other textual defect is possible but unverified. Review action: Check the quoted song and its lineation.
+
+[^N-C-030]: Anchors: U03527, U03529, U03532. Exact Tibetan: མཐར་མ་འདྲེས་པའི་དྲན་ཉམས་པ་མངའ་བའི་བར་དུ Category: source reading. Issue: The final reading has impaired mindfulness, apparently contrary to the expected unshared quality; the list of awakening factors is abbreviated. Working treatment: Preserve the problematic reading visibly instead of silently adding a negation; identify the list as selective. Uncertainty: A missing negative particle is likely but not authenticated. Review action: Collate U03532 and review the full thirty-seven-factor enumeration.
+
+[^N-C-031]: Anchors: U03538, U03539, U03540, U03541. Exact Tibetan: འདོད་ཆགས་ཡུལ་སྡུག་པ་དང་ དགག་བཅས་ཀུན་འབྱུང་དུ་འོང་ཞིང༌། Category: syntax/reference. Issue: The parallel phrases join attraction/prohibition and aversion/accomplishment in a compressed construction; དགག་བཅས may be a defective reading. Working treatment: Preserve the explicit contrasts, supply [of suffering] for origin, and flag the construction as provisional. Uncertainty: The precise attachment of what is prohibited/accomplished is unresolved. Review action: Check the reading and syntax before treating this as a settled instruction.
+
+[^N-C-032]: Anchors: U03547. Exact Tibetan: དཀྱིལ་འཁོར་གྱི་ལྷར་མཆོད་པས Category: interpretive supply. Issue: The object offered is implicit. Working treatment: Supply [food] from the immediately preceding example. Uncertainty: The context supports this supply. Review action: Retain or remove the brackets after human review.
+
+[^N-C-033]: Anchors: U03574. Exact Tibetan: སྐུ་གསུམ་འདུ་འབྲེལ་མེད Category: source reading. Issue: The transcript reads འདུ་འབྲེལ, not the expected joining/separation pair འདུ་འབྲལ. Working treatment: Use joining or separation provisionally to expose the likely intended contrast; do not alter source. Uncertainty: The reading may instead assert absence of an assembled connection. Review action: Verify the quotation and decide the final local wording.
+
+[^N-C-034]: Anchors: U03583, U03585. Exact Tibetan: གཞི་ཚུལ་ཁྲིམས Category: contextual use. Issue: གཞི appears both as the technical Ground and as the supporting ground of ethical discipline. The glossary has intentional internal capitalization not otherwise explained. Working treatment: Keep the Ground for the technical ground/path/result usage, lower-case ground where ordinary support is meant; preserve the lexical term. Uncertainty: The contextual and capitalization distinction is provisional. Review action: Review presentation once for this range; no change to the glossary.
+
+[^N-C-035]: Anchors: U03598. Exact Tibetan: གསུང་སྐྱེས Category: interpretive supply. Issue: The possessor of speech is not explicit in this compound. Working treatment: Supply [Buddha’s] for the conventional epithet of hearers. Uncertainty: The doctrinal referent is likely; the source remains abbreviated. Review action: Review the compound together with the four classes listed.
+
+[^N-C-036]: Anchors: U03608, U03609. Exact Tibetan: ཆོས་རྣམས་རང་བཞིན་སྟོང་པར་མཉམ་གཞག་ནས།། བྱིས་པ་མེ་རེག་བརྩོན་པས་མི་ཤེས་སོ། Category: syntax/reference. Issue: The subject changes awkwardly between the equipoise clause and the childish touching fire; a defect in the quoted text is possible. Working treatment: Retain the sequence and fire image; supply only [this] as the implicit object of not knowing. Uncertainty: The attachment is unresolved and this verse is not a settled reading. Review action: Check all four lines of the quotation in a witness.
+
+[^N-C-037]: Anchors: U03615. Exact Tibetan: སྡིག་པ་ཕྲ་བས་གཅིག་པ་ཡིན་ནོ། Category: source reading. Issue: The phrase literally connects subtle wrongdoing with being one, but lacks an explicit verb of avoidance. The later parallel U03753 supplies such a verb. Working treatment: Supply [avoiding] visibly from the parallel argument; retain the unity of Mahamudra and discipline. Uncertainty: This is a contextual reconstruction, not an authenticated reading. Review action: Compare U03615 with U03750–U03753 and a physical witness.
+
+[^N-C-038]: Anchors: U03651, U03652. Exact Tibetan: དེ་ལས་འདིར་རང་ཕྱག་ཆེན་ལ་དགེ་མི་དགེ་གཉིས་ཀས་སྒྲིབ Category: syntax/reference. Issue: The source uses འདིར while still presenting a claim later explicitly rejected at U03656. Working treatment: Keep here but identify the claim as reported rather than the author’s conclusion. Uncertainty: The discourse boundary may reflect defective punctuation or wording. Review action: Review attribution across U03644–U03656.
+
+[^N-C-039]: Anchors: U03668, U03669, U03670, U03671, U03672, U03673, U03674, U03675. Exact Tibetan: ས་བདུན་པར་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བཅུ་གཉིས། Category: scope. Issue: The enumeration omits the third ground. Large-number names vary by system and the particle counts must not be reduced to twelve particles. Working treatment: Preserve the stated factorized quantities; retain koṭi and khrak-khrik without decimal conversion. Translate སྟོང་ཆེན contextually as great thousandfold world system. Uncertainty: The value of khrak-khrik and the omitted third-ground quantity remain unverified. Review action: Check the numerical tradition and the missing third-ground entry; do not silently insert it.
+
+[^N-C-040]: Anchors: U03676, U03683, U03685. Exact Tibetan: ལུང་རིག་འཁོར་གྱིས་བསྐོར་བ་སྟོན་པ། Category: source reading. Issue: The tenth-ground quantity lacks an explicit counted cosmic unit; the last item’s ལུང་རིག is anomalous in a list of retinues. U03683 contains repeated tshegs. Working treatment: Supply the quantitative link in brackets, retain the particle expression, and quote scripture and awareness as unresolved wording rather than inventing a retinue. Uncertainty: A defective final item is probable; the correct reading is unknown. Review action: Collate the complete twelve-quality list and tenth-ground quantity.
+
+[^N-C-041]: Anchors: U03698. Exact Tibetan: སོ་སྐྱེ་རྣམས་རྗེ་ཤེས་ཁོ་ན་ཡིན་པའི་ཕྱིར Category: source reading. Issue: The reference is blank. རྗེ་ཤེས appears to stand for subsequent knowing, contrasted with equipoise; the source lacks the usual final letter of རྗེས. Working treatment: Translate subsequent knowing provisionally, retaining the original source. Uncertainty: The textual form and its relation to post-cultivation attainment need review. Review action: Check U03698 against U03714 and a witness.
+
+[^N-C-042]: Anchors: U03706, U03707. Exact Tibetan: ས་ནི་བསམ་གྱིས་མི་ཁྱབ་པའི། ། དགེ་བའི་ལས་ཀྱི་རྒྱུ་རྐྱེན་གྱིས།། Category: syntax/reference. Issue: The attachment of grounds to inconceivable virtuous karma is compressed, and ས་ནི might instead be an independent topic. Working treatment: Read on the grounds provisionally while preserving the causal and instrumental sequence. Uncertainty: The exact topic relation remains uncertain. Review action: Check the full verse in the cited sūtra.
+
+[^N-C-043]: Anchors: U03717. Exact Tibetan: བྲལ་བའི་འབྲས་བུ Category: terminology gap. Issue: This technical result category is absent from the active glossary, as is the source label ལྷན༽༽. Working treatment: Use result of separation provisionally; visibly render the label Addendum throughout this range. Uncertainty: The intended scholastic category should be confirmed. Review action: Review the whole-expression term and retain all source labels.
+
+[^N-C-044]: Anchors: U03722, U03723, U03724. Exact Tibetan: ཐེག་པ་དམན་པ་འདི་ནི་གནས་མིན། སྐབས་མེད་བསྟན་པའི་སྟོབས Category: syntax/reference. Issue: The precise impossibility concerning the Lesser Vehicle is not specified, and the clause may be incomplete. Working treatment: Retain the stated vehicle and impossibility; bracket the minimal verbal supply rather than inventing a fall or exclusion. Uncertainty: The quotation’s intended scope is unresolved. Review action: Check the complete passage in the Sūtra of the Questions of the Girl Ratna.
+
+[^N-C-045]: Anchors: U03741, U03742. Exact Tibetan: ཞི་བར་གནས་པ་རང་རྒྱལ་ཐེག་པ་དེ། ཉན་ཐོས་རྣམ་པར་གྲོལ་བའི་སྒྲ་ཕྱིར་འབྲང༌། Category: syntax/reference. Issue: The latter two lines have an unclear subject and logical relation to the preceding karmic statement. Working treatment: Retain the visible vehicle, hearers, liberation, and word relationships without importing a familiar alternate quotation. Uncertainty: The text may be incomplete or defective. Review action: Collate the four-line quotation.
+
+[^N-C-046]: Anchors: U03768. Exact Tibetan: དེ་ཕྱིར་སྟོང་ཉིད་མ་ཡིན་པའི།། Category: source reading. Issue: The quotation stops at a genitive phrase before its conclusion. Working treatment: Translate the available clause and mark the break explicitly; do not restore the familiar missing line. Uncertainty: The absence is in the fixed transcript, not proof of omission in a physical witness. Review action: Collate the quotation and preserve the original partial reading.

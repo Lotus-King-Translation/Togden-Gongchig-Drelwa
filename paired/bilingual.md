@@ -1,42 +1,69 @@
----
-schema: paired-text/2
-text-id: TGD
-edition: provisional-source-v0.1.0
-source-status: provisional
-language: bo
----
+# Togden-Gongchig-Drelwa — bilingual working draft
 
-<!-- pair: TGD-000001 | source: U00001 | role: source_heading | format: h1 -->
+> Generated from paired/source.md and paired/translation.md. The Tibetan is provisional; annotations identify readings and usages requiring review.
+
+<!-- TGD-000001 -->
+
 ༄༅། །ཐུབ་བསྟན་དོན་བརྒྱུད་སྙིང་པོ་མགོན་པོ་འབྲི་གུང་པའི་དམ་ཆོས་དགོངས་པ་གཅིག་པའི་རྣམ་བཤད་བློ་གསར་དགའ་བའི་རྣ་རྒྱན་དབྱར་གྱི་རྔ་སྒྲ་ཞེས་བྱ་བ་བཞུགས་སོ། །
 
-<!-- pair: TGD-000002 | source: U00002 | role: ritual_formula | format: prose -->
+The Summer Drum Sound, an Ear Adornment Delighting New Conceptual Minds: An Explanation of the Single Enlightened Intent, the Sacred Dharma of Lord Drigungpa, the Essence of the Meaning Transmission of the Sage’s Teaching[^N-A-001]
+
+<!-- TGD-000002 -->
+
 ༄༅། །ན་མོ་གུ་རུ་རཏྣ་ཤྲཱི་ཡེ།
 
-<!-- pair: TGD-000003 | source: U00003 U00004 U00005 U00006 | role: main_text | format: verse -->
+Namo guru ratna śrī ye. [Homage to Guru Ratnaśrī.]
+
+<!-- TGD-000003 -->
+
 སྣ་ཚོགས་བསོད་ནམས་འོ་མའི་མཚོ་ལ་བརྩོན་འགྲུས་སྐྱ་བས་བསྲུབས་པ་ལས། །
 གཟུགས་སྐུའི་རྩི་བཅུད་མངོན་པར་འཁྲུངས་ནས་སྤང་རྟོག་མཐར་ཕྱིན་རྫོགས་སངས་རྒྱས། །
 དེས་གསུངས་འགོག་ལམ་དམ་པའི་ཆོས་དང་རིག་གྲོལ་དབང་ཕྱུག་དགེ་འདུན་ལ། །
 བྱང་ཆུབ་བར་དུ་སྐྱབས་གནས་བསླུ་མེད་དཀོན་མཆོག་རྣམ་གསུམ་གཙུག་ན་རྒྱལ། །
 
-<!-- pair: TGD-000007 | source: U00007 U00008 U00009 U00010 | role: main_text | format: verse -->
+From churning the ocean of the milk of manifold merit with the churning-staff of diligence,
+The vital essence of the form embodiment manifestly arises: the perfect buddha, consummate in abandonment and [realization].[^N-A-002]
+To the sacred Dharma of cessation and path that he taught, and the Sangha, masters of awareness and liberation—
+May the Three Jewels, unfailing refuge until awakening, reign upon my crown.
+
+<!-- TGD-000007 -->
+
 ༄༅། །འགྲོ་ཀུན་མ་རིག་ཞགས་པས་བཅིངས་རྣམས་རྣམ་དཔྱོད་རིག་པའི་རལ་གྲི་ཡིས། །
 བསྐྲལ་ནས་བདེ་བའི་གནས་ལ་དབྱུང་མཛད་ཇི་སྙེད་མཁྱེན་པའི་པོ་ཏི་བསྣམས། །
 རྒྱལ་བ་ཀུན་གྱི་མཁྱེན་པའི་མངའ་བདག་འཇམ་དཔལ་དཔའ་བོ་ཁྱེད་མིན་སུ། །
 བདག་བློ་དད་པའི་ལན་བརྒྱར་བསྟོད་ནས་མི་འབྲལ་སྤྱི་བོའི་རྒྱན་དུ་མཆོད། །
 
-<!-- pair: TGD-000011 | source: U00011 U00012 U00013 U00014 | role: main_text | format: verse -->
+With the sword of discriminating awareness you cut free all beings bound by ignorance’s lasso
+And lead them out to a place of happiness, bearing the volume of knowing all that is.
+Who but you, heroic Mañjuśrī, commands the knowing of all victorious ones?
+With my conceptual mind’s faith I praise you a hundred times and honor you as the inseparable adornment of my crown.
+
+<!-- TGD-000011 -->
+
 སྟོན་པས་ལུང་བསྟན་གངས་ཅན་བྱང་ཕྱོགས་འབྲི་ཐེལ་རྡོར་གདན་གཉིས་པ་རུ། །
 ཟབ་མོ་ལྟ་བའི་ཤིང་རྟའི་རྣམ་རོལ་ཀླུ་སྒྲུབ་གཉིས་པ་རཏྣ་ཤྲཱི། །
 ཆོས་ཀུན་གཤིས་བབ་རྟེན་འབྲེལ་མངོན་བསྒྱུར་རྩེ་གཅིག་སྤྲོས་བྲལ་རོ་གཅིག་དང༌།
 སྒོམ་མེད་ལྟ་བའི་ཡང་རྩེར་སོན་པ་ཆོས་རྗེ་འཇིག་རྟེན་མགོན་ལ་འདུད། །
 
-<!-- pair: TGD-000015 | source: U00015 U00016 U00017 U00018 | role: main_text | format: verse -->
+At Dri Thil in the northern snowy land, the second vajra seat foretold by the Teacher,
+Ratnaśrī, a second Nāgārjuna, displays the chariot of the profound view.
+Actualizing dependent arising, the abiding character of all phenomena, he reaches one-pointedness, freedom from conceptual elaborations, one taste,
+And non-cultivation, the summit of the view: I bow to Dharma Lord Jigten Gön.
+
+<!-- TGD-000015 -->
+
 འཕགས་ཡུལ་གྲུབ་ཆེན་ས་ར་ཧ་དང་གངས་ཅན་ཤེར་འབྱུང་རཏྣའི་མཚན། །
 སྤྲུལ་པའི་སྐུ་མཆོག་བཅུ་ཕྲག་རིག་གནས་རྒྱུད་སྡེ་རྒྱ་མཚོའི་དོན་ལ་མཁས། །
 འཇམ་པའི་དབྱངས་དང་གཉིས་སུ་མེད་པ་རྒྱལ་དབང་རིག་འཛིན་ཆོས་ཀྱི་གྲགས། །
 ཐུགས་རྗེས་རྗེས་བཟུང་བདག་ཡིད་དྭངས་བས་དྲིན་ཅན་བླ་མར་ཕྱག་བགྱིའོ། །
 
-<!-- pair: TGD-000019 | source: U00019 U00020 U00021 U00022 U00023 U00024 | role: main_text | format: verse -->
+Supreme emanation embodiment of the great adept Saraha of the noble land and Sherjung Ratna of the snowy land,
+Expert in the ten fields of learning and the meaning of the ocean of tantra classes,[^N-A-003]
+Gyalwang Rigdzin Chökyi Drak, inseparable from Mañjughoṣa—
+To the kind lama who has taken me under his compassionate responsiveness, I bow with a clear mental faculty.
+
+<!-- TGD-000019 -->
+
 སྟོན་པས་གསུང་པའི་མདོ་སྔགས་ཀྱི། །
 དོན་རྣམས་མ་ནོར་གོ་བདེའི་ཕྱིཪ། །
 རྒྱལ་མཆོག་འབྲི་གུང་རིན་ཆེན་གྱི། །
@@ -44,33 +71,59 @@ language: bo
 བློ་དམན་བདག་འདྲ་རྣམས་ལ་ནི། །
 ཕན་ཕྱིར་ཚིག་དོན་འགྲེལ་འདི་བརྩམས། །
 
-<!-- pair: TGD-000025 | source: U00025 U00026 U00027 U00028 | role: main_text | format: verse -->
+To understand easily and without error
+The meanings of the sūtras and mantras taught by the Teacher,
+The supreme victorious Drigung Rinchen
+Taught the distinctive Dharma of the Single Enlightened Intent.
+To benefit those whose conceptual minds are weak, like mine,
+I have composed this commentary on its words and meanings.
+
+<!-- TGD-000025 -->
+
 སྔོན་ཆད་མ་བྱུང་འདིར་བརྗོད་མེད། །
 སྡེབ་སྦྱོར་སྙན་པའང་བདག་ལ་མེད། །
 གཞན་ལ་ཕན་པའི་བློ་ཡང་དཀའ། །
 རང་ཉིད་ལས་སྒྲིབ་དག་ཕྱིར་བྱ། །
 
-<!-- pair: TGD-000029 | source: U00029 U00030 U00031 U00032 U00033 | role: main_text | format: prose -->
+Nothing unprecedented is stated here;
+Nor do I possess pleasing poetic composition.
+Even a conceptual mind that benefits others is difficult to have.
+I do this to purify my own karmic obscurations.
+
+<!-- TGD-000029 -->
+
 དེང་འདིར་རང་ཅག་རྣམས་ཀྱི་མེ་ཏོག་གང་ལ་ཕོག་པའི་ལྷ་སྐལ།
 ཆོས་རྗེ་རིན་པོ་ཆེའི་གསུང་དམ་ཆོས་དགོངས་པ་གཅིག་པའི་གཞུང་བཟང་ཡིད་བཞིན་གྱི་ནོར་བུ་རྡོ་རྗེའི་གསུང་བརྒྱ་དང་ལྔ་བཅུ།
 ལྷན་ཐབས་བཞི་བཅུ་པའི་དོན་བཟང་པོ་བདེ་བླག་ཏུ་རྟོགས་ཆེད་ཚིག་དོན་གྱི་རྣམ་བཤད་འདི་ཉིད་འཆད་པ་ལ།
 ཐོག་མར་དགེ་བ་མཚན་གྱི་དོན་དང༌།
 འགྱུར་ཕྱག་གཉིས་ལས།
 
-<!-- pair: TGD-000034 | source: U00034 | role: source_heading | format: h3 -->
+Now, our destined deity, the one upon whom our flower has fallen, is the precious Dharma Lord. His sacred Dharma of the Single Enlightened Intent is an excellent text, a wish-fulfilling jewel: one hundred and fifty vajra utterances and forty supplements. To make their excellent meaning easy to realize, this explanation of the words and meanings begins with two matters that are virtuous at the outset: the meaning of the title and the translator’s homage.[^N-A-004]
+
+<!-- TGD-000034 -->
+
 དང་པོ། མཚན་དོན་ནི།
 
-<!-- pair: TGD-000035 | source: U00035 U00036 U00037 U00038 U00039 | role: main_text | format: prose -->
+First: the meaning of the title
+
+<!-- TGD-000035 -->
+
 རྡོ་རྗེ་སྟེ་མཚོན་བྱེད་དཔེ་མཚོན་བྱ་དོན་གྱི་རྡོ་རྗེ་མཚོན་ཏེ།
 སྒྲ་རྟོག་གི་རྟོགས་པར་དཀའ་བས་ཟབ་མོ་ལྟ་ངན་གཞན་གྱིས་མི་ཐུབ་པ་དང༌།
 སྟོང་ཉིད་མི་ཕྱེད་པ་དང༌།
 རྡོ་རྗེ་རིན་ཆེན་ལྟར་དཀོན་པས་ན་
 རྡོ་རྗེ་སྟེ་དེ་ལྟ་བུའི་གསུང་གི་གཞུང་ཚིག་འབྲུ་བརྒྱ་ལྔ་བཅུ་ང་གཉིས་པ་དང་ལྷན་ཐབས་ཞེ་བདུན་པ་ཞེས་བྱ་བ།
 
-<!-- pair: TGD-000040 | source: U00040 | role: source_heading | format: h3 -->
+“Vajra”: the illustrative vajra signifies the vajra of the meaning illustrated. It is profound, being difficult to realize through words and conceptualizing; other erroneous views cannot overcome it. Its emptiness is indivisible, and it is rare like a precious vajra. Thus it is called “vajra”: the text of such utterances, the one hundred and fifty-two statements together with forty-seven supplements.[^N-A-004]
+
+<!-- TGD-000040 -->
+
 གཉིས་པ་འགྱུར་ཕྱག་ནི།
 
-<!-- pair: TGD-000041 | source: U00041 U00042 U00043 U00044 U00045 U00046 U00047 U00048 U00049 U00050 U00051 U00052 | role: main_text | format: prose -->
+Second: the translator’s homage
+
+<!-- TGD-000041 -->
+
 གནས་དང་གནས་མིན།
 ལས་ཀྱི་རྣམ་སྨིན།
 དབང་མཆོག་མཆོག་མིན།
@@ -84,7 +137,10 @@ language: bo
 སྟོབས་བཅུ་སྟེ་དེ་ལྟའི་ཚུལ་ལ་དབང་ཕྱུག་ཕ་ཤཱཀྱ་སྟེ་ནུས་པ་ལ་འཇུག་པས་
 དེའི་བདག་ཉིད་མུ་སྟེགས་རྣམས་སྐྲགས་པར་མཛད་པའི་སེང་གེ་ལྟ་བུའི་ཐུབ་དབང་དེ་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-000053 | source: U00053 U00054 U00055 U00056 U00057 U00058 U00059 U00060 U00061 U00062 U00063 | role: main_text | format: prose -->
+Knowing these ten—what is possible and impossible; the ripening of karma; superior and inferior faculties; the various elements; the various inclinations; the paths leading everywhere; meditative stability and liberations; recollection of past abodes; death, transference, and birth; and exhaustion of the contaminants—constitutes the ten powers. Mastery of these is Śākya, a word expressing capability.[^N-A-005] I bow to that lord of sages, whose being is like a lion that terrifies the non-Buddhist teachers.
+
+<!-- TGD-000053 -->
+
 དུག་གསུམ་མམ་སྒྲིབ་གསུམ་གྱི་དྲི་མ་མེད་པས་
 སྤང་བ་དང་རང་བཞིན་འོད་གསལ་
 མཚན་མའི་རྡུལ་བྲལ་སོ་སོ་རང་རིག་ཡེ་ཤེས་ཀྱིས་མཉམ་བཞག་ཏུ་གཟིགས་པ་ཇི་ལྟ་བ་དང༌།
@@ -97,7 +153,10 @@ language: bo
 དཔེ་ཟླ་བྲལ་བས་མཉམ་པ་མེད་པ་
 འབྲི་གུང་རིན་ཆེན་ཏེ་དགོས་འདོད་ཐམས་ཅད་སྟེར་བ་དེ་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-000064 | source: U00064 U00065 U00066 U00067 U00068 U00069 | role: main_text | format: prose -->
+Freedom from the stains of the three poisons, or the three obscurations, is abandonment. Intrinsic nature is clear light. Primordial knowing of individual self-awareness, free from the dust of signs, sees things as they are in equipoise. In post-cultivation attainment, within the maṇḍala of the awakened mind,[^N-A-006] it sees every knowable thing without exception, each with its unmixed individual characteristics, just as it is. Seeing all of them vividly, free of obstruction, is the primordial knowing of all that is. Thus I bow to the omniscient Dharma Lord, perfected in abandonment and realization, peerless and without comparison: Drigung Rinchen, who bestows everything needed and desired.
+
+<!-- TGD-000064 -->
+
 རྒྱལ་བ་སངས་རྒྱས་མཆོག་གི་ཞལ་ནས་གསུངས་པ་ཡི་
 མདོ་རྒྱུད་དམ་པའི་ཆོས་རྣམས་ཇི་བཞིན་ཐུགས་སུ་ཆུད་པ་ལ་བརྟེན་ནས་
 ཁྱད་པར་དུ་འཕགས་པ་ཟབ་མོའི་དོན་ཐུན་མོང་མ་ཡིན་པ། །
@@ -105,13 +164,19 @@ language: bo
 མི་བརྗེད་པའི་གཟུངས་མ་ཐོབ་པ་རྨོངས་པས་
 ཐམས་ཅད་བློར་མ་ཆུད་པས་དྲན་པ་ཅུང་ཟད་ཙམ་ཞིག་བྲི།
 
-<!-- pair: TGD-000070 | source: U00070 U00071 U00072 U00073 | role: main_text | format: prose -->
+Having understood accurately the sacred Dharma of sūtras and tantras spoken by the supreme victorious Buddha, the Protector of the World established incomparable traditions of exceptionally exalted, profound meaning. Although I heard immeasurably many of them before, in my confusion I have not attained the retention that never forgets. Since my conceptual mind has not encompassed everything, I shall write only the little I remember.[^N-A-007]
+
+<!-- TGD-000070 -->
+
 ༈ རྡོ༽༽ གཞན་དག་ན་རེ།
 དེ་བཞིན་གཤེགས་པ་ནི་ཆོས་ཀྱི་དབང་ཕྱུག་ཡིན་པས་
 དེས་ཇི་ལྟར་བཞེད་པ་དེ་ལྟར་འགྱུར་ཏེ།
 ཆོས་ཐམས་ཅད་ལ་དབང་བསྒྱུར་བ་ཉིད་ཀྱིས་སོ་ཞེས་འདོད་དོ། །
 
-<!-- pair: TGD-000074 | source: U00074 U00075 U00076 U00077 U00078 U00079 U00080 U00081 U00082 U00083 U00084 U00085 U00086 U00087 U00088 U00089 | role: main_text | format: prose -->
+Vajra statement. Others say: “Since the tathāgata is lord of the Dharma, things become whatever he wishes, for he has mastery over all phenomena.”
+
+<!-- TGD-000074 -->
+
 འདིར་ནི།
 ཆོས་ཀུན་གྱི་གཤིས་སམ་བབ་ཀྱི་རང་བཞིན་སྟོང་ཉིད་གནས་ཚུལ་སངས་རྒྱས་ཀྱིས་བསྟན་པ་ཡིན་ཏེ།
 ཆོས་ཀུན་རྣམ་པར་དག་པའི་ངོ་བོ་སངས་རྒྱས་པས་
@@ -129,7 +194,10 @@ language: bo
 འགོད་པས་སངས་རྒྱས་ཀྱི་ཆོས་ཏེ་
 སྣང་བ་རྟེན་འབྲེལ་དང་རྟེན་འབྲེལ་སྟོང་པ་དངོས་པོའི་གཤིས་ཡིན་པས་དེ་ལྟར་བསྟན་ཏེ།
 
-<!-- pair: TGD-000090 | source: U00090 U00091 U00092 U00093 U00094 U00095 U00096 | role: main_text | format: prose -->
+Here, however, the Buddha teaches the intrinsic nature, the character or abiding condition of all phenomena: emptiness, their mode of being. The Buddha is the completely pure essence of all phenomena; he is not a creator like Phywa or Īśvara. Out of love he teaches beings that this is the natural state of phenomena. Even a buddha cannot alter intrinsic nature. The unfailing character of dependent arising operates among all, high and low. Through primordial knowing of the possible and impossible he teaches the natural state as it abides. Though this natural state, or dependent arising, is explained as one and many, in terms of cause and result he teaches methods for abandoning faults—nonvirtue and the causes and results of suffering—and establishes beings in the methods for accomplishing virtuous actions that bring happiness and well-being. This is the Buddha’s Dharma. Appearance is dependent arising, and dependent arising is empty: because this is the character of things, he teaches it in this way.[^N-A-008]
+
+<!-- TGD-000090 -->
+
 འོ་ན་དབང་བསྒྱུར་བ་མི་འགྲུབ་བོ་སྙམ་ན།
 དེ་ནི་གཤིས་བབ་བསྒྱུར་བ་མ་ཡིན་ཏེ་
 སྐྱོན་སྤོང་བ་དང་ཡོན་ཏན་སྒྲུབ་པའི་ཚུལ་ཐམས་ཅད་མི་གཟིགས་པའམ་མངོན་དུ་མ་མཛད་པ་གང་ཡང་མེད་པས་
@@ -138,42 +206,73 @@ language: bo
 རྒྱུ་རྐྱེན་རྟེན་འབྲེལ་གྱི་གཤིས་བབ་བསྟན་པ་ཡིན་ནོ། །
 དེ་སྐད་དུའང་
 
-<!-- pair: TGD-000097 | source: U00097 U00098 U00099 U00100 | role: main_text | format: verse -->
+If one thinks, “Then mastery is not established,” this mastery does not mean changing the abiding character of things. There is no method of abandoning faults or accomplishing qualities that he has failed to see or actualize. For that reason he is said to have mastery over all phenomena. Even his unparalleled miracles, beyond the conceptual mind, demonstrate the abiding character of causes, conditions, and dependent arising. Thus it is said:
+
+<!-- TGD-000097 -->
+
 རྟེན་ཅིང་འབྲེལ་འབྱུང་མ་གཏོགས་པའི། །
 ཆོས་འགའ་ཡོད་པ་མ་ཡིན་པ། །
 དེ་ཕྱིར་སྟོང་པ་མ་ཡིན་པའི། །
 ཆོས་འགའ་ཡོད་པ་མ་ཡིན་ནོ། །
 
-<!-- pair: TGD-000101 | source: U00101 | role: main_text | format: prose -->
+There is no phenomenon whatever
+That is not dependently arisen.
+Therefore there is no phenomenon whatever
+That is not empty.
+
+<!-- TGD-000101 -->
+
 ཅེས་དང་།
 
-<!-- pair: TGD-000102 | source: U00102 U00103 | role: main_text | format: verse -->
+And:
+
+<!-- TGD-000102 -->
+
 གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །
 དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར།
 
-<!-- pair: TGD-000104 | source: U00104 U00105 U00106 | role: main_text | format: prose -->
+For whom emptiness is possible,
+Everything is possible.
+
+<!-- TGD-000104 -->
+
 སོགས་དང༌།
 གང་ཞིག་རྐྱེན་ལ་སོཌ་དང།
 ལྗོན་པས་ཞུས་པའི་མདོར།
 
-<!-- pair: TGD-000107 | source: U00107 U00108 U00109 U00110 | role: main_text | format: verse -->
+And so forth. Also, “Whatever [arises] through conditions …,” and in the Sūtra of the Questions of Jonpa:[^N-A-009]
+
+<!-- TGD-000107 -->
+
 རྒྱུ་ལ་བརྟེན་པའིམཁས་པ་བཅོམ་ལྡན་འདས། །
 མཐའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་ཞིང༌། །
 ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་དེ་ཉིད་གསུངས། །
 ལྟ་བའི་མུན་འཇོམས་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༑
 
-<!-- pair: TGD-000111 | source: U00111 U00112 U00113 U00114 U00115 | role: main_text | format: prose -->
+Blessed One, expert in dependence upon causes,
+You never hold the views of the two extremes.
+You teach precisely the results of karmic ripening.
+I bow to you who destroy the darkness of views.
+
+<!-- TGD-000111 -->
+
 ཞེས་སོ། །
 ལུགས་འདི་ལས་གཞན་དུ་ན་
 བདེ་གཤེགས་བྱེད་པོར་ཐལ་བ་དང་།
 གནས་དང་གནས་མིན་མཁྱེན་པའི་ཡེ་ཤེས་མེད་པ་ཐལ་བ་སོགས་
 ཉེས་པ་བསྟན་རྣམས་ལྡོག་ཏུ་མེད་དོ།
 
-<!-- pair: TGD-000116 | source: U00116 U00117 | role: main_text | format: prose -->
+So it is stated. Outside this system, one cannot escape the demonstrated faults: the absurd consequence that the sugata is a creator, that he lacks primordial knowing of the possible and impossible, and so forth.
+
+<!-- TGD-000116 -->
+
 ༈ ལྷན༽༽ མཁས་པ་གཞན་གྱིས་གདུལ་བྱ་ཐ་དད་ལ་
 ཐེག་པའང་སྣ་ཚོགས་སུ་བསྟན་པས་ཐ་དད་དོ་ཞེས་ཟེར་རོ།
 
-<!-- pair: TGD-000118 | source: U00118 U00119 U00120 U00121 U00122 U00123 U00124 U00125 | role: main_text | format: prose -->
+Supplement. Other scholars say that since various vehicles are taught to different disciples, the vehicles are distinct.
+
+<!-- TGD-000118 -->
+
 འདིར་ནི་ཕྱོགས་བཅུ་དུས་གསུམ་གྱི་རྒྱལ་བ་མ་ལུས་པ་ཀུན་གྱི་
 ཆོས་རྣམས་བསྟན་པའི་ཐབས་ནི་གཅིག་ཏུ་འདོད་དེ་
 སངས་རྒྱས་ཞེས་པའི་ཡི་གེ་དང་
@@ -183,19 +282,31 @@ language: bo
 སངས་རྒྱས་ཐམས་ཅད་ལ་མཚུངས་པས་བསྟན་པ་གཅིག་སྟེ་
 ལང་ཀར་གཤེགས་པ་ལས།
 
-<!-- pair: TGD-000126 | source: U00126 U00127 U00128 U00129 | role: main_text | format: verse -->
+Here it is held that all the victorious ones of the ten directions and three times, without exception, have one method of teaching Dharma. Four things are alike in all buddhas: the designation “buddha”; speech with its sixty melodious qualities; the Dharma of the thirty-seven factors of awakening; and the embodiments—the Dharma embodiment and the form embodiment adorned with major and minor marks. Therefore their teaching is one. The Descent into Laṅkā says:
+
+<!-- TGD-000126 -->
+
 འོད་སྲུང་ལོག་པར་དད་སེལ་དང༌།
 གསེར་ཐུབ་དག་ཀྱང་ང་ཡིན་ཅེས།
 མཉམ་པ་ཉིད་དུ་མཉམ་གྱུར་པས།
 རྒྱལ་བའི་སྲས་ལ་ངས་བཤད་དོ།
 
-<!-- pair: TGD-000130 | source: U00130 U00131 U00132 U00133 | role: main_text | format: prose -->
+“Kāśyapa, Krakucchanda,
+And Kanakamuni too are myself”—
+Because we are equal in equality,
+I explained this to the victorious ones’ children.
+
+<!-- TGD-000130 -->
+
 ཅེས་པས་སངས་རྒྱས་རྣམས་དང་པོ་ཐུགས་བསྐྱེད་ཚུལ།
 བར་དུ་ལམ་བསྒྲོད་ཚུལ།
 ཐ་མ་སངས་རྒྱས་ནས་ཆོས་འཁོར་བསྐོར་བ་དང་
 འབྲས་བུ་དང་བཅས་པ་སེམས་ཅན་ཁོ་ནའི་དོན་ཡིན་པས་སོ༑
 
-<!-- pair: TGD-000134 | source: U00134 U00135 U00136 U00137 U00138 U00139 U00140 | role: main_text | format: prose -->
+The buddhas’ initial generation of the awakening intention, their subsequent traversing of the path, and finally their turning of the Dharma wheel after buddhahood, together with the result, are exclusively for the benefit of beings.[^N-A-010]
+
+<!-- TGD-000134 -->
+
 ལྷན༽༽ ཁ་ཅིག་ན་རེ།
 སངས་རྒྱས་ཀྱི་ཆོས་ཐེག་པ་དང་གྲུབ་མཐའ་ཐ་དད་ངེས་པ་ཅན་ཏེ་
 འཇིག་རྟེན་ལ་ལར་ཀུན་ཏུ་གཟིགས་ལྟ་བུས་ཐེག་ཆེན་འབའ་ཞིག །
@@ -204,7 +315,10 @@ language: bo
 ལ་ལར་གསང་སྔགས་ཁོ་ན་སོ་སོར་རྟོགས་པའི་ངེས་པ་ཅན་ཡིན་ནོ། །
 ཞེས་ཟེར་རོ།
 
-<!-- pair: TGD-000141 | source: U00141 U00142 U00143 U00144 U00145 U00146 U00147 U00148 U00149 U00150 U00151 U00152 U00153 | role: main_text | format: prose -->
+Supplement. Some say: “The Buddha’s Dharmas, vehicles, and tenet systems are definitively distinct. In some worlds, one such as Samantadarśin teaches only the great vehicle; one such as Śāntamati teaches the lesser vehicle; one such as Guṇatejas teaches only the one-day observance; and elsewhere only secret mantra is taught. Each is individually definitive.”[^N-A-011]
+
+<!-- TGD-000141 -->
+
 འདིར་ནི་སངས་རྒྱས་གྱི་ཐེག་པ་དང་གྲུབ་མཐའ་ཡི་ཆོས་ཐམས་ཅད་རྟེན་འབྲེལ་འབའ་ཞིག་ཡིན་ཏེ།
 རྟེན་ཅིང་འབྲེལ་འབྱུང་མ་གཏོགས་པ་སོགས་ཞེས་པ་ལྟར་
 དུས་གསུམ་གྱི་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་མངོན་དུ་མཛད་པའི་ཆོས་ཐམས་ཅད་རྟེན་འབྲེལ་ཏེ།
@@ -219,7 +333,10 @@ language: bo
 ལུས་ཀྱི་རྟེན་འབྲེལ་སྐྱོན་ཡོན་གྱི་རྒྱུ་རྐྱེན་ཐམས་ཅད་དེར་གནས་པས་སོ། །
 གང་ཟག་ནི་ཆོས་རྗེ་ལྟ་བའོ།
 
-<!-- pair: TGD-000154 | source: U00154 U00155 U00156 U00157 U00158 U00159 | role: main_text | format: prose -->
+Here all the Dharma of the Buddha’s vehicles and tenet systems is solely dependent arising. As in “There is nothing apart from dependent arising …,” all phenomena actualized by the buddhas of the three times are dependent arising. There are words and meaning; within meaning are the outer, inner, and secret, and, as a fourth, the one who understands them. First, [the world] rests on wind, and water and the rest rest upon that. Second, empty though it is, it occurs as cause and result: this is the meaning of Mahāmudrā. From inner dependent arising, the appearances of the outer environment and its inhabitants occur, this arising from that cause. Third is how particular doings of outer things are accomplished. Third, the secret, is intention in its intrinsic nature: all the causes and conditions of faults and qualities in the body’s dependent arising abide there. The individual is one such as the Dharma Lord.[^N-A-012]
+
+<!-- TGD-000154 -->
+
 ༈ རྡོ༽༽ འདིར་ནི་ཆོས་ཕུང་བརྒྱད་ཁྲི་ཉོན་མོངས་ཐམས་ཅད་ཟད་པར་སྤོང་བའི་ཐབས་ཡིན་པས་
 དེས་ན་སངས་རྒྱས་སྒྲུབ་པར་ཟག་པ་བག་ཆགས་དང་བཅས་པ་སྤོང་དགོས་པ་
 དེའི་ཕྱིར་ཐབས་གཅིག་ཏུ་ཤེས་དགོས་ཤིང༌།
@@ -227,94 +344,153 @@ language: bo
 དེ་ཡི་ངོ་སྐལ་གྱི་སྤང་བྱ་མི་སྤོང་བས་
 མཐར་ཐུག་གི་བྱང་ཆུབ་མི་ཐོབ་སྟེ་
 
-<!-- pair: TGD-000160 | source: U00160 U00161 | role: main_text | format: prose -->
+Vajra statement. Here the eighty thousand Dharma collections are methods for exhausting and abandoning all afflictions.[^N-A-013] To accomplish buddhahood one must abandon the contaminants together with their habitual tendencies. Thus they must be understood as one method. If even one is missing, its corresponding object of abandonment will not be abandoned, and ultimate awakening will not be attained.
+
+<!-- TGD-000160 -->
+
 གཙུག་ན་རིན་པོ་ཆེའི་མདོའི་དོན་རྒྱུད་བླར་
 ཇི་ལྟར་རི་མོ་བྲི་བྱེད་པ་སོགས་ནས།
 
-<!-- pair: TGD-000162 | source: U00162 U00163 U00164 U00165 | role: main_text | format: verse -->
+In the Supreme Continuum, the meaning of the Jewel Crest Sūtra is given from “Just as those who paint …” onward:
+
+<!-- TGD-000162 -->
+
 དེ་རྣམས་འབྲི་བྱེད་གང་ཡིན་པ།
 སྦྱིན་དང་ཚུལ་ཁྲིམས་བརྗོད་ལ་སོགས། །
 རྣམ་པ་ཀུན་གྱི་མཆོག་ལྡན་པ།
 སྟོང་པ་ཉིད་ནི་གཟུགས་སུ་བརྗོད།
 
-<!-- pair: TGD-000166 | source: U00166 U00167 U00168 U00169 | role: main_text | format: prose -->
+Those who do the painting
+Are said to be generosity, discipline, and the rest.
+Emptiness endowed with the supreme of all aspects
+Is said to be the form.
+
+<!-- TGD-000166 -->
+
 ཅེས་དང༌།
 ཇི་སྲིད་དགེ་བའི་རྩ་བ་དེ་ནི་སོགས་ཀྱིས་
 བོར་རྒྱུ་བཞག་རྒྱུ་རྡུལ་ཙམ་མེད་
 ཐམས་ཅད་ཉམས་སུ་ལེན་དགོས་སོ།
 
-<!-- pair: TGD-000170 | source: U00170 U00171 U00172 | role: main_text | format: prose -->
+And through “As long as that root of virtue …” and so forth, [it is shown that] not so much as a particle may be discarded or set aside: all must be practiced.
+
+<!-- TGD-000170 -->
+
 ༈ ལྷན༽༽ ཁ་ཅིག་ན་རེ། །
 ཆོས་ཕུང་ནི་བ་གླང་གི་རྒྱབ་ཁལ་དང་
 བསྟན་བཅོས་ཚད་དང་ཕུང་པོ་སོགས་གཏམ་རེ་ཚང་བ་སོགས་འདོད་དོ།
 
-<!-- pair: TGD-000173 | source: U00173 U00174 U00175 U00176 | role: main_text | format: prose -->
+Supplement. Some hold that a Dharma collection is an ox’s load, the extent of a treatise, or a complete discussion of a topic such as the aggregates.
+
+<!-- TGD-000173 -->
+
 འདིར་ནི་
 བརྒྱད་ཁྲི་བཞི་སྟོང་པོ་ཉོན་མོངས་བརྒྱད་ཁྲི་བཞི་སྟོང་གི་གཉེན་པོར་བཞག་པ་
 སྙིང་རྗེ་པད་དཀར་གསང་བ་བསམ་མི་ཁྱབ་པ་སོགས་ལས་དང
 ་རྣམ་སྣང་མངོན་བྱང་ལས་ཀྱང།
 
-<!-- pair: TGD-000177 | source: U00177 U00178 | role: main_text | format: verse -->
+Here the eighty-four thousand are established as antidotes to the eighty-four thousand afflictions, as in the White Lotus of Compassion, the Inconceivable Secret, and other texts. The Manifest Awakening of Vairocana also says:
+
+<!-- TGD-000177 -->
+
 ཉོན་མོངས་རྣམས་ཀྱི་གཉེན་པོར་ནི། །
 ཕུང་པོ་བརྒྱད་ཁྲི་བཞི་སྟོང་གསུངས།
 
-<!-- pair: TGD-000179 | source: U00179 | role: main_text | format: prose -->
+As antidotes to the afflictions,
+Eighty-four thousand collections were taught.
+
+<!-- TGD-000179 -->
+
 མཛོད་ལས།
 
-<!-- pair: TGD-000180 | source: U00180 U00181 | role: main_text | format: verse -->
+The Treasury says:
+
+<!-- TGD-000180 -->
+
 སྤྱོད་པ་རྣམས་ཀྱི་གཉེན་པོ་ནི། །
 ཆོས་ཀྱི་ཕུང་བོ་མཐུན་པར་གསུངས།
 
-<!-- pair: TGD-000182 | source: U00182 U00183 U00184 U00185 | role: main_text | format: prose -->
+As antidotes to the activities,
+Corresponding Dharma collections were taught.
+
+<!-- TGD-000182 -->
+
 ཞེས་སོ།
 ཁ་ཅིག་ན་རེ།
 སྡེ་སྣོད་རྒྱུད་སྡེ་གང་རུང་རེ་ཉམས་སུ་བླངས་ན་
 མྱང་འདས་ཐོབ་པས་གང་མོས་ཀྱི་ལམ་ཡིན་ཅེས་ཟེར་རོ།
 
-<!-- pair: TGD-000186 | source: U00186 U00187 U00188 | role: main_text | format: prose -->
+So it is stated. Some say: “By practicing any one basket or tantra class, nirvāṇa is attained; therefore one may take whichever path one prefers.”
+
+<!-- TGD-000186 -->
+
 འདིར་ནི་སྡེ་སྣོད་གསུམ་རྒྱུད་སྡེ་བཞི་ལམ་གྱི་རིམ་པ་ཡིན་པས་
 གང་ཟག་གཅིག་ལ་ཚང་དགོས་ཏེ་
 བསླབ་གསུམ་གྱི་མདོར།
 
-<!-- pair: TGD-000189 | source: U00189 U00190 U00191 U00192 U00193 | role: main_text | format: prose -->
+Here the three baskets and four tantra classes are stages of the path, so they must all be complete in a single person. The Sūtra of the Three Trainings says:
+
+<!-- TGD-000189 -->
+
 དགེ་སློང་དག་ཚུལ་ཁྲིམས་ལ་གནས་ན་ཏིང་འཛིན་སྐྱེ་བར་འགྱུར་རོ།
 དེ་ཡུན་རིང་དུ་གནས་ན་ཤེས་རབ་ཐོབ་པ་འགྱུར་རོ།
 དེ་གོམས་པར་བྱས་ན་དུག་གསུམ་ལས་སེམས་རྣམ་པར་གྲོལ་ལོ།
 ཞེས་དང་།
 དེ་ལ་བྱེ་བྲག་སྨྲ་བ་གྲག་ཅེས་སོགས་ཀྱི་གསལ་ལོ།
 
-<!-- pair: TGD-000194 | source: U00194 U00195 U00196 | role: main_text | format: prose -->
+“Monks, when you abide in discipline, deep absorption arises. When you abide in it for a long time, discerning knowing is attained. Through familiarization with it, ordinary mind is fully liberated from the three poisons.” This is also clear from “The Vaibhāṣikas are renowned in this …” and so forth.[^N-A-014]
+
+<!-- TGD-000194 -->
+
 ༈ ལྷན༽༽ གཞན་དག་ན་རེ།
 གསུང་རབ་ཡན་ལག་བཅུ་གཉིས་སོ་སོར་མ་འདྲེས་པ་ཐ་དད་ཡིན་ཟེར།
 འདིར་ནི། སྡེ་སྣོད་རེ་རེ་ལ་ཡང་གསུང་རབ་བཅུ་གཉིས་པོ་འདི་རིགས་སུ་ཚང་སྟེ་ཕལ་ཆེན་ལྟ་བུའོ། །
 
-<!-- pair: TGD-000197 | source: U00197 U00198 U00199 | role: main_text | format: prose -->
+Supplement. Others say that the twelve branches of scripture are separate and unmixed. Here, however, all twelve kinds of scripture are complete within each basket, as in the Avataṃsaka.
+
+<!-- TGD-000197 -->
+
 མདོ་སྡེ་དབྱངས་བསྙད་ལུང་བསྟན་ཚིགས་བཅད་ཆེད་བརྗོད་
 གླེང་གཞི་རྟོགས་བརྗོད་དེ་ལྟར་བྱུང་
 སྐྱེས་རབ་ཤིན་ཏུ་རྒྱས་པ་རྨད་བྱུང་གཏན་དབབ་བཅུ་གཉིས་ཏེ་།
 
-<!-- pair: TGD-000200 | source: U00200 U00201 U00202 U00203 | role: main_text | format: prose -->
+The twelve are sūtra, melodic exposition, prediction, verse, intentional utterance, occasion, exemplary account, “thus it occurred,” birth story, extensive teaching, marvel, and definitive exposition.[^N-A-015]
+
+<!-- TGD-000200 -->
+
 དང་པོ་ལྔ་ཉན་ཐོས་ཀྱི་མདོ་སྡེ་
 དེ་འོག་བཞི་འདུལ་བའི་སྡེ་སྣོད་
 དེ་འོག་གཉིས་བྱང་སེམས་ཀྱི་མདོ་སྡེ་
 ཐ་མ་གཅིག་ནི་གཉིས་ཀའི་མངོན་པའོ།
 
-<!-- pair: TGD-000204 | source: U00204 U00205 U00206 | role: main_text | format: prose -->
+The first five are the śrāvakas’ sūtra basket; the next four are the Vinaya basket; the next two are the bodhisattvas’ sūtra basket; and the final one is the Abhidharma of both.
+
+<!-- TGD-000204 -->
+
 ལྷན༽༽མཁས་པ་ལ་ལས་
 སྡེ་སྣོད་གསུམ་སོ་སོར་ཐུག་རེག་མེད་དེ་
 འདུལ་བར་གསུང་ས་མངོན་པ་ན་མེད་པ་སོགས་ཀྱིས་མ་འདྲེས་པ་ཡིན་ཟེར་རོ།
 
-<!-- pair: TGD-000207 | source: U00207 U00208 U00209 U00210 | role: main_text | format: prose -->
+Supplement. Some scholars say that the three baskets do not intersect: what is taught in Vinaya is absent from Abhidharma, and so forth; hence they are unmixed.
+
+<!-- TGD-000207 -->
+
 འདིར་སྡེ་སྣོད་སྔ་མའི་དེ་བཞིན་དུ་སྡེ་སྣོད་འདུལ་བ་ལྟ་བུ་གཅིག་ལའང་སྡེ་སྣོད་གསུམ་ཀ་འདུས་ཏེ་དང༌པོ་
 ཝཱ་རཱ་ཎ་སྰིར་གསུངས་པ་ནས་ཐ་མ་ཀུཤའི་གྲོང་དུ་མྱ་ངན་ལས་འདས་པའི་བར་དུ་འདྲེས་ཅན་དུ་གསུངས་ཏེ་
 ཤས་ཆེ་ཆུང་ཙམ་ལས་ཐ་དད་ཡིན་ན་
 བསླབ་པ་གསུམ་ཡ་བྲལ་དུ་འགྱུར་བའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-000211 | source: U00211 U00212 | role: main_text | format: prose -->
+Here, as with the preceding discussion of baskets, all three baskets are contained even within a single basket such as Vinaya. From the initial teaching at Vārāṇasī until final nirvāṇa in Kuśinagara, they were taught in combination. They differ only in relative emphasis; if they were separate, the three trainings would be severed from one another.
+
+<!-- TGD-000211 -->
+
 རྡོ༽༽བསྟན་འཛིན་གཞན་གྱི་ཐེག་ཆུང་ཐེག་ཆེན་ཐེག་པ་སྣ་ཚོགས་ཏེ་
 རིགས་ཅན་གསུམ་པོ་ཐ་དད་ལ་བསྐོར་བ་ཡིན་ཟེར་རོ།
 
-<!-- pair: TGD-000213 | source: U00213 U00214 U00215 U00216 U00217 U00218 U00219 U00220 | role: main_text | format: prose -->
+Vajra statement. Other holders of the teaching say that the various vehicles, lesser and great, were turned for three distinct kinds of lineage holders.
+
+<!-- TGD-000213 -->
+
 འདིར་རང་བཞེད་ནི་
 ཆོས་འཁོར་རྣམ་པ་གསུམ་པོ་
 འཁོར་གྱི་གདུལ་བྱའི་རྟོགས་པ་གོང་ནས་གོང་དུ་འཁྲིད་པའི་ཐབས་ཀྱི་ཁྱད་པར་རམ་བོག་དབྱུང་བའི་དོན་དུ་གསུངས་པ་སྟེ་
@@ -324,7 +500,10 @@ language: bo
 སས་རྒྱས་ཀྱིས་ང་ཡང་དགྲ་བཅོམ་པ་ཡིན་ལ་
 ཁྱེད་རྣམས་ཀྱང་དགྲ་བཅོམ་ཡིན་གསུངས་པས་ཤིན་ཏུ་སྨིན་པར་བྱས།
 
-<!-- pair: TGD-000221 | source: U00221 U00222 U00223 U00224 U00225 U00226 | role: main_text | format: prose -->
+Our own position here is that the three aspects of the Dharma wheel were taught as distinctive methods for leading the disciples’ realization higher and higher, or for enhancing it. Someone such as Varuṇa was ripened through the Dharma wheel of the four truths, becoming unstained by afflictions. In the middle turning, those very four truths and everything from form to omniscience were taught as free from conceptual elaborations; discerning knowing that directly realizes the absence of characteristics arose. The Buddha ripened them greatly by saying, “I too am an arhat, and you too are arhats.”
+
+<!-- TGD-000221 -->
+
 སྟོང་པ་ཉིད་རྟོགས་པ་དེས་མི་ཆོག་ཆོག་ག་བསམ་གྱིས་མི་ཁྱབ་པའི་གནས་ལ་འཇུག་པའི་ཕྱིར།
 ཁྱེད་རྣམས་དགྲ་བཅོམ་མ་ཡིན་སོགས་གྱིས་འོག་མ་སུན་དབྱུང་ནས་
 གཙང་བདེ་རྟག་བདག་དམ་པའི་ཕར་ཕྱིན་བསྟན་ཏེ་བྱང་ཆུབ་ཏུ་ལུང་བསྟན་པས།
@@ -332,14 +511,20 @@ language: bo
 བྱང་ཆུབ་ཕུང་པོར་ཞེན་ནས་མཆོག་འཛིན་མ་བྱེད་ཅེས།
 དང་པོ་ལས་ཅན་དེ་ལ་སོགས་ཀྱིས་སྒྲུབ་བོ།
 
-<!-- pair: TGD-000227 | source: U00227 U00228 U00229 U00230 U00231 | role: main_text | format: prose -->
+But realizing emptiness in that way is insufficient. To bring them into the inconceivable state, he refuted the lower position with statements such as “You are not arhats,” taught the supreme perfections of purity, happiness, permanence, and self, and prophesied their awakening. Thus the wheel of definitive meaning ripened them greatly. This is established by “Do not cling to the aggregates as awakening and hold them supreme,” and “That beginner …” and similar statements.[^N-A-016]
+
+<!-- TGD-000227 -->
+
 ལྷན༽༽ མཁས་པ་ལ་ལའི་བཞེད་དོན་
 སྟོན་འཁོར་ཆོས་གནས་དུས་ཏེ་ཕུན་ཚོགས་ལྔས་བསྡུས་པ་བཀའ་ཡིན་ཀུན་ལ་མ་ཁྱབ་པར་འདོད་མོད།
 འདིར་ནི་འཁོར་བ་རིགས་དྲུག་དང་མྱང་འདས་ཐམས་ཅད་ཕུན་སུམ་ཚོགས་པ་ལྔ་ཡིས་བསྡུས་པར་བཞེད་དེ་
 རྣམ་བྱང་ཕྱོགས་འཁོར་ལོ་གསུམ་ལ་བཀའ་དང་བསྟན་བཅོས་མན་ངག་གསུམ་གསུམ་གྱིས་དགུ་སྟེ་
 དེ་དག་དང་འཁོར་བ་འགྲོ་བ་དྲུག་ཀྱང་སོ་སོར་སྟོན་པ་སོགས་ཕུན་ཚོགས་ལྔ་ཚང་བ་ཡིན་ནོ།
 
-<!-- pair: TGD-000232 | source: U00232 U00233 U00234 U00235 U00236 U00237 U00238 U00239 U00240 U00241 U00242 U00243 | role: main_text | format: prose -->
+Supplement. Some scholars hold that the five excellences—teacher, retinue, Dharma, place, and time—encompass the Buddha’s word but do not extend to everything. Here, all six classes of saṃsāra and all nirvāṇa are held to be encompassed by the five excellences. On the side of purification, the three wheels each have Buddha’s word, treatises, and pith instructions, making nine. These, and each of the six migrations of saṃsāra, have all five excellences, beginning with a teacher.
+
+<!-- TGD-000232 -->
+
 རྡོ༽༽ ཁོ་ན་རེ། ཆོས་འཁོར་གསུམ་བརྗོད་བྱ་ཐ་དད་པ་སྔ་ཕྱི་སོགས་མ་འདྲེས་པ་ཡིན་ཟེར་ཡང༌།
 འདིར་ཆོས་ཀྱི་འཁོར་ལོ་རེ་རེ་ལ་ཡང་ཆོས་འཁོར་དང་པོ་དང་གཉིས་པ་གསུམ་པ་དང་བཅས་གསུམ་ཀ་ཚང་བར་བཞེད་དེ།
 དང་པོར་སྡུག་བསྔལ་གྱི་རྒྱུ་ཀུན་འབྱུང་
@@ -353,13 +538,19 @@ language: bo
 མཐར་ཐུག་གི་འགོགས་པ་མངོན་དུ་བྱས་པས་
 ཀུན་འབྱུང་སྤོང་བ་མཚུངས་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-000244 | source: U00244 U00245 U00246 U00247 | role: main_text | format: prose -->
+Vajra statement. Some say that the subject matters of the three Dharma wheels are distinct, their earlier and later teachings unmixed. Here all three—the first, second, and third—are complete in each Dharma wheel. In the first, the noble path abandons origin, the cause of suffering, and actualizes the result, cessation. In the second, one abandons origin in the form of perception’s dualistic grasping at good and bad, and origin dependent on Dharma, such as thinking, “I shall attain the seven qualities of higher rebirth.” Thus one actualizes dependent arising, emptiness, and signlessness. In the third, one abandons origin in the form of subtle habitual tendencies in the continuum of bodhisattvas abiding authentically, thereby actualizing ultimate cessation. They are alike in abandoning origin.
+
+<!-- TGD-000244 -->
+
 དང་པོ་ལ་དགག་སྒྲུབ་ཀྱི་མཚན་ཉིད་བདེན་བཞི་༑
 རྣམ་ཐར་སྒོ་གསུམ་སོགས་ནི་མཚན་ཉིད་མེད་པ།
 གཏུམ་པོ་རབ་སྣང་ལ་གསུམ་གསོལ་བས་སྟོབས་བཅུ་བསྟན་པ་ངེས་དོན་ཏེ་
 དེ་ལྟར་གཞན་གཉིས་ལ་ཡོད་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-000248 | source: U00248 U00249 U00250 U00251 U00252 U00253 U00254 U00255 U00256 U00257 | role: main_text | format: prose -->
+In the first there are the four truths, characterized through denying and affirming; the three doors of liberation and so forth, without characteristics; and definitive meaning, the ten powers taught after Caṇḍapradyota’s three requests.[^N-A-017] These are likewise present in the other two.
+
+<!-- TGD-000248 -->
+
 རྡོ༽༽ མཁས་པ་གཞན་དག་ན་རེ།
 འཁོར་ལོ་གསུམ་གྱི་དོན་འབྲེལ་དེ་ལྟར་ཚང་བར་གནས་ཀྱང་
 ཚིག་མཚོན་པ་མི་གསལ་བ་ཡོད་ཟེར་མོད།
@@ -371,51 +562,91 @@ language: bo
 དེ་ཉིད་བར་པའི་ས་བོན་ཡིན་པའི་ཕྱིར་དང་།
 བར་པར་དགོངས་འགྲེལ་ལས།
 
-<!-- pair: TGD-000258 | source: U00258 U00259 U00260 U00261 | role: main_text | format: verse -->
+Vajra statement. Other scholars say that although the connected meanings of the three wheels are complete in this way, the words expressing them are sometimes unclear. Here the seed of each later teaching abides in each earlier one, so it is clear in the words too. Just as a newborn’s original body remains the basis when the child reaches maturity, what was initially taught is merely taught clearly at the final stage; nothing contradictory is taught. In the first turning, the essence of a vow is non-informative [form]; this is the seed of the middle turning.[^N-A-018] In the middle, the Explanation of Enlightened Intent says:
+
+<!-- TGD-000258 -->
+
 ལེན་པའི་རྣམ་པར་ཤེས་པ་ཟབ་ཅིང་ཕྲ།
 ས་བོན་ཐམས་ཅད་ཆུ་བོའི་རྒྱུན་བཞིན་བབས།
 བདག་ཏུ་རྟོག་པར་འགྱུར་ན་མི་རུང་ཏེ།
 བྱིས་པ་རྣམས་ལ་ངས་ནི་དེ་མ་བསྟན།
 
-<!-- pair: TGD-000262 | source: U00262 | role: main_text | format: prose -->
+The appropriating consciousness is profound and subtle;
+All its seeds flow like a river.
+Lest they conceptualize it as a self,
+I have not taught it to the immature.
+
+<!-- TGD-000262 -->
+
 ཅེས་དང་།
 
-<!-- pair: TGD-000263 | source: U00263 | role: main_text | format: verse -->
+And:
+
+<!-- TGD-000263 -->
+
 སྨྲ་བསམ་བརྗོད་མེད་ཤེས་རབ་ཕ་རོལ་ཕྱིན།
 
-<!-- pair: TGD-000264 | source: U00264 U00265 U00266 U00267 U00268 | role: main_text | format: prose -->
+Perfection of discerning knowing, beyond speech, thought, and expression …
+
+<!-- TGD-000264 -->
+
 སོགས་ནས།
 ངོ་བོ་ཉིད་ཅེས་བསྟན་པ་ནི།
 ཐ་མའི་ས་བོན་ཡིན་པའི་ཕྱིར་དང༌།
 དེ་ཡང་འཁོར་ལོ་ཐ་མའི་སྐབས་ལ་
 སྔགས་ཀྱི་ས་འོན་བཞག་པ་ལང་ཀར་གཤེགས་པ་ལས།
 
-<!-- pair: TGD-000269 | source: U00269 U00270 U00271 U00272 U00273 | role: main_text | format: verse -->
+The passage continuing as far as “essence itself” is the seed of the final turning. During the final Dharma wheel the seed of mantra is also planted. The Descent into Laṅkā says:
+
+<!-- TGD-000269 -->
+
 བློ་གྲོས་ཆེན་པོ་ས་མཐར་ཕྱིན། །
 ཆོས་ཀྱི་དབང་ནི་བསྐུར་གནས་སུ། །
 འོག་མིན་སྟུག་པོ་ཉམས་དགའ་བར། །
 ཡང་དག་སངས་རྒྱས་དེར་སངས་རྒྱས། །
 སྤྲུལ་པ་པོ་ཞིག་འདིར་འཚང་རྒྱ།
 
-<!-- pair: TGD-000274 | source: U00274 | role: main_text | format: prose -->
+Mahāmati, having reached the end of the levels,
+In the place of Dharma empowerment,
+The dense and delightful Akaniṣṭha,
+The authentic buddha awakens there;
+An emanation awakens here.
+
+<!-- TGD-000274 -->
+
 ཞེས་དང་དེ་ཉིད་ལས།
 
-<!-- pair: TGD-000275 | source: U00275 U00276 U00277 U00278 | role: main_text | format: verse -->
+And in the same text:
+
+<!-- TGD-000275 -->
+
 འདོད་པའི་ཁམས་དང་གཟུགས་མེད་དུ། །
 སངས་རྒྱས་རྣམ་པར་འཚང་མི་རྒྱ། །
 གཟུགས་ཀྱི་ཁམས་ཀྱི་འོག་མིན་དུ། །
 འདོད་ཆགས་བྲལ་ཁྱོད་འཚང་རྒྱའོ། །
 
-<!-- pair: TGD-000279 | source: U00279 U00280 | role: main_text | format: prose -->
+In the desire realm and the formless realm
+Buddhas do not fully awaken.
+In Akaniṣṭha of the form realm,
+Free from desire, you awaken.
+
+<!-- TGD-000279 -->
+
 ཞེས་སོགས་ཀྱིས་ཕྱི་མ་ཕྱི་མའི་འབྲས་བུ་ཐེག་པ་ནས་བཟུང་
 རྒྱུའི་ཐེག་པ་སྔ་མའི་བར་གྱི་ས་བོན་གནས་ཚུལ་གསལ་བར་སྒྲུབ་མོ།
 
-<!-- pair: TGD-000281 | source: U00281 U00282 U00283 | role: main_text | format: prose -->
+These and similar passages clearly establish how the seeds of each later teaching, beginning with the resultant vehicle, abide in the earlier causal vehicles.
+
+<!-- TGD-000281 -->
+
 རྡོ༽༽ ཁ་ཅིག་ན་རེ།
 འཁོར་ལོ་གསུམ་ནི་གནས་དུས་རིགས་ཅན་གསུམ་གསུམ་གྱིས་འབྱེད་པར་འདོད་མེད་ལ།
 འདིར་མདོ་དང་དོན་གྱི་གནད་ཀྱིས་ཆོས་ཀྱི་འཁོར་ལོ་རྣམ་པ་གསུམ་དུ་ངེས་ཏེ།
 
-<!-- pair: TGD-000284 | source: U00284 U00285 U00286 U00287 U00288 U00289 U00290 | role: main_text | format: prose -->
+Vajra statement. Some do not accept dividing the three wheels through three places, three times, and three kinds of lineage holders. Here the Dharma wheel is established as threefold through the decisive points of sūtra and meaning.
+
+<!-- TGD-000284 -->
+
 ཚངས་རིས་ཀྱི་ལྷས་ཨེ་མ་སྔོན་ཆད་འཇིག་རྟེན་དུ་
 དགེ་སྦྱོང་ངམ་བྲམ་ཟེ་འམ། ལྷ་འམ། བདུད་དམ། ཚངས་པའམ། སུས་ཀྱང་མ་བསྐོར་བའི་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་རོ། །
 ཞེས་པས་དང་པོ་དང༌།
@@ -424,7 +655,10 @@ language: bo
 ཨེ་མ་འཛམ་བུའི་གླིང་དུ་ཆོས་ཀྱི་འཁོར་ལོ་གཉིས་པ་འསྐོར་བ་མཐོང་ངོ་།
 ཞེས་པས་གཉིས་པ་དང༌།
 
-<!-- pair: TGD-000291 | source: U00291 U00292 U00293 U00294 U00295 U00296 U00297 | role: main_text | format: prose -->
+First, the Brahmā-class gods said, “Amazing! The Dharma wheel never before turned in this world by any ascetic, brahmin, god, Māra, Brahmā, or anyone else has been turned.” This establishes the first. When Subhūti taught the chapter on suchness, the gods of the pure realms scattered flowers, saying, “Amazing! We see the second Dharma wheel being turned in Jambudvīpa.” This establishes the second.
+
+<!-- TGD-000291 -->
+
 དགོངས་འགྲེལ་ལས་
 དོན་དམ་ཡང་དག་འཕགས་ཀྱིས་བཅོམ་ལྡན་འདས་ཀྱི་དང་པོར་ཝཱ་རཱ་ཎ་སཱིར་བསྐོར་བ་དེ་ཡང་བླ་ན་མཆིས་པ།
 སྐབས་མཆིས་པ།
@@ -433,30 +667,45 @@ language: bo
 ད་ལྟར་བསྐོར་བ་འདི་ནི་སྐབས་མ་མཆིས་པ་དང་།
 བླ་ན་མ་མཆིས་སོགས་ཀྱིས་མཐའ་མར་བཞག་པ་མདོ་ལུང་འདིའི་གནད་ཀྱིས་གསུམ་དུ་ངེས་སོ།
 
-<!-- pair: TGD-000298 | source: U00298 U00299 U00300 U00301 U00302 | role: main_text | format: prose -->
+In the Explanation of Enlightened Intent, Paramārthasamudgata says that the Blessed One’s first turning at Vārāṇasī is surpassable, leaves an opening, has provisional meaning, and provides a basis for dispute. The second turning at Vulture Peak is likewise. The current turning leaves no opening and is unsurpassable, and so forth; this establishes it as the last. These decisive scriptural statements establish three.
+
+<!-- TGD-000298 -->
+
 གཉིས་པ་དོན་གྱི་གནད་ཀྱིས་སངས་རྒྱས་ཀྱིས་འཁོར་བ་སྤོང་བའི་ཐབས་མངོན་རྟོགས་ཀྱི་རིམ་པ་རྒྱུད་ལ་དགོས་པར་གསུངས་པས་
 གང་ཟག་གི་རྒྱུད་ལ་རིམ་པའི་ཚུལ་གྱིས་འབྱུང་སྟེ་
 དེ་དོན་སྒམ་པོ་པའི་རྣལ་འབྱོར་བཞིར་འཁོར་ལོ་བཞིའི་དོན་དང་གཅིག་པས་གསུམ་དུ་ངེས་པའོ། །
 འཁོར་ལོ་གསུམ་དོན་མཐོ་དམན་ཡོད་པ་ཆེད་དུ་བརྗོད་མཁན་ཡང་དེ་བཞིན་ནོ། །
 དེས་ན་གནས་དུས་སོགས་ཀྱིས་མི་ཕྱེད་དེ།
 
-<!-- pair: TGD-000303 | source: U00303 U00304 U00305 | role: main_text | format: prose -->
+Second, concerning the decisive point of meaning: the Buddha taught that stages of manifest realization are needed in the continuum as the method of abandoning saṃsāra. They arise successively in an individual’s continuum. This meaning is the same as that of the four wheels in Gampopa’s four yogas; thus three are established.[^N-A-019] The same applies to those who specifically explain higher and lower meanings in the three wheels. Therefore they cannot be divided by place, time, and the like.
+
+<!-- TGD-000303 -->
+
 ཝཱ་རཱ་ཎ་སཱིར་རྡོ་རྗེའི་མཆུ་སོགས་དང༌།
 རྒྱལ་པོའི་ཁབ་ཏུ་བདེན་བཞི། མདོ་བཟུང་བ་སྙིང་པོ་བསྟན་པ་སོགས་དང༌།
 རྩ་མཆོག་ཏུ་རབ་བཟང་ལ་བདེན་བཞི་བསྟན་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-000306 | source: U00306 U00307 U00308 U00309 U00310 | role: main_text | format: prose -->
+For the Vajra Beak and other teachings were given at Vārāṇasī; the four truths and teachings on the essence, including the sūtra [title unclear], at Rājagṛha; and the four truths were taught to Subhadra at Kuśinagara.[^N-A-020]
+
+<!-- TGD-000306 -->
+
 གཉིས་པ་དུས་ཀྱིས་ཀྱང་མི་ཕྱེད་དེ།
 དུས་དང་པོར་ཡུམ་གྱི་ལྷུམས་སུ་ཐེག་ཆེན་གསུང་པ་དང༌།
 སངས་རྒྱས་མ་ཐག་རྣམ་འཇོམས་སོར་འབྲད་ཕལ་པོ་ཆེའི་དབུ་སྟོད་སོགས་དང༌།
 བར་པར་ཡང་ནོར་བཟང་མི་རྣམ་པར་སྡོང་པོ་རྒྱན་སོགས་དང་།
 ཐ་མར་ལུང་ཞུ་བ་སོགས་གསུངས་པ་དང་།
 
-<!-- pair: TGD-000311 | source: U00311 U00312 | role: main_text | format: prose -->
+Second, time does not divide them either. At the beginning he taught the great vehicle in his mother’s womb; immediately after awakening, the [Destroyer], [Individual Liberation], the opening of the Avataṃsaka, and so forth; in the middle, teachings involving Sudhana and the [Adornment of the Stem]; and finally the Questions on Vinaya and so forth.[^N-A-021]
+
+<!-- TGD-000311 -->
+
 གསུམ་པ་འཁོར་གྱིས་ཀྱང་མི་ཕྱེད་དེ་
 དང་པོར་བྱམས་པ་སོགས་དང་། བར་མཐའ་གཉིས་ལའང་ལྔ་སྡེ་བཟང་པོ་ཡོད་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-000313 | source: U00313 U00314 U00315 U00316 U00317 U00318 | role: main_text | format: prose -->
+Third, retinues do not divide them: Maitreya and others were present in the first turning, and the excellent group of five was present in both the middle and final turnings.
+
+<!-- TGD-000313 -->
+
 རྡོ༽༽ཚུལ་དགུ་འཛིན་པ་ཁ་གཅིག་གིས།
 དགག་བྱེད་ལ་ལུང་རྣམ་འབྱེད་སྒྲུབ་བྱེད་ལ་ལུང་གཞི།
 ལུང་ཕྲན་ཚིག །
@@ -464,7 +713,10 @@ language: bo
 དགག་སྒྲུབ་ཐེ་ཚོམ་གཅོད་པ་གསུམ་བརྗོད་དོན་ཡིན་གྱི་བདེན་བཞི་བསྟན་པའི་ཕྱིར།
 བདེན་བཞི་མངོན་པ་ནས་རྒྱས་པར་བསྟན་པས་མངོན་པའི་སྡེ་སྣོད་ཡིན་ཟེར་ལ།
 
-<!-- pair: TGD-000319 | source: U00319 U00320 U00321 U00322 U00323 U00324 U00325 U00326 U00327 U00328 U00329 U00330 | role: main_text | format: prose -->
+Vajra statement. Some proponents of nine approaches say that denial is treated in the Vinaya Analysis, affirmation in the Vinaya Bases and Minor Matters, and the resolution of doubts in the Vinaya Questions. These three—denying, affirming, and resolving doubt—are their subject matter; the four truths are extensively taught in Abhidharma, so [the teaching of the four truths] belongs to the Abhidharma basket.[^N-A-022]
+
+<!-- TGD-000319 -->
+
 འདིར་ནི་འདུལ་བའི་སྡེ་སྣོད་བདེན་བཞིའི་ཆོས་འཁོར་ཡིན་ཏེ་
 ཉོན་མོངས་པ་སེམས་དང་དེ་དང་རྗེས་སུ་འབྲེལ་བ་ལས་ཏེ་
 དེ་གཉིས་ལས་འབྲས་བུ་སྡུག་བསྔལ་འབྱུང་བ་
@@ -478,7 +730,10 @@ language: bo
 རབ་བྱུང་སོགས་བཞི་བཅུ་བདུན་ལས་མི་འགལ་བ་ལམ་དང་།
 དེས་ཀུན་འབྱུང་སྤང་བས་སྡུག་བསྔལ་འགག་པ་འགོག་འདེན་ཡིན་པའི་ཕྱིར་དང་༑
 
-<!-- pair: TGD-000331 | source: U00331 U00332 U00333 U00334 U00335 U00336 U00337 U00338 | role: main_text | format: prose -->
+Here the Vinaya basket is the Dharma wheel of the four truths. Afflictions are [afflicted] ordinary mind, and karma is what is connected with it; from these two arises suffering as result. The Vinaya Analysis teaches the discipline of turning away from what must be abandoned: the prohibitions concerning saṃsāra’s causes and results. Its two hundred and fifty-three [rules] concern knowing suffering and abandoning origin. By relying on the lama as root and the noble path as branches, one attains cessation as result. The four Vinaya scriptures teach the discipline of engaging in what must be adopted: the prescriptions accomplishing nirvāṇa’s causes and results. Noncontravention of the forty-seven [matters], beginning with going forth, is the path; through it origin is abandoned and suffering ceases—this is the truth of cessation.[^N-A-023]
+
+<!-- TGD-000331 -->
+
 བསྟན་བཅོས་ཁོ་ནས་ཀྱང་ལུང་སྡེ་བཞིའི་དོན་
 བདེན་བཞིར་བཀྲལ་ཏེ་ངེས་འབྱུང་གི་དབང་དུ།
 གང་འབྱུང་ན་གང་ཟག་གམ་ཀུན་འབྱུང༌།
@@ -488,27 +743,48 @@ language: bo
 སྲིད་པའི་འཁོར་ལོ་ཆ་ལྔ་པར་གསུངས་པ་དང།
 ལུང་ཡང་
 
-<!-- pair: TGD-000339 | source: U00339 U00340 U00341 U00342 | role: main_text | format: verse -->
+Even the treatises explain the meaning of the four Vinaya divisions through the four truths. In terms of definite emergence: who emerges? The person, or origin. Where does one emerge? Nirvāṇa, or cessation. By what method does one emerge? Through training in denying and affirming on the noble path.[^N-A-024] The Vinaya Base of Lodgings prescribes the five-part wheel of existence at the entrance. Scripture also says:
+
+<!-- TGD-000339 -->
+
 དགེ་སློང་དག །ང་དང་ཁྱེད་ཅག་ཁོ་ན་ལས།
 འཕགས་པའི་བདེན་པ་བཞི་པོ་དག།
 ཇི་ལྟ་བ་བཞིན་མ་མཐོང་བས།།
 ཡུནརིང་ལམ་དུ་ལཁོར་བར་འགྱུར།
 
-<!-- pair: TGD-000343 | source: U00343 U00344 | role: main_text | format: prose -->
+Monks, I and you [have wandered]—[^N-A-025]
+Not seeing the four noble truths
+Just as they are,
+We revolve on the long road.
+
+<!-- TGD-000343 -->
+
 ཞེས་དང༌།
 སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱིས།
 
-<!-- pair: TGD-000345 | source: U00345 U00346 U00347 U00348 | role: main_text | format: verse -->
+And master Nāgārjuna says:
+
+<!-- TGD-000345 -->
+
 ཀཱ་ཤི་ཀ་ཡི་ཝཱ་རཱ་ཎ་སཱི་རུ། །
 ཆོས་ཀྱི་འཁོར་ལོ་རྣམ་གྲོལ་རྨད་བྱུང་བས། །
 ཉོན་མོངས་སྒྲིལ་པ་རྣམ་པར་གཅོད་མཛད་པའི། །
 ཡེ་ཤེས་མཆོད་རྟེན་བཞི་ལ་ཕྱག་འཚལ་ལོ།
 
-<!-- pair: TGD-000349 | source: U00349 U00350 | role: main_text | format: prose -->
+At Vārāṇasī in Kāśī,
+Through the wondrous Dharma wheel of liberation,
+You completely cut through the mass of afflictions—
+I bow to the four stūpas of primordial knowing.
+
+<!-- TGD-000349 -->
+
 ཞེས་སོ། །
 རིག་པ་ཕའང་བདེན་བཞི་ལས་གཞན་འདུལ་བ་མེད་པས་སོ།
 
-<!-- pair: TGD-000351 | source: U00351 U00352 U00353 U00354 U00355 U00356 U00357 U00358 U00359 | role: main_text | format: prose -->
+So it is stated. [The concluding phrase is uncertain:] རིག་པ་ཕའང་; there is no Vinaya apart from the four truths.[^N-A-026]
+
+<!-- TGD-000351 -->
+
 རྡོ༽༽ གཞན་བཞེད་པ་
 ཐེག་པ་སྣ་ཚོགས་སྟོན་པ་བར་པ་མཚན་ཉིད་མེད་པ་ངེས་དོན་དང་
 འགའ་ཞིག་གོན་དང་བཟང་པོ་ལ་ཤེས་པར་བརྗོད་པ་དང་པོ།
@@ -519,7 +795,10 @@ language: bo
 སྤྲིན་དང་རྨི་ལམ་སྒྱུ་མ་བཞིན།
 དེ་དང་དེར་སོགས་ཀྱི་དྲང་དོན་ཡིན་མོད་
 
-<!-- pair: TGD-000360 | source: U00360 U00361 U00362 U00363 U00364 U00365 U00366 U00367 | role: main_text | format: prose -->
+Vajra statement. Others hold that among teachings of the various vehicles, the middle turning, without characteristics, is definitive. Some classify what was told to Trapuṣa and Bhallika as first, the four truths as middle, and the absence of characteristics as definitive; teaching various vehicles is then an indeterminate wheel. [They also say] the latter two are not definitive, citing the Supreme Continuum’s “Like clouds, dreams, and illusions …”: these are provisional meanings.[^N-A-027]
+
+<!-- TGD-000360 -->
+
 འདིར་མགོན་པོ་འབྲི་གུང་པའི་བཞེད་པ་ནི་
 ཐེག་པ་སྣ་ཚོགས་ངེས་དོན་འཁོར་ལོ་སྟེ་
 རིམ་པའི་དབང་གིས་དང་པོར་རྒྱུ་འབྲས་
@@ -529,7 +808,10 @@ language: bo
 ཐེག་པ་གཅིག་ཏུ་གཏན་ལ་ཕབ་སྟེ་
 དཀོན་མཆོག་གསུམ་རྟག་པ་རྒྱུན་མི་ཆད་པ་གཏན་ལ་ཕབ་པའི་ཕྱིར་དང་
 
-<!-- pair: TGD-000368 | source: U00368 U00369 U00370 U00371 U00372 U00373 U00374 U00375 | role: main_text | format: prose -->
+Here Lord Drigungpa holds that the teaching of various vehicles is the wheel of definitive meaning. In the sequence of stages, first cause and result are taught; in the middle, emptiness without characteristics; and finally, on that basis, emptiness engages in various causes and results and unfolds as various paths. Having taught various vehicles, he establishes a single vehicle. He also establishes the Three Jewels as permanent in their unbroken succession.
+
+<!-- TGD-000368 -->
+
 ལུང་ཡང་དེ་བཞིན་གཤེགས་པའི་སྙིང་པོའི་མདོར་
 ནོར་བུ་བསྐྲུ་བ་གསུམ་
 ཕྱི་བ་གསུམ་གྱི་དཔེ་སྙིང་པོ་བསྟན་པར་གསུངས་པས་
@@ -539,16 +821,26 @@ language: bo
 བར་པ་གཉིས་བླ་ན་མཆིས་པ་དང་རྩོད་གཞིར་ཅན་དུ་གསུངས་པའི་ཕྱིར་དང༌།
 ཉམས་ལེན་གྱི་རིམ་པ་མངོན་རྟོགས་སྐྱེ་བའི་དབང་གིས་ཀྱང་ཐ་མ་ངེས་དོན་དུ་ངེས་པ་ཡིན་ནོ། །
 
-<!-- pair: TGD-000376 | source: U00376 U00377 U00378 | role: main_text | format: prose -->
+Scripturally, the Tathāgata Essence Sūtra teaches the essence through the example of a jewel washed three times and wiped three times; thus the final teaching is definitive. The Explanation of Enlightened Intent likewise says the final turning is unsurpassable, leaves no opening, is definitive in meaning, and provides no basis for dispute, whereas the [preceding] two are surpassable and provide a basis for dispute. In terms of the stages of practice and the arising of manifest realization, too, the final turning is certainly definitive.[^N-A-028]
+
+<!-- TGD-000376 -->
+
 འོ་ན་ངེས་དོན་སྟོང་ཉིད་དྲང་དོན་རྒྱུ་འབྲས་ཡིན་གསུངས་པ་དང་འགལ་སྙམ་ན།
 དེ་ནི་ཕྱོགས་རེ་ཙམ་ལྡོག་པ་ནས་གསུངས་པ་མ་གཏོགས་སྟོང་ཉིད་རྒྱུ་འབྲས་དབྱེར་མེད།
 ཕྱི་མ་ངེས་དོན་ཏེ་མཁའ་འགྲོ་དྲྭ་བའི་ལེའུ་ལས།
 
-<!-- pair: TGD-000379 | source: U00379 U00380 | role: main_text | format: verse -->
+If one thinks this contradicts the statement that emptiness is definitive and cause and result provisional, that statement is made only from a particular angle. Emptiness and cause and result are inseparable; the later teaching is definitive. The chapter of the Ḍākinī Net says:
+
+<!-- TGD-000379 -->
+
 གལ་ཏེ་སྟོང་པ་ཐབས་ཡིན་ན།
 དེ་ནི་སངས་རྒྱས་ཐོབ་མི་འགྱུར།
 
-<!-- pair: TGD-000381 | source: U00381 U00382 U00383 U00384 U00385 U00386 | role: main_text | format: prose -->
+If emptiness were the method,
+Buddhahood would not be attained.
+
+<!-- TGD-000381 -->
+
 ཞེས་པ་ཡིན་ནོ།
 རྡོ༽༽ གཞན་དག་ན་རེ།
 དྲང་དོན་ངེས་དོན་
@@ -556,7 +848,10 @@ language: bo
 སྒྲ་ཇི་བཞིན་ཇི་བཞིན་མ་ཡིན་པ་མཐའ་དྲུག་ལས༌
 དྲང་དོན་དགོངས་ཅན་སྒྲ་ཇི་བཞིན་མ་ཡིན་པ་གསུམ་གནས་སྐབས་ཐབས་ཀྱི་རྫུན་པར་གསུངས་པས་ངེས་དོན་ཡིན་ཟེར་རོ། །
 
-<!-- pair: TGD-000387 | source: U00387 U00388 U00389 U00390 U00391 U00392 U00393 U00394 U00395 U00396 U00397 | role: main_text | format: prose -->
+So it is stated. Vajra statement. Others say that among the six limits—provisional and definitive meaning, intended and unintended meaning, literal and nonliteral expression—the provisional, intended, and nonliteral are temporary expedient falsehoods, and [the other three] are definitive.[^N-A-029]
+
+<!-- TGD-000387 -->
+
 འདིར་ནི་མཐའ་དྲུག་དགོངས་པ་ངེས་པའི་དོན་འབའ་ཞིག་ཏེ་
 དེ་ཁོ་ན་ཉིད་དུ་བཞེད་པ་ཡིན་ཏེ་
 འདིར་ནི་སངས་རྒྱས་ཀྱིས་སེམས་ཅན་འཁོར་བ་ལས་ཐར་པའི་ཐབས་རྒྱུ་འབྲས་རྟེན་འབྲེལ་ལ་ཇི་ལྟར་ཡོད་པ་དེ་བསྟན་པས་
@@ -569,13 +864,22 @@ language: bo
 དོན་ལ་དྲང་ངེས་ཐ་དད་མེད་དེ། །
 ཟླ་བ་སྒྲོན་མེའི་མདོར།
 
-<!-- pair: TGD-000398 | source: U00398 U00399 U00400 U00401 | role: main_text | format: verse -->
+Here the enlightened intent of all six limits is solely definitive meaning; it is held to be reality itself. The Buddha teaches causes, results, and dependent arising just as they exist as a method of liberating beings from saṃsāra. Whatever manner of teaching he employs is the play of boundless skillful means. Since all six limits are utterances leading to the great bliss of spontaneous presence, from that standpoint all have a meaning that leads onward [provisional meaning]. Since the ways of accomplishing temporary and ultimate results, and of producing saṃsāra’s sufferings, unfailingly and certainly yield their results, all are solely definitive in meaning. In meaning there is no separate provisional and definitive. The Moon Lamp Sūtra says:
+
+<!-- TGD-000398 -->
+
 གཞོན་ནུ་ཁྱེད་ལ་བསྒོ་ཞིང་བསྟན་པར་བྱ།
 དད་པར་གྱིས་ཤིག་ང་ལ་མི་བདེན་མེད།
 བདེ་གཤེགས་རྫུན་གྱི་ཚིག་ནི་མི་སྨྲ་སྟེ།
 ཐུགས་རྗེ་རྒྱལ་བ་རྟག་ཏུ་བདེན་པར་གསུང༌།
 
-<!-- pair: TGD-000402 | source: U00402 U00403 U00404 U00405 U00406 U00407 U00408 | role: main_text | format: prose -->
+Young one, I shall instruct and teach you.
+Have faith: there is no untruth in me.
+A sugata does not speak false words;
+The victorious one, in compassionate responsiveness, always speaks truth.
+
+<!-- TGD-000402 -->
+
 ཞེས་དང་
 གསེར་འོད་ལས་
 བདེན་པ་སྟོན་པ་མི་བསླུ་བ་ཞེས་སོགས་ལུང་མཐའ་ཡས་སོ། །
@@ -584,7 +888,10 @@ language: bo
 བདེན་རྫུན་ཕྱེ་བ་ནི་མནར་མེད་དུ་སྐྱེ་ངའི་ལས་གསོག་པས་རྣ་བ་བག་ཡོད་བྱ་སྟེ་
 དེ་ཕྱིར་མཐའ་དྲུག་དགོངས་པ་ངེས་དོན་འབའ་ཞིག་བཞེད་དོ། །
 
-<!-- pair: TGD-000409 | source: U00409 U00410 U00411 U00412 U00413 U00414 U00415 U00416 | role: main_text | format: prose -->
+And the Golden Light says, “The teacher of truth does not deceive,” and there are boundless similar passages. Because of compassionate responsiveness, seeing dependent arising as it is, and accomplishing beings’ benefit and happiness, all is solely definitive meaning. To divide it into true and false accumulates karma for birth in the Unremitting Hell: be careful what you let your ears accept.[^N-A-030] Therefore the enlightened intent of the six limits is held to be solely definitive meaning.
+
+<!-- TGD-000409 -->
+
 རྡོ༽༽ གཞན་དག་ན་རེ།
 ཐེག་ཆེན་དབུ་སེམས་གཉིས་ཕར་ཕྱིན་དང༌།
 ཕལ་ཆེན་སོགས་སེམས་ཙམ་མདོ་བཞི་ལྟ་བུ་འཀའ་ཐ་དད།
@@ -594,18 +901,30 @@ language: bo
 ཐོགས་མེད་སྐུ་མཆེད་ཀྱིས་སེམས་ཙམ་གྱི་དགོངས་འགྲེལ་མངོན་པ་གོང་འོག་ལྟ་བུ་
 མདོར་ན་བཀའ་བསྟན་གང་གི་སྒོ་ནས་བརྟགས་ཚེ་དབུ་སེམས་ཐ་དད་ཡིན་ཟེར་རོ། །
 
-<!-- pair: TGD-000417 | source: U00417 U00418 U00419 | role: main_text | format: prose -->
+Vajra statement. Others say that the great vehicle’s Middle Way and Ordinary-Mind-Only systems have distinct Buddha-word: the Perfection teachings, and the four Ordinary-Mind-Only sūtras such as the Avataṃsaka. Likewise, among treatises Maitreya composed the Ornament of Manifest Realization and Supreme Continuum for the first, and the Ornament and the two Distinctions for the second. The noble father and son composed the reasoning collections explaining the enlightened intent of the Middle Way, while Asaṅga and his brother composed explanations of the enlightened intent of Ordinary Mind Only, such as the higher and lower Abhidharma. In brief, examined through either Buddha-word or treatise, Middle Way and Ordinary Mind Only are distinct.[^N-A-031]
+
+<!-- TGD-000417 -->
+
 འདིར་ནི། སེམས་ཙམ་བཀའ་ཡིས་མཐའ་བྲལ་དབུ་མའི་དོན་སྟོན་ཏེ་
 བཀའ་དང་བསྟན་བཅོས་བླ་མའི་མན་ངག་གསུམ་གྱིས་ངེས་ཏེ།
 དང་པོ་ནི་ལང་གཤེགས་ལས།
 
-<!-- pair: TGD-000420 | source: U00420 U00421 U00422 U00423 | role: main_text | format: verse -->
+Here the Buddha-word of Ordinary Mind Only teaches the meaning of the Middle Way free from extremes. This is established through Buddha-word, treatises, and the lama’s pith instructions. First, the Descent into Laṅkā says:
+
+<!-- TGD-000420 -->
+
 སེམས་ཙམ་དུ་ནི་རྟོགས་པ་དང་།
 དངོས་པོ་ཐམས་ཅད་རྣམས་གསལ་བ།
 ཕྱི་རོལ་རྟོག་པ་རྣམས་བཟློག་སྟེ།
 ལམ་དེ་ཉིད་ནི་དབུ་མའོ། །
 
-<!-- pair: TGD-000424 | source: U00424 U00425 U00426 U00427 U00428 U00429 U00430 U00431 | role: main_text | format: prose -->
+Realizing ordinary mind only,
+Making all things clear,
+And turning back conceptual thought about external things—
+That very path is the Middle Way.
+
+<!-- TGD-000424 -->
+
 ཞེས་པས་དང་།
 གཉིས་པ་ཡོད་མེད་ཀྱི་མཐའ་གཟིགས་པ་
 སློབ་དཔོན་འཕགས་པ་དེ་མདོ་རྒྱུད་ཉེར་གཅིག་ཏུ་ལུང་བསྟན་ཀྱང་
@@ -615,12 +934,18 @@ language: bo
 ལུང་བསྟན་པའི་གསུངས་རབ་དེ་
 གང་ཟག་དེས་སྐོར་རྒྱུའི་ཆོས་སུ་འདོད་པས་དང་།
 
-<!-- pair: TGD-000432 | source: U00432 U00433 U00434 | role: main_text | format: prose -->
+Second, the noble master who saw the extremes of existence and nonexistence was foretold in twenty-one sūtras and tantras. Yet these predictions rely on Buddha-word of Ordinary Mind Only—the Great Drum, the Descent into Laṅkā, the Mañjuśrī Root Tantra, and so forth—rather than on the Perfection or Middle Way Buddha-word. Since they say he will turn the Dharma wheel, the scriptures containing the prediction are understood as the Dharma that this person would teach.
+
+<!-- TGD-000432 -->
+
 གསུམ་པ་མན་ངག་ཡང་སེམས་ཙམ་གྱིས་ཆོས་ཐམས་ཅད་སེམས་ནང་དུ་གཏན་ལ་ཕབ་པ་ན།
 སེམས་ཀྱང་སྤྲོས་བྲལ་བའི་དབུ་མ་ཡིན་ཏེ།
 སེམས་ཀྱི་རང་བཞིན་འོད་གསལ་བ་ཞེས་གསུངས་པས་སོ༑
 
-<!-- pair: TGD-000435 | source: U00435 U00436 U00437 U00438 U00439 U00440 U00441 U00442 U00443 U00444 | role: main_text | format: prose -->
+Third, in pith instruction too, when Ordinary Mind Only establishes all phenomena within ordinary mind, ordinary mind itself is the Middle Way free from conceptual elaborations. For it is said, “The intrinsic nature of ordinary mind is clear light.”
+
+<!-- TGD-000435 -->
+
 ལྷན༽༽ མཁས་པ་གཞན་གྱིས་སངས་རྒྱས་ཀྱི་ཆོས་སྡེ་སྣོད་དུ་བྱས་ན་
 ལུང་སྡེ་བཞི་འདུལ་བའི་སྡེ་སྣོད་དེང་སང་མདོ་མང་དུ་གྲགས་པ་འདི་རྣམས་མདོ་སྡེའི་སྡེ་སྣོད།
 མངོན་པ་ལ་གོང་འོག་གཉིས་ལས་
@@ -632,7 +957,10 @@ language: bo
 ཡང་དག་པར་འགྲོ་བ་སྟེ་
 བདུན་པོ་དེ་ཉན་ཐོས་བདུན་གྱིས་མཛད་པས་འོག་མ་ཡིན་གོང་མ་ལོགས་སུ་མེད་ཟེར་རོ།
 
-<!-- pair: TGD-000445 | source: U00445 U00446 U00447 U00448 U00449 U00450 | role: main_text | format: prose -->
+Supplement. Other scholars say that, when the Buddha’s Dharma is divided into baskets, the four Vinaya scriptures constitute the Vinaya basket, and what are now known as the collected sūtras constitute the Sūtra basket. Of higher and lower Abhidharma, the higher is absent from Tibet because it was destroyed by three: the non-Buddhist old woman Drakhen, the beggar Nyima Ngödrup, and the king of Tazik. The second comprises Entering Ordinary Mind, the Collection of Consciousness, Thorough Analysis, the Dharma Aggregate, Designation, and Authentic Progress. These seven were composed by seven śrāvakas and are the lower; there is no separate higher.[^N-A-032]
+
+<!-- TGD-000445 -->
+
 འདིར་ནི་ཐུན་མོང་གི་མདོ་དང་ཐུན་མོང་མ་ཡིན་པ་སེམས་ཙམ་སྟོན་པའི་མདོ་རྣམས་མངོན་པའི་སྡེ་སྣོད་དུ་བཞེད་དོ། །
 བདེན་བཞི་འདུལ་བ།
 མཚན་ཉིད་མེད་པ་མདོ་སྡེ།
@@ -640,7 +968,10 @@ language: bo
 རྒྱུ་མཚན་མངོན་པའི་བསྟན་དོན་ལྷག་པའི་ཤེས་རབ་ཡིན་ན་
 དེ་ཉིད་མཐར་ཐུག་མེད་དགག་གི་སྟོང་ཀྱང་ཙམ་དུ་མིན་པ་སྣང་སྟོང་ཟུང་འཇུག་ཆོས་སྐུ་རྟག་པ་རྒྱུན་མི་ཆད་པ་སྟོན་པར་ངེས་དོན་འཁོར་ལོ་ཡིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-000451 | source: U00451 U00452 U00453 U00454 U00455 U00456 U00457 U00458 | role: main_text | format: prose -->
+Here the common sūtras and the uncommon sūtras teaching Ordinary Mind Only are held to be the Abhidharma basket. The four truths are Vinaya; absence of characteristics is Sūtra; the wheel of definitive meaning, including essence sūtras and the four Ordinary-Mind-Only sūtras, is Abhidharma, without higher and lower divisions.[^N-A-033] The reason is that Abhidharma teaches superior discerning knowing. Its ultimate meaning is not mere emptiness as a nonaffirming negation. The definitive wheel teaches the union of appearance and emptiness, the Dharma embodiment, permanent in its uninterrupted succession.
+
+<!-- TGD-000451 -->
+
 རྡོ༽༽ ལོག་པའི་ཀུན་རྫོབ་ཆུ་ཟླ་ལྟ་བུས་དོན་མི་བྱེད་པ་
 སློབ་དཔོན་ཕལ་ཆེ་བ་འཞེད་ཀྱང་
 འདིར་དེ་ཉིད་ཀྱིས་ཀྱང་དོན་བྱེད་ནུས་པར་འདོད་དེ།
@@ -650,7 +981,10 @@ language: bo
 དེས་བསྒྲུབས་པའི་ལས་
 དེའི་རྣམ་སྨིན་འབྱུང་སྟེ་
 
-<!-- pair: TGD-000459 | source: U00459 U00460 U00461 U00462 U00463 U00464 U00465 U00466 U00467 | role: main_text | format: prose -->
+Vajra statement. Most masters hold that false conventional things, such as the moon in water, cannot perform a function. Here even these are held capable of functioning. By examining a reflected moon or image as unestablished in intrinsic nature, [one sees] truth; an ordinary mind that realizes it, the action accomplished through that, and its ripening arise.[^N-A-034]
+
+<!-- TGD-000459 -->
+
 དྲིན་ལན་བསབ་མདོར་
 བཙུན་མོ་རི་དྭགས་མའི་བུ་ལྔ་བརྒྱ་རྫིང་བུར་རང་གི་གཟུགས་བརྙན་ཤར་བ་མཐོང་བས་རང་བྱང་ཆུབ་ཐོབ་པ་དང༌།
 བྲམ་ཟེ་ཆེན་པོས་ཐོས་ཆང་དུ་རྩི་ཤིང་གི་གཟུགས་བརྙན་མཐོང་བས་ཕྱག་ཆེན་རྟོགས་པ་དང༌།
@@ -661,7 +995,10 @@ language: bo
 ནམ་མཁའ་དང་ཆུའི་རྒྱུ་རྐྱེན་ལས་སྐྱེས་པས་
 མཚན་ཉིད་བཞི་ཚང་བས་ཁྱད་པར་མི་བྱེད།
 
-<!-- pair: TGD-000468 | source: U00468 U00469 U00470 U00471 U00472 U00473 U00474 U00475 | role: main_text | format: prose -->
+In the Sūtra of Repaying Kindness, Queen Mṛgāvatī’s five hundred sons attained solitary awakening upon seeing their own reflections in a pond. The great brahmin realized Mahāmudrā upon seeing a plant’s reflection in liquor held in a skull cup.[^N-A-035] In Vinaya scripture, seeing the moon in water brought about the death of five hundred monkeys. That reflected moon appears to everyone in accordance with the abiding character of dependent arising; it arises from the causes and conditions of space and water. Thus it has all four defining characteristics, and no distinction is made on that basis.
+
+<!-- TGD-000468 -->
+
 འོ་ན་གང་ཡིན་ན།
 ཉོན་མོངས་མེད་པ་སེམས་དགེ་བས་བསླང་ཞིང་
 ལས་སྒྲུབ་པ་རྣམ་སྨིན་དང་བཅས་པ་ཡང་དག །
@@ -671,14 +1008,24 @@ language: bo
 སོགས་དང་།
 ཞི་བ་ལྷས།
 
-<!-- pair: TGD-000476 | source: U00476 U00477 | role: main_text | format: verse -->
+Then what is the distinction? Action motivated by a virtuous ordinary mind free from affliction, together with its ripening, is authentic conventionality; its opposite is false conventionality. Master Nāgārjuna says, “The stairs of the two, authentic and conventional …,” and so forth.[^N-A-036] Śāntideva says:
+
+<!-- TGD-000476 -->
+
 ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི།
 ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས།
 
-<!-- pair: TGD-000478 | source: U00478 | role: main_text | format: prose -->
+All these branches
+The Sage taught for the sake of discerning knowing.
+
+<!-- TGD-000478 -->
+
 ཞེསསོ།
 
-<!-- pair: TGD-000479 | source: U00479 U00480 U00481 U00482 U00483 U00484 U00485 U00486 U00487 | role: main_text | format: prose -->
+So it is stated.
+
+<!-- TGD-000479 -->
+
 རྡོ༽༽ ཁ་ཅིག་ན་རེ།་
 མཚན་ཉིད་ཐེག་པའི་ལམ་ས་བཅུས་བགྲོད་ཀྱང་
 སྔགས་ལམ་གཅིག་ཆར་བས་དེ་འགྲོད་མི་དགོས་ཏེ་
@@ -689,7 +1036,10 @@ language: bo
 ས་བཅུའི་རྒྱུན་མཐའ་ལ་ཤེས་སྒྲིབ་ཆེ་ཆུང་དང་
 སྔོན་གྱི་སྦྱང་པ་ཡོད་མེད་ཀྱི་བགྲོད་མྱུར་མི་མྱུར་ཡང་གཉིས་ཀར་ཡོད་དེ་
 
-<!-- pair: TGD-000488 | source: U00488 U00489 U00490 U00491 U00492 U00493 U00494 U00495 U00496 U00497 U00498 | role: main_text | format: prose -->
+Vajra statement. Some say that although the path of the vehicle of characteristics traverses ten levels, the mantra path is simultaneous and need not traverse them; it is something different. Here, however, all paths traverse the ten levels. Whether sūtra or mantra, one proceeds through the levels in sequence from the first level, the path of seeing, to the last moment of the tenth. In both, progress is faster or slower according to the greater or lesser cognitive obscurations and whether prior training has taken place.
+
+<!-- TGD-000488 -->
+
 མཚན་ཉིད་ལ་ཡང་
 གསང་ཆེན་ཐབས་ལ་མཁས་པ་ལས།
 བྱང་སེམས་དགའ་བྱེད་ས་དང་པོའི་དུས་སུ་
@@ -702,7 +1052,10 @@ language: bo
 བླ་མའི་བྱིན་རླབས་འཛོམ་ཚེ་གོང་མ་ཐབས་བྱུང་དུ་སྐྱེ་བ་ཡིན་ཞིང་།
 ཐབས་ཁྱད་ཙམ་ལས་སངས་རྒྱས་ཀྱི་རྒྱུ་དང་འབྲས་བུ་སྒྲུབ་པར་གཅིག་གོ།
 
-<!-- pair: TGD-000499 | source: U00499 U00500 U00501 U00502 U00503 U00504 | role: main_text | format: prose -->
+Even in the vehicle of characteristics, the Great Secret: Skill in Means recounts how the bodhisattva Joy-Maker, at the first level, saw the way afflictions abide and attained the eighth. In mantra, too, the master-king’s attainment of buddhahood in one life did not mean reaching a higher level without traversing the lower. It is like piercing stacked utpala petals with a needle. When long accumulation, the proximate cause of diligence, and the lama’s blessing come together, the higher [realizations] arise together.[^N-A-037] Apart from differences of method, both accomplish the same causes and result of buddhahood.
+
+<!-- TGD-000499 -->
+
 རྡོ༽༽ གཞན་འདོད་ལ་ལའི་ལམ་མངོན་པར་རྟོགས་པ་སྐབས་
 གདངས་ལྟར་རིམ་གྱིས་བགྲོད་པ་སློབ་དཔོན་འཕགས་པ་ལྟ་བུ་དང་།
 གཉིས་ཆར་དུ་བགྲོད་པ་བྲམ་ཟེ་ཆེན་པོ་ལྟ་བུ་གཉིས་ཡོད་ཟེར་ལ།
@@ -710,27 +1063,44 @@ language: bo
 མཚན་ཉིད་ཐེག་པ་ལྟ་ཞོགས་སྔགས་ལའང་
 ཀྱེེཻ རྡོ་རྗེ་ལས།
 
-<!-- pair: TGD-000505 | source: U00505 U00506 | role: main_text | format: verse -->
+Vajra statement. Some others hold that manifest realization on the path proceeds in two ways: gradually, as on rungs, like the noble master, or simultaneously, like the great brahmin.[^N-A-038] Here even these are certainly only successive entry. Leaving aside the vehicle of characteristics, even in mantra the Hevajra says:
+
+<!-- TGD-000505 -->
+
 དང་པོར་གསོ་སྦྱོང་བསྟན་པར་བྱ།
 དེ་རྗེས་བསླབ་སོགས།
 
-<!-- pair: TGD-000507 | source: U00507 U00508 U00509 U00510 | role: main_text | format: prose -->
+First the restoration-and-purification observance should be taught;
+After that, the trainings …
+
+<!-- TGD-000507 -->
+
 ཅེས་པའི་ལུང་དང་རིམ་གྱིས་མ་བགྲོད་པ་གཅིག་ཆར་མི་སྲིད་པ་ནི་
 སྔར་གྱི་ཨུཏྤ་ལའི་དཔེས་བསྟན་པས་ན་རིམ་གྱིས་ངེས་སོ། །
 ཞེས་གསུངས་པ་དེ་ཅི་ཞེ་ན།
 དེ་ལྟར་ན་མཚན་ཉིད་ལ་ཡང༌།
 
-<!-- pair: TGD-000511 | source: U00511 U00512 | role: main_text | format: verse -->
+This passage, and the preceding utpala example, show that simultaneous passage without successive traversal is impossible; thus succession is certain. If one asks how this statement applies, even in the vehicle of characteristics it is said:
+
+<!-- TGD-000511 -->
+
 མཁྱེན་པའི་སྐད་ཅིག་གཅིག་གིས། །
 ཤེས་བྱའི་འཁོར་ལོ་ཀུན་ཁྱབ་ཅན།
 
-<!-- pair: TGD-000513 | source: U00513 U00514 U00515 U00516 | role: main_text | format: prose -->
+Through a single instant of knowing,
+Pervading the entire circle of knowables …
+
+<!-- TGD-000513 -->
+
 ཞེས་སྐད་ཅིག་གཅིག་གིས་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་བརྙེས་པས་ན་མཚུངས་སོ། །
 གྲངས་མེད་གསུམ་དུ་ཚོགས་བསགས་པས་མི་མཚུངས་སྙམ་ན།
 སྔགས་ལ་ཡང་ཚོགས་བསགས་སྔོན་དུ་སོང་བས་ཡིན་གྱི།
 གཞན་དུ་ན་རྒྱུ་མེད་པས་འབྲས་བུ་ཁས་ལོངས་ཤིག་གོ།
 
-<!-- pair: TGD-000517 | source: U00517 U00518 U00519 U00520 U00521 U00522 U00523 U00524 U00525 | role: main_text | format: prose -->
+Thus knowledge of all aspects is attained in a single instant; in this respect they are alike. If one thinks they differ because the accumulations require three incalculable aeons, accumulation has likewise preceded attainment in mantra. Otherwise one would have to admit a result without a cause.
+
+<!-- TGD-000517 -->
+
 རྡོ༽༽ མཁྱེན་པའི་ཡེ་ཤེས་ལ་
 སྒྲིབ་བྱེད་ལས་ཉོན་ཤེས་བྱའི་སྒྲིབ་པ་གསུམ་ལ་
 རིམ་བཞིན་ལས་རྒྱུ་འབྲས་ལ་རྨོངས་པ་
@@ -741,7 +1111,10 @@ language: bo
 འདུན་པ་ཡན་དང་།
 ས་བཅུའི་རྒྱུན་མཐར་ཤེས་སྒྲིབ་སྤོང་བ་ངེས་ཟེར།
 
-<!-- pair: TGD-000526 | source: U00526 U00527 U00528 U00529 U00530 U00531 U00532 U00533 U00534 | role: main_text | format: prose -->
+Vajra statement. The three obscurations to primordial knowing—karmic, afflictive, and cognitive—are said to be, respectively, confusion about karmic causes and results, imputed [ignorance], and co-emergent ignorance or confusion about reality. Their successive abandonment is said to occur [at the first level and below; at the seventh and above;] with cognitive obscurations abandoned at the last moment of the tenth level.[^N-A-039]
+
+<!-- TGD-000526 -->
+
 འདིར་ནི་ཤེས་བྱའི་སྒྲིབ་པ་ཐོག་མར་སྤོང་བའང་ཡོད་དེ་
 རྗེ་བཙུན་མི་ལས་དྭགས་པོ་ལ་
 ང་ནི་ཤེས་སྒྲིབ་སྔོན་དུ་སྤོང་བར་འདོད་པ་ཡིན་གསུངས་པ་
@@ -752,7 +1125,10 @@ language: bo
 རྟོགས་བྱར་སྒྲིབ་པ་ཤེས་སྒྲིབ ཡིན་པས་སོ། །
 དེ་ཕྱིར་དབང་རྣོན་ཁ་ཅིག་ཤེས་སྒྲིབ་སྔོན་ལ་སྤོང་བའང་ཡོད་དོ།
 
-<!-- pair: TGD-000535 | source: U00535 U00536 U00537 U00538 U00539 U00540 U00541 U00542 U00543 U00544 U00545 | role: main_text | format: prose -->
+Here cognitive obscurations may also be abandoned first. Jetsün Mila told Dagpo, “I hold that cognitive obscurations are to be abandoned first.” The reason is that after a lama gives pith instruction and subsequent guidance, cultivation must give rise to manifest realization that abandons karmic and afflictive obscurations. For that to arise, co-emergent ignorance must be abandoned, since what obscures the object to be realized is a cognitive obscuration. Therefore some with sharp faculties abandon cognitive obscurations first.
+
+<!-- TGD-000535 -->
+
 རྡོ༽༽ གཞན་དག་ན་རེ།
 ཚད་མ་རིགས་བྱེད་དང་ཐུན་མོང་དུ་གྱུར་པ་ཕྱི་རོལ་རྩོད་པ་ཟློག་ཕྱིར་ལས་
 སངས་རྒྱས་ཀྱི་ཆོས་སུ་མི་འགྱུར་བ་འདོང་པའང་ཡོད་མོད།
@@ -765,11 +1141,18 @@ language: bo
 ཚད་མར་གྱུར་པ་ཞེས་དང༌།
 ཕྱོགས་གླང་གིས།
 
-<!-- pair: TGD-000546 | source: U00546 U00547 | role: main_text | format: verse -->
+Vajra statement. Some hold that valid cognition is shared with Vedic reasoning and serves only to repel outsiders’ objections, so it is not the Buddha’s Dharma. Here valid cognition means unfailing knowing; in its fullest sense it is solely the Buddha’s primordial knowing. The Three Heaps says, “Become primordial knowing; become the eye; become power; become valid cognition.” Dignāga says:
+
+<!-- TGD-000546 -->
+
 ཚད་མར་གྱུར་པ་འགྲོ་ལ་ཕན་བཞེད་པ། །
 སྟོན་པ་བདེ་བར་གཤེགས་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-000548 | source: U00548 U00549 U00550 U00551 U00552 U00553 U00554 U00555 | role: main_text | format: prose -->
+To the one who has become valid cognition, who wishes to benefit beings,
+The Teacher, the sugata, I bow.
+
+<!-- TGD-000548 -->
+
 ཞེས་དང་།
 ཆོས་གྲགས་རྣམ་ངེས་ལས།
 ཕན་པ་དང་མི་ཕན་ཐོབ་པ་དང་སྤོང་བ་ནི་
@@ -779,24 +1162,38 @@ language: bo
 བཟུང་མཐར་སྐྱོན་བྲལ་ཡོན་ཏན་རྫོགས་པའི་སངས་རྒྱས་ཐོབ་པ་མན་ཆད་ཡང་དག་པའི་ཤེས་པས་འགྲུབ་སྟེ།
 སྟོབས་བཅུ་མཁྱེན་པའི་ཡེ་ཤེས་དེ་ཡང་དག་གི་ཤེས་པ་ཡིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-000556 | source: U00556 U00557 U00558 | role: main_text | format: prose -->
+And Dharmakīrti’s Ascertainment of Valid Cognition says: “Attaining what benefits and abandoning what does not necessarily depend on prior authentic knowing. For those who do not know this, I compose this work.” From the temporary arising of even a little purposeful conceptual mind up to the attainment of buddhahood, free from faults and complete in qualities, all is accomplished through authentic knowing. For primordial knowing of the ten powers is authentic knowing.
+
+<!-- TGD-000556 -->
+
 རྡོ༽༽ ལ་ལ་དག་གིས་
 རྟོག་གེ་ཚད་མ་ནི་གྲུབ་མཐའ་དན་པ་སུན་འབྱིན་བྱེད་
 ལས་འབྲས་བུ་མེད་དེ་རྗེ་བོས།
 
-<!-- pair: TGD-000559 | source: U00559 U00560 U00561 | role: main_text | format: verse -->
+Vajra statement. Some say that logical valid cognition only refutes tenet systems and has no result; they cite the Lord:[^N-A-040]
+
+<!-- TGD-000559 -->
+
 མངོན་སུམ་རྗེས་དཔག་དགོས་པ་མེད་༑
 མུ་སྟེགས་རྒོལ་བ་བཟློག་པའི་ཕྱིར།
 མཁས་པ་རྣམས་ཀྱིས་བྱས་པ་ཡིན།
 
-<!-- pair: TGD-000562 | source: U00562 U00563 U00564 U00565 U00566 | role: main_text | format: prose -->
+Direct perception and inference serve no purpose;
+To repel non-Buddhist disputants,
+Scholars devised them.
+
+<!-- TGD-000562 -->
+
 ཞེས་འགའ་ཞིག་ཟེར་རོ། །
 འདིར་ནི་ཚད་མའི་འབྲས་བུ་ཟབ་མོ་སྟོང་པ་ཉིད་སྟོན་ཏེ་
 དེའང་ཚད་མ་ལ་གཞལ་བྱ་ཡུལ།
 འཇལ་བྱེད་བློ།
 དེ་རྟོགས་བྱེད་ཐབས་གསུམ་དུ་འདུ་ཞིང་
 
-<!-- pair: TGD-000567 | source: U00567 U00568 U00569 U00570 U00571 U00572 U00573 U00574 U00575 | role: main_text | format: prose -->
+Thus some say. Here valid cognition teaches profound emptiness as its result. Valid cognition comprises three: the domain that is the object of comprehension, the conceptual mind that comprehends, and the means by which it is realized.
+
+<!-- TGD-000567 -->
+
 ཡུལ་དང་ངོ་བོའི་སྒོ་ནས་དངོས་དང་དངོས་མེད།
 འདུ་བྱས་འདུ་མ་བྱས།
 ལྐོག་གྱུར་ཤིན་ཏུ་ལྐོག་གྱུར་གསུམ་
@@ -807,7 +1204,10 @@ language: bo
 རྟོགས་བྱེད་འགལ་འགྲེལ་དགག་སྒྲུབ་སྤྱི་བྱེ་བྲག་གཅིག་ཐ་དད་སེལ་འཇུག །
 སྒྲུབ་འཇུག་གཞན་སེལ། མཚན་མཚོན། རྫས་ལྡོག །རྗེས་དཔག་གཉིས་དང་བཅས་པ་ནི་ཚད་མའི་བརྗོད་བྱ་སྟེ།
 
-<!-- pair: TGD-000576 | source: U00576 U00577 U00578 U00579 U00580 U00581 U00582 | role: main_text | format: prose -->
+From the standpoint of object and essence there are three [pairs]: existent and nonexistent things, conditioned and unconditioned, hidden and extremely hidden.[^N-A-041] As instruments of comprehension, conceptual mind, awareness, and knowing have one meaning here. They are of two kinds: direct perception and inference. Direct perception includes sensory, mental-faculty, self-awareness, and yogic direct perception. Inference has three kinds: through the force of things, through renown, and through trust. The means of realization—contradiction and relation, denying and affirming, universal and particular, one and distinct, eliminative engagement, affirmative engagement, exclusion of other, definition and defined, substance and conceptual isolate, and the two kinds of inference—are the subject matter of valid cognition.
+
+<!-- TGD-000576 -->
+
 རང་དོན་རྗེས་དཔག་ཚུལ་གསུམ་ཚང་བའི་རྟགས་ཏེ།
 བདེན་པར་འཛིན་པའི་དངོས་པོ་ཆོས་ཅན།
 བདེན་པའི་སྐྱེ་བ་མེད་དེ།
@@ -816,3314 +1216,6617 @@ language: bo
 ཞེས་པས་རང་བཞིན་མ་གྲུབ་པའི་གནས་ཚུལ་སྟོང་ཉིད་སྟོན་པ་ཡིན་ནོ། །
 དེ་སྐད་དུའང་རྣམ་འགྲེལ་ལས།
 
-<!-- pair: TGD-000583 | source: U00583 U00584 U00585 U00586 | role: main_text | format: verse -->
+Inference for oneself uses a reason complete in the three modes: “Consider things grasped as truly existent: they have no true arising, because they are free of being one or many, like a reflection.” This teaches emptiness, the mode of being in which intrinsic nature is unestablished. The Commentary on Valid Cognition likewise says:
+
+<!-- TGD-000583 -->
+
 གང་གི་དངོས་པོ་རྣམ་དག་ན།
 དེ་ཉིད་དུ་ནི་དེ་དངོས་མེད།
 གང་གི་ཕྱིར་ན་དེ་དག་ལ། །
 གཅིག་དང་དུ་མའི་རང་བཞིན་མེད།
 
-<!-- pair: TGD-000587 | source: U00587 | role: main_text | format: prose -->
+When a thing is thoroughly examined,[^N-A-042]
+In reality that thing does not exist,
+Because these things lack
+The intrinsic nature of one or many.
+
+<!-- TGD-000587 -->
+
 ཅེས་དང་།
 
-<!-- pair: TGD-000588 | source: U00588 U00589 U00590 U00591 | role: main_text | format: verse -->
+And:
+
+<!-- TGD-000588 -->
+
 རྟོག་པའི་དྲྭ་བ་རྣམ་བསལ་ཅིང༌། །
 ཟབ་ཅིང་རྒྱ་ཆེའི་སྐུ་མངའ་བ། །
 ཀུན་ཏུ་བཟང་པོའི་འོད་ཟེར་དག །
 ཀུན་ནས་འཕྲོ་ལ་ཕྱག་འཚལ་ལོ༑ །
 
-<!-- pair: TGD-000592 | source: U00592 U00593 U00594 | role: main_text | format: prose -->
+Having wholly cleared the net of conceptual thought,
+Possessing an embodiment profound and vast,
+Samantabhadra’s rays of light
+Proliferate everywhere—to him I bow.
+
+<!-- TGD-000592 -->
+
 ཞེས་པས།
 ཚད་མ་ལ་འབྲས་བུ་ཡོད་པ་གྲུབ་སྟེ་།
 རྣལ་འབྱོར་མངོན་སུམ་དེ་མཐོང་ལས་གྱི་བདེན་པ་ཡིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-000595 | source: U00595 | role: main_text | format: prose -->
+Thus valid cognition is established to have a result: that yogic direct perception is the truth of the path of seeing.[^N-A-043]
+
+<!-- TGD-000595 -->
+
 རྡོ༽༽ སྤྱིར་སེམས་ཅན་ཐ་མལ་པ་དང་གྲུབ་མཐས་བློ་བསྒྱུར་བ་གཉིས།
 
-<!-- pair: TGD-000596 | source: U00596 | role: main_text | format: prose -->
+[Not yet translated: U00595.]
+
+<!-- TGD-000596 -->
+
 ཕྱི་མར་ཕྱི་རོལ་པའི་ལྟ་བ་བསྡུ་ན་རྟག་ཆད་གཉིས།
 
-<!-- pair: TGD-000597 | source: U00597 | role: main_text | format: prose -->
+[Not yet translated: U00596.]
+
+<!-- TGD-000597 -->
+
 ནང་པར་ཐེག་དམན་དོན་སྨྲ་སྡེ་གཉིས།
 
-<!-- pair: TGD-000598 | source: U00598 | role: main_text | format: prose -->
+[Not yet translated: U00597.]
+
+<!-- TGD-000598 -->
+
 ཐེག་ཆེན་སེམས་ཙམ་དབུ་མ་གཉིས་ལས་
 
-<!-- pair: TGD-000599 | source: U00599 | role: main_text | format: prose -->
+[Not yet translated: U00598.]
+
+<!-- TGD-000599 -->
+
 ཕྱི་རོལ་པའི་གྲུབ་མཐའ་དེ་དག་རྒྱ་གར་ན་ཡོད་བོད་ལ་མེད་ཟེར།
 
-<!-- pair: TGD-000600 | source: U00600 | role: main_text | format: prose -->
+[Not yet translated: U00599.]
+
+<!-- TGD-000600 -->
+
 འདིར་ཇི་སྲིད་གྲུབ་མཐའ་ཁ་བཟང་ངན་གྱི་འཛིན་ཡོད་པ་
 
-<!-- pair: TGD-000601 | source: U00601 | role: main_text | format: prose -->
+[Not yet translated: U00600.]
+
+<!-- TGD-000601 -->
+
 དེ་སྲིད་དུ་ལྟ་ངན་དེ་ཐམས་ཅད་རང་རྒྱུད་དུ་ཡོད་པ་ཡིན་ཏེ་
 
-<!-- pair: TGD-000602 | source: U00602 | role: main_text | format: prose -->
+[Not yet translated: U00601.]
+
+<!-- TGD-000602 -->
+
 ང་ནི་ཕ་འདིའི་བུ་ཡིན་ཞེས་གྲུབ་གྲུབ་ཏུ་འཛིན་པ་
 
-<!-- pair: TGD-000603 | source: U00603 | role: main_text | format: prose -->
+[Not yet translated: U00602.]
+
+<!-- TGD-000603 -->
+
 རྟག་ལྟ་རྒྱུ་འབྲས་ཀྱི་སྐྱོན་ཡོན་དགེ་སློང་ནག་པོ་ལ་བྱ་རོག་ཞར་མ་བཞིན་ནོ། །
 
-<!-- pair: TGD-000604 | source: U00604 | role: main_text | format: prose -->
+[Not yet translated: U00603.]
+
+<!-- TGD-000604 -->
+
 བྱས་པས་བྱ་རོག་ཞར་མའི་སྐྱེ་བ་ལྔ་བརྒྱ་ལེན་པར་གསུངས་པ་དང༌།
 
-<!-- pair: TGD-000605 | source: U00605 | role: main_text | format: prose -->
+[Not yet translated: U00604.]
+
+<!-- TGD-000605 -->
+
 སངས་རྒྱས་ཀྱི་མཚན་དང་ཆོས་ཐོས་པ་ཙམ་གྱི་ཡོན་ཏན་དཔག་མེད་འབྱུང་བར་གསུངས་པ་རྣམས་ལ་
 
-<!-- pair: TGD-000606 | source: U00606 | role: main_text | format: prose -->
+[Not yet translated: U00605.]
+
+<!-- TGD-000606 -->
+
 དེ་ཙམ་ཅི་ཡིན་སྙམ་ནས།
 
-<!-- pair: TGD-000607 | source: U00607 | role: main_text | format: prose -->
+[Not yet translated: U00606.]
+
+<!-- TGD-000607 -->
+
 ཡིད་མི་ཆེས་པ་ཆད་ལྟ་ཡིན་པས་མུ་སྟེགས་བྱེད་རང་ཉིད་ཡིན།
 
-<!-- pair: TGD-000608 | source: U00608 | role: main_text | format: prose -->
+[Not yet translated: U00607.]
+
+<!-- TGD-000608 -->
+
 གཉིས་པ་ཉན་ཐོས་ནས་མ་བུ་ཆེན་པོའི་བར་གྱི་གྲུབ་མཐར་དེ་འཛིན་གྱི་བར་
 
-<!-- pair: TGD-000609 | source: U00609 | role: main_text | format: prose -->
+[Not yet translated: U00608.]
+
+<!-- TGD-000609 -->
+
 ཡང་དག་དོན་ལ་རྨོངས་པ་ནང་གི་མུ་སྟེགས་ཡིན་ཏེ།
 
-<!-- pair: TGD-000610 | source: U00610 | role: main_text | format: prose -->
+[Not yet translated: U00609.]
+
+<!-- TGD-000610 -->
+
 དགེ་བའི་རྩ་བ་འཛིན་པའི་མདོར།
 
-<!-- pair: TGD-000611 | source: U00611 | role: main_text | format: prose -->
+[Not yet translated: U00610.]
+
+<!-- TGD-000611 -->
+
 བསྐལ་པ་བྱེ་བ་ཚུལ་ཁྲིམས་བསྲུངས་བྱས་ཤིང་ཡུན་རིང་སོཊ།རྩད་ནག་པས།
 
-<!-- pair: TGD-000612 | source: U00612 | role: main_text | format: prose -->
+[Not yet translated: U00611.]
+
+<!-- TGD-000612 -->
+
 མཆོག་ལ་སྐྱབས་སོང་འགྲོ་ལ་ཕན་བརྩོན་ཡང༌།
 
-<!-- pair: TGD-000613 | source: U00613 | role: main_text | format: prose -->
+[Not yet translated: U00612.]
+
+<!-- TGD-000613 -->
+
 གང་ཟག་རྡུལ་དང་སྐད་ཅིག་རྫས་སྨྲ་དང༌།
 
-<!-- pair: TGD-000614 | source: U00614 | role: main_text | format: prose -->
+[Not yet translated: U00613.]
+
+<!-- TGD-000614 -->
+
 འཇིག་དང་སྟོང་དང་དོན་དམ་མཚན་མར་བཀྲ་། །
 
-<!-- pair: TGD-000615 | source: U00615 | role: main_text | format: prose -->
+[Not yet translated: U00614.]
+
+<!-- TGD-000615 -->
+
 ཡང་དག་དོན་ལ་གང་གི་མུ་སྟེགས་ཡིན།
 
-<!-- pair: TGD-000616 | source: U00616 | role: main_text | format: prose -->
+[Not yet translated: U00615.]
+
+<!-- TGD-000616 -->
+
 ཅེས་སོ།
 
-<!-- pair: TGD-000617 | source: U00617 | role: main_text | format: prose -->
+[Not yet translated: U00616.]
+
+<!-- TGD-000617 -->
+
 རྡོ༽༽ ལོག་ལམ་མུ་སྟེགས་པའི་ལྟ་སྤྱོད་སྒྲུབ་པ་ཐམས་ཅད་སྤང་བྱ་འབའ་ཞིག་ཡིན་ཏེ་
 
-<!-- pair: TGD-000618 | source: U00618 | role: main_text | format: prose -->
+[Not yet translated: U00617.]
+
+<!-- TGD-000618 -->
+
 ལོག་པའི་ལམ་ལ་བསྒྲུབ་བྱ་མེད་པའི་ཕྱིར་རོ་ཞེས་ཟེར་མོད།
 
-<!-- pair: TGD-000619 | source: U00619 | role: main_text | format: prose -->
+[Not yet translated: U00618.]
+
+<!-- TGD-000619 -->
+
 འདིར་ནི་མུ་སྟེགས་པ་ལའང་གཤིས་ཀྱི་དགེ་བའི་བསྒྲུབ་བྱ་མང་ཏེ་
 
-<!-- pair: TGD-000620 | source: U00620 | role: main_text | format: prose -->
+[Not yet translated: U00619.]
+
+<!-- TGD-000620 -->
+
 དེ་དག་ལ་སྙིང་རྗེ་ཡོད་ལས་
 
-<!-- pair: TGD-000621 | source: U00621 | role: main_text | format: prose -->
+[Not yet translated: U00620.]
+
+<!-- TGD-000621 -->
+
 སྲོག་གཅོད་སོགས་མི་དགེ་བ་བཅུ་ལས་དགུ་དངོས་སུ་སྤོང་བའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-000622 | source: U00622 | role: main_text | format: prose -->
+[Not yet translated: U00621.]
+
+<!-- TGD-000622 -->
+
 དབྱར་ག་ནས་གསོ་སྦྱོང་དགག་དབྱེ་རྣམས་དང་པོས་སོ། །
 
-<!-- pair: TGD-000623 | source: U00623 | role: main_text | format: prose -->
+[Not yet translated: U00622.]
+
+<!-- TGD-000623 -->
+
 ནང་པ་ལ་མེད་པས་སངས་རྒྱས་ཀྱིས་དགེ་སློང་དག་
 
-<!-- pair: TGD-000624 | source: U00624 | role: main_text | format: prose -->
+[Not yet translated: U00623.]
+
+<!-- TGD-000624 -->
+
 མུ་སྟེགས་ཀྱི་འཕྱ་བ་ནི་ཐོག་ཏུ་འབབ་པ་ཡིན་པས་
 
-<!-- pair: TGD-000625 | source: U00625 | role: main_text | format: prose -->
+[Not yet translated: U00624.]
+
+<!-- TGD-000625 -->
+
 ཕྱིན་ཆད་འདི་རྣམས་བྱའོ། །
 
-<!-- pair: TGD-000626 | source: U00626 | role: main_text | format: prose -->
+[Not yet translated: U00625.]
+
+<!-- TGD-000626 -->
+
 གསུངས་ཏེ་བཅས་པ་མཛད་པ་དེ་སྒྲུབ་དགོས་པའི་ཕྱིར་
 
-<!-- pair: TGD-000627 | source: U00627 | role: main_text | format: prose -->
+[Not yet translated: U00626.]
+
+<!-- TGD-000627 -->
+
 གཤིས་ཀྱི་དགེ་བ་ལེགས་པ་ཞིག་མུ་སྟེགས་སམ་དུད་འགྲོའི་རྒྱུད་ལ་ཡོད་ཀྱང་ལེན་དགོས་ཏེ་༑
 
-<!-- pair: TGD-000628 | source: U00628 | role: main_text | format: prose -->
+[Not yet translated: U00627.]
+
+<!-- TGD-000628 -->
+
 མཐའ་ཡས་ཡོན་ཏན་དཔག་མེད་ཀྱང་། །
 
-<!-- pair: TGD-000629 | source: U00629 | role: main_text | format: prose -->
+[Not yet translated: U00628.]
+
+<!-- TGD-000629 -->
+
 གཞན་གྱི་ཡོན་ཏན་ཆུང་ངུ་ལེན། །
 
-<!-- pair: TGD-000630 | source: U00630 | role: main_text | format: prose -->
+[Not yet translated: U00629.]
+
+<!-- TGD-000630 -->
+
 དེ་ལྟར་ཡུན་དུ་སྤྱད་པ་ཡིས། །
 
-<!-- pair: TGD-000631 | source: U00631 | role: main_text | format: prose -->
+[Not yet translated: U00630.]
+
+<!-- TGD-000631 -->
+
 མྱུར་དུ་ཐམས་ཅད་མཁྱེན་པར་འགྲོ། །
 
-<!-- pair: TGD-000632 | source: U00632 | role: main_text | format: prose -->
+[Not yet translated: U00631.]
+
+<!-- TGD-000632 -->
+
 གཤིས་ཀྱི་ཉེས་པ་ཞིག་མཐོ་བ་བླ་མའི་ཐུགས་རྒྱུད་དུ་ཡོད་ཀྱང་དོར་དགོས་ཏེ།
 
-<!-- pair: TGD-000633 | source: U00633 | role: main_text | format: prose -->
+[Not yet translated: U00632.]
+
+<!-- TGD-000633 -->
+
 ཏཱ་ལའི་རྒྱུད་ལས།
 
-<!-- pair: TGD-000634 | source: U00634 | role: main_text | format: prose -->
+[Not yet translated: U00633.]
+
+<!-- TGD-000634 -->
+
 དགེ་སློང་དག་གམ་མཁས་རྣམས་ཀྱིས། །
 
-<!-- pair: TGD-000635 | source: U00635 | role: main_text | format: prose -->
+[Not yet translated: U00634.]
+
+<!-- TGD-000635 -->
+
 སྲེག་བཅད་བརྡར་བའི་གསེར་བཞིན་དུ།
 
-<!-- pair: TGD-000636 | source: U00636 | role: main_text | format: prose -->
+[Not yet translated: U00635.]
+
+<!-- TGD-000636 -->
+
 ལེགས་པར་
 
-<!-- pair: TGD-000637 | source: U00637 | role: main_text | format: prose -->
+[Not yet translated: U00636.]
+
+<!-- TGD-000637 -->
+
 ཞེས་སོ༑།
 
-<!-- pair: TGD-000638 | source: U00638 | role: main_text | format: prose -->
+[Not yet translated: U00637.]
+
+<!-- TGD-000638 -->
+
 ལྷན༽༽ ལ་ལ་དག་མུ་སྟེགས་བོན་གྱི་ཐུབ་པ་ཆེན་པོ་ལྟ་བུ་ཐོབ་པར་མི་ནུས་ཀྱང་
 
-<!-- pair: TGD-000639 | source: U00639 | role: main_text | format: prose -->
+[Not yet translated: U00638.]
+
+<!-- TGD-000639 -->
+
 ཆོས་ཉིད་ཀྱི་བདེན་པ་མཐོང་བ་ཡོད་ཟེར།
 
-<!-- pair: TGD-000640 | source: U00640 | role: main_text | format: prose -->
+[Not yet translated: U00639.]
+
+<!-- TGD-000640 -->
+
 འདིར་ནི་མུ་སྟེགས་བོན་གྱི་གྲུབ་མཐའ་འཛིན་པ་ཆོས་ཅན།
 
-<!-- pair: TGD-000641 | source: U00641 | role: main_text | format: prose -->
+[Not yet translated: U00640.]
+
+<!-- TGD-000641 -->
+
 བདེན་པ་མཐོང་བའི་སྐབས་མེད་དེ་
 
-<!-- pair: TGD-000642 | source: U00642 | role: main_text | format: prose -->
+[Not yet translated: U00641.]
+
+<!-- TGD-000642 -->
+
 ལོག་ལམ་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-000643 | source: U00643 | role: main_text | format: prose -->
+[Not yet translated: U00642.]
+
+<!-- TGD-000643 -->
+
 དེའང་མཆོག་གསུམ་ལ་སྐྱབས་སུ་མི་འཛིན་འཕགས་ལམ་དང་བྲལ་བའི་བདེན་པ་མི་མཐོང་སྟེ།
 
-<!-- pair: TGD-000644 | source: U00644 | role: main_text | format: prose -->
+[Not yet translated: U00643.]
+
+<!-- TGD-000644 -->
+
 ཕྲན་ཚེག་ལས།
 
-<!-- pair: TGD-000645 | source: U00645 | role: main_text | format: prose -->
+[Not yet translated: U00644.]
+
+<!-- TGD-000645 -->
+
 རབ་བཟང་གང་ཡང་འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་མི་སྣང་བ་
 
-<!-- pair: TGD-000646 | source: U00646 | role: main_text | format: prose -->
+[Not yet translated: U00645.]
+
+<!-- TGD-000646 -->
+
 དེ་ལ་དགེ་སྦྱོང་ཡང་མེད་དོ། །
 
-<!-- pair: TGD-000647 | source: U00647 | role: main_text | format: prose -->
+[Not yet translated: U00646.]
+
+<!-- TGD-000647 -->
+
 ཅེས་དང༌།
 
-<!-- pair: TGD-000648 | source: U00648 | role: main_text | format: prose -->
+[Not yet translated: U00647.]
+
+<!-- TGD-000648 -->
+
 ཆོས་སྐྱོབ་ཀྱིས།
 
-<!-- pair: TGD-000649 | source: U00649 | role: main_text | format: prose -->
+[Not yet translated: U00648.]
+
+<!-- TGD-000649 -->
+
 ནམ་མཁའ་ལ་ནི་བྱ་རྗེས་བཞིན། །
 
-<!-- pair: TGD-000650 | source: U00650 | role: main_text | format: prose -->
+[Not yet translated: U00649.]
+
+<!-- TGD-000650 -->
+
 ཀུན་ཏུ་རྒྱུ་ལ་དགེ་སྦྱོང་མེད།
 
-<!-- pair: TGD-000651 | source: U00651 | role: main_text | format: prose -->
+[Not yet translated: U00650.]
+
+<!-- TGD-000651 -->
+
 ཅེས་དང་ཤེས་སྤྲིང་ལས།
 
-<!-- pair: TGD-000652 | source: U00652 | role: main_text | format: prose -->
+[Not yet translated: U00651.]
+
+<!-- TGD-000652 -->
+
 གང་ཟག་ལོག་པར་ལྟ་བའི་ལེགས་བྱས་ཀྱང་།
 
-<!-- pair: TGD-000653 | source: U00653 | role: main_text | format: prose -->
+[Not yet translated: U00652.]
+
+<!-- TGD-000653 -->
+
 ཐམས་ཅད་རྣམ་པར་སྨིན་པ་མི་ཟད་ལྡན།
 
-<!-- pair: TGD-000654 | source: U00654 | role: main_text | format: prose -->
+[Not yet translated: U00653.]
+
+<!-- TGD-000654 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-000655 | source: U00655 | role: main_text | format: prose -->
+[Not yet translated: U00654.]
+
+<!-- TGD-000655 -->
+
 དེ་བཞིན་དུ་བརྡོལ་བོན་འགྱར་བོན་བསྒྱུར་བོན་རྣམས་ཀྱང་རོ།
 
-<!-- pair: TGD-000656 | source: U00656 | role: main_text | format: prose -->
+[Not yet translated: U00655.]
+
+<!-- TGD-000656 -->
+
 ལྷན༽༽ཡང་དགའ་ཞིག་གིས་
 
-<!-- pair: TGD-000657 | source: U00657 | role: main_text | format: prose -->
+[Not yet translated: U00656.]
+
+<!-- TGD-000657 -->
+
 བདེན་མཐོང་ལྟ་ཅི་ཐར་པ་ཆ་མཐུན་ཙམ་ཡང་མེད་ཟེར་ལ།
 
-<!-- pair: TGD-000658 | source: U00658 | role: main_text | format: prose -->
+[Not yet translated: U00657.]
+
+<!-- TGD-000658 -->
+
 འདིར་ནི་དེ་དག་ཐར་པའི་ཆ་དང་མཐུན་པའི་དགེ་བ་འགའ་ཞིག་ཡོད་ཀྱང་རུང་སྟེ་
 
-<!-- pair: TGD-000659 | source: U00659 | role: main_text | format: prose -->
+[Not yet translated: U00658.]
+
+<!-- TGD-000659 -->
+
 དེའང་ཆ་མཐུན་ནི་མཐོ་རིས་ཀྱི་བདེ་བར་དམིགས་པའི་ལས་བསོད་ནམས་ཆ་མཐུན།
 
-<!-- pair: TGD-000660 | source: U00660 | role: main_text | format: prose -->
+[Not yet translated: U00659.]
+
+<!-- TGD-000660 -->
+
 མྱང་འདས་ལ་དམིགས་པའི་ཐར་པ་ཆ་མཐུན།
 
-<!-- pair: TGD-000661 | source: U00661 | role: main_text | format: prose -->
+[Not yet translated: U00660.]
+
+<!-- TGD-000661 -->
+
 ངེས་འབྱེད་ཆ་བཞི་འཇིག་རྟེན་པའི་བསྒོམ་པ་ལས་སྐྱེས་པ་
 
-<!-- pair: TGD-000662 | source: U00662 | role: main_text | format: prose -->
+[Not yet translated: U00661.]
+
+<!-- TGD-000662 -->
+
 ཆོས་ཉིད་སྟོང་པ་གསལ་བ་དང་པོར་རྟོགས་པ་དྲོད་དེ་འཕེལ་བ་རྩེ་མོ།
 
-<!-- pair: TGD-000663 | source: U00663 | role: main_text | format: prose -->
+[Not yet translated: U00662.]
+
+<!-- TGD-000663 -->
+
 དེ་བརྟན་པ་བཟོད་པ་དེ་
 
-<!-- pair: TGD-000664 | source: U00664 | role: main_text | format: prose -->
+[Not yet translated: U00663.]
+
+<!-- TGD-000664 -->
+
 རབ་ཀྱི་མཐར་ཐུག་ཆོས་མཆོག་སྟེ་གསུམ་ལས་
 
-<!-- pair: TGD-000665 | source: U00665 | role: main_text | format: prose -->
+[Not yet translated: U00664.]
+
+<!-- TGD-000665 -->
+
 ཐར་པ་ཆ་མཐུན་སྙིང་རྗེ་དང་དབྱར་གནས་སོགས་སྔར་བཤད་པ་ལྟར་རོ།
 
-<!-- pair: TGD-000666 | source: U00666 | role: main_text | format: prose -->
+[Not yet translated: U00665.]
+
+<!-- TGD-000666 -->
+
 རྡོ༽༽ ཕྱི་ནང་གི་ཁྱད་པར་ཕྱག་རྒྱ་བཞི་དང་ལྟ་བ་དང་སྤྱོད་པ་དང་སྙིང་རྗེ་དང་བདག་འཛིན་ཡོད་མེད་ཀྱི་འབྱེད་པ་མི་མཐུན་པ་མང་དུ་སྣང་མོད།
 
-<!-- pair: TGD-000667 | source: U00667 | role: main_text | format: prose -->
+[Not yet translated: U00666.]
+
+<!-- TGD-000667 -->
+
 འདིར་ནི་ཕྱི་ནང་ཁྱད་པར་
 
-<!-- pair: TGD-000668 | source: U00668 | role: main_text | format: prose -->
+[Not yet translated: U00667.]
+
+<!-- TGD-000668 -->
+
 སངས་རྒྱས་ཆོས་དགེ་འདུན་ལ་སྐྱབས་སུ་འགྲོ་བས་འབྱེད་པ་སྟེ་
 
-<!-- pair: TGD-000669 | source: U00669 | role: main_text | format: prose -->
+[Not yet translated: U00668.]
+
+<!-- TGD-000669 -->
+
 གཞན་གང་གིས་མིན་ནོ།
 
-<!-- pair: TGD-000670 | source: U00670 | role: main_text | format: prose -->
+[Not yet translated: U00669.]
+
+<!-- TGD-000670 -->
+
 །དེ་དག་གིས་མི་ཕྱེད་དེ་
 
-<!-- pair: TGD-000671 | source: U00671 | role: main_text | format: prose -->
+[Not yet translated: U00670.]
+
+<!-- TGD-000671 -->
+
 ཆད་ལྟས་འདུས་བྱས་མི་རྟག་པ་དང་།
 
-<!-- pair: TGD-000672 | source: U00672 | role: main_text | format: prose -->
+[Not yet translated: U00671.]
+
+<!-- TGD-000672 -->
+
 འཁོར་བ་སྡུག་བསྔལ་དུ་མཐོང་བ་དང་།
 
-<!-- pair: TGD-000673 | source: U00673 | role: main_text | format: prose -->
+[Not yet translated: U00672.]
+
+<!-- TGD-000673 -->
+
 སྟོང་པ་ཆལ་ཆད་དུ་ལྟ་བ་དང་
 
-<!-- pair: TGD-000674 | source: U00674 | role: main_text | format: prose -->
+[Not yet translated: U00673.]
+
+<!-- TGD-000674 -->
+
 ལུང་མ་བསྟན་བཅུའི་ཡ་གྱལ་མཐའ་ཡོད་མཐའ་མེད་པས་དབུ་མ་དང༌།
 
-<!-- pair: TGD-000675 | source: U00675 | role: main_text | format: prose -->
+[Not yet translated: U00674.]
+
+<!-- TGD-000675 -->
+
 དགེ་བཅུ་སྤྱོད་པ་དང་།
 
-<!-- pair: TGD-000676 | source: U00676 | role: main_text | format: prose -->
+[Not yet translated: U00675.]
+
+<!-- TGD-000676 -->
+
 སྙིང་རྗེས་རྐང་པར་དྲིལ་གཡེར་འདོགས་པ་རྣམས་ཕྱི་རོལ་པ་ལ་ཡོད་པའི་ཕྱིར་དང་
 
-<!-- pair: TGD-000677 | source: U00677 | role: main_text | format: prose -->
+[Not yet translated: U00676.]
+
+<!-- TGD-000677 -->
+
 ནང་པར་ཡང་བྲམ་ཟེ་རྒྱལ་བའི་དྲོད་ཀྱི་མེ་ལྔ་བརྟེན་པ་དང་།
 
-<!-- pair: TGD-000678 | source: U00678 | role: main_text | format: prose -->
+[Not yet translated: U00677.]
+
+<!-- TGD-000678 -->
+
 གནས་མ་བུའི་སྡེ་བས་
 
-<!-- pair: TGD-000679 | source: U00679 | role: main_text | format: prose -->
+[Not yet translated: U00678.]
+
+<!-- TGD-000679 -->
+
 བདག་རྫས་གྲུབ་ཏུ་འདོད་པ་སོགས་ཡོད་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-000680 | source: U00680 | role: main_text | format: prose -->
+[Not yet translated: U00679.]
+
+<!-- TGD-000680 -->
+
 འོ་ན་ཅི་ཞེ་ན༑
 
-<!-- pair: TGD-000681 | source: U00681 | role: main_text | format: prose -->
+[Not yet translated: U00680.]
+
+<!-- TGD-000681 -->
+
 ཇོ་བོས་སྐྱབས་འགྲོའི་ཕན་ཡོན་དུ་
 
-<!-- pair: TGD-000682 | source: U00682 | role: main_text | format: prose -->
+[Not yet translated: U00681.]
+
+<!-- TGD-000682 -->
+
 ནང་པར་ཚུད་པར་འགྱུར་བ་ཞེས་པས་
 
-<!-- pair: TGD-000683 | source: U00683 | role: main_text | format: prose -->
+[Not yet translated: U00682.]
+
+<!-- TGD-000683 -->
+
 དེ་ཡོད་ན་རྒྱུ་མཚན་གནག་རྫི་ལྟ་བུའང་ནང་པ་ཡིན།
 
-<!-- pair: TGD-000684 | source: U00684 | role: main_text | format: prose -->
+[Not yet translated: U00683.]
+
+<!-- TGD-000684 -->
+
 མེད་ན་པཎྜི་ཏ་ལྟ་བུ་ཡང་ཕྱི་རོལ་པ་ཡིན་པ་དེའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-000685 | source: U00685 | role: main_text | format: prose -->
+[Not yet translated: U00684.]
+
+<!-- TGD-000685 -->
+
 ལྷན༽༽ ཕྱི་པར་སྡོམ་དང་སྙིང་རྗེ་མེད་དེ་
 
-<!-- pair: TGD-000686 | source: U00686 | role: main_text | format: prose -->
+[Not yet translated: U00685.]
+
+<!-- TGD-000686 -->
+
 ལྟ་བསྒོམ་སྤྱོད་པ་འབྲས་བུ་ལོག་པའི་ཕྱིར་
 
-<!-- pair: TGD-000687 | source: U00687 | role: main_text | format: prose -->
+[Not yet translated: U00686.]
+
+<!-- TGD-000687 -->
+
 ནང་པས་སྤང་པར་བྱ་བ་འབའ་ཞིག་ཡིན་ཟེར་ཡང༌།
 
-<!-- pair: TGD-000688 | source: U00688 | role: main_text | format: prose -->
+[Not yet translated: U00687.]
+
+<!-- TGD-000688 -->
+
 འདིར་སྡོམ་དང་སྙིང་རྗེ་ཙམ་ཕྱི་རོལ་པ་ལའང་ཡོད།
 
-<!-- pair: TGD-000689 | source: U00689 | role: main_text | format: prose -->
+[Not yet translated: U00688.]
+
+<!-- TGD-000689 -->
+
 དེ་སྲོག་གཅོད་སྤོང་བར་རྐང་པར་དྲིལ་བུ་འདོགས་པ་སྦྱིན་ལེན་ན་
 
-<!-- pair: TGD-000690 | source: U00690 | role: main_text | format: prose -->
+[Not yet translated: U00689.]
+
+<!-- TGD-000690 -->
+
 ཆུ་མི་འཐུང་བ་འདོད་ཆགས་སྐྱེས་ཀྱི་དོག་ན་འགྲོགས་སྟེ་འདུག་པ།
 
-<!-- pair: TGD-000691 | source: U00691 | role: main_text | format: prose -->
+[Not yet translated: U00690.]
+
+<!-- TGD-000691 -->
+
 རྫུན་བསྲུང་བར་མི་སྨྲ་བ་སྟེ་
 
-<!-- pair: TGD-000692 | source: U00692 | role: main_text | format: prose -->
+[Not yet translated: U00691.]
+
+<!-- TGD-000692 -->
+
 བརྟུལ་ཞུགས་ཀྱིས་མི་དགེ་བ་སྤོང་ཞིང་དགེ་བ་སྤྱོད་པ་དང་སྙིང་རྗེ་དེ་ལྟར་ཡོད་པས་སོ།
 
-<!-- pair: TGD-000693 | source: U00693 | role: main_text | format: prose -->
+[Not yet translated: U00692.]
+
+<!-- TGD-000693 -->
+
 རྡོ༽༽ ཐེག་པ་ཆེ་ཆུང་གི་ཁྱད་པར་
 
-<!-- pair: TGD-000694 | source: U00694 | role: main_text | format: prose -->
+[Not yet translated: U00693.]
+
+<!-- TGD-000694 -->
+
 རིགས་ལམ་འབྲས་བུ་ལྟ་སྤྱོད་སྙིང་རྗེ་སེམས་ཅན་གྱི་དོན་རྣམས་ཡོད་མེད་མཆོག་དམན་གྱིས་འབྱེད་ཟེར།
 
-<!-- pair: TGD-000695 | source: U00695 | role: main_text | format: prose -->
+[Not yet translated: U00694.]
+
+<!-- TGD-000695 -->
+
 འདིར་ནི་ཐེག་པ་ཆེ་ཆུང་གི་ཁྱད་པར་སེམས་བསྐྱེད་ཡིན་ཏེ།
 
-<!-- pair: TGD-000696 | source: U00696 | role: main_text | format: prose -->
+[Not yet translated: U00695.]
+
+<!-- TGD-000696 -->
+
 གཞན་དོན་འཁོར་བར་གནས་ཀྱང་ནི། །
 
-<!-- pair: TGD-000697 | source: U00697 | role: main_text | format: prose -->
+[Not yet translated: U00696.]
+
+<!-- TGD-000697 -->
+
 སྙིང་རྗེ་ཅན་དག་ཅི་སྟེ་སྐྱོ༑
 
-<!-- pair: TGD-000698 | source: U00698 | role: main_text | format: prose -->
+[Not yet translated: U00697.]
+
+<!-- TGD-000698 -->
+
 འདི་ནི་བྱང་ཆུབ་སེམས་སྟོབས་ཀྱིས། །
 
-<!-- pair: TGD-000699 | source: U00699 | role: main_text | format: prose -->
+[Not yet translated: U00698.]
+
+<!-- TGD-000699 -->
+
 སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་ཅིང་། །
 
-<!-- pair: TGD-000700 | source: U00700 | role: main_text | format: prose -->
+[Not yet translated: U00699.]
+
+<!-- TGD-000700 -->
+
 བསོད་ནམས་རྒྱ་མཚོ་བསྡུད་བྱེད་ཕྱིར།
 
-<!-- pair: TGD-000701 | source: U00701 | role: main_text | format: prose -->
+[Not yet translated: U00700.]
+
+<!-- TGD-000701 -->
+
 ཉན་ཐོས་རྣམས་ལས་མཆོག་ཏུ་བཤད། །
 
-<!-- pair: TGD-000702 | source: U00702 | role: main_text | format: prose -->
+[Not yet translated: U00701.]
+
+<!-- TGD-000702 -->
+
 དེ་བས་སྐྱོ་ངལ་ཀུན་སེལ་བའི
 
-<!-- pair: TGD-000703 | source: U00703 | role: main_text | format: prose -->
+[Not yet translated: U00702.]
+
+<!-- TGD-000703 -->
+
 བྱང་ཆུབ་སེམས་ཀྱི་རྟ་ཞོན་ནས། །
 
-<!-- pair: TGD-000704 | source: U00704 | role: main_text | format: prose -->
+[Not yet translated: U00703.]
+
+<!-- TGD-000704 -->
+
 བདེ་ནས་བདེ་བར་འགྲོ་བ་ལ། །
 
-<!-- pair: TGD-000705 | source: U00705 | role: main_text | format: prose -->
+[Not yet translated: U00704.]
+
+<!-- TGD-000705 -->
+
 སེམས་ཤེས་སུ་ཞིག་སྒྱིད་ལུགས་འགྱུར་༑ །
 
-<!-- pair: TGD-000706 | source: U00706 | role: main_text | format: prose -->
+[Not yet translated: U00705.]
+
+<!-- TGD-000706 -->
+
 ཞེས་གསུངས་པ་འཞིན་སྙིང་རྗེས་གཞན་དོན་ཕྱིར་དུ་
 
-<!-- pair: TGD-000707 | source: U00707 | role: main_text | format: prose -->
+[Not yet translated: U00706.]
+
+<!-- TGD-000707 -->
+
 བྱང་ཆུབ་འདོད་པའི་སེམས་བསྐྱེད་ཀྱིས་འབྱེད་པ་ལས་གཞན་གྱིས་མིན་ནོ།
 
-<!-- pair: TGD-000708 | source: U00708 | role: main_text | format: prose -->
+[Not yet translated: U00707.]
+
+<!-- TGD-000708 -->
+
 རྡོ༽༽ མདོ་དང་སྔགས་ཀྱི་ཁྱད་པར་
 
-<!-- pair: TGD-000709 | source: U00709 | role: main_text | format: prose -->
+[Not yet translated: U00708.]
+
+<!-- TGD-000709 -->
+
 ལམ་བདེ་བ་དུས་མྱུར་བ་
 
-<!-- pair: TGD-000710 | source: U00710 | role: main_text | format: prose -->
+[Not yet translated: U00709.]
+
+<!-- TGD-000710 -->
+
 འབྲས་བུ་ལམ་བྱེད་དེ་ལམ་དང་འཇུག་པ་
 
-<!-- pair: TGD-000711 | source: U00711 | role: main_text | format: prose -->
+[Not yet translated: U00710.]
+
+<!-- TGD-000711 -->
+
 འབྲས་བུ་བདེ་བས་འབྱེད་ཟེར་ཡང་
 
-<!-- pair: TGD-000712 | source: U00712 | role: main_text | format: prose -->
+[Not yet translated: U00711.]
+
+<!-- TGD-000712 -->
+
 འདིར་ནི་དབང་གིས་ཡིན་ཏེ་འཇམ་དཔལ་རྩ་རྒྱུད་ལས།
 
-<!-- pair: TGD-000713 | source: U00713 | role: main_text | format: prose -->
+[Not yet translated: U00712.]
+
+<!-- TGD-000713 -->
+
 གང༌ཞིག་དཀྱིལ་འཁོར་མ་མཐོང་བར།
 
-<!-- pair: TGD-000714 | source: U00714 | role: main_text | format: prose -->
+[Not yet translated: U00713.]
+
+<!-- TGD-000714 -->
+
 རྣལ་འབྱོར་པ་ནི་དངོས་གྲུབ་འདོད།
 
-<!-- pair: TGD-000715 | source: U00715 | role: main_text | format: prose -->
+[Not yet translated: U00714.]
+
+<!-- TGD-000715 -->
+
 མཁའ་ལ་ཁུ་ཚུར་གྱིས་བརྡེག་དང་།
 
-<!-- pair: TGD-000716 | source: U00716 | role: main_text | format: prose -->
+[Not yet translated: U00715.]
+
+<!-- TGD-000716 -->
+
 སྨིག་རྒྱུའི་ཆུ་ནི་འཐུང་དང་མཚུངས།
 
-<!-- pair: TGD-000717 | source: U00717 | role: main_text | format: prose -->
+[Not yet translated: U00716.]
+
+<!-- TGD-000717 -->
+
 ཞེས་པ་དབང་བཞི་དང་།
 
-<!-- pair: TGD-000718 | source: U00718 | role: main_text | format: prose -->
+[Not yet translated: U00717.]
+
+<!-- TGD-000718 -->
+
 དེ་ལས་ཀྱང་དུམ་དབང་གིས་འབྱེད་པ་ཡིན་ཏེ་
 
-<!-- pair: TGD-000719 | source: U00719 | role: main_text | format: prose -->
+[Not yet translated: U00718.]
+
+<!-- TGD-000719 -->
+
 གཞན་རྣམས་མཚན་ཉིད་ལའང་ཡོད་
 
-<!-- pair: TGD-000720 | source: U00720 | role: main_text | format: prose -->
+[Not yet translated: U00719.]
+
+<!-- TGD-000720 -->
+
 གསེར་མདོག་དང་ཆོས་འཕགས་ན་རེ་རྟག་ཏུ་དུ་བཞིན་ནོ།
 
-<!-- pair: TGD-000721 | source: U00721 | role: main_text | format: prose -->
+[Not yet translated: U00720.]
+
+<!-- TGD-000721 -->
+
 ལྷན༽༽ མཚན་ཉིད་ཐེག་པས་གྲས་མེད་གསུམ་གྱིས་སངས་རྒྱས་པར་འདོད་མོད།
 
-<!-- pair: TGD-000722 | source: U00722 | role: main_text | format: prose -->
+[Not yet translated: U00721.]
+
+<!-- TGD-000722 -->
+
 འདིར་ནི་ཚེ་གཅིག་གིས་འཚང་རྒྱ་བར་ཡོད་དེ།
 
-<!-- pair: TGD-000723 | source: U00723 | role: main_text | format: prose -->
+[Not yet translated: U00722.]
+
+<!-- TGD-000723 -->
+
 བསོད་ནམས་དང་བརྩོན་འགྲུས བླ་མ་མཚན་ལྡན་སོགས་ཚོགས་པ་ཚང་ན་
 
-<!-- pair: TGD-000724 | source: U00724 | role: main_text | format: prose -->
+[Not yet translated: U00723.]
+
+<!-- TGD-000724 -->
+
 ཚེ་གཅིག་འཚང་རྒྱ།
 
-<!-- pair: TGD-000725 | source: U00725 | role: main_text | format: prose -->
+[Not yet translated: U00724.]
+
+<!-- TGD-000725 -->
+
 མ་ཚོགས་ན་གསང་སྔགས་ཀྱིས་ཀྱང་སངས་མི་རྒྱ་སྟེ༑
 
-<!-- pair: TGD-000726 | source: U00726 | role: main_text | format: prose -->
+[Not yet translated: U00725.]
+
+<!-- TGD-000726 -->
+
 ཞུས་ལན་ཚིག་བཅད་མ་ལས།
 
-<!-- pair: TGD-000727 | source: U00727 | role: main_text | format: prose -->
+[Not yet translated: U00726.]
+
+<!-- TGD-000727 -->
+
 འདི་ཡང་སྟོན་པ་ཉིད་ཀྱི་བཀའ།
 
-<!-- pair: TGD-000728 | source: U00728 | role: main_text | format: prose -->
+[Not yet translated: U00727.]
+
+<!-- TGD-000728 -->
+
 སེམས་བསྐྱེད་གཅིག་གིས་སངས་རྒྱས་པར། །
 
-<!-- pair: TGD-000729 | source: U00729 | role: main_text | format: prose -->
+[Not yet translated: U00728.]
+
+<!-- TGD-000729 -->
+
 འདོད་པས་ཕ་རོལ་ཕྱིན་པ་ལ། །
 
-<!-- pair: TGD-000730 | source: U00730 | role: main_text | format: prose -->
+[Not yet translated: U00729.]
+
+<!-- TGD-000730 -->
+
 བསླབ་པར་བྱ་ཞེས་གསུངས་པ་དང་། །
 
-<!-- pair: TGD-000731 | source: U00731 | role: main_text | format: prose -->
+[Not yet translated: U00730.]
+
+<!-- TGD-000731 -->
+
 ལོ་ནི་བཅུ་གཉིས་ནང་རོལ་དུ།
 
-<!-- pair: TGD-000732 | source: U00732 | role: main_text | format: prose -->
+[Not yet translated: U00731.]
+
+<!-- TGD-000732 -->
+
 ནོར་བུ་བཟང་པོས་ཀུན་བཟང་ཐོབ། །
 
-<!-- pair: TGD-000733 | source: U00733 | role: main_text | format: prose -->
+[Not yet translated: U00732.]
+
+<!-- TGD-000733 -->
+
 བྱང་ཆུབ་སེམས་དཔའ་རྟག་ཏུ་ངུ་། །
 
-<!-- pair: TGD-000734 | source: U00734 | role: main_text | format: prose -->
+[Not yet translated: U00733.]
+
+<!-- TGD-000734 -->
+
 ཚེ་འདིར་ས་བཅུ་ཕ་རོལ་ཕྱིན། །
 
-<!-- pair: TGD-000735 | source: U00735 | role: main_text | format: prose -->
+[Not yet translated: U00734.]
+
+<!-- TGD-000735 -->
+
 དེ་ཕྱིར་ཕར་ཕྱིན་ཐེག་པ་ཡང༌། །
 
-<!-- pair: TGD-000736 | source: U00736 | role: main_text | format: prose -->
+[Not yet translated: U00735.]
+
+<!-- TGD-000736 -->
+
 ཚེ་གཅིག་སངས་རྒྱས་བཞེད་པ་ལགས།
 
-<!-- pair: TGD-000737 | source: U00737 | role: main_text | format: prose -->
+[Not yet translated: U00736.]
+
+<!-- TGD-000737 -->
+
 ཅེས་སོ།
 
-<!-- pair: TGD-000738 | source: U00738 | role: main_text | format: prose -->
+[Not yet translated: U00737.]
+
+<!-- TGD-000738 -->
+
 ལྷན༽༽ གཞན་ཤེས་ལ་སྔགས་མཚན་ཉིད་གཉིས་ཀྱི་སངས་རྒྱས་དེས་གསུངས་པའི་ཆོས་
 
-<!-- pair: TGD-000739 | source: U00739 | role: main_text | format: prose -->
+[Not yet translated: U00738.]
+
+<!-- TGD-000739 -->
+
 དེ་ཉམས་སུ་ལེན་པའི་དགེ་འདུན་གསུམ་པོ་ཐ་དད་ཡིན་ཟེར་ཡང༌།
 
-<!-- pair: TGD-000740 | source: U00740 | role: main_text | format: prose -->
+[Not yet translated: U00739.]
+
+<!-- TGD-000740 -->
+
 འདིར་ཆོས་དང་ཉམས་ལེན་གྱི་འགྲོས་སམ་བབ་ཀྱིས་འབྲས་བུ་སངས་རྒྱས་གཅིག་ཡིན་ཏེ་
 
-<!-- pair: TGD-000741 | source: U00741 | role: main_text | format: prose -->
+[Not yet translated: U00740.]
+
+<!-- TGD-000741 -->
+
 སངས་རྒྱས་ཐོབ་པར་བྱེད་པ་ལ་ས་བཅུ་གཅིག་དང་བཅུ་གསུམ་གཉིས་སུ་གསུངས་ཀྱང་
 
-<!-- pair: TGD-000742 | source: U00742 | role: main_text | format: prose -->
+[Not yet translated: U00741.]
+
+<!-- TGD-000742 -->
+
 མཚོན་ལུགས་མ་གཏོགས་དོན་ལ་ཁྱད་མེད་དོ།
 
-<!-- pair: TGD-000743 | source: U00743 | role: main_text | format: prose -->
+[Not yet translated: U00742.]
+
+<!-- TGD-000743 -->
+
 སྔགས་ཀྱིས་ལུས་རྩའི་མདུད་བཅུ་གསུམ་གྲོལ་རྒྱུ་ཐ་མལ་གྱི་རླུང་ཉི་ཁྲི་ཆིག་སྟོང་དྲུག་བརྒྱ་འགག་པ་དང་སྦྱར་ཏེ་
 
-<!-- pair: TGD-000744 | source: U00744 | role: main_text | format: prose -->
+[Not yet translated: U00743.]
+
+<!-- TGD-000744 -->
+
 འཕོ་བ་བཅུ་གཉིས་གཙོ་བོར་བྱས་པ་ལ་ས་བཅུ་གཉིས་ཏེ་
 
-<!-- pair: TGD-000745 | source: U00745 | role: main_text | format: prose -->
+[Not yet translated: U00744.]
+
+<!-- TGD-000745 -->
+
 རྩ་རླུང་ལ་བརྟེན་པ་མ་དག་པའི་རྟེན་འབྲེལ་སྦྱངས་པ་དང་།
 
-<!-- pair: TGD-000746 | source: U00746 | role: main_text | format: prose -->
+[Not yet translated: U00745.]
+
+<!-- TGD-000746 -->
+
 རྡོ་རྗེ་འཛིན་པའི་ས་དང་བཅུ་གསུམ་མོ།
 
-<!-- pair: TGD-000747 | source: U00747 | role: main_text | format: prose -->
+[Not yet translated: U00746.]
+
+<!-- TGD-000747 -->
+
 ཕར་ཕྱིན་པས་སྒྲིབ་བཅུ་སྤངས་ཤིང་ཕར་ཕྱིན་བཅུ་རྫོགས་པས་
 
-<!-- pair: TGD-000748 | source: U00748 | role: main_text | format: prose -->
+[Not yet translated: U00747.]
+
+<!-- TGD-000748 -->
+
 ས་བཅུ་མཐར་ཕྱིན་ནས་བཅུ་གཅིག་པ་སངས་རྒྱས་ཀྱི་སར་འདོད་པས་ན་སས་བགྲོད་པ་དང༌།
 
-<!-- pair: TGD-000749 | source: U00749 | role: main_text | format: prose -->
+[Not yet translated: U00748.]
+
+<!-- TGD-000749 -->
+
 ཉམས་ལེན་བསླབ་གསུམ་དགེ་བ།
 
-<!-- pair: TGD-000750 | source: U00750 | role: main_text | format: prose -->
+[Not yet translated: U00749.]
+
+<!-- TGD-000750 -->
+
 ཉོན་མོངས་འདུལ་བ་ཐེག་ཆེན་ཡིན་པ།
 
-<!-- pair: TGD-000751 | source: U00751 | role: main_text | format: prose -->
+[Not yet translated: U00750.]
+
+<!-- TGD-000751 -->
+
 བགྲོད་པ་གཅིག་པའི་ལམ་ཡིན་པ་རྣམས་
 
-<!-- pair: TGD-000752 | source: U00752 | role: main_text | format: prose -->
+[Not yet translated: U00751.]
+
+<!-- TGD-000752 -->
+
 སྔགས་མཚན་ཉིད་གཉིས་ཀ་གཅིག་པ་ཡིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-000753 | source: U00753 | role: main_text | format: prose -->
+[Not yet translated: U00752.]
+
+<!-- TGD-000753 -->
+
 རྡོ༽༽ སྔགས་མཚན་ཉིད་གཉིས་གཞི་ལམ་འབྲས་བུ་གསུམ་གྱི་གང་རུང་རེས་སངས་རྒྱས་ཐོབ་པ་ཡིན་ཟེར།
 
-<!-- pair: TGD-000754 | source: U00754 | role: main_text | format: prose -->
+[Not yet translated: U00753.]
+
+<!-- TGD-000754 -->
+
 འདིར་ནི་དེ་གཉིས་གང་ལ་གང་མེད་རྫོགས་བྱང་ཐོབ་པར་མི་སྲིད་དེ་
 
-<!-- pair: TGD-000755 | source: U00755 | role: main_text | format: prose -->
+[Not yet translated: U00754.]
+
+<!-- TGD-000755 -->
+
 རགས་པའི་སྤང་བྱ་མཚན་ཉིད་ཀྱིས་སྤོང།
 
-<!-- pair: TGD-000756 | source: U00756 | role: main_text | format: prose -->
+[Not yet translated: U00755.]
+
+<!-- TGD-000756 -->
+
 ཕྲ་བ་སྔགས་ཀྱིས་སྤོང་བས་
 
-<!-- pair: TGD-000757 | source: U00757 | role: main_text | format: prose -->
+[Not yet translated: U00756.]
+
+<!-- TGD-000757 -->
+
 སྔགས་ལ་མཚན་ཉིད་མེད་ན་རག་པ་མི་སྤོང་ཞིང་
 
-<!-- pair: TGD-000758 | source: U00758 | role: main_text | format: prose -->
+[Not yet translated: U00757.]
+
+<!-- TGD-000758 -->
+
 སློབ་དཔོན་རྒྱལ་བོ་དང་ནཱ་རོ་པ་ལྟ་བུས་ཀྱང་
 
-<!-- pair: TGD-000759 | source: U00759 | role: main_text | format: prose -->
+[Not yet translated: U00758.]
+
+<!-- TGD-000759 -->
+
 སངས་རྒྱས་མི་ཐོབ་སྟེ་རགས་པ་མ་སྤང་བའི་སངས་རྒྱས་མི་སྲིད་པའི་ཕྱིར།
 
-<!-- pair: TGD-000760 | source: U00760 | role: main_text | format: prose -->
+[Not yet translated: U00759.]
+
+<!-- TGD-000760 -->
+
 མཚན་ཉིད་ལ་སྔགས་མེད་ན་ཕྲ་བ་མི་སྤོང་ཞིང་
 
-<!-- pair: TGD-000761 | source: U00761 | role: main_text | format: prose -->
+[Not yet translated: U00760.]
+
+<!-- TGD-000761 -->
+
 ནོར་བཟང་དང་རྟག་ཏུ་ངུ་ལྟ་བུས་ཀྱང་སངས་རྒྱས་མི་ཐོབ་ཏེ།
 
-<!-- pair: TGD-000762 | source: U00762 | role: main_text | format: prose -->
+[Not yet translated: U00761.]
+
+<!-- TGD-000762 -->
+
 ཇོ་བོས།
 
-<!-- pair: TGD-000763 | source: U00763 | role: main_text | format: prose -->
+[Not yet translated: U00762.]
+
+<!-- TGD-000763 -->
+
 གསང་སྔགས་ཕ་རོལ་ཕྱིན་པ་ལ། །
 
-<!-- pair: TGD-000764 | source: U00764 | role: main_text | format: prose -->
+[Not yet translated: U00763.]
+
+<!-- TGD-000764 -->
+
 བརྟེན་ནས་བྱང་ཆུབ་བསྒྲུབ་པར་གསུངས། །
 
-<!-- pair: TGD-000765 | source: U00765 | role: main_text | format: prose -->
+[Not yet translated: U00764.]
+
+<!-- TGD-000765 -->
+
 ཅེས་པས་སོ།
 
-<!-- pair: TGD-000766 | source: U00766 | role: main_text | format: prose -->
+[Not yet translated: U00765.]
+
+<!-- TGD-000766 -->
+
 རྡོ༽༽ གཞན་འདོད་ལ་སྡོམ་གསུམ་རིམ་བཞིན་ལུས་ངག་གི་མི་དགེ་བ་བདུན་དང་།
 
-<!-- pair: TGD-000767 | source: U00767 | role: main_text | format: prose -->
+[Not yet translated: U00766.]
+
+<!-- TGD-000767 -->
+
 ཡིད་ཀྱི་གསུམ་དང་།
 
-<!-- pair: TGD-000768 | source: U00768 | role: main_text | format: prose -->
+[Not yet translated: U00767.]
+
+<!-- TGD-000768 -->
+
 ལོག་ལྟ་སྤོང་ཞིང༌།
 
-<!-- pair: TGD-000769 | source: U00769 | role: main_text | format: prose -->
+[Not yet translated: U00768.]
+
+<!-- TGD-000769 -->
+
 དེ་ཡང་གཙོ་བོར་བདུན་ལ་འདོད་ཆགས།
 
-<!-- pair: TGD-000770 | source: U00770 | role: main_text | format: prose -->
+[Not yet translated: U00769.]
+
+<!-- TGD-000770 -->
+
 གསུམ་ལ་ཞེ་སྡང།
 
-<!-- pair: TGD-000771 | source: U00771 | role: main_text | format: prose -->
+[Not yet translated: U00770.]
+
+<!-- TGD-000771 -->
+
 ཕྱི་མའི་སྐབས་སུ་གཏི་མུག་སྤོང་བས་
 
-<!-- pair: TGD-000772 | source: U00772 | role: main_text | format: prose -->
+[Not yet translated: U00771.]
+
+<!-- TGD-000772 -->
+
 སོ་སོར་གསུམ་དུ་བྱུང་བ་ཡིན་ཞེས་ཟེར།
 
-<!-- pair: TGD-000773 | source: U00773 | role: main_text | format: prose -->
+[Not yet translated: U00772.]
+
+<!-- TGD-000773 -->
+
 འདིར་ནི་སྡོམ་གསུམ་སྤང་བྱ་མི་དགེ་བཅུ་སྤོང་བའི་ཕྱིར་
 
-<!-- pair: TGD-000774 | source: U00774 | role: main_text | format: prose -->
+[Not yet translated: U00773.]
+
+<!-- TGD-000774 -->
+
 གནད་དམ་སྡོག་ནི་གཅིག་སྟེ་
 
-<!-- pair: TGD-000775 | source: U00775 | role: main_text | format: prose -->
+[Not yet translated: U00774.]
+
+<!-- TGD-000775 -->
+
 མི་དགེ་བཅུ་སྡོམ་པ་གསུམ་ཆར་དུ་སྤང་བྱ་ཡིན་པ་
 
-<!-- pair: TGD-000776 | source: U00776 | role: main_text | format: prose -->
+[Not yet translated: U00775.]
+
+<!-- TGD-000776 -->
+
 སོ་ཐར་གྱི་སྐབས་སུ་ལུང་རྣམ་འབྱེད་ལས།
 
-<!-- pair: TGD-000777 | source: U00777 | role: main_text | format: prose -->
+[Not yet translated: U00776.]
+
+<!-- TGD-000777 -->
+
 ལུས་ཀྱི་སྡོམ་པ་ལེགས་པ་ན།
 
-<!-- pair: TGD-000778 | source: U00778 | role: main_text | format: prose -->
+[Not yet translated: U00777.]
+
+<!-- TGD-000778 -->
+
 སོགས།།
 
-<!-- pair: TGD-000779 | source: U00779 | role: main_text | format: prose -->
+[Not yet translated: U00778.]
+
+<!-- TGD-000779 -->
+
 ཅེས་བྱང་སེམས་ཀྱིས་ཀྱང་ཕུང་པོ་གསུམ་པ་སོགས་ལས་དེ་ལྟར་གསུངས་ཤིང༌།
 
-<!-- pair: TGD-000780 | source: U00780 | role: main_text | format: prose -->
+[Not yet translated: U00779.]
+
+<!-- TGD-000780 -->
+
 སྔགས་ལའང་གསང་བདག་གིས་བཅོམ་ལྡན་འདས་ལ་དམ་ཚིག་གང་ལགས་ཞུས་པས།
 
-<!-- pair: TGD-000781 | source: U00781 | role: main_text | format: prose -->
+[Not yet translated: U00780.]
+
+<!-- TGD-000781 -->
+
 མི་དགེ་བ་བཅུ་སྤོང་བའོ། །
 
-<!-- pair: TGD-000782 | source: U00782 | role: main_text | format: prose -->
+[Not yet translated: U00781.]
+
+<!-- TGD-000782 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-000783 | source: U00783 | role: main_text | format: prose -->
+[Not yet translated: U00782.]
+
+<!-- TGD-000783 -->
+
 བཅོམ་ལྡན་འདས་ནི་བདུད་བཅོམ་པ་ཡིན་ན།
 
-<!-- pair: TGD-000784 | source: U00784 | role: main_text | format: prose -->
+[Not yet translated: U00783.]
+
+<!-- TGD-000784 -->
+
 དུག་གསུམ་ཉོན་མོངས་པ་སྤོང་དགོས་ཏེ།
 
-<!-- pair: TGD-000785 | source: U00785 | role: main_text | format: prose -->
+[Not yet translated: U00784.]
+
+<!-- TGD-000785 -->
+
 ཉོན་མོངས་བདུད་ནི་བཅོམ་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-000786 | source: U00786 | role: main_text | format: prose -->
+[Not yet translated: U00785.]
+
+<!-- TGD-000786 -->
+
 སྲོག་གཅོད་ལྟ་བུ་གཅིག་སྤོང་བ་
 
-<!-- pair: TGD-000787 | source: U00787 | role: main_text | format: prose -->
+[Not yet translated: U00786.]
+
+<!-- TGD-000787 -->
+
 མི་ཆོས་བཅུ་དྲུག་གི་དང་པོ་
 
-<!-- pair: TGD-000788 | source: U00788 | role: main_text | format: prose -->
+[Not yet translated: U00787.]
+
+<!-- TGD-000788 -->
+
 སོ་ཐར་གྱི་རྩ་བཞིའི་ཡ་གྱལ།
 
-<!-- pair: TGD-000789 | source: U00789 | role: main_text | format: prose -->
+[Not yet translated: U00788.]
+
+<!-- TGD-000789 -->
+
 བྱང་སེམས་ཀྱི་སྨོན་སེམས་སྐྱེ་བའི་རྒྱུ།
 
-<!-- pair: TGD-000790 | source: U00790 | role: main_text | format: prose -->
+[Not yet translated: U00789.]
+
+<!-- TGD-000790 -->
+
 སྐྱེ་ནས་འཇུག་སྡོམ་གྱི་ངོ་བོ། །
 
-<!-- pair: TGD-000791 | source: U00791 | role: main_text | format: prose -->
+[Not yet translated: U00790.]
+
+<!-- TGD-000791 -->
+
 སྔགས་སུ་བཀའ་འདས་ཀྱི་ལྟུང་བ་འབྱུང་བས་
 
-<!-- pair: TGD-000792 | source: U00792 | role: main_text | format: prose -->
+[Not yet translated: U00791.]
+
+<!-- TGD-000792 -->
+
 ཚུལ་འདིས་མི་དགེ་བ་ཀུན་ལ་མཚུངས་པར་གནད་གཅིག་ཏུ་འོང་ངོ༌།
 
-<!-- pair: TGD-000793 | source: U00793 | role: main_text | format: prose -->
+[Not yet translated: U00792.]
+
+<!-- TGD-000793 -->
+
 ལྷན༽༽ འགའ་ཞིག་སོར་སྡོམ་སྤང་གཉེན་གྱི་ཚུལ་དུ་ཡོད་པ་སྣ་རེ་ཉམས་ན་ངན་སོང་དུ་འགྲོ་
 
-<!-- pair: TGD-000794 | source: U00794 | role: main_text | format: prose -->
+[Not yet translated: U00793.]
+
+<!-- TGD-000794 -->
+
 བྱང་སེམས་ལ་མི་དགེ་བ་བདུན་
 
-<!-- pair: TGD-000795 | source: U00795 | role: main_text | format: prose -->
+[Not yet translated: U00794.]
+
+<!-- TGD-000795 -->
+
 གནང་སྔགས་ཀྱིས་བཀག་པ་དེ་རྣམས་ལམ་དུ་བྱེད་པས་
 
-<!-- pair: TGD-000796 | source: U00796 | role: main_text | format: prose -->
+[Not yet translated: U00795.]
+
+<!-- TGD-000796 -->
+
 གོང་ནས་གོང་དུ་ཡངས་སུ་སོང་བ་ཡིན་ཟེར།
 
-<!-- pair: TGD-000797 | source: U00797 | role: main_text | format: prose -->
+[Not yet translated: U00796.]
+
+<!-- TGD-000797 -->
+
 འདིར་ནི་སོ་བྱང་སྔགས་ཀྱི་སྡོམ་གསུམ་དེ་ཡང་
 
-<!-- pair: TGD-000798 | source: U00798 | role: main_text | format: prose -->
+[Not yet translated: U00797.]
+
+<!-- TGD-000798 -->
+
 གོང་ནས་གོང་དུ་དོག་ཏུ་འགྲོ་བ་བསྒྲུབ་ཏེ་
 
-<!-- pair: TGD-000799 | source: U00799 | role: main_text | format: prose -->
+[Not yet translated: U00798.]
+
+<!-- TGD-000799 -->
+
 སོ་ཐར་གྱི་སྤང་བྱ་རག་པ་ཆེ་ལོང་ཙམ་བཅས་པ་
 
-<!-- pair: TGD-000800 | source: U00800 | role: main_text | format: prose -->
+[Not yet translated: U00799.]
+
+<!-- TGD-000800 -->
+
 ཉིས་བརྒྱ་ང་གསུམ་རང་གཅིག་པུའི་དོན་ཡིན་པས་སླ་བའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-000801 | source: U00801 | role: main_text | format: prose -->
+[Not yet translated: U00800.]
+
+<!-- TGD-000801 -->
+
 བྱང་སེམས་ཀྱིས་ཕྲ་བ་སྤོང་བར་
 
-<!-- pair: TGD-000802 | source: U00802 | role: main_text | format: prose -->
+[Not yet translated: U00801.]
+
+<!-- TGD-000802 -->
+
 བྱང་སེམས་ཀྱི་སྡེ་སྣོད་དུ་ཞིབ་ཏུ་བཅས་ཏེ་
 
-<!-- pair: TGD-000803 | source: U00803 | role: main_text | format: prose -->
+[Not yet translated: U00802.]
+
+<!-- TGD-000803 -->
+
 གཞན་དོན་ཁོ་ན་ལས་རང་དོན་སྐད་ཅིག་ཙམ་སྐྱེས་ན་ཉམས་པར་འགྱུར་བ་
 
-<!-- pair: TGD-000804 | source: U00804 | role: main_text | format: prose -->
+[Not yet translated: U00803.]
+
+<!-- TGD-000804 -->
+
 སྔར་བས་བསྲུང་དཀའ་བའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-000805 | source: U00805 | role: main_text | format: prose -->
+[Not yet translated: U00804.]
+
+<!-- TGD-000805 -->
+
 སྔགས་ཀྱིས་ཤིན་ཏུ་ཕྲ་བའི་བག་ཉལ་སྤོང་བ་
 
-<!-- pair: TGD-000806 | source: U00806 | role: main_text | format: prose -->
+[Not yet translated: U00805.]
+
+<!-- TGD-000806 -->
+
 རྒྱུད་སྡེ་རྣམས་ལས་འབུམ་སྡེ་སོགས་གསུངས་ཤིང་
 
-<!-- pair: TGD-000807 | source: U00807 | role: main_text | format: prose -->
+[Not yet translated: U00806.]
+
+<!-- TGD-000807 -->
+
 སྔ་མའི་སྟེང་དུ་ལུས་ངག་ཡིད་ཀྱི་བྱ་བྱེད་ཐམས་ཅད་ལྷའི་ང་རྒྱལ་ལས་སྐད་ཅིག་ཙམ་ཡང་མ་བྲལ་བར་དགོས་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-000808 | source: U00808 | role: main_text | format: prose -->
+[Not yet translated: U00807.]
+
+<!-- TGD-000808 -->
+
 རྡོ༽༽ ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བའི་དོན་སྡོམ་གསུམ་ཡིན།
 
-<!-- pair: TGD-000809 | source: U00809 | role: main_text | format: prose -->
+[Not yet translated: U00808.]
+
+<!-- TGD-000809 -->
+
 དེ་གསུམ་དུ་འོང་བའི་རྒྱུ་མཚན་སྤང་བྱ་དང༌།
 
-<!-- pair: TGD-000810 | source: U00810 | role: main_text | format: prose -->
+[Not yet translated: U00809.]
+
+<!-- TGD-000810 -->
+
 བསྒྲུབ་བྱ་དང་ཐོབ་བྱ་འབྲས་བུ་མི་མཐུན་པས་
 
-<!-- pair: TGD-000811 | source: U00811 | role: main_text | format: prose -->
+[Not yet translated: U00810.]
+
+<!-- TGD-000811 -->
+
 ལེན་ན་སོ་སོར་ལེན།
 
-<!-- pair: TGD-000812 | source: U00812 | role: main_text | format: prose -->
+[Not yet translated: U00811.]
+
+<!-- TGD-000812 -->
+
 གནས་ན་གཅིག་ཏུ་གནས།
 
-<!-- pair: TGD-000813 | source: U00813 | role: main_text | format: prose -->
+[Not yet translated: U00812.]
+
+<!-- TGD-000813 -->
+
 བསྲུང་ན་འཆོལ་བར་བསྲུང་བ་
 
-<!-- pair: TGD-000814 | source: U00814 | role: main_text | format: prose -->
+[Not yet translated: U00813.]
+
+<!-- TGD-000814 -->
+
 ཐ་དད་ཀྱིས་ཁྱད་འབྱེད་ཟེར།
 
-<!-- pair: TGD-000815 | source: U00815 | role: main_text | format: prose -->
+[Not yet translated: U00814.]
+
+<!-- TGD-000815 -->
+
 འདིར་ནི་སྤང་བྱ་མི་དགེ་བཅུ་
 
-<!-- pair: TGD-000816 | source: U00816 | role: main_text | format: prose -->
+[Not yet translated: U00815.]
+
+<!-- TGD-000816 -->
+
 བསྒྲུབ་བྱ་དགེ་བ་བཅུ་ཡིན་པས་
 
-<!-- pair: TGD-000817 | source: U00817 | role: main_text | format: prose -->
+[Not yet translated: U00816.]
+
+<!-- TGD-000817 -->
+
 ཐ་དད་དུ་བྱ་བ་ཅུང་ཟད་མེད་དོ༑ །
 
-<!-- pair: TGD-000818 | source: U00818 | role: main_text | format: prose -->
+[Not yet translated: U00817.]
+
+<!-- TGD-000818 -->
+
 འོ་ན་གསུམ་དུའང་བཞག་རྒྱུ་མེད་ཅེ་ན།
 
-<!-- pair: TGD-000819 | source: U00819 | role: main_text | format: prose -->
+[Not yet translated: U00818.]
+
+<!-- TGD-000819 -->
+
 དཔེར་ན་རྒྱན་གྱི་ངོ་བོ་གཅིག་ལ་
 
-<!-- pair: TGD-000820 | source: U00820 | role: main_text | format: prose -->
+[Not yet translated: U00819.]
+
+<!-- TGD-000820 -->
+
 འབངས་དང་བློན་པོ་རྒྱལ་པོ་གསུམ་གྱིས་སོ་སོར་བཏགས་ན་
 
-<!-- pair: TGD-000821 | source: U00821 | role: main_text | format: prose -->
+[Not yet translated: U00820.]
+
+<!-- TGD-000821 -->
+
 འདོགས་མཁན་དེའི་དབང་གིས་གསུམ་དུ་འབྱུང་བ་ལྟར།
 
-<!-- pair: TGD-000822 | source: U00822 | role: main_text | format: prose -->
+[Not yet translated: U00821.]
+
+<!-- TGD-000822 -->
+
 སྡོམ་པའི་ངོ་བོ་ཉམས་སུ་ལེན་རྒྱུ་ལ་ཁྱད་པར་མེད་ཀྱང་
 
-<!-- pair: TGD-000823 | source: U00823 | role: main_text | format: prose -->
+[Not yet translated: U00822.]
+
+<!-- TGD-000823 -->
+
 ཉམས་སུ་ལེན་མཁན་བདག་པོ་གསུམ་ལ་སོ་སོར་འཕོས་པས་
 
-<!-- pair: TGD-000824 | source: U00824 | role: main_text | format: prose -->
+[Not yet translated: U00823.]
+
+<!-- TGD-000824 -->
+
 བྱེ་བྲག་གིས་སྡོམ་པ་གསུམ་དུ་འོང་སྟེ་
 
-<!-- pair: TGD-000825 | source: U00825 | role: main_text | format: prose -->
+[Not yet translated: U00824.]
+
+<!-- TGD-000825 -->
+
 འདི་ནི་གསང་བདག་གིས་དམ་ཚིག་ཕྱི་མ་ཞུས་པ་ལ་བརྟེན་ནས་གསུངས་པའི་དོན་དེ་ཡིན་གསུངས་སོ།
 
-<!-- pair: TGD-000826 | source: U00826 | role: main_text | format: prose -->
+[Not yet translated: U00825.]
+
+<!-- TGD-000826 -->
+
 རྡོ༽༽ གཞན་ཤེས་ལ་དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་ཡོད་པར་གསུངས་པ་དེ་
 
-<!-- pair: TGD-000827 | source: U00827 | role: main_text | format: prose -->
+[Not yet translated: U00826.]
+
+<!-- TGD-000827 -->
+
 དགེ་མི་དགེ་ལུང་མ་བསྟན་གང་དུ་མི་གཏུབས་པའི་ནམ་མཁའ་ལྟ་བུ་ཞིག་ཡིན་ཟེར་རོ།
 
-<!-- pair: TGD-000828 | source: U00828 | role: main_text | format: prose -->
+[Not yet translated: U00827.]
+
+<!-- TGD-000828 -->
+
 འདིར་རང་བཞིན་རྣམ་དག་ལ་བྲལ་སྨིན་འབྲས་བུའི་ཡོན་ཏན་དང་ལྡན་པར་གྲུབ་སྟེ།
 
-<!-- pair: TGD-000829 | source: U00829 | role: main_text | format: prose -->
+[Not yet translated: U00828.]
+
+<!-- TGD-000829 -->
+
 ཉེས་པ་བློ་བུར་བ་ཡིན་པ་
 
-<!-- pair: TGD-000830 | source: U00830 | role: main_text | format: prose -->
+[Not yet translated: U00829.]
+
+<!-- TGD-000830 -->
+
 སྙིང་པོའི་མདོར་དཔེ་དགུས་བསྟན་པ་དང་༈
 
-<!-- pair: TGD-000831 | source: U00831 | role: main_text | format: prose -->
+[Not yet translated: U00830.]
+
+<!-- TGD-000831 -->
+
 ཕལ་པོ་ཆེར་སྟོང་གསུམ་དར་ཡུག་གི་དཔེ་དང་།
 
-<!-- pair: TGD-000832 | source: U00832 | role: main_text | format: prose -->
+[Not yet translated: U00831.]
+
+<!-- TGD-000832 -->
+
 གཟུང་དབང་ཞུས་མདོར་ནོར་བུ་སྦྱོང་བའི་དཔེས་བསྟན་ཏེ།
 
-<!-- pair: TGD-000833 | source: U00833 | role: main_text | format: prose -->
+[Not yet translated: U00832.]
+
+<!-- TGD-000833 -->
+
 ཡོན་ཏན་ཞི་དུས་ན་ཇི་ལྟར་ཡོད་པ་མངོན་དུ་བྱ་བར་གསུངས་ ཏེ༑
 
-<!-- pair: TGD-000834 | source: U00834 | role: main_text | format: prose -->
+[Not yet translated: U00833.]
+
+<!-- TGD-000834 -->
+
 རྒྱུད་བླར།
 
-<!-- pair: TGD-000835 | source: U00835 | role: main_text | format: prose -->
+[Not yet translated: U00834.]
+
+<!-- TGD-000835 -->
+
 འདི་ལ་བསལ་བྱ་ཅི་ཡང་མེད།
 
-<!-- pair: TGD-000836 | source: U00836 | role: main_text | format: prose -->
+[Not yet translated: U00835.]
+
+<!-- TGD-000836 -->
+
 སོགས་དང་།
 
-<!-- pair: TGD-000837 | source: U00837 | role: main_text | format: prose -->
+[Not yet translated: U00836.]
+
+<!-- TGD-000837 -->
+
 ཉེས་པ་བློ་བུར་དང་ལྡན་དང་།
 
-<!-- pair: TGD-000838 | source: U00838 | role: main_text | format: prose -->
+[Not yet translated: U00837.]
+
+<!-- TGD-000838 -->
+
 སོགས་དང་།
 
-<!-- pair: TGD-000839 | source: U00839 | role: main_text | format: prose -->
+[Not yet translated: U00838.]
+
+<!-- TGD-000839 -->
+
 སེམས་ཀྱི་རང་བཞིན་འོད་གསལ་གང་ཡིན་པ།
 
-<!-- pair: TGD-000840 | source: U00840 | role: main_text | format: prose -->
+[Not yet translated: U00839.]
+
+<!-- TGD-000840 -->
+
 སོགས་དང༌།
 
-<!-- pair: TGD-000841 | source: U00841 | role: main_text | format: prose -->
+[Not yet translated: U00840.]
+
+<!-- TGD-000841 -->
+
 དཔལ་ཕྲེང་གི་མདོ་ལས།
 
-<!-- pair: TGD-000842 | source: U00842 | role: main_text | format: prose -->
+[Not yet translated: U00841.]
+
+<!-- TGD-000842 -->
+
 དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་ནི་བྲལ་ཤེས་པ།
 
-<!-- pair: TGD-000843 | source: U00843 | role: main_text | format: prose -->
+[Not yet translated: U00842.]
+
+<!-- TGD-000843 -->
+
 དབྱེར་མེད་པ་ཉོན་མོངས་པའི་སྦུབས་ཀྱིས་སྟོང་པ།
 
-<!-- pair: TGD-000844 | source: U00844 | role: main_text | format: prose -->
+[Not yet translated: U00843.]
+
+<!-- TGD-000844 -->
+
 བྲལ་མི་ཤེས་པ་རྣམ་པར་དབྱེར་མེད་པ་
 
-<!-- pair: TGD-000845 | source: U00845 | role: main_text | format: prose -->
+[Not yet translated: U00844.]
+
+<!-- TGD-000845 -->
+
 སངས་རྒྱས་ཀྱི་ཆོས་གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་འདས་པའི་ཡོན་དང་ལྡན་པའོ། །
 
-<!-- pair: TGD-000846 | source: U00846 | role: main_text | format: prose -->
+[Not yet translated: U00845.]
+
+<!-- TGD-000846 -->
+
 ཞིང་རྣམ་པར་མི་རྟོག་པའི་གཟུངས་ལས་
 
-<!-- pair: TGD-000847 | source: U00847 | role: main_text | format: prose -->
+[Not yet translated: U00846.]
+
+<!-- TGD-000847 -->
+
 རང་ཁྱིམ་བྱི་གཏོར་དང་འདྲ་བར་གསུངས་སོ། །
 
-<!-- pair: TGD-000848 | source: U00848 | role: main_text | format: prose -->
+[Not yet translated: U00847.]
+
+<!-- TGD-000848 -->
+
 དེ་ལྟར་མིན་ན་མཐོང་ལམ་མཐོང་ནས་དེ་ཡན་བོག་དབྱུང་དུ་མེད་པར་འགྱུར་རོ། །
 
-<!-- pair: TGD-000849 | source: U00849 | role: main_text | format: prose -->
+[Not yet translated: U00848.]
+
+<!-- TGD-000849 -->
+
 རྡོ༽༽བྱང་ཕྱོགས་སོ་བདུན་ལམ་ཁོ་ནའི་ཆོས་ཡིན་ཟེར་བ་དང༌།
 
-<!-- pair: TGD-000850 | source: U00850 | role: main_text | format: prose -->
+[Not yet translated: U00849.]
+
+<!-- TGD-000850 -->
+
 འགའ་ཞིག་སྡོམ་པར་ལུས་དྲན་པ་ཉེ་བར་བཞག་གི་ཁྲོ་མའོ།
 
-<!-- pair: TGD-000851 | source: U00851 | role: main_text | format: prose -->
+[Not yet translated: U00850.]
+
+<!-- TGD-000851 -->
+
 ཞེས་པས་འབྲས་བུའི་ཆོས་ཡིན་ཟེར་
 
-<!-- pair: TGD-000852 | source: U00852 | role: main_text | format: prose -->
+[Not yet translated: U00851.]
+
+<!-- TGD-000852 -->
+
 འགའ་ཞིག་དེ་གཉིས་ཀ་ཡིན་ཟེར།
 
-<!-- pair: TGD-000853 | source: U00853 | role: main_text | format: prose -->
+[Not yet translated: U00852.]
+
+<!-- TGD-000853 -->
+
 འདིར་ནི་གཞི་ལམ་འབྲས་བུ་གསུམ་ཀར་ཁམས་ཡོན་ཏན་དང་ལྡན་པ་
 
-<!-- pair: TGD-000854 | source: U00854 | role: main_text | format: prose -->
+[Not yet translated: U00853.]
+
+<!-- TGD-000854 -->
+
 དེ་ཉིད་དང་དབྱེར་མེད་པར་ཡོད་དེ།
 
-<!-- pair: TGD-000855 | source: U00855 | role: main_text | format: prose -->
+[Not yet translated: U00854.]
+
+<!-- TGD-000855 -->
+
 དེས་བརྗོད་བླ་མ་ལས།
 
-<!-- pair: TGD-000856 | source: U00856 | role: main_text | format: prose -->
+[Not yet translated: U00855.]
+
+<!-- TGD-000856 -->
+
 བྱང་ཆུབ་ཕྱོགས་ནི་སུམ་ཅུ་བདུན། །
 
-<!-- pair: TGD-000857 | source: U00857 | role: main_text | format: prose -->
+[Not yet translated: U00856.]
+
+<!-- TGD-000857 -->
+
 ཆོས་ཀྱི་རྣམ་པར་དག་པ་ཡིན།
 
-<!-- pair: TGD-000858 | source: U00858 | role: main_text | format: prose -->
+[Not yet translated: U00857.]
+
+<!-- TGD-000858 -->
+
 ཞེས་པ་དང༌།
 
-<!-- pair: TGD-000859 | source: U00859 | role: main_text | format: prose -->
+[Not yet translated: U00858.]
+
+<!-- TGD-000859 -->
+
 འབྲས་བུའི་ཆོས་ཐམས་ཅད་གཞི་ལ་ཡོད་པ་མངོན་དུ་བྱས་པར་གསུངས་ན་
 
-<!-- pair: TGD-000860 | source: U00860 | role: main_text | format: prose -->
+[Not yet translated: U00859.]
+
+<!-- TGD-000860 -->
+
 ཀུན་སྤྱོད་སྡོམ་པ་ལྷ་སོ་བདུན་དུ་གསུངས་པ་དང༌།
 
-<!-- pair: TGD-000861 | source: U00861 | role: main_text | format: prose -->
+[Not yet translated: U00860.]
+
+<!-- TGD-000861 -->
+
 མདོ་སྡེར་སངས་རྒྱས་ལ་བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་གྱིས་ཕྱུག་པར་གསུངས་པས་
 
-<!-- pair: TGD-000862 | source: U00862 | role: main_text | format: prose -->
+[Not yet translated: U00861.]
+
+<!-- TGD-000862 -->
+
 བྱང་ཕྱོགས་སོ་བདུན་བཞི་བདེ་གཤེགས་སྙིང་པོར་ཡོད་པ་ངེས་སོ།
 
-<!-- pair: TGD-000863 | source: U00863 | role: main_text | format: prose -->
+[Not yet translated: U00862.]
+
+<!-- TGD-000863 -->
+
 ལྷན༽༽ བྱང་ཕྱོགས་སོ་བདུན་གནས་སྐབས་བདུན་དུ་གསུངས་པ་
 
-<!-- pair: TGD-000864 | source: U00864 | role: main_text | format: prose -->
+[Not yet translated: U00863.]
+
+<!-- TGD-000864 -->
+
 ལམ་གྱི་ཆོས་མིན་གྱི་སངས་རྒྱས་ཀྱི་ས་ནི་དེའི་ཕ་རོལ་ན་ཡོད།
 
-<!-- pair: TGD-000865 | source: U00865 | role: main_text | format: prose -->
+[Not yet translated: U00864.]
+
+<!-- TGD-000865 -->
+
 ཚོགས་ལམ་འབྲིང་པོར་དྲན་པ་ཉེར་བཞག་ལ་དོན་མེད་ཟེར།
 
-<!-- pair: TGD-000866 | source: U00866 | role: main_text | format: prose -->
+[Not yet translated: U00865.]
+
+<!-- TGD-000866 -->
+
 འདིར་ནི་མཐར་ཐུག་གི་ས་ཚུན་ཆད་ཚོགས་ལམ་གསུམ་ངོ་བོས་བགྲོད་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-000867 | source: U00867 | role: main_text | format: prose -->
+[Not yet translated: U00866.]
+
+<!-- TGD-000867 -->
+
 སངས་རྒྱས་མ་ཐོབ་བར་དུ་ཚོགས་གཉིས་བསགས་དགོས་པ་དང༌།
 
-<!-- pair: TGD-000868 | source: U00868 | role: main_text | format: prose -->
+[Not yet translated: U00867.]
+
+<!-- TGD-000868 -->
+
 ཚོགས་ལམ་གྱི་དྲན་པ་ཉེར་བཞག་དེ་
 
-<!-- pair: TGD-000869 | source: U00869 | role: main_text | format: prose -->
+[Not yet translated: U00868.]
+
+<!-- TGD-000869 -->
+
 སྦྱོར་ལམ་དུ་དྲན་དབང་དྲན་སྟོབས་
 
-<!-- pair: TGD-000870 | source: U00870 | role: main_text | format: prose -->
+[Not yet translated: U00869.]
+
+<!-- TGD-000870 -->
+
 མཐོང་ལམ་དུ་དྲན་པ་ཡང་དག་བྱང་ཆུབ་ཀྱི་ཡན་ལག་
 
-<!-- pair: TGD-000871 | source: U00871 | role: main_text | format: prose -->
+[Not yet translated: U00870.]
+
+<!-- TGD-000871 -->
+
 བསྒོམ་ལམ་དུ་ཡང་དག་པའི་དྲན་པ་
 
-<!-- pair: TGD-000872 | source: U00872 | role: main_text | format: prose -->
+[Not yet translated: U00871.]
+
+<!-- TGD-000872 -->
+
 མཐར་ཕྱིན་ལམ་དུ་དྲན་པ་ཉམས་མེད།
 
-<!-- pair: TGD-000873 | source: U00873 | role: main_text | format: prose -->
+[Not yet translated: U00872.]
+
+<!-- TGD-000873 -->
+
 དྲན་པས་དབང་བསྐུར་དྲན་པས་མ་འདྲེས་པ་གསུམ་དུ་འབྱུང་བ་
 
-<!-- pair: TGD-000874 | source: U00874 | role: main_text | format: prose -->
+[Not yet translated: U00873.]
+
+<!-- TGD-000874 -->
+
 དེ་རིམ་བཞིན་སངས་རྒྱས་ཀྱི་མ་འདྲེས་པ་དང་སྐབས་བརྒྱད་ཀྱི་རྣམ་མཁྱེན་དང་བྲལ་བའི་ཡོན་ཏན་ཡིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-000875 | source: U00875 | role: main_text | format: prose -->
+[Not yet translated: U00874.]
+
+<!-- TGD-000875 -->
+
 རྡོ༽༽ ཞི་གནས་ཀྱི་གཞི་མ་ཚད་མེད་རྣམ་བཞིའམ་ཚང་གནས་བཞིས་ཚངས་པའི་རྒྱལ་པོ་ཐོབ་ཕྱིར་
 
-<!-- pair: TGD-000876 | source: U00876 | role: main_text | format: prose -->
+[Not yet translated: U00875.]
+
+<!-- TGD-000876 -->
+
 འཇིག་རྟེན་པའི་ལམ་ཡིན་ཟེར།
 
-<!-- pair: TGD-000877 | source: U00877 | role: main_text | format: prose -->
+[Not yet translated: U00876.]
+
+<!-- TGD-000877 -->
+
 འདིར་ནི་དེའང་གཞིར་ཡོད་པ་
 
-<!-- pair: TGD-000878 | source: U00878 | role: main_text | format: prose -->
+[Not yet translated: U00877.]
+
+<!-- TGD-000878 -->
+
 ལམ་དུ་བྱེད་པ་ངེས་དོན་འཁོར་ལོར་མ་ཟད་
 
-<!-- pair: TGD-000879 | source: U00879 | role: main_text | format: prose -->
+[Not yet translated: U00878.]
+
+<!-- TGD-000879 -->
+
 སྔགས་སུའང་གཞན་ལ་ཕན་པའི་སེམས་ནི་བྱམས་པ་ཡིན་ཞེས་སོགས་དང༌།
 
-<!-- pair: TGD-000880 | source: U00880 | role: main_text | format: prose -->
+[Not yet translated: U00879.]
+
+<!-- TGD-000880 -->
+
 འབྲས་བུའི་སྐབས་ནའང་
 
-<!-- pair: TGD-000881 | source: U00881 | role: main_text | format: prose -->
+[Not yet translated: U00880.]
+
+<!-- TGD-000881 -->
+
 དེ་དག་གི་ངོ་བོར་སངས་རྒྱས་པར་གསུངས་ཏེ།
 
-<!-- pair: TGD-000882 | source: U00882 | role: main_text | format: prose -->
+[Not yet translated: U00881.]
+
+<!-- TGD-000882 -->
+
 རྒྱ་ཆེར་རོལ་པ་ལས།
 
-<!-- pair: TGD-000883 | source: U00883 | role: main_text | format: prose -->
+[Not yet translated: U00882.]
+
+<!-- TGD-000883 -->
+
 གང་གི་དོན་སྟོབས་བཅུ་པོ་ལ། །
 
-<!-- pair: TGD-000884 | source: U00884 | role: main_text | format: prose -->
+[Not yet translated: U00883.]
+
+<!-- TGD-000884 -->
+
 སེམས་ཅན་རྣམས་ལ་བསྒོམ་པ་ཡིན། །
 
-<!-- pair: TGD-000885 | source: U00885 | role: main_text | format: prose -->
+[Not yet translated: U00884.]
+
+<!-- TGD-000885 -->
+
 བྱམས་པའི་སྟོབས་ཀྱི་རྒྱལ་གྱུར་པ།
 
-<!-- pair: TGD-000886 | source: U00886 | role: main_text | format: prose -->
+[Not yet translated: U00885.]
+
+<!-- TGD-000886 -->
+
 ཞེས་པས་སངས་རྒྱས་ཀྱི་ངོ་བོ་དེ་བཞི་པོ་ཉིད་དོ།
 
-<!-- pair: TGD-000887 | source: U00887 | role: main_text | format: prose -->
+[Not yet translated: U00886.]
+
+<!-- TGD-000887 -->
+
 རྡོ༽༽ གཞན་འདོད་ནི།
 
-<!-- pair: TGD-000888 | source: U00888 | role: main_text | format: prose -->
+[Not yet translated: U00887.]
+
+<!-- TGD-000888 -->
+
 རིགས་ནི་ངེས་དང་མ་ངེས་དང༌། །
 
-<!-- pair: TGD-000889 | source: U00889 | role: main_text | format: prose -->
+[Not yet translated: U00888.]
+
+<!-- TGD-000889 -->
+
 རྐྱེན་རྣམས་ཀྱིས་ནི་མི་འཕྲོག་དང།
 
-<!-- pair: TGD-000890 | source: U00890 | role: main_text | format: prose -->
+[Not yet translated: U00889.]
+
+<!-- TGD-000890 -->
+
 འཕྲོག་མ་ཉིད་དེ་སོཊ།
 
-<!-- pair: TGD-000891 | source: U00891 | role: main_text | format: prose -->
+[Not yet translated: U00890.]
+
+<!-- TGD-000891 -->
+
 ཅེས་པས་རྒྱུ་རིགས་ཐ་དད།
 
-<!-- pair: TGD-000892 | source: U00892 | role: main_text | format: prose -->
+[Not yet translated: U00891.]
+
+<!-- TGD-000892 -->
+
 ལང་གཤེགས་ལས།
 
-<!-- pair: TGD-000893 | source: U00893 | role: main_text | format: prose -->
+[Not yet translated: U00892.]
+
+<!-- TGD-000893 -->
+
 ལྷ་ཡི་ཐེག་དང་ཚངས་པའི་ཐེག་སོགས།
 
-<!-- pair: TGD-000894 | source: U00894 | role: main_text | format: prose -->
+[Not yet translated: U00893.]
+
+<!-- TGD-000894 -->
+
 ཅེས་པས་ལམ་ཐ་དད་པས་འབྲས་བུའང་ཐ་དད་ཟེར།
 
-<!-- pair: TGD-000895 | source: U00895 | role: main_text | format: prose -->
+[Not yet translated: U00894.]
+
+<!-- TGD-000895 -->
+
 འདིར་ནི་ཡང་དག་པར་ངེས་པ་ནི་ཐེག་གསུམ།
 
-<!-- pair: TGD-000896 | source: U00896 | role: main_text | format: prose -->
+[Not yet translated: U00895.]
+
+<!-- TGD-000896 -->
+
 ལོག་པར་ངེས་པ་འདོད་ཆེན་པ།
 
-<!-- pair: TGD-000897 | source: U00897 | role: main_text | format: prose -->
+[Not yet translated: U00896.]
+
+<!-- TGD-000897 -->
+
 མ་ངེས་པ་གཅིག་ཏུ་མ་མཆོད་པ་གསུམ་ལས།
 
-<!-- pair: TGD-000898 | source: U00898 | role: main_text | format: prose -->
+[Not yet translated: U00897.]
+
+<!-- TGD-000898 -->
+
 ལོག་སྲེད་ཅན་ལྷ་སྦྱིན་དང་ལེགས་སྐར་ལྟ་བུར་ཡང་དཀར་བའི་ས་བོན་ཡོད་དེ།
 
-<!-- pair: TGD-000899 | source: U00899 | role: main_text | format: prose -->
+[Not yet translated: U00898.]
+
+<!-- TGD-000899 -->
+
 རྒྱུད་བླར།
 
-<!-- pair: TGD-000900 | source: U00900 | role: main_text | format: prose -->
+[Not yet translated: U00899.]
+
+<!-- TGD-000900 -->
+
 རྫོགས་སངས་སྐུ་ནི་འཕྲོ་ཕྱིར་དང་།
 
-<!-- pair: TGD-000901 | source: U00901 | role: main_text | format: prose -->
+[Not yet translated: U00900.]
+
+<!-- TGD-000901 -->
+
 སོགསདང་།
 
-<!-- pair: TGD-000902 | source: U00902 | role: main_text | format: prose -->
+[Not yet translated: U00901.]
+
+<!-- TGD-000902 -->
+
 ཟླ་སྒྲོན་ལས།
 
-<!-- pair: TGD-000903 | source: U00903 | role: main_text | format: prose -->
+[Not yet translated: U00902.]
+
+<!-- TGD-000903 -->
+
 བདེ་གཤེགས་སྙིང་པོས་འགྲོ་ཀུན་ཡོངས་ལ་ཁྱབ།
 
-<!-- pair: TGD-000904 | source: U00904 | role: main_text | format: prose -->
+[Not yet translated: U00903.]
+
+<!-- TGD-000904 -->
+
 སོཌ་དང་།
 
-<!-- pair: TGD-000905 | source: U00905 | role: main_text | format: prose -->
+[Not yet translated: U00904.]
+
+<!-- TGD-000905 -->
+
 བསྡུས་པ་ལས།
 
-<!-- pair: TGD-000906 | source: U00906 | role: main_text | format: prose -->
+[Not yet translated: U00905.]
+
+<!-- TGD-000906 -->
+
 འདས་པའི་དེ་བཞིན་ཉིད་གང་མ་བྱོན་དེ་བཞིན་ཉིད།
 
-<!-- pair: TGD-000907 | source: U00907 | role: main_text | format: prose -->
+[Not yet translated: U00906.]
+
+<!-- TGD-000907 -->
+
 སོཊ་དང།
 
-<!-- pair: TGD-000908 | source: U00908 | role: main_text | format: prose -->
+[Not yet translated: U00907.]
+
+<!-- TGD-000908 -->
+
 མངོན་རྒྱན་ལས།
 
-<!-- pair: TGD-000909 | source: U00909 | role: main_text | format: prose -->
+[Not yet translated: U00908.]
+
+<!-- TGD-000909 -->
+
 ཆོས་ཀྱི་དབྱིབས་ལ་དབྱེར་མེད་ཕྱིར། །
 
-<!-- pair: TGD-000910 | source: U00910 | role: main_text | format: prose -->
+[Not yet translated: U00909.]
+
+<!-- TGD-000910 -->
+
 རིགས་ནི་ཐ་དད་རུང་མ་ཡིན།
 
-<!-- pair: TGD-000911 | source: U00911 | role: main_text | format: prose -->
+[Not yet translated: U00910.]
+
+<!-- TGD-000911 -->
+
 ཞེས་པས་རིགས་གཅིག །
 
-<!-- pair: TGD-000912 | source: U00912 | role: main_text | format: prose -->
+[Not yet translated: U00911.]
+
+<!-- TGD-000912 -->
+
 སངས་རྒྱས་རྣམས་སེམས་སྐྱེད་པ་ནས་བཟུང་
 
-<!-- pair: TGD-000913 | source: U00913 | role: main_text | format: prose -->
+[Not yet translated: U00912.]
+
+<!-- TGD-000913 -->
+
 མཛད་པ་སེམས་ཅན་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་སར་འགོད་པའི་དོན་དང༌།
 
-<!-- pair: TGD-000914 | source: U00914 | role: main_text | format: prose -->
+[Not yet translated: U00913.]
+
+<!-- TGD-000914 -->
+
 དཔེ་མཁྱུད་མི་མངའ་བ་དང༌།
 
-<!-- pair: TGD-000915 | source: U00915 | role: main_text | format: prose -->
+[Not yet translated: U00914.]
+
+<!-- TGD-000915 -->
+
 ཉེ་རིང་མེད་པ་དང།
 
-<!-- pair: TGD-000916 | source: U00916 | role: main_text | format: prose -->
+[Not yet translated: U00915.]
+
+<!-- TGD-000916 -->
+
 བསྲུང་བ་མེད་པ་གསུམ་བརྙེས་པ་དང༌།
 
-<!-- pair: TGD-000917 | source: U00917 | role: main_text | format: prose -->
+[Not yet translated: U00916.]
+
+<!-- TGD-000917 -->
+
 འདུ་ཤེས་སྣ་ཚོགས་མི་མངའ་བའི་ཕྱིར།
 
-<!-- pair: TGD-000918 | source: U00918 | role: main_text | format: prose -->
+[Not yet translated: U00917.]
+
+<!-- TGD-000918 -->
+
 ལམ་ཡང་ཐེག་ཆེན་དུ་གཅིག་སྟེ།
 
-<!-- pair: TGD-000919 | source: U00919 | role: main_text | format: prose -->
+[Not yet translated: U00918.]
+
+<!-- TGD-000919 -->
+
 བྱང་སེམས་སྤྱོད་ཡུལ་ཐབས་ཀྱི་རྣམ་པར་འཕྲུལ་པ་བསྟན་པའི་མདོ་ལས། །
 
-<!-- pair: TGD-000920 | source: U00920 | role: main_text | format: prose -->
+[Not yet translated: U00919.]
+
+<!-- TGD-000920 -->
+
 འདྲེན་པ་སེམས་ཅན་རྣམས་ལ་མཉམ་པའི་ཐུགས། །
 
-<!-- pair: TGD-000921 | source: U00921 | role: main_text | format: prose -->
+[Not yet translated: U00920.]
+
+<!-- TGD-000921 -->
+
 ང་ལ་ཐ་དད་འདུ་ཤེས་ནམ་ཡང་མེད། །
 
-<!-- pair: TGD-000922 | source: U00922 | role: main_text | format: prose -->
+[Not yet translated: U00921.]
+
+<!-- TGD-000922 -->
+
 ཐེག་པ་དམན་པ་གཞན་ལ་ངེས་བསྟན་ན། །
 
-<!-- pair: TGD-000923 | source: U00923 | role: main_text | format: prose -->
+[Not yet translated: U00922.]
+
+<!-- TGD-000923 -->
+
 དེ་ལ་ང་ནི་སེར་སྣའི་སྐྱོན་དུ་འགྱུར། །
 
-<!-- pair: TGD-000924 | source: U00924 | role: main_text | format: prose -->
+[Not yet translated: U00923.]
+
+<!-- TGD-000924 -->
+
 ང་ཡི་མྱ་ངན་འདས་གཅིག་ཐེག་པ་གཅིག །
 
-<!-- pair: TGD-000925 | source: U00925 | role: main_text | format: prose -->
+[Not yet translated: U00924.]
+
+<!-- TGD-000925 -->
+
 ཅེས་པ་དང་།
 
-<!-- pair: TGD-000926 | source: U00926 | role: main_text | format: prose -->
+[Not yet translated: U00925.]
+
+<!-- TGD-000926 -->
+
 པད་དཀར་ལས།
 
-<!-- pair: TGD-000927 | source: U00927 | role: main_text | format: prose -->
+[Not yet translated: U00926.]
+
+<!-- TGD-000927 -->
+
 ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཐེག་པ་ཐམས་ཅད་མཁྱེན་པ་གཅིག་སྟེ།
 
-<!-- pair: TGD-000928 | source: U00928 | role: main_text | format: prose -->
+[Not yet translated: U00927.]
+
+<!-- TGD-000928 -->
+
 གཉིས་སམ་གསུམ་མམ་ཞེས་བྱ་བ་མེད་དེ།
 
-<!-- pair: TGD-000929 | source: U00929 | role: main_text | format: prose -->
+[Not yet translated: U00928.]
+
+<!-- TGD-000929 -->
+
 ཅེས་དང་།
 
-<!-- pair: TGD-000930 | source: U00930 | role: main_text | format: prose -->
+[Not yet translated: U00929.]
+
+<!-- TGD-000930 -->
+
 དགོངས་འགྲེལ་ལས།
 
-<!-- pair: TGD-000931 | source: U00931 | role: main_text | format: prose -->
+[Not yet translated: U00930.]
+
+<!-- TGD-000931 -->
+
 ཐེག་པ་ཆེ་དང་ཐེག་པ་དམན་པ་ལས།
 
-<!-- pair: TGD-000932 | source: U00932 | role: main_text | format: prose -->
+[Not yet translated: U00931.]
+
+<!-- TGD-000932 -->
+
 རང་བཞིན་སྣ་ཚོགས་ཆོས་རྣམས་གང་བསྟན་པ། །
 
-<!-- pair: TGD-000933 | source: U00933 | role: main_text | format: prose -->
+[Not yet translated: U00932.]
+
+<!-- TGD-000933 -->
+
 དེ་དག་ཉིད་ནི་ཚུལ་གཅིག་ཡང་བསྟན་ཏེ།
 
-<!-- pair: TGD-000934 | source: U00934 | role: main_text | format: prose -->
+[Not yet translated: U00933.]
+
+<!-- TGD-000934 -->
+
 དེ་ཕྱིར་ཐེག་པ་སྣ་ཚོགས་ང་མི་སྨྲ།
 
-<!-- pair: TGD-000935 | source: U00935 | role: main_text | format: prose -->
+[Not yet translated: U00934.]
+
+<!-- TGD-000935 -->
+
 ཞེས་པས་
 
-<!-- pair: TGD-000936 | source: U00936 | role: main_text | format: prose -->
+[Not yet translated: U00935.]
+
+<!-- TGD-000936 -->
+
 ཉན་ཐོས་བྱང་ཆུབ་གཞོལ་ཞིང་འབབ་སྟེ།
 
-<!-- pair: TGD-000937 | source: U00937 | role: main_text | format: prose -->
+[Not yet translated: U00936.]
+
+<!-- TGD-000937 -->
+
 པད་དཀར་ལས།
 
-<!-- pair: TGD-000938 | source: U00938 | role: main_text | format: prose -->
+[Not yet translated: U00937.]
+
+<!-- TGD-000938 -->
+
 དེད་དཔོན་ཐབས་ལ་མཁས་པ་གྲོང་ཁྱེར་གྱི་དཔེ་བསྟན་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-000939 | source: U00939 | role: main_text | format: prose -->
+[Not yet translated: U00938.]
+
+<!-- TGD-000939 -->
+
 འབྲས་བུ་ཡང་གཅིག་སྟེ་མཚན་བརྗོད་ལས།
 
-<!-- pair: TGD-000940 | source: U00940 | role: main_text | format: prose -->
+[Not yet translated: U00939.]
+
+<!-- TGD-000940 -->
+
 ཐེག་པ་གསུམ་གྱི་ངེས་སོགས།ཅེས་སོ། །
 
-<!-- pair: TGD-000941 | source: U00941 | role: main_text | format: prose -->
+[Not yet translated: U00940.]
+
+<!-- TGD-000941 -->
+
 དེའི་ཕྱིར་ཆོས་ལ་རིས།
 
-<!-- pair: TGD-000942 | source: U00942 | role: main_text | format: prose -->
+[Not yet translated: U00941.]
+
+<!-- TGD-000942 -->
+
 གང་ཟག་བཟང་ངན།
 
-<!-- pair: TGD-000943 | source: U00943 | role: main_text | format: prose -->
+[Not yet translated: U00942.]
+
+<!-- TGD-000943 -->
+
 སེམས་ཅན་ལ་བརྙས་པ།
 
-<!-- pair: TGD-000944 | source: U00944 | role: main_text | format: prose -->
+[Not yet translated: U00943.]
+
+<!-- TGD-000944 -->
+
 བྱང་ཆུབ་ཏུ་མི་བསྔོ་བ་སྟེ་བཞི་པོ་འདི་མི་འབྱུང་དེས་ན།
 
-<!-- pair: TGD-000945 | source: U00945 | role: main_text | format: prose -->
+[Not yet translated: U00944.]
+
+<!-- TGD-000945 -->
+
 ཐེག་པ་ཐམས་ཅད་རྒྱུ་རིགས་གཅིག་པས་ཐེག་པའང་དེ་ལྟར་གཅིག་གོ །
 
-<!-- pair: TGD-000946 | source: U00946 | role: main_text | format: prose -->
+[Not yet translated: U00945.]
+
+<!-- TGD-000946 -->
+
 རྡོ༽༽ གཞན་དག་ཉན་རང་དང་མཆོག་གསུམ་མི་བདེན་ཞེས་
 
-<!-- pair: TGD-000947 | source: U00947 | role: main_text | format: prose -->
+[Not yet translated: U00946.]
+
+<!-- TGD-000947 -->
+
 རིགས་ཆད་ལོག་པར་ལྟ་བའི་སྲེད་པ་ཅན་སངས་རྒྱས་མི་ཐོབ་པ་དང་
 
-<!-- pair: TGD-000948 | source: U00948 | role: main_text | format: prose -->
+[Not yet translated: U00947.]
+
+<!-- TGD-000948 -->
+
 ཉན་ཐོས་གཏན་གེགས་སུ་བཤད་ན་ཡང་
 
-<!-- pair: TGD-000949 | source: U00949 | role: main_text | format: prose -->
+[Not yet translated: U00948.]
+
+<!-- TGD-000949 -->
+
 འདིར་ཉན་རང་ལོག་ལྟ་ཅན་རྣམ་མཁྱེན་འགྱུར་ཏེ།
 
-<!-- pair: TGD-000950 | source: U00950 | role: main_text | format: prose -->
+[Not yet translated: U00949.]
+
+<!-- TGD-000950 -->
+
 གཞི་བདེ་གཤེགས་སྙིང་པོ་ཡོན་ཏན་དང་ལྡན་པ་རྒྱུད་ལ་ཡོད་པའི་ཕྱིར་དང་
 
-<!-- pair: TGD-000951 | source: U00951 | role: main_text | format: prose -->
+[Not yet translated: U00950.]
+
+<!-- TGD-000951 -->
+
 ཐེག་པ་ཐམས་ཅད་རིགས་གཅིག་ཡིན།
 
-<!-- pair: TGD-000952 | source: U00952 | role: main_text | format: prose -->
+[Not yet translated: U00951.]
+
+<!-- TGD-000952 -->
+
 ལྷན༽༽ དེ་ལྟར་རྒྱས་པར་བཤད་པ་ནི་
 
-<!-- pair: TGD-000953 | source: U00953 | role: main_text | format: prose -->
+[Not yet translated: U00952.]
+
+<!-- TGD-000953 -->
+
 རྒྱུ་དང་ལྡན་ཕྱིར་ཉན་རང་སངས་རྒྱས་སྟེ་
 
-<!-- pair: TGD-000954 | source: U00954 | role: main_text | format: prose -->
+[Not yet translated: U00953.]
+
+<!-- TGD-000954 -->
+
 བྱང་ཆུབ་ཆེན་པོ་རཐོབ་པར་འགྱུར་ཏེ་
 
-<!-- pair: TGD-000955 | source: U00955 | role: main_text | format: prose -->
+[Not yet translated: U00954.]
+
+<!-- TGD-000955 -->
+
 རྐུ་ཐབས་སུ་སེམས་བསྐྱེད་པས་
 
-<!-- pair: TGD-000956 | source: U00956 | role: main_text | format: prose -->
+[Not yet translated: U00955.]
+
+<!-- TGD-000956 -->
+
 བྱང་ཆུབ་ཆེན་པོར་ཐོབ་པར་ངེས་སོ།
 
-<!-- pair: TGD-000957 | source: U00957 | role: main_text | format: prose -->
+[Not yet translated: U00956.]
+
+<!-- TGD-000957 -->
+
 མྱང་འདས་ཀྱི་ངལ་སྟེགས་ཙམ་ལས་མ་གསུངས་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-000958 | source: U00958 | role: main_text | format: prose -->
+[Not yet translated: U00957.]
+
+<!-- TGD-000958 -->
+
 སངས་རྒྱས་ཀྱི་ཐུགས་རྗེ་འོད་ཟེར་གྱིས་བསྐུལ་བའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-000959 | source: U00959 | role: main_text | format: prose -->
+[Not yet translated: U00958.]
+
+<!-- TGD-000959 -->
+
 རྣམ་གྲོལ་གྱི་ངོ་བོ་ཟླ་དད་མེད་པར་གསུངས་པའི་ཕྱིར་ཏེ་
 
-<!-- pair: TGD-000960 | source: U00960 | role: main_text | format: prose -->
+[Not yet translated: U00959.]
+
+<!-- TGD-000960 -->
+
 བྱང་སེམས་སྤྱོད་ཡུལ་ཐབས་ཀྱི་རྣམ་པར་འཁྲུལ་པར་བསྟན་པའི་མདོ་ལས།
 
-<!-- pair: TGD-000961 | source: U00961 | role: main_text | format: prose -->
+[Not yet translated: U00960.]
+
+<!-- TGD-000961 -->
+
 དཔེར་ན་མེ་སྟག་ཆུང་ངུ་འཕེལ་གྱུར་ན། །
 
-<!-- pair: TGD-000962 | source: U00962 | role: main_text | format: prose -->
+[Not yet translated: U00961.]
+
+<!-- TGD-000962 -->
+
 མེ་ལྕེ་ཆེ་ཆེར་འབར་ཞིང་མཆེད་པ་ལྟར། །
 
-<!-- pair: TGD-000963 | source: U00963 | role: main_text | format: prose -->
+[Not yet translated: U00962.]
+
+<!-- TGD-000963 -->
+
 ཉན་ཐོས་ཡེ་ཤེས་མེ་ཡི་མེ་སྟག་ཀྱང་། །
 
-<!-- pair: TGD-000964 | source: U00964 | role: main_text | format: prose -->
+[Not yet translated: U00963.]
+
+<!-- TGD-000964 -->
+
 དེ་ཉིད་སངས་རྒྱས་ཡོན་ཏན་མེ་ལྕེ་སྐྱེ།
 
-<!-- pair: TGD-000965 | source: U00965 | role: main_text | format: prose -->
+[Not yet translated: U00964.]
+
+<!-- TGD-000965 -->
+
 ཞེས་སོ། །
 
-<!-- pair: TGD-000966 | source: U00966 | role: main_text | format: prose -->
+[Not yet translated: U00965.]
+
+<!-- TGD-000966 -->
+
 ལོག་སྲེད་ཅན་ཡང་དུས་རིང་བར་དགོངས་པ་ལས་
 
-<!-- pair: TGD-000967 | source: U00967 | role: main_text | format: prose -->
+[Not yet translated: U00966.]
+
+<!-- TGD-000967 -->
+
 འདུས་བྱས་ཀྱི་བློ་དེ་བྲལ་བ་ན་འཇུག་པར་འགྱུར་ཏེ།
 
-<!-- pair: TGD-000968 | source: U00968 | role: main_text | format: prose -->
+[Not yet translated: U00967.]
+
+<!-- TGD-000968 -->
+
 ལེགས་སྐར་སངས་རྒྱས་བར་གསུངས་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-000969 | source: U00969 | role: main_text | format: prose -->
+[Not yet translated: U00968.]
+
+<!-- TGD-000969 -->
+
 ཆོས་ཀྱི་འཁོར་ལོའི་གནད་བསྡུས་ཏེ་རྡོ་རྗེ་ཚིགས་རྐང་སུམ་བཅུ་པ་ལྷན་ཐབས་ཚིགས་རྐང་བཅོ་ལྔའི་འགྲེལ་བཤད་ཀྱི་སྐབས་ཏེ་དང་པོའོ། །
 
-<!-- pair: TGD-000970 | source: U00970 | role: main_text | format: prose -->
+[Not yet translated: U00969.]
+
+<!-- TGD-000970 -->
+
 རྡོ༽༽ གཞན་དག་ན་རེ།
 
-<!-- pair: TGD-000971 | source: U00971 | role: main_text | format: prose -->
+[Not yet translated: U00970.]
+
+<!-- TGD-000971 -->
+
 དགེ་མི་དགེ་གང་གིས་ཀྱང་དབང་མ་བྱས་པའི་འབྱུང་ཆེན་བཞི་ཁམས་བཅོ་བརྒྱད་ལུང་མ་བསྟན་དུ་གསུངས་མོད།
 
-<!-- pair: TGD-000972 | source: U00972 | role: main_text | format: prose -->
+[Not yet translated: U00971.]
+
+<!-- TGD-000972 -->
+
 འདིར་ནི་དགེ་སྡིག་གཉིས་ལ་ཐག་བཅད་ན་
 
-<!-- pair: TGD-000973 | source: U00973 | role: main_text | format: prose -->
+[Not yet translated: U00972.]
+
+<!-- TGD-000973 -->
+
 དེ་གཉིས་ལས་ལུང་མ་བསྟན་བྱ་བ་གཞན་ཞིག་མེད་དེ་
 
-<!-- pair: TGD-000974 | source: U00974 | role: main_text | format: prose -->
+[Not yet translated: U00973.]
+
+<!-- TGD-000974 -->
+
 སློབ་དཔོན་འཕགས་པས།
 
-<!-- pair: TGD-000975 | source: U00975 | role: main_text | format: prose -->
+[Not yet translated: U00974.]
+
+<!-- TGD-000975 -->
+
 འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་གསུམ། །
 
-<!-- pair: TGD-000976 | source: U00976 | role: main_text | format: prose -->
+[Not yet translated: U00975.]
+
+<!-- TGD-000976 -->
+
 དེས་བསྐྱེད་ལས་ནི་མི་དགེ་བ།
 
-<!-- pair: TGD-000977 | source: U00977 | role: main_text | format: prose -->
+[Not yet translated: U00976.]
+
+<!-- TGD-000977 -->
+
 མ་ཆགས་མི་སྡང་གཏི་མུག་མེད། །
 
-<!-- pair: TGD-000978 | source: U00978 | role: main_text | format: prose -->
+[Not yet translated: U00977.]
+
+<!-- TGD-000978 -->
+
 དེས་བསྐྱེད་ལས་ནི་དགེ་བའོ། །
 
-<!-- pair: TGD-000979 | source: U00979 | role: main_text | format: prose -->
+[Not yet translated: U00978.]
+
+<!-- TGD-000979 -->
+
 ཞེས་གསུངས་པས་
 
-<!-- pair: TGD-000980 | source: U00980 | role: main_text | format: prose -->
+[Not yet translated: U00979.]
+
+<!-- TGD-000980 -->
+
 ཕུང་པོ་གསུམ་པ་ཞིག་མེད་དོ། །
 
-<!-- pair: TGD-000981 | source: U00981 | role: main_text | format: prose -->
+[Not yet translated: U00980.]
+
+<!-- TGD-000981 -->
+
 སངས་རྒྱས་ཀྱིས་གསུངས་པའི་ལུང་མ་བསྟན་ནི་ལྷན་སྐྱེས་ཀྱི་མ་རིག་པ་ལ་གསུངས་ཏེ།
 
-<!-- pair: TGD-000982 | source: U00982 | role: main_text | format: prose -->
+[Not yet translated: U00981.]
+
+<!-- TGD-000982 -->
+
 སྤང་བྱ་ཤེས་སྒྲིབ་གཏི་མུག་ལས་གྱུར་པ་ཉི་ཁྲི་ཆིག་སྟོང་གི་ཁོངས་སུ་འདུ་བས་
 
-<!-- pair: TGD-000983 | source: U00983 | role: main_text | format: prose -->
+[Not yet translated: U00982.]
+
+<!-- TGD-000983 -->
+
 དཔེར་ན་ཁྱོ་ཤུག་གཉིས་བུ་མོ་དང་གསུམ་ཡོད་ཀྱང་
 
-<!-- pair: TGD-000984 | source: U00984 | role: main_text | format: prose -->
+[Not yet translated: U00983.]
+
+<!-- TGD-000984 -->
+
 ཕོ་མོར་འདུས་ན་གཉིས་ལས་མེད་པ་བཞིན་
 
-<!-- pair: TGD-000985 | source: U00985 | role: main_text | format: prose -->
+[Not yet translated: U00984.]
+
+<!-- TGD-000985 -->
+
 ལུང་མ་བསྟན་མི་དགེ་བའི་ཕྱོགས་སུ་འདུའོ།
 
-<!-- pair: TGD-000986 | source: U00986 | role: main_text | format: prose -->
+[Not yet translated: U00985.]
+
+<!-- TGD-000986 -->
+
 རྡོ༽༽ མངའ་བདག་སྟག་ཚ་ན་རེ།
 
-<!-- pair: TGD-000987 | source: U00987 | role: main_text | format: prose -->
+[Not yet translated: U00986.]
+
+<!-- TGD-000987 -->
+
 ཕྱི་རོལ་གྱི་ཡུལ་ཇི་སྲིད་པ་དང་མཉམ་པའི་གྲངས་བཞིན་རྟོག་པའང་དེ་ཉིད་ཅིག་ཆར་དུ་སྐྱེ་ཟེར་ཡང་།
 
-<!-- pair: TGD-000988 | source: U00988 | role: main_text | format: prose -->
+[Not yet translated: U00987.]
+
+<!-- TGD-000988 -->
+
 དེ་ཆོས་ཅན་རྟོག་པ་གཉིས་སམ་མང་པོ་དུས་གཅིག་ཅར་དུ་འཇུག་པ་མི་སྲིད་དེ་
 
-<!-- pair: TGD-000989 | source: U00989 | role: main_text | format: prose -->
+[Not yet translated: U00988.]
+
+<!-- TGD-000989 -->
+
 དེ་ལྟར་ན་དགེ་མི་དགེའང་ལྷན་ཅིག་སྐྱེ་རིགས་ནའང་ཕན་ཚུན་སྤང་འགལ་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-000990 | source: U00990 | role: main_text | format: prose -->
+[Not yet translated: U00989.]
+
+<!-- TGD-000990 -->
+
 དཔེར་ན་ཚ་གྲང་གི་རེག་བྱ་བཞིན།
 
-<!-- pair: TGD-000991 | source: U00991 | role: main_text | format: prose -->
+[Not yet translated: U00990.]
+
+<!-- TGD-000991 -->
+
 དཔལ་ཕྲེང་གིས་ཞུས་པ་ལས།
 
-<!-- pair: TGD-000992 | source: U00992 | role: main_text | format: prose -->
+[Not yet translated: U00991.]
+
+<!-- TGD-000992 -->
+
 དགེ་བའི་སེམས་ཀྱང་སྐད་ཅིག་མ། །
 
-<!-- pair: TGD-000993 | source: U00993 | role: main_text | format: prose -->
+[Not yet translated: U00992.]
+
+<!-- TGD-000993 -->
+
 མི་དགེའི་སེམས་ཀྱང་སྐད་ཅིག་མ།
 
-<!-- pair: TGD-000994 | source: U00994 | role: main_text | format: prose -->
+[Not yet translated: U00993.]
+
+<!-- TGD-000994 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-000995 | source: U00995 | role: main_text | format: prose -->
+[Not yet translated: U00994.]
+
+<!-- TGD-000995 -->
+
 གཞན་ཡང་ཕྱི་དོན་འདོད་ན་
 
-<!-- pair: TGD-000996 | source: U00996 | role: main_text | format: prose -->
+[Not yet translated: U00995.]
+
+<!-- TGD-000996 -->
+
 མདོ་སྡེ་པ་གཟུངས་འཛིན་གྲངས་མཉམ་དང༌།
 
-<!-- pair: TGD-000997 | source: U00997 | role: main_text | format: prose -->
+[Not yet translated: U00996.]
+
+<!-- TGD-000997 -->
+
 མེད་ན་སེམས་ཙམ་རྣམ་བདེན་ལ་འགོག་པའི་རིགས་པ་འཇུག་སྟེ།
 
-<!-- pair: TGD-000998 | source: U00998 | role: main_text | format: prose -->
+[Not yet translated: U00997.]
+
+<!-- TGD-000998 -->
+
 དབུ་མ་རྒྱན་ལས།
 
-<!-- pair: TGD-000999 | source: U00999 | role: main_text | format: prose -->
+[Not yet translated: U00998.]
+
+<!-- TGD-000999 -->
+
 དེ་ལྟ་ཡིན་ན་དཀར་ལ་སོགས།
 
-<!-- pair: TGD-001000 | source: U01000 | role: main_text | format: prose -->
+[Not yet translated: U00999.]
+
+<!-- TGD-001000 -->
+
 སོགས་དང་རྡུལ་ཕྲན་བདག་ཉིད་དཀར་སོགས་དང༌།
 
-<!-- pair: TGD-001001 | source: U01001 | role: main_text | format: prose -->
+[Not yet translated: U01000.]
+
+<!-- TGD-001001 -->
+
 ཇི་སྟེ་རྣམ་པའི་གྲངས་བཞིན་དུ།
 
-<!-- pair: TGD-001002 | source: U01002 | role: main_text | format: prose -->
+[Not yet translated: U01001.]
+
+<!-- TGD-001002 -->
+
 སོགས་དང༌།
 
-<!-- pair: TGD-001003 | source: U01003 | role: main_text | format: prose -->
+[Not yet translated: U01002.]
+
+<!-- TGD-001003 -->
+
 གལ་ཏེ་སྣ་ཚོགས་དེ་གཅིག་ན།
 
-<!-- pair: TGD-001004 | source: U01004 | role: main_text | format: prose -->
+[Not yet translated: U01003.]
+
+<!-- TGD-001004 -->
+
 ཞེས་སོགས་ཀྱིས་གནོད་ཅིང་
 
-<!-- pair: TGD-001005 | source: U01005 | role: main_text | format: prose -->
+[Not yet translated: U01004.]
+
+<!-- TGD-001005 -->
+
 གང་ཟག་གཅིག་ཤེས་རྒྱུད་དུ་མར་ཐལ་བས་སོ།
 
-<!-- pair: TGD-001006 | source: U01006 | role: main_text | format: prose -->
+[Not yet translated: U01005.]
+
+<!-- TGD-001006 -->
+
 རྡོ༽༽གཞན་དུ་སེམས་གཞི་ལས་སེམས་བྱུང་འབྱུང་བར་འདོད་དེ།
 
-<!-- pair: TGD-001007 | source: U01007 | role: main_text | format: prose -->
+[Not yet translated: U01006.]
+
+<!-- TGD-001007 -->
+
 དབུས་མཐར།
 
-<!-- pair: TGD-001008 | source: U01008 | role: main_text | format: prose -->
+[Not yet translated: U01007.]
+
+<!-- TGD-001008 -->
+
 དེ་ལ་དོན་མཐོང་རྣམ་པར་ཤེས།
 
-<!-- pair: TGD-001009 | source: U01009 | role: main_text | format: prose -->
+[Not yet translated: U01008.]
+
+<!-- TGD-001009 -->
+
 དེ་ཡི་ཁྱད་པར་ཅེས་པས།
 
-<!-- pair: TGD-001010 | source: U01010 | role: main_text | format: prose -->
+[Not yet translated: U01009.]
+
+<!-- TGD-001010 -->
+
 སྒྲོ་འདོགས་ཆོད་པའི་དོན་ལ་སེམས་དང་
 
-<!-- pair: TGD-001011 | source: U01011 | role: main_text | format: prose -->
+[Not yet translated: U01010.]
+
+<!-- TGD-001011 -->
+
 དེ་ནས་རྟོག་དཔྱོད་བྱེད་པས་
 
-<!-- pair: TGD-001012 | source: U01012 | role: main_text | format: prose -->
+[Not yet translated: U01011.]
+
+<!-- TGD-001012 -->
+
 དེའི་ཁྱད་པར་གྱི་ཆོས་སེམས་བྱུང་དུ་བཤད་མོད།
 
-<!-- pair: TGD-001013 | source: U01013 | role: main_text | format: prose -->
+[Not yet translated: U01012.]
+
+<!-- TGD-001013 -->
+
 འདིར་སེམས་ལས་སེམས་བྱུང་འབྱུང་བ་གཞིར་བཞག་
 
-<!-- pair: TGD-001014 | source: U01014 | role: main_text | format: prose -->
+[Not yet translated: U01013.]
+
+<!-- TGD-001014 -->
+
 དེ་ལས་ཀྱང་སེམས་ནི་འབྱུང་བ་འགྲུབ་སྟེ།
 
-<!-- pair: TGD-001015 | source: U01015 | role: main_text | format: prose -->
+[Not yet translated: U01014.]
+
+<!-- TGD-001015 -->
+
 དཔེར་ན་བདག་ཐེག་ཆེན་པ་བྱ་སྙམ་པ་སེམས།
 
-<!-- pair: TGD-001016 | source: U01016 | role: main_text | format: prose -->
+[Not yet translated: U01015.]
+
+<!-- TGD-001016 -->
+
 དེ་ལ་བརྟེན་ནས་སེམས་བསྐྱེད་པ་སེམས་བྱུང༌།
 
-<!-- pair: TGD-001017 | source: U01017 | role: main_text | format: prose -->
+[Not yet translated: U01016.]
+
+<!-- TGD-001017 -->
+
 དེས་ཐེག་ཆེན་གྲུབ་པ་གོང་གི་སེམས་དེ་གྲུབ་པས་
 
-<!-- pair: TGD-001018 | source: U01018 | role: main_text | format: prose -->
+[Not yet translated: U01017.]
+
+<!-- TGD-001018 -->
+
 སེམས་ཏེ་མདོར་ན་ཡུལ་ལ་གཏོད་པའི་སྐད་ཅིག་དང་པོ།
 
-<!-- pair: TGD-001019 | source: U01019 | role: main_text | format: prose -->
+[Not yet translated: U01018.]
+
+<!-- TGD-001019 -->
+
 སེམས་དང་དེའི་ཁྱད་པར་ལ་དཔྱོད་པ་གཉིས་པ་སེམས་བྱུང་དེ་ཟིན་པ་སླར་སེམས་སྐྱེ་སྟེ།
 
-<!-- pair: TGD-001020 | source: U01020 | role: main_text | format: prose -->
+[Not yet translated: U01019.]
+
+<!-- TGD-001020 -->
+
 སྐད་ཅིག་གི་ཕྲེང་བ་ཡིན་པར་གསུངས་པ་
 
-<!-- pair: TGD-001021 | source: U01021 | role: main_text | format: prose -->
+[Not yet translated: U01020.]
+
+<!-- TGD-001021 -->
+
 དེའི་ཕྱིར་འདིའང་ཡོད་པར་སྒྲུབ་བོ།
 
-<!-- pair: TGD-001022 | source: U01022 | role: main_text | format: prose -->
+[Not yet translated: U01021.]
+
+<!-- TGD-001022 -->
+
 རྡོ གཞན་དག་ན་རེ།
 
-<!-- pair: TGD-001023 | source: U01023 | role: main_text | format: prose -->
+[Not yet translated: U01022.]
+
+<!-- TGD-001023 -->
+
 འཁོར་བར་འཁོར་བ་ནི་སེམས་ཡིན་ཏེ།
 
-<!-- pair: TGD-001024 | source: U01024 | role: main_text | format: prose -->
+[Not yet translated: U01023.]
+
+<!-- TGD-001024 -->
+
 སྡུག་བསྔལ་དང་རྣམ་སྨིན་དེར་བརྟེན་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-001025 | source: U01025 | role: main_text | format: prose -->
+[Not yet translated: U01024.]
+
+<!-- TGD-001025 -->
+
 ལུས་བེམ་པོ་ཡིན་པའི་ཕྱིར་ཞེས་ཟེར་རོ།
 
-<!-- pair: TGD-001026 | source: U01026 | role: main_text | format: prose -->
+[Not yet translated: U01025.]
+
+<!-- TGD-001026 -->
+
 འདིར་ནི་འཁོར་བའི་རྒྱ་མཚོར་ལུས་ཉིད་འཁོར་བར་བཞེད་དེ།
 
-<!-- pair: TGD-001027 | source: U01027 | role: main_text | format: prose -->
+[Not yet translated: U01026.]
+
+<!-- TGD-001027 -->
+
 དེ་འཁོར་བའི་གཞི་རྟེན་ཐོག་མེད་བག་ཆགས་ཀྱི་ས་བོན་རྣམས་ཀྱིས་གང་བར་གནས་ཤིང༌།
 
-<!-- pair: TGD-001028 | source: U01028 | role: main_text | format: prose -->
+[Not yet translated: U01027.]
+
+<!-- TGD-001028 -->
+
 དེ་དག་རྐྱེན་དང་ཕྲད་པས་རྟོག་པ་སྣ་ཚོགས་སྐྱེ་ཞིང་
 
-<!-- pair: TGD-001029 | source: U01029 | role: main_text | format: prose -->
+[Not yet translated: U01028.]
+
+<!-- TGD-001029 -->
+
 དེས་ཕྱི་མའི་ལུས་འགྲུབ་པའི་ཕྱིར།
 
-<!-- pair: TGD-001030 | source: U01030 | role: main_text | format: prose -->
+[Not yet translated: U01029.]
+
+<!-- TGD-001030 -->
+
 དཔེར་ན་རྒྱ་མཚོ་ཆེན་པོ་སྲོག་ཆགས་རྣམས་ཀྱི་རྟེན་གནས་སུ་གྱུར་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-001031 | source: U01031 | role: main_text | format: prose -->
+[Not yet translated: U01030.]
+
+<!-- TGD-001031 -->
+
 འོ་ན་གཟུགས་མེད་བཞི་སོགས།
 
-<!-- pair: TGD-001032 | source: U01032 | role: main_text | format: prose -->
+[Not yet translated: U01031.]
+
+<!-- TGD-001032 -->
+
 དངོས་ལུས་མེད་པར་ཇི་ལྟར་འཁོར་སྙམ་ན།
 
-<!-- pair: TGD-001033 | source: U01033 | role: main_text | format: prose -->
+[Not yet translated: U01032.]
+
+<!-- TGD-001033 -->
+
 གཟུགས་མེད་ན་རྣམ་རིག་མིན་པའི་གཟུགས་དང་རྨི་ལམ་ན་བག་ཆག་གི་དང་།
 
-<!-- pair: TGD-001034 | source: U01034 | role: main_text | format: prose -->
+[Not yet translated: U01033.]
+
+<!-- TGD-001034 -->
+
 སྲིད་པ་བར་དོར་ཡིད་ལུས་ཡོད་པར་གསུངས་པའི་ཕྱིར་ལུས་འཁོར་བའོ།
 
-<!-- pair: TGD-001035 | source: U01035 | role: main_text | format: prose -->
+[Not yet translated: U01034.]
+
+<!-- TGD-001035 -->
+
 ལྷན༽༽ ཁོ་ན་རེ།
 
-<!-- pair: TGD-001036 | source: U01036 | role: main_text | format: prose -->
+[Not yet translated: U01035.]
+
+<!-- TGD-001036 -->
+
 འཁོར་བ་མཐའ་ཡོད་དེ་གསར་སྐྱེ་མེད་པས་དང་།
 
-<!-- pair: TGD-001037 | source: U01037 | role: main_text | format: prose -->
+[Not yet translated: U01036.]
+
+<!-- TGD-001037 -->
+
 འགའ་ཞིག་མཐའ་མེད་དེ་ཟོ་ཆུན་ལྟར་དུ་གསུངས་པའི་ཕྱིར་ཟེར།
 
-<!-- pair: TGD-001038 | source: U01038 | role: main_text | format: prose -->
+[Not yet translated: U01037.]
+
+<!-- TGD-001038 -->
+
 འདིར་ནི་འཁོར་བའི་གཞི་གཤིས་གྲུབ་པ་མེད་ཅིང་
 
-<!-- pair: TGD-001039 | source: U01039 | role: main_text | format: prose -->
+[Not yet translated: U01038.]
+
+<!-- TGD-001039 -->
+
 སྣང་བའི་ཆོས་རྣམས་རྟེན་འབྲེལ་ཡིན་པས་
 
-<!-- pair: TGD-001040 | source: U01040 | role: main_text | format: prose -->
+[Not yet translated: U01039.]
+
+<!-- TGD-001040 -->
+
 སྐྱེ་འགགས་གནས་གསུམ་སོགས་སྤྲོས་པ་ཐམས་ཅད་བྲལ་བའི་ཕྱིར་
 
-<!-- pair: TGD-001041 | source: U01041 | role: main_text | format: prose -->
+[Not yet translated: U01040.]
+
+<!-- TGD-001041 -->
+
 འཁོར་བ་ཐོག་མཐའ་དབུས་མེད་པར་བཞེད་དེ།
 
-<!-- pair: TGD-001042 | source: U01042 | role: main_text | format: prose -->
+[Not yet translated: U01041.]
+
+<!-- TGD-001042 -->
+
 གང་ཞིག་རྐྱེན་ལས་སྐྱེས་པ་དེ་མ་སྐྱེས།
 
-<!-- pair: TGD-001043 | source: U01043 | role: main_text | format: prose -->
+[Not yet translated: U01042.]
+
+<!-- TGD-001043 -->
+
 སོགས་ཅེས་སོ།
 
-<!-- pair: TGD-001044 | source: U01044 | role: main_text | format: prose -->
+[Not yet translated: U01043.]
+
+<!-- TGD-001044 -->
+
 རྡོ༽༽ རྟེན་འབྲེལ་ནི་སངས་རྒྱས་ཀྱི་ཆོས་བསྟན་པ་ཐམས་ཅད་ཀྱི་སྙིང་པོ་ཡིན་ཅིང་
 
-<!-- pair: TGD-001045 | source: U01045 | role: main_text | format: prose -->
+[Not yet translated: U01044.]
+
+<!-- TGD-001045 -->
+
 འདིའི་དོན་ལེགས་པར་ཁོང་དུ་ཆུད་ནས་བྱང་ཆུབ་བརྙེས་པ་
 
-<!-- pair: TGD-001046 | source: U01046 | role: main_text | format: prose -->
+[Not yet translated: U01045.]
+
+<!-- TGD-001046 -->
+
 གྲོང་ཁྱེར་ལྟ་བུའི་མདོར།
 
-<!-- pair: TGD-001047 | source: U01047 | role: main_text | format: prose -->
+[Not yet translated: U01046.]
+
+<!-- TGD-001047 -->
+
 དགེ་སློང་དག་ང་བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ལ་འདུག་པའི་ཚེ་
 
-<!-- pair: TGD-001048 | source: U01048 | role: main_text | format: prose -->
+[Not yet translated: U01047.]
+
+<!-- TGD-001048 -->
+
 རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་འདི་སྔོན་དུ་བྱས་པས་
 
-<!-- pair: TGD-001049 | source: U01049 | role: main_text | format: prose -->
+[Not yet translated: U01048.]
+
+<!-- TGD-001049 -->
+
 ང་བླ་ན་མེད་པའི་བྱང་ཆུང་ཏུ་སངས་རྒྱས་སོ། །
 
-<!-- pair: TGD-001050 | source: U01050 | role: main_text | format: prose -->
+[Not yet translated: U01049.]
+
+<!-- TGD-001050 -->
+
 ཞེས་པ་འདི་ལ་
 
-<!-- pair: TGD-001051 | source: U01051 | role: main_text | format: prose -->
+[Not yet translated: U01050.]
+
+<!-- TGD-001051 -->
+
 ཕྱི་རྒྱུ་ས་བོན་རྐྱེན་འབྱུང་ལྔ་དུས་ཀྱི་འགྱུར་བ་དྲུག་ཚོགས་པས་འབྲས་བུ་འབྱུང་བ་དང༌།
 
-<!-- pair: TGD-001052 | source: U01052 | role: main_text | format: prose -->
+[Not yet translated: U01051.]
+
+<!-- TGD-001052 -->
+
 ནང་རྒྱུ་མ་རིག་པ་རྐྱེན་ཁམས་དྲུག་ལ་བརྟེན་ནས་རྒ་ཤིའི་བར་ལུགས་འབྱུང་དང་དེ་ལྡོག་པ་ལུགས་ལྡོག་སྟེ་
 
-<!-- pair: TGD-001053 | source: U01053 | role: main_text | format: prose -->
+[Not yet translated: U01052.]
+
+<!-- TGD-001053 -->
+
 དེ་གཉིས་བདག་མེད་བཞིན་དུ་འབྲས་བུ་འབྱུང་ཞིང་
 
-<!-- pair: TGD-001054 | source: U01054 | role: main_text | format: prose -->
+[Not yet translated: U01053.]
+
+<!-- TGD-001054 -->
+
 རྟག་ཆད་དང་བྲལ་བས་རྟེན་འབྲེལ་མདུང་ཁྱིམ་ལྟ་བུ་སྟེ་
 
-<!-- pair: TGD-001055 | source: U01055 | role: main_text | format: prose -->
+[Not yet translated: U01054.]
+
+<!-- TGD-001055 -->
+
 དེ་དག་ལས་མ་རིག་པ་ནི་བཅུ་གཉིས་ཀྱི་ཡ་རྒྱལ་གཅིག་ཡིན་ཟེར།
 
-<!-- pair: TGD-001056 | source: U01056 | role: main_text | format: prose -->
+[Not yet translated: U01055.]
+
+<!-- TGD-001056 -->
+
 འདིར་ནི་རྟེན་འབྲེལ་བཅུ་གཉིས་མ་རིག་ཁོ་ནའི་གཡོས་སམ་འཕྲུལ་ཏེ་མ་རིག་ཡོད་ན་
 
-<!-- pair: TGD-001057 | source: U01057 | role: main_text | format: prose -->
+[Not yet translated: U01056.]
+
+<!-- TGD-001057 -->
+
 རྒ་ཤིའི་བར་ཡོད་དུ་ཡོད་པས་དང༌།
 
-<!-- pair: TGD-001058 | source: U01058 | role: main_text | format: prose -->
+[Not yet translated: U01057.]
+
+<!-- TGD-001058 -->
+
 མ་རིག་འགག་ན་རྒ་ཤིའི་བར་དུ་འགག་པས་ཀྱང་མ་རིག་པའི་གཡོས་ཏེ།
 
-<!-- pair: TGD-001059 | source: U01059 | role: main_text | format: prose -->
+[Not yet translated: U01058.]
+
+<!-- TGD-001059 -->
+
 སྡུད་པ་ལས།
 
-<!-- pair: TGD-001060 | source: U01060 | role: main_text | format: prose -->
+[Not yet translated: U01059.]
+
+<!-- TGD-001060 -->
+
 སེམས་ཅན་ཐ་མ་འབྲིང་དང་མཆོག་གྱུར་ཇི་ཞེས་པ་ཡིན་ཅིང་།
 
-<!-- pair: TGD-001061 | source: U01061 | role: main_text | format: prose -->
+[Not yet translated: U01060.]
+
+<!-- TGD-001061 -->
+
 མ་རིག་པ་སྒོམ་བྱུང་ཟག་མེད་ཀྱི་ཤེས་རབ་ཀྱིས་སུན་ཕྱུང་ན་
 
-<!-- pair: TGD-001062 | source: U01062 | role: main_text | format: prose -->
+[Not yet translated: U01061.]
+
+<!-- TGD-001062 -->
+
 ཟག་མེད་ཀྱི་ཡོན་ཏན་ཐམས་ཅད་ཐོབ་སྟེ།
 
-<!-- pair: TGD-001063 | source: U01063 | role: main_text | format: prose -->
+[Not yet translated: U01062.]
+
+<!-- TGD-001063 -->
+
 ཡེ་ཤེས་ཚུལ་སྒོ་ཐབས་དང་རྩ་བ་ཇི་སྙེད་པ།
 
-<!-- pair: TGD-001064 | source: U01064 | role: main_text | format: prose -->
+[Not yet translated: U01063.]
+
+<!-- TGD-001064 -->
+
 ཞེས་སོགས་པས་
 
-<!-- pair: TGD-001065 | source: U01065 | role: main_text | format: prose -->
+[Not yet translated: U01064.]
+
+<!-- TGD-001065 -->
+
 དམིགས་མཚན་དུ་འཛིན་པས་མ་རིག་པ་སྟོབས་སུ་གྱུར་ཅིང་།
 
-<!-- pair: TGD-001066 | source: U01066 | role: main_text | format: prose -->
+[Not yet translated: U01065.]
+
+<!-- TGD-001066 -->
+
 བཅུ་གཅིག་པོ་ལ་རང་དབང་མེད་པས་སོ།
 
-<!-- pair: TGD-001067 | source: U01067 | role: main_text | format: prose -->
+[Not yet translated: U01066.]
+
+<!-- TGD-001067 -->
+
 རྡོ༽༽ གཞན་ཤེས་ལ།
 
-<!-- pair: TGD-001068 | source: U01068 | role: main_text | format: prose -->
+[Not yet translated: U01067.]
+
+<!-- TGD-001068 -->
+
 རྟེན་འབྲེལ་བཅུ་གཉིས་ནི་གསུམ་དུ་འདུ་སྟེ།
 
-<!-- pair: TGD-001069 | source: U01069 | role: main_text | format: prose -->
+[Not yet translated: U01068.]
+
+<!-- TGD-001069 -->
+
 དང་པོ་བརྒྱད་པ་དགུ་ཉོན་མོངས་གཉིས་པ་བཅུ་པ་ལས་ཡིན་ཏེ།
 
-<!-- pair: TGD-001070 | source: U01070 | role: main_text | format: prose -->
+[Not yet translated: U01069.]
+
+<!-- TGD-001070 -->
+
 ལྷག་མ་རྣམས་ནི་སྡུག་བསྔལ་ལོ།
 
-<!-- pair: TGD-001071 | source: U01071 | role: main_text | format: prose -->
+[Not yet translated: U01070.]
+
+<!-- TGD-001071 -->
+
 ཞེས་པས་
 
-<!-- pair: TGD-001072 | source: U01072 | role: main_text | format: prose -->
+[Not yet translated: U01071.]
+
+<!-- TGD-001072 -->
+
 རིམ་བཞིན་ལྷག་སྔ་མ་ད་ལྟ་ཕྱི་མ་གསུམ་ལས་རྫོགས་ཟེར།
 
-<!-- pair: TGD-001073 | source: U01073 | role: main_text | format: prose -->
+[Not yet translated: U01072.]
+
+<!-- TGD-001073 -->
+
 འདིར་བཅུ་གཉིས་པོ་དེ་ཡང་
 
-<!-- pair: TGD-001074 | source: U01074 | role: main_text | format: prose -->
+[Not yet translated: U01073.]
+
+<!-- TGD-001074 -->
+
 རིམ་བཞིན་ལྷག་སྔ་མ་ད་ལྟ་ཕྱི་མ་གསུམ་ལས་རྫོགས་ཟེར།
 
-<!-- pair: TGD-001075 | source: U01075 | role: main_text | format: prose -->
+[Not yet translated: U01074.]
+
+<!-- TGD-001075 -->
+
 འདིར་བཅུ་གཉིས་པོ་དེ་ཡང་
 
-<!-- pair: TGD-001076 | source: U01076 | role: main_text | format: prose -->
+[Not yet translated: U01075.]
+
+<!-- TGD-001076 -->
+
 སྐད་ཅིག་གཅིག་ལ་ཚང་བར་འབྱུང་བའང་ཡོད་དེ་
 
-<!-- pair: TGD-001077 | source: U01077 | role: main_text | format: prose -->
+[Not yet translated: U01076.]
+
+<!-- TGD-001077 -->
+
 ཞེ་སྡང་རྟོག་པ་སྐྱེས་པ་མ་རིག་པའི་དབང་ལས་སྦྱོར་བ་མགོ་ཙམ་པ་ཉོན་མོངས་པའི་དུམ་བུ་དངོས་གཞི་འདུ་བྱས་ཏེ།
 
-<!-- pair: TGD-001078 | source: U01078 | role: main_text | format: prose -->
+[Not yet translated: U01077.]
+
+<!-- TGD-001078 -->
+
 སྤྱོད་པ་ལས་ཀྱི་དུམ་བུ།
 
-<!-- pair: TGD-001079 | source: U01079 | role: main_text | format: prose -->
+[Not yet translated: U01078.]
+
+<!-- TGD-001079 -->
+
 རྗེས་ཐིམ་པ།
 
-<!-- pair: TGD-001080 | source: U01080 | role: main_text | format: prose -->
+[Not yet translated: U01079.]
+
+<!-- TGD-001080 -->
+
 སྡུག་འསྔལ་གྱི་དུམ་བུ་སྟེ་
 
-<!-- pair: TGD-001081 | source: U01081 | role: main_text | format: prose -->
+[Not yet translated: U01080.]
+
+<!-- TGD-001081 -->
+
 རྟོག་པ་གཅིག་སྐྱེས་པ་ནས་འགགས་པའི་བར་ལ་ཚང་བར་འབྱུང་བར་འགྲུབ་བོ།
 
-<!-- pair: TGD-001082 | source: U01082 | role: main_text | format: prose -->
+[Not yet translated: U01081.]
+
+<!-- TGD-001082 -->
+
 རྡོ༽༽ འཇིག་རྟེན་གྱི་ཚད་དང་བྱུང་ཚུལ་ཆགས་གནས་འཇིག་སྟོང་མི་གཅིག་པ་དུས་འཁོར།
 
-<!-- pair: TGD-001083 | source: U01083 | role: main_text | format: prose -->
+[Not yet translated: U01082.]
+
+<!-- TGD-001083 -->
+
 རྟ་མགྲིན་གཤམ་པ་བཀོད་པ།
 
-<!-- pair: TGD-001084 | source: U01084 | role: main_text | format: prose -->
+[Not yet translated: U01083.]
+
+<!-- TGD-001084 -->
+
 འདུལ་བ་གདགས་པ།
 
-<!-- pair: TGD-001085 | source: U01085 | role: main_text | format: prose -->
+[Not yet translated: U01084.]
+
+<!-- TGD-001085 -->
+
 དྲན་ཉེར་སོགས་ལས་དུ་མ་འབྱུང་བ་
 
-<!-- pair: TGD-001086 | source: U01086 | role: main_text | format: prose -->
+[Not yet translated: U01085.]
+
+<!-- TGD-001086 -->
+
 སྙན་ངག་ལྟར་བཤད་པ་དང་གནས་ལུགས་ལྟར་བཤད་པ་གཉིས་སུ་ཡོད་ཟེར།
 
-<!-- pair: TGD-001087 | source: U01087 | role: main_text | format: prose -->
+[Not yet translated: U01086.]
+
+<!-- TGD-001087 -->
+
 འདིར་ནི་སེམས་ནི་ཐ་དད་དབང་གིས་སྣང་བ་ཡང་ཐ་དད་དེ།
 
-<!-- pair: TGD-001088 | source: U01088 | role: main_text | format: prose -->
+[Not yet translated: U01087.]
+
+<!-- TGD-001088 -->
+
 དོན་དམ་པར་སྣོད་བཅུད་གང་ཡང་མ་གྲུབ་མོད།
 
-<!-- pair: TGD-001089 | source: U01089 | role: main_text | format: prose -->
+[Not yet translated: U01088.]
+
+<!-- TGD-001089 -->
+
 ཚུ་རོལ་མཐོང་བའི་ངོར་བག་ཆགས་ཀྱི་ཁམས་དང་
 
-<!-- pair: TGD-001090 | source: U01090 | role: main_text | format: prose -->
+[Not yet translated: U01089.]
+
+<!-- TGD-001090 -->
+
 ཆོས་ཐ་དད་པས་སྒྲུབ་པའི་སྣང་བ་བསོད་ནམས་བསགས་ཚུལ་གྱི་བྱེ་བྲག་གིས་ཏེ།
 
-<!-- pair: TGD-001091 | source: U01091 | role: main_text | format: prose -->
+[Not yet translated: U01090.]
+
+<!-- TGD-001091 -->
+
 རྡོ་རྗེ་གུར་ལས།
 
-<!-- pair: TGD-001092 | source: U01092 | role: main_text | format: prose -->
+[Not yet translated: U01091.]
+
+<!-- TGD-001092 -->
+
 ཡུལ་དང་དབང་པོའི་བྱེ་བྲག་རྣམས།
 
-<!-- pair: TGD-001093 | source: U01093 | role: main_text | format: prose -->
+[Not yet translated: U01092.]
+
+<!-- TGD-001093 -->
+
 རྣམ་པ་ཐ་དད་མ་མཆིས་ཏེ།
 
-<!-- pair: TGD-001094 | source: U01094 | role: main_text | format: prose -->
+[Not yet translated: U01093.]
+
+<!-- TGD-001094 -->
+
 གཟུགས་སོགས་སྣང་བར་གྱུར་པ་ནི། །
 
-<!-- pair: TGD-001095 | source: U01095 | role: main_text | format: prose -->
+[Not yet translated: U01094.]
+
+<!-- TGD-001095 -->
+
 རང་སེམས་ཁོ་ནར་སྣང་བའོ། །
 
-<!-- pair: TGD-001096 | source: U01096 | role: main_text | format: prose -->
+[Not yet translated: U01095.]
+
+<!-- TGD-001096 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-001097 | source: U01097 | role: main_text | format: prose -->
+[Not yet translated: U01096.]
+
+<!-- TGD-001097 -->
+
 དྲིམ་མེད་པར་གྲགས་པའི་མདོ་ལས།
 
-<!-- pair: TGD-001098 | source: U01098 | role: main_text | format: prose -->
+[Not yet translated: U01097.]
+
+<!-- TGD-001098 -->
+
 ལྟ་བ་ཐུན་མོང་བ་གཅིག་ལ་
 
-<!-- pair: TGD-001099 | source: U01099 | role: main_text | format: prose -->
+[Not yet translated: U01098.]
+
+<!-- TGD-001099 -->
+
 ཤཱ་རིའི་བུས་རང་རོང་ཅན་དུ་མཐོང་ཞིང་
 
-<!-- pair: TGD-001100 | source: U01100 | role: main_text | format: prose -->
+[Not yet translated: U01099.]
+
+<!-- TGD-001100 -->
+
 ཚངས་པ་རལ་བ་ཅན་གྱིས་རྣམ་པར་དག་པའི་ཞིང་དུ་མཐོང་བར་གསུངས་པ་དང༌།
 
-<!-- pair: TGD-001101 | source: U01101 | role: main_text | format: prose -->
+[Not yet translated: U01100.]
+
+<!-- TGD-001101 -->
+
 སྤྱོད་འཇུག་ལས།
 
-<!-- pair: TGD-001102 | source: U01102 | role: main_text | format: prose -->
+[Not yet translated: U01101.]
+
+<!-- TGD-001102 -->
+
 ལྕགས་བསྲེག་ས་གཞི་སུ་ཡིས་བྱས།
 
-<!-- pair: TGD-001103 | source: U01103 | role: main_text | format: prose -->
+[Not yet translated: U01102.]
+
+<!-- TGD-001103 -->
+
 སོགས་གསུངས་པས་ཆུ་ལ་འགྲོ་བ་དྲུག་གིས་མཐོང་བ་བཞིན་ནོ།
 
-<!-- pair: TGD-001104 | source: U01104 | role: main_text | format: prose -->
+[Not yet translated: U01103.]
+
+<!-- TGD-001104 -->
+
 རྡོ༽༽ བདེ་སྡུག་རྣམས་སྔོན་གྱི་ལས་ཁོ་ནར་ལས་ཤིང་རྐྱེན་གྱིས་བསྒྲུབས་ཀྱང་ལས་དེ་མི་འགྱུར་ཟེར།
 
-<!-- pair: TGD-001105 | source: U01105 | role: main_text | format: prose -->
+[Not yet translated: U01104.]
+
+<!-- TGD-001105 -->
+
 འདིར་ནི་དེར་མ་ངེས་པ་
 
-<!-- pair: TGD-001106 | source: U01106 | role: main_text | format: prose -->
+[Not yet translated: U01105.]
+
+<!-- TGD-001106 -->
+
 ད་ལྟ་ཉིད་དུ་ལས་གང་བསྒྲུབས་འབྲས་བུར་ལོངས་སྤྱོད་པའང་ཡོདདེ།
 
-<!-- pair: TGD-001107 | source: U01107 | role: main_text | format: prose -->
+[Not yet translated: U01106.]
+
+<!-- TGD-001107 -->
+
 ཆོས་ཀུན་རྐྱེན་ལ་བརྟེན་པ་དང༌།
 
-<!-- pair: TGD-001108 | source: U01108 | role: main_text | format: prose -->
+[Not yet translated: U01107.]
+
+<!-- TGD-001108 -->
+
 སྐད་ཅིག་མ་ཡིན་པའི་གནད་ཀྱིས་
 
-<!-- pair: TGD-001109 | source: U01109 | role: main_text | format: prose -->
+[Not yet translated: U01108.]
+
+<!-- TGD-001109 -->
+
 ད་ལྟ་བླ་མ་དང་རྒྱལ་པོ་ལྟ་བུ་མཉེས་པའི་ལས་བསྒྲུབ་ན་
 
-<!-- pair: TGD-001110 | source: U01110 | role: main_text | format: prose -->
+[Not yet translated: U01109.]
+
+<!-- TGD-001110 -->
+
 གདམ་ག་དང་བྱ་དགའ་ཐོབ་ཅིང་
 
-<!-- pair: TGD-001111 | source: U01111 | role: main_text | format: prose -->
+[Not yet translated: U01110.]
+
+<!-- TGD-001111 -->
+
 མ་མཉེས་ན་དེ་ལས་ལྡོག་པ་དེ་
 
-<!-- pair: TGD-001112 | source: U01112 | role: main_text | format: prose -->
+[Not yet translated: U01111.]
+
+<!-- TGD-001112 -->
+
 སྔོན་ལས་ཁོ་ནར་མི་ལྟོས་པར་མཉེས་མ་མཉེས་ཀྱི་ཁྱད་པར་ཡིན་པར་གྲུབ་བོ།
 
-<!-- pair: TGD-001113 | source: U01113 | role: main_text | format: prose -->
+[Not yet translated: U01112.]
+
+<!-- TGD-001113 -->
+
 ཐམས་ཅད་སྔོན་ལས་ཡིན་ན་རྒྱུར་སྨྲ་བའི་ཞེ་འདོད་ཡིན་པས་དོར་བར་བྱོས་ཤིག
 
-<!-- pair: TGD-001114 | source: U01114 | role: main_text | format: prose -->
+[Not yet translated: U01113.]
+
+<!-- TGD-001114 -->
+
 རྡོ༽༽ གཞན་དག་ན་རེ།
 
-<!-- pair: TGD-001115 | source: U01115 | role: main_text | format: prose -->
+[Not yet translated: U01114.]
+
+<!-- TGD-001115 -->
+
 བསྐལ་པ་ཡར་འཕེལ་མར་འགྲིབ་རང་བཞིན་བབས་ཀྱིས་འབྱུང་སྟེ་
 
-<!-- pair: TGD-001116 | source: U01116 | role: main_text | format: prose -->
+[Not yet translated: U01115.]
+
+<!-- TGD-001116 -->
+
 འཕེལ་བ་ན་ཐབས་གང་གིས་ཀྱང་མི་འགྲིབ།
 
-<!-- pair: TGD-001117 | source: U01117 | role: main_text | format: prose -->
+[Not yet translated: U01116.]
+
+<!-- TGD-001117 -->
+
 འགྲིབ་པ་ན་ཐབས་གང་གིས་ཀྱང་མི་འཕེལ་ཟེརཡང་།
 
-<!-- pair: TGD-001118 | source: U01118 | role: main_text | format: prose -->
+[Not yet translated: U01117.]
+
+<!-- TGD-001118 -->
+
 འདིར་དུས་ཀྱི་འཕེལ་འགྲིབ་ད་ལྟར་ཡང་བྱར་ཡོད་པ་ཡིན་ཏེ་
 
-<!-- pair: TGD-001119 | source: U01119 | role: main_text | format: prose -->
+[Not yet translated: U01118.]
+
+<!-- TGD-001119 -->
+
 དེའི་རྒྱུ་དགེ་མི་དགེ་ཞེས་བྱ་བ་ལོ་བརྒྱད་ཁྲིའི་ས་ནས་བརྒྱད་བཅུའི་བར་དུ་འགྲིབ།
 
-<!-- pair: TGD-001120 | source: U01120 | role: main_text | format: prose -->
+[Not yet translated: U01119.]
+
+<!-- TGD-001120 -->
+
 དེ་ཚེ་རང་རེའི་སྟོན་པ་གདོལ་བ་སྟོབས་ཆེན་དུ་སྐྱེ་བ་བཞེས་ན་
 
-<!-- pair: TGD-001121 | source: U01121 | role: main_text | format: prose -->
+[Not yet translated: U01120.]
+
+<!-- TGD-001121 -->
+
 སུས་སེམས་ཅན་གྱི་སྲོག་བཅད་ན་ངས་དེའི་སྲོག་གཅོད་ཅེས་བསྒྲགས་ཏེ་
 
-<!-- pair: TGD-001122 | source: U01122 | role: main_text | format: prose -->
+[Not yet translated: U01121.]
+
+<!-- TGD-001122 -->
+
 རིམ་གྱིས་ཆོས་འཅུ་དྲུག་ལ་བཀོད་པས་
 
-<!-- pair: TGD-001123 | source: U01123 | role: main_text | format: prose -->
+[Not yet translated: U01122.]
+
+<!-- TGD-001123 -->
+
 ལྔ་བརྒྱའི་བར་དུ་འཕེལ་བར་གསུངས་པ་
 
-<!-- pair: TGD-001124 | source: U01124 | role: main_text | format: prose -->
+[Not yet translated: U01123.]
+
+<!-- TGD-001124 -->
+
 ཆུ་ལུད་དྲོད་གཤེར་ཚོགས་པའི་ས་བོན་གྱི་མྱུ་གུ་བཞིན་ནོ།
 
-<!-- pair: TGD-001125 | source: U01125 | role: main_text | format: prose -->
+[Not yet translated: U01124.]
+
+<!-- TGD-001125 -->
+
 རྡོ༽༽ ཁོ་ན་རེ
 
-<!-- pair: TGD-001126 | source: U01126 | role: main_text | format: prose -->
+[Not yet translated: U01125.]
+
+<!-- TGD-001126 -->
+
 ད་ལྟར་གྱི་དུས་སུ་སྐྱེས་ནས་མྱོང་གྱུར་དང་
 
-<!-- pair: TGD-001127 | source: U01127 | role: main_text | format: prose -->
+[Not yet translated: U01126.]
+
+<!-- TGD-001127 -->
+
 ལན་གྲངས་གཞན་ལ་མྱོང་འགྱུར་མ་གཏོགས་མཐོང་ཆོས་བྱུང་ཟེར་རོ།
 
-<!-- pair: TGD-001128 | source: U01128 | role: main_text | format: prose -->
+[Not yet translated: U01127.]
+
+<!-- TGD-001128 -->
+
 སྐབས་འདི་ན་
 
-<!-- pair: TGD-001129 | source: U01129 | role: main_text | format: prose -->
+[Not yet translated: U01128.]
+
+<!-- TGD-001129 -->
+
 ཚེ་འདིར་རང་ལ་མཐོང་ཆོས་གཙོ་བོར་འབྱུང་སྟེ།
 
-<!-- pair: TGD-001130 | source: U01130 | role: main_text | format: prose -->
+[Not yet translated: U01129.]
+
+<!-- TGD-001130 -->
+
 མ་སྐྱེས་དགྲས་མཐོང་ཆོས་གང་ལགས་ཞུས།
 
-<!-- pair: TGD-001131 | source: U01131 | role: main_text | format: prose -->
+[Not yet translated: U01130.]
+
+<!-- TGD-001131 -->
+
 ཁྱོད་ཀྱི་འབངས་ཐ་ཆད་ཞིག་ང་ལས་རབ་ཏུ་བྱུང་སྟེ་
 
-<!-- pair: TGD-001132 | source: U01132 | role: main_text | format: prose -->
+[Not yet translated: U01131.]
+
+<!-- TGD-001132 -->
+
 ཁྱོད་ཀྱི་སར་ཕྱིན་ན་ཐ་ཆད་བྱའམ་གསུངས་པས།
 
-<!-- pair: TGD-001133 | source: U01133 | role: main_text | format: prose -->
+[Not yet translated: U01132.]
+
+<!-- TGD-001133 -->
+
 དེ་འདྲ་ལྟ་ཅི་བདག་གིས་ཕྱག་དང་བསྙེན་བཀུར་བ་ཡིན་ཞུས་པས།
 
-<!-- pair: TGD-001134 | source: U01134 | role: main_text | format: prose -->
+[Not yet translated: U01133.]
+
+<!-- TGD-001134 -->
+
 དེ་མཐོང་ཆོས་ཡིན་གསུངས་
 
-<!-- pair: TGD-001135 | source: U01135 | role: main_text | format: prose -->
+[Not yet translated: U01134.]
+
+<!-- TGD-001135 -->
+
 དེ་ལྟར་དེང་སང་ལའང་ཕལ་ཆེར་རབ་ཏུ་བྱུང་བ་དང༌།
 
-<!-- pair: TGD-001136 | source: U01136 | role: main_text | format: prose -->
+[Not yet translated: U01135.]
+
+<!-- TGD-001136 -->
+
 བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་པ་དང་
 
-<!-- pair: TGD-001137 | source: U01137 | role: main_text | format: prose -->
+[Not yet translated: U01136.]
+
+<!-- TGD-001137 -->
+
 སྔགས་ལ་ཞུགས་པ་དག་མཐོང་བའི་ཆོས་ལ་སྤྱོད་པར་མངོན་སུམ་གྱིས་གྲུབ་བོ།
 
-<!-- pair: TGD-001138 | source: U01138 | role: main_text | format: prose -->
+[Not yet translated: U01137.]
+
+<!-- TGD-001138 -->
+
 རྡོ༽༽ དགེ་བཅུའི་ཁར་
 
-<!-- pair: TGD-001139 | source: U01139 | role: main_text | format: prose -->
+[Not yet translated: U01138.]
+
+<!-- TGD-001139 -->
+
 ཕ་མ་དགེ་སྦྱོང་བྲམ་ཟེར་ཤེས་པ་བཞི་
 
-<!-- pair: TGD-001140 | source: U01140 | role: main_text | format: prose -->
+[Not yet translated: U01139.]
+
+<!-- TGD-001140 -->
+
 རྒན་ལ་རིམ་གྲོ་སྦྱིན་གཏོང་སྟེ་བཅུ་དྲུག་མི་ཆོས་ཡིན།
 
-<!-- pair: TGD-001141 | source: U01141 | role: main_text | format: prose -->
+[Not yet translated: U01140.]
+
+<!-- TGD-001141 -->
+
 ལྷ་ཆོས་དེ་ལས་གཞན་ཏེ།
 
-<!-- pair: TGD-001142 | source: U01142 | role: main_text | format: prose -->
+[Not yet translated: U01141.]
+
+<!-- TGD-001142 -->
+
 མི་ཆོས་མཁས་པ་ལྷ་ཆོས་ཡིན། །
 
-<!-- pair: TGD-001143 | source: U01143 | role: main_text | format: prose -->
+[Not yet translated: U01142.]
+
+<!-- TGD-001143 -->
+
 མཐུན་འཇུག་མཁས་པ་ཟོལ་ཟོག་ཡིན་
 
-<!-- pair: TGD-001144 | source: U01144 | role: main_text | format: prose -->
+[Not yet translated: U01143.]
+
+<!-- TGD-001144 -->
+
 ཅེས་གསུངས་སོ་ཟེར།
 
-<!-- pair: TGD-001145 | source: U01145 | role: main_text | format: prose -->
+[Not yet translated: U01144.]
+
+<!-- TGD-001145 -->
+
 འདིར་ནི་ལྷ་ཆོས་སྡོམ་པ་གསུམ་ཀའི་སྐབས་སུ་
 
-<!-- pair: TGD-001146 | source: U01146 | role: main_text | format: prose -->
+[Not yet translated: U01145.]
+
+<!-- TGD-001146 -->
+
 གཞན་དོན་དུ་འཁོར་བ་འདའ་འདོད་ཀྱི་བསམ་པས་
 
-<!-- pair: TGD-001147 | source: U01147 | role: main_text | format: prose -->
+[Not yet translated: U01146.]
+
+<!-- TGD-001147 -->
+
 སྒྲུབ་དགག་དེ་ལས་གཞན་མེད་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-001148 | source: U01148 | role: main_text | format: prose -->
+[Not yet translated: U01147.]
+
+<!-- TGD-001148 -->
+
 འདི་དང་ལྡན་ན་མི་ཆོས་ཀྱི་ཡོན་ཏན་ཕྲ་མོ་ནས་མཆོག་གི་དངོས་གྲུབ་བར་འབྱུང་བར་གཅིག་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-001149 | source: U01149 | role: main_text | format: prose -->
+[Not yet translated: U01148.]
+
+<!-- TGD-001149 -->
+
 མི་ལྡན་ན་ཉེས་ཚོགས་སྡུག་བསྔལ་འབྱུང་བར་གཅིག་པའི་ཕྱིར།
 
-<!-- pair: TGD-001150 | source: U01150 | role: main_text | format: prose -->
+[Not yet translated: U01149.]
+
+<!-- TGD-001150 -->
+
 སློབ་དཔོན་འཕགས་པས།
 
-<!-- pair: TGD-001151 | source: U01151 | role: main_text | format: prose -->
+[Not yet translated: U01150.]
+
+<!-- TGD-001151 -->
+
 མི་ཡི་ཆོས་ལུགས་ལེགས་སྤྱད་ནས།
 
-<!-- pair: TGD-001152 | source: U01152 | role: main_text | format: prose -->
+[Not yet translated: U01151.]
+
+<!-- TGD-001152 -->
+
 ལྷ་ཡུལ་སོགས་གསུངས་པས་
 
-<!-- pair: TGD-001153 | source: U01153 | role: main_text | format: prose -->
+[Not yet translated: U01152.]
+
+<!-- TGD-001153 -->
+
 མི་ཆོས་བཅུ་དྲུག་ལྷ་ཆོས་དང་གནད་དམ་དོན་གཅིག་སྟེ་མཚུངས་པར་གྲུབ་བོ།
 
-<!-- pair: TGD-001154 | source: U01154 | role: main_text | format: prose -->
+[Not yet translated: U01153.]
+
+<!-- TGD-001154 -->
+
 རྡོ༽༽ བསྟན་པའི་གནས་ཚད་གསུང་རབ་རྣམས་ནས་དུ་མ་ཞིག་གསུངས་ཀྱང་
 
-<!-- pair: TGD-001155 | source: U01155 | role: main_text | format: prose -->
+[Not yet translated: U01154.]
+
+<!-- TGD-001155 -->
+
 འབུམ་ཊིཀཱ་པས་བསྟན་པ་ལྔ་བརྒྱ་ཕྲག་བཅུ་ལས་
 
-<!-- pair: TGD-001156 | source: U01156 | role: main_text | format: prose -->
+[Not yet translated: U01155.]
+
+<!-- TGD-001156 -->
+
 དང་པོ་གསུམ་རིམ་བཞིན་དགྲ་བཅོམ་དང་ཕྱིར་མི་འོང་དང་།
 
-<!-- pair: TGD-001157 | source: U01157 | role: main_text | format: prose -->
+[Not yet translated: U01156.]
+
+<!-- TGD-001157 -->
+
 ལན་ཅིག་ཕྱིར་འོང་རྒྱུན་ཞུགས་འབྲས་བུ་ཐོབ་པར་དེའི་དུས།
 
-<!-- pair: TGD-001158 | source: U01158 | role: main_text | format: prose -->
+[Not yet translated: U01157.]
+
+<!-- TGD-001158 -->
+
 བར་པ་གསུམ།
 
-<!-- pair: TGD-001159 | source: U01159 | role: main_text | format: prose -->
+[Not yet translated: U01158.]
+
+<!-- TGD-001159 -->
+
 ཤེས་རབ་དང་། ཏིང༌ངེ༌འཛིན་དང་། ཚུལ་ཁྲིམས་ལྡན་པས་སྒྲུབ་པའི་དུས།
 
-<!-- pair: TGD-001160 | source: U01160 | role: main_text | format: prose -->
+[Not yet translated: U01159.]
+
+<!-- TGD-001160 -->
+
 ཕྱི་མ་གསུམ་མངོན་པ་དང་། མདོ་སྡེ་དང་། འདུལ་བའི་དུས་ཏེ་ལུང་གི་དུས།
 
-<!-- pair: TGD-001161 | source: U01161 | role: main_text | format: prose -->
+[Not yet translated: U01160.]
+
+<!-- TGD-001161 -->
+
 དེང་སང་མདོ་སྡེའི་དུས་ལ་ཡོད་པས་འབྲས་བུ་མི་སྐྱེ་ཟེར་རོ། །
 
-<!-- pair: TGD-001162 | source: U01162 | role: main_text | format: prose -->
+[Not yet translated: U01161.]
+
+<!-- TGD-001162 -->
+
 འདིར་ནི་དཀོན་མཆོག་གསུམ་རྟག་པའི་གནད་ཀྱིས་ཉམས་སུ་ལེན་པ་ཡོད་ན་
 
-<!-- pair: TGD-001163 | source: U01163 | role: main_text | format: prose -->
+[Not yet translated: U01162.]
+
+<!-- TGD-001163 -->
+
 འབྲས་བུ་ཐོབ་པ་རྒྱུན་མི་ཆད་པ་འབྱུང་སྟེ།
 
-<!-- pair: TGD-001164 | source: U01164 | role: main_text | format: prose -->
+[Not yet translated: U01163.]
+
+<!-- TGD-001164 -->
+
 ཟླ་བ་སྙིང་པོའི་མདོར།
 
-<!-- pair: TGD-001165 | source: U01165 | role: main_text | format: prose -->
+[Not yet translated: U01164.]
+
+<!-- TGD-001165 -->
+
 བསྟན་པ་ནུབ་ཁར་རྒྱལ་པོ་དཔུང་མར་ཅན་གྱི་རིང་ལ་དགྲ་བཅོམ་པ་དེས་པ་དང་
 
-<!-- pair: TGD-001166 | source: U01166 | role: main_text | format: prose -->
+[Not yet translated: U01165.]
+
+<!-- TGD-001166 -->
+
 ཁྲོ་མ་དུས་མཇུག་ལས་ཚེ་ལོ་བཅུ་པའི་དུས་
 
-<!-- pair: TGD-001167 | source: U01167 | role: main_text | format: prose -->
+[Not yet translated: U01166.]
+
+<!-- TGD-001167 -->
+
 རྒྱལ་པོ་རྡོ་རྟ་ཅན་གྱི་རིང་ལ་དགྲ་བཅོམ་གཉིས་འབྱུང་བར་གསུངས་ཤིང༌།
 
-<!-- pair: TGD-001168 | source: U01168 | role: main_text | format: prose -->
+[Not yet translated: U01167.]
+
+<!-- TGD-001168 -->
+
 མ་སྒྲུབ་ན་སངས་རྒྱས་བཞུགས་ཀྱང་མི་ཐོབ་པ་ལྷ་སྦྱིན་དང་ལེགས་སྐར་བཞིན་ནོ། །
 
-<!-- pair: TGD-001169 | source: U01169 | role: main_text | format: prose -->
+[Not yet translated: U01168.]
+
+<!-- TGD-001169 -->
+
 གསེར་འོད་ལས་ཀྱང།
 
-<!-- pair: TGD-001170 | source: U01170 | role: main_text | format: prose -->
+[Not yet translated: U01169.]
+
+<!-- TGD-001170 -->
+
 སངས་རྒྱས་མྱ་ངན་ཡོངས་མི་འདའ།
 
-<!-- pair: TGD-001171 | source: U01171 | role: main_text | format: prose -->
+[Not yet translated: U01170.]
+
+<!-- TGD-001171 -->
+
 གྲོལ་བ་རྒྱུན་མི་ཆད་པར་འཁོར་བ་མ་སྟོང་གི་བར་དུ་འབྱུང་ངོ་།༽
 
-<!-- pair: TGD-001172 | source: U01172 | role: main_text | format: prose -->
+[Not yet translated: U01171.]
+
+<!-- TGD-001172 -->
+
 དུས་བཞིར་བཞག་པ་ཤས་ཆེ་ཆུང་ངམ་གཙོ་ཕལ་ཙམ་ལས་འབྲས་ཐོབ་རྒྱུན་ཆད་མེད་དོ།
 
-<!-- pair: TGD-001173 | source: U01173 | role: main_text | format: prose -->
+[Not yet translated: U01172.]
+
+<!-- TGD-001173 -->
+
 རྡོ༽༽  བསླབ་གསུམ་ལས་ཚུལ་ཁྲིམས་བསླབ་པ་སྔོན་དུ་འགྲོ་བར་འདོད་དེ།
 
-<!-- pair: TGD-001174 | source: U01174 | role: main_text | format: prose -->
+[Not yet translated: U01173.]
+
+<!-- TGD-001174 -->
+
 ཞི་གནས་རབ་ཏུ་ལྡན་པའི་ལྷག་མཐོང་གིས་སོགས།
 
-<!-- pair: TGD-001175 | source: U01175 | role: main_text | format: prose -->
+[Not yet translated: U01174.]
+
+<!-- TGD-001175 -->
+
 ཅེས་པས་གོ་རིམ་ངེས་ཅན་ཡིན་ཟེར།
 
-<!-- pair: TGD-001176 | source: U01176 | role: main_text | format: prose -->
+[Not yet translated: U01175.]
+
+<!-- TGD-001176 -->
+
 འདིར་ནི་དེ་ཁོ་ནར་ངེས་ཏེ་
 
-<!-- pair: TGD-001177 | source: U01177 | role: main_text | format: prose -->
+[Not yet translated: U01176.]
+
+<!-- TGD-001177 -->
+
 ལྔ་སྡེ་བཟང་པོ་ཡེ་ཤེས་ཁོང་དུ་ཆུད་པས་བསྙེན་པར་རྫོགས་པ་དང༌།
 
-<!-- pair: TGD-001178 | source: U01178 | role: main_text | format: prose -->
+[Not yet translated: U01177.]
+
+<!-- TGD-001178 -->
+
 ཁྱིམ་བདག་གཙོ་བོའི་བུ་གྲགས་པ་ཁྱིམ་པའི་ཆ་བྱད་དུ་འདུག་བཞིན་པར་དགྲ་བཅོམ་པ་ཐོབ་ནས་
 
-<!-- pair: TGD-001179 | source: U01179 | role: main_text | format: prose -->
+[Not yet translated: U01178.]
+
+<!-- TGD-001179 -->
+
 ཕྱིས་རབ་ཏུ་བྱུང་བ་ལྟ་བུ་སྟེ།
 
-<!-- pair: TGD-001180 | source: U01180 | role: main_text | format: prose -->
+[Not yet translated: U01179.]
+
+<!-- TGD-001180 -->
+
 དབྱེ་ན་གཞི་ལས།
 
-<!-- pair: TGD-001181 | source: U01181 | role: main_text | format: prose -->
+[Not yet translated: U01180.]
+
+<!-- TGD-001181 -->
+
 རྒྱན་གྱི་རྒྱན་བཞིན་དུ་ནི་སོགས་དང།
 
-<!-- pair: TGD-001182 | source: U01182 | role: main_text | format: prose -->
+[Not yet translated: U01181.]
+
+<!-- TGD-001182 -->
+
 སྡུད་པ་ལས།
 
-<!-- pair: TGD-001183 | source: U01183 | role: main_text | format: prose -->
+[Not yet translated: U01182.]
+
+<!-- TGD-001183 -->
+
 སྦྱིན་པ་སྦྱིན་པའི་སྔོན་དུ་འགྲོ་བ་ཤེས་རབ་སྟེ།
 
-<!-- pair: TGD-001184 | source: U01184 | role: main_text | format: prose -->
+[Not yet translated: U01183.]
+
+<!-- TGD-001184 -->
+
 སོགས་གསུངས་པས།
 
-<!-- pair: TGD-001185 | source: U01185 | role: main_text | format: prose -->
+[Not yet translated: U01184.]
+
+<!-- TGD-001185 -->
+
 ཤེས་རབ་བསླབས་པ་ཐོག་མར་འགྲོ་བའང་ཡོད་དོ།
 
-<!-- pair: TGD-001186 | source: U01186 | role: main_text | format: prose -->
+[Not yet translated: U01185.]
+
+<!-- TGD-001186 -->
+
 རྡོ༽༽ མདོ་སྔགས་ལམ་གྱི་རིམ་པ་སྔགས་ལ་རིམ་ལྔ་སྦྱོར་དྲུག་སོགས་དང་མཚན་ཉིད་རིམ་པ་གསུམ་ཡོད་པས་
 
-<!-- pair: TGD-001187 | source: U01187 | role: main_text | format: prose -->
+[Not yet translated: U01186.]
+
+<!-- TGD-001187 -->
+
 སྔོན་དུ་འཆི་བ། མི་རྟག་པ། ལས་རྒྱུ་འབྲས། འཁོར་བའི་ཉེས་དམིགས། བསྐྱེད་རིམ་རྣམས་ལོ་བཅུ་གཉིས་རེ་བསྒོམས་ནས།
 
-<!-- pair: TGD-001188 | source: U01188 | role: main_text | format: prose -->
+[Not yet translated: U01187.]
+
+<!-- TGD-001188 -->
+
 དེ་རྗེས་བཅུ་གཉིས་རྫོགས་རིམ་བསྒོམ་པ་ཡིན་
 
-<!-- pair: TGD-001189 | source: U01189 | role: main_text | format: prose -->
+[Not yet translated: U01188.]
+
+<!-- TGD-001189 -->
+
 ཅེས་བཀའ་གདམས་པ་འགའ་ཞིག་གིས་ཟེར་རོ། །
 
-<!-- pair: TGD-001190 | source: U01190 | role: main_text | format: prose -->
+[Not yet translated: U01189.]
+
+<!-- TGD-001190 -->
+
 འདིར་ནི་ལམ་རིམ་ཐམས་ཅད་ཐུན་གཅིག་གི་སྟེང་དུའང་ཉམས་སུ་ལེན་དགོས་ཏེ།
 
-<!-- pair: TGD-001191 | source: U01191 | role: main_text | format: prose -->
+[Not yet translated: U01190.]
+
+<!-- TGD-001191 -->
+
 སྔ་ཐུན་དང་པོར་མི་རྟག་པ་ཐུན་གཅིག་མ་བསྒོམ་ན་
 
-<!-- pair: TGD-001192 | source: U01192 | role: main_text | format: prose -->
+[Not yet translated: U01191.]
+
+<!-- TGD-001192 -->
+
 འཇིག་རྟེན་རང་གར་འཁྱམས་འགྲོ་བའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-001193 | source: U01193 | role: main_text | format: prose -->
+[Not yet translated: U01192.]
+
+<!-- TGD-001193 -->
+
 དེ་རྗེས་ལས་རྒྱུ་འབྲས་འཁོར་བའི་ཉེས་དམིགས་ཐུན་གཅིག་མ སྒོམ་ན་
 
-<!-- pair: TGD-001194 | source: U01194 | role: main_text | format: prose -->
+[Not yet translated: U01193.]
+
+<!-- TGD-001194 -->
+
 ཉེས་པ་ལས་བཙན་པར་མི་འགྱུར་བའི་ཕྱིར་དང།
 
-<!-- pair: TGD-001195 | source: U01195 | role: main_text | format: prose -->
+[Not yet translated: U01194.]
+
+<!-- TGD-001195 -->
+
 དེ་རྗེས་བྱམས་སྙིང་རྗེ་བྱང་ཆུབ་ཀྱི་སེམས་མ་བསྒོམ་ན་
 
-<!-- pair: TGD-001196 | source: U01196 | role: main_text | format: prose -->
+[Not yet translated: U01195.]
+
+<!-- TGD-001196 -->
+
 དོན་དུ་མི་འགྱུར་བའི་ཕྱིར་དང་
 
-<!-- pair: TGD-001197 | source: U01197 | role: main_text | format: prose -->
+[Not yet translated: U01196.]
+
+<!-- TGD-001197 -->
+
 དེ་རྗེས་མཚན་ཉིད་ལྟར་ན་བདག་མེད་གཉིས་སྔགས་ལྟར་ན་
 
-<!-- pair: TGD-001198 | source: U01198 | role: main_text | format: prose -->
+[Not yet translated: U01197.]
+
+<!-- TGD-001198 -->
+
 བསྐྱེད་རྫོགས་གཉིས་དངོས་གཞི་མེད་ཐབས་མེད་པ་དང་
 
-<!-- pair: TGD-001199 | source: U01199 | role: main_text | format: prose -->
+[Not yet translated: U01198.]
+
+<!-- TGD-001199 -->
+
 དགེ་རྩ་བྱང་ཆུབ་ཏུ་བསྔོ་བ་དང་བཅས་པ་མེད་ན་ཆུད་ཟ་བའི་ཕྱིར།
 
-<!-- pair: TGD-001200 | source: U01200 | role: main_text | format: prose -->
+[Not yet translated: U01199.]
+
+<!-- TGD-001200 -->
+
 དེ་ལྟར་ཐུན་གཅིག་གི་སྟེང་དུ་ཉམས་སུ་ལེན་ན་ཇོ་བོ་རྗེའི་དགོངས་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-001201 | source: U01201 | role: main_text | format: prose -->
+[Not yet translated: U01200.]
+
+<!-- TGD-001201 -->
+
 རྡོ༽༽ ཞིང་གཅིག་ལ་སངས་རྒྱས་གཅིག་ལས་མི་འབྱུང་བ་
 
-<!-- pair: TGD-001202 | source: U01202 | role: main_text | format: prose -->
+[Not yet translated: U01201.]
+
+<!-- TGD-001202 -->
+
 དགོངས་འདུས་དང་བོན་འབུམ་ན་འདོད་འདོད་པས་
 
-<!-- pair: TGD-001203 | source: U01203 | role: main_text | format: prose -->
+[Not yet translated: U01202.]
+
+<!-- TGD-001203 -->
+
 དེ་ལྟར་ཡིན་པ་འགའ་ཞིག་གིས་ཟེར་ཡང་
 
-<!-- pair: TGD-001204 | source: U01204 | role: main_text | format: prose -->
+[Not yet translated: U01203.]
+
+<!-- TGD-001204 -->
+
 སངས་རྒྱས་ནི་གྲངས་མེད་བྱོན་པ་ཡོད་དེ་
 
-<!-- pair: TGD-001205 | source: U01205 | role: main_text | format: prose -->
+[Not yet translated: U01204.]
+
+<!-- TGD-001205 -->
+
 སངས་རྒྱས་རྣམས་ཀྱི་སྐུ་གསུང་ཐུགས་ཀྱི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོའི་རྣམ་འཕྲུལ་མཐའ་ཡས་ཤིང་ཐུག་པ་མེད་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-001206 | source: U01206 | role: main_text | format: prose -->
+[Not yet translated: U01205.]
+
+<!-- TGD-001206 -->
+
 རྡུལ་གཅིག་གི་ཁྱོན་ལ་རྡུལ་སྙེད་ཀྱི་སངས་རྒྱས་ཀྱི་མཛད་པ་སྟོན་པར་གསུངས་པའི་ཕྱིར་དང།
 
-<!-- pair: TGD-001207 | source: U01207 | role: main_text | format: prose -->
+[Not yet translated: U01206.]
+
+<!-- TGD-001207 -->
+
 རང་རེའི་སྟོན་པས་འདུས་པ་རིན་པོ་ཆེ་དང་
 
-<!-- pair: TGD-001208 | source: U01208 | role: main_text | format: prose -->
+[Not yet translated: U01207.]
+
+<!-- TGD-001208 -->
+
 པདྨ་དཀར་པོ་གསུངས་པའི་དུས་
 
-<!-- pair: TGD-001209 | source: U01209 | role: main_text | format: prose -->
+[Not yet translated: U01208.]
+
+<!-- TGD-001209 -->
+
 སངས་རྒྱས་དཔག་ཏུ་མེད་པར་འབྱོན་པར་གསུངས་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-001210 | source: U01210 | role: main_text | format: prose -->
+[Not yet translated: U01209.]
+
+<!-- TGD-001210 -->
+
 དགོངས་འདུས་ཀྱི་ལུང་དོན་མཛད་པ་
 
-<!-- pair: TGD-001211 | source: U01211 | role: main_text | format: prose -->
+[Not yet translated: U01210.]
+
+<!-- TGD-001211 -->
+
 ཞིང་དེར་མཐར་ཕྱིན་པ་ལ་དགོངས་ཤིང་
 
-<!-- pair: TGD-001212 | source: U01212 | role: main_text | format: prose -->
+[Not yet translated: U01211.]
+
+<!-- TGD-001212 -->
+
 བོན་ལུང་ནི་ལུང་དུ་མི་འགྲུབ་བོ། །
 
-<!-- pair: TGD-001213 | source: U01213 | role: main_text | format: prose -->
+[Not yet translated: U01212.]
+
+<!-- TGD-001213 -->
+
 རྒྱུད་གཉིས་མེད་རྣམས་ལས་ལྷ་སྦྱིན་དང་བདུད་དང་།
 
-<!-- pair: TGD-001214 | source: U01214 | role: main_text | format: prose -->
+[Not yet translated: U01213.]
+
+<!-- TGD-001214 -->
+
 འཁོར་རྣམས་སངས་རྒྱས་ཡིན་པར་གསུངས་སོ།
 
-<!-- pair: TGD-001215 | source: U01215 | role: main_text | format: prose -->
+[Not yet translated: U01214.]
+
+<!-- TGD-001215 -->
+
 རྟེན་འབྲེལ་གནད་བསྡུས་རྡོ་རྗེ་ཚིགས་རྐང་བཅོ་ལྔ་ལྷན་ཐབས་ཚིགས་རྐང་གཅིག་གི་འགྲེལ་བཤད་ཀྱི་སྐབས་ཏེ་གཉིས་པའོ། ༈
 
-<!-- pair: TGD-001216 | source: U01216 | role: main_text | format: prose -->
+[Not yet translated: U01215.]
+
+<!-- TGD-001216 -->
+
 གཞན་དག་ན་རེ་
 
-<!-- pair: TGD-001217 | source: U01217 | role: main_text | format: prose -->
+[Not yet translated: U01216.]
+
+<!-- TGD-001217 -->
+
 འདུལ་བའི་སྡེ་སྣོད་སོ་སོར་ཐར་པ་ཞེས་པ་
 
-<!-- pair: TGD-001218 | source: U01218 | role: main_text | format: prose -->
+[Not yet translated: U01217.]
+
+<!-- TGD-001218 -->
+
 རང་ཉིད་ཁོ་ན་ཐར་པའི་དོན་ཡིན་པས་ཐེག་དམན་སར་འདོད་པ་མང་མོད།
 
-<!-- pair: TGD-001219 | source: U01219 | role: main_text | format: prose -->
+[Not yet translated: U01218.]
+
+<!-- TGD-001219 -->
+
 འདིར་ནི་དམ་ཆོས་འདུལ་བ་ཐེག་པ་ཐུན་མོང་ཡིན་ཏེ་
 
-<!-- pair: TGD-001220 | source: U01220 | role: main_text | format: prose -->
+[Not yet translated: U01219.]
+
+<!-- TGD-001220 -->
+
 གནས་སྐབས་འཁོར་བའི་བདེ་སྐྱིད་ཀྱང་སོ་ཐར་སྡོམ་པར་བརྟེན་ནས་བྱུང་སྟེ་
 
-<!-- pair: TGD-001221 | source: U01221 | role: main_text | format: prose -->
+[Not yet translated: U01220.]
+
+<!-- TGD-001221 -->
+
 ཚུལ་ཁྲིམས་ཀྱིས་ནི་བདེ་འགྲོར་འགྲོ་ཞེས་དང་།
 
-<!-- pair: TGD-001222 | source: U01222 | role: main_text | format: prose -->
+[Not yet translated: U01221.]
+
+<!-- TGD-001222 -->
+
 ཞི་བ་ཉན་རང་མི་ལུས་ལ་བརྟེན་དགོས་ཤིང་
 
-<!-- pair: TGD-001223 | source: U01223 | role: main_text | format: prose -->
+[Not yet translated: U01222.]
+
+<!-- TGD-001223 -->
+
 ལུས་དེའང་ཚུལ་ཁྲིམས་ལ་རག་ལས་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-001224 | source: U01224 | role: main_text | format: prose -->
+[Not yet translated: U01223.]
+
+<!-- TGD-001224 -->
+
 མཐར་ཐུག་སངས་རྒྱས་ཀྱི་ཡོན་ཏན་སྟོབས་སོགས་ཚུལ་ཁྲིམས་ཀྱི་འབྲས་བུ་གསུངས་ཏེ།
 
-<!-- pair: TGD-001225 | source: U01225 | role: main_text | format: prose -->
+[Not yet translated: U01224.]
+
+<!-- TGD-001225 -->
+
 སྡུད་པ་ལས།
 
-<!-- pair: TGD-001226 | source: U01226 | role: main_text | format: prose -->
+[Not yet translated: U01225.]
+
+<!-- TGD-001226 -->
+
 ཚུལ་ཁྲིམས་ཀྱིས་ནི་ཞི་བ་འདོད་རྣམས་འཕགས་པར་འགྱུར། །
 
-<!-- pair: TGD-001227 | source: U01227 | role: main_text | format: prose -->
+[Not yet translated: U01226.]
+
+<!-- TGD-001227 -->
+
 སྟོབས་བཅུའི་སྤྱོད་ཡུལ་གནས་ཀྱང་ཚུལ་ཁྲིམས་ཉམས་པ་མེད།
 
-<!-- pair: TGD-001228 | source: U01228 | role: main_text | format: prose -->
+[Not yet translated: U01227.]
+
+<!-- TGD-001228 -->
+
 ཅེས་པ་ཐོག་མར་མཐོ་རིས་ཀྱི་ཡོན་ཏན་བར་དུ་ཉན་རང་གི་བྱང་ཆུབ།
 
-<!-- pair: TGD-001229 | source: U01229 | role: main_text | format: prose -->
+[Not yet translated: U01228.]
+
+<!-- TGD-001229 -->
+
 མཐར་ཐུག་བྱང་ཆུབ་ཆེན་པོའི་བར་ཚུལ་ཁྲིམས་ལས་བྱུང་བ་ནི༑
 
-<!-- pair: TGD-001230 | source: U01230 | role: main_text | format: prose -->
+[Not yet translated: U01229.]
+
+<!-- TGD-001230 -->
+
 བཤེས་སྤྲིང་ལས།
 
-<!-- pair: TGD-001231 | source: U01231 | role: main_text | format: prose -->
+[Not yet translated: U01230.]
+
+<!-- TGD-001231 -->
+
 ཁྲིམས་ནི་རྒྱུ་དང་མི་རྒྱུའི་ས་བཞིན་དུ།
 
-<!-- pair: TGD-001232 | source: U01232 | role: main_text | format: prose -->
+[Not yet translated: U01231.]
+
+<!-- TGD-001232 -->
+
 ཡོན་ཏན་ཀུན་གྱི་གཞི་རྟེན་ལགས་པར་གསུངས།
 
-<!-- pair: TGD-001233 | source: U01233 | role: main_text | format: prose -->
+[Not yet translated: U01232.]
+
+<!-- TGD-001233 -->
+
 ཞེས་པ་དང༌།
 
-<!-- pair: TGD-001234 | source: U01234 | role: main_text | format: prose -->
+[Not yet translated: U01233.]
+
+<!-- TGD-001234 -->
+
 ཐུན་མོང་དུ་སྲོག་གཅོད་པ་ལྟ་བུ་གཅིག་ལ་མཚོན་ན།
 
-<!-- pair: TGD-001235 | source: U01235 | role: main_text | format: prose -->
+[Not yet translated: U01234.]
+
+<!-- TGD-001235 -->
+
 འཇིག་རྟེན་པའི་མི་དགེ་བ།
 
-<!-- pair: TGD-001236 | source: U01236 | role: main_text | format: prose -->
+[Not yet translated: U01235.]
+
+<!-- TGD-001236 -->
+
 ཉན་རང་གི་ཕས་ཕམ།
 
-<!-- pair: TGD-001237 | source: U01237 | role: main_text | format: prose -->
+[Not yet translated: U01236.]
+
+<!-- TGD-001237 -->
+
 བྱང་སེམས་ཀྱི་རྩ་བ་ལྟ་བུ།
 
-<!-- pair: TGD-001238 | source: U01238 | role: main_text | format: prose -->
+[Not yet translated: U01237.]
+
+<!-- TGD-001238 -->
+
 སྔགས་སུ་བཅུད་རྣམས་ལྷར་གསུངས་ན་
 
-<!-- pair: TGD-001239 | source: U01239 | role: main_text | format: prose -->
+[Not yet translated: U01238.]
+
+<!-- TGD-001239 -->
+
 ལྟུང་བ་དེ་བས་ཆེ་བ་མེད་པས་
 
-<!-- pair: TGD-001240 | source: U01240 | role: main_text | format: prose -->
+[Not yet translated: U01239.]
+
+<!-- TGD-001240 -->
+
 དེ་ལྟར་ཐུན་མོང་དུ་གྲུབ་བོ།
 
-<!-- pair: TGD-001241 | source: U01241 | role: main_text | format: prose -->
+[Not yet translated: U01240.]
+
+<!-- TGD-001241 -->
+
 སོ་ཐར་གྱི་སྒྲ་དོན་པྲ་ཏི་མོཀྵ་ཞེས་པ་
 
-<!-- pair: TGD-001242 | source: U01242 | role: main_text | format: prose -->
+[Not yet translated: U01241.]
+
+<!-- TGD-001242 -->
+
 དྲི་མེད་བཤེས་ཉེན་གྱི་འགྲེལ་བ་བམ་པོ་ལྔ་བཅུ་པ་ལས།
 
-<!-- pair: TGD-001243 | source: U01243 | role: main_text | format: prose -->
+[Not yet translated: U01242.]
+
+<!-- TGD-001243 -->
+
 སོ་སོར་ཐར་པ་ཞེས་བྱ་བ་ནི་
 
-<!-- pair: TGD-001244 | source: U01244 | role: main_text | format: prose -->
+[Not yet translated: U01243.]
+
+<!-- TGD-001244 -->
+
 དགག་སྒྲུབ་ཀྱི་བསླབ་པ་སོ་སོར་མ་འདྲེས་ཕར་
 
-<!-- pair: TGD-001245 | source: U01245 | role: main_text | format: prose -->
+[Not yet translated: U01244.]
+
+<!-- TGD-001245 -->
+
 ཉམས་སུ་བླངས་པས་ཐར་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་མངོན་དུ་བྱེད་པའི་ཕྱིར་སོ་སོར་ཐར་པའོ།
 
-<!-- pair: TGD-001246 | source: U01246 | role: main_text | format: prose -->
+[Not yet translated: U01245.]
+
+<!-- TGD-001246 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-001247 | source: U01247 | role: main_text | format: prose -->
+[Not yet translated: U01246.]
+
+<!-- TGD-001247 -->
+
 སོ་ཐར་སྨྲོས་ཙམ་གྱིས་ཐེག་དམན་ཡིན་ན་
 
-<!-- pair: TGD-001248 | source: U01248 | role: main_text | format: prose -->
+[Not yet translated: U01247.]
+
+<!-- TGD-001248 -->
+
 བྱང་སེམས་དང་སྔགས་ཀྱི་སྡེ་སྣོད་ཀྱང་དམན་པར་ཐལ་ཏེ།
 
-<!-- pair: TGD-001249 | source: U01249 | role: main_text | format: prose -->
+[Not yet translated: U01248.]
+
+<!-- TGD-001249 -->
+
 དེ་དང་དེ་ལས་སྨྲས་པས་སོ།
 
-<!-- pair: TGD-001250 | source: U01250 | role: main_text | format: prose -->
+[Not yet translated: U01249.]
+
+<!-- TGD-001250 -->
+
 དེ་ཕྱིར་ལུང་རྣམ་འབྱེད་ལས།
 
-<!-- pair: TGD-001251 | source: U01251 | role: main_text | format: prose -->
+[Not yet translated: U01250.]
+
+<!-- TGD-001251 -->
+
 ཇི་ལྟར་འདི་ན་ཤིང་རྩ་གཙོ་བོ་སྟེ། །
 
-<!-- pair: TGD-001252 | source: U01252 | role: main_text | format: prose -->
+[Not yet translated: U01251.]
+
+<!-- TGD-001252 -->
+
 རྣམ་པར་འཕེལ་དང་ཀུན་འཛིན་གཉིས་ཀྱི་གཞི། །
 
-<!-- pair: TGD-001253 | source: U01253 | role: main_text | format: prose -->
+[Not yet translated: U01252.]
+
+<!-- TGD-001253 -->
+
 དེ་བཞིན་ཡོན་ཏན་ཚོགས་རྣམས་ཀུན་གྱི་ཡང་། །
 
-<!-- pair: TGD-001254 | source: U01254 | role: main_text | format: prose -->
+[Not yet translated: U01253.]
+
+<!-- TGD-001254 -->
+
 རྒྱུ་དང་རྩ་བ་འདུལ་བ་ཡིན་པར་གསུངས།
 
-<!-- pair: TGD-001255 | source: U01255 | role: main_text | format: prose -->
+[Not yet translated: U01254.]
+
+<!-- TGD-001255 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-001256 | source: U01256 | role: main_text | format: prose -->
+[Not yet translated: U01255.]
+
+<!-- TGD-001256 -->
+
 རྡོ༽༽ ཐེག་དམན་དུ་འདོད་མོད།
 
-<!-- pair: TGD-001257 | source: U01257 | role: main_text | format: prose -->
+[Not yet translated: U01256.]
+
+<!-- TGD-001257 -->
+
 ལྷག་པར་དུའང་ཐེག་པ་ཆེན་པོར་གསལ་བར་བཞུགས་ཏེ་
 
-<!-- pair: TGD-001258 | source: U01258 | role: main_text | format: prose -->
+[Not yet translated: U01257.]
+
+<!-- TGD-001258 -->
+
 སངས་རྒྱས་ཐོབ་བྱེད་ཀྱི་རྒྱུ་དང་པོ་སེམས་བསྐྱེད་པ་
 
-<!-- pair: TGD-001259 | source: U01259 | role: main_text | format: prose -->
+[Not yet translated: U01258.]
+
+<!-- TGD-001259 -->
+
 ལུང་སྨན་གཞི་ལས་
 
-<!-- pair: TGD-001260 | source: U01260 | role: main_text | format: prose -->
+[Not yet translated: U01259.]
+
+<!-- TGD-001260 -->
+
 འོད་ལྡན་དུ་སྐྱེ་བ་བཞེས་པ་ན་སངས་རྒྱས་ཀྱི་སྒྲ་ཐོས་ནས།
 
-<!-- pair: TGD-001261 | source: U01261 | role: main_text | format: prose -->
+[Not yet translated: U01260.]
+
+<!-- TGD-001261 -->
+
 གཏོང་བ་ལས་བྱུང་བསོད་ནམས་རྣམས་ལས་བྱུང་གང་ལ།།
 
-<!-- pair: TGD-001262 | source: U01262 | role: main_text | format: prose -->
+[Not yet translated: U01261.]
+
+<!-- TGD-001262 -->
+
 དེས་ནི་འཇིག་རྟེན་སངས་རྒྱས་ཉིད་ཐོབ་ཅིང༌། །
 
-<!-- pair: TGD-001263 | source: U01263 | role: main_text | format: prose -->
+[Not yet translated: U01262.]
+
+<!-- TGD-001263 -->
+
 འདོད་པའི་རིམས་ནད་ཀུན་ལས་ཐར་བར་བྱ།
 
-<!-- pair: TGD-001264 | source: U01264 | role: main_text | format: prose -->
+[Not yet translated: U01263.]
+
+<!-- TGD-001264 -->
+
 ཞེས་སེམས་བསྐྱེད་པ་དེར་བཤད་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-001265 | source: U01265 | role: main_text | format: prose -->
+[Not yet translated: U01264.]
+
+<!-- TGD-001265 -->
+
 བར་དུ་ལམ་ཕྱིན་དྲུག་རྫོགས་པའི་རིམ་པ་
 
-<!-- pair: TGD-001266 | source: U01266 | role: main_text | format: prose -->
+[Not yet translated: U01265.]
+
+<!-- TGD-001266 -->
+
 སྐྱེས་རབ་ལྔ་བརྒྱ་ན་མགོ་དང་རྐང་ལག་གཏོང་བ་སོགས་
 
-<!-- pair: TGD-001267 | source: U01267 | role: main_text | format: prose -->
+[Not yet translated: U01266.]
+
+<!-- TGD-001267 -->
+
 བྱ་དཀའ་བའི་སྤྱོད་པ་སྤྱད་ཚུལ་དེར་འཞུགས་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-001268 | source: U01268 | role: main_text | format: prose -->
+[Not yet translated: U01267.]
+
+<!-- TGD-001268 -->
+
 མཐར་བསྔོ་བ་སྨོན་ལམ་དང་གྲུབ་པའི་འབྲས་བུའང།
 
-<!-- pair: TGD-001269 | source: U01269 | role: main_text | format: prose -->
+[Not yet translated: U01268.]
+
+<!-- TGD-001269 -->
+
 སྦྱིན་པ་རྒྱ་ཆེན་སོགས།
 
-<!-- pair: TGD-001270 | source: U01270 | role: main_text | format: prose -->
+[Not yet translated: U01269.]
+
+<!-- TGD-001270 -->
+
 ཅེས་དང་མཛད་པ་བཅུ་གཉིས་དེ་ལས་
 
-<!-- pair: TGD-001271 | source: U01271 | role: main_text | format: prose -->
+[Not yet translated: U01270.]
+
+<!-- TGD-001271 -->
+
 བསྟན་པའི་ཕྱིར་དང་བསྟན་བཅོས་ལས་ཀྱང་བཀྲལ་བའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-001272 | source: U01272 | role: main_text | format: prose -->
+[Not yet translated: U01271.]
+
+<!-- TGD-001272 -->
+
 ལྷན༽༽ གཞན་དག་ན་རེ།
 
-<!-- pair: TGD-001273 | source: U01273 | role: main_text | format: prose -->
+[Not yet translated: U01272.]
+
+<!-- TGD-001273 -->
+
 སྤང་བྱ་རེ་རེའི་གཉེན་པོར་ཆོས་ཕུང་དེ་ཉིད་དུ་གསུངས་པས་ཆོས་ཕུང་ཐ་དད་ཡིན་ཟེར།
 
-<!-- pair: TGD-001274 | source: U01274 | role: main_text | format: prose -->
+[Not yet translated: U01273.]
+
+<!-- TGD-001274 -->
+
 འདིར་ནི་ཆོས་ཀུན་སོ་སོ་ཐར་པ་སོགས་སྡོམ་གསུམ་རེ་རེར་ཡང་འདུ་བར་གསུངས་ཏེ།
 
-<!-- pair: TGD-001275 | source: U01275 | role: main_text | format: prose -->
+[Not yet translated: U01274.]
+
+<!-- TGD-001275 -->
+
 དེའི་རྒྱུ་མཚན་སྤང་བྱའི་གྲངས་སུ་གསུངས་པ་མཐུན་ཡང་
 
-<!-- pair: TGD-001276 | source: U01276 | role: main_text | format: prose -->
+[Not yet translated: U01275.]
+
+<!-- TGD-001276 -->
+
 འདུ་ཚུལ་གསང་བསམ་ལས།
 
-<!-- pair: TGD-001277 | source: U01277 | role: main_text | format: prose -->
+[Not yet translated: U01276.]
+
+<!-- TGD-001277 -->
+
 སངས་རྒྱས་ཀྱིས་གསུངས་པའི་ཆོས་རྣམས་བསོད་ནམས་ཡེ་ཤེས་ཀྱི་ཚོགས་གཉིས་སུ་འདུ་བར་བྱའོ། །
 
-<!-- pair: TGD-001278 | source: U01278 | role: main_text | format: prose -->
+[Not yet translated: U01277.]
+
+<!-- TGD-001278 -->
+
 ཞེས་གསུངས་པས་
 
-<!-- pair: TGD-001279 | source: U01279 | role: main_text | format: prose -->
+[Not yet translated: U01278.]
+
+<!-- TGD-001279 -->
+
 ཐབས་ཤེས་དེ་གཉིས་ཀྱིས་སྡོམ་པ་གསུམ་ཀར་ཁྱབ་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-001280 | source: U01280 | role: main_text | format: prose -->
+[Not yet translated: U01279.]
+
+<!-- TGD-001280 -->
+
 རྡོ༽༽ འདུལ་འཛིན་ལ་ལའི་འདུལ་བའི་དོན་
 
-<!-- pair: TGD-001281 | source: U01281 | role: main_text | format: prose -->
+[Not yet translated: U01280.]
+
+<!-- TGD-001281 -->
+
 དགག་སྒྲུབ་ཏུ་བཅས་པའི་ཚུལ་ཁྲིམས་ནི་ཉན་ཐོས་ཀྱི་ཉམས་སུ་བླང་བྱ་ཡིན་པ་
 
-<!-- pair: TGD-001282 | source: U01282 | role: main_text | format: prose -->
+[Not yet translated: U01281.]
+
+<!-- TGD-001282 -->
+
 བོད་ཀྱི་འདུལ་འཛིན་དག་གིས་ཟེར་རོ།
 
-<!-- pair: TGD-001283 | source: U01283 | role: main_text | format: prose -->
+[Not yet translated: U01282.]
+
+<!-- TGD-001283 -->
+
 འདིར་ནི་འདུལ་བ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱི་ཡུལ་འདི་ཉིད་ཡིན་ཏེ་
 
-<!-- pair: TGD-001284 | source: U01284 | role: main_text | format: prose -->
+[Not yet translated: U01283.]
+
+<!-- TGD-001284 -->
+
 དེའང་མཁྱེན་པའི་ཡེ་ཤེས་སྟོབས་བཅུ་ལས་
 
-<!-- pair: TGD-001285 | source: U01285 | role: main_text | format: prose -->
+[Not yet translated: U01284.]
+
+<!-- TGD-001285 -->
+
 གནས་དང་གནས་མིན་སོགས་དགུ་ནི་ཇི་སྙེད་པ་ཐ་མ་ཟག་ཟད་མཁྱེན་པ་ཇི་ལྟ་བ་སྟེ།
 
-<!-- pair: TGD-001286 | source: U01286 | role: main_text | format: prose -->
+[Not yet translated: U01285.]
+
+<!-- TGD-001286 -->
+
 ཇི་སྙེད་མཁྱེན་པའི་སྟོབས་དགུ་ཀ་དགག་སྒྲུབ་ཀྱི་ཚུལ་ཁྲིམས་འདིས་བསྡུས་ཤིང་
 
-<!-- pair: TGD-001287 | source: U01287 | role: main_text | format: prose -->
+[Not yet translated: U01286.]
+
+<!-- TGD-001287 -->
+
 དེ་ལས་ཀྱང་ལས་དང་ལས་ཀྱི་རྣམ་སྨིན་མཁྱེན་པའི་སྟོབས་ལ་འཇུག །
 
-<!-- pair: TGD-001288 | source: U01288 | role: main_text | format: prose -->
+[Not yet translated: U01287.]
+
+<!-- TGD-001288 -->
+
 ཡེ་ཤེས་དེའི་གཟིགས་པས་བསླབ་པ་བཅས་ཏེ་ཉམས་སུ་བླངས་པས་
 
-<!-- pair: TGD-001289 | source: U01289 | role: main_text | format: prose -->
+[Not yet translated: U01288.]
+
+<!-- TGD-001289 -->
+
 སྟོབས་བཅུ་མངོན་དུ་བྱེད་པའི་ཚུལ་འདིས་སངས་རྒྱས་ཁོ་ནའི་སྤྱོད་ཡུལ་ཏེ།
 
-<!-- pair: TGD-001290 | source: U01290 | role: main_text | format: prose -->
+[Not yet translated: U01289.]
+
+<!-- TGD-001290 -->
+
 ལོ་པཎ་རྣམས་ཀྱིས་འདུལ་བའི་ཐད་དུ།
 
-<!-- pair: TGD-001291 | source: U01291 | role: main_text | format: prose -->
+[Not yet translated: U01290.]
+
+<!-- TGD-001291 -->
+
 ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-001292 | source: U01292 | role: main_text | format: prose -->
+[Not yet translated: U01291.]
+
+<!-- TGD-001292 -->
+
 ཞེས་པ་དང༌།
 
-<!-- pair: TGD-001293 | source: U01293 | role: main_text | format: prose -->
+[Not yet translated: U01292.]
+
+<!-- TGD-001293 -->
+
 དེ་ལྟར་ཉམས་སུ་བླངས་ན་སྟོན་པ་ཉིད་ཀྱི་བྱ་བ་བྱེད་པར་གསུངས་ཏེ།
 
-<!-- pair: TGD-001294 | source: U01294 | role: main_text | format: prose -->
+[Not yet translated: U01293.]
+
+<!-- TGD-001294 -->
+
 ང་ནི་མྱ་ངན་འདས་གྱུར་ན། །
 
-<!-- pair: TGD-001295 | source: U01295 | role: main_text | format: prose -->
+[Not yet translated: U01294.]
+
+<!-- TGD-001295 -->
+
 འདི་ནི་ཁྱོད་ཀྱི་སྟོན་པ་ཞེས། །
 
-<!-- pair: TGD-001296 | source: U01296 | role: main_text | format: prose -->
+[Not yet translated: U01295.]
+
+<!-- TGD-001296 -->
+
 རང་བྱུང་ཉིད་ཀྱིས་གུས་བཅས་པར། །
 
-<!-- pair: TGD-001297 | source: U01297 | role: main_text | format: prose -->
+[Not yet translated: U01296.]
+
+<!-- TGD-001297 -->
+
 ནན་ཏན་དགེ་སློང་ཚོགས་མདུན་བསྟོད།
 
-<!-- pair: TGD-001298 | source: U01298 | role: main_text | format: prose -->
+[Not yet translated: U01297.]
+
+<!-- TGD-001298 -->
+
 ཅེས་སོ། །
 
-<!-- pair: TGD-001299 | source: U01299 | role: main_text | format: prose -->
+[Not yet translated: U01298.]
+
+<!-- TGD-001299 -->
+
 ཚུལ་ཁྲིམས་ཐམས་ཅད་མཁྱེན་པ་འདི་ཡིན་པ་དེ་ལྟར་ན།
 
-<!-- pair: TGD-001300 | source: U01300 | role: main_text | format: prose -->
+[Not yet translated: U01299.]
+
+<!-- TGD-001300 -->
+
 དེ་བསྲུང་བའི་བཙུན་པར་ཡེ་ཤེས་ཡོད་པར་འགྱུར་རོ་ཞེ་ན།
 
-<!-- pair: TGD-001301 | source: U01301 | role: main_text | format: prose -->
+[Not yet translated: U01300.]
+
+<!-- TGD-001301 -->
+
 མངོན་གྱུར་དུ་མེད་ཀྱང་རང་བཞིན་དུ་ཡོད་དེ།
 
-<!-- pair: TGD-001302 | source: U01302 | role: main_text | format: prose -->
+[Not yet translated: U01301.]
+
+<!-- TGD-001302 -->
+
 དཔེར་ན་མཚམས་མེད་བྱེད་པའི་མི་ལ་དམྱལ་བ་པ་བྱས་པ་དང་འདྲའོ།
 
-<!-- pair: TGD-001303 | source: U01303 | role: main_text | format: prose -->
+[Not yet translated: U01302.]
+
+<!-- TGD-001303 -->
+
 རྡོ༽༽ མཚམས་མེད་སྒྲ་མི་སྙན་སྤྲུལ་པ་སྐྱེ་བ་ ༡ དང་།
 
-<!-- pair: TGD-001304 | source: U01304 | role: main_text | format: prose -->
+[Not yet translated: U01303.]
+
+<!-- TGD-001304 -->
+
 ཕ་མས་མ་གནང་བ་སོགས་གནས་པའི་དང་ ༢
 
-<!-- pair: TGD-001305 | source: U01305 | role: main_text | format: prose -->
+[Not yet translated: U01304.]
+
+<!-- TGD-001305 -->
+
 ནད་པ་ཡོན་ཏན་ཐོབ་པའི་ ༣ དང༌།
 
-<!-- pair: TGD-001306 | source: U01306 | role: main_text | format: prose -->
+[Not yet translated: U01305.]
+
+<!-- TGD-001306 -->
+
 གཞན་དོན་དུ་མི་མཛེས་པ་མཛེས་པའི་ ༤ དང༌།
 
-<!-- pair: TGD-001307 | source: U01307 | role: main_text | format: prose -->
+[Not yet translated: U01306.]
+
+<!-- TGD-001307 -->
+
 བར་ཆད་དེ་བཞི་ལས་སྐྱེ་བའི་བར་ཆད་གང་རུང་གཅིག་བྱུང་ན་སྡོམ་པ་མི་སྐྱེ་ཟེར།
 
-<!-- pair: TGD-001308 | source: U01308 | role: main_text | format: prose -->
+[Not yet translated: U01307.]
+
+<!-- TGD-001308 -->
+
 འདིར་ནི་བར་ཆད་ལྡན་ལ་སྡོམ་པ་སྐྱེ་བར་ངེས་ཏེ།
 
-<!-- pair: TGD-001309 | source: U01309 | role: main_text | format: prose -->
+[Not yet translated: U01308.]
+
+<!-- TGD-001309 -->
+
 དེ་དག་དགེ་སྦྱོད་གི་འབྲས་བུ་སྐྱེ་བའི་བར་ཆད་ལས་སྡོམ་པ་མིན་ཏེ།
 
-<!-- pair: TGD-001310 | source: U01310 | role: main_text | format: prose -->
+[Not yet translated: U01309.]
+
+<!-- TGD-001310 -->
+
 རབ་ཏུ་བྱུང་བའི་གཞི་ལས།
 
-<!-- pair: TGD-001311 | source: U01311 | role: main_text | format: prose -->
+[Not yet translated: U01310.]
+
+<!-- TGD-001311 -->
+
 ཁྱིམ་བདག་ཞིག་གི་བུས་མ་བསད་པར་འགྱོད་ནས་རབ་ཏུ་བྱུང།
 
-<!-- pair: TGD-001312 | source: U01312 | role: main_text | format: prose -->
+[Not yet translated: U01311.]
+
+<!-- TGD-001312 -->
+
 སྡེ་སྣོད་གསུམ་ཤེས་མཚམས་མེད་བྱེད་པ་མི་སྐྱེ་བའི་ཆོས་ཅན་ཡིན་པས་
 
-<!-- pair: TGD-001313 | source: U01313 | role: main_text | format: prose -->
+[Not yet translated: U01312.]
+
+<!-- TGD-001313 -->
+
 བཀྲོད་ཅིག་གསུངས་པས་བཀྲད།
 
-<!-- pair: TGD-001314 | source: U01314 | role: main_text | format: prose -->
+[Not yet translated: U01313.]
+
+<!-- TGD-001314 -->
+
 རྒྱ་མཚོའི་འགྲམ་དུ་ཕྱིན།
 
-<!-- pair: TGD-001315 | source: U01315 | role: main_text | format: prose -->
+[Not yet translated: U01314.]
+
+<!-- TGD-001315 -->
+
 སློབ་མ་བསྡུས་ཆོས་བཤད་པས་དགྲ་བཅོམ་པ་མང་པོ་བྱུང༌།
 
-<!-- pair: TGD-001316 | source: U01316 | role: main_text | format: prose -->
+[Not yet translated: U01315.]
+
+<!-- TGD-001316 -->
+
 ཚེ་འཕོས་ནས་དམྱལ་བར་སྐྱེས་མ་ཐག་
 
-<!-- pair: TGD-001317 | source: U01317 | role: main_text | format: prose -->
+[Not yet translated: U01316.]
+
+<!-- TGD-001317 -->
+
 མེ་ལ་བསྲོ་ཁང་གི་སྣང་བ་བྱུང་བར་བརྟེན་
 
-<!-- pair: TGD-001318 | source: U01318 | role: main_text | format: prose -->
+[Not yet translated: U01317.]
+
+<!-- TGD-001318 -->
+
 ལྷར་སྐྱེས་ནས་སངས་རྒྱས་ལས་ཆོས་ཐོས་པས་
 
-<!-- pair: TGD-001319 | source: U01319 | role: main_text | format: prose -->
+[Not yet translated: U01318.]
+
+<!-- TGD-001319 -->
+
 འབྲས་བུ་ཐོབ་པ་རབ་ཏུ་བྱུང་བའི་ཕན་ཡོན་ཡིན་ཏེ།
 
-<!-- pair: TGD-001320 | source: U01320 | role: main_text | format: prose -->
+[Not yet translated: U01319.]
+
+<!-- TGD-001320 -->
+
 རྣམ་སྨིན་སྐལ་ཆེན་དུ་གསུངས་ན་
 
-<!-- pair: TGD-001321 | source: U01321 | role: main_text | format: prose -->
+[Not yet translated: U01320.]
+
+<!-- TGD-001321 -->
+
 འདི་སྐྱེས་མ་ཐག་ལྷར་འཕོས་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-001322 | source: U01322 | role: main_text | format: prose -->
+[Not yet translated: U01321.]
+
+<!-- TGD-001322 -->
+
 འོ་ན་མ་སྐྱེས་དགྲ་སོགས་མཚམས་མེད་བྱས་པ་
 
-<!-- pair: TGD-001323 | source: U01323 | role: main_text | format: prose -->
+[Not yet translated: U01322.]
+
+<!-- TGD-001323 -->
+
 བདེན་པ་མཐོང་བར་གསུངས་པས་འགལ་ལོ་སྙམ་ན།
 
-<!-- pair: TGD-001324 | source: U01324 | role: main_text | format: prose -->
+[Not yet translated: U01323.]
+
+<!-- TGD-001324 -->
+
 དེ་དག་སྔོན་གྱི་རྒྱུའི་སྟོབས་ཀྱིས་རྐྱེན་མཚམས་མེད་པས་
 
-<!-- pair: TGD-001325 | source: U01325 | role: main_text | format: prose -->
+[Not yet translated: U01324.]
+
+<!-- TGD-001325 -->
+
 བར་དུ་གཅོད་མ་ནུས་པ་སྟེ་
 
-<!-- pair: TGD-001326 | source: U01326 | role: main_text | format: prose -->
+[Not yet translated: U01325.]
+
+<!-- TGD-001326 -->
+
 མ་སྐྱེས་དགྲས་སངས་རྒྱས་བྱེ་བ་ཕྲག་བདུན་ཅུ་རྩ་གཉིས་ལ་མཆོད་པར་གསུངས་པའི་རྒྱུ་ལྟ་བུའོ། །
 
-<!-- pair: TGD-001327 | source: U01327 | role: main_text | format: prose -->
+[Not yet translated: U01326.]
+
+<!-- TGD-001327 -->
+
 སྒྲ་མི་སྙན་པའང་རྐྱེན་གྱིས་བླངས་པ་མེད་ཀྱང་
 
-<!-- pair: TGD-001328 | source: U01328 | role: main_text | format: prose -->
+[Not yet translated: U01327.]
+
+<!-- TGD-001328 -->
+
 རང་བཞིན་གཤིས་ཀྱིས་ནི་ཡོད་
 
-<!-- pair: TGD-001329 | source: U01329 | role: main_text | format: prose -->
+[Not yet translated: U01328.]
+
+<!-- TGD-001329 -->
+
 དེ་ལྷར་སྐྱེས་ཤིང་སངས་རྒྱས་དང་མཇལ༌ཏེ༌འབྲས་བུ་ཐོབ་པར་གསུངས་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-001330 | source: U01330 | role: main_text | format: prose -->
+[Not yet translated: U01329.]
+
+<!-- TGD-001330 -->
+
 སྤྲུལ་པའང་ཀླུ་གཞོན་ནུ་ལྟ་བུ་ཚེ་འདིར་འབྲས་བུ་མི་ཐོབ་པ་ལས་
 
-<!-- pair: TGD-001331 | source: U01331 | role: main_text | format: prose -->
+[Not yet translated: U01330.]
+
+<!-- TGD-001331 -->
+
 སྡོམ་པ་མ་སྐྱེས་པ་ནི་མིན་ནོ་
 
-<!-- pair: TGD-001332 | source: U01332 | role: main_text | format: prose -->
+[Not yet translated: U01331.]
+
+<!-- TGD-001332 -->
+
 དེས་ན་བར་ཆད་ལྡན་ནའང་སྡོམ་པ་སྐྱེ་བར་སྒྲུབ་བོ།
 
-<!-- pair: TGD-001333 | source: U01333 | role: main_text | format: prose -->
+[Not yet translated: U01332.]
+
+<!-- TGD-001333 -->
+
 རྡོ༽༽ གཞན་གྱིས་བཞེད་པ་ནི།
 
-<!-- pair: TGD-001334 | source: U01334 | role: main_text | format: prose -->
+[Not yet translated: U01333.]
+
+<!-- TGD-001334 -->
+
 སྡོམ་པའི་ངོ་བོ་གཞན་གནོད་གཞི་བཅས་ལོག་པ་སོགས་ལེགས་པར་འདོད་པ་མང་མོད།
 
-<!-- pair: TGD-001335 | source: U01335 | role: main_text | format: prose -->
+[Not yet translated: U01334.]
+
+<!-- TGD-001335 -->
+
 འདིར་ནི་ངོ་བོ་རྣམ་པར་རིག་བྱེད་མིན་པའི་གཟུགས་དེ་དག་ལས་བྱེད་སྨྲའི་དེ་བཞེད་དེ་།
 
-<!-- pair: TGD-001336 | source: U01336 | role: main_text | format: prose -->
+[Not yet translated: U01335.]
+
+<!-- TGD-001336 -->
+
 གཟུགས་ཕུང་བཅུ་གཅིག་ལས་རིག་བྱེད་མིན་པ་སྡོམ་པ།
 
-<!-- pair: TGD-001337 | source: U01337 | role: main_text | format: prose -->
+[Not yet translated: U01336.]
+
+<!-- TGD-001337 -->
+
 སྡོམ་མའི་བར་མའི་གཟུགས་གསུམ་ལས་སྡོམ་པའི་གཟུགས་ཏེ།
 
-<!-- pair: TGD-001338 | source: U01338 | role: main_text | format: prose -->
+[Not yet translated: U01337.]
+
+<!-- TGD-001338 -->
+
 དེའང་དངོས་གཞི་རང་དང་མཁན་སློབ་སོགས་རྣམ་པར་རིག་བྱེད་དང་རིག་མིན་གཉིས་ཀའི་གཟུགས་དང་
 
-<!-- pair: TGD-001339 | source: U01339 | role: main_text | format: prose -->
+[Not yet translated: U01338.]
+
+<!-- TGD-001339 -->
+
 སྐད་ཅིག་གཉིས་པ་རིག་མིན་གྱི་གཟུགས་ཅན་དུ་ཁམས་བཅོ་བརྒྱད་ལས་ཆོས་ཁམས།
 
-<!-- pair: TGD-001340 | source: U01340 | role: main_text | format: prose -->
+[Not yet translated: U01339.]
+
+<!-- TGD-001340 -->
+
 སྐྱེ་མཆེད་བཅུ་གཉིས་ལས་ཆོས་ཀྱི་སྐྱེ་མཆེད་རྣམ་པ་བསྟན་དུ་མེད་ཅིང་
 
-<!-- pair: TGD-001341 | source: U01341 | role: main_text | format: prose -->
+[Not yet translated: U01340.]
+
+<!-- TGD-001341 -->
+
 ཐོག་པ་མེད་པ་སྤང་བྱ་སྤོང་བ་ལ་ཆུའི་ཆུ་ལོན་ནམ་ཤཱ་རག་ལྟར་གནས་ཏེ་
 
-<!-- pair: TGD-001342 | source: U01342 | role: main_text | format: prose -->
+[Not yet translated: U01341.]
+
+<!-- TGD-001342 -->
+
 མཛོད་ལས།
 
-<!-- pair: TGD-001343 | source: U01343 | role: main_text | format: prose -->
+[Not yet translated: U01342.]
+
+<!-- TGD-001343 -->
+
 དེ་གསུམ་རྣམ་རིག་བྱེད་མིན་དང༌།
 
-<!-- pair: TGD-001344 | source: U01344 | role: main_text | format: prose -->
+[Not yet translated: U01343.]
+
+<!-- TGD-001344 -->
+
 འདུས་མ་བྱས་དང་བྱས་རྣམས་དང༌།
 
-<!-- pair: TGD-001345 | source: U01345 | role: main_text | format: prose -->
+[Not yet translated: U01344.]
+
+<!-- TGD-001345 -->
+
 ཆོས་ཀྱི་སྐྱེ་མཆེད་ཁམས་ཞེས་བྱ།
 
-<!-- pair: TGD-001346 | source: U01346 | role: main_text | format: prose -->
+[Not yet translated: U01345.]
+
+<!-- TGD-001346 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-001347 | source: U01347 | role: main_text | format: prose -->
+[Not yet translated: U01346.]
+
+<!-- TGD-001347 -->
+
 དེ་ཁོ་ན་ཉིད་བཞེད་པའི་གནད་ཀྱང་
 
-<!-- pair: TGD-001348 | source: U01348 | role: main_text | format: prose -->
+[Not yet translated: U01347.]
+
+<!-- TGD-001348 -->
+
 ཆོས་ཐམས་ཅད་བསམ་པ་སྐད་ཅིག་མའི་རང་གཟུགས་ཡིན་པ་
 
-<!-- pair: TGD-001349 | source: U01349 | role: main_text | format: prose -->
+[Not yet translated: U01348.]
+
+<!-- TGD-001349 -->
+
 དགེ་མི་དགེའི་བསམ་པ་གང་དེའི་རང་གཟུགས་སུ་འགྲུབ་པས་ནའོ། །
 
-<!-- pair: TGD-001350 | source: U01350 | role: main_text | format: prose -->
+[Not yet translated: U01349.]
+
+<!-- TGD-001350 -->
+
 རྡོ༽༽ གཞི་བསམ་སྦྱོར་བ་མཐར་ཐུག་བཞི་དང་ལྡན་ན་རྫོགས་པ་ཡིན་ཏེ་
 
-<!-- pair: TGD-001351 | source: U01351 | role: main_text | format: prose -->
+[Not yet translated: U01350.]
+
+<!-- TGD-001351 -->
+
 དེའང་འདུ་ཤེས་གཙོ་བོ་དང་དངོས་པོ་གཙོ་བོ་གཉིས་སུ་བཤད་མོད།
 
-<!-- pair: TGD-001352 | source: U01352 | role: main_text | format: prose -->
+[Not yet translated: U01351.]
+
+<!-- TGD-001352 -->
+
 འདིར་ནི་ཆོས་ཐམས་ཅད་རྩ་བ་སེམས་
 
-<!-- pair: TGD-001353 | source: U01353 | role: main_text | format: prose -->
+[Not yet translated: U01352.]
+
+<!-- TGD-001353 -->
+
 དེས་བསྒྲུབས་པའི་ལས་
 
-<!-- pair: TGD-001354 | source: U01354 | role: main_text | format: prose -->
+[Not yet translated: U01353.]
+
+<!-- TGD-001354 -->
+
 དེའི་རྣམ་སྨིན་དང་གསུམ་ལས་
 
-<!-- pair: TGD-001355 | source: U01355 | role: main_text | format: prose -->
+[Not yet translated: U01354.]
+
+<!-- TGD-001355 -->
+
 སེམས་འགགས་ན་ལས་དང་རྣམ་སྨིན་འགགས་པར་གསུངས་པས་
 
-<!-- pair: TGD-001356 | source: U01356 | role: main_text | format: prose -->
+[Not yet translated: U01355.]
+
+<!-- TGD-001356 -->
+
 སེམས་དགེ་ན་ལས་དང་པོ་དང་རྣམ་སྨིན་ཡང་དགེ་སྟེ་སྨན་གྱི་ས་བོན་བཞིན་དང༌།
 
-<!-- pair: TGD-001357 | source: U01357 | role: main_text | format: prose -->
+[Not yet translated: U01356.]
+
+<!-- TGD-001357 -->
+
 དེ་ལས་ལྡོག་ན་དུག་གི་ས་བོན་བཞིན་ནོ། །
 
-<!-- pair: TGD-001358 | source: U01358 | role: main_text | format: prose -->
+[Not yet translated: U01357.]
+
+<!-- TGD-001358 -->
+
 དེའི་ཕྱིར་དེས་པས་ཞུས་པ་ལས།
 
-<!-- pair: TGD-001359 | source: U01359 | role: main_text | format: prose -->
+[Not yet translated: U01358.]
+
+<!-- TGD-001359 -->
+
 ས་བོན་ཚ་བ་རྣམས་ལ་ནི།
 
-<!-- pair: TGD-001360 | source: U01360 | role: main_text | format: prose -->
+[Not yet translated: U01359.]
+
+<!-- TGD-001360 -->
+
 འབྲས་བུ་ཚ་བ་སྐྱེ་བར་འགྱུར། །
 
-<!-- pair: TGD-001361 | source: U01361 | role: main_text | format: prose -->
+[Not yet translated: U01360.]
+
+<!-- TGD-001361 -->
+
 ས་བོན་མངར་བ་རྣམས་ལ་ནི། །
 
-<!-- pair: TGD-001362 | source: U01362 | role: main_text | format: prose -->
+[Not yet translated: U01361.]
+
+<!-- TGD-001362 -->
+
 འབྲས་བུ་མངར་བ་སྐྱེ་བར་འགྱུར།
 
-<!-- pair: TGD-001363 | source: U01363 | role: main_text | format: prose -->
+[Not yet translated: U01362.]
+
+<!-- TGD-001363 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-001364 | source: U01364 | role: main_text | format: prose -->
+[Not yet translated: U01363.]
+
+<!-- TGD-001364 -->
+
 ཁྱོད་ཀྱི་ཐུགས་འདུལ་མཛོད་ཅིག་བཅོམ་ལྡན་གྱིས།
 
-<!-- pair: TGD-001365 | source: U01365 | role: main_text | format: prose -->
+[Not yet translated: U01364.]
+
+<!-- TGD-001365 -->
+
 སེམས་ནི་ཆོས་ཀྱི་སོཌ་དང༌།
 
-<!-- pair: TGD-001366 | source: U01366 | role: main_text | format: prose -->
+[Not yet translated: U01365.]
+
+<!-- TGD-001366 -->
+
 ལས་རྣམ་འབྱེད་ལས།
 
-<!-- pair: TGD-001367 | source: U01367 | role: main_text | format: prose -->
+[Not yet translated: U01366.]
+
+<!-- TGD-001367 -->
+
 བྱས་ལ་མ་བསགས་པ་སོགས་བཞི་གསུངས་
 
-<!-- pair: TGD-001368 | source: U01368 | role: main_text | format: prose -->
+[Not yet translated: U01367.]
+
+<!-- TGD-001368 -->
+
 སེམས་ལ་རྨ་བྱུང་ན་ཉེས་པ་མེད་པར་གསུངས་པས་
 
-<!-- pair: TGD-001369 | source: U01369 | role: main_text | format: prose -->
+[Not yet translated: U01368.]
+
+<!-- TGD-001369 -->
+
 དེའི་ཕྱིར་ལྟུང་བ་མཐའ་དག་ལ་ནི་ཀུན་སློང་བསམ་པ་འདུ་ཤེས་གཙོ་སྟེ་
 
-<!-- pair: TGD-001370 | source: U01370 | role: main_text | format: prose -->
+[Not yet translated: U01369.]
+
+<!-- TGD-001370 -->
+
 དགེ་སློང་དགོན་པ་བ་ཚོགས་ཅན་མི་སྐབས་པ་བཟང་མོ་བཞིན་ནོ།
 
-<!-- pair: TGD-001371 | source: U01371 | role: main_text | format: prose -->
+[Not yet translated: U01370.]
+
+<!-- TGD-001371 -->
+
 རྡོ༽༽ སོ་ཐར་གྱི་སྡོམ་པ་ནི་གཙོ་བོར་ལུས་ངག་གི་སྤོང་བ་བདུན་དང་
 
-<!-- pair: TGD-001372 | source: U01372 | role: main_text | format: prose -->
+[Not yet translated: U01371.]
+
+<!-- TGD-001372 -->
+
 འཁོར་ཡིད་ཀྱི་གསུམ་པོ་དེ་ཞོར་ལ་སྤོང་བས་
 
-<!-- pair: TGD-001373 | source: U01373 | role: main_text | format: prose -->
+[Not yet translated: U01372.]
+
+<!-- TGD-001373 -->
+
 སྤོང་བདུན་འཁོར་བཅས་ཡིན་ཟེར་བ་དང་།
 
-<!-- pair: TGD-001374 | source: U01374 | role: main_text | format: prose -->
+[Not yet translated: U01373.]
+
+<!-- TGD-001374 -->
+
 ཡིད་ཀྱི་གསུམ་ནི་བྱང་སེམས་ཀྱི་ཡིན་པས་
 
-<!-- pair: TGD-001375 | source: U01375 | role: main_text | format: prose -->
+[Not yet translated: U01374.]
+
+<!-- TGD-001375 -->
+
 སྤོང་འདུན་ཁོ་ན་ལས་མི་དགོས་ཟེར་རོ། །
 
-<!-- pair: TGD-001376 | source: U01376 | role: main_text | format: prose -->
+[Not yet translated: U01375.]
+
+<!-- TGD-001376 -->
+
 འདིར་ནི་ཡིད་ཀྱི་གསུམ་ནི་དུག་གསུམ་ཡིན་ཞིང་
 
-<!-- pair: TGD-001377 | source: U01377 | role: main_text | format: prose -->
+[Not yet translated: U01376.]
+
+<!-- TGD-001377 -->
+
 དེས་བསྐྱེད་པའི་ལས་སྡིག་པ་ཡིན་པ་དེ་སོ་ཐར་གྱིས་སྤོང་དགོས་ཏེ།
 
-<!-- pair: TGD-001378 | source: U01378 | role: main_text | format: prose -->
+[Not yet translated: U01377.]
+
+<!-- TGD-001378 -->
+
 ལུང་རྣམ་འབྱེད་ལས།
 
-<!-- pair: TGD-001379 | source: U01379 | role: main_text | format: prose -->
+[Not yet translated: U01378.]
+
+<!-- TGD-001379 -->
+
 ངས་འདོད་ཆགས་་་འདོད་ཆགས་དང་བྲལ་བའི་ཕྱིར་།
 
-<!-- pair: TGD-001380 | source: U01380 | role: main_text | format: prose -->
+[Not yet translated: U01379.]
+
+<!-- TGD-001380 -->
+
 སེམས་རྣམ་པར་གྲོལ་བ་དང་
 
-<!-- pair: TGD-001381 | source: U01381 | role: main_text | format: prose -->
+[Not yet translated: U01380.]
+
+<!-- TGD-001381 -->
+
 ཤེས་རབ་རྣམ་པར་གྲོལ་བའི་ཆོས་བསྟན་པ་ཅེས་སོགས་དང་།
 
-<!-- pair: TGD-001382 | source: U01382 | role: main_text | format: prose -->
+[Not yet translated: U01381.]
+
+<!-- TGD-001382 -->
+
 སྡིག་པ་ཅི་ཡང་མི་བྱ་ཞིང།
 
-<!-- pair: TGD-001383 | source: U01383 | role: main_text | format: prose -->
+[Not yet translated: U01382.]
+
+<!-- TGD-001383 -->
+
 དགེ་བx
 
-<!-- pair: TGD-001384 | source: U01384 | role: main_text | format: prose -->
+[Not yet translated: U01383.]
+
+<!-- TGD-001384 -->
+
 རང་གིx
 
-<!-- pair: TGD-001385 | source: U01385 | role: main_text | format: prose -->
+[Not yet translated: U01384.]
+
+<!-- TGD-001385 -->
+
 འདི་ནི་ x
 
-<!-- pair: TGD-001386 | source: U01386 | role: main_text | format: prose -->
+[Not yet translated: U01385.]
+
+<!-- TGD-001386 -->
+
 ཅེས་དང༌།
 
-<!-- pair: TGD-001387 | source: U01387 | role: main_text | format: prose -->
+[Not yet translated: U01386.]
+
+<!-- TGD-001387 -->
+
 ལུས་ཀྱི་སྡོམ་པ་ལེགས་པ་ན།
 
-<!-- pair: TGD-001388 | source: U01388 | role: main_text | format: prose -->
+[Not yet translated: U01387.]
+
+<!-- TGD-001388 -->
+
 ངག་གི x
 
-<!-- pair: TGD-001389 | source: U01389 | role: main_text | format: prose -->
+[Not yet translated: U01388.]
+
+<!-- TGD-001389 -->
+
 ཡིད་ཀྱིx
 
-<!-- pair: TGD-001390 | source: U01390 | role: main_text | format: prose -->
+[Not yet translated: U01389.]
+
+<!-- TGD-001390 -->
+
 ཐམས་ཅད་དུ x
 
-<!-- pair: TGD-001391 | source: U01391 | role: main_text | format: prose -->
+[Not yet translated: U01390.]
+
+<!-- TGD-001391 -->
+
 ཞེས་གསུངས་པས།
 
-<!-- pair: TGD-001392 | source: U01392 | role: main_text | format: prose -->
+[Not yet translated: U01391.]
+
+<!-- TGD-001392 -->
+
 ཡིད་ཀྱི་གསུམ་པོ་སྡིག་པ་མིན་པར་ཐལ།
 
-<!-- pair: TGD-001393 | source: U01393 | role: main_text | format: prose -->
+[Not yet translated: U01392.]
+
+<!-- TGD-001393 -->
+
 ཁྱེད་རང་གིས་བཞེད་པས།
 
-<!-- pair: TGD-001394 | source: U01394 | role: main_text | format: prose -->
+[Not yet translated: U01393.]
+
+<!-- TGD-001394 -->
+
 ངེས་འབྱུང་གིས་ཐོབ་པ་དེ་ཡིད་མིན་པར་ཐལ།
 
-<!-- pair: TGD-001395 | source: U01395 | role: main_text | format: prose -->
+[Not yet translated: U01394.]
+
+<!-- TGD-001395 -->
+
 འདོད་མི་ནུས་ཏེ།
 
-<!-- pair: TGD-001396 | source: U01396 | role: main_text | format: prose -->
+[Not yet translated: U01395.]
+
+<!-- TGD-001396 -->
+
 མངོན་སུམ་གྱིས་བསལ་ལོ། །
 
-<!-- pair: TGD-001397 | source: U01397 | role: main_text | format: prose -->
+[Not yet translated: U01396.]
+
+<!-- TGD-001397 -->
+
 དེས་ན་ལུས་ཀྱི་སྤྱོད་ཚུལ་བཟང་ཡང་མི་ཕན་ཏེ་
 
-<!-- pair: TGD-001398 | source: U01398 | role: main_text | format: prose -->
+[Not yet translated: U01397.]
+
+<!-- TGD-001398 -->
+
 ཐབ་ཀྱི་མེ་བསད་ན་སྐར་ཁུང་གི་དུ་བ་ཆད་པ་བཞིན་
 
-<!-- pair: TGD-001399 | source: U01399 | role: main_text | format: prose -->
+[Not yet translated: U01398.]
+
+<!-- TGD-001399 -->
+
 ཡིད་བཀག་ན་ལུས་ངག་་་་ཁེག་ཅིང།
 
-<!-- pair: TGD-001400 | source: U01400 | role: main_text | format: prose -->
+[Not yet translated: U01399.]
+
+<!-- TGD-001400 -->
+
 མ་བཀག་ན་མི་ཁེག་པ་
 
-<!-- pair: TGD-001401 | source: U01401 | role: main_text | format: prose -->
+[Not yet translated: U01400.]
+
+<!-- TGD-001401 -->
+
 ཉེས་པས་བསྐྱེད་པས་འཁོར་ལོ་བསྒྱུར་བའི་རྒྱལ་པོ་བཞིན་ནོ།
 
-<!-- pair: TGD-001402 | source: U01402 | role: main_text | format: prose -->
+[Not yet translated: U01401.]
+
+<!-- TGD-001402 -->
+
 དེ་ཕྱིར་ཡིད་ཀྱི་རྣམ་གསུམ་གཙོ་བོར་སྤོང་བ་དགོས་སོ།
 
-<!-- pair: TGD-001403 | source: U01403 | role: main_text | format: prose -->
+[Not yet translated: U01402.]
+
+<!-- TGD-001403 -->
+
 རྡོ༽༽ མཛོད་ལས།
 
-<!-- pair: TGD-001404 | source: U01404 | role: main_text | format: prose -->
+[Not yet translated: U01403.]
+
+<!-- TGD-001404 -->
+
 བསླབ་པ་ཕུལ་དང་ཤི་འཕོས་དང༌། །
 
-<!-- pair: TGD-001405 | source: U01405 | role: main_text | format: prose -->
+[Not yet translated: U01404.]
+
+<!-- TGD-001405 -->
+
 རྩ་བ་ཆད་དང་མཚན་འདས་དང༌།
 
-<!-- pair: TGD-001406 | source: U01406 | role: main_text | format: prose -->
+[Not yet translated: U01405.]
+
+<!-- TGD-001406 -->
+
 མཚན་གཉིས་གཅིག་ཆར་བྱུང་བ་ན།
 
-<!-- pair: TGD-001407 | source: U01407 | role: main_text | format: prose -->
+[Not yet translated: U01406.]
+
+<!-- TGD-001407 -->
+
 སོ་སོར་ཐར་པའི་སྡོམ་པ་གཏོད།
 
-<!-- pair: TGD-001408 | source: U01408 | role: main_text | format: prose -->
+[Not yet translated: U01407.]
+
+<!-- TGD-001408 -->
+
 ཞེས་པ་ལྔ་དང།
 
-<!-- pair: TGD-001409 | source: U01409 | role: main_text | format: prose -->
+[Not yet translated: U01408.]
+
+<!-- TGD-001409 -->
+
 འདུལ་ལུང༌ལས།
 
-<!-- pair: TGD-001410 | source: U01410 | role: main_text | format: prose -->
+[Not yet translated: U01409.]
+
+<!-- TGD-001410 -->
+
 མཚན་ལན་གསུམ་འགྱུར་བ།
 
-<!-- pair: TGD-001411 | source: U01411 | role: main_text | format: prose -->
+[Not yet translated: U01410.]
+
+<!-- TGD-001411 -->
+
 ཉི་ཤུ་མ་ལོན།
 
-<!-- pair: TGD-001412 | source: U01412 | role: main_text | format: prose -->
+[Not yet translated: U01411.]
+
+<!-- TGD-001412 -->
+
 བསྙེན་རྫོགས་ཤེས་པ།
 
-<!-- pair: TGD-001413 | source: U01413 | role: main_text | format: prose -->
+[Not yet translated: U01412.]
+
+<!-- TGD-001413 -->
+
 དམ་ཆོས་ནུབ་པ།
 
-<!-- pair: TGD-001414 | source: U01414 | role: main_text | format: prose -->
+[Not yet translated: U01413.]
+
+<!-- TGD-001414 -->
+
 རྩ་ལྟུང་བྱུང་བ་སྟེ་དགུ་པོས་གཏོང་བར་གསུངས་མོད།
 
-<!-- pair: TGD-001415 | source: U01415 | role: main_text | format: prose -->
+[Not yet translated: U01414.]
+
+<!-- TGD-001415 -->
+
 འདིར་ནི་གཏོང་བའི་རྒྱུ་དགུ་པོ་དེ་ཡི་ནང་ནས་མི་གཏོང་བ་ཡང་འགས་ཞིག་ཡོད་དེ་
 
-<!-- pair: TGD-001416 | source: U01416 | role: main_text | format: prose -->
+[Not yet translated: U01415.]
+
+<!-- TGD-001416 -->
+
 ལུང་རྣམ་འབྱེད་ལས་ཕུལ་བ་མ་ཉམས་པ།
 
-<!-- pair: TGD-001417 | source: U01417 | role: main_text | format: prose -->
+[Not yet translated: U01416.]
+
+<!-- TGD-001417 -->
+
 ཉམས་ལ་མ་ཕུལ་བ།
 
-<!-- pair: TGD-001418 | source: U01418 | role: main_text | format: prose -->
+[Not yet translated: U01417.]
+
+<!-- TGD-001418 -->
+
 ཕུལ་ཡང་ཕུལ་ལ་ཉམས་ཡང་ཉམས་པ་སྟེ་
 
-<!-- pair: TGD-001419 | source: U01419 | role: main_text | format: prose -->
+[Not yet translated: U01418.]
+
+<!-- TGD-001419 -->
+
 མུ་གཞིར་གསུངས་པ་གསུམ་པས་གཏོང༌།
 
-<!-- pair: TGD-001420 | source: U01420 | role: main_text | format: prose -->
+[Not yet translated: U01419.]
+
+<!-- TGD-001420 -->
+
 དབང་རབ་ཤི་འཕོས་པས་མི་གཏོང་སྟེ།
 
-<!-- pair: TGD-001421 | source: U01421 | role: main_text | format: prose -->
+[Not yet translated: U01420.]
+
+<!-- TGD-001421 -->
+
 སེམས་སྐྱེ་བའི་ཉོན་མོངས་པ་བསྡམས་ནས་
 
-<!-- pair: TGD-001422 | source: U01422 | role: main_text | format: prose -->
+[Not yet translated: U01421.]
+
+<!-- TGD-001422 -->
+
 ཡུལ་གྱི་རྗེས་སུ་མི་འབྲང་བས་ཚུལ་ཁྲིམས་རབ་ཏུ་གྱུར་པའི་ཕྱིར།
 
-<!-- pair: TGD-001423 | source: U01423 | role: main_text | format: prose -->
+[Not yet translated: U01422.]
+
+<!-- TGD-001423 -->
+
 ཕལ་ཆེན་ལས།
 
-<!-- pair: TGD-001424 | source: U01424 | role: main_text | format: prose -->
+[Not yet translated: U01423.]
+
+<!-- TGD-001424 -->
+
 དགེ་དང་མི་དགེ་རྣམ་སྨིན་གོམས་བྱས་ན།
 
-<!-- pair: TGD-001425 | source: U01425 | role: main_text | format: prose -->
+[Not yet translated: U01424.]
+
+<!-- TGD-001425 -->
+
 མི་རྣམས་ལ་ནི་འདྲེས་པ་ཉིད་དུ་འགྱུར།
 
-<!-- pair: TGD-001426 | source: U01426 | role: main_text | format: prose -->
+[Not yet translated: U01425.]
+
+<!-- TGD-001426 -->
+
 དེ་ལྟ་བུ་དག་ཆེད་དུ་མ་བསྒྲུབ་ཀྱང་།
 
-<!-- pair: TGD-001427 | source: U01427 | role: main_text | format: prose -->
+[Not yet translated: U01426.]
+
+<!-- TGD-001427 -->
+
 སྲིད་པ་གཞན་ལ་རྨི་ལམ་བཞིན་དུ་སྤྱོད།
 
-<!-- pair: TGD-001428 | source: U01428 | role: main_text | format: prose -->
+[Not yet translated: U01427.]
+
+<!-- TGD-001428 -->
+
 ཅེས་དང་།
 
-<!-- pair: TGD-001429 | source: U01429 | role: main_text | format: prose -->
+[Not yet translated: U01428.]
+
+<!-- TGD-001429 -->
+
 ཁྲི་རྐང་གི་གླིང་གཞི་ལས།
 
-<!-- pair: TGD-001430 | source: U01430 | role: main_text | format: prose -->
+[Not yet translated: U01429.]
+
+<!-- TGD-001430 -->
+
 དགེ་སློང་དགོན་པ་བ་ཞིག་ཚེ་འཕོས་ནས་
 
-<!-- pair: TGD-001431 | source: U01431 | role: main_text | format: prose -->
+[Not yet translated: U01430.]
+
+<!-- TGD-001431 -->
+
 ལྷར་སྐྱེས་འདོད་ཡོན་སྟབས་ཀྱང་
 
-<!-- pair: TGD-001432 | source: U01432 | role: main_text | format: prose -->
+[Not yet translated: U01431.]
+
+<!-- TGD-001432 -->
+
 འདུ་ཤེས་དང་མ་བྲལ་བས་དང་དུ་མ་བླང་བར་གསུངས་པའི་ཕྱིར།
 
-<!-- pair: TGD-001433 | source: U01433 | role: main_text | format: prose -->
+[Not yet translated: U01432.]
+
+<!-- TGD-001433 -->
+
 དབང་འབྲིང་ཐ་མ་གཉིས་ཀྱང་ཕྱི་མའི་འབྲས་བུ་ལ་ལྟོས་ན་མ་གཏོང་བ་ཡིན་ནོ། །
 
-<!-- pair: TGD-001434 | source: U01434 | role: main_text | format: prose -->
+[Not yet translated: U01433.]
+
+<!-- TGD-001434 -->
+
 གལ་ཏེ་ཤི་འཕོས་པས་གཏོང་ན་
 
-<!-- pair: TGD-001435 | source: U01435 | role: main_text | format: prose -->
+[Not yet translated: U01434.]
+
+<!-- TGD-001435 -->
+
 བསྲུང་བས་ཅི་བྱ་སྟེ་དགོས་དུས་མི་ཕན་པས་སོ། །
 
-<!-- pair: TGD-001436 | source: U01436 | role: main_text | format: prose -->
+[Not yet translated: U01435.]
+
+<!-- TGD-001436 -->
+
 བསྙེན་གནས་ས་བོན་བག་ཆགས་ཀྱི་ཆ་ནས་མི་གཏོད།
 
-<!-- pair: TGD-001437 | source: U01437 | role: main_text | format: prose -->
+[Not yet translated: U01436.]
+
+<!-- TGD-001437 -->
+
 ཆོས་ནུབ་པས་གཏོང་མི་གཏོང་མ་ངེས་པ་གསུམ་ཀ་ཡོད།
 
-<!-- pair: TGD-001438 | source: U01438 | role: main_text | format: prose -->
+[Not yet translated: U01437.]
+
+<!-- TGD-001438 -->
+
 མི་གཏོང་བ་ནི་འོད་སྲུང་གི་བསྟན་པ་ལ་བརྩོན་འགྲུས་བྱས་པས་ཀུན་ཤེས་ཀཽཎྜི་ནྱར་གྱུར་པ་བཞིན་ནོ།
 
-<!-- pair: TGD-001439 | source: U01439 | role: main_text | format: prose -->
+[Not yet translated: U01438.]
+
+<!-- TGD-001439 -->
+
 རྡོ༽༽ གཞན་དག་གིས་རྩ་ལྟུང་གཅིག་བྱུང་ན་སྡོམ་པ་ཐམས་ཅད་ཞིག་པར་འདོད་པ་ཡོད་མོད།
 
-<!-- pair: TGD-001440 | source: U01440 | role: main_text | format: prose -->
+[Not yet translated: U01439.]
+
+<!-- TGD-001440 -->
+
 འདིར་ནི་མཛོད་ལས།
 
-<!-- pair: TGD-001441 | source: U01441 | role: main_text | format: prose -->
+[Not yet translated: U01440.]
+
+<!-- TGD-001441 -->
+
 ཁ་ཆེ་དག་ནི་བྱུང་བ་ན།
 
-<!-- pair: TGD-001442 | source: U01442 | role: main_text | format: prose -->
+[Not yet translated: U01441.]
+
+<!-- TGD-001442 -->
+
 བུ་ལོན་ནོར་ཅན་བཞིན་དུ་འདོད།
 
-<!-- pair: TGD-001443 | source: U01443 | role: main_text | format: prose -->
+[Not yet translated: U01442.]
+
+<!-- TGD-001443 -->
+
 ཅེས་པ་བྱེ་སྨྲའི་འདོད་པར་ལྟུང་བ་གཅིག་བྱུང་ཡང་
 
-<!-- pair: TGD-001444 | source: U01444 | role: main_text | format: prose -->
+[Not yet translated: U01443.]
+
+<!-- TGD-001444 -->
+
 གཞན་གསུམ་མི་གཏོང་བ་འདི་རྗེས་ཀྱང་བཞེད་དོ།
 
-<!-- pair: TGD-001445 | source: U01445 | role: main_text | format: prose -->
+[Not yet translated: U01444.]
+
+<!-- TGD-001445 -->
+
 གལ་ཏེ་གཅིག་གིས་ཐམས་ཅད་ཉམས་ན་
 
-<!-- pair: TGD-001446 | source: U01446 | role: main_text | format: prose -->
+[Not yet translated: U01445.]
+
+<!-- TGD-001446 -->
+
 གཅིག་བསྲུང་བས་ཐམས་ཅད་སྲུང་བར་ཐལ་ལོ། །
 
-<!-- pair: TGD-001447 | source: U01447 | role: main_text | format: prose -->
+[Not yet translated: U01446.]
+
+<!-- TGD-001447 -->
+
 འོ་ན་ལུང་ལས་གཅིག་བྱུང་ན་དགེ་སྦྱོང་དུ་མི་རུང་གསུངས་པ་ནི་དེ་ཁོ་ནའི་ངོས་ནའོ། །
 
-<!-- pair: TGD-001448 | source: U01448 | role: main_text | format: prose -->
+[Not yet translated: U01447.]
+
+<!-- TGD-001448 -->
+
 དེའི་ཕྱིར་ཕམ་པ་བཞི་ཉམས་པ་ནི་བུ་ལོན་དགོས་པ་ལྟར་དང་
 
-<!-- pair: TGD-001449 | source: U01449 | role: main_text | format: prose -->
+[Not yet translated: U01448.]
+
+<!-- TGD-001449 -->
+
 ཉམས་པ་ནི་རང་ལ་ནོར་ཡོད་པ་ཅན་བཞིན་ནོ།
 
-<!-- pair: TGD-001450 | source: U01450 | role: main_text | format: prose -->
+[Not yet translated: U01449.]
+
+<!-- TGD-001450 -->
+
 རྡོ༽༽ གཞན་དག་ན་རེ།
 
-<!-- pair: TGD-001451 | source: U01451 | role: main_text | format: prose -->
+[Not yet translated: U01450.]
+
+<!-- TGD-001451 -->
+
 ལྟུང་བ་གཅིག་བྱུང་ན་ངན་འགྲོར་ལྟུང་བ་ཡིན་པས་
 
-<!-- pair: TGD-001452 | source: U01452 | role: main_text | format: prose -->
+[Not yet translated: U01451.]
+
+<!-- TGD-001452 -->
+
 སྣ་རེ་གཉིས་སྲུང་མ་སྲུང་མེད་ཟེར་རོ། །
 
-<!-- pair: TGD-001453 | source: U01453 | role: main_text | format: prose -->
+[Not yet translated: U01452.]
+
+<!-- TGD-001453 -->
+
 འདིར་ནི་སྣ་གཅིག་བསྲུང་བས་འབྲས་བུས་ཀྱང་མྱ་འདས་ཐོབ་སྟེ།
 
-<!-- pair: TGD-001454 | source: U01454 | role: main_text | format: prose -->
+[Not yet translated: U01453.]
+
+<!-- TGD-001454 -->
+
 མཆོག་གསུམ་ལ་ཡིད་རབ་ཏུ་དྭངས་བས་
 
-<!-- pair: TGD-001455 | source: U01455 | role: main_text | format: prose -->
+[Not yet translated: U01454.]
+
+<!-- TGD-001455 -->
+
 སྣ་གཅིག་པོ་དེ་རྐྱེན་གང་གིས་ཀྱང་མིི་འཇིག་པ་
 
-<!-- pair: TGD-001456 | source: U01456 | role: main_text | format: prose -->
+[Not yet translated: U01455.]
+
+<!-- TGD-001456 -->
+
 ཕྱི་བཤོལ་མེད་ཅིང་སྲོག་གི་ཕྱིར་ཡང་མི་འདོར་བའི་བརྟུལ་ཞུགས་ལ་འབད་པ་ཞིག་བྱུང་ན་མཐར་ཁྱོན་ལས་འདའ་སྟེ།
 
-<!-- pair: TGD-001457 | source: U01457 | role: main_text | format: prose -->
+[Not yet translated: U01456.]
+
+<!-- TGD-001457 -->
+
 སྙིང་རྗེ་པད་དཀར་ལས།
 
-<!-- pair: TGD-001458 | source: U01458 | role: main_text | format: prose -->
+[Not yet translated: U01457.]
+
+<!-- TGD-001458 -->
+
 ང་ཡི་བསྟན་ལ་རབ་ཏུ་བྱུང་བ་བུའི་ལག་པ་ནས་བཟུང་སྟེ་
 
-<!-- pair: TGD-001459 | source: U01459 | role: main_text | format: prose -->
+[Not yet translated: U01458.]
+
+<!-- TGD-001459 -->
+
 ཁྱིམ་དུ་རྒྱུ་བ་རྣམས་ཀྱང་བསྐལ་པ་བཟང་པོ་འདི་ལ་
 
-<!-- pair: TGD-001460 | source: U01460 | role: main_text | format: prose -->
+[Not yet translated: U01459.]
+
+<!-- TGD-001460 -->
+
 གཅིག་ཀྱང་མ་ལུས་པ་མྱ་ངན་ལས་འདའ་བར་འགྱུར་རོ། །
 
-<!-- pair: TGD-001461 | source: U01461 | role: main_text | format: prose -->
+[Not yet translated: U01460.]
+
+<!-- TGD-001461 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-001462 | source: U01462 | role: main_text | format: prose -->
+[Not yet translated: U01461.]
+
+<!-- TGD-001462 -->
+
 རྡོ༽༽ གཞན་ཤེས་ལ།
 
-<!-- pair: TGD-001463 | source: U01463 | role: main_text | format: prose -->
+[Not yet translated: U01462.]
+
+<!-- TGD-001463 -->
+
 རྩ་བཞི་ངོ་བོའི་ཆ་ནས་རང་བཞིན་དང་།
 
-<!-- pair: TGD-001464 | source: U01464 | role: main_text | format: prose -->
+[Not yet translated: U01463.]
+
+<!-- TGD-001464 -->
+
 ས་རྐོ་མེ་རེག་སོགས་འདུ་ཤེས་ཀྱི་ཆ་ནས་བཅས་པ་སྟེ་
 
-<!-- pair: TGD-001465 | source: U01465 | role: main_text | format: prose -->
+[Not yet translated: U01464.]
+
+<!-- TGD-001465 -->
+
 རང་བཞིན་ཨ་མྲའི་ཚལ་ལ་བཅས་པ་སྒྱིས་འཚལ་ལྟ་བུས་བསྲུངས་ཏེ་
 
-<!-- pair: TGD-001466 | source: U01466 | role: main_text | format: prose -->
+[Not yet translated: U01465.]
+
+<!-- TGD-001466 -->
+
 རང་བཞིན་གཏན་ནས་བཀག་པ་ཡིན་ལ།
 
-<!-- pair: TGD-001467 | source: U01467 | role: main_text | format: prose -->
+[Not yet translated: U01466.]
+
+<!-- TGD-001467 -->
+
 བཅས་པ་གནང་བའི་སྐབས་ཡོད་པས་ཐ་དད་ཡིན་ཟེར་ཡང་།
 
-<!-- pair: TGD-001468 | source: U01468 | role: main_text | format: prose -->
+[Not yet translated: U01467.]
+
+<!-- TGD-001468 -->
+
 འདིར་ནི་བཅས་པ་དང་རང་བཞིན་གྱི་ཁ་ན་མ་ཐོ་བ་གནད་གཅིག་སྟེ་
 
-<!-- pair: TGD-001469 | source: U01469 | role: main_text | format: prose -->
+[Not yet translated: U01468.]
+
+<!-- TGD-001469 -->
+
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱིས་རྒྱུ་འབྲས་རྟེན་འབྲེལ་བསླུ་བ་མེད་པ་འབྱུང་བར་གཟིགས་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-001470 | source: U01470 | role: main_text | format: prose -->
+[Not yet translated: U01469.]
+
+<!-- TGD-001470 -->
+
 ཆོས་ཐམས་ཅད་ཀྱི་ངོ་བོར་སངས་རྒྱས་པས་
 
-<!-- pair: TGD-001471 | source: U01471 | role: main_text | format: prose -->
+[Not yet translated: U01470.]
+
+<!-- TGD-001471 -->
+
 ཕྱྭ་དང་དབང་ཕྱུག་ལྟར་བྱེད་པོ་མིན་པའི་ཕྱིར་དང་
 
-<!-- pair: TGD-001472 | source: U01472 | role: main_text | format: prose -->
+[Not yet translated: U01471.]
+
+<!-- TGD-001472 -->
+
 བརྩེ་བ་ཆེན་པོས་སེམས་ཅན་ཐམས་ཅད་ཐུགས་སྙོམས་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-001473 | source: U01473 | role: main_text | format: prose -->
+[Not yet translated: U01472.]
+
+<!-- TGD-001473 -->
+
 བརྩོན་པ་མི་འདོར་བས་གནོད་པ་སྤོང་ཞིང་
 
-<!-- pair: TGD-001474 | source: U01474 | role: main_text | format: prose -->
+[Not yet translated: U01473.]
+
+<!-- TGD-001474 -->
+
 ཕན་བདེ་ལ་སྦྱོར་བར་མཛད་པའི་ཕྱིར་
 
-<!-- pair: TGD-001475 | source: U01475 | role: main_text | format: prose -->
+[Not yet translated: U01474.]
+
+<!-- TGD-001475 -->
+
 རང་བཞིན་དང་བཅས་བ་གང་མ་བསྲུངས་ཀྱང་
 
-<!-- pair: TGD-001476 | source: U01476 | role: main_text | format: prose -->
+[Not yet translated: U01475.]
+
+<!-- TGD-001476 -->
+
 གཤིས་ལ་ཇི་ལྟར་ཡོད་པའི་ཉེས་དམིགས་འབྱུང་སྟེ་
 
-<!-- pair: TGD-001477 | source: U01477 | role: main_text | format: prose -->
+[Not yet translated: U01476.]
+
+<!-- TGD-001477 -->
+
 རང་བཞིན་གྱིས་བཅས་པ་ལ་ཁྱབ་བཅས་པས་རང་བཞིན་ལ་ཁྱབ་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-001478 | source: U01478 | role: main_text | format: prose -->
+[Not yet translated: U01477.]
+
+<!-- TGD-001478 -->
+
 འོ་ན་དུད་འགྲོར་མ་བཅས་ཤིང་ཉེས་པ་ཡང་མ་གསུངས་པས་ཅི་སྙམ་ན།
 
-<!-- pair: TGD-001479 | source: U01479 | role: main_text | format: prose -->
+[Not yet translated: U01478.]
+
+<!-- TGD-001479 -->
+
 བཅས་པའི་ཉེས་པ་དུད་འགྲོར་སྐྱེ་ཞིང་
 
-<!-- pair: TGD-001480 | source: U01480 | role: main_text | format: prose -->
+[Not yet translated: U01479.]
+
+<!-- TGD-001480 -->
+
 མྱ་འདས་ལ་རྒྱབ་ཀྱི་ཕྱོགས་པ་དེ་ཡིན་ཅིང།
 
-<!-- pair: TGD-001481 | source: U01481 | role: main_text | format: prose -->
+[Not yet translated: U01480.]
+
+<!-- TGD-001481 -->
+
 སྤྱིར་བཅས་ཀྱང་དམིགས་བསལ་དུ་མ་གསུངས༌པ་ནི་
 
-<!-- pair: TGD-001482 | source: U01482 | role: main_text | format: prose -->
+[Not yet translated: U01481.]
+
+<!-- TGD-001482 -->
+
 དཔེར་ན་ཕས་བུ་འགའ་ཞིག་ལ་བྱ་བ་མིན་པ་བསླབ་ཀྱང་
 
-<!-- pair: TGD-001483 | source: U01483 | role: main_text | format: prose -->
+[Not yet translated: U01482.]
+
+<!-- TGD-001483 -->
+
 མི་ཉན་པ་ཞིག་བྱར་མེད་པས་སྐྱུར་བ་དང་མཚུངས་སོ།
 
-<!-- pair: TGD-001484 | source: U01484 | role: main_text | format: prose -->
+[Not yet translated: U01483.]
+
+<!-- TGD-001484 -->
+
 ལྷན༽༽ འདུལ་བ་སྡེ་པ་བཞི་ལ།
 
-<!-- pair: TGD-001485 | source: U01485 | role: main_text | format: prose -->
+[Not yet translated: U01484.]
+
+<!-- TGD-001485 -->
+
 མི་འདྲ་བ་རེ་རེ་འདོད་པ་ཡོད་མོད།
 
-<!-- pair: TGD-001486 | source: U01486 | role: main_text | format: prose -->
+[Not yet translated: U01485.]
+
+<!-- TGD-001486 -->
+
 འདིར་ནི་སྡེ་པ་ཀུན་གྱི་འདུལ་བའི་རྩ་བ་ནི་ལུང་སྡེ་བཞི་ཁོ་ནར་ངེས་ཏེ།
 
-<!-- pair: TGD-001487 | source: U01487 | role: main_text | format: prose -->
+[Not yet translated: U01486.]
+
+<!-- TGD-001487 -->
+
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱི་ལུང་སྡེ་བཞི་བསྒྲུབ་པའི་ཕྱིར།
 
-<!-- pair: TGD-001488 | source: U01488 | role: main_text | format: prose -->
+[Not yet translated: U01487.]
+
+<!-- TGD-001488 -->
+
 མ་གྲུབ་ན་ཉན་ཐོས་དང་སངས་རྒྱས་སྤངས་རྟོགས་མཉམ་པར་ཐལ།
 
-<!-- pair: TGD-001489 | source: U01489 | role: main_text | format: prose -->
+[Not yet translated: U01488.]
+
+<!-- TGD-001489 -->
+
 ལུང་སྡེ་བཞི་རེ་རེ་བཅའ་ཞུས་པའི་ཕྱིར།
 
-<!-- pair: TGD-001490 | source: U01490 | role: main_text | format: prose -->
+[Not yet translated: U01489.]
+
+<!-- TGD-001490 -->
+
 འདོད་མི་ནུས་ཏེ།
 
-<!-- pair: TGD-001491 | source: U01491 | role: main_text | format: prose -->
+[Not yet translated: U01490.]
+
+<!-- TGD-001491 -->
+
 ས་བཅུ་པའི་བྱང་སེམས་ཀྱིས་ཀྱང་འཆའ་མི་ནུས་ན་གཞན་གྱིས་ལྟ་ཅི་སྨྲོས།
 
-<!-- pair: TGD-001492 | source: U01492 | role: main_text | format: prose -->
+[Not yet translated: U01491.]
+
+<!-- TGD-001492 -->
+
 གྲུབ་མཐའ་བག་རེ་མི་མཐུན་པ་མ་གཏོགས་
 
-<!-- pair: TGD-001493 | source: U01493 | role: main_text | format: prose -->
+[Not yet translated: U01492.]
+
+<!-- TGD-001493 -->
+
 དགག་སྒྲུབ་ཀྱི་བསླབ་པར་གཞོལ་ཞིང་འབབ་པའི་ཕྱིར།
 
-<!-- pair: TGD-001494 | source: U01494 | role: main_text | format: prose -->
+[Not yet translated: U01493.]
+
+<!-- TGD-001494 -->
+
 ལུང་ལས།
 
-<!-- pair: TGD-001495 | source: U01495 | role: main_text | format: prose -->
+[Not yet translated: U01494.]
+
+<!-- TGD-001495 -->
+
 ཇི་ལྟར་འདི་ན་ཤིང་རྩ་གཙོ་བོ་སྟེ། །
 
-<!-- pair: TGD-001496 | source: U01496 | role: main_text | format: prose -->
+[Not yet translated: U01495.]
+
+<!-- TGD-001496 -->
+
 རྣམ་པར་འཕེལ་དང་ཀུན་འཛིན་གཉིས་ཀྱི་གཞི། །
 
-<!-- pair: TGD-001497 | source: U01497 | role: main_text | format: prose -->
+[Not yet translated: U01496.]
+
+<!-- TGD-001497 -->
+
 དེ་བཞིན་ཡོན་ཏན་ཚོགས་རྣམས་ཀུན་གྱི་ཡང་། །
 
-<!-- pair: TGD-001498 | source: U01498 | role: main_text | format: prose -->
+[Not yet translated: U01497.]
+
+<!-- TGD-001498 -->
+
 རྒྱུ་དང་རྩ་བ་འདུལ་བ་ཡིན་ཞེས་གསུངས།
 
-<!-- pair: TGD-001499 | source: U01499 | role: main_text | format: prose -->
+[Not yet translated: U01498.]
+
+<!-- TGD-001499 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-001500 | source: U01500 | role: main_text | format: prose -->
+[Not yet translated: U01499.]
+
+<!-- TGD-001500 -->
+
 རྡོ༽༽བཅས་པ་དང་རང་བཞིན་ཐ་དད་པས་སྡིག་ལྟུང་ཡང་ཐ་དད་ཟེར་རོ།
 
-<!-- pair: TGD-001501 | source: U01501 | role: main_text | format: prose -->
+[Not yet translated: U01500.]
+
+<!-- TGD-001501 -->
+
 འདིར་ནི་
 
-<!-- pair: TGD-001502 | source: U01502 | role: main_text | format: prose -->
+[Not yet translated: U01501.]
+
+<!-- TGD-001502 -->
+
 སྡིག་ལྟུང་ཐ་དད་མེད་ཅིང་གཅིག་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-001503 | source: U01503 | role: main_text | format: prose -->
+[Not yet translated: U01502.]
+
+<!-- TGD-001503 -->
+
 བཅས་རང་གཅིག་པ་དང་འགྲོ་བ་སྤྱི་ལ་བཅས་པར་བཞེད་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-001504 | source: U01504 | role: main_text | format: prose -->
+[Not yet translated: U01503.]
+
+<!-- TGD-001504 -->
+
 སྡིག་ལྟུང་གཉིས་ཀས་ངན་འགྲོར་འགྲོ་བར་མཚུངས་པའི་ཕྱིར།
 
-<!-- pair: TGD-001505 | source: U01505 | role: main_text | format: prose -->
+[Not yet translated: U01504.]
+
+<!-- TGD-001505 -->
+
 ལུང་རྣམ་འབྱེདལས།
 
-<!-- pair: TGD-001506 | source: U01506 | role: main_text | format: prose -->
+[Not yet translated: U01505.]
+
+<!-- TGD-001506 -->
+
 ལྟུང་བ་ལྟུང་བ་ཞེས་བྱ་བ་
 
-<!-- pair: TGD-001507 | source: U01507 | role: main_text | format: prose -->
+[Not yet translated: U01506.]
+
+<!-- TGD-001507 -->
+
 སེམས་ཅན་དམྱལ་བ་དང་དུད་འགྲོའི་སྐྱེ་གནས་དང་
 
-<!-- pair: TGD-001508 | source: U01508 | role: main_text | format: prose -->
+[Not yet translated: U01507.]
+
+<!-- TGD-001508 -->
+
 གཤིན་རྗེའི་འཇིག་རྟེན་དུ་ལྟུང་བར་བྱེད་པའི་དོན་གྱིས་ལྟུང་བའོ། །
 
-<!-- pair: TGD-001509 | source: U01509 | role: main_text | format: prose -->
+[Not yet translated: U01508.]
+
+<!-- TGD-001509 -->
+
 ཞེས་པས་ཟན་དང་བཤོས་ཀྱི་མིང་བཞིན་ནོ།
 
-<!-- pair: TGD-001510 | source: U01510 | role: main_text | format: prose -->
+[Not yet translated: U01509.]
+
+<!-- TGD-001510 -->
+
 ཁོ་ན་ཕྲ་རག་ལའང་ཁྱད་མེད་དམ་སྙམ་ན།
 
-<!-- pair: TGD-001511 | source: U01511 | role: main_text | format: prose -->
+[Not yet translated: U01510.]
+
+<!-- TGD-001511 -->
+
 དེ་ནི་བཅས་མ་བཅས་གཉིས་ཀའང་ཉེས་པ་ཆེ་ཆུང་མཉམ་པ་ཡིན་ནོ། །
 
-<!-- pair: TGD-001512 | source: U01512 | role: main_text | format: prose -->
+[Not yet translated: U01511.]
+
+<!-- TGD-001512 -->
+
 འོ་ན་མི་སྐྱེ་མཚམས་མེད་བྱས་པ་སྐྱེ་བའི་བར་ཆད་དུ་གསུངས་ཤིང།
 
-<!-- pair: TGD-001513 | source: U01513 | role: main_text | format: prose -->
+[Not yet translated: U01512.]
+
+<!-- TGD-001513 -->
+
 རབ་བྱུང་ཕྱིར་བཅོས་ཡོད་པར་སྙམ་ན།
 
-<!-- pair: TGD-001514 | source: U01514 | role: main_text | format: prose -->
+[Not yet translated: U01513.]
+
+<!-- TGD-001514 -->
+
 དེའང་ཡོད་དེ་མི་སྐྱེས་དགྲ་བཟོད་པ་ཐོབ་པ་ལྟ་བུ་ཡིན་ནོ།
 
-<!-- pair: TGD-001515 | source: U01515 | role: main_text | format: prose -->
+[Not yet translated: U01514.]
+
+<!-- TGD-001515 -->
+
 སྡེ༽༽ བཅས་པ་རྐྱེན་ལ་ལྟོས་པས་
 
-<!-- pair: TGD-001516 | source: U01516 | role: main_text | format: prose -->
+[Not yet translated: U01515.]
+
+<!-- TGD-001516 -->
+
 དང་པོ་བཀག་པ་ཕྱིས་རྐྱེན་ལ་ལྟོས་ཏེ་གནང་ན་ཉེས་པ་མེད་ཟེར།
 
-<!-- pair: TGD-001517 | source: U01517 | role: main_text | format: prose -->
+[Not yet translated: U01516.]
+
+<!-- TGD-001517 -->
+
 འདིར་ནི་བཀག་པ་ཡེ་བཀག་གནང་བ་ཡེ་གནང་ཡིན་པ་ནི་
 
-<!-- pair: TGD-001518 | source: U01518 | role: main_text | format: prose -->
+[Not yet translated: U01517.]
+
+<!-- TGD-001518 -->
+
 སྤང་བླང་དགེ་སྡིག་གཉིས་སུ་ངེས་པ་གང་ཞིག །
 
-<!-- pair: TGD-001519 | source: U01519 | role: main_text | format: prose -->
+[Not yet translated: U01518.]
+
+<!-- TGD-001519 -->
+
 བདེ་སྡུག་གཉིས་འབྱུང་བའི་ལས་ཡིན་པས་
 
-<!-- pair: TGD-001520 | source: U01520 | role: main_text | format: prose -->
+[Not yet translated: U01519.]
+
+<!-- TGD-001520 -->
+
 གནས་དང་གནས་མིན་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱིས་གཟིགས་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-001521 | source: U01521 | role: main_text | format: prose -->
+[Not yet translated: U01520.]
+
+<!-- TGD-001521 -->
+
 ཐུགས་བརྩེ་ཡང་འཇུག་ལྡོག་གི་ཚུལ་ཁྲིམས་འདི་ལ་མ་བརྟེན་ན་
 
-<!-- pair: TGD-001522 | source: U01522 | role: main_text | format: prose -->
+[Not yet translated: U01521.]
+
+<!-- TGD-001522 -->
+
 སྐྱོན་སྤོང་ཡོན་ཏན་བསྒྲུབ་པའི་ཐབས་གཞན་མེད་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-001523 | source: U01523 | role: main_text | format: prose -->
+[Not yet translated: U01522.]
+
+<!-- TGD-001523 -->
+
 རང་བཞིན་གཅིག་ལ་དགེ་མི་དགེ་གཉིས་
 
-<!-- pair: TGD-001524 | source: U01524 | role: main_text | format: prose -->
+[Not yet translated: U01523.]
+
+<!-- TGD-001524 -->
+
 གནང་བཀག་གིས་མི་འགྱུར་བས་
 
-<!-- pair: TGD-001525 | source: U01525 | role: main_text | format: prose -->
+[Not yet translated: U01524.]
+
+<!-- TGD-001525 -->
+
 སེམས་ཉོན་མོངས་ཅན་ལས་མི་དགེ་བ།
 
-<!-- pair: TGD-001526 | source: U01526 | role: main_text | format: prose -->
+[Not yet translated: U01525.]
+
+<!-- TGD-001526 -->
+
 འབྲས་བུ་གནོད་པའི་སྒོར་གྱུར་པ་ནི་ཡེ་བཀག་དང་
 
-<!-- pair: TGD-001527 | source: U01527 | role: main_text | format: prose -->
+[Not yet translated: U01526.]
+
+<!-- TGD-001527 -->
+
 དེ་ལས་ལྡོག་པ་ཡེ་གནང་ཡིན་པས་སོ། །
 
-<!-- pair: TGD-001528 | source: U01528 | role: main_text | format: prose -->
+[Not yet translated: U01527.]
+
+<!-- TGD-001528 -->
+
 ནད་པར་སྨན།
 
-<!-- pair: TGD-001529 | source: U01529 | role: main_text | format: prose -->
+[Not yet translated: U01528.]
+
+<!-- TGD-001529 -->
+
 ཤཱ་རིའི་བུས་དཔལ་ལྡན་མོ་ལ་ཆོས་བསྟན་པ་དང༌།
 
-<!-- pair: TGD-001530 | source: U01530 | role: main_text | format: prose -->
+[Not yet translated: U01529.]
+
+<!-- TGD-001530 -->
+
 བུ་མེད་ཆུས་ཁུར་བར་རོ་ལེན་པ་སོགས་ནི་
 
-<!-- pair: TGD-001531 | source: U01531 | role: main_text | format: prose -->
+[Not yet translated: U01530.]
+
+<!-- TGD-001531 -->
+
 སྔར་བཀག་པ་དང་ཕྱིས་གནང་བ་མི་དགེ་བ་དང་དགེ་བ་ཐ་དད་དོ།
 
-<!-- pair: TGD-001532 | source: U01532 | role: main_text | format: prose -->
+[Not yet translated: U01531.]
+
+<!-- TGD-001532 -->
+
 ལྷན༽༽ བཅས་འགལ་གྱི་ལྟུང་བ་མ་གཏོགས་
 
-<!-- pair: TGD-001533 | source: U01533 | role: main_text | format: prose -->
+[Not yet translated: U01532.]
+
+<!-- TGD-001533 -->
+
 རྨི་ལམ་དུ་ཁུ་བ་ཉམས་པ་ལ་ཉེས་པ་མེད་ཟེར་ལ། །
 
-<!-- pair: TGD-001534 | source: U01534 | role: main_text | format: prose -->
+[Not yet translated: U01533.]
+
+<!-- TGD-001534 -->
+
 འདིར་ནི་རྨི་ལམ་དུ་ནི་ཉམས་ཀྱང་
 
-<!-- pair: TGD-001535 | source: U01535 | role: main_text | format: prose -->
+[Not yet translated: U01534.]
+
+<!-- TGD-001535 -->
+
 ཕྲ་རག་གི་ཁྱད་པར་ལས་ཉེས་པ་ནི་འབྱུང་བ་
 
-<!-- pair: TGD-001536 | source: U01536 | role: main_text | format: prose -->
+[Not yet translated: U01535.]
+
+<!-- TGD-001536 -->
+
 ཕྲ་རག་ཐམས་ཅད་བསྟན་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-001537 | source: U01537 | role: main_text | format: prose -->
+[Not yet translated: U01536.]
+
+<!-- TGD-001537 -->
+
 རྒྱུ་ཀུན་གཞི་ལ་ཉོན་མོངས་པའི་ས་འོན་གནས་པ་དེ།
 
-<!-- pair: TGD-001538 | source: U01538 | role: main_text | format: prose -->
+[Not yet translated: U01537.]
+
+<!-- TGD-001538 -->
+
 རྐྱེན་རྨི་ལམ་གྱི་བུད་མེད་ལ་བརྟེན་ནས་ཉམས་པས་
 
-<!-- pair: TGD-001539 | source: U01539 | role: main_text | format: prose -->
+[Not yet translated: U01538.]
+
+<!-- TGD-001539 -->
+
 དངོས་ཀྱི་ཕམ་ལྷག་དང་མཚུངས་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-001540 | source: U01540 | role: main_text | format: prose -->
+[Not yet translated: U01539.]
+
+<!-- TGD-001540 -->
+
 འོ་ན་ཉེས་མེད་དུ་གསུངས་པ་ཅི་ཞེ་ན།
 
-<!-- pair: TGD-001541 | source: U01541 | role: main_text | format: prose -->
+[Not yet translated: U01540.]
+
+<!-- TGD-001541 -->
+
 ཐབས་མཁས་པས་གནས་སྐབས་སྒྲུབ་མ་ནུས་པ་ལ་གསུངས་ཀྱི།
 
-<!-- pair: TGD-001542 | source: U01542 | role: main_text | format: prose -->
+[Not yet translated: U01541.]
+
+<!-- TGD-001542 -->
+
 གཏན་ནས་ཉེས་མེད་དུ་གསུངས་པ་ནི་མིན་ནོ། །
 
-<!-- pair: TGD-001543 | source: U01543 | role: main_text | format: prose -->
+[Not yet translated: U01542.]
+
+<!-- TGD-001543 -->
+
 གལ་ཏེ་ཉེས་མེད་ཡིན་ན་
 
-<!-- pair: TGD-001544 | source: U01544 | role: main_text | format: prose -->
+[Not yet translated: U01543.]
+
+<!-- TGD-001544 -->
+
 ཉིན་གཉིད་དང་སྲོད་དང་ཐོ་རང་ཉལ་བ་བཀག་པའང་ཉེས་མེད་དུ་ཐལ་ཏེ་མཚུངས་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-001545 | source: U01545 | role: main_text | format: prose -->
+[Not yet translated: U01544.]
+
+<!-- TGD-001545 -->
+
 རྡོ༽༽ བཅས་པ་ནི་རྗེས་འབྲང་གི་སྲས་དགེ་སློང་དགེ་བསྙེན་ཁོ་ན་ལས་འགྲོ་བ་
 
-<!-- pair: TGD-001546 | source: U01546 | role: main_text | format: prose -->
+[Not yet translated: U01545.]
+
+<!-- TGD-001546 -->
+
 གཞན་ལ་མ་བཅས་པར་འདོད་མོད།
 
-<!-- pair: TGD-001547 | source: U01547 | role: main_text | format: prose -->
+[Not yet translated: U01546.]
+
+<!-- TGD-001547 -->
+
 འདིར་ནི་བཅས་རང་གཅིག་པའི་གནད་ཀྱིས་འགྲོ་བ་སྤྱི་ལ་བཅས་ཏེ།
 
-<!-- pair: TGD-001548 | source: U01548 | role: main_text | format: prose -->
+[Not yet translated: U01547.]
+
+<!-- TGD-001548 -->
+
 དང་པོ་ཐུགས་བསྐྱེད་པ།
 
-<!-- pair: TGD-001549 | source: U01549 | role: main_text | format: prose -->
+[Not yet translated: U01548.]
+
+<!-- TGD-001549 -->
+
 བར་དུ་ཚོགས་བསགས་པ།
 
-<!-- pair: TGD-001550 | source: U01550 | role: main_text | format: prose -->
+[Not yet translated: U01549.]
+
+<!-- TGD-001550 -->
+
 མཐར་སངས་རྒྱས་ཏེ་
 
-<!-- pair: TGD-001551 | source: U01551 | role: main_text | format: prose -->
+[Not yet translated: U01550.]
+
+<!-- TGD-001551 -->
+
 ཆོས་ཀྱི་འཁོར་ལོ་དང་བཅས་པ་རྗེས་འབྲང་ཁོ་ནའི་དོན་མིན་པ་
 
-<!-- pair: TGD-001552 | source: U01552 | role: main_text | format: prose -->
+[Not yet translated: U01551.]
+
+<!-- TGD-001552 -->
+
 མཐའ་ཡས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་དུ་ཡིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-001553 | source: U01553 | role: main_text | format: prose -->
+[Not yet translated: U01552.]
+
+<!-- TGD-001553 -->
+
 དེ་སྐད་དུའང༌། རྒྱ་རོལ་ལས།
 
-<!-- pair: TGD-001554 | source: U01554 | role: main_text | format: prose -->
+[Not yet translated: U01553.]
+
+<!-- TGD-001554 -->
+
 ཀུན་ཏུ་རྒྱུ་ཉེར་འཚོ་ལ།
 
-<!-- pair: TGD-001555 | source: U01555 | role: main_text | format: prose -->
+[Not yet translated: U01554.]
+
+<!-- TGD-001555 -->
+
 ང་ནི་ཝ་རཱ་ཎ་སཱིར།
 
-<!-- pair: TGD-001556 | source: U01556 | role: main_text | format: prose -->
+[Not yet translated: U01555.]
+
+<!-- TGD-001556 -->
+
 འགྲོ་གྲོང་ཁྱེར་གསལ་ལྡན་སོང་ནས་ནི།
 
-<!-- pair: TGD-001557 | source: U01557 | role: main_text | format: prose -->
+[Not yet translated: U01556.]
+
+<!-- TGD-001557 -->
+
 ལོང་བ་ལྟ་བུའི་སེམས་ཅན་ལ།
 
-<!-- pair: TGD-001558 | source: U01558 | role: main_text | format: prose -->
+[Not yet translated: U01557.]
+
+<!-- TGD-001558 -->
+
 མཚུངས་མ་མེད་པའི་འོད་བྱའོ། །
 
-<!-- pair: TGD-001559 | source: U01559 | role: main_text | format: prose -->
+[Not yet translated: U01558.]
+
+<!-- TGD-001559 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-001560 | source: U01560 | role: main_text | format: prose -->
+[Not yet translated: U01559.]
+
+<!-- TGD-001560 -->
+
 བརྩམས་པར་བྱ་ཞིང་དབྱུང་བར་བྱ།
 
-<!-- pair: TGD-001561 | source: U01561 | role: main_text | format: prose -->
+[Not yet translated: U01560.]
+
+<!-- TGD-001561 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-001562 | source: U01562 | role: main_text | format: prose -->
+[Not yet translated: U01561.]
+
+<!-- TGD-001562 -->
+
 སྡིག་པ་ཅི་ཡང་མི་བྱ་ཞིང་།
 
-<!-- pair: TGD-001563 | source: U01563 | role: main_text | format: prose -->
+[Not yet translated: U01562.]
+
+<!-- TGD-001563 -->
+
 སོགས་སོ༑ །
 
-<!-- pair: TGD-001564 | source: U01564 | role: main_text | format: prose -->
+[Not yet translated: U01563.]
+
+<!-- TGD-001564 -->
+
 འོ་ན་དགེ་སློང་ལ་དམིགས་ཀྱིས་བསལ་བ་ཅི་ཞེ་ན།
 
-<!-- pair: TGD-001565 | source: U01565 | role: main_text | format: prose -->
+[Not yet translated: U01564.]
+
+<!-- TGD-001565 -->
+
 གཙོ་བོར་བསྟན་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-001566 | source: U01566 | role: main_text | format: prose -->
+[Not yet translated: U01565.]
+
+<!-- TGD-001566 -->
+
 འཁོར་བསྒྱུར་གྱིས་འབངས་ཐམས་ཅད་
 
-<!-- pair: TGD-001567 | source: U01567 | role: main_text | format: prose -->
+[Not yet translated: U01566.]
+
+<!-- TGD-001567 -->
+
 དགེ་བཅུར་བཀོད་པའི་སྔོན་དུ་
 
-<!-- pair: TGD-001568 | source: U01568 | role: main_text | format: prose -->
+[Not yet translated: U01567.]
+
+<!-- TGD-001568 -->
+
 རྒྱལ་སྲིད་སྣ་བོ་དག་ལ་བསྒོ་བ་བཞིན་ནོ། །
 
-<!-- pair: TGD-001569 | source: U01569 | role: main_text | format: prose -->
+[Not yet translated: U01568.]
+
+<!-- TGD-001569 -->
+
 དེ་ལྟར་ཡིན་ན་
 
-<!-- pair: TGD-001570 | source: U01570 | role: main_text | format: prose -->
+[Not yet translated: U01569.]
+
+<!-- TGD-001570 -->
+
 དེ་བཞིན་གཤེགས་པ་དབང་ཕྱུག་ལྟར་བྱེད་པོ་ཐལ་བ་དང༌།
 
-<!-- pair: TGD-001571 | source: U01571 | role: main_text | format: prose -->
+[Not yet translated: U01570.]
+
+<!-- TGD-001571 -->
+
 ཉེ་རིང་ཅན་དུ་ཐལ་ལོ། །
 
-<!-- pair: TGD-001572 | source: U01572 | role: main_text | format: prose -->
+[Not yet translated: U01571.]
+
+<!-- TGD-001572 -->
+
 དེའི་ཕྱིར་ཆོས་ཀྱི་རྒྱལ་པོས་འགྲོ་བ་སྤྱི་ལ་བཅས་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-001573 | source: U01573 | role: main_text | format: prose -->
+[Not yet translated: U01572.]
+
+<!-- TGD-001573 -->
+
 རྡོ༽༽བཅས་རང་ཐ་དད་ལས་
 
-<!-- pair: TGD-001574 | source: U01574 | role: main_text | format: prose -->
+[Not yet translated: U01573.]
+
+<!-- TGD-001574 -->
+
 རབ་བྱུང་གིས་བསྲུང་ན་ཕན་ཡོན་འབྱུང་ལ་
 
-<!-- pair: TGD-001575 | source: U01575 | role: main_text | format: prose -->
+[Not yet translated: U01574.]
+
+<!-- TGD-001575 -->
+
 གཞན་གྱིས་བསྲུངས་ཀྱང་ཕན་ཡོན་མི་འབྱུང་ངོ་ཞེས་པ་དང༌།
 
-<!-- pair: TGD-001576 | source: U01576 | role: main_text | format: prose -->
+[Not yet translated: U01575.]
+
+<!-- TGD-001576 -->
+
 འདས་པའི་ཉེས་དམིགས་ཀྱང་རབ་བྱུང་ལ་ཡིན་གྱི་
 
-<!-- pair: TGD-001577 | source: U01577 | role: main_text | format: prose -->
+[Not yet translated: U01576.]
+
+<!-- TGD-001577 -->
+
 འགྲོ་བ་གཞན་ལ་མི་འབྱུང་ངོ་ཞེས་སྨྲ་བར་བྱེད་དོ།
 
-<!-- pair: TGD-001578 | source: U01578 | role: main_text | format: prose -->
+[Not yet translated: U01577.]
+
+<!-- TGD-001578 -->
+
 འདིར་ནི་འགྲོ་བ་གང་གིས་འདས་ཀྱང་
 
-<!-- pair: TGD-001579 | source: U01579 | role: main_text | format: prose -->
+[Not yet translated: U01578.]
+
+<!-- TGD-001579 -->
+
 ཉེས་པ་དང་བཅས་པར་འགྱུར་ལ་
 
-<!-- pair: TGD-001580 | source: U01580 | role: main_text | format: prose -->
+[Not yet translated: U01579.]
+
+<!-- TGD-001580 -->
+
 དེ་རྣམས་ཀྱིས་བསྲུང་བའི་ཕན་ཡོན་ཡང་ནི་ཀུན་ལ་འབྱུང་སྟེ་
 
-<!-- pair: TGD-001581 | source: U01581 | role: main_text | format: prose -->
+[Not yet translated: U01580.]
+
+<!-- TGD-001581 -->
+
 བཅས་རང་དང་སྡིག་ལྟུང་ཐ་དད་མེད་པ་དང་
 
-<!-- pair: TGD-001582 | source: U01582 | role: main_text | format: prose -->
+[Not yet translated: U01581.]
+
+<!-- TGD-001582 -->
+
 འགྲོ་བ་སྤྱི་ལ་བཅས་པ་དང་རྒྱུ་འབྲས་ཀྱི་རྟེན་འབྲེལ་མི་བསླུ་བའི་ཕྱིར་
 
-<!-- pair: TGD-001583 | source: U01583 | role: main_text | format: prose -->
+[Not yet translated: U01582.]
+
+<!-- TGD-001583 -->
+
 སྐྱོན་ཡོན་འབྱུང་བ་འཇིག་རྟེན་གཞག་པ་དང༌།
 
-<!-- pair: TGD-001584 | source: U01584 | role: main_text | format: prose -->
+[Not yet translated: U01583.]
+
+<!-- TGD-001584 -->
+
 དབྱེ་ན་གཞི་ལས།
 
-<!-- pair: TGD-001585 | source: U01585 | role: main_text | format: prose -->
+[Not yet translated: U01584.]
+
+<!-- TGD-001585 -->
+
 བསྐལ་པ་དང་པོའི་མིས་ས་ལུ་སོགས་འཇོག་བྱས་པས་
 
-<!-- pair: TGD-001586 | source: U01586 | role: main_text | format: prose -->
+[Not yet translated: U01585.]
+
+<!-- TGD-001586 -->
+
 ཕྱིས་ཉེས་པ་དུ་མ་བསྐྱེད་པ་དང་།
 
-<!-- pair: TGD-001587 | source: U01587 | role: main_text | format: prose -->
+[Not yet translated: U01586.]
+
+<!-- TGD-001587 -->
+
 ཕྱི་རོལ་པའི་དྲང་སྲོང་ལྔ་བརྒྱས་
 
-<!-- pair: TGD-001588 | source: U01588 | role: main_text | format: prose -->
+[Not yet translated: U01587.]
+
+<!-- TGD-001588 -->
+
 གཡང་གཞི་སོགས་ཡོ་བྱད་ལྷག་པོ་བཅངས་པས་
 
-<!-- pair: TGD-001589 | source: U01589 | role: main_text | format: prose -->
+[Not yet translated: U01588.]
+
+<!-- TGD-001589 -->
+
 མངོན་ཤེས་ཐོབ་པ་ལ་སྒྲིབ་པར་གསུངས་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-001590 | source: U01590 | role: main_text | format: prose -->
+[Not yet translated: U01589.]
+
+<!-- TGD-001590 -->
+
 ཕན་ཡོན་ཡང་ཀཱ་ཤིའི་ནགས་ཀྱི་སེམས་ཅན་ཆེན་པོ་བཞིས་
 
-<!-- pair: TGD-001591 | source: U01591 | role: main_text | format: prose -->
+[Not yet translated: U01590.]
+
+<!-- TGD-001591 -->
+
 གཏན་ཁྲིམས་བསྲུངས་ཤིང་
 
-<!-- pair: TGD-001592 | source: U01592 | role: main_text | format: prose -->
+[Not yet translated: U01591.]
+
+<!-- TGD-001592 -->
+
 གཞན་ཡང་བཀོད་པའི་ཕན་ཡོན་གྱིས་ཚེ་འཕོས་ཚད་
 
-<!-- pair: TGD-001593 | source: U01593 | role: main_text | format: prose -->
+[Not yet translated: U01592.]
+
+<!-- TGD-001593 -->
+
 སུམ་ཅུ་རྩ་གསུམ་དུ་སྐྱེས་པར་གསུངས་བཞིན་ནོ། །
 
-<!-- pair: TGD-001594 | source: U01594 | role: main_text | format: prose -->
+[Not yet translated: U01593.]
+
+<!-- TGD-001594 -->
+
 དམིགས་བསལ་མེད་པ་ནི་སྤྱི་ལ་བཅས་ཀྱང་
 
-<!-- pair: TGD-001595 | source: U01595 | role: main_text | format: prose -->
+[Not yet translated: U01594.]
+
+<!-- TGD-001595 -->
+
 གཙོ་བོའི་མིང་ནས་སྨྲོས་པ་ལྟ་བུའོ། །
 
-<!-- pair: TGD-001596 | source: U01596 | role: main_text | format: prose -->
+[Not yet translated: U01595.]
+
+<!-- TGD-001596 -->
+
 དེ་ལྟར་མིན་ན་བདེ་གཤེགས་ཉེ་ཞོའི་ཕུང་པོར་འགྱུར་རོ།
 
-<!-- pair: TGD-001597 | source: U01597 | role: main_text | format: prose -->
+[Not yet translated: U01596.]
+
+<!-- TGD-001597 -->
+
 རྡོ༽༽བཅས་རང་གཅིག་པས་དང༌།
 
-<!-- pair: TGD-001598 | source: U01598 | role: main_text | format: prose -->
+[Not yet translated: U01597.]
+
+<!-- TGD-001598 -->
+
 ཆོ་ག་མེད་ཀྱང་སྲུང་བས་ཆོག་སྙམ་པའམ།
 
-<!-- pair: TGD-001599 | source: U01599 | role: main_text | format: prose -->
+[Not yet translated: U01598.]
+
+<!-- TGD-001599 -->
+
 རྟེན་གྱི་མདུན་དུ་རང་གི་དམ་བཅས་པས་
 
-<!-- pair: TGD-001600 | source: U01600 | role: main_text | format: prose -->
+[Not yet translated: U01599.]
+
+<!-- TGD-001600 -->
+
 ཐོབ་པར་འདོད་པའང་བྱུང་སྐད།
 
-<!-- pair: TGD-001601 | source: U01601 | role: main_text | format: prose -->
+[Not yet translated: U01600.]
+
+<!-- TGD-001601 -->
+
 འདིར་བསྟན་པར་འཇུག་པ་ལ་ཆོ་ག་ལྷག་པར་གལ་ཆེ་སྟེ།
 
-<!-- pair: TGD-001602 | source: U01602 | role: main_text | format: prose -->
+[Not yet translated: U01601.]
+
+<!-- TGD-001602 -->
+
 ཆོ་ག་བསྟན་པའི་དངོས་གཞི་ཡིན་པས་
 
-<!-- pair: TGD-001603 | source: U01603 | role: main_text | format: prose -->
+[Not yet translated: U01602.]
+
+<!-- TGD-001603 -->
+
 དེ་ཡོད་ན་བསྟན་པ་གནས་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-001604 | source: U01604 | role: main_text | format: prose -->
+[Not yet translated: U01603.]
+
+<!-- TGD-001604 -->
+
 བསྙེན་བཀུར་དང་ཕྱག་རྟེན་ཕུལ་བས་བསོད་ནམས་ཀྱི་ཚོགས་རྫོགས་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-001605 | source: U01605 | role: main_text | format: prose -->
+[Not yet translated: U01604.]
+
+<!-- TGD-001605 -->
+
 ལས་ཆོག་ཕྱག་བཞེས་ཀྱི་རིམ་པ་མཐོང་བས་
 
-<!-- pair: TGD-001606 | source: U01606 | role: main_text | format: prose -->
+[Not yet translated: U01605.]
+
+<!-- TGD-001606 -->
+
 བྱ་བ་དང་བྱ་བ་མ་ཡིན་པ་ལ་མཁས་པར་འགྱུར་བའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-001607 | source: U01607 | role: main_text | format: prose -->
+[Not yet translated: U01606.]
+
+<!-- TGD-001607 -->
+
 མཁན་སློབ་དགེ་འདུན་རྣམས་ཀྱི་མདུན་དུ་བླངས་པས་
 
-<!-- pair: TGD-001608 | source: U01608 | role: main_text | format: prose -->
+[Not yet translated: U01607.]
+
+<!-- TGD-001608 -->
+
 ཁྲེལ་ཡོད་ངོ་ཚ་ཤེས་པའི་ཕྱིར།
 
-<!-- pair: TGD-001609 | source: U01609 | role: main_text | format: prose -->
+[Not yet translated: U01608.]
+
+<!-- TGD-001609 -->
+
 གསོལ་གཞིའི་ལས་ཀྱི་གང་ཟག་ལ་བརྟེན་ནས་ལེན་པ་ཟབ་བོ། །
 
-<!-- pair: TGD-001610 | source: U01610 | role: main_text | format: prose -->
+[Not yet translated: U01609.]
+
+<!-- TGD-001610 -->
+
 དེ་སྐད་དུའང་ལུང་ལས།
 
-<!-- pair: TGD-001611 | source: U01611 | role: main_text | format: prose -->
+[Not yet translated: U01610.]
+
+<!-- TGD-001611 -->
+
 བཅོམ་ལྡན་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ནས་
 
-<!-- pair: TGD-001612 | source: U01612 | role: main_text | format: prose -->
+[Not yet translated: U01611.]
+
+<!-- TGD-001612 -->
+
 སྟོན་པ་གང་ལ་བགྱི་ཞུས་པས།
 
-<!-- pair: TGD-001613 | source: U01613 | role: main_text | format: prose -->
+[Not yet translated: U01612.]
+
+<!-- TGD-001613 -->
+
 སྟོན་པ་སོ་སོར་ཐར་པ་ལ་གྱིས་ཤིག །
 
-<!-- pair: TGD-001614 | source: U01614 | role: main_text | format: prose -->
+[Not yet translated: U01613.]
+
+<!-- TGD-001614 -->
+
 ཅེས་པ་དང་།
 
-<!-- pair: TGD-001615 | source: U01615 | role: main_text | format: prose -->
+[Not yet translated: U01614.]
+
+<!-- TGD-001615 -->
+
 ང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ནས་
 
-<!-- pair: TGD-001616 | source: U01616 | role: main_text | format: prose -->
+[Not yet translated: U01615.]
+
+<!-- TGD-001616 -->
+
 ཆོ་ག་ཕུན་སུམ་ཚོགས་པ་བརྟེན་པར་བྱའོ། །
 
-<!-- pair: TGD-001617 | source: U01617 | role: main_text | format: prose -->
+[Not yet translated: U01616.]
+
+<!-- TGD-001617 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-001618 | source: U01618 | role: main_text | format: prose -->
+[Not yet translated: U01617.]
+
+<!-- TGD-001618 -->
+
 ང་ནི་མྱ་ངན་འདས་གྱུར་ན།
 
-<!-- pair: TGD-001619 | source: U01619 | role: main_text | format: prose -->
+[Not yet translated: U01618.]
+
+<!-- TGD-001619 -->
+
 འདི་ནི་ཁྱེད་ཀྱི་སྟོན་པའོ།
 
-<!-- pair: TGD-001620 | source: U01620 | role: main_text | format: prose -->
+[Not yet translated: U01619.]
+
+<!-- TGD-001620 -->
+
 ཞེས་སོགས་སོ།
 
-<!-- pair: TGD-001621 | source: U01621 | role: main_text | format: prose -->
+[Not yet translated: U01620.]
+
+<!-- TGD-001621 -->
+
 རྡོ༽༽ དུག་གསུམ་ལས་འདོད་ཆགས་དང་ལྷག་པར་ཞེ་སྡང་ཉེས་པ་ཆེ་བར་གསུངས་མོད།
 
-<!-- pair: TGD-001622 | source: U01622 | role: main_text | format: prose -->
+[Not yet translated: U01621.]
+
+<!-- TGD-001622 -->
+
 འདིར་ནི་མི་ཤེས་པ་གཏི་མུག་དེ་ཉེས་པ་གཞན་ལས་ལྕི་སྟེ།
 
-<!-- pair: TGD-001623 | source: U01623 | role: main_text | format: prose -->
+[Not yet translated: U01622.]
+
+<!-- TGD-001623 -->
+
 རྣམ་འགྲེལ་ལས།
 
-<!-- pair: TGD-001624 | source: U01624 | role: main_text | format: prose -->
+[Not yet translated: U01623.]
+
+<!-- TGD-001624 -->
+
 བདག་ཡོད་ན་ནི་གཞན་དུ་ཤེས།
 
-<!-- pair: TGD-001625 | source: U01625 | role: main_text | format: prose -->
+[Not yet translated: U01624.]
+
+<!-- TGD-001625 -->
+
 བདག་གཞན་ཆ་ལས་འཇིག་དང་སྡང༌།
 
-<!-- pair: TGD-001626 | source: U01626 | role: main_text | format: prose -->
+[Not yet translated: U01625.]
+
+<!-- TGD-001626 -->
+
 དེ་གཉིས་དག་དང་ཡོད་འབྲེལ་ལས། །
 
-<!-- pair: TGD-001627 | source: U01627 | role: main_text | format: prose -->
+[Not yet translated: U01626.]
+
+<!-- TGD-001627 -->
+
 ཉེས་པ་ཐམས་ཅད་འབྱུང་བ་ཡིན།
 
-<!-- pair: TGD-001628 | source: U01628 | role: main_text | format: prose -->
+[Not yet translated: U01627.]
+
+<!-- TGD-001628 -->
+
 ཅེས་དང་།
 
-<!-- pair: TGD-001629 | source: U01629 | role: main_text | format: prose -->
+[Not yet translated: U01628.]
+
+<!-- TGD-001629 -->
+
 སྡུད་པ་ལས།
 
-<!-- pair: TGD-001630 | source: U01630 | role: main_text | format: prose -->
+[Not yet translated: U01629.]
+
+<!-- TGD-001630 -->
+
 སེམས་ཅན་ཐ་མ་འབྲིང་དང་མཆོག་གྱུར་ཇི་སྙེད་པ། །
 
-<!-- pair: TGD-001631 | source: U01631 | role: main_text | format: prose -->
+[Not yet translated: U01630.]
+
+<!-- TGD-001631 -->
+
 དེ་ཀུན་མ་རིག་སོགས་དང༌།
 
-<!-- pair: TGD-001632 | source: U01632 | role: main_text | format: prose -->
+[Not yet translated: U01631.]
+
+<!-- TGD-001632 -->
+
 ཉེ་བར་འཁོར་གྱིས་ཞུས་པ་ལས།
 
-<!-- pair: TGD-001633 | source: U01633 | role: main_text | format: prose -->
+[Not yet translated: U01632.]
+
+<!-- TGD-001633 -->
+
 འདོད་ཆགས་ནི་ཉེས་པ་ཆུང་ལ་འབྲལ་དཀའ།
 
-<!-- pair: TGD-001634 | source: U01634 | role: main_text | format: prose -->
+[Not yet translated: U01633.]
+
+<!-- TGD-001634 -->
+
 ཞེ་སྡང་ནི་ཉེས་པ་ཆེ་ལ་འབྲལ་དཀའ།
 
-<!-- pair: TGD-001635 | source: U01635 | role: main_text | format: prose -->
+[Not yet translated: U01634.]
+
+<!-- TGD-001635 -->
+
 གཏི་མུག་ནི་ཉེས་པ་ཡང་ཆེ་ལ་འབྲལ་ཡང་དཀའ།
 
-<!-- pair: TGD-001636 | source: U01636 | role: main_text | format: prose -->
+[Not yet translated: U01635.]
+
+<!-- TGD-001636 -->
+
 ཞེས་གསུངས་པས་
 
-<!-- pair: TGD-001637 | source: U01637 | role: main_text | format: prose -->
+[Not yet translated: U01636.]
+
+<!-- TGD-001637 -->
+
 འདི་ཡོད་ན་བདག་མེད་ཀྱི་དོན་མི་རྟོགས་པས་
 
-<!-- pair: TGD-001638 | source: U01638 | role: main_text | format: prose -->
+[Not yet translated: U01637.]
+
+<!-- TGD-001638 -->
+
 དེ་མ་རྟོགས་ན་རྒྱུ་འབྲས་ཀྱི་རྟེན་འབྲེལ་སྤང་བླང་མི་ཤེས་ཤིང་
 
-<!-- pair: TGD-001639 | source: U01639 | role: main_text | format: prose -->
+[Not yet translated: U01638.]
+
+<!-- TGD-001639 -->
+
 འབྲས་བུ་ངན་སོང་ལས་མི་འདའ་བའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-001640 | source: U01640 | role: main_text | format: prose -->
+[Not yet translated: U01639.]
+
+<!-- TGD-001640 -->
+
 རྡོ༽༽ ངན་འགྲོའི་གནས་དམྱལ་བ་དམན་པ་དུད་འགྲོ་མཐོ་བར་འདོད་མོད་ཀྱི།
 
-<!-- pair: TGD-001641 | source: U01641 | role: main_text | format: prose -->
+[Not yet translated: U01640.]
+
+<!-- TGD-001641 -->
+
 འདིར་ནི་དུད་འགྲོ་ཆོས་ཅན་
 
-<!-- pair: TGD-001642 | source: U01642 | role: main_text | format: prose -->
+[Not yet translated: U01641.]
+
+<!-- TGD-001642 -->
+
 ཁྱོད་གཏི་མུག་ཆེ་བའི་ཕྱིར་
 
-<!-- pair: TGD-001643 | source: U01643 | role: main_text | format: prose -->
+[Not yet translated: U01642.]
+
+<!-- TGD-001643 -->
+
 ཁྱོད་ཀུན་ལས་དམན་པ་ཡིན་པར་ཐལ་ལོ།
 
-<!-- pair: TGD-001644 | source: U01644 | role: main_text | format: prose -->
+[Not yet translated: U01643.]
+
+<!-- TGD-001644 -->
+
 དེའི་དོན་ནི་
 
-<!-- pair: TGD-001645 | source: U01645 | role: main_text | format: prose -->
+[Not yet translated: U01644.]
+
+<!-- TGD-001645 -->
+
 དམྱལ་བ་དང་ཡི་དྭགས་སུ་གནས་སྐབས་སྡུག་བསྔལ་ཆེ་ཡང་
 
-<!-- pair: TGD-001646 | source: U01646 | role: main_text | format: prose -->
+[Not yet translated: U01645.]
+
+<!-- TGD-001646 -->
+
 ཡུན་ཐུང་བས་མཐོ་རིས་སུ་སྐྱེ་བ་མང་དུ་གསུངས་ཏེ།
 
-<!-- pair: TGD-001647 | source: U01647 | role: main_text | format: prose -->
+[Not yet translated: U01646.]
+
+<!-- TGD-001647 -->
+
 གང་ལ་སྐྱེས། རྒྱུ་གང་གིས་སྐྱེས། ཇི་ལྟར་སྐྱེས་པ་ཤེས་པས་
 
-<!-- pair: TGD-001648 | source: U01648 | role: main_text | format: prose -->
+[Not yet translated: U01647.]
+
+<!-- TGD-001648 -->
+
 དགེ་བའི་བསམ་པ་སྐྱེས་ཏེ་
 
-<!-- pair: TGD-001649 | source: U01649 | role: main_text | format: prose -->
+[Not yet translated: U01648.]
+
+<!-- TGD-001649 -->
+
 ཚེ་འཕོས་པ་མང་དུ་འབྱུང་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-001650 | source: U01650 | role: main_text | format: prose -->
+[Not yet translated: U01649.]
+
+<!-- TGD-001650 -->
+
 དུད་འགྲོ་ནི་རྨོངས་ཤིང་བླུན་པ་གཏི་མུག་པས་
 
-<!-- pair: TGD-001651 | source: U01651 | role: main_text | format: prose -->
+[Not yet translated: U01650.]
+
+<!-- TGD-001651 -->
+
 དེ་འདྲ་གང་ཡང་མི་འབྱུང་ཞིང་
 
-<!-- pair: TGD-001652 | source: U01652 | role: main_text | format: prose -->
+[Not yet translated: U01651.]
+
+<!-- TGD-001652 -->
+
 སྡུག་བསྔལ་ལ་སྔ་མ་མ་དག་པར་ཕྱི་མའི་རྒྱུ་ཉིན་རེ་བཞིན་སྲོག་ཆག་མང་པོ་ཟར་འགྲོ་བས་
 
-<!-- pair: TGD-001653 | source: U01653 | role: main_text | format: prose -->
+[Not yet translated: U01652.]
+
+<!-- TGD-001653 -->
+
 ཐར་དུས་ཀྱང་ཤིན་ཏུ་རིང་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-001654 | source: U01654 | role: main_text | format: prose -->
+[Not yet translated: U01653.]
+
+<!-- TGD-001654 -->
+
 དེ་སྐད་དུའང༌།
 
-<!-- pair: TGD-001655 | source: U01655 | role: main_text | format: prose -->
+[Not yet translated: U01654.]
+
+<!-- TGD-001655 -->
+
 དྲན་པ་ཉེར་བཞག་ལས།
 
-<!-- pair: TGD-001656 | source: U01656 | role: main_text | format: prose -->
+[Not yet translated: U01655.]
+
+<!-- TGD-001656 -->
+
 སེམས་ཅན་དམྱལ་བར་སྐྱེས་པ་ནི་སླ་ཡི་༑
 
-<!-- pair: TGD-001657 | source: U01657 | role: main_text | format: prose -->
+[Not yet translated: U01656.]
+
+<!-- TGD-001657 -->
+
 དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེས་པ་ནི་དེ་ལྟར་མ་ཡིན་ནོ། །
 
-<!-- pair: TGD-001658 | source: U01658 | role: main_text | format: prose -->
+[Not yet translated: U01657.]
+
+<!-- TGD-001658 -->
+
 ཞེས་གསུངས་པ་ཡིན་ནོ། །
 
-<!-- pair: TGD-001659 | source: U01659 | role: main_text | format: prose -->
+[Not yet translated: U01658.]
+
+<!-- TGD-001659 -->
+
 རྡོ༽༽ བསླབ་པ་བླང་པས་ཉེས་པ་སྤྱད་པ་ནི་ལྕི་ལ་ཐོག་མ་ནས་མ་ཐོབ་པ་ལ་ཉེས་པ་མེད་པར་འདོད་མོད།
 
-<!-- pair: TGD-001660 | source: U01660 | role: main_text | format: prose -->
+[Not yet translated: U01659.]
+
+<!-- TGD-001660 -->
+
 འདིར་ནི་ཉམས་པ་ལས༌མ་ཐོབ་པ་ཉེས་པ་ཆེ་བར་བཞེད་དེ་
 
-<!-- pair: TGD-001661 | source: U01661 | role: main_text | format: prose -->
+[Not yet translated: U01660.]
+
+<!-- TGD-001661 -->
+
 འཁོར་བའི་གཉེན་པོ་དགག་སྒྲུབ་ཀྱི་ཚུལ་ཁྲིམས་ཡིན།
 
-<!-- pair: TGD-001662 | source: U01662 | role: main_text | format: prose -->
+[Not yet translated: U01661.]
+
+<!-- TGD-001662 -->
+
 དེ་སྤྱད་དཀའ་བའི་གནད་ཀྱིས་
 
-<!-- pair: TGD-001663 | source: U01663 | role: main_text | format: prose -->
+[Not yet translated: U01662.]
+
+<!-- TGD-001663 -->
+
 ལན་གཅིག་ཉམས་ཤིང༌སྡུག་བསྔལ་ཉམས་སུ་མྱོང་ཡང་
 
-<!-- pair: TGD-001664 | source: U01664 | role: main_text | format: prose -->
+[Not yet translated: U01663.]
+
+<!-- TGD-001664 -->
+
 ཐོག་མར་བསྲུང་སེམས་ངེས་འབྱུང་གིས་མཚམས་སྦྱར་ཏེ་
 
-<!-- pair: TGD-001665 | source: U01665 | role: main_text | format: prose -->
+[Not yet translated: U01664.]
+
+<!-- TGD-001665 -->
+
 མཆོག་གསུམ་དང་འབྲེལ་བའི་ཕྱིར་
 
-<!-- pair: TGD-001666 | source: U01666 | role: main_text | format: prose -->
+[Not yet translated: U01665.]
+
+<!-- TGD-001666 -->
+
 སྤོང་སེམས་དགེ་བའི་འབྲས་བུ་ནི་འབྱུང་སྟེ།
 
-<!-- pair: TGD-001667 | source: U01667 | role: main_text | format: prose -->
+[Not yet translated: U01666.]
+
+<!-- TGD-001667 -->
+
 འཇམ་དཔལ་གནས་པའི་མདོ་ལས།
 
-<!-- pair: TGD-001668 | source: U01668 | role: main_text | format: prose -->
+[Not yet translated: U01667.]
+
+<!-- TGD-001668 -->
+
 འཇམ་དཔལ་གྱིས་ཤཱ་རིའི་བུ་ཁྱོད་བསམ་གཏན་གང་བྱེད་སོགས་དྲིས་པས་
 
-<!-- pair: TGD-001669 | source: U01669 | role: main_text | format: prose -->
+[Not yet translated: U01668.]
+
+<!-- TGD-001669 -->
+
 དགེ་སློང་རྒྱ་ཆེན་ཆེར་འཁྲུགས་ནས་ལུས་དེ་ཉིད་དུ་དམྱལ་བར་ལྟུང་།
 
-<!-- pair: TGD-001670 | source: U01670 | role: main_text | format: prose -->
+[Not yet translated: U01669.]
+
+<!-- TGD-001670 -->
+
 ཤཱ་རིའི་བུས་དགེ་སློང་དེ་དག་ཆུད་བཟན་ཏོ་ཞེས་སྨྲས་པས།
 
-<!-- pair: TGD-001671 | source: U01671 | role: main_text | format: prose -->
+[Not yet translated: U01670.]
+
+<!-- TGD-001671 -->
+
 སངས་རྒྱས་ཀྱིས་ཁྱོད་དེ་སྐད་མ་ཟེར།
 
-<!-- pair: TGD-001672 | source: U01672 | role: main_text | format: prose -->
+[Not yet translated: U01671.]
+
+<!-- TGD-001672 -->
+
 དེ་དག་དམྱལ་བར་ཐང་ཅིག་རེག་ནས་དགའ་ལྡན་དུ་སྐྱེ་བར་འགྱུར་རོ། །
 
-<!-- pair: TGD-001673 | source: U01673 | role: main_text | format: prose -->
+[Not yet translated: U01672.]
+
+<!-- TGD-001673 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-001674 | source: U01674 | role: main_text | format: prose -->
+[Not yet translated: U01673.]
+
+<!-- TGD-001674 -->
+
 རེ་ཞིག་མི་དགེ་བ་ལ་ཞུགས་ཀྱང་འགྱོད་པ་ལྡོག་པར་འགྱུར་ཏེ།
 
-<!-- pair: TGD-001675 | source: U01675 | role: main_text | format: prose -->
+[Not yet translated: U01674.]
+
+<!-- TGD-001675 -->
+
 བཤེས་སྤྲིང་ལས།
 
-<!-- pair: TGD-001676 | source: U01676 | role: main_text | format: prose -->
+[Not yet translated: U01675.]
+
+<!-- TGD-001676 -->
+
 གང་ཞིག་སྔོན་ཆད×
 
-<!-- pair: TGD-001677 | source: U01677 | role: main_text | format: prose -->
+[Not yet translated: U01676.]
+
+<!-- TGD-001677 -->
+
 ཕྱིས་ནས་ ཟླ་བ་སྤྲིན×
 
-<!-- pair: TGD-001678 | source: U01678 | role: main_text | format: prose -->
+[Not yet translated: U01677.]
+
+<!-- TGD-001678 -->
+
 དགའ་བོ་སོར་འཕྲེང་྾ ཅེས་དང༌།
 
-<!-- pair: TGD-001679 | source: U01679 | role: main_text | format: prose -->
+[Not yet translated: U01678.]
+
+<!-- TGD-001679 -->
+
 ཡང༌དབྱིག་གཉེན་གྱིས་མི་ཤེས་སྡིག་པ་བྱས་པ་ཤིན་ཏུ་ལྕི།
 
-<!-- pair: TGD-001680 | source: U01680 | role: main_text | format: prose -->
+[Not yet translated: U01679.]
+
+<!-- TGD-001680 -->
+
 སོགས་དང༌།
 
-<!-- pair: TGD-001681 | source: U01681 | role: main_text | format: prose -->
+[Not yet translated: U01680.]
+
+<!-- TGD-001681 -->
+
 འདུལ་བ་ལས།
 
-<!-- pair: TGD-001682 | source: U01682 | role: main_text | format: prose -->
+[Not yet translated: U01681.]
+
+<!-- TGD-001682 -->
+
 ལེགས་སྐར་གྱིས་ལ་བ་ནག་པོ་གྱོན་ནས་ང་ནི་བ་ཀུ་ལའོ།
 
-<!-- pair: TGD-001683 | source: U01683 | role: main_text | format: prose -->
+[Not yet translated: U01682.]
+
+<!-- TGD-001683 -->
+
 ཞེས་སངས་རྒྱས་ལ་བསྡིག་པས་བརྒྱ་བྱིན་གྱིས་འདི་འདྲའང་འདུལ་བར་ངེས་པར་འབྱུང་ངམ་ཞུས་པས།
 
-<!-- pair: TGD-001684 | source: U01684 | role: main_text | format: prose -->
+[Not yet translated: U01683.]
+
+<!-- TGD-001684 -->
+
 ནམ་ཞིག་ན་དུས་ཡོད་གསུངས་པ་སོགས་ཀྱི་ལེགས་པར་གྲུབ་བོ། །
 
-<!-- pair: TGD-001685 | source: U01685 | role: main_text | format: prose -->
+[Not yet translated: U01684.]
+
+<!-- TGD-001685 -->
+
 སོ་ཐར་གནད་བསྡུས་ཏེ་རྡོ་རྗེའི་གསུངས་ཚིག་ཉི་ཤུ་པ་ལྷན་ཐབས་ཚིག་གསུམ་པའི་འགྲེལ་བཤད་ཀྱི་སྐབས་ཏེ་གསུམ་པའོ། །
 
-<!-- pair: TGD-001686 | source: U01686 U01687 U01688 | role: main_text | format: prose -->
+[Not yet translated: U01685.]
+
+<!-- TGD-001686 -->
+
 རྡོ༽༽ གཞན་བཤེས་གཉེན་ལ་ལས་
 ཐེག་པ་ཆེན་པོ་ནི་སྙིང་རྗེས་ཁྱད་པར་དུ་བྱས་པའི་
 སྙིང་རྗེ་བྱང་ཆུབ་ཀྱི་སེམས་ཡིན་ཟེར་བ་མང་ངོ༌། །
 
-<!-- pair: TGD-001689 | source: U01689 U01690 U01691 U01692 | role: main_text | format: prose -->
+Vajra statement. Many other spiritual friends say that the Greater Vehicle is the ordinary mind of awakening, namely compassion distinguished by compassion.[^N-B-001]
+
+<!-- TGD-001689 -->
+
 འདིར་ནི་བྱང་ཆུབ་ཀྱི་སེམས་དང་སྙིང་རྗེ་གཉིས་ཐ་དད་ཡིན་ཏེ་
 སྙིང་རྗེ་ནི་ཁྲ་དང་སྤྱང་ཀི་ཕྱི་རོལ་མུ་སྟེགས་པ་ནང་པའི་ཉན་རང་ལའང་ཡོད་པའི་ཕྱིར་རོ། །
 བྱང་སེམས་ནི་དེ་ལྟའི་རྐྱེན་དང་རྒྱུ་གཅིག་གི་མིན་པ་དཔག་མེད་གྱིས་ཏེ།
 དཀོན་མཆོག་ སྤྲིན་ལས།
 
-<!-- pair: TGD-001693 | source: U01693 | role: main_text | format: verse -->
+Here, the ordinary mind of awakening and compassion are distinct: compassion is present even in hawks and wolves, non-Buddhist outsiders, and Buddhist hearers and solitary realizers. The ordinary mind of awakening does not arise from just one such cause or condition, but from immeasurably many. The Cloud of Jewels says:
+
+<!-- TGD-001693 -->
+
 རྒྱལ་དང་རྒྱལ་བའི་ཆོས་ལ་དད་གྱུར་ཅིང་།
 
-<!-- pair: TGD-001694 | source: U01694 U01695 U01696 U01697 U01698 U01699 | role: main_text | format: prose -->
+Having faith in the victors and the victors’ Dharma,
+
+<!-- TGD-001694 -->
+
 ཞེས་སོགས་སོ།
 རྒྱུ་འབྲས་ཀྱི་ངོས་ནས་ཀྱང་མི་གཅིག་སྟེ་
 སྙིང་རྗེ་སོགས་ཀྱིས་བསྐྱེད་པའི་འབྲས་བུ་མིན་པའི་ཕྱིར།
@@ -4131,12 +7834,18 @@ language: bo
 དམིགས་ཡུལ་ཀྱང་མི་གཅིག་སྟེ་འཁོར་འདས་གཉིས་ཀར་དམིགས་པའི་ཕྱིར་རོ། །
 དེས་ན་སྙིང་རྗེ་དང་སྙིང་རྗེ་ཆེན་པོའི་ཁྱད་པར་མ་ཕྱེས་པ་གྱི་ནར་སྨྲས་པར་ཟད་དོ།
 
-<!-- pair: TGD-001700 | source: U01700 U01701 U01702 | role: main_text | format: prose -->
+and so forth. They differ also as cause and result, since [the source says] it is not a result produced by compassion and the rest.[^N-B-002] Their functions differ, since [the ordinary mind of awakening] brings about the attainment of buddhahood; their objects of focus differ, since it focuses on both samsara and nirvana. Thus the claim is merely loose talk that fails to distinguish compassion from great compassion.
+
+<!-- TGD-001700 -->
+
 རྡོ༽༽ བྱང་སྡོམ་ལ་རྟེན་སོ་ཐར་མི་དགོས་ཏེ་
 སོ་ཐར་ནི་གླིང་གསུམ་གྱི་སྐྱེས་པ་བུད་མེད་ལས་གཞན་ལ་མི་སྐྱེ་
 བྱང་སེམས་ཀུན་ལ་སྐྱེ་བར་གསུངས་པའོ་ཟེར།
 
-<!-- pair: TGD-001703 | source: U01703 U01704 U01705 U01706 U01707 U01708 U01709 | role: main_text | format: prose -->
+Vajra statement. Others say: “The bodhisattva vow needs no support in individual liberation, because individual liberation [vows] arise only in men and women of the three continents, whereas the ordinary mind of awakening is said to arise in all.”
+
+<!-- TGD-001703 -->
+
 འདིར་ནི་བྱང་ཆུབ་སེམས་དཔའི་སྡོམ་པ་ལ་སོ་ཐར་གྱི་རྟེན་ཅན་ཐོབ་པར་བཞེད་དེ།
 བྱང་སྡོམ་མ་སྐྱེས་པ་སྐྱེ་བ།
 སྐྱེས་པ་གནས་པ།
@@ -4145,19 +7854,34 @@ language: bo
 མཁར་གྱི་རྨང་རྡོ་བཞིན་ནོ། །
 དེ་སྐད་་ དུའང་ཇོ་བོ་རྗེས།
 
-<!-- pair: TGD-001710 | source: U01710 | role: main_text | format: verse -->
+Here it is maintained that the bodhisattva vow is attained with individual liberation as its support. Like the foundation stones of a castle, it supports the bodhisattva vow in arising where it has not arisen, abiding once arisen, and being enhanced ever further once abiding, until its culmination. Thus Lord Jowo says:
+
+<!-- TGD-001710 -->
+
 སོ་སོར་ཐར་པ་རིས་བདུན་གྱི། །
 
-<!-- pair: TGD-001711 | source: U01711 | role: main_text | format: prose -->
+Of the seven classes of individual liberation,
+
+<!-- TGD-001711 -->
+
 རྟག་ཏུ་སོགས་དང༌།
 
-<!-- pair: TGD-001712 | source: U01712 U01713 U01714 U01715 | role: main_text | format: verse -->
+“Always …” and so forth; also:
+
+<!-- TGD-001712 -->
+
 ཇི་ལྟར་འདི་ན་ཤིང་རྩ་གཙོ་བོ་སྟེ།
 རྣམ་པར་འཕེལ་྾
 དེ་བཞིན་དམ་ཆོས×
 གཞི་དང་རྩ་བ✖
 
-<!-- pair: TGD-001716 | source: U01716 U01717 U01718 U01719 U01720 U01721 | role: main_text | format: prose -->
+Just as here a tree’s root is foremost,
+Thoroughly increasing …
+Likewise, the holy Dharma ×
+The Ground and root ✖[^N-B-003]
+
+<!-- TGD-001716 -->
+
 ཞེས་སོ།
 གལ་ཏེ་སོ་ཐར་གྱི་རྟེན་མི་དགོས་ན་
 སྔགས་ལའང་དེ་མི་དགོས་པར་ཐལ།
@@ -4165,24 +7889,41 @@ language: bo
 འབྲས་བུར་དགོས་པར་མི་སྲིད་པའི་ཕྱིར།
 མདོ་རྒྱུད་ལས།
 
-<!-- pair: TGD-001722 | source: U01722 U01723 | role: main_text | format: verse -->
+So it is said. If individual liberation were not required as a support, it would follow that mantra too did not require it: of the causal and resultant Greater Vehicles, if it is not required for the cause, it cannot be required for the result. Sutras and continuums state:[^N-B-004]
+
+<!-- TGD-001722 -->
+
 སོ་ཐར་བྱང་ཆུང་སེམས་ཞེས་དང་།
 ཚུལ་ཁྲིམས་ཀྱི་ནི་བསླབ་པ་དང་།
 
-<!-- pair: TGD-001724 | source: U01724 U01725 U01726 | role: main_text | format: prose -->
+“Individual liberation and the ordinary mind of [awakening] …”[^N-B-005]
+And: “The training in ethical discipline …”
+
+<!-- TGD-001724 -->
+
 ཞེས་སོགས་ཀྱིས་བསལ་ལོ།
 བྱང་སེམས་བཞིན་སོ་ཐར་ཅི་རིགས་སུ་སྐྱེའམ་སྙམ་ན།
 དེའང་ཡོད་དེ་ཀཱ་ཤའི་ནགས་ཀྱི་སེམས་ཅན་ཆེན་པོ་བཞི་ལ་སོགས་པ་བཞིན་ནོ།༑
 
-<!-- pair: TGD-001727 | source: U01727 U01728 | role: main_text | format: prose -->
+These and other passages refute that position. If one wonders whether individual liberation, like the ordinary mind of awakening, can arise in other suitable beings: it can, as with the four great animals in the Kasha forest and others.
+
+<!-- TGD-001727 -->
+
 རྡོ༽༽ གཞན་བཞེད་ལ།
 བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་མཚན་ཉིད་ནི་མངོན་རྒྱན་ལས།
 
-<!-- pair: TGD-001729 | source: U01729 U01730 | role: main_text | format: verse -->
+Vajra statement. Others maintain that the defining characteristic of the ordinary mind of awakening is given in the Ornament of Clear Realization:
+
+<!-- TGD-001729 -->
+
 སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར།
 ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད།
 
-<!-- pair: TGD-001731 | source: U01731 U01732 U01733 U01734 U01735 U01736 U01737 U01738 U01739 | role: main_text | format: prose -->
+Arousing the ordinary mind [of awakening] is desiring
+Complete, perfect awakening for the sake of others.
+
+<!-- TGD-001731 -->
+
 ཅེས་སོ།
 དམིགས་པ་ནི་ཤེས་རབ་ཀྱིས་རྫོགས་བྱང་
 སྙིང་རྗེས་སེམས་ཅན་ཏེ་འཁོར་འདས་སོ། །
@@ -4193,7 +7934,10 @@ language: bo
 ངོ་བོའི་སྨོན་འཇུག་ཕྲ་རགས་བརྡ་དང་
 ཆོས་ཉིད་ཀྱིས་ཐོབ་པ་གཉིས་ཀྱི་སྒོ་ནས་ཏེ་བསྡུ་ན་
 
-<!-- pair: TGD-001740 | source: U01740 U01741 U01742 U01743 U01744 U01745 | role: main_text | format: prose -->
+So it says. Its objects of focus are perfect awakening through discerning knowing and sentient beings through compassion—that is, nirvana and samsara. Its companion is aspiration. Its divisions include the “inexhaustible” in terms of companions; four, beginning with Dharma activity, in terms of levels; relative and ultimate in terms of object; aspiration and engagement in terms of essence; subtle and coarse; and the two attainments through signs and through the nature of phenomena.[^N-B-006]
+
+<!-- TGD-001740 -->
+
 སྨོན་འཇུག་ས་དང་པོར་དོན་དམ་སྟེ་གསུམ་ལས།
 འཇུག་སྡོམ་ས་ཐོབ་ནས་སྐྱེར་འདོད་མོད།
 འདིར་ནི་བྱང་སེམས་ཀྱི་སྡེ་སྣོད་ཐམས་ཅད་བསྡུས་པ་
@@ -4201,7 +7945,10 @@ language: bo
 བསླབ་བཏུས་སོགས་ཀྱི་དོན་བསྡུས།
 ཙནྡྲ་གོ་མིའི་སྡོམ་པ་ཉི་ཤུ་པར།
 
-<!-- pair: TGD-001746 | source: U01746 U01747 U01748 U01749 U01750 U01751 U01752 U01753 | role: main_text | format: verse -->
+In summary there are three: aspiration, engagement, and the ultimate on the first level. Although others hold that the engagement vow arises only after attaining a level, here [the teaching is otherwise]. Candragomin’s Twenty Verses on Vows summarizes the meaning of Engaging in Bodhisattva Activity, the Compendium of Training, and other works that gather the entire bodhisattva scriptural collection:
+
+<!-- TGD-001746 -->
+
 རྙེད་དང་བཀུར་སྟིར་ཆགས་པ་ཡིས། །
 བདག་བསྟོད་གཞན་ལ་སྨོད་པ་དང༌། །
 སྡུག་བསྔལ་མེད་པར་གྱུར་པ་ལ། །
@@ -4211,34 +7958,56 @@ language: bo
 ཐེག་པ་ཆེན་པོ་སྤོང་བྱེད་ཅིང་། །
 དམ་ཆོས་འདྲར་སྣང་སྟོན་པའོ། །
 
-<!-- pair: TGD-001754 | source: U01754 U01755 U01756 U01757 U01758 | role: main_text | format: prose -->
+Through attachment to gain and honor,
+Praising oneself and disparaging others;
+To one who has become free of suffering,[^N-B-007]
+Withholding Dharma and wealth through miserliness;
+Not listening even when another explains,
+And striking another in anger;
+Rejecting the Greater Vehicle,
+And teaching what appears to resemble the holy Dharma.
+
+<!-- TGD-001754 -->
+
 ཞེས་རྩ་ལྟུང་བཞི་པོ་འདིས་དང་པོ་པ་ལ་འོང་མི་སྲིད་དེ།
 མཐོང་སྤང་བརྒྱ་རྩ་བཅུ་གཉིས་སྤང་པས་
 འཇིག་ཚོགས་ཀྱི་ལྟ་བ་དང་བྲལ་ཏེ་
 བདག་དང་བདག་གིར་འདི་ལྟར་བཞེད་པས་
 སོ་སོ་སྐྱེ་བོ་ལ་ཡང་འཇུག་སྡོམ་སྐྱེ་བ་ཡོད་དོ།
 
-<!-- pair: TGD-001759 | source: U01759 U01760 U01761 U01762 U01763 | role: main_text | format: prose -->
+These four root downfalls cannot occur in one on the first level, because that person has abandoned the 112 things abandoned by seeing and is free from the view of the transitory collection. Thus, regarding “I” and “mine” in this way, it is maintained that the engagement vow can arise even in an ordinary person.[^N-B-008]
+
+<!-- TGD-001759 -->
+
 རྡོ༽༽ འཇུག་སྡོམ་ནི་སྡོམ་པ་དགེ་བ་ཆོས་སྡུད་སེམས་ཅན་དོན་བྱེད་དེ་
 གསུམ་པོ་མཐའ་དག་མ་གྲུབ་ན་འཇུག་སྡོམ་དུ་མི་འགྱུར་ཟེར།
 འདིར་ནི་དེ་གསུམ་མཐའ་དག་རྫོགས་ནས་
 ས་བཅུ་པས་ཀྱང་མི་ནུས་ཏེ།
 སངས་རྒྱས་ཉག་གཅིག་གི་སྤྱོད་ཡུལ་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-001764 | source: U01764 U01765 U01766 U01767 | role: main_text | format: prose -->
+Vajra statement. Others say: “The engagement vow comprises restraint, gathering virtuous qualities, and benefiting sentient beings. Unless all three are accomplished, it is not the engagement vow.” Here, completing all three in their entirety is beyond even a tenth-level bodhisattva, because it belongs to the sphere of buddhas alone.
+
+<!-- TGD-001764 -->
+
 ནོར་བཟང་གིས་བླ་མ་རྣམས་ས་བཅུ་པ་ཡིན་ཡང་
 ཉམས་སུ་ལེན་ཚུལ་
 ཟུང་རེ་ཚེ་བརྟགས་གཞན་ཤེས་པར་ནུས་
 རེ་ཀན་ཞེས་གསུང་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-001768 | source: U01768 U01769 U01770 U01771 U01772 | role: main_text | format: prose -->
+Although Sudhana’s gurus were on the tenth level, each [knew] only one or two ways of practice; as they said, “How could [we] know the others?”[^N-B-009]
+
+<!-- TGD-001768 -->
+
 དེས་ན་སངས་རྒྱས་ཐོབ་འདོད་ཀྱི་སེམས་སྨོན་པ་
 དེའི་ཆེད་དུ་སྒོ་གསུམ་དགེ་བར་བཀོལ་བ་འཇུག་སྡོམ་ཡིན་པས་
 སྣ་རེ་ཟུང་ནུས་ཚོད་ལྕོག་ཚོད་མ་ཉམས་པར་ཉམས་སུ་ལེན་པ་ཅི་རིགས་ཀྱིས་ཀྱང་
 སྨོན་སེམས་ཀྱི་དབང་བྱས་ནས་བསྒྲུབ་པས་
 འཇུག་པའི་སྡོམ་པར་འཇུག་པ་ཡོད་པར་འགྱུར་རོ།
 
-<!-- pair: TGD-001773 | source: U01773 U01774 U01775 U01776 U01777 U01778 | role: main_text | format: prose -->
+Thus aspiration is the ordinary mind that wishes to attain buddhahood; the engagement vow is employing the three doors virtuously for that purpose. By practising whichever one or two things one can, to the extent one is capable, without letting them deteriorate, and accomplishing them under the power of the aspiring ordinary mind, one enters the engagement vow.
+
+<!-- TGD-001773 -->
+
 ལྷན༽༽ ས་དང་པོ་ཐོབ་ནས་ངན་འགྲོའི་འཇིག་པ་མེད་པར་འདོད་མོད།
 འདིར་ནི་དང་པོ་ཙམ་དུ་མ་ཟད་
 དག་པའི་ས་ཐོབ་ཀྱི་བྱང་སེམས་མི་དགེ་བའི་རྟེན་འབྲེལ་ཚོགས་ནས་ངན་འགྲོར་སོང་བ་ཡོད་དེ་
@@ -4246,26 +8015,41 @@ language: bo
 རྐྱེན་གཉིས་ཚོགས་ན་འགྲོ་སྟེ་
 རྟེན་འབྲེལ་གྱི་གཤིས་མི་འགྱུར་བའི་ཕྱིར།
 
-<!-- pair: TGD-001779 | source: U01779 U01780 U01781 U01782 U01783 | role: main_text | format: prose -->
+Addendum. It is commonly accepted that after attaining the first level there is no fear of the lower destinies. Here, however, not only at the first level: there are bodhisattvas who have attained pure levels yet go to lower destinies when the dependently arising factors of nonvirtue come together. They go when the two—latent obscurations of the knowable as cause, and the condition—come together, because the character of dependent arising does not change.
+
+<!-- TGD-001779 -->
+
 གཞོན་ནུ་ཆུ་སྐྱེས་དང་།
 རྒྱལ་པོ་དཔལ་བྱིན་དང་དུད་འགྲོར་སོང་བ་
 གླང་དོམ་སྤྲེའུའི་བྱང་སེམས་ལ་སོགས་པ་བཞིན་ནོ། །
 གཞན་འགྲོ་བ་དང་མི་མཚུངས་ཏེ༑
 མདོ་རྒྱན་ལས།
 
-<!-- pair: TGD-001784 | source: U01784 U01785 U01786 U01787 | role: main_text | format: verse -->
+Examples include the youth Chukye, King Paljin, and bodhisattvas who went into animal births as an ox, a bear, a monkey, and others. Their going is unlike that of other beings. The Ornament of the Sutras says:
+
+<!-- TGD-001784 -->
+
 དེ་ཡི་ཆོས་ཀུན་ཅེས་མ་ལྟ་བུ་དང༌།
 སྐྱེ་བ་སྐྱེད་མོ྾
 འབྱོར་བའི་དུས་དང×
 ཉོན་མོངས྾
 
-<!-- pair: TGD-001788 | source: U01788 U01789 U01790 U01791 | role: main_text | format: prose -->
+All his phenomena are like an illusion …[^N-B-010]
+Birth, a pleasure garden …
+Times of prosperity and ×
+Afflictions …
+
+<!-- TGD-001788 -->
+
 ཅེས་སོ།
 དེས་ན་འདི་ལ་ཐུགས་བསྐྱེད་པ་དང་
 ཕྲིན་ལས་རྒྱུན་མི་ཆད་པ་དང༌།
 རྟེན་འབྲེལ་དང་ཐུགས་ཀྱི་གསང་བར་གཞིག་ན་ངེས་པར་འགྱུར་རོ།
 
-<!-- pair: TGD-001792 | source: U01792 U01793 U01794 U01795 U01796 U01797 U01798 | role: main_text | format: prose -->
+So it says. Certainty about this arises by considering the arousal of awakened intention, uninterrupted awakened activity, dependent arising, and the secret of awakened mind.[^N-B-011]
+
+<!-- TGD-001792 -->
+
 ལྷན༽༽ ས་དང་པོའི་བདེན་པ་མཐོང་ནས་ལྟུང་མི་སྲིད་པ་རྒྱུ་མ་སྤྱད་པར་ཡིན་ལ།
 གལ་ཏེ་རྒྱུ་སྤྱད་པར་གྱུར་ན་
 ས་བཅུ་པ་ཡང་ལྟུང་པར་འགྱུར་ཏེ་
@@ -4274,7 +8058,10 @@ language: bo
 རྟག་ཆད་མཐར་བྱུང་བར་འགྱུར་རོ།
 དེའི་ཕྱིར་རྒྱུ་སྤྱད་ན་འབྲས་བུ་མི་ཁེགས་སོ། །
 
-<!-- pair: TGD-001799 | source: U01799 U01800 U01801 U01802 U01803 U01804 U01805 U01806 | role: main_text | format: prose -->
+Addendum. The impossibility of falling after seeing the truth on the first level applies when the cause has not been enacted. If the cause is enacted, even one on the tenth level will fall, because buddhas follow causes and conditions. If that is not established, causes and conditions would be denied, leading to the extremes of permanence and annihilation. Therefore, when the cause is enacted, its result cannot be prevented.
+
+<!-- TGD-001799 -->
+
 འདིར་འགའ་ཞིག་
 བྱང་སེམས་སྡོམ་པ་སྤང་བླང་གཉིས་ལས་
 སྤང་བྱར་དུག་གསུམ་གྱིས་དཀོན་མཆོག་མཆོད་ན་
@@ -4284,7 +8071,10 @@ language: bo
 ཚ་སོགས་རྐྱེན་གྱིས་མ་ནུས་ན་
 ལྟུང་མེད་ཡིན་ཟེར།
 
-<!-- pair: TGD-001807 | source: U01807 U01808 U01809 U01810 U01811 U01812 | role: main_text | format: prose -->
+Some say: “Of rejecting and accepting in the bodhisattva vow, a fault is afflicted when, for example, one makes an offering to the Jewels through the three poisons; it is unafflicted when one fails to accomplish it through laziness, indolence, and so forth. When one cannot do it owing to conditions such as fever, there is no downfall.”[^N-B-012]
+
+<!-- TGD-001807 -->
+
 དེ་ཆོས་ཅན།
 ལྟུང་ལྟུང་མེད་གཉིས་སུ་ཐག་བཅད་ན་
 ཉོན་མོངས་ཅན་མིན་པའི་ལྟུང་བ་མི་སྲིད་པར་ཐལ།
@@ -4292,7 +8082,10 @@ language: bo
 དཔེར་ན་འཁོར་འདས་གཉིས་སུ་བསྡུས་ན་
 ཕུང་གསུམ་མི་སྲིད་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-001813 | source: U01813 U01814 U01815 U01816 U01817 U01818 U01819 U01820 U01821 U01822 | role: main_text | format: prose -->
+Taking that claim as the subject: if the distinction is fixed as downfall or no downfall, it follows that an unafflicted downfall is impossible, because there is no phenomenon outside virtue and nonvirtue. For example, when everything is included in samsara and nirvana, a third category is impossible.
+
+<!-- TGD-001813 -->
+
 ཡང་དེ་ཆོས་ཅན།
 མི་དགེ་ཉོན་མོངས་པ་ཡིན་པར་ཐལ།
 ལྟུང་བ་ཞེས་པ་འོག་ནས་འོག་ཏུ་ལྟུང་པ་ཡིན་པའི་ཕྱིར།
@@ -4304,35 +8097,60 @@ language: bo
 ཉོན་མོངས་ཅན་ཡིན་ཏེ་
 རྩ་ཉོན་དང་ཉེ་ཉོན་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-001823 | source: U01823 | role: main_text | format: prose -->
+Again, taking that as the subject, it follows that [a downfall] is nonvirtuous and afflicted, since “downfall” means falling ever lower. Taking what is unafflicted as the subject, it follows that it is not a downfall, since it is free from the cause, affliction—as with a buddha. Taking laziness and the rest as the subject, they are afflicted, because they are root or subsidiary afflictions.
+
+<!-- TGD-001823 -->
+
 མཁའ་འགྲོ་སྡོམ་པའི་རྒྱུད་ལས།
 
-<!-- pair: TGD-001824 | source: U01824 U01825 U01826 U01827 | role: main_text | format: verse -->
+The Continuum of Dakini Vows says:
+
+<!-- TGD-001824 -->
+
 མི་ཤེས་པ་དང་བག་མེད་པ།
 མི་ནུས་པ་དང་ཉོན་མོངས་པ།
 བརྗེད་ངས་དྲན་པ་མི་གསལ་བ།
 འདི་དྲུག་དམ་ཚིག་ཉམས་པའི་རྒྱུ།
 
-<!-- pair: TGD-001828 | source: U01828 | role: main_text | format: prose -->
+Not knowing and heedlessness,
+Inability and affliction,
+Forgetfulness and unclear mindfulness:
+These six cause samaya to deteriorate.
+
+<!-- TGD-001828 -->
+
 ཞེས་པས་ཉོན་མོངས་ཅན་མིན་པའི་ལྟུང་བར་མི་སྲིད་ཅིང་མ་གྲུབ་བོ།
 
-<!-- pair: TGD-001829 | source: U01829 U01830 U01831 | role: main_text | format: prose -->
+Thus an unafflicted downfall is impossible and is not established.
+
+<!-- TGD-001829 -->
+
 རྡོ༽༽ བྱང་སེམས་རྣམས་གཞན་དོན་དུ་དགེ་བར་གྱུར་པས་
 སྲོག་གཅོད་སོགས་ཉེས་པར་མ་གྱུར་པ་
 དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོ་དང་བྲམ་ཟེ་ཁྱེའུ་སྐར་མ་ལྟར་རོ་ཟེར་རོ། །
 
-<!-- pair: TGD-001832 | source: U01832 U01833 U01834 U01835 U01836 | role: main_text | format: prose -->
+Vajra statement. Others say: “For bodhisattvas, killing and the rest become virtuous for the sake of others and are not faults, as with the captain Great Compassion and the brahmin youth Karma.”[^N-B-013]
+
+<!-- TGD-001832 -->
+
 འདིར་ཉེས་པར་མི་འགྱུར་གནང་བ་མེད་དེ་
 བྱང་སེམས་རྣམས་བདག་ཉིད་ཡལ་བར་དོར་ནས་
 གཞན་དོན་དུ་བཟོད་པ་ཐོབ་པ་
 དམྱལ་བར་གནས་པར་ནུས་པ་ལ་གནང་བའི་ཕྱིར།
 འཕྲུལ་དག་བདེན་པའི་མདོ་ལས།
 
-<!-- pair: TGD-001837 | source: U01837 U01838 | role: main_text | format: verse -->
+Here there is no permission on the grounds that it does not become a fault. Permission is given to bodhisattvas who have utterly cast themselves aside, attained forbearance for others’ sake, and can abide in hell. The Sutra of the Truth of Pure Magical Display says:
+
+<!-- TGD-001837 -->
+
 དབང་མེད་ལས་ཀྱི་རྣམ་སྨིན་འབྱུང་བ་ལ།
 སངས་རྒྱས་བཅོམ་ལྡན་འདས་ནི་མངའ་མི་མཛད།
 
-<!-- pair: TGD-001839 | source: U01839 U01840 U01841 U01842 U01843 U01844 U01845 U01846 | role: main_text | format: prose -->
+Over the involuntary arising of karmic maturation,
+The blessed Buddha does not exercise dominion.
+
+<!-- TGD-001839 -->
+
 ཅེས་དང་།
 གསང་ཆེན་ཐབས་མཁས་ལས།
 རབ་མཆོག་རྒྱལ་པོས།
@@ -4342,14 +8160,20 @@ language: bo
 དེའི་དགེ་རྩ་གཏོང་བ་ནི་དེ་ལྟ་མིན་ནོ། །
 ཞེས་སོ།
 
-<!-- pair: TGD-001847 | source: U01847 U01848 U01849 U01850 U01851 | role: main_text | format: prose -->
+And in the Great Secret of Skillful Means, King Rabchok says: “To generate roots of virtue in one sentient being, such things will arise for beings in the future. To abide in hell for a hundred thousand eons as a consequence is easy; giving up that single being’s roots of virtue is not like that.”[^N-B-014]
+
+<!-- TGD-001847 -->
+
 སྡོམ་པ་ཉི་ཤུ་པ་དང་སྤྱོད་འཇུག་གི་ལུང་བཀོད་ནུས་པས་གསུངས་ཀྱི།
 འབྲས་བུ་མི་འབྱུང་བ་ནི་མིན་ཏེ།
 དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོ་ལོ་སྟོང་ཕྲག་མང་པོར་དམྱལ་བ་མྱོང་ནས་
 སངས་རྒྱས་པའི་དུས་སུའང་སེང་ལྡེང་ཟུགས་ཏེ་
 འབྲས་བུ་འབྱུང་བའི་ཚུལ་བསྟན་པ་བཞིན་ནོ།
 
-<!-- pair: TGD-001852 | source: U01852 U01853 U01854 U01855 U01856 U01857 U01858 | role: main_text | format: prose -->
+The passages cited from the Twenty Verses on Vows and Engaging in Bodhisattva Activity speak of the capacity to bear [the consequence]; they do not say that no result occurs.[^N-B-015] Captain Great Compassion experienced hell for many thousands of years; even when he became a buddha, an acacia splinter pierced him, demonstrating how results arise.
+
+<!-- TGD-001852 -->
+
 རྡོ༽༽ བྱང་སེམས་རྣམས་ཐབས་མཁས་པས་མི་དགེ་བ་ལ་འཇུག་པར་འདོད་མོད།
 དེ་ཆོས་ཅན་ཐབས་མཁས་པའི་སྤྱོད་པ་ལ་མི་དགེ་བ་ཡོད་པ་མ་ཡིན་པར་ཐལ།
 དགེ་བ་ལས་མཐོ་རིས་ཐར་པ་དང་།
@@ -4358,35 +8182,56 @@ language: bo
 དཔེར་ན་མུན་པ་སང་མི་ནུས་པ་བཞིན་ནོ། །
 དེས་ན་ཐབས་མཁས་སྤྱོད་པ་དགེ་བ་ཁོ་ན་ཡིན་ནོ། །
 
-<!-- pair: TGD-001859 | source: U01859 U01860 U01861 U01862 | role: main_text | format: prose -->
+Vajra statement. Although others maintain that bodhisattvas engage skillfully in nonvirtue, taking that as the subject, it follows that there is no nonvirtue in the activity of skillful means. Virtue gives rise to higher destinies and liberation; nonvirtue gives rise to the sufferings of samsara and lower destinies, so it cannot ripen and liberate sentient beings—just as darkness cannot illuminate. Therefore the activity of skillful means is exclusively virtuous.
+
+<!-- TGD-001859 -->
+
 ཤེས་བྱ་ཐམས་ཅད་བྱང་སེམས་ཀྱི་བསླབ་པར་གསུངས་ཀྱང་
 བླང་བྱ་འབའ་ཞིག་ག་ལ་ཡིན།
 དུག་སྤང་རྒྱུ་ཡིན་ཡང་ངོ་མ་ཤེས་ན་
 སྤོང་མི་ཤེས་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-001863 | source: U01863 U01864 U01865 | role: main_text | format: prose -->
+Although all knowable things are taught as bodhisattvas’ training, how could they all be things to accept? Poison must be rejected, but without recognizing it one does not know how to reject it.
+
+<!-- TGD-001863 -->
+
 ཤེར་ཕྱིན་དང་གསང་ཆེན་ཐབས་མཁས་ལས་གསུངས་པའི་ཐབས་མཁས་པས་སྤྱོད་ན་ཉེས་པ་མེད་གསུངས་པ་
 འདི་ནི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་པས་
 འབྲས་བུ་བཀོད་ནུས་པ་ལ་གསུངས་སོ། །
 
-<!-- pair: TGD-001866 | source: U01866 U01867 | role: main_text | format: prose -->
+The Perfection of Discerning Knowing and the Great Secret of Skillful Means say that activity through skillful means is faultless. This refers to those who have attained forbearance concerning arising phenomena and can bear the result.[^N-B-016]
+
+<!-- TGD-001866 -->
+
 དེས་ན་སེང་གེ་འཁྱོངས་སར་ཝ་སྐྱེས་འཁྱོངས་ན་
 རྐེད་པ་བྲལ་བས་གཟབ་དགོས་སོ།
 
-<!-- pair: TGD-001868 | source: U01868 U01869 U01870 U01871 U01872 | role: main_text | format: prose -->
+Therefore, if a fox leaps where a lion leaps, its back will break. One must be careful.
+
+<!-- TGD-001868 -->
+
 རྡོ༽༽ སྙིང་རྗེ་ཆེན་པོས་གཞན་དོན་དུ་སྨོན་ལམ་འདེབས་པ་དང་
 རང་གཞན་བརྗེ་བར་བཤད་དོ། །
 འདིར་ནི་རང་གཞན་བརྗེ་བ་དེ་
 ཐབས་ལམ་མཁས་ན་ཉེས་པར་འགྱུར་བའི་སྐབས་ཡོད་དེ་
 བཟོད་པ་མ་ཐོབ་ན་འཇམ་དཔལ་གྱི་ཞིང་བཀོད་ལས།
 
-<!-- pair: TGD-001873 | source: U01873 U01874 U01875 U01876 | role: main_text | format: verse -->
+Vajra statement. It is taught that through great compassion one makes aspirations for others’ sake and exchanges self and others. Here there are occasions when exchanging self and others becomes a fault [through lack of] skill in means, if forbearance has not been attained.[^N-B-017] The Array of Manjushri’s Realm says:
+
+<!-- TGD-001873 -->
+
 ཆོས་རྣམས་ཐམས་ཅད་རྐྱེན་བཞིན་དུ། །
 འདུན་པའི་རྩེ་ལ་རབ་ཏུ་གནས།
 གང་གིས་སྨོན་ལམ་ཅི་བཏབ་པ། །
 དེ་འདྲའི་འབྲས་བུ་ཐོབ་པར་འགྱུར།
 
-<!-- pair: TGD-001877 | source: U01877 U01878 U01879 U01880 U01881 U01882 | role: main_text | format: prose -->
+All phenomena, following conditions,
+Abide at the tip of aspiration.
+Whatever aspiration anyone makes,
+A corresponding result will be attained.
+
+<!-- TGD-001877 -->
+
 ཞེས་པས་སྨོན་ལམ་འགྲུབ་ཅིང་
 གྲུབ་ན་སྡུག་བསྔལ་ཉེས་ཚོགས་ཀྱིས་ཚུལ་ཟིལ་གྱིས་མནན་ཏེ་
 ལེགས་སྤྱོད་ཀྱི་བར་ཆད་དུ་འགྱུར་བའི་ཕྱིར།
@@ -4394,43 +8239,65 @@ language: bo
 དུས་ལ་མ་བབས་པར་ལུས་བྱིན་པས་
 ཉན་ཐོས་ཀྱི་སར་ལྟུང་བའི་རྐྱེན་བྱས་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-001883 | source: U01883 U01884 U01885 U01886 U01887 | role: main_text | format: prose -->
+Thus aspirations are accomplished; if they are accomplished, the host of sufferings and faults may overwhelm one and obstruct good activity. For example, although noble Shariputra was a sixth-level bodhisattva, giving his body before the time was right created the condition for his falling to the hearer’s level.
+
+<!-- TGD-001883 -->
+
 དེས་ན་ཚོགས་སྦྱོར་དུ་བསམ་པ་རྒྱ་ཆེན་པོ་བསྐྱེད་ནས་
 སྦྱོར་བ་གཞན་དོན་འགྲུབ་ཚད་ལྕོག་ཚད་བྱ།
 མཐོང་ལམ་ནས་ས་འདུན་པའི་བར་སྤྱོད་པར་འཇུག།
 ས་བརྒྱད་པ་ནས་སྤྱོད་པ་རླབས་པོ་ཆེ་ལ་འཇུག་པ་ཡིན་ནོ། །
 དེ་ཕྱིར་སྤྱོད་འཇུག་ལས།
 
-<!-- pair: TGD-001888 | source: U01888 U01889 | role: main_text | format: verse -->
+Therefore, on accumulation and preparation one should arouse a vast intention and, in application, do as much for others as one can accomplish and sustain. From the path of seeing through the seventh level one enters activity; from the eighth one enters vast activity.[^N-B-018] Therefore Engaging in Bodhisattva Activity says:
+
+<!-- TGD-001888 -->
+
 དམ་པའི་ཆོས་ནི་སྤྱོད་པའི་ལུས། །
 ཕྲན་ཚེགས་ཆེད་དུ་གནོད་མི་བྱ།
 
-<!-- pair: TGD-001890 | source: U01890 U01891 U01892 U01893 U01894 | role: main_text | format: prose -->
+Do not harm the body that practises the holy Dharma
+For the sake of something trifling.
+
+<!-- TGD-001890 -->
+
 ཞེས་སོགས་གསུངས་སོ། །
 འོ་ན་ཅི་ཞེ་ན།
 ན་ཚ་སོགས་སྡུག་བསྔལ་སྐྱེ་དུས་
 ལམ་དུ་གཏོང་བ་མཛའ་བོའི་བུ་མོ་ལྟ་བུ་ཉམས་སུ་ལེན་དགོས་པ་
 ཆོས་རྗེའི་ཕྱག་བཞེས་ཡིན་ནོ།
 
-<!-- pair: TGD-001895 | source: U01895 U01896 U01897 U01898 | role: main_text | format: prose -->
+So it teaches. What, then, should one do? When suffering such as illness arises, one must practise bringing it onto the path, as did Maitrakanyaka.[^N-B-019] This is the Dharma Lord’s own practice.
+
+<!-- TGD-001895 -->
+
 ལྷན༽༽ ཐབས་ཚོགས་བསགས་པའི་ཡུལ་
 མར་སེམས་ཅན་རྣམས་ལ་བུ་དང་ཆུང་མ་གཏོང་བ་སོགས་བསགས་དགོས་ཟེར་རོ། །
 དེ་ནི་བདག་ཅག་གི་སྟོན་པའི་མཛད་པ་ཡིན་པས་སྒྲུབ་མི་ནུས་
 གནས་སྐབས་ཕན་བྱེད་ཀྱིས་ཀྱང་སངས་མི་རྒྱ་བ་
 
-<!-- pair: TGD-001899 | source: U01899 U01900 U01901 U01902 U01903 | role: main_text | format: prose -->
+Addendum. Others say that to gather the accumulation of means one must give children, a wife, and so forth to sentient beings below, the field of accumulation. Those are deeds of our Teacher, which we cannot accomplish; temporary benefit alone does not lead to buddhahood.
+
+<!-- TGD-001899 -->
+
 དེས་ན་ཉམས་ལེན་རྨད་དུ་བྱུང་བ་རྣལ་འབྱོར་ཀུ་ས་ལིའི་ཉམས་ལེན་ནང་གི་ཚོགས་གསོག་ཡིན་ཏེ་
 ཞིང་འཁོར་འདས་དག་པས་ཁྱད་པར་འཕགས་པ།
 བསམ་པ་དོན་གཉིས་སྒྲུབ་པའི་ཕྱིར་ཁྱད་པར་འཕགས་པ།
 དངོས་པོ་གཅེས་པའི་ལུས་བདུད་རྩིར་བསྒྱུར་ཏེ་
 ཟད་པ་མེད་པར་ཕུལ་བས་ཁྱད་པར་འཕགས་པ་ཡིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-001904 | source: U01904 U01905 U01906 | role: main_text | format: prose -->
+Therefore the extraordinary practice is the inner accumulation, the practice of kusali yoga. Its field is superior because samsara and nirvana are pure; its intention is superior because it accomplishes the two purposes; and its substance is superior because one transforms the cherished body into nectar and offers it inexhaustibly.
+
+<!-- TGD-001904 -->
+
 ན་ཚ་སོགས་བྱུང་དུས་ཀུ་ས་ལིའི་ལམ་གཏོང་
 འདི་ཁོ་ན་ལས་གཞན་གྱིས་མི་ཕན་པས་
 གེགས་སེལ་ཁྱད་འཕགས་ཡང་འདི་ཡིན་ནོ།
 
-<!-- pair: TGD-001907 | source: U01907 U01908 U01909 U01910 U01911 U01912 U01913 U01914 | role: main_text | format: prose -->
+When illness and so forth arise, nothing other than this kusali practice of bringing them onto the path is helpful. This, too, is the exceptional means of clearing obstacles.
+
+<!-- TGD-001907 -->
+
 རྡོ༽༽ གང་ལ་གནོད་པ་བྱས་ཀྱང་བདེ་འབྲེལ་བ་ཞེས་པས་
 བྱང་སེམས་ལ་གནོད་པ་བྱས་པའི་ཕྲིན་ལས་འཇུག་ཏེ་
 བདེ་བར་འབྲེལ་བ་ཡིན་ཟེར་མོད།
@@ -4440,18 +8307,29 @@ language: bo
 དཔེར་ན་དྲུག་གི་ས་བོན་འབྲས་བུ་བཞིན་ནོ། །
 དེ་སྐད་དུའང་སངས་རྒྱས་མི་སྤོང་བའི་མདོ་ལས།
 
-<!-- pair: TGD-001915 | source: U01915 U01916 U01917 U01918 | role: main_text | format: prose -->
+Vajra statement. On the basis of “whoever harms [a bodhisattva] is connected with happiness,” others say that harming bodhisattvas brings one within their awakened activity because it connects one with happiness. Taking that as the subject: the result of the cause, harming a bodhisattva, is not connected with happiness; that would be unreasonable, since an act motivated by hatred is a seed of suffering—like the fruit of a “six” seed.[^N-B-020] The Sutra of Not Abandoning the Buddha likewise says:
+
+<!-- TGD-001915 -->
+
 སེམས་ཅན་ཐམས་ཅད་ཀྱི་མིག་ཕྱུང་བ་བས་ཀྱང་
 སེམས་ལ་གཤེ་བ་ཉེས་པ་ཆེའོ། །
 ཞེས་པ་དང་།
 བུ་མོ་ཡེ་ཤེས་ལྡན་གྱིས་ཞུས་པར།
 
-<!-- pair: TGD-001919 | source: U01919 U01920 U01921 | role: main_text | format: verse -->
+“Abusing an ordinary mind [apparently, a bodhisattva] is a greater fault than gouging out the eyes of all sentient beings.”[^N-B-021] And in the Questions of the Girl Yeshe Den:
+
+<!-- TGD-001919 -->
+
 གཅིག་ལ་གཅིག་གིས་གནོད་སེམས་བྱས་པ་ན།
 སྦྱིན་པས་མི་སྐྱོབ་ཚུལ་ཁྲིམས་མི་སྐྱོབ་སྟེ།
 བསམ་གཏན་མི་སྐྱོབ་སངས་རྒྱས་མཆོད་པས་མིན།
 
-<!-- pair: TGD-001922 | source: U01922 U01923 U01924 U01925 U01926 U01927 U01928 | role: main_text | format: prose -->
+When one harbors an ordinary mind of harm toward another,
+Giving does not protect, ethical discipline does not protect,
+Meditative stability does not protect, nor do offerings to buddhas.
+
+<!-- TGD-001922 -->
+
 ཞེས་དང༌།
 སྤྱོད་འཇུག་ལས།
 གང་ཞིག་དེ་འདྲའི་རྒྱལ་སྲས་སོགས་དང་།
@@ -4460,32 +8338,47 @@ language: bo
 བདེ་བ་འབྲེལ་ཞེས་པ་
 འབྲས་བུ་ཡ་ཟུང་ཞིག་གནས་སྐབས་ལན་མི་ལྡོག་པས་བརྩེ་བར་སྐྱོང་བས་ཡིན་ནོ།
 
-<!-- pair: TGD-001929 | source: U01929 U01930 U01931 U01932 U01933 | role: main_text | format: prose -->
+Also, Engaging in Bodhisattva Activity says, “Whoever, toward such a victor’s child …,” and Entering the Middle Way says, “Because, toward the victors’ children …,” and so forth. “Connected with happiness” refers to a particular portion of the result: for the time being [the bodhisattva] does not retaliate, but protects the person with affection.[^N-B-022]
+
+<!-- TGD-001929 -->
+
 རྡོ༽༽ འཕེན་རྫོགས་མུ་བཞི་ལས་
 འཕེན་བྱེད་དགེ་སྡིག་དང་དགེ་བ་སྟེ་རྒྱུ་འབྲས་ཐ་དད་དུ་འདོད་པ་དེ་ཆོས་ཅན།
 མི་སྲིད་པར་ཐལ།
 དགེ་བ་བ་དང་མི་དགེ་བའི་འབྲས་བུ་སོ་སོར་འབྱུང་བ་གནས་དང་གནས་མིན་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱིས་གཟིགས་པའི་ཕྱིར།
 ས་བོན་སོ་སོ་ལས་འབྲས་བུ་སོ་སོ་འབྱུང་བ་བཞིན་ནོ། །
 
-<!-- pair: TGD-001934 | source: U01934 U01935 U01936 | role: main_text | format: prose -->
+Vajra statement. Of the four alternatives for projecting and completing karma, take the claim that the projecting [cause] is virtue or wrongdoing while [the completing factor] is virtue, so that cause and result are different.[^N-B-023] It follows that this is impossible, since primordial knowing of what is possible and impossible sees the results of virtue and nonvirtue arise separately, just as distinct fruits arise from distinct seeds.
+
+<!-- TGD-001934 -->
+
 དེ་བས་ན་འཕེན་བྱེད་དགེ་བའི་ཚོགས་རྫོགས་བྱེད་ཀྱང་དགེ་བ།
 འཕེན་བྱེད་མི་དགེ་ཡིན་ན་རྫོགས་བྱེད་ཀྱང་མི་དགེ་བས་རྫོགས་ཏེ་
 རྒྱུ་དགེ་སྡིག་གཉིས་ལས་འབྲས་བུ་བདེ་སྔུག་སོ་སོར་འབྱུང་བ་ཡིན་ནོ།
 
-<!-- pair: TGD-001937 | source: U01937 U01938 U01939 U01940 | role: main_text | format: prose -->
+Therefore when the projecting factor is an accumulation of virtue, the completing factor too is virtue. When the projecting factor is nonvirtue, completion too is through nonvirtue. From the two causes, virtue and wrongdoing, happiness and suffering arise as distinct results.
+
+<!-- TGD-001937 -->
+
 ལེགས་སྐར་དང་མ་སྐྱེས་དགྲ་ཡང་རྒྱུ་འཕེན་བྱེད་དང་པོ་དད་གུས་དང་།
 མཚམས་མེད་བྱས་པས་རྫོགས་བྱེད་འབྲས་བུ་ལེགས་སྐར་རེ་ཞིག་ན་ཐར་པ་ཐོབ་པར་གསུངས་པ་དང༌།
 མ་སྐྱེས་དགྲ་འབྲུམ་བུ་མེ་དབལ་ཐེབས་པ་དང་
 ཚེ་འཕོས་ནས་དམྱལ་བར་དར་ཅིག་སྐྱེས་པར་གསུངས་པ་བཞིན་ནོ།
 
-<!-- pair: TGD-001941 | source: U01941 U01942 U01943 U01944 U01945 | role: main_text | format: prose -->
+Sunakshatra and Ajatashatru illustrate this: the initial projecting cause was faith and respect; [they also] committed deeds of immediate retribution. As completing results, Sunakshatra is said eventually to attain liberation, while Ajatashatru was afflicted with burning eruptions and, after death, was born briefly in hell.[^N-B-024]
+
+<!-- TGD-001941 -->
+
 རྡོ༽༽ གཞན་དག་ན་རེ་
 སེམས་ཅན་བློས་གཏོང་ཕན་ཡོན་མི་དྲན།
 ཚོགས་གཉིས་མི་བསགས།
 སྦྱོང་ལ་མི་བརྩོན་པ།
 ནག་པོའི་ཆོས་བཞི་དང་ཕམ་འདྲའི་ཉེས་པ་གང་རུང་གཅིག་གིས་བྱང་ཆུབ་ཀྱི་སེམས་འཆོར་བར་འདོད་མོད།
 
-<!-- pair: TGD-001946 | source: U01946 U01947 U01948 U01949 U01950 U01951 U01952 U01953 U01954 | role: main_text | format: prose -->
+Vajra statement. Others maintain that the ordinary mind of awakening is lost through any one of these: abandoning sentient beings in the conceptual mind, not remembering its benefits, not gathering the two accumulations, not striving in training, the four dark qualities, or faults resembling defeat.
+
+<!-- TGD-001946 -->
+
 འདིར་བྱང་ཆུབ་ཀྱི་སེམས་ནི་བརྗེད་པར་གྱུར་པ་ལས་འཆོར་བར་མ་གསུངས་ཏེ་
 བསོད་ནམས་ཐམས་ཅད་སྡུད་པ་
 ཏིང་ངེ་འཛིན་གྱི་མདོ་ལས་
@@ -4496,45 +8389,74 @@ language: bo
 དཀོན་བརྩེགས་སྡོང་རྒྱན་སོགས་ལས་ཀྱང་
 བརྗེད་ལས་འཆོར་བར་མ་གསུངས་སོ།
 
-<!-- pair: TGD-001955 | source: U01955 U01956 U01957 U01958 U01959 | role: main_text | format: prose -->
+Here it is said to be forgotten, not lost. The Sutra of the Deep Absorption that Gathers All Merit says: “This Licchavi Vimala previously aroused the ordinary mind [of awakening] in Krakucchanda’s teaching. Through practising the four dark qualities he has forgotten it until now; but because he aroused that ordinary mind then, I now give him a prediction.” The Heap of Jewels, the Array of Stems, and others likewise speak of forgetting, not losing.
+
+<!-- TGD-001955 -->
+
 དེས་ན་ཕལ་ལས་རྡོ་རྗེ་ཕ་ལམ་དང་འདྲ་བའི་སེམས་འདི་ལུག་ར་དང་འདྲ་བའི་ལོག་ལྟ་མ་གཏོགས་
 གཞན་གྱིས་མིའཆོར་བར་གསུངས་ཤིང་
 དེར་མ་ཟད་སངས་རྒྱས་ལ་དགེ་རྩ་ཅུང་ཟད་རེ་བསྐྱེད་པའང་ཆུད་མི་ཟ་བ་དང་
 གཤེགས་སྙིང་རྟག་བརྟན་དུ་ཡོད་པས་དབང་བྱས་པ་དང༌།
 ཅི་རིགས་ཀྱི་འཇུག་སྡོམ་དུ་འགྱུར་བའི་ཕྱིར་འཆོར་བ་ནི་མི་སྲིད་དོ།
 
-<!-- pair: TGD-001960 | source: U01960 U01961 U01962 | role: main_text | format: prose -->
+Thus the Extensive Sutra says that this diamondlike ordinary mind cannot be lost through anything except wrong views, likened to sheep and goats.[^N-B-025] Moreover, even the slightest root of virtue generated toward a buddha is not wasted. Through the power of the enduring, stable tathagata essence, it becomes whichever engagement vow is appropriate; therefore its loss is impossible.
+
+<!-- TGD-001960 -->
+
 རྡོ༽༽ ཉོན་ཤེས་སྙོམ་འཇུག་གམ་ལས་ཉོན་ཤེས་སྒྲིབ་གསུམ་པོ་རིམ་བཞིན་མཐོང་ལམ་དང་
 བདུན་པ་རིང་དུ་སོང་བ་མན་དང་།
 ས་བཅུའི་རྒྱུན་མཐར་སོ་སོར་སྤོང་ཟེར་མོད།
 
-<!-- pair: TGD-001963 | source: U01963 U01964 U01965 U01966 U01967 | role: main_text | format: prose -->
+Vajra statement. Others say that the three obscurations—afflictive, cognitive, and those of meditative attainment, or alternatively karmic, afflictive, and cognitive—are abandoned separately, respectively on the path of seeing, through the seventh level Far Gone, and at the end of the tenth level.
+
+<!-- TGD-001963 -->
+
 འདིར་ནི་སྤང་བྱ་གཅིག་ལ་རག་ཕྲའམ་ཆེ་འབྲིང་ཆུང་གསུམ་མངོན་རྟོགས་ཡོད་མེད་ཀྱིས་
 སོ་སོའི་རྒྱུད་ལ་རག་པ་རྟོགས་ལྡན་ལ་ཡོད་པ་ཕྲ་བར་བཏགས་པ་སྟེ་
 ཤེས་སྒྲིབ་ཀྱང་ཉོན་མོངས་དུག་གསུམ་ཁོ་ན་ཡིན་པ་
 རྒྱ་རོལ་ལས།
 སངས་རྒྱས་ན་བདུན་ཕྲག་གཅིག་ལོན་པ་ན།
 
-<!-- pair: TGD-001968 | source: U01968 U01969 U01970 | role: main_text | format: verse -->
+Here there is one thing to abandon, divided into coarse and subtle, or great, middling, and small. According to whether clear realization is present, what is coarse in a person’s continuum is designated subtle when present in one with realization. Cognitive obscurations too are exclusively the three poisonous afflictions. In the Vast Play, a week after awakening, [the Buddha says]:
+
+<!-- TGD-001968 -->
+
 གཏི་མུག་འབྱུང་བ་འདོད་དང་ཁྲོ། །
 དེ་དག་འགྲོ་བའི་དགྲ་འདྲ་སྟེ། །
 དེ་དག་མ་ལུས་ངས་འདིར་བཤིག། །
 
-<!-- pair: TGD-001971 | source: U01971 U01972 | role: main_text | format: prose -->
+Stupidity arising, desire, and anger—
+These are like enemies of beings.
+I have destroyed them here without remainder.
+
+<!-- TGD-001971 -->
+
 ཅེས་དང༌།
 དཀོན་མཆོག་སྤྲིན་ལས།
 
-<!-- pair: TGD-001973 | source: U01973 U01974 U01975 U01976 | role: main_text | format: verse -->
+And the Cloud of Jewels says:
+
+<!-- TGD-001973 -->
+
 བྱང་ཆུང་སྙིང་པོར་བཞུགས་པ་ན། །
 འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དང་། །
 དྲི་མ་གཞན་སྤོང་རྣམ་མང་པོ། །
 ཁྱོད་ཀྱི་ཡེ་ཤེས་མེ་ཡིས་བསྲེག །
 
-<!-- pair: TGD-001977 | source: U01977 U01978 | role: main_text | format: prose -->
+When you abided at awakening’s heart,[^N-B-026]
+Desire, hatred, stupidity,
+And the many other stains to abandon
+Were burned by the fire of your primordial knowing.
+
+<!-- TGD-001977 -->
+
 ཅེས་གསུངས་པས་དེའི་ཕྱིར་
 སྒྲིབ་པ་རྣམ་གསུམ་ཉོན་མོངས་སྒྲིབ་པར་གཅིག་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-001979 | source: U01979 U01980 U01981 U01982 U01983 U01984 | role: main_text | format: prose -->
+Because this is taught, the three obscurations are one as afflictive obscuration.
+
+<!-- TGD-001979 -->
+
 རྡོ༽༽ གཞན་དག་ན་རེ།
 ཆོས་ཉིད་ཀྱི་བདེན་པ་ནི་མུ་སྟེགས་བྱེད་ནས་ཨ་ཏི་ཡོ་གའི་བར་དུ་གོང་མས་འོག་མ་བཀག་ནས་རྟོགས་ པར་འདོད་པ་དེ་ཆོས་ཅན།
 ཆོས་ཉིད་མི་རྟོགས་པར་ཐལ།
@@ -4542,34 +8464,54 @@ language: bo
 གྲུབ་མཐའ་ཐམས་ཅད་ལྟ་བ་དང་བློ་ཡིན།
 དེས་དོན་དམ་ལ་མི་རིག་པ་སྤྱོད་འཇུག་ལས།
 
-<!-- pair: TGD-001985 | source: U01985 | role: main_text | format: verse -->
+Vajra statement. Others hold that the truth of the nature of phenomena is realized by each higher system refuting the lower, from outsiders through Atiyoga. Taking that as the subject: it follows that the nature of phenomena is not realized, because this is constructed by the conceptual mind and has become an object of comprehension and a valid cognition.[^N-B-027] All tenet systems are views and conceptual mind. That does not know the ultimate. Engaging in Bodhisattva Activity says:
+
+<!-- TGD-001985 -->
+
 དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན།
 
-<!-- pair: TGD-001986 | source: U01986 U01987 U01988 U01989 U01990 | role: main_text | format: prose -->
+The ultimate is not the conceptual mind’s sphere.
+
+<!-- TGD-001986 -->
+
 སོགས་དང་།
 རྩ་ཤེར་ལས།
 གང་གི་ཐུགས་བརྩེས་ཉེར་བཟུང་ནས།
 སོགས་དང་།
 སྡུད་པ་ལས།
 
-<!-- pair: TGD-001991 | source: U01991 U01992 U01993 | role: main_text | format: verse -->
+And so forth. The Root Verses on Discerning Knowing say, “Having been embraced by his loving awakened intention …,” and so forth. The Condensed Perfection of Discerning Knowing says:
+
+<!-- TGD-001991 -->
+
 ཇི་ལྟར་འཛིན་པ་དེ་ལྟར་ཀུན་ནས་ཉོན་མོངས་བསྟན།
 བདག་དང་བདག་གིར་མི་དམིགས་
 རྣམ་པར་བྱང་བར་གསུངས་ཞེས་དང༌།
 
-<!-- pair: TGD-001994 | source: U01994 U01995 U01996 U01997 | role: main_text | format: prose -->
+However one apprehends, that is taught as thorough affliction;
+Not taking self and mine as objects of focus
+Is called complete purification.
+
+<!-- TGD-001994 -->
+
 རྣམ་འགྲེལ་ལས།
 བདག་ཡོད་ན་ནི་སོགས།
 ཞེས་གསུངས་པས།
 ཇི་སྙེད་གྲུབ་པའི་མཐས་དོན་དམ་པའི་བདེན་པ་མཐོང་བར་བསྒྲིབས་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-001998 | source: U01998 U01999 U02000 U02001 | role: main_text | format: prose -->
+The Commentary on Valid Cognition says, “When there is a self …,” and so forth. Thus every tenet system obscures seeing ultimate truth.
+
+<!-- TGD-001998 -->
+
 རྡོ༽༽ ཉན་ཐོས་ཀྱིས་བདག་མེད་མཐོང་བ་མེད་པར་འདོད་པ་དང༌།
 ཡོངས་རྫོགས་རྟོགས་པར་འདོད་པ་གཉིས་སུ་བྱུང་ཞིང༌།
 དེ་ཡང་ཆ་མེད་དོན་དམ་པར་ཕྱོགས་ཆ་དང་
 སྐད་ཅིག་གིས་གནོད་པས་བདེན་པ་མཐོང་བ་མིན་ནོ་ཞེས་ཟེར་རོ།
 
-<!-- pair: TGD-002002 | source: U02002 U02003 U02004 U02005 U02006 U02007 U02008 U02009 U02010 U02011 | role: main_text | format: prose -->
+Vajra statement. Two positions occur: that hearers do not see selflessness, and that they realize it completely. It is also said that because directional parts and moments refute their partless ultimate, they do not see the truth.
+
+<!-- TGD-002002 -->
+
 འདིར་ནི་ཉན་ཐོས་ཀྱིས་ཀྱང་གནས་ལུགས་ཕྱོགས་གཅིག་མཐོང་བ་ཡོད་དེ།
 གནས་ལུགས་རྟོགས་པའི་ཤེས་རབ་མེད་ན་
 འཁོར་བ་ལས་མི་འདའ་བའི་ཕྱིར།
@@ -4581,35 +8523,59 @@ language: bo
 བྱང་སེམས་རྣམས་ལ་ཡོད་པའི་ཕྱིར་རོ། །
 སློབ་དཔོན་གྱིས་ཀྱང་།
 
-<!-- pair: TGD-002012 | source: U02012 U02013 U02014 U02015 | role: main_text | format: verse -->
+Here hearers too see one aspect of the natural state. Without the discerning knowing that realizes the natural state, they could not transcend samsara, just like outsiders. The noble Sutra of the Ten Levels says that they are surpassed by the conceptual mind of the seventh level, Far Gone; this clearly establishes the point. Otherwise they would be surpassed by the conceptual mind of the first level, since [realization] would be absent in hearers and present in bodhisattvas. The master too says:
+
+<!-- TGD-002012 -->
+
 ཐེག་ཆེན་ལ་ནི་སྐྱེ་མེད་བསྟན། །
 གཞན་གྱི་ཟད་པ་སྟོང་པ་ཉིད། །
 ཟད་དང་མི་སྐྱེ་དོན་དུ་ནི། །
 གཅིག་པ་དེ་ཕྱིར་བཟོད་པར་གྱིས།
 
-<!-- pair: TGD-002016 | source: U02016 U02017 U02018 | role: main_text | format: prose -->
+In the Greater Vehicle, non-arising is taught;
+For the others, exhaustion is emptiness.
+Since exhaustion and non-arising
+Are one in meaning, accept this.
+
+<!-- TGD-002016 -->
+
 ཞེས་དང་།
 བཅོམ་ལྡན་དངོས་དང་དངོས་མེད་པ། །
 མཁྱེན་པའི་སོགས་གསུངས་པ་ཡིན་ནོ། །
 
-<!-- pair: TGD-002019 | source: U02019 U02020 U02021 U02022 U02023 | role: main_text | format: prose -->
+And: “Blessed One, entities and nonentities … knowing …,” and so forth.
+
+<!-- TGD-002019 -->
+
 ཡོངས་སུ་རྫོགས་པའང་མིན་ཏེ།
 ཐེག་པ་ཆེ་ཆུང་གི་ལམ་དང་
 འབྲས་བུ་ཡོན་ཏན་རྒྱ་མཚོ་དང་
 རྨིག་རྗེས་ཀྱི་ཆུའམ་ནམ་མཁའ་དང་
 ཡུངས་འབྲུ་སྲིན་གྱིས་ཟོས་པའི་ནང་གི་མཁའ་ལྟར་ཁྱད་ཡོད་པར་གསུངས་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-002024 | source: U02024 U02025 | role: main_text | format: prose -->
+Yet their realization is not complete. The paths, results, and qualities of the Greater and Lesser Vehicles are said to differ like the ocean and water in a hoofprint, or space and the space inside a mustard seed eaten by a worm.
+
+<!-- TGD-002024 -->
+
 རྡོ༽༽ ཐེག་པ་ཆེ་ཆུང་གཉིས་ལས་ཆུང་ངུ་ནི་ཤིན་ཏུ་དམན་ཏེ་
 ཐེག་བསྡུས་ལས།
 
-<!-- pair: TGD-002026 | source: U02026 U02027 U02028 U02029 | role: main_text | format: verse -->
+Vajra statement. Others say that of the Greater and Lesser Vehicles the Lesser is extremely inferior. The Compendium of the Greater Vehicle says:
+
+<!-- TGD-002026 -->
+
 དམྱལ་བར་འགྲོ་བ་སངས་རྒྱས་ལ། །
 གཏན་གྱི་གེགས་བྱེད་མ་ཡིན་ཏེ། །
 ཉན་ཐོས་དང་ནི་རང་སངས་རྒྱས། །
 ས་གཉིས་དག་ནི་གཏན་གྱི་གེགས།
 
-<!-- pair: TGD-002030 | source: U02030 U02031 U02032 U02033 U02034 U02035 U02036 | role: main_text | format: prose -->
+Going to hell is not
+An enduring obstacle to buddhahood;
+The two levels of hearers
+And solitary buddhas are enduring obstacles.
+
+<!-- TGD-002030 -->
+
 ཞེས་པས་ས་དང་པོའི་བདེན་པ་མ་མཐོང་བས་དམན་ནོ་ཟེར།
 འདིར་ནི་ས་དྲུག་པ་མན་ཆད་ཀྱི་མངོན་རྟོགས་དེ་ཉན་རང་དང་ཐུན་མོང་བ་ཡིན་ཏེ་
 ས་བཅུ་པའི་མདོ་ལས།
@@ -4618,20 +8584,32 @@ language: bo
 ས་དྲུག་པས་རྟེན་འབྲེལ་བཅུ་གཉིས་རྟོགས་པར་གསུངས་པ་དང་
 རང་སངས་རྒྱས་ཀྱིས་ཀྱང་དེ་རྟོགས་པར་གསུངས་པ་གཉིས་མཉམ་པའི་ཕྱིར།
 
-<!-- pair: TGD-002037 | source: U02037 U02038 U02039 U02040 | role: main_text | format: prose -->
+On that basis others call it inferior because it does not see the first level’s truth. Here, clear realization through the sixth level is shared with hearers and solitary realizers. The Sutra of the Ten Levels says that the fifth level realizes the four truths, and all scriptures say hearers too realize those. Likewise its statement that the sixth level realizes the twelve links of dependent arising is equal to the statement that solitary buddhas realize them.
+
+<!-- TGD-002037 -->
+
 དཔེར་ན།
 རྒྱལ་བློན་གྱི་བུ་གཉིས་ལོ་གྲངས་མཉམ་པ་བཞིན་ནོ། །
 ཡོན་ཏན་མཉས་མམ་ཞེ་ན་མི་མཉམ་སྟེ།
 རིན་ཆེན་ཕྲེང་བར།
 
-<!-- pair: TGD-002041 | source: U02041 | role: main_text | format: verse -->
+For example, the sons of a king and a minister may be the same age. Are their qualities equal? They are not. The Precious Garland says:
+
+<!-- TGD-002041 -->
+
 ཉན་ཐོས་ཐེག་པ་དེ་ལས་ནི། །
 
-<!-- pair: TGD-002042 | source: U02042 U02043 | role: main_text | format: prose -->
+In that vehicle of hearers,
+
+<!-- TGD-002042 -->
+
 བྱང་ཆུབ་སེམས་སོགས་དང་།
 མཚན་མ་མེད་པ་མ་རྟོགས་པར་སོགས་ཞེས་སོ༑
 
-<!-- pair: TGD-002044 | source: U02044 U02045 U02046 U02047 U02048 U02049 | role: main_text | format: prose -->
+“The ordinary mind of awakening …,” and “Without realizing signlessness …,” and so forth.
+
+<!-- TGD-002044 -->
+
 རྡོ༽༽ སེམས་ཙམ་པས་གཟུང་འཛིན་གཉིས་སྟོང་གི་ཤེས་པ་རང་རིག་རང་གསལ་བདེན་གྲུབ་ཏུ་འདོད་པ་དེ་ཆོས་ཅན།
 རང་རིག་རང་གསལ་དུ་གྲུབ་པ་མེད་དེ།
 རིག་བྱ་རིག་བྱེད་འགལ་བའི་ཕྱིར།
@@ -4639,24 +8617,40 @@ language: bo
 རང་རིག་མ་གྲུབ་པས་
 ཆོས་ཉིད་ཀྱི་བདེན་པ་མི་མཐོང་ཟེར།
 
-<!-- pair: TGD-002050 | source: U02050 U02051 | role: main_text | format: prose -->
+Vajra statement. Taking as the subject the Ordinary-Mind-Only school’s claim that knowing empty of apprehended object and apprehending subject, self-aware and self-clear, is truly established: others say it is not established as self-aware and self-clear because what is aware and what it is aware of conflict. Object and object-possessor are relative, and self-awareness is not established; therefore they do not see the truth of the nature of phenomena.[^N-B-028]
+
+<!-- TGD-002050 -->
+
 སྐབས་འདིར་སེམས་ཙམ་པའི་མངོན་རྟོགས་ནི་བྱང་སེམས་ས་བདུན་པ་རིང་དུ་སོང་བའི་མངོན་རྟོགས་དང་མཉམ་པ་ཡིན་ཏེ་
 དེ་ལྟར་ཡང་ལང་གཤེགས་ལས།
 
-<!-- pair: TGD-002052 | source: U02052 U02053 U02054 U02055 U02056 | role: main_text | format: verse -->
+Here the Ordinary-Mind-Only school’s clear realization equals the clear realization of the bodhisattva’s seventh level, Far Gone. The Descent to Lanka says:
+
+<!-- TGD-002052 -->
+
 སེམས་ཙམ་པ་ནི་བདུན་པ་སྟེ། །
 སྣང་བ་མེད་པ་ས་བརྒྱད་པ། །
 ས་གཉིས་དག་ནི་གནས་ཡིན་ཏེ། །
 བཅུ་གཅིག་ཡེ་ཤེས་ཆེན་པོའི་ས། །
 དེ་ནི་ང་ཡི་ས་ཡིན་ནོ།
 
-<!-- pair: TGD-002057 | source: U02057 U02058 U02059 U02060 | role: main_text | format: prose -->
+Ordinary-Mind-Only is the seventh;
+Absence of appearance is the eighth level.
+Two levels are abodes;
+The eleventh is the level of great primordial knowing.
+That is my level.
+
+<!-- TGD-002057 -->
+
 ཞེས་གསུངས་ཤིང༌།
 དྲུག་པ་ཤེས་རབ་མངོན་དུ་གྱུར་པ་རྟེན་འབྲེལ་ལུགས་འབྱུང་ལུགས་ལྡོག་རྟོགས་པས་མ་རིག་པ་རྟོགས་པའི་ཤེས་རབ་ཟེར།
 ཕྱི་ནང་གི་ཆོས་རྣམས་སེམས་སུ་རྟོགས་ཏེ་
 ཅི་ཡང་བསྒྱུར་བཏུབ་པ་ནི་ཐབས་ཀྱི་ཕར་ཕྱིན་ཡིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002061 | source: U02061 U02062 U02063 U02064 U02065 U02066 U02067 | role: main_text | format: prose -->
+So it is taught. At the sixth level, discerning knowing becomes manifest: realization of dependent arising in forward and reverse order is called discerning knowing that realizes ignorance. Realizing external and internal phenomena as ordinary mind, one can transform anything; that is the perfection of means.
+
+<!-- TGD-002061 -->
+
 ཕལ་ཆེན་ལས་ཀྱང་།
 ཀྱེ་རྒྱལ་བའི་སྲས་ཁམས་གསུམ་པོ་ནི་སེམས་ཙམ་མོ། །
 དུས་གསུམ་ཡང་སེམས་དང་མཚུངས་པར་རྟོགས་སོ། །
@@ -4665,7 +8659,10 @@ language: bo
 སེམས་ཙམ་བཀའ་ཡིས་དབུ་མ་སྟོན།
 བྱ་བའི་སྐབས་སུའང་ལེགས་པར་བཤད་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-002068 | source: U02068 U02069 U02070 U02071 U02072 U02073 U02074 | role: main_text | format: prose -->
+The Extensive Sutra too says: “Children of the victors, the three realms are ordinary mind alone. The three times too are realized as equal to ordinary mind. That ordinary mind too is comprehended as without edge or center.” This is also explained well in the passage, “The teaching of Ordinary-Mind-Only teaches the Middle Way.”
+
+<!-- TGD-002068 -->
+
 རྡོ༽༽ འཁོར་བའི་རྩ་བ་གང་ཟག་གི་བདག་རྟག་གཅིག་རང་དབང་ཅན་དང༌།
 ཉེར་ལེན་གྱི་ཕུང་པོར་མངོན་པར་ཞེན་པས་
 བདག་ཏུ་བཟུང་བ་རྫས་དང་རྒྱུན་དང་བཏགས་པ་ལ་སོགས་པ་འདོད་པ་གང་ཟག་གི་བདག་དང་
@@ -4674,7 +8671,10 @@ language: bo
 བརྒྱད་པར་རྟོགས་པར་འདོད་པ་རིམ་བཞིན་བྱམས་མགོན་དང་ཀླུ་སྒྲུབ་ཀྱིས་བཞེད་པས་
 འགལ་བ་ཅན་ཡིན་གསུངས་མོད། །
 
-<!-- pair: TGD-002075 | source: U02075 U02076 U02077 U02078 U02079 U02080 U02081 U02082 U02083 U02084 | role: main_text | format: prose -->
+Vajra statement. Samsara’s root is the personal self, held to be permanent, unitary, and autonomous: strongly clinging to the appropriated aggregates, one apprehends a self as a substance, a succession, an imputation, and so forth. Even without an apprehended personal self, claiming that external and internal phenomena arising merely through dependent arising exist is the self of phenomena. Protector Maitreya and Nagarjuna are said to contradict one another because they maintain, respectively, that its lack of intrinsic nature is realized at the first level and at the eighth.
+
+<!-- TGD-002075 -->
+
 འདིར་ནི་དེ་གཉིས་མི་འགལ་བ་ཆོས་ཀྱི་བདག་
 རང་བཞིན་མེད་པ་ས་བརྒྱད་པར་མངོན་དུ་བྱས་པ་ལ་དགོངས་པ་མཐུན་ཏེ་
 དང་པོར་བདག་མེད་གཉིས་རྟོགས་པ་ཡིན་ན་
@@ -4686,13 +8686,22 @@ language: bo
 གཉིས་ཀ་དགོངས་པ༌མཉམ་པའི་ཕྱིར་རོ། །
 དེ་ལྟར་རྒྱ་རོལ་ལས་༑
 
-<!-- pair: TGD-002085 | source: U02085 U02086 U02087 U02088 | role: main_text | format: verse -->
+Here the two do not conflict. Their enlightened intent agrees that the absence of intrinsic nature in the self of phenomena is made manifest at the eighth level. If both kinds of selflessness were realized at the first level, the designation Far Gone would have no application. The enlightened intent concerning the first level is realization that the personal self apprehended in the aggregates lacks intrinsic nature. Realization that even the mere appearance of dependently arising phenomena lacks intrinsic nature—the selflessness of phenomena—occurs at the eighth. Both have the same enlightened intent. The Vast Play says:
+
+<!-- TGD-002085 -->
+
 གང་ཚེ་འདི་ན་སྐྱེ་འཆི་གང་ཡང་མེད། །
 ཆོས་འདི་ཐམས་ཅད་རང་བཞིན་བདག་མེད་པའི། །
 བཟོད་པ་བདག་གིས་ཐོབ་པ་དེ་ཡི་ཚེ། །
 སངས་རྒྱས་མར་མེ་མཛད་ཀྱིས་བདག་ལུང་བསྟན།
 
-<!-- pair: TGD-002089 | source: U02089 U02090 U02091 U02092 U02093 U02094 | role: main_text | format: prose -->
+When I attained forbearance that here
+There is neither birth nor death,
+And all these phenomena lack intrinsic nature and self,
+Buddha Dipankara gave me his prediction.
+
+<!-- TGD-002089 -->
+
 ཅེས་དང་།
 རྣམ་པར་འཕྲུལ་རྒྱལ་གྱིས་ཞུས་མདོར།
 ཆོས་ཀྱི་བདག་མེད་རྟོགས་ཕྱིན་ཆད་བདག་གིས་སངས་རྒྱས་མཐོང་། །
@@ -4700,12 +8709,18 @@ language: bo
 འཇིག་ཚོགས་མཐོང་ཞེས་དང༌།
 མར་མེ་མཛད་ལུང་བསྟན་པ་ལས་ཀྱང་དེ་ལྟར་གསུངས་སོ། །
 
-<!-- pair: TGD-002095 | source: U02095 U02096 U02097 | role: main_text | format: prose -->
+And the Sutra of the Questions of Vikurvanaraja says: “Only after realizing the selflessness of phenomena did I see a buddha.” Asked, “Did you not see one during two incalculable eons?” he answered, “I saw the transitory collection.” The Prediction of Dipankara says the same.
+
+<!-- TGD-002095 -->
+
 གཉིས་ཀ་དང་པོ་རྟོགས་པ་གསུངས་པ་དག་ས་དང་
 གཞོན་ནུའི་སའི་དང་པོ་བརྒྱད་པ་ཡིན་པས་སོ།
 ཞེས་པ་སོགས་ཀྱི་ལུང་རིགས་ཀྱིས་སྒྲུབ་བོ།
 
-<!-- pair: TGD-002098 | source: U02098 U02099 U02100 U02101 U02102 U02103 U02104 | role: main_text | format: prose -->
+Statements that both are realized at the “first” refer to the eighth level, which is first among the pure levels and the youthful levels. Such scriptural passages and reasoning establish this.
+
+<!-- TGD-002098 -->
+
 རྡོ༽༽ གཞན་བཞེད་ལ་ས་བཅུ་ལམ་ལྔ་ལས་ཚོགས་སྦྱོར་གཉིས་རྒྱུར་ལམ་དུ་བརྟགས་པ་འཇིག་རྟེན་པ་ཡིན།
 མཐོང་སྒོམ་གཉིས་འཇིག་རྟེན་ལས་འདས་པའི་ལམ་མཚན་ཉིད་པ་དང་།
 མཐར་ཕྱིན་ལམ་འབྲས་བུར་ལམ་དུ་བརྟགས་ཤིང་
@@ -4714,17 +8729,29 @@ language: bo
 མཐར་རྡོ་ཏིང་སོགས་ཐ་དད་ཀྱིས་བགྲོད་ནས་
 གོང་མ་རྟོགས་ཚེ་འོག་མ་འདོར་བ་ཡིན་ཟེར་ཡང༌།
 
-<!-- pair: TGD-002105 | source: U02105 U02106 | role: main_text | format: prose -->
+Vajra statement. Others maintain that, among the ten levels and five paths, accumulation and preparation are worldly: the name “path” is applied to their cause. Seeing and cultivation are actual paths beyond the world; the final path is the result designated as a path. The ten levels are stages of clear realization. Beginning with the path of seeing, one proceeds through distinct [deep absorptions], such as Heroic Progress and finally the vajralike deep absorption; when the higher is realized, the lower is discarded.
+
+<!-- TGD-002105 -->
+
 འདིར་ནི་མངོན་རྟོགས་མཐོང་ལམ་གྱི་བདེན་པ་གཅིག་ཁོ་ནའི་ངོ་བོ་དག་གིས་ས་ལམ་མཐར་ཐུག་ཚུན་ཆད་མ་ལུས་པ་བགྲོད་དེ་
 ཏིང་འཛིན་རྒྱལ་པོ་ལས།
 
-<!-- pair: TGD-002107 | source: U02107 U02108 U02109 U02110 | role: main_text | format: verse -->
+Here one traverses every level and path up to their culmination through the single essence of clear realization of the truth on the path of seeing. The King of Deep Absorption says:
+
+<!-- TGD-002107 -->
+
 མི་གང་ཏིང་འཛིན་མཆོག་དེ་སུས་འཛིན་པ། །
 འོད་འཕྲོ་ཤིན་ཏུ་སྦྱངས་དཀའ་མངོན་གྱུར་དང༌། །
 རིང་དུ་སོང་དང་མི་གཡོ་ལེགས་པའི་བློ། །
 ཆོས་སྤྲིན་ས་བཅུ་པོ་དག་ཐོབ་པར་འགྱུར།
 
-<!-- pair: TGD-002111 | source: U02111 U02112 U02113 U02114 U02115 U02116 U02117 | role: main_text | format: prose -->
+Whoever holds that supreme deep absorption
+Will attain Radiant, Hard to Purify, Manifest,
+Far Gone, Unmoving, Good Conceptual Mind,
+And Cloud of Dharma—the ten levels.
+
+<!-- TGD-002111 -->
+
 ཞེས་པས་རྣལ་འབྱོར་བཞི་ལ་སྦྱར་ན་
 སྤྲོས་མེད་ལྷན་སྐྱེས་ཀྱིས་ཡེ་ཤེས་ཅུང་ཟད་གསལ་བ་ཚེ་གཅིག།
 དེའི་ངོ་བོ་མཐོང་བ་སྤྲོས་བྲལ།
@@ -4733,7 +8760,10 @@ language: bo
 སྟོང་ཉིད་བཅོ་བརྒྱད་དང་ཞི་གནས་རྒལ་བའི་བར་མི་གཅིག་ལ་
 གནས་སྐབས་བཅུརབཏགས་པ་བཞིན་ནོ།
 
-<!-- pair: TGD-002118 | source: U02118 U02119 U02120 U02121 U02122 U02123 | role: main_text | format: prose -->
+Applied to the four yogas: when co-emergent primordial knowing without elaboration becomes a little clear, there is one-pointedness; seeing its essence is freedom from conceptual elaborations; realizing all appearance as that itself is one taste; realizing equipoise and post-cultivation attainment, or object and object-possessor, as nondual is non-cultivation.[^N-B-029] It is like designating ten stages, differing until one has crossed the eighteen emptinesses and calm abiding.[^N-B-030]
+
+<!-- TGD-002118 -->
+
 ལྷན༽༽ འགའ་ཞིག་ན་རེ།
 ཏིང་འཛིན་མང་དུ་ཡོད་ཀྱང་
 རྡོ་ཏིང་རྒྱུན་མཐའི་ཏིང་འཛིན་ཡིན་ཟེར་ཡང་།
@@ -4741,7 +8771,10 @@ language: bo
 ཚོགས་སྦྱོར་ཞི་གནས་ཀྱི་ཏིང་འཛིན་ལ་བརྟེན་ནས་མཐོང་ལམ་སྐྱེ་ཞིང་
 དེས་ས་བཅུ་ཚུན་ཆད་བསྒྲོད་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-002124 | source: U02124 U02125 U02126 U02127 U02128 U02129 U02130 U02131 | role: main_text | format: prose -->
+Addendum. Some say that although deep absorptions are numerous, vajralike deep absorption is the one at the end of the succession. Here all deep absorptions are vajralike: the path of seeing arises in dependence on the calm-abiding deep absorption of accumulation and preparation, and through it one traverses up to the tenth level.
+
+<!-- TGD-002124 -->
+
 རྡོ༽༽ ས་དང་པོ་ཐོབ་མ་ཐག་སངས་རྒྱས་བརྒྱའི་ཞལ་མཐོང་བ་སོགས་
 ཡོན་ཏན་བརྒྱ་ཕྲག་བཅུ་གཉིས་འབྱུང་བར་གསུངས་པ་
 ཁྱེད་ཀྱི་རོ་གཅིག་དག་པའི་མངོན་རྟོགས་སུ་འདོད་ན་
@@ -4751,21 +8784,33 @@ language: bo
 གཞན་གྱིས་མི་མཐོང་བ་
 རྣལ་འབྱོར་པའི་ཉམས་སྣང་ལུང་ཁུངས་ཀྱི་མུ་དང་མུ་དྲུག་ཡོད་དེ་
 
-<!-- pair: TGD-002132 | source: U02132 U02133 | role: main_text | format: prose -->
+Vajra statement. Others say: “Immediately upon attaining the first level, one sees a hundred buddhas’ faces and twelve sets of a hundred qualities arise. If you call your one taste pure clear realization, it does not possess even the first level’s qualities.” Here, after attaining a level it must still be purified. There are six alternatives concerning how qualities arise: gradually, all at once, some present and some absent, present but unseen by others, the yogin’s experiential appearances, and scriptural testimony.[^N-B-031]
+
+<!-- TGD-002132 -->
+
 དང་པོ་ནི་གྲངས་མེད་གསུམ་ལ་རིམ་གྱིས་བསྒྲོད་པ་ཤཱཀྱ་ཐུབ་ལྟ་བུར་
 ཇི་སྐད་བཤད་པའི་ཡོན་ཏན་འབྱུང་བ་ཡིན། །
 
-<!-- pair: TGD-002134 | source: U02134 U02135 U02136 | role: main_text | format: prose -->
+First, qualities arise as described for someone like Shakyamuni, who traversed the path gradually over three incalculable eons.
+
+<!-- TGD-002134 -->
+
 གཉིས་པ་སྤྱན་རས་གཟིགས་ལྟ་བུ་སེམས་བསྐྱེད་པ་གཅིག་གིས་ས་བརྒྱད་པ་ཐོབ་པར་གསུངས་པ་དང་
 བསྒྲེས་མོ་མོ་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་ཀྱང་
 དང་པོའི་ཡོན་ཏན་ཙམ་ཡང་མེད་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002137 | source: U02137 U02138 U02139 | role: main_text | format: prose -->
+Second, as with Avalokiteshvara, who is said to have attained the eighth level through a single arousal of the ordinary mind [of awakening]; and the old woman, who attained forbearance concerning non-arising phenomena but had not even the first level’s qualities.[^N-B-032]
+
+<!-- TGD-002137 -->
+
 གསུམ་པ་འགའ་ཞིག་ཡོད་ལ་འགའ་ཞིག་མེད་པ་
 ནོར་བཟང་གི་བླ་མ་རྣམས་ས་བཅུ་པ་ཡིན་ཀྱང་
 བདག་གིས་འདི་ལས་མི་ཤེས་ཞེས་དབུ་སྙུང་བཞེས་ནས་ལུང་བསྟན་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002140 | source: U02140 U02141 U02142 U02143 U02144 U02145 U02146 | role: main_text | format: prose -->
+Third, some qualities are present and some absent. Although Sudhana’s gurus were on the tenth level, they solemnly declared, “I know nothing beyond this,” and gave their directions.[^N-B-033]
+
+<!-- TGD-002140 -->
+
 བཞི་པ་ཡོད་ཀྱང་མི་མཐོང་བ་
 ཀླུ་སྒྲུབ་ལང་གཤེགས་ལས་
 ས་དང་པོ་དང་རྔ་བོ་ཆེ་དང་འཇམ་དཔལ་རྩ་རྒྱུད་དུ་ས་བརྒྱད་པ་དང་།
@@ -4774,30 +8819,53 @@ language: bo
 སྲོང་བཙན་གྱི་དབུར་འོད་དཔག་མེད་བཞུགས་པ་དང་
 ཐོག་མེད་ཀྱི་ཕྲག་ལ་བྱམས་མགོན་བཞུགས་ཀྱང་མ་མཐོང་བ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002147 | source: U02147 U02148 | role: main_text | format: prose -->
+Fourth, qualities exist but are unseen. Nagarjuna is predicted in the Descent to Lanka as being on the first level, in the Great Drum and Manjushri Root Continuum as being on the eighth, and in the Great Cloud as being on the tenth. Yet no one saw the twelve sets of a hundred qualities and so forth. Similarly, Amitabha abided upon Songtsen’s head and Protector Maitreya on Asanga’s shoulder, but were unseen.
+
+<!-- TGD-002147 -->
+
 ལྔ་པ་ནི་ས་བཅུའི་བཤད་པ་ལས་
 བྱང་ཆུབ་སེམས་བྱུང་བ་རྣམས་ཁོང་རང་གིས་མ་གཏོགས་མ་མཐོང་བ་མི་ལ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002149 | source: U02149 U02150 | role: main_text | format: prose -->
+Fifth, as explained in the Ten Levels, what arises in the ordinary mind of awakening is seen only by the person himself, as with Mila.[^N-B-034]
+
+<!-- TGD-002149 -->
+
 དྲུག་པ་ས་ཐོབ་མ་ཐག་ཡོན་ཏན་ཉི་མ་དང་ཉི་མའི་ཟེར་བཞིན་འབྱུང་བར་གསུངས་པའི་ལུང་མདོ་རྒྱུད་ན་ཡོད་དོ། ། །
 དེས་ན་མཐའ་གཅིག་ཏུ་ཞེན་པར་མི་བྱའོ།
 
-<!-- pair: TGD-002151 | source: U02151 U02152 | role: main_text | format: prose -->
+Sixth, sutras and continuums contain testimony that immediately upon attaining a level its qualities arise like the sun and its rays. Therefore one should not cling exclusively to one alternative.
+
+<!-- TGD-002151 -->
+
 རྡོ༽༽ རྒྱུ་བསོད་ནམས་ཀྱི་ཚོགས་ལས་འབྲས་བུ་ཡེ་ཤེས་ཀྱི་ཚོགས་འབྱུང་སྟེ་
 སྤྱོད་འཇུག་ལས།
 
-<!-- pair: TGD-002153 | source: U02153 U02154 | role: main_text | format: verse -->
+Vajra statement. Others say that the accumulation of primordial knowing, the result, arises from the accumulation of merit, the cause, because Engaging in Bodhisattva Activity states:
+
+<!-- TGD-002153 -->
+
 ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། །
 ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས།
 
-<!-- pair: TGD-002155 | source: U02155 | role: main_text | format: prose -->
+All these branches
+The Sage taught for the sake of discerning knowing.
+
+<!-- TGD-002155 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-002156 | source: U02156 U02157 | role: main_text | format: verse -->
+And:
+
+<!-- TGD-002156 -->
+
 ཇི་སྲིད་དགེ་བའི་རྩ་བ་དེ་ནི་མ་རྫོགས་པ། །
 དེ་སྲིད་བྱང་ཆུབ་དམ་པ་དེ་ནི་བཟད་མི་འགྱུར།
 
-<!-- pair: TGD-002158 | source: U02158 U02159 U02160 U02161 U02162 U02163 U02164 | role: main_text | format: prose -->
+As long as that root of virtue is not complete,
+That holy awakening will not be exhausted.[^N-B-035]
+
+<!-- TGD-002158 -->
+
 ཞེས་པས་སོ་ཟེར་རོ།
 འདིར་ནི་གཞི་ལམ་འབྲས་བུར་གསུམ་གར་ཚོགས་གཉིས་ཟུང་དུ་འཇུག་ནས་
 དབྱེར་མེད་པར་གནས་ཏེ་
@@ -4806,40 +8874,67 @@ language: bo
 ཞེས་དང༌།
 རྒྱུར་བླར།
 
-<!-- pair: TGD-002165 | source: U02165 U02166 U02167 U02168 | role: main_text | format: verse -->
+So they argue. Here the two accumulations are united and abide inseparably in all three: The Ground, path, and result. The Play of Manjushri says that even at the time of The Ground, “Ignorance itself is awakening; awakening itself is ignorance.” And the Highest Continuum says:
+
+<!-- TGD-002165 -->
+
 རྫོགས་སངས་སྐུ་ནི་འཕྲོ་ཕྱིར་དང༌།
 དེ་བཞིན་ཉིད་དབྱེར་མེད་ཕྱིར་དང་།
 རིགས་ཡོད་ཕྱིར་ནི་ལུས་ཅན་ཀུན། །
 རྟག་ཏུ་སངས་རྒྱས་སྙིང་པོ་ཅན།
 
-<!-- pair: TGD-002169 | source: U02169 U02170 U02171 | role: main_text | format: prose -->
+Because perfect buddha embodiment proliferates,
+Because suchness is inseparable,
+And because the lineage is present, all embodied beings
+Always possess buddha essence.
+
+<!-- TGD-002169 -->
+
 ཞེས་སོ།
 ལམ་ལའང་།
 སྡུད་པ་ལས།
 
-<!-- pair: TGD-002172 | source: U02172 | role: main_text | format: verse -->
+So it says. On the path too, the Condensed Perfection of Discerning Knowing says:
+
+<!-- TGD-002172 -->
+
 སྦྱིན་པ་སྦྱིན་པའི་སྔོན་དུ་འགྲོ་བ་ཤེས་རབ་སྟེ།
 
-<!-- pair: TGD-002173 | source: U02173 U02174 U02175 U02176 | role: main_text | format: prose -->
+Discerning knowing goes before giving gifts.
+
+<!-- TGD-002173 -->
+
 ཞེས་པས་མཉམ་བཞག་ཡེ་ཤེས་དང་།
 རྗེས་ཐོབ་བསོད་ནམས་ཀྱི་ཚོགས་ཏེ་
 གཅིག་ཐོག་གཅིག་གིས་འདོད་ན་
 སར་གོམས་པ་གཡས་གཡོན་འདོར་བ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002177 | source: U02177 U02178 U02179 | role: main_text | format: prose -->
+Thus there is primordial knowing in equipoise and the accumulation of merit in post-cultivation attainment. If one holds that they [proceed] one upon the other, it is like setting down the right and left feet while walking on the ground.[^N-B-036]
+
+<!-- TGD-002177 -->
+
 འབྲས་བུར་ཚོགས་གཉིས་མཐར་ཕྱིན་པས་
 སྐུ་གཉིས་མངོན་དུ་གྱུར་པ་སྟེ་
 སློབ་དཔོན་འཕགས་པས།
 
-<!-- pair: TGD-002180 | source: U02180 | role: main_text | format: verse -->
+At the result, the two accumulations reach completion and the two embodiments become manifest. The noble master says:
+
+<!-- TGD-002180 -->
+
 དགེ་བ་འདི་ཡིས་སྐྱེ་བོ་ཀུན། །
 
-<!-- pair: TGD-002181 | source: U02181 U02182 U02183 | role: main_text | format: prose -->
+Through this virtue, may all beings …
+
+<!-- TGD-002181 -->
+
 བསོད་ནམས་ཞེས་སོགས་གསུངས་སོ། །
 དེ་ལྟར་མིན་ན་རྒྱུ་འབྲས་རིགས་མི་འདྲ་བ་དང༌།
 དོན་དམ་ཀུན་རྫོབ་ཀྱིས་བསྐྱེད་པར་ཐལ་བར་འགྱུར་རོ། །
 
-<!-- pair: TGD-002184 | source: U02184 U02185 U02186 U02187 U02188 U02189 U02190 | role: main_text | format: prose -->
+“Merit …,” and so forth. Otherwise cause and result would belong to different kinds, and it would follow that the ultimate is produced by the relative.
+
+<!-- TGD-002184 -->
+
 རྡོ༽༽ ཚོགས་བསགས་པའི་ཞིང་བསམ་དངོས་གསུམ་ལས་
 རྒྱུད་ཚོད་དམན་པར་ཞིང་རྣམ་དག་མཆོག་གསུམ་ལ་ཕུལ་ན་
 འབྲས་བུ་ཚད་མེད་པས་
@@ -4848,7 +8943,10 @@ language: bo
 ཆོས་བྱང་སེམས་རྒྱུད་ཚོང་མཐོ་བ་རྣམས་ནི་
 ཞིང་དམན་པ་ལ་གཅེས་པས་མར་འདམ་པ་ཡིན་ཟེར།
 
-<!-- pair: TGD-002191 | source: U02191 U02192 U02193 U02194 U02195 U02196 U02197 U02198 U02199 U02200 U02201 | role: main_text | format: prose -->
+Vajra statement. Others say: “Of the field, intention, and substance of gathering accumulations, those with a less developed continuum should offer to the perfectly pure field, the Three Supreme Ones, since the result is immeasurable. They rely on the field of spiritual friends to make that a cause of renunciation and great liberation. Bodhisattvas with a more developed continuum cherish inferior fields and choose downward.”
+
+<!-- TGD-002191 -->
+
 འདིར་རང་བཞེད་ནི་རྒྱུད་ཚོད་མཐོ་དམན་དེ་གཉིས་གང་ཡིན་ཡང་
 ཞིང་ཡར་གདམ་དགོས་ཏེ་
 ཞིང་རྣམ་པར་དག་པས་འབྲས་བུ་གནས་སྐབས་མཐར་ཐུག་ཏུ་རྒྱ་ཆེན་པོ་འབྱུང་བའི་ཕྱིར་དང༌།
@@ -4861,19 +8959,28 @@ language: bo
 བསྟན་པར་གནོད་པ་དང༌།
 རང་ལ་གནོད་པ་རྒྱུན་མི་འཆད་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002202 | source: U02202 U02203 U02204 U02205 U02206 | role: main_text | format: prose -->
+Here our position is that, whether the continuum’s development is high or low, one must choose the higher field. A perfectly pure field brings vast temporary and ultimate results; dedication of those roots of virtue to self and others accomplishes great purposes. Giving with the three inferior fields as objects of focus—other [recipients], sentient beings, and those who cause harm—respectively increases afflictions, harms the teaching, and perpetuates harm to oneself.[^N-B-037]
+
+<!-- TGD-002202 -->
+
 འོ་ན་བཟང་ངན་དུ་བལྟས་ན་
 བྱང་སེམས་དེ་ཕར་ཕྱིན་མི་རྫོགས་པར་གསུངས་པ་ཅི་ཞེ་ན། །
 དམན་པ་དེ་ལྟ་བུ་སེམས་ཀྱི་རྣམ་པར་དག་པར་སྒྲུབ་དགོས་ཏེ།
 ཆོས་ཐམས་ཅད་སེམས་ཀྱི་འདུ་བྱེད་ཡིན་པས་
 སྐུ་སྤར་ དང་དམིགས་པའི་རྟེན་འབྲེལ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002207 | source: U02207 U02208 U02209 | role: main_text | format: prose -->
+Then why is it said that a bodhisattva who judges recipients as good or bad does not complete the perfections? Such inferior recipients must be made perfectly pure in the ordinary mind. All phenomena are formations of ordinary mind, like the dependent arising of an image of an embodiment and its object of focus.
+
+<!-- TGD-002207 -->
+
 དེས་ན་ཡུལ་དམན་པ་སངས་རྒྱས་སུ་འདུ་ཤེས་བསྐྱེད་ནས་བྱིན་ན་
 དེ་ལྟར་འགྲུབ་པ་གདོན་མི་ཟ་བ་ཉིད་དོ་
 དེའི་ཕྱིར་མཐོ་དམན་ཀུན་ཏུ་ཞིང་ནི་ཡར༌གདམ་པ་དང་ཞིང་དམན་པ་དག་པར་སྒྲུབ་པ་ནི་ཤིན་ཏུ་གནད་ཟབ་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-002210 | source: U02210 U02211 U02212 U02213 U02214 U02215 U02216 U02217 U02218 U02219 U02220 U02221 | role: main_text | format: prose -->
+Therefore, if one gives to an inferior recipient after arousing the perception of that recipient as a buddha, it will certainly be accomplished accordingly. For people of every degree of development, choosing the higher field and making the inferior field pure is an exceedingly profound essential point.
+
+<!-- TGD-002210 -->
+
 རྡོ༽༽ འཁོར་བ་ལས་འདའ་བར་བྱེད་པ་ལ་
 བདག་འཛིན་སྤོང་དགོས་ཟེར།
 འདིར་ནི་བདག་འཛིན་དེ་སྤོང་བའི་ཆེད་དུ་བདག་ཏུ་བཟུང་སྟེ་
@@ -4887,14 +8994,24 @@ language: bo
 ཞི་བ་ལ་མི་གནས་པའི་ཕྱིར་རོ། །
 དེ་ལྟར་ཡང་སྤྱོད་འཇུག་ལས།
 
-<!-- pair: TGD-002222 | source: U02222 U02223 U02224 U02225 U02226 | role: main_text | format: verse -->
+Vajra statement. Others say that to transcend samsara one must abandon self-apprehension. Here, apprehending as self and thereby gathering accumulations in order to abandon that self-apprehension is maintained to be skillful means.[^N-B-038] By apprehending [things] as one’s own and offering them to the Three Supreme Ones, vast results increase. By giving away what was apprehended as one’s own, one realizes selflessness. By apprehending sentient beings as oneself and giving for their sake, one does not abide in peace. Engaging in Bodhisattva Activity likewise says:
+
+<!-- TGD-002222 -->
+
 ཡོངས་སུ་བཟུང་བ་མེད་པ་དེ་དག་ཀུན། །
 བློ་ཡིས་བླང་ནས་ཐུབ་པ་སྐྱེས་ཀྱི་མཆོག །
 སྲས་དང་བཅས་པ་རྣམས་ལ་ལེགས་འབུལ་ན། །
 ཡོན་གནས་དམ་པ་ཐུགས་རྗེ་ཆེ་རྣམས་ཀྱིས། །
 བདག་ལ་བརྩེར་དགོངས་བདག་གི་འདི་དག་བཞེས།
 
-<!-- pair: TGD-002227 | source: U02227 U02228 U02229 U02230 U02231 U02232 | role: main_text | format: prose -->
+Taking with my conceptual mind all these unowned things,
+I offer them well to the Sages, supreme among beings,
+Together with their children.
+Holy recipients endowed with great compassionate responsiveness,
+In loving enlightened intent toward me, accept these things of mine.
+
+<!-- TGD-002227 -->
+
 ཞེས་སོ།
 དེ་ལྟར་ན་འཁོར་འདས་ཀྱི་ཆོས་ཐམས་ཅད་སེམས་ཀྱི་བསྒྱུར་ཁ་ཡིན་པས་
 འཁོར་འདས་ཀྱི་བདེ་ལེགས་དཔལ་འབྱོར་རྣམས་བདག་ཏུ་བཟུང་སྟེ་
@@ -4902,13 +9019,22 @@ language: bo
 དཔེར་ན། ཤིང་ལས་མེ་བྱུང་ནས་ཤིང་ཉིད་ཀྱང་བསྲེག་པ་བཞིན་ནོ། །
 དེ་སྐད་དུའང་། ས་ར་ཧས།
 
-<!-- pair: TGD-002233 | source: U02233 | role: main_text | format: verse -->
+So it says. All phenomena of samsara and nirvana are subject to transformation by ordinary mind. Therefore appropriating the happiness, goodness, splendor, and prosperity of samsara and nirvana and gathering accumulations becomes a cause for relinquishing self-apprehension—just as fire arising from wood burns the wood itself. Saraha too says:
+
+<!-- TGD-002233 -->
+
 སེམས་ ཉིད་གཅིག་པུ་ཀུན་གྱི་ས་བོན་ཏེ། །
 
-<!-- pair: TGD-002234 | source: U02234 | role: main_text | format: prose -->
+Ordinary mind itself alone is the seed of everything.
+
+<!-- TGD-002234 -->
+
 གང་ལ་ཞེས་སོགས་གསུངས་སོ།
 
-<!-- pair: TGD-002235 | source: U02235 U02236 U02237 U02238 U02239 U02240 U02241 U02242 U02243 | role: main_text | format: prose -->
+“Where …,” and so forth, he says.
+
+<!-- TGD-002235 -->
+
 རྡོ༽༽ བསྔོ་རྒྱུའི་དགེ་བ་རང་ཉིད་ཀྱིས་བྱས་བསགས་མ་གཏོགས་
 གཞན་མི་བསྔོ་བ་དང༌།
 ཡང་འགའ་ཞིག་ཡོད་པའི་དགེ་བ་ཁམས་ནི་བསྔོ་རྒྱུ་མེད་དེ།
@@ -4919,7 +9045,10 @@ language: bo
 འགྱུར་ན་འདུས་བྱས་སུ་འགྱུར་བའི་ཕྱིར་
 བསྔོ་བ་བྱར་མེད་ཟེར་རོ། །
 
-<!-- pair: TGD-002244 | source: U02244 U02245 U02246 U02247 U02248 U02249 U02250 U02251 | role: main_text | format: prose -->
+Vajra statement. Some say one dedicates only virtue one has personally done and gathered, not others’ virtue. Others say that the element of already present virtue cannot be dedicated: whatever merely exists is impermanent; since no phenomenon lies outside the basic space of phenomena, everything would absurdly be virtuous; and since dedication means transformation, if it changed it would become conditioned. Thus, they say, there is nothing to dedicate.
+
+<!-- TGD-002244 -->
+
 འདིར་ནི་འཁོར་འདས་ཀྱི་དགེ་རྩ་
 རང་ཉིད་ཀྱི་སེམས་ཀྱི་དཀྱིལ་འཁོར་གཅིག་ཏུ་བསྡུས་ཏེ་བསྔོས་ན་
 དེ་ལྟར་འབྱུང་བའི་ཕྱིར་དང༌།
@@ -4929,17 +9058,29 @@ language: bo
 འདས་ཀྱི་དགེ་བ་བསྔོ་དགོས་པ་ཡིན་ནོ། །
 དེ་ལྟར་ཡང་མི་གཡོའི་རྒྱུད་ལས།
 
-<!-- pair: TGD-002252 | source: U02252 U02253 U02254 U02255 | role: main_text | format: verse -->
+Here, if one gathers the roots of virtue of samsara and nirvana into the single mandala of one’s own ordinary mind and dedicates them, that is what comes about. Suchness is said to be undivided, and arousing the ordinary mind [of awakening] is said to make one master of samsara and nirvana. The roots of virtue from that arousal until the holy Dharma disappears are for sentient beings’ sake; therefore past virtue should be dedicated. The Continuum of the Unmoving One says:
+
+<!-- TGD-002252 -->
+
 བཅོམ་ལྡན་འདས་ཀྱིས་བསགས་པ་ཡི། །
 བསོད་ནམས་གྲངས་མེད་གཞལ་མི་ལང་། །/
 དེས་ནི་འགྲོ་བ་མ་ལུས་པ། །
 བླ་མེད་གོ་འཕང་ཐོབ་པར་ཤོག །
 
-<!-- pair: TGD-002256 | source: U02256 U02257 | role: main_text | format: prose -->
+Through the immeasurable, incalculable merit
+Gathered by the Blessed One, /[^N-B-039]
+May all beings without exception
+Attain the unsurpassed state.
+
+<!-- TGD-002256 -->
+
 ཅེས་དང༌།
 ཡུམ་རྒྱས་པར་ཡང༌འཕགས་བཞིའི་དགེ་རྩ་བསྔོ་བར་གསུངས་སོ། །
 
-<!-- pair: TGD-002258 | source: U02258 U02259 U02260 U02261 U02262 U02263 U02264 | role: main_text | format: prose -->
+And the Extensive Mother also teaches dedicating the roots of virtue of the four noble ones.
+
+<!-- TGD-002258 -->
+
 གཉིས་པ་ནི་
 ཡོད་པ་དང་འདོད་ཙམ་མི་རྟག་པས་ཁྱབ་ན་
 སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་དང་མཐར་ཐུག་གི་ཡོན་ཏན་སྟོབས་སོགས་ཀྱང་དེར་ཐལ་ཡོད་པ་དང་འདོད་པའི་ཕྱིར་རོ། །
@@ -4948,7 +9089,10 @@ language: bo
 མཚུངས་པའི་ཕྱིར་རོ།
 དེ་ལྟར་ན་དགེ་སྡིག་གཏན་མི་སྲིད་པར་འགྱུར་རོ།
 
-<!-- pair: TGD-002265 | source: U02265 U02266 U02267 U02268 U02269 U02270 U02271 U02272 | role: main_text | format: prose -->
+As for the second position: if mere existence and being accepted entail impermanence, the buddhas’ primordial knowing and ultimate qualities such as their powers would also be impermanent, since they exist and are accepted. If no phenomenon lies outside the basic space of phenomena, why would everything not become stagnant neutrality? The reasoning is the same. Virtue and wrongdoing would then be altogether impossible.[^N-B-040]
+
+<!-- TGD-002265 -->
+
 ཆོས་དབྱིངས་བསྔོས་པས་ཐམས་ཅད་དགེ་བར་འགྱུར་པས་
 དམིགས་མཚན་འདུ་བྱས་སུ་འགྱུར་ན།
 དགེ་བའི་ལས་ལའང་མཚུངས་པས་
@@ -4958,19 +9102,30 @@ language: bo
 དོན་དམ་པར་ནི་བསྔོ་བ་ཉིད་ཀྱང་མ་གྲུབ་ན་
 ཆོས་དབྱིངས་བསྔོ་བྱ་ཡིན་མིན་གྱི་དཔྱད་པ་མི་འཇུག་གོ །
 
-<!-- pair: TGD-002273 | source: U02273 U02274 U02275 U02276 U02277 | role: main_text | format: prose -->
+If dedicating the basic space of phenomena makes everything virtuous and therefore makes it a conditioned object bearing signs, the same applies to virtuous karma; dedication free of poison would become impossible. Dedication must therefore be posited in dependence on the relative: just as merit is made the thing dedicated, it does not proceed according to [ultimately established] characteristics.[^N-B-041] Ultimately, dedication itself is not established, so analysis of whether the basic space of phenomena is something to dedicate does not apply.
+
+<!-- TGD-002273 -->
+
 དེའི་ཕྱིར་ཆོས་དབྱིངས་དེ་བཞིན་ཉིད་བསྔོ་བར་བྱ་བ་ཡིན་ཏེ།
 དགེ་བ་ཐམས་ཅད་ཆོས་ཀྱི་དབྱིངས་སུ་རོ་གཅིག་པར་དམིགས་ནས་
 གནས་ལུགས་ཆོས་སྐུར་སྨོན་དགོས་པའི་ཕྱིར་རོ། །
 དེ་ལྟར་ཡང་།
 རྒྱན་སྟུག་པོར།
 
-<!-- pair: TGD-002278 | source: U02278 U02279 U02280 | role: main_text | format: verse -->
+Therefore the basic space of phenomena, suchness, is to be dedicated: one focuses on all virtue as one taste in the basic space of phenomena and aspires to the natural state, the Dharma embodiment. The Dense Array of Adornments says:
+
+<!-- TGD-002278 -->
+
 བདེ་གཤེགས་སྙིང་པོ་ཁམས་དགེ་བ། །
 ཟག་མེད་ཡོན་ཏན་ལྡན་པ་དེ། །
 བསྔོས་པས་འབྲས་བུ་སྨིན་པར་འགྱུར།
 
-<!-- pair: TGD-002281 | source: U02281 U02282 U02283 U02284 U02285 U02286 | role: main_text | format: prose -->
+The sugata essence, the virtuous element,
+Endowed with uncontaminated qualities—
+Through dedicating it, the result matures.
+
+<!-- TGD-002281 -->
+
 ཞེས་དང།
 བདེ་གཤེགས་སྙིང་པོ་དགེ་བའང་དེ།
 ཞེས་དང༌།
@@ -4978,24 +9133,37 @@ language: bo
 ཁམས་རྣམས་ཀུན་ཀྱང་ཡོངས་སུ་བསྡུ་བྱས་ཏེ།
 ཞེས་དང་།
 
-<!-- pair: TGD-002287 | source: U02287 U02288 | role: main_text | format: verse -->
+And: “That sugata essence is also virtue.” In Vajra Banner’s Dedication: “Gathering all the elements together …,” and:
+
+<!-- TGD-002287 -->
+
 རྣལ་འབྱོར་ལས་བྱུང་དགེ་བ་བསྔོ། །
 རང་གི་སེམས་ཀྱང་བསྔོ་བར་བྱ།
 
-<!-- pair: TGD-002289 | source: U02289 U02290 U02291 U02292 | role: main_text | format: prose -->
+Dedicate the virtue arising from yoga;
+Dedicate your own ordinary mind as well.
+
+<!-- TGD-002289 -->
+
 ཞེས་དང༌།
 དེ་བཞིན་ཉིད་ཀྱི་རང་བཞིན་ཅི་འདྲ་བ་
 དེ་འདྲའི་ལས་རྣམས་ཀུན་ཀྱང་བསྔོ་བར་བྱ།
 ཞེས་དང་།
 
-<!-- pair: TGD-002293 | source: U02293 U02294 U02295 U02296 U02297 | role: main_text | format: prose -->
+And: “Whatever suchness’s intrinsic nature is like, dedicate all actions in that same way.”
+
+<!-- TGD-002293 -->
+
 ཀུན་བཏུས་ལས།
 དོན་དམ་པའི་དགེ་བ་གང་ཞེ་ན།
 དེ་བཞིན་ཉིད་དོ།
 ཅེས་དང༌།
 བདག་སོགས་བླ་ན་མེད་པ་ཡེ་ཤེས་ཀྱི་དགེ་བའི་རྩ་བ་ཞེས་སོགས་ལུང་མཐའ་ཡས་སོ༑ །
 
-<!-- pair: TGD-002298 | source: U02298 U02299 U02300 U02301 U02302 U02303 | role: main_text | format: prose -->
+The Compendium asks, “What is ultimate virtue?” and answers, “Suchness.” There are limitless scriptural passages, such as “the roots of virtue of our unsurpassed primordial knowing.”
+
+<!-- TGD-002298 -->
+
 ཡུམ་ལས།
 གཟུགས་ནས་རྣམ་མཁྱེན་གྱི་ཆོས་ཐམས་ཅད་འགྱུར་མེད་དུ་གསུངས་ཀྱང་
 ཀུན་རྫོབ་འཁྲུལ་པའི་དྲི་མ་སྦྱོང་བ་ལ་བལྟོས་པས་མི་འགལ་ལོ། །
@@ -5003,7 +9171,10 @@ language: bo
 དེས་ན།
 འཁོར་འདས་ཀུན་གྱི་ བསགས་དང་ཡོད་པའི་དགེ་བ་བསྔོ་བར་བྱའོ།
 
-<!-- pair: TGD-002304 | source: U02304 U02305 U02306 U02307 U02308 U02309 | role: main_text | format: prose -->
+Although the Mother says that all phenomena, from form to omniscience, are unchanging, there is no contradiction: [dedication] relates to purifying the stains of relative delusion. Thus already present virtue is like the ocean, and virtue done and gathered is like its waves. Therefore dedicate both the gathered and the already present virtue of all samsara and nirvana.
+
+<!-- TGD-002304 -->
+
 རྡོ༽༽ སངས་རྒྱས་དང་བླ་མ་ལ་བསྔོ་བ་དགོས་ཏེ་
 སྐྱོན་སྤང་ཡོན་ཏན་རྫོགས་པའི་ཕྱིར་ཟེར།
 འདིར་དེ་དག་ལ་ཡང་བསྔོ་བ་ནི་ངེས་པར་དགོས་ཏེ་
@@ -5011,7 +9182,10 @@ language: bo
 དཔེར་ན་ཕྱུག་པོ་ལ་ནོར་བསྣན་པ་བཞིན་ནོ། །
 དེ་ལྟར་ཡང་བརྒྱད་སྟོང་ལས།
 
-<!-- pair: TGD-002310 | source: U02310 U02311 U02312 U02313 U02314 U02315 U02316 U02317 | role: main_text | format: prose -->
+Vajra statement. Others say dedication to buddhas and gurus is necessary because faults have been abandoned and qualities perfected.[^N-B-042] Here too dedication for them is certainly necessary, because it speeds the completion of awakened activity, like adding wealth to a wealthy person. The Eight Thousand says:
+
+<!-- TGD-002310 -->
+
 སངས་རྒྱས་ཀྱི་མཛད་འཕྲིན་ནི་
 རྒྱུ་རྐྱེན་གཅིག་མིན་པ་
 པི་ཝང་གི་སྒྲ་ལྟར་གསུངས་པ་དང་
@@ -5021,13 +9195,22 @@ language: bo
 ལྷ་སྦྱིན་གྱི་འགྱོགས་རྡོས་ཞབས་ཀྱི་སྐུ་མཚལ་ལ་
 འོད་སྲུང་གིས་བདེན་པ་བརྗོད་པས་ཆད་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002318 | source: U02318 | role: main_text | format: prose -->
+Buddhas’ activity does not depend on a single cause or condition; it is like the sound of a vina.[^N-B-043] Nanda and Nandabala offered the concentrated milk of a thousand cows and dedicated it, saying, “May the observance be accomplished”; through this [the Buddha] awakened at dawn. Likewise, when Devadatta’s hurled stone made his foot bleed, Kashyapa’s declaration of truth stopped it.
+
+<!-- TGD-002318 -->
+
 བླ་མའང་སོ་སྐྱེས་དང་སར་གནས་གང་ཡིན་ཀྱང་གེགས་སུ་འགྱུར་བས་བསྔོ་དགོས་སོ། །
 
-<!-- pair: TGD-002319 | source: U02319 | role: chapter_colophon | format: prose -->
+Gurus too, whether ordinary persons or abiding on the levels, can encounter obstacles; therefore dedication is necessary.
+
+<!-- TGD-002319 -->
+
 བྱང་སེམས་གནད་བསྡུས་ཏེ་རྡོ་རྗེའི་ཚིགས་རྐང་ཉེར་ལྔ་ལྷན་ཐབས་ཤོ་ལོ་ཀ་གཅིག་པའི་འགྲེལ་བཤད་ཀྱི་སྐབས་ཏེ་བཞི་པའོ། ༈
 
-<!-- pair: TGD-002320 | source: U02320 U02321 U02322 U02323 U02324 U02325 | role: main_text | format: prose -->
+This is the fourth section: the explanation of twenty-five vajra statements and one supplementary shloka, gathering the essential points of the ordinary mind of awakening.
+
+<!-- TGD-002320 -->
+
 གསང་སྔགས་ཀྱི་བསྟན་པ་ནི་སྟོན་པས་དུས་ཞིང་འདི་ལས་གཞན་དུ་མི་འབྱུང་ཟེར་མོད་ཀྱང།
 འདིར་ནི་སྟོན་པ་དང་བསྟན་པ་གཞན་ལའང་སྔགས་འབྱུང་སྟེ་
 རང་ཉིད་སངས་རྒྱས་པ་ལ་སྤང་བྱ་ཕྲ་རག་ཐམས་ཅད་སྤངས་ཏེ་
@@ -5035,7 +9218,10 @@ language: bo
 སྔགས་མེད་ན་ཕྲ་བ་སྤོང་བྱེད་ཀྱི་གཉེན་པོ་མེད་པའི་ཕྱིར་རོ། །
 དེ་ལྟར་ཡང་རྣམ་སྣང་མངོན་བྱང་ལས།
 
-<!-- pair: TGD-002326 | source: U02326 U02327 U02328 U02329 U02330 U02331 | role: main_text | format: verse -->
+Although others say that secret mantra teachings occur only with this Teacher, time, and realm, here mantra also occurs with other teachers and teachings. To become a buddha oneself one must abandon every coarse and subtle thing to abandon, and teach that to other disciples. Without mantra there would be no antidote for abandoning the subtle. The Manifest Awakening of Vairocana says:[^N-B-044]
+
+<!-- TGD-002326 -->
+
 རྫོགས་པའི་སངས་རྒྱས་གང་འདས་དང༌། །
 དེ་བཞིན་གང་དག་མ་བྱོན་པ། །
 ད་ལྟར་བྱུང་བའི་མགོན་པོ་རྣམས། །
@@ -5043,30 +9229,51 @@ language: bo
 ཆོ་ག་བཟང་པོ་འདི་མཁྱེན་ནས། །
 ཐམས་ཅད་མཁྱེན་པ་ཚད་མེད་བརྙེས།
 
-<!-- pair: TGD-002332 | source: U02332 U02333 U02334 | role: main_text | format: prose -->
+Perfect buddhas who have passed,
+Those likewise yet to come,
+And protectors now present
+Who abide for beings’ benefit—
+Knowing this excellent rite,
+They attain immeasurable omniscience.
+
+<!-- TGD-002332 -->
+
 ཞེས་དང༌།
 འདས་པའི་སངས་རྒྱས་ཞེས་སོགས་སོ། །
 དེས་ན་སྔགས་འབྱུང་བ་གཞན་ལའང་ཡོད་དོ།
 
-<!-- pair: TGD-002335 | source: U02335 U02336 U02337 U02338 U02339 | role: main_text | format: prose -->
+And “the buddhas of the past …,” and so forth. Therefore mantra occurs elsewhere as well.
+
+<!-- TGD-002335 -->
+
 ལྷན༽༽ སྔགས་ནི་སྡེ་སྣོད་བཞི་པ་ཡིན་ཏེ་
 ལེགས་གྲུབ་ལས།
 བཞི་པ་རིག་འཛིན་སྡེ་སྣོད་དག་ལས་ཤེས་ཞེས་སོ། །
 ཡང་ན་ང་སེམས་འདུལ་བས་འདུལ་བ་ཡིན་ཅེས་དང་།
 ཡང་ན་མདོ་སྡེ་ཡིན་ཏེ་དཔུང་བཟང་ལས།
 
-<!-- pair: TGD-002340 | source: U02340 U02341 | role: main_text | format: verse -->
+Addendum. Some say mantra is the fourth scriptural collection, since Excellent Accomplishment says, “Know this from the fourth, the collection of awareness-holders.” Others say it is discipline, because “it disciplines my ordinary mind.” Others say it is sutra, since Subahu says:
+
+<!-- TGD-002340 -->
+
 གསང་སྔགས་མདོ་སྡེའི་ཚུལ་དུ་ནི།
 ཡང་དག་ངས་བཤད་ དྭངས་བས་ཉོན། །
 
-<!-- pair: TGD-002342 | source: U02342 U02343 U02344 U02345 U02346 | role: main_text | format: prose -->
+I have correctly explained secret mantra
+In the manner of sutras; listen with a clear disposition.
+
+<!-- TGD-002342 -->
+
 ཅེས་སོ།
 ཡང་ཆོས་སྤྱོད་མངོན་རྟོགས་རྒྱུད་ལས།
 མངོན་པ་ཕྱི་ནང་གཉིས་གསུངས་པས་སྔགས་ནང༌གི་མངོན་པ་ཡིན་ཅེས་པ་སྟེ།
 དེ་ལྟར་སོ་སོས་འདོད་པ་རེ་བཤད་ཀྱང་
 གཙོ་ཆེར་མདོ་སྡེར་བསྡུ་བ་འདི་ཕལ་གྱིས་བཞེད་པར་སྣང་ངོ་།
 
-<!-- pair: TGD-002347 | source: U02347 U02348 U02349 U02350 U02351 U02352 U02353 | role: main_text | format: prose -->
+So it says. Again, the Continuum of Clear Realization of Dharma Activity teaches outer and inner abhidharma, so some say mantra is inner abhidharma. Although each explains a particular position, most appear to include it chiefly in sutra.
+
+<!-- TGD-002347 -->
+
 འདིར་ནི་སྡེ་སྣོད་གསུམ་མམ་དེ་གསུམ་ཁ་ཡི་སྙིང་པོ་ལྟ་བུ་སྔགས་ཡིན་ཏེ།
 གང་ཟག་གཅིག་འཚང་རྒྱ་བར་སྤང་བྱ་བསྡུ་ན་
 དུག་གསུམ་སྤོང་བྱེད་སྡེ་སྣོད་གསུམ་གྱི་དོན་བསླབ་པ་གསུམ་ཡིན་པས་
@@ -5075,26 +9282,41 @@ language: bo
 ལུང་ཡང་གསུམ་ཀར་ཡོད་པས་
 འདི་ལྟར་བྱས་ན་མི་འགལ་ཞིང་ཆེས་འཐད་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-002354 | source: U02354 U02355 U02356 U02357 | role: main_text | format: prose -->
+Here mantra is the three scriptural collections, or like the essence of all three. Summarizing what an individual must abandon to awaken, the three trainings—the meaning of the three collections—abandon the three poisons. The union of generation and completion uproots what is to be abandoned, and one awakens in the embodiment of great bliss, the union in which means and discerning knowing are nondual. There is scriptural testimony for all three classifications; on this account they do not conflict, and it is most reasonable.
+
+<!-- TGD-002354 -->
+
 རྡོ༽༽ སྔགས་ལ་གཞི་སྒོ་གསུམ་རྡོ་རྗེ་གསུམ་གདོད་མ་ནས་གནས་པ།
 ལམ་སྨིན་གྲོལ་གཉིས།
 འབྲས་བུ་སྐུ་བཞི་སྟེ་གསུམ་ལས།
 འཇམ་དཔལ་རྩ་རྒྱུད་ལས།
 
-<!-- pair: TGD-002358 | source: U02358 U02359 U02360 U02361 | role: main_text | format: verse -->
+Vajra statement. Mantra has three: The Ground, the three doors primordially abiding as the three vajras; the path, ripening and liberation; and the result, the four embodiments. The Manjushri Root Continuum says:
+
+<!-- TGD-002358 -->
+
 གང་ཞིག་དཀྱིལ་འཁོར་མ་མཐོང་བ།
 རྣལ་འབྱོར་པ་ནིx
 མཁའ་ལ་ཁུ་ཚུར་གྱིསx
 སྨིག་རྒྱུའི་ཆུ་ནིx
 
-<!-- pair: TGD-002362 | source: U02362 U02363 U02364 U02365 U02366 | role: main_text | format: prose -->
+Whoever has not seen the mandala—
+The yogin x
+With a fist against space x
+The water of a mirage x[^N-B-045]
+
+<!-- TGD-002362 -->
+
 ཅེས་པས་དབང་བསྐུར་སྔོན་དུ་དགོས།
 དེའང་གང་གིས་བསྐུར་བ་རྡོ་རྗེ་སློབ་དཔོན་རབ་འབྲིང་ཐ་གསུམ།
 གང་ལ་བསྐུར་བ་རྟེན་གྱི་གང་ཟག་སྐྱབས་འགྲོ་སོགས་ཀྱིས་རྒྱུད་དག་པ།
 ཇི་ལྟར་བསྐུར་བའི་ཆོ་ག་རྒྱུད་ནས་གསུངས་པ་ལྟར་སྦྱོར་བ་སྟ་གོན།
 དངོས་གཞི་བུམ་གསང་ཤེར་ཚིག་དབང་བཞིའི་ཆོ་ག་ཚུལ་བཞིན་བྱས་པས་ཐོབ་པ་ཡིན་ཟེར།
 
-<!-- pair: TGD-002367 | source: U02367 U02368 U02369 U02370 U02371 U02372 | role: main_text | format: prose -->
+Thus empowerment must come first. Others say it is attained when the one conferring it is a vajra master of superior, middling, or inferior capacity; the recipient is a person whose continuum has been purified through going for refuge and so forth; and the rite follows the continuums, properly performing the preparatory arrangements and the main rites of the four empowerments: vase, secret, discerning-knowing [primordial-knowing], and word.
+
+<!-- TGD-002367 -->
+
 འདིར་ནི་སློབ་དཔོན་མཚན་ཉིད་དང་ལྡན་པས་
 སློབ་མ་མོས་གུས་དང་ལྡན་པར་
 གདམས་ངག་རྗེས་བསྟན་གྱི་རྟེན་འབྲེལ་ལས་
@@ -5102,7 +9324,10 @@ language: bo
 རྡོ་རྗེ་གསུམ་དུ་ངོ་སྤྲད་པས་
 ངེས་ཤེས་རྟོགས་པ་སྐྱེས་པར་དོན་གྱི་དབང་ཐོབ་པ་ཞེས་བྱ།
 
-<!-- pair: TGD-002373 | source: U02373 U02374 U02375 U02376 U02377 U02378 | role: main_text | format: prose -->
+Here, through the dependent arising of a qualified master teaching instructions to a disciple endowed with confident devotion, the stains of apprehending the three doors as separate are purified. By pointing them out as the three vajras, certainty and realization arise: this is called attaining the empowerment of meaning.
+
+<!-- TGD-002373 -->
+
 དེ་ཡང་ཕུང་ཁམས་སྐྱེ་མཆེད་དཀྱིལ་འཁོར་གྱི་འཁོར་ལོར་
 ངེས་ཤེས་ལྷན་ཅིག་གིས་སྐྱེས་པ་བུམ་དབང།
 གསལ་སྟོང་གི་ཏིང་འཛིན་སྐྱེས་པར་གསང་དབང་།
@@ -5110,7 +9335,10 @@ language: bo
 སེམས་ཉིད་སྐྱེ་མེད་དུ་རྟོགས་པ་ཚིག་དབང་སྟེ།
 དེ་ལྟ་བུའི་དབང་གི་དོན་རང་རྒྱུད་ལ་ངེས་ཤེས་སྐྱེས་ན་དབང་ཐོབ་པར་བཞེད་དོ།
 
-<!-- pair: TGD-002379 | source: U02379 U02380 U02381 U02382 U02383 U02384 | role: main_text | format: prose -->
+The vase empowerment is the simultaneous arising of certainty that the aggregates, elements, and sense fields are the mandala’s wheel. The secret empowerment is the arising of deep absorption in clarity-emptiness. The discerning-knowing–primordial-knowing empowerment concerns bliss-emptiness. The word empowerment is realization of ordinary mind itself as non-arising. When certainty concerning these meanings of empowerment arises in one’s continuum, empowerment is held to have been attained.
+
+<!-- TGD-002379 -->
+
 ལྷན༽༽ གང་ཟག་རབ་འབྲིང་ཐ་གསུམ་ལ་རིམ་བཞིན་དབང་མ་བསྐུར་ཡང་ཐོབ་པ་དང༌།
 བསྐུར་ན་ཐོབ་པ།
 བསྐུར་ཡང་མི་ཐོབ་པ་དང་གསུམ་ལས།
@@ -5118,7 +9346,10 @@ language: bo
 དེ་ལྟ་བུ་ནི་བླ་མར་མོས་གུས་ཀྱིས་སྒོ་གསུམ་གྱི་དྲི་མ་དག་པས་
 མ་བསྐུར་ཡང་ཐོབ་པ་ཡིན་ཟེར་རོ།
 
-<!-- pair: TGD-002385 | source: U02385 U02386 U02387 U02388 U02389 U02390 U02391 U02392 U02393 | role: main_text | format: prose -->
+Addendum. The three types of person, superior, middling, and inferior, respectively attain empowerment without its being conferred, attain it when it is conferred, and fail to attain it even when it is conferred. Others place the superior faculty first: through confident devotion to the guru, such a person purifies the three doors’ stains and attains empowerment without its being conferred.
+
+<!-- TGD-002385 -->
+
 འདིར་ནི་དབང་རབ་དེ་ལྟར་རྟོགས་པ་ཡོད་ཀྱང་
 རྒྱུད་པའི་ཆོ་ག་ཟབ་ཕྱིར་
 དེའི་ཆོ་ག་ནི་ངེས་པར་དགོས་་ཏེ་
@@ -5129,25 +9360,37 @@ language: bo
 ཆོ་ག་སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་ཡིན་ཅིང་
 དེ་བྱས་ན་དེའི་རྒྱུད་ལ་ནུས་པའི་ས་བོན་འཇོག་པ་ཡིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002394 | source: U02394 U02395 U02396 | role: main_text | format: prose -->
+Here, although one of superior faculty may have that realization, the rite is certainly necessary because the continuum’s rite is profound. Even with superior faculty the person is unripened, so both master and disciple incur the root downfall of divulging secrets. Like the blind leading the blind, such a person has no authorization to confer empowerment for others. Moreover, the rite is buddhas’ primordial knowing; performing it plants a seed of potency in that person’s continuum.
+
+<!-- TGD-002394 -->
+
 དབང་པོ་ཐ་མར་ཡང་བསྐུར་དགོས་ཏེ་
 བག་ཆགས་ཀྱི་རྒྱུས་ནམ་ཞིག་ན་འབྲས་བུ་འདོར་བ་མི་སྲིད་པའི་ཕྱིར་རོ། །
 གཞི་འམ་ལུས་ལྟ་བུ་བུམ་དབང་རེ་ལ་མ་བརྟེན་ཐབས་མེད་ཡིན་ནོ། །
 
-<!-- pair: TGD-002397 | source: U02397 U02398 U02399 U02400 U02401 | role: main_text | format: prose -->
+Empowerment must also be conferred on those of inferior faculty, because a cause in the form of habitual tendencies cannot fail eventually to give its result. There is no way around relying on a vase empowerment, which is like The Ground or a body.
+
+<!-- TGD-002397 -->
+
 རྡོ༽༽ དབང་བཞི་ལས་
 བུམ་དབང་རྡུལ་མཚོན་གྱི་དཀྱིལ་འཁོར་རྒྱས་པའི་རྟེན་ལ་བརྟེན་པ་སངས་རྒྱས་དང་བྱང་སེམས་ཀྱི་གདན།
 རིག་མ་དང་ལྷ་མོའི་གདན།
 ཁྲོ་བོ་དང་ཁྲོ་མོའི་གདན་ཏེ་
 དེ་གསུམ་མ་ཚང་བ་རྡོ་རྗེ་རྣལ་འབྱོར་མ་ལྟ་བུས་ནི་མི་ཐོབ་ཅེས་ཟེར་རོ། །
 
-<!-- pair: TGD-002402 | source: U02402 U02403 U02404 U02405 | role: main_text | format: prose -->
+Vajra statement. Others say that, of the four empowerments, the vase empowerment requires an extensive colored-powder mandala with three seats: the seat of buddhas and bodhisattvas, that of awareness women and goddesses, and that of wrathful males and females. If all three are not complete, it cannot be attained through a practice such as Vajrayogini.[^N-B-046]
+
+<!-- TGD-002402 -->
+
 འདིར་ནི་སངས་རྒྱས་རྣམས་ཤིན་ཏུ་ཕྲ་བའི་བག་ཆགས་སྤངས་ཏེ་
 དཀྱིལ་འཁོར་གྱི་འཁོར་ལོ་གཅིག་ཏུ་སངས་རྒྱས་པའི་ཕྱིར་དང་།
 གདན་ཅེས་པ་རྟེན་སྒྱུ་མའི་ལུས་ལ་
 རང་རིག་བྱང་ཆུབ་ཀྱི་སེམས་བརྟེན་པའི་ཚུལ་དུ་གནས་ཤིང་
 
-<!-- pair: TGD-002406 | source: U02406 U02407 U02408 U02409 U02410 U02411 | role: main_text | format: prose -->
+Here buddhas have abandoned the most subtle habitual tendencies and awakened as a single mandala wheel. “Seat” refers to the illusory body as support, with the self-aware ordinary mind of awakening abiding as what is supported.
+
+<!-- TGD-002406 -->
+
 དེའང་བདག་གི་ཕུང་ལྔ་སངས་རྒྱས་ལྔ་ཚོགས་བརྒྱད་
 སེམས་དཔའ་བརྒྱད་ནི་སངས་རྒྱས་བྱང་སེམས་ཀྱི་གདན།
 འབྱུང་ལྔ་ཡུམ་ལྔ་ཡུལ་བརྒྱད་སེམས་མ་བརྒྱད་ནི་
@@ -5155,2362 +9398,4720 @@ language: bo
 ཚིག་ཆེན་བཅུ་ཁྲོ་བཅུ་ཡུལ་བཅུ་ཁྲོ་མོ་བཅུ་ནི་
 ཁྲོ་བོ་ཁྲོ་མོའི་གདན་ཡིན་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-002412 | source: U02412 | role: main_text | format: prose -->
+One’s five aggregates as the five buddhas, and the eight collections [of consciousness] as the eight bodhisattvas, are the seat of buddhas and bodhisattvas. The five elements as the five mothers and eight objects as the eight female bodhisattvas are the seat of awareness women and goddesses. The ten great “words” as the ten wrathful males, and ten objects as the ten wrathful females, are the seat of wrathful males and females.[^N-B-047]
+
+<!-- TGD-002412 -->
+
 རྣལ་འབྱོར་མ་ལྷ་གཅིག་
 
-<!-- pair: TGD-002413 | source: U02413 | role: main_text | format: prose -->
+[Not yet translated: U02412.]
+
+<!-- TGD-002413 -->
+
 ལྷ་ལྔ་གང་ཡིན་ཡང་
 
-<!-- pair: TGD-002414 | source: U02414 | role: main_text | format: prose -->
+[Not yet translated: U02413.]
+
+<!-- TGD-002414 -->
+
 ཕུང་ཁམས་སྐྱེ་མཆེད་སངས་རྒྱས་སུ་ངོ་འཕྲོད་ན་
 
-<!-- pair: TGD-002415 | source: U02415 | role: main_text | format: prose -->
+[Not yet translated: U02414.]
+
+<!-- TGD-002415 -->
+
 བུམ་དབང་ཐོབ་ཅིང་
 
-<!-- pair: TGD-002416 | source: U02416 | role: main_text | format: prose -->
+[Not yet translated: U02415.]
+
+<!-- TGD-002416 -->
+
 དེ་ལ་བརྟེན་ནས་དབང་གསུམ་པོ་ཡང་ཐོབ་པར་འགྱུར་ཞིང་
 
-<!-- pair: TGD-002417 | source: U02417 | role: main_text | format: prose -->
+[Not yet translated: U02416.]
+
+<!-- TGD-002417 -->
+
 རིགས་བརྒྱ་རིགས་ལྔ་རིགས་གསུམ་སོགས་
 
-<!-- pair: TGD-002418 | source: U02418 | role: main_text | format: prose -->
+[Not yet translated: U02417.]
+
+<!-- TGD-002418 -->
+
 རིགས་གཅིག་ཏུ་འདུ་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002419 | source: U02419 | role: main_text | format: prose -->
+[Not yet translated: U02418.]
+
+<!-- TGD-002419 -->
+
 དོན་གྱིས་དེ་ལྟར་ཚང་ཡང་
 
-<!-- pair: TGD-002420 | source: U02420 | role: main_text | format: prose -->
+[Not yet translated: U02419.]
+
+<!-- TGD-002420 -->
+
 དངོས་སུ་མ་ཚང་བས་མི་ཐོབ་ཅེ་ན།
 
-<!-- pair: TGD-002421 | source: U02421 | role: main_text | format: prose -->
+[Not yet translated: U02420.]
+
+<!-- TGD-002421 -->
+
 དེ་ལྟར་ན་འཇམ་རྡོར་མ་གཏོགས་
 
-<!-- pair: TGD-002422 | source: U02422 | role: main_text | format: prose -->
+[Not yet translated: U02421.]
+
+<!-- TGD-002422 -->
+
 དུས་ གསང་བདེ་དགྱེས་གང་གིས་ཀྱང་མི་ཐོབ་སྟེ་
 
-<!-- pair: TGD-002423 | source: U02423 | role: main_text | format: prose -->
+[Not yet translated: U02422.]
+
+<!-- TGD-002423 -->
+
 དངོས་སུ་མི་ཚང་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002424 | source: U02424 | role: main_text | format: prose -->
+[Not yet translated: U02423.]
+
+<!-- TGD-002424 -->
+
 དེ་བས་ན་
 
-<!-- pair: TGD-002425 | source: U02425 | role: main_text | format: prose -->
+[Not yet translated: U02424.]
+
+<!-- TGD-002425 -->
+
 ལྷའི་གྲངས་ནི་ཕྱོགས་འདོག་ཚང་བའམ་
 
-<!-- pair: TGD-002426 | source: U02426 | role: main_text | format: prose -->
+[Not yet translated: U02425.]
+
+<!-- TGD-002426 -->
+
 རིགས་གཅིག་པས་ཀྱང་དབང་བསྐུར་ཐོབ་པར་འགྲོ་བ་ཡིན་ནོ།
 
-<!-- pair: TGD-002427 | source: U02427 | role: main_text | format: prose -->
+[Not yet translated: U02426.]
+
+<!-- TGD-002427 -->
+
 ལྷན༽༽ སྐུ་གསུམ་མཛད་པ་གསུམ་དུ་ངེས་པས་བསམ་གྱིས་མི་ཁྱབ་པར་འདོད་མོད།
 
-<!-- pair: TGD-002428 | source: U02428 | role: main_text | format: prose -->
+[Not yet translated: U02427.]
+
+<!-- TGD-002428 -->
+
 འདིར་ནི་ལྷ་གཅིག་གིས་་ ཀྱང་ཕྲིན་ལས་ཐམས་ཅད་འགྲུབ་པ་ཡིན་ཏེ་
 
-<!-- pair: TGD-002429 | source: U02429 | role: main_text | format: prose -->
+[Not yet translated: U02428.]
+
+<!-- TGD-002429 -->
+
 ངོ་བོ་གཅིག་ཅིང་ཕྲིན་ལས་རྣམས་ཀྱང་རྒྱུན་མི་འཆད་པར་འདུ་བའི་ཕྱིར།
 
-<!-- pair: TGD-002430 | source: U02430 | role: main_text | format: prose -->
+[Not yet translated: U02429.]
+
+<!-- TGD-002430 -->
+
 བརྟགས་གཉིས་ལས།
 
-<!-- pair: TGD-002431 | source: U02431 | role: main_text | format: prose -->
+[Not yet translated: U02430.]
+
+<!-- TGD-002431 -->
+
 སེམས་ནི་ཆེན་པོ་གཅིག་ཉིད་ལས། །
 
-<!-- pair: TGD-002432 | source: U02432 | role: main_text | format: prose -->
+[Not yet translated: U02431.]
+
+<!-- TGD-002432 -->
+
 ལྔ་ཡི་གཟུགས་ཀྱི་རྣམ་པར་མཚོན། །
 
-<!-- pair: TGD-002433 | source: U02433 | role: main_text | format: prose -->
+[Not yet translated: U02432.]
+
+<!-- TGD-002433 -->
+
 རིགས་ནི་ལྔ་པོ་དེ་ཉིད་ལས། །
 
-<!-- pair: TGD-002434 | source: U02434 | role: main_text | format: prose -->
+[Not yet translated: U02433.]
+
+<!-- TGD-002434 -->
+
 སྟོང་ཕྲག་དུ་མ་སྐྱེ་བ་ཉིད།
 
-<!-- pair: TGD-002435 | source: U02435 | role: main_text | format: prose -->
+[Not yet translated: U02434.]
+
+<!-- TGD-002435 -->
+
 དེ་ཕྱིར་འདི་དག་རང་བཞིན་གཅིག །
 
-<!-- pair: TGD-002436 | source: U02436 | role: main_text | format: prose -->
+[Not yet translated: U02435.]
+
+<!-- TGD-002436 -->
+
 ཅེས་སོ།
 
-<!-- pair: TGD-002437 | source: U02437 | role: main_text | format: prose -->
+[Not yet translated: U02436.]
+
+<!-- TGD-002437 -->
+
 ཐུགས་ཀྱི་རིགས་གཅིག་ལའང་།
 
-<!-- pair: TGD-002438 | source: U02438 | role: main_text | format: prose -->
+[Not yet translated: U02437.]
+
+<!-- TGD-002438 -->
+
 སྐུ་གསུང་ཐུགས་ཡོན་ཕྲིན་ལས་ལྔ་ཚང་བའི་ཕྱིར།
 
-<!-- pair: TGD-002439 | source: U02439 | role: main_text | format: prose -->
+[Not yet translated: U02438.]
+
+<!-- TGD-002439 -->
+
 སྔགས་རྣམས་ཀུན་གྱི་མཚན་ཉིད་ནི། །
 
-<!-- pair: TGD-002440 | source: U02440 | role: main_text | format: prose -->
+[Not yet translated: U02439.]
+
+<!-- TGD-002440 -->
+
 བདེ་བར་གཤེགས་པའི་ཐུགས་ལ་གནས།
 
-<!-- pair: TGD-002441 | source: U02441 | role: main_text | format: prose -->
+[Not yet translated: U02440.]
+
+<!-- TGD-002441 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-002442 | source: U02442 | role: main_text | format: prose -->
+[Not yet translated: U02441.]
+
+<!-- TGD-002442 -->
+
 དེ་ལྟར་ན་ལྷ་གཅིག་གིས་རིགས་ཐམས་ཅད་བསྡུས་པས་
 
-<!-- pair: TGD-002443 | source: U02443 | role: main_text | format: prose -->
+[Not yet translated: U02442.]
+
+<!-- TGD-002443 -->
+
 ཕྲིན་ལས་བཞི་ཀ་སྒྲུབ་ནུས་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-002444 | source: U02444 | role: main_text | format: prose -->
+[Not yet translated: U02443.]
+
+<!-- TGD-002444 -->
+
 ལྷན༽༽ ལྷ་རེ་རེ་ལ་མཚན་ངེས་པ་ཅན་རེ་རེ་ཡོད་པ་འདོད་མོད་ཀྱང་།
 
-<!-- pair: TGD-002445 | source: U02445 | role: main_text | format: prose -->
+[Not yet translated: U02444.]
+
+<!-- TGD-002445 -->
+
 འདིར་ནི་ལྷ་རྣམས་ཀུན་གྱི་མཚན་ནི་
 
-<!-- pair: TGD-002446 | source: U02446 | role: main_text | format: prose -->
+[Not yet translated: U02445.]
+
+<!-- TGD-002446 -->
+
 འབྲས་བུ་མངོན་དུ་བྱས་པའམ་མཛད་འཕྲིན་གྱི་དོན་ལ་བཏགས་པ་ཡིན་ན་
 
-<!-- pair: TGD-002447 | source: U02447 | role: main_text | format: prose -->
+[Not yet translated: U02446.]
+
+<!-- TGD-002447 -->
+
 དེ་ནི་རང་གི་ལྷག་པའི་ལྷ་གཅིག་བདེ་མཆོག་ལྟ་བུ་ཡིས་ཀྱང་མཚན་དེ་ཀུན་བཟུང་བ་ཡིན་ཏེ་
 
-<!-- pair: TGD-002448 | source: U02448 | role: main_text | format: prose -->
+[Not yet translated: U02447.]
+
+<!-- TGD-002448 -->
+
 སྒྲིབ་པ་ལམ་གྱིས་སྦྱངས་ཏེ་
 
-<!-- pair: TGD-002449 | source: U02449 | role: main_text | format: prose -->
+[Not yet translated: U02448.]
+
+<!-- TGD-002449 -->
+
 འབྲས་བུས་ཡོན་ཏན་གྱི་ངོ་བོར་སངས་རྒྱས་པར་གཅིག་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-002450 | source: U02450 | role: main_text | format: prose -->
+[Not yet translated: U02449.]
+
+<!-- TGD-002450 -->
+
 སྐུ་མཚན་དཔེ་ཐུགས་བྲལ་འབྲས་ཡེ་ཤེས་དང་ལྡན་ཅིང་།
 
-<!-- pair: TGD-002451 | source: U02451 | role: main_text | format: prose -->
+[Not yet translated: U02450.]
+
+<!-- TGD-002451 -->
+
 མཚན་བཅོམ་ལྡན་འདས་འབོད་པ་དང༌།
 
-<!-- pair: TGD-002452 | source: U02452 | role: main_text | format: prose -->
+[Not yet translated: U02451.]
+
+<!-- TGD-002452 -->
+
 གསོལ་བ་བཏབ་ན་རྗེས་སུ་འཛིན་པ་གཅིག་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-002453 | source: U02453 | role: main_text | format: prose -->
+[Not yet translated: U02452.]
+
+<!-- TGD-002453 -->
+
 རྡོ༽༽ གསུམ་པ་ཤེས་རབ་ཡེ་ཤེས་གཞན་ལུས་ཕྱག་རྒྱ་ལས་ལེན་པར་གསུངས་ཏེ།
 
-<!-- pair: TGD-002454 | source: U02454 | role: main_text | format: prose -->
+[Not yet translated: U02453.]
+
+<!-- TGD-002454 -->
+
 དེའང་དངོས་གཞི་སློབ་དཔོན་གྱིས་གདམས་ངག་རྗེས་བསྟན་གྱི་དགའ་བཞི་བདེ་སྟོང་གི་ཏིང་འཛིན་ངོ་སྤྲད་ཅིང་
 
-<!-- pair: TGD-002455 | source: U02455 | role: main_text | format: prose -->
+[Not yet translated: U02454.]
+
+<!-- TGD-002455 -->
+
 དེ་ལྟར་ངེས་ཤེས་སྐྱེས་པ་ལ་
 
-<!-- pair: TGD-002456 | source: U02456 | role: main_text | format: prose -->
+[Not yet translated: U02455.]
+
+<!-- TGD-002456 -->
+
 མཻ་ཏྲིས་དཔེ་དང་ནཱ་རོས་དོན་གྱི་ཡེ་ཤེས་སུ་བཞེད་པས་
 
-<!-- pair: TGD-002457 | source: U02457 | role: main_text | format: prose -->
+[Not yet translated: U02456.]
+
+<!-- TGD-002457 -->
+
 མར་པས་དེ་ཉིད་རྟོགས་མ་རྟོགས་ཡིན་གསུངས་པ་དང་
 
-<!-- pair: TGD-002458 | source: U02458 | role: main_text | format: prose -->
+[Not yet translated: U02457.]
+
+<!-- TGD-002458 -->
+
 འགའ་ཞིག་དཔེ་དང་འགའ་ཞིག་དོན་གྱི་ཡེ་ཤེས་སུ་འདོད་མོད།
 
-<!-- pair: TGD-002459 | source: U02459 | role: main_text | format: prose -->
+[Not yet translated: U02458.]
+
+<!-- TGD-002459 -->
+
 འདིར་ནི་དབང་དོན་བློ་ལས་འདས་པར་རྟོགས་པའི་ཡེ་ཤེས་རྒྱུད་ལ་མ་སྐྱེས་ན་
 
-<!-- pair: TGD-002460 | source: U02460 | role: main_text | format: prose -->
+[Not yet translated: U02459.]
+
+<!-- TGD-002460 -->
+
 དཔེ་ཡིས་དོན་དེ་གཉིས་ཁོང་དུ་མི་ཆུད་
 
-<!-- pair: TGD-002461 | source: U02461 | role: main_text | format: prose -->
+[Not yet translated: U02460.]
+
+<!-- TGD-002461 -->
+
 དེ་འདྲ་བས་འདྲ་བ་མཚོན་པའི་ཉམས་མྱོང་ཐམས་ཅད་བློས་བྱས་ཡིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002462 | source: U02462 | role: main_text | format: prose -->
+[Not yet translated: U02461.]
+
+<!-- TGD-002462 -->
+
 དེ་ལྟར་ཡང་ཡེ་ཤེས་གྲུབ་པ་ལས།
 
-<!-- pair: TGD-002463 | source: U02463 | role: main_text | format: prose -->
+[Not yet translated: U02462.]
+
+<!-- TGD-002463 -->
+
 དབང་པོ་གཉིས་སྦྱོར་བདེ་བ་ནི།
 
-<!-- pair: TGD-002464 | source: U02464 | role: main_text | format: prose -->
+[Not yet translated: U02463.]
+
+<!-- TGD-002464 -->
+
 དེ་ཉིད་ཡིན་ཅེས་སྐྱེ་ངག་སྨྲ། །
 
-<!-- pair: TGD-002465 | source: U02465 | role: main_text | format: prose -->
+[Not yet translated: U02464.]
+
+<!-- TGD-002465 -->
+
 དེ་ནི་བདེ་བ་ཆེ་ཡིན་ཅེས། །
 
-<!-- pair: TGD-002466 | source: U02466 | role: main_text | format: prose -->
+[Not yet translated: U02465.]
+
+<!-- TGD-002466 -->
+
 རྒྱལ་བ་རྣམས་ཀྱིས་མ་གསུངས་སོ།
 
-<!-- pair: TGD-002467 | source: U02467 | role: main_text | format: prose -->
+[Not yet translated: U02466.]
+
+<!-- TGD-002467 -->
+
 ཅེས་སོ།
 
-<!-- pair: TGD-002468 | source: U02468 | role: main_text | format: prose -->
+[Not yet translated: U02467.]
+
+<!-- TGD-002468 -->
+
 ཕག་གྲུས།
 
-<!-- pair: TGD-002469 | source: U02469 | role: main_text | format: prose -->
+[Not yet translated: U02468.]
+
+<!-- TGD-002469 -->
+
 ཟག་བཅས་བདེ་བ་ཆེ་སྒོ་ཡི།
 
-<!-- pair: TGD-002470 | source: U02470 | role: main_text | format: prose -->
+[Not yet translated: U02469.]
+
+<!-- TGD-002470 -->
+
 བདེ་ཆེན་ཡན་ལག
 
-<!-- pair: TGD-002471 | source: U02471 | role: main_text | format: prose -->
+[Not yet translated: U02470.]
+
+<!-- TGD-002471 -->
+
 ཞེས་སོགས་སོ།
 
-<!-- pair: TGD-002472 | source: U02472 | role: main_text | format: prose -->
+[Not yet translated: U02471.]
+
+<!-- TGD-002472 -->
+
 དེ་ལྟར་ན་དཔེ་དོན་དེ་གཉིས་ཀ་ལས་གང་ཡིན་ཁ་ཚོན་བཅད་དུ་མེད་དེ་
 
-<!-- pair: TGD-002473 | source: U02473 | role: main_text | format: prose -->
+[Not yet translated: U02472.]
+
+<!-- TGD-002473 -->
+
 ཚོར་བ་ལྷན་སྐྱེས་བློ་འདས་ཀྱི་ཡེ་ཤེས་སུ་རྟོགས་ན་དཔེའམ་དོན་ཀྱང་ཡིན་ཅིང་།
 
-<!-- pair: TGD-002474 | source: U02474 | role: main_text | format: prose -->
+[Not yet translated: U02473.]
+
+<!-- TGD-002474 -->
+
 མ་རྟོགས་ན་དེ་གཉིས་ཀ་མིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-002475 | source: U02475 | role: main_text | format: prose -->
+[Not yet translated: U02474.]
+
+<!-- TGD-002475 -->
+
 ལྷན༽༽ གསུམ་པས་
 
-<!-- pair: TGD-002476 | source: U02476 | role: main_text | format: prose -->
+[Not yet translated: U02475.]
+
+<!-- TGD-002476 -->
+
 རང་རྒྱུད་ཀྱི་ཡེ་ཤེས་དེ་རིགས་མཐུན་བདེ་བས་མི་རྟོགས་ཟེར་བ་དང་།
 
-<!-- pair: TGD-002477 | source: U02477 | role: main_text | format: prose -->
+[Not yet translated: U02476.]
+
+<!-- TGD-002477 -->
+
 ཡང་ཕྱིན་ཅི་མ་ལོག་པར་རྟོགས་པས་
 
-<!-- pair: TGD-002478 | source: U02478 | role: main_text | format: prose -->
+[Not yet translated: U02477.]
+
+<!-- TGD-002478 -->
+
 སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་དང་ཁྱད་མེད་ཅེས་དང་།
 
-<!-- pair: TGD-002479 | source: U02479 | role: main_text | format: prose -->
+[Not yet translated: U02478.]
+
+<!-- TGD-002479 -->
+
 དོན་ཡེ་བདེ་སྟོང་རོ་མཉམ་བརྗོད་མེད་དུ་མྱོང་ན་ཡིན་ཟེར་བ་དང་།
 
-<!-- pair: TGD-002480 | source: U02480 | role: main_text | format: prose -->
+[Not yet translated: U02479.]
+
+<!-- TGD-002480 -->
+
 ཡང་དེ་མཐོང་ལམ་གྱི་ཡེ་ཤེས་འོད་གཅིག་ཙམ་སྐྱེ་ཟེར་བ་
 
-<!-- pair: TGD-002481 | source: U02481 | role: main_text | format: prose -->
+[Not yet translated: U02480.]
+
+<!-- TGD-002481 -->
+
 དེ་བཞི་དང༌།
 
-<!-- pair: TGD-002482 | source: U02482 | role: main_text | format: prose -->
+[Not yet translated: U02481.]
+
+<!-- TGD-002482 -->
+
 དེ་ལས་གོ་བ་བཟང་དུ་རེ་བ་རྣམས་ཀྱིས་དེས་གཟུགས་བརྙན་ཙམ་རྟོགས་ཟེར་བ་དང༌།
 
-<!-- pair: TGD-002483 | source: U02483 | role: main_text | format: prose -->
+[Not yet translated: U02482.]
+
+<!-- TGD-002483 -->
+
 ཡང་དག་ལྷ་ཡས།
 
-<!-- pair: TGD-002484 | source: U02484 | role: main_text | format: prose -->
+[Not yet translated: U02483.]
+
+<!-- TGD-002484 -->
+
 སྐད་ཅིག་གསུམ་པ་གང་སྐྱེས་པ།
 
-<!-- pair: TGD-002485 | source: U02485 | role: main_text | format: prose -->
+[Not yet translated: U02484.]
+
+<!-- TGD-002485 -->
+
 དོན་མཐོང་མ་ཡིན་འབྲས་ཅན་གྱིས། །
 
-<!-- pair: TGD-002486 | source: U02486 | role: main_text | format: prose -->
+[Not yet translated: U02485.]
+
+<!-- TGD-002486 -->
+
 སྦགས་པ་ཡིས་ནི་བུ་རམ་བཞིན།
 
-<!-- pair: TGD-002487 | source: U02487 | role: main_text | format: prose -->
+[Not yet translated: U02486.]
+
+<!-- TGD-002487 -->
+
 ཞེས་དེ་ལྟར་དཔེ་དོན་ལས་རེ་རེ་འདོད་ཅིང༌།
 
-<!-- pair: TGD-002488 | source: U02488 | role: main_text | format: prose -->
+[Not yet translated: U02487.]
+
+<!-- TGD-002488 -->
+
 ཟག་བཅས་ཀྱི་བདེ་བ་ཡིན་པས་
 
-<!-- pair: TGD-002489 | source: U02489 | role: main_text | format: prose -->
+[Not yet translated: U02488.]
+
+<!-- TGD-002489 -->
+
 རྩ་ལྟུང་ལྔ་པས་མི་གོས་པར་འཇུག་དགོས་ཟེར་རོ། །
 
-<!-- pair: TGD-002490 | source: U02490 | role: main_text | format: prose -->
+[Not yet translated: U02489.]
+
+<!-- TGD-002490 -->
+
 འདིར་ནི་དུས་སམ་སྐབས་དེ་བཞིར་རྩ་བའི་དམ་ཚིག་གནང་བའི་སྐབས་མེད་དེ།
 
-<!-- pair: TGD-002491 | source: U02491 | role: main_text | format: prose -->
+[Not yet translated: U02490.]
+
+<!-- TGD-002491 -->
+
 དེའི་རྒྱུ་མཚན་བྲམ་ཟེ་ཆེན་པོས།
 
-<!-- pair: TGD-002492 | source: U02492 | role: main_text | format: prose -->
+[Not yet translated: U02491.]
+
+<!-- TGD-002492 -->
+
 ཁ་སང་ཕན་ཆད་དགེ་སློང་མིན། །
 
-<!-- pair: TGD-002493 | source: U02493 | role: main_text | format: prose -->
+[Not yet translated: U02492.]
+
+<!-- TGD-002493 -->
+
 དེ་རིང་ཚུན་ཆད་དགེ་སློང་ཡིན། །
 
-<!-- pair: TGD-002494 | source: U02494 | role: main_text | format: prose -->
+[Not yet translated: U02493.]
+
+<!-- TGD-002494 -->
+
 ཅེས་པ་ལྟར་
 
-<!-- pair: TGD-002495 | source: U02495 | role: main_text | format: prose -->
+[Not yet translated: U02494.]
+
+<!-- TGD-002495 -->
+
 ལྷན་སྐྱེས་ཡེ་ཤེས་བདེ་སྡུག་རོ་མཉམ་གྱི་རྟོགས་པ་ཞིག་རྒྱུད་ལ་སྐྱེས་ན་ནི་
 
-<!-- pair: TGD-002496 | source: U02496 | role: main_text | format: prose -->
+[Not yet translated: U02495.]
+
+<!-- TGD-002496 -->
+
 དཔེ་དོན་གྱི་ཡེ་ཤེས་ཡིན་པ་ལྟ་ཅི་སྨོས་ཀྱང་
 
-<!-- pair: TGD-002497 | source: U02497 | role: main_text | format: prose -->
+[Not yet translated: U02496.]
+
+<!-- TGD-002497 -->
+
 སྙིགས་མའི་དབང་གིས་ཕལ་ཆེར་ལམ་དང་སློབ་དཔོན་གོང་མའི་མཛད་པར་བསྙད་བཏགས་ནས་
 
-<!-- pair: TGD-002498 | source: U02498 | role: main_text | format: prose -->
+[Not yet translated: U02497.]
+
+<!-- TGD-002498 -->
+
 རང་ཉིད་ཟག་བཅས་གཉིས་སྦྱོར་གྱི་བདེ་བའི་རེག་བྱ་ཉོན་མོངས་པ་ཁོ་ནར་སྤྱོད་པ་དང༌།
 
-<!-- pair: TGD-002499 | source: U02499 | role: main_text | format: prose -->
+[Not yet translated: U02498.]
+
+<!-- TGD-002499 -->
+
 དེ་ལས་དྲག་ཏུ་རེ་བས་བདེ་བ་ལྷན་སྐྱེས་སུཤར་ཡང་
 
-<!-- pair: TGD-002500 | source: U02500 | role: main_text | format: prose -->
+[Not yet translated: U02499.]
+
+<!-- TGD-002500 -->
+
 ཚོར་བ་ཐམས་ཅད་ལྷན་སྐྱེས་སུ་མ་ཤར་ན་
 
-<!-- pair: TGD-002501 | source: U02501 | role: main_text | format: prose -->
+[Not yet translated: U02500.]
+
+<!-- TGD-002501 -->
+
 སྡུག་བསྔལ་ལྷན་སྐྱེས་སུ་འཆར།
 
-<!-- pair: TGD-002502 | source: U02502 | role: main_text | format: prose -->
+[Not yet translated: U02501.]
+
+<!-- TGD-002502 -->
+
 དེ་མ་ཤར་ན་
 
-<!-- pair: TGD-002503 | source: U02503 | role: main_text | format: prose -->
+[Not yet translated: U02502.]
+
+<!-- TGD-002503 -->
+
 རྟོགས་ཚོགས་ཐམས་ཅད་ཆོས་ཉིད་དུ་མི་རྟོགས་པས་
 
-<!-- pair: TGD-002504 | source: U02504 | role: main_text | format: prose -->
+[Not yet translated: U02503.]
+
+<!-- TGD-002504 -->
+
 དབང་གསུམ་པའི་དགོས་པ་སྟོང་ཞིང་
 
-<!-- pair: TGD-002505 | source: U02505 | role: main_text | format: prose -->
+[Not yet translated: U02504.]
+
+<!-- TGD-002505 -->
+
 མདོ་སྔགས་ཀྱི་རྩ་ལྟུང་བསྒྲུབ་པར་འགྱུར་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002506 | source: U02506 | role: main_text | format: prose -->
+[Not yet translated: U02505.]
+
+<!-- TGD-002506 -->
+
 དེ་ལྟར་ཡང་ཀྱེེ་རྡོར་ལས།
 
-<!-- pair: TGD-002507 | source: U02507 | role: main_text | format: prose -->
+[Not yet translated: U02506.]
+
+<!-- TGD-002507 -->
+
 ཁུ་བ་མེད་ན་བདེ་མི་འགྱུར། །
 
-<!-- pair: TGD-002508 | source: U02508 | role: main_text | format: prose -->
+[Not yet translated: U02507.]
+
+<!-- TGD-002508 -->
+
 བདེ་བ་མེད་ན་དེ་མེད་འགྱུར། །
 
-<!-- pair: TGD-002509 | source: U02509 | role: main_text | format: prose -->
+[Not yet translated: U02508.]
+
+<!-- TGD-002509 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-002510 | source: U02510 | role: main_text | format: prose -->
+[Not yet translated: U02509.]
+
+<!-- TGD-002510 -->
+
 རྗེ་བོས།
 
-<!-- pair: TGD-002511 | source: U02511 | role: main_text | format: prose -->
+[Not yet translated: U02510.]
+
+<!-- TGD-002511 -->
+
 དང་པོའི་སངས་རྒྱས་བྱུང་ཆེན་ལས༑ །
 
-<!-- pair: TGD-002512 | source: U02512 | role: main_text | format: prose -->
+[Not yet translated: U02511.]
+
+<!-- TGD-002512 -->
+
 རབ་ཏུ་འབད་དེ་བཀག་པའི་ཕྱིར། །
 
-<!-- pair: TGD-002513 | source: U02513 | role: main_text | format: prose -->
+[Not yet translated: U02512.]
+
+<!-- TGD-002513 -->
+
 གསང་བ་ཤེས་རབ་དབང་བསྐུར་ནི། །
 
-<!-- pair: TGD-002514 | source: U02514 | role: main_text | format: prose -->
+[Not yet translated: U02513.]
+
+<!-- TGD-002514 -->
+
 ཚངས་པར་སྤྱོད་པས་བླང་མི་བྱ།
 
-<!-- pair: TGD-002515 | source: U02515 | role: main_text | format: prose -->
+[Not yet translated: U02514.]
+
+<!-- TGD-002515 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-002516 | source: U02516 | role: main_text | format: prose -->
+[Not yet translated: U02515.]
+
+<!-- TGD-002516 -->
+
 རང་ལུགས་ལ་སྡོམ་གསུམ་གནད་གཅིག་དང་༑
 
-<!-- pair: TGD-002517 | source: U02517 | role: main_text | format: prose -->
+[Not yet translated: U02516.]
+
+<!-- TGD-002517 -->
+
 བཀག་པ་ཡེ་བཀག་ཡིན་པས་ཀྱང༌།
 
-<!-- pair: TGD-002518 | source: U02518 | role: main_text | format: prose -->
+[Not yet translated: U02517.]
+
+<!-- TGD-002518 -->
+
 དང་པོ་ནས་བླང་བར་མི་བྱའོ།
 
-<!-- pair: TGD-002519 | source: U02519 | role: main_text | format: prose -->
+[Not yet translated: U02518.]
+
+<!-- TGD-002519 -->
+
 རྡོ༽༽ སྨིན་པ་སྒྲོལ་ལམ་བསྐྱེད་རྫོགས་གཉིས་ལས་དང་པོ་མཚན་ཉིད་གསུམ་སྟེ།
 
-<!-- pair: TGD-002520 | source: U02520 | role: main_text | format: prose -->
+[Not yet translated: U02519.]
+
+<!-- TGD-002520 -->
+
 ཆོས་རྣམས་ཀྱི་ཆོས་ཉིད་ནི་
 
-<!-- pair: TGD-002521 | source: U02521 | role: main_text | format: prose -->
+[Not yet translated: U02520.]
+
+<!-- TGD-002521 -->
+
 ཡོངས་གྲུབ་ཏུ་རྐྱེན་ཚོགས་པ་ལ་རག་ལས་པ་ནི་
 
-<!-- pair: TGD-002522 | source: U02522 | role: main_text | format: prose -->
+[Not yet translated: U02521.]
+
+<!-- TGD-002522 -->
+
 གཞན་དབང་མ་ཡིན་པར་ཡིན་པར་བརྟགས་པ་མཚན་ཉིད་འཆད་པ་དང་།
 
-<!-- pair: TGD-002523 | source: U02523 | role: main_text | format: prose -->
+[Not yet translated: U02522.]
+
+<!-- TGD-002523 -->
+
 དོན་སྤྱིའི་རྣམ་པ་བསྒོམས་པ་རྣམས་ཀྱི་རྒྱུན་བརྟགས་གཉིས་ལས་སྔ་མ་དེ་ཡིན།
 
-<!-- pair: TGD-002524 | source: U02524 | role: main_text | format: prose -->
+[Not yet translated: U02523.]
+
+<!-- TGD-002524 -->
+
 སྒོམ་བྱེད་ཤེས་པ་གཞན་དབང་དང༌།
 
-<!-- pair: TGD-002525 | source: U02525 | role: main_text | format: prose -->
+[Not yet translated: U02524.]
+
+<!-- TGD-002525 -->
+
 གཤིས་ལ་མེད་པས་མ་ཡིན་པར་ཡིན་པར་བཅོས་པའི་ཀུན་བཏགས་ཏེ་
 
-<!-- pair: TGD-002526 | source: U02526 | role: main_text | format: prose -->
+[Not yet translated: U02525.]
+
+<!-- TGD-002526 -->
+
 ཀླུའི་བྱང་ཆུབ་ཀྱིས་ཤིང་སྒོམ་པ་སྐྱེས་པ་བཞིན་ནོ་ཟེར།
 
-<!-- pair: TGD-002527 | source: U02527 | role: main_text | format: prose -->
+[Not yet translated: U02526.]
+
+<!-- TGD-002527 -->
+
 འདིར་ནི་བསྐྱེད་པའི་རིམ་པའི་ལྷ་རྣམས་
 
-<!-- pair: TGD-002528 | source: U02528 | role: main_text | format: prose -->
+[Not yet translated: U02527.]
+
+<!-- TGD-002528 -->
+
 གདོད་མ་ནས་ཡོངས་སུ་གྲུབ་པ་ཡིན་ཏེ་
 
-<!-- pair: TGD-002529 | source: U02529 | role: main_text | format: prose -->
+[Not yet translated: U02528.]
+
+<!-- TGD-002529 -->
+
 བརྩོན་པས་བསྒྲུབ་ན་འགྲུབ་པའི་ཕྱིར།
 
-<!-- pair: TGD-002530 | source: U02530 | role: main_text | format: prose -->
+[Not yet translated: U02529.]
+
+<!-- TGD-002530 -->
+
 དཔེར་ན་གསེར་རྡོ་བཞུས་ན་གསེར་འབྱུང་བ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002531 | source: U02531 | role: main_text | format: prose -->
+[Not yet translated: U02530.]
+
+<!-- TGD-002531 -->
+
 གཞན་དུ་ན་མི་འགྲུབ་སྟེ།
 
-<!-- pair: TGD-002532 | source: U02532 | role: main_text | format: prose -->
+[Not yet translated: U02531.]
+
+<!-- TGD-002532 -->
+
 རྡོ་ཕལ་པ་བཞུས་ན་གསེར་མི་འབྱུང་བ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002533 | source: U02533 | role: main_text | format: prose -->
+[Not yet translated: U02532.]
+
+<!-- TGD-002533 -->
+
 གལ་ཏེ་མ་ཡིན་པར་ཡིན་པར་བཏགས་པས་འགྲུབ་ན།
 
-<!-- pair: TGD-002534 | source: U02534 | role: main_text | format: prose -->
+[Not yet translated: U02533.]
+
+<!-- TGD-002534 -->
+
 ཕྱི་རོལ་པས་ཀྱང་གནས་ལུགས་རྟོགས་པར་ཐལ།
 
-<!-- pair: TGD-002535 | source: U02535 | role: main_text | format: prose -->
+[Not yet translated: U02534.]
+
+<!-- TGD-002535 -->
+
 གནས་ལུགས་མ་ཡིན་པར་ཡིན་པར་རློམ་པའི་ཕྱིར། །
 
-<!-- pair: TGD-002536 | source: U02536 | role: main_text | format: prose -->
+[Not yet translated: U02535.]
+
+<!-- TGD-002536 -->
+
 དེ་བས་ན་གདོད་མ་ནས་ཕུང་ཁམས་སྐྱེ་མཆེད་ཐམསཅད་དཀྱིལ་འཁོར་གྱི་འཁོར་ལོར་གནས་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-002537 | source: U02537 | role: main_text | format: prose -->
+[Not yet translated: U02536.]
+
+<!-- TGD-002537 -->
+
 ཀྱེ་རྡོར་ལས།
 
-<!-- pair: TGD-002538 | source: U02538 | role: main_text | format: prose -->
+[Not yet translated: U02537.]
+
+<!-- TGD-002538 -->
+
 འདི་དག་དབང་གིས་སེམས་ཅན་རྣམས། །
 
-<!-- pair: TGD-002539 | source: U02539 | role: main_text | format: prose -->
+[Not yet translated: U02538.]
+
+<!-- TGD-002539 -->
+
 སངས་རྒྱས་ཉིད་དུ་ཐེ་ཚོམ་མེད། །
 
-<!-- pair: TGD-002540 | source: U02540 | role: main_text | format: prose -->
+[Not yet translated: U02539.]
+
+<!-- TGD-002540 -->
+
 ཟླ་བ་བཅུ་ཡང་ས་རྣམས་སྲིང་། །
 
-<!-- pair: TGD-002541 | source: U02541 | role: main_text | format: prose -->
+[Not yet translated: U02540.]
+
+<!-- TGD-002541 -->
+
 སེམས་ཅན་ས་བཅུའི་དབང་ཕྱུག་གི ༑
 
-<!-- pair: TGD-002542 | source: U02542 | role: main_text | format: prose -->
+[Not yet translated: U02541.]
+
+<!-- TGD-002542 -->
+
 གསང་འདུས་ལས།
 
-<!-- pair: TGD-002543 | source: U02543 | role: main_text | format: prose -->
+[Not yet translated: U02542.]
+
+<!-- TGD-002543 -->
+
 མདོར་ན་ཕུང་པོ་ལྔ་རྣམས་ནི།
 
-<!-- pair: TGD-002544 | source: U02544 | role: main_text | format: prose -->
+[Not yet translated: U02543.]
+
+<!-- TGD-002544 -->
+
 སངས་རྒྱས་ལྔར་ནི་རྣམ་པར་གྲགས། །
 
-<!-- pair: TGD-002545 | source: U02545 | role: main_text | format: prose -->
+[Not yet translated: U02544.]
+
+<!-- TGD-002545 -->
+
 ཞེས་དང་ཀུན་སྤྱོད་ལས། །
 
-<!-- pair: TGD-002546 | source: U02546 | role: main_text | format: prose -->
+[Not yet translated: U02545.]
+
+<!-- TGD-002546 -->
+
 འགྲོ་བ་འདི་དག་སངས་རྒྱས་ལྔའི་བདག་ཉིད།
 
-<!-- pair: TGD-002547 | source: U02547 | role: main_text | format: prose -->
+[Not yet translated: U02546.]
+
+<!-- TGD-002547 -->
+
 ཅེས་དང༌།
 
-<!-- pair: TGD-002548 | source: U02548 | role: main_text | format: prose -->
+[Not yet translated: U02547.]
+
+<!-- TGD-002548 -->
+
 གསང་བ་རྒྱ་མཚོ་ལས།
 
-<!-- pair: TGD-002549 | source: U02549 | role: main_text | format: prose -->
+[Not yet translated: U02548.]
+
+<!-- TGD-002549 -->
+
 ཤེས་བྱའི་དཀྱིལ་འཁོར་མ་ལུས་འདི་དག་ཐམས་ཅད་ནི།
 
-<!-- pair: TGD-002550 | source: U02550 | role: main_text | format: prose -->
+[Not yet translated: U02549.]
+
+<!-- TGD-002550 -->
+
 སྐུ་གསུམ་ཡོངས་སུ་གྲུབ་པ་གསང་སྔགས་ཐེག་པ་སྟེ།
 
-<!-- pair: TGD-002551 | source: U02551 | role: main_text | format: prose -->
+[Not yet translated: U02550.]
+
+<!-- TGD-002551 -->
+
 སྐུ་གསུམ་ཞིང་ལ་འཇུག་པ་ལམ་གྱི་ཐེག་པ་ཡིན།
 
-<!-- pair: TGD-002552 | source: U02552 | role: main_text | format: prose -->
+[Not yet translated: U02551.]
+
+<!-- TGD-002552 -->
+
 སྐུ་གསུམ་འདུ་འཕྲལ་མེད་པ་རྡོ་རྗེའི་ཐེག་པའོ། །
 
-<!-- pair: TGD-002553 | source: U02553 | role: main_text | format: prose -->
+[Not yet translated: U02552.]
+
+<!-- TGD-002553 -->
+
 ཞེས་སོ། །
 
-<!-- pair: TGD-002554 | source: U02554 | role: main_text | format: prose -->
+[Not yet translated: U02553.]
+
+<!-- TGD-002554 -->
+
 ལྷན༽༽ དང་པོ་ནས་
 
-<!-- pair: TGD-002555 | source: U02555 | role: main_text | format: prose -->
+[Not yet translated: U02554.]
+
+<!-- TGD-002555 -->
+
 ལྷ་ལ་འཇུག་མི་ནུས་
 
-<!-- pair: TGD-002556 | source: U02556 | role: main_text | format: prose -->
+[Not yet translated: U02555.]
+
+<!-- TGD-002556 -->
+
 སྦྱང་སྤེལ་སྒྱུ་མར་བསླབ་པ་སོགས་ཀྱིས་སྒོམ་དགོས།
 
-<!-- pair: TGD-002557 | source: U02557 | role: main_text | format: prose -->
+[Not yet translated: U02556.]
+
+<!-- TGD-002557 -->
+
 དེའང་དང་པོ་
 
-<!-- pair: TGD-002558 | source: U02558 | role: main_text | format: prose -->
+[Not yet translated: U02557.]
+
+<!-- TGD-002558 -->
+
 སྣོད་གཞལ་ཡས་བཅུད་ལྷ་དང་ལྷ་མོར་མོས་པས་སྦྱོང༌།
 
-<!-- pair: TGD-002559 | source: U02559 | role: main_text | format: prose -->
+[Not yet translated: U02558.]
+
+<!-- TGD-002559 -->
+
 བར་དུ་དེ་གཉིས་སྤེལ་མར་བསླབ།
 
-<!-- pair: TGD-002560 | source: U02560 | role: main_text | format: prose -->
+[Not yet translated: U02559.]
+
+<!-- TGD-002560 -->
+
 མཐར་སྒྱུ་མ་ཙམ་ལ་བསླབས་ཏེ་
 
-<!-- pair: TGD-002561 | source: U02561 | role: main_text | format: prose -->
+[Not yet translated: U02560.]
+
+<!-- TGD-002561 -->
+
 གཟོད་རང་ལུས་ལྷར་བསྒོམས་པས་གསལ་བར་འོང་ཟེར༑
 
-<!-- pair: TGD-002562 | source: U02562 | role: main_text | format: prose -->
+[Not yet translated: U02561.]
+
+<!-- TGD-002562 -->
+
 འདིར་ནི་བསྐྱེད་རིམ་ཡོངས་གྲུབ་ཡིན་པའི་ཕྱིར་
 
-<!-- pair: TGD-002563 | source: U02563 | role: main_text | format: prose -->
+[Not yet translated: U02562.]
+
+<!-- TGD-002563 -->
+
 རང་ལུས་ལྷ་དང་དབྱེར་མེད་པ་ལ་ཅིག་ཆར་དུ་འཇུག་པ་ནི་
 
-<!-- pair: TGD-002564 | source: U02564 | role: main_text | format: prose -->
+[Not yet translated: U02563.]
+
+<!-- TGD-002564 -->
+
 ཟབ་མོའི་གནད་ཡིན་ཏེ།
 
-<!-- pair: TGD-002565 | source: U02565 | role: main_text | format: prose -->
+[Not yet translated: U02564.]
+
+<!-- TGD-002565 -->
+
 ལུས་ངག་ཡིད་གསུམ་ཐ་མལ་དུ་སྐད་ཅིག་ཙམ་ཡང་མི་འཆོར་བ་
 
-<!-- pair: TGD-002566 | source: U02566 | role: main_text | format: prose -->
+[Not yet translated: U02565.]
+
+<!-- TGD-002566 -->
+
 རིག་པ་འཛིན་པའི་སྡོམ་པ་ཡིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-002567 | source: U02567 | role: main_text | format: prose -->
+[Not yet translated: U02566.]
+
+<!-- TGD-002567 -->
+
 ལྷན༽༽ ལྷ་འགྲུབ་པར་བྱེད་པ་ལ་
 
-<!-- pair: TGD-002568 | source: U02568 | role: main_text | format: prose -->
+[Not yet translated: U02567.]
+
+<!-- TGD-002568 -->
+
 སཾ་བྷུ་ཊི་ལས།
 
-<!-- pair: TGD-002569 | source: U02569 | role: main_text | format: prose -->
+[Not yet translated: U02568.]
+
+<!-- TGD-002569 -->
+
 འཁོར་ལོའི་བདག་པོ་འབུམ་བཟླས་ཤིང་།
 
-<!-- pair: TGD-002570 | source: U02570 | role: main_text | format: prose -->
+[Not yet translated: U02569.]
+
+<!-- TGD-002570 -->
+
 དཀྱིལ་འཁོར་ཅན་གྱིས་དེ་བཞིན་ཁྲི།
 
-<!-- pair: TGD-002571 | source: U02571 | role: main_text | format: prose -->
+[Not yet translated: U02570.]
+
+<!-- TGD-002571 -->
+
 ཞེས་པ་ལྟར་བསྙེན་པ་གཙོ་ཆེ་ཟེར།
 
-<!-- pair: TGD-002572 | source: U02572 | role: main_text | format: prose -->
+[Not yet translated: U02571.]
+
+<!-- TGD-002572 -->
+
 འདིར་ནི་དེའང་བསྐྱེད་རིམ་ཡོངས་གྲུབ་གཞིར་བཅས་ཏེ་
 
-<!-- pair: TGD-002573 | source: U02573 | role: main_text | format: prose -->
+[Not yet translated: U02572.]
+
+<!-- TGD-002573 -->
+
 རྟེན་འབྲེལ་གྱི་ཚོགས་པ་ཚང་བ་ལས་འགྲུབ་པ་ངེས་པར་ཤེས་པར་བྱེད་དགོས་ཏེ།
 
-<!-- pair: TGD-002574 | source: U02574 | role: main_text | format: prose -->
+[Not yet translated: U02573.]
+
+<!-- TGD-002574 -->
+
 དེའང་ནང་རྟེན་འབྲེལ་གཞི་སྟོང་ཉིད།
 
-<!-- pair: TGD-002575 | source: U02575 | role: main_text | format: prose -->
+[Not yet translated: U02574.]
+
+<!-- TGD-002575 -->
+
 གདན་ཟླ་བ། གསུང་ཡིག་འབྲུ། ཐུགས་ཕྱག་མཚན།
 
-<!-- pair: TGD-002576 | source: U02576 | role: main_text | format: prose -->
+[Not yet translated: U02575.]
+
+<!-- TGD-002576 -->
+
 སྐུ་ཡོངས་རྫོགས་ཏེ་མངོན་བྱང་ལྔ།
 
-<!-- pair: TGD-002577 | source: U02577 | role: main_text | format: prose -->
+[Not yet translated: U02576.]
+
+<!-- TGD-002577 -->
+
 ཕུང་ལྔ་རང་ཆས་སུ་ཡོད་པ་རྒྱུ།
 
-<!-- pair: TGD-002578 | source: U02578 | role: main_text | format: prose -->
+[Not yet translated: U02577.]
+
+<!-- TGD-002578 -->
+
 རྐྱེན་བླ་མས་བུམ་དབང་གིས་ངོ་སྤྲད་པའི་རྟེན་འབྲེལ་ཚོགས་པའི་དབང་གིས་ཡོངས་སུ་གྲུབ་པར་ཤེས་པ་
 
-<!-- pair: TGD-002579 | source: U02579 | role: main_text | format: prose -->
+[Not yet translated: U02578.]
+
+<!-- TGD-002579 -->
+
 ཕྱི་ནང་གི་རྟེན་འབྲེལ་ཡིན་ནོ། །
 
-<!-- pair: TGD-002580 | source: U02580 | role: main_text | format: prose -->
+[Not yet translated: U02579.]
+
+<!-- TGD-002580 -->
+
 བསྙེན་པའི་གྲངས་དེའང་འདིའི་ཕྱོགས་ཙམ་མོ།
 
-<!-- pair: TGD-002581 | source: U02581 | role: main_text | format: prose -->
+[Not yet translated: U02580.]
+
+<!-- TGD-002581 -->
+
 ལྷན༽༽ དཀའ་བ་མ་སྤྱད་ན་སངས་མི་རྒྱ་
 
-<!-- pair: TGD-002582 | source: U02582 | role: main_text | format: prose -->
+[Not yet translated: U02581.]
+
+<!-- TGD-002582 -->
+
 དཀའ་ཐུབ་ཆུ་འཐུང་རྡོ་ལྟར་དགོས།
 
-<!-- pair: TGD-002583 | source: U02583 | role: main_text | format: prose -->
+[Not yet translated: U02582.]
+
+<!-- TGD-002583 -->
+
 འདོད་ཡོན་བརྟེན་ན་ལུས་དྲེགས་ནས་ཉོན་མོངས་སྐྱེ་བས་
 
-<!-- pair: TGD-002584 | source: U02584 | role: main_text | format: prose -->
+[Not yet translated: U02583.]
+
+<!-- TGD-002584 -->
+
 ལུས་རྒུད་ན་མི་ཡོང།
 
-<!-- pair: TGD-002585 | source: U02585 | role: main_text | format: prose -->
+[Not yet translated: U02584.]
+
+<!-- TGD-002585 -->
+
 ཡང་ཉོན་མོངས་སྐྱེས་དུས་རང་གིས་རང་དམའ་འབབ་སུན་འབྱིན་དགོས་ཟེར་རོ། །
 
-<!-- pair: TGD-002586 | source: U02586 | role: main_text | format: prose -->
+[Not yet translated: U02585.]
+
+<!-- TGD-002586 -->
+
 འདིར་ནི་ཐ་མལ་པའི་ལུས་སུ་བཏགས་པའི་ཕྱིར་
 
-<!-- pair: TGD-002587 | source: U02587 | role: main_text | format: prose -->
+[Not yet translated: U02586.]
+
+<!-- TGD-002587 -->
+
 དཀའ་ཐུབ་སྤྱོད་པ་ནི་དེ་ལྟར་སྨད་པ་ཡིན་ཏེ་
 
-<!-- pair: TGD-002588 | source: U02588 | role: main_text | format: prose -->
+[Not yet translated: U02587.]
+
+<!-- TGD-002588 -->
+
 བསྐྱེད་པའི་རིམ་པ་ཡོངས་གྲུབ་ཡིན་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-002589 | source: U02589 | role: main_text | format: prose -->
+[Not yet translated: U02588.]
+
+<!-- TGD-002589 -->
+
 ནང་པ་སངས་རྒྱས་པ་ནང་སེམས་འདུལ་བ་གཙོ་ཆེ་བའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-002590 | source: U02590 | role: main_text | format: prose -->
+[Not yet translated: U02589.]
+
+<!-- TGD-002590 -->
+
 རྩ་ལྟུང་གཏོང་བའི་ཕྱིར།
 
-<!-- pair: TGD-002591 | source: U02591 | role: main_text | format: prose -->
+[Not yet translated: U02590.]
+
+<!-- TGD-002591 -->
+
 རང་གི་སེམས་ནི་ཡོངས་སུ་འདུལ།
 
-<!-- pair: TGD-002592 | source: U02592 | role: main_text | format: prose -->
+[Not yet translated: U02591.]
+
+<!-- TGD-002592 -->
+
 ཅེས་དང་།
 
-<!-- pair: TGD-002593 | source: U02593 | role: main_text | format: prose -->
+[Not yet translated: U02592.]
+
+<!-- TGD-002593 -->
+
 ཞི་ལྷས།
 
-<!-- pair: TGD-002594 | source: U02594 | role: main_text | format: prose -->
+[Not yet translated: U02593.]
+
+<!-- TGD-002594 -->
+
 སེམས་བསྲུང་བརྟུལ་ཞུགས་མ་གཏོགས་པའི། །
 
-<!-- pair: TGD-002595 | source: U02595 | role: main_text | format: prose -->
+[Not yet translated: U02594.]
+
+<!-- TGD-002595 -->
+
 བརྟུལ་ཞུགས་མང་པོས་ཅི་ཞིག་བྱ།
 
-<!-- pair: TGD-002596 | source: U02596 | role: main_text | format: prose -->
+[Not yet translated: U02595.]
+
+<!-- TGD-002596 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-002597 | source: U02597 | role: main_text | format: prose -->
+[Not yet translated: U02596.]
+
+<!-- TGD-002597 -->
+
 ཕུང་པོ་སངས་རྒྱས་ལྔའི་བདག་ཉིད།
 
-<!-- pair: TGD-002598 | source: U02598 | role: main_text | format: prose -->
+[Not yet translated: U02597.]
+
+<!-- TGD-002598 -->
+
 ཅེས་སོ། །
 
-<!-- pair: TGD-002599 | source: U02599 | role: main_text | format: prose -->
+[Not yet translated: U02598.]
+
+<!-- TGD-002599 -->
+
 དེས་ན་སེམས་བརྟུལ་ན་ ལུས་ངག་ཀྱང་འདུལ་བར་འགྱུར་རོ།
 
-<!-- pair: TGD-002600 | source: U02600 | role: main_text | format: prose -->
+[Not yet translated: U02599.]
+
+<!-- TGD-002600 -->
+
 རྡོ༽༽ སྔོན་གྱི་ལས་འཕྲོ་སད་པའི་སྦྱངས་སྟོབས་ཅན་
 
-<!-- pair: TGD-002601 | source: U02601 | role: main_text | format: prose -->
+[Not yet translated: U02600.]
+
+<!-- TGD-002601 -->
+
 ཤེས་གཉེན་དང་གདམས་ངག་ལ་མ་བརྟེན་ཡང་ཏིང་འཛིན་སྐྱེ་བ་ཡོད་པས་
 
-<!-- pair: TGD-002602 | source: U02602 | role: main_text | format: prose -->
+[Not yet translated: U02601.]
+
+<!-- TGD-002602 -->
+
 འཇུག་ཆོག་མི་དགོས་ཟེར་བ་ནི་ཁ་ཅིག་གོ །
 
-<!-- pair: TGD-002603 | source: U02603 | role: main_text | format: prose -->
+[Not yet translated: U02602.]
+
+<!-- TGD-002603 -->
+
 འདིར་ནི་དེ་ལྟར་རང་བྱུང་གི་ཏིང་འཛིན་སྐྱེ་བ་
 
-<!-- pair: TGD-002604 | source: U02604 | role: main_text | format: prose -->
+[Not yet translated: U02603.]
+
+<!-- TGD-002604 -->
+
 དེ་རྣམས་ལའང་སྐྱབས་འགྲོ་ནས་དབང་གི་བར་གྱི་འཇུག་པའི་ཆོ་ག་ཇི་ལྟར་བཤད་པ་བཞིན་དགོས་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-002605 | source: U02605 | role: main_text | format: prose -->
+[Not yet translated: U02604.]
+
+<!-- TGD-002605 -->
+
 ཡིན་མིན་གྱི་སྒྲོ་འདོག་ཆོད་དེ་
 
-<!-- pair: TGD-002606 | source: U02606 | role: main_text | format: prose -->
+[Not yet translated: U02605.]
+
+<!-- TGD-002606 -->
+
 སྤྲོ་ན་ལྷག་ཡར་ཡང་རྒྱས་པར་འགྱུར་བའི་ཕྱིར།
 
-<!-- pair: TGD-002607 | source: U02607 | role: main_text | format: prose -->
+[Not yet translated: U02606.]
+
+<!-- TGD-002607 -->
+
 མེ་འབར་བ་ལ་ཤིང་བསྣན་པ་བཞིན་ནོ༑
 
-<!-- pair: TGD-002608 | source: U02608 | role: main_text | format: prose -->
+[Not yet translated: U02607.]
+
+<!-- TGD-002608 -->
+
 ༑དེ་ལྟར་ན་ནང་པའི་ཕྱག་རྒྱས་ཐེབས་པའི་སླད་དུ་
 
-<!-- pair: TGD-002609 | source: U02609 | role: main_text | format: prose -->
+[Not yet translated: U02608.]
+
+<!-- TGD-002609 -->
+
 སྐྱབས་འགྲོ་འཁོར་བ་ལ་ངེས་པར་འབྱུང་བའི་སོ་ཐར།
 
-<!-- pair: TGD-002610 | source: U02610 | role: main_text | format: prose -->
+[Not yet translated: U02609.]
+
+<!-- TGD-002610 -->
+
 ཉན་རང་དུ་མི་གོལ་བ་སེམས་བསྐྱེད།
 
-<!-- pair: TGD-002611 | source: U02611 | role: main_text | format: prose -->
+[Not yet translated: U02610.]
+
+<!-- TGD-002611 -->
+
 སྒོ་གསུམ་ཐ་མལ་དུ་ཞིག་པར་ལྡོག་པ་སྔགས་ཀྱི་དབང་བསྐུར་ནས་
 
-<!-- pair: TGD-002612 | source: U02612 | role: main_text | format: prose -->
+[Not yet translated: U02611.]
+
+<!-- TGD-002612 -->
+
 བསྐྱེད་རྫོགས་ཀྱི་ཏིང་འཛིན་དང་དབྱེར་མེད་བདེ་ཆེན་གྱི་དོན་ངོ་སྤྲད་པས་
 
-<!-- pair: TGD-002613 | source: U02613 | role: main_text | format: prose -->
+[Not yet translated: U02612.]
+
+<!-- TGD-002613 -->
+
 མཆོག་ཐུན་གྱི་དངོས་གྲུབ་ཐོབ་པར་འགྱུར་རོ། །
 
-<!-- pair: TGD-002614 | source: U02614 | role: main_text | format: prose -->
+[Not yet translated: U02613.]
+
+<!-- TGD-002614 -->
+
 དེས་ན་མི་ལུས་ཐོབ་པ་སྔོན་ཚུལ་ཁྲིམས་བསྲུང་བས་ཡིན་ཀྱང་
 
-<!-- pair: TGD-002615 | source: U02615 | role: main_text | format: prose -->
+[Not yet translated: U02614.]
+
+<!-- TGD-002615 -->
+
 རྟེན་དེར་དགེ་བའི་འཕྲོ་མཐུད་ནས་མ་སྒྲུབ་ན་
 
-<!-- pair: TGD-002616 | source: U02616 | role: main_text | format: prose -->
+[Not yet translated: U02615.]
+
+<!-- TGD-002616 -->
+
 ངན་འགྲོར་ལྟུང་བ་བཞིན་ནོ།
 
-<!-- pair: TGD-002617 | source: U02617 | role: main_text | format: prose -->
+[Not yet translated: U02616.]
+
+<!-- TGD-002617 -->
+
 རྡོ༽༽ སྔགས་ཀྱི་ལྷ་ནི་གདུལ་བྱ་དང་མཐུན་པར་འདོད་ཆགས་ཅན་ལ་ཞལ་སྦྱོར།
 
-<!-- pair: TGD-002618 | source: U02618 | role: main_text | format: prose -->
+[Not yet translated: U02617.]
+
+<!-- TGD-002618 -->
+
 ཞེ་སྡང་ཅན་ལ་ཁྲོ་བོ།
 
-<!-- pair: TGD-002619 | source: U02619 | role: main_text | format: prose -->
+[Not yet translated: U02618.]
+
+<!-- TGD-002619 -->
+
 གཏི་མུག་ཅན༌ལ་དུད་འགྲོའི་མགོ་བརྙན་ལྟ་བུ་སོགས་
 
-<!-- pair: TGD-002620 | source: U02620 | role: main_text | format: prose -->
+[Not yet translated: U02619.]
+
+<!-- TGD-002620 -->
+
 མཚན་དཔེ་མེད་པར་ཡང་བྱོན་ཟེར་རོ། །
 
-<!-- pair: TGD-002621 | source: U02621 | role: main_text | format: prose -->
+[Not yet translated: U02620.]
+
+<!-- TGD-002621 -->
+
 འདིར་ནི་ལྷ་རྣམས་ཐམས་ཅད་རང་བཞིན་གྱིས་མཚན་དཔེའི་ཡོན་ཏན་ལྡན་ཞིང་
 
-<!-- pair: TGD-002622 | source: U02622 | role: main_text | format: prose -->
+[Not yet translated: U02621.]
+
+<!-- TGD-002622 -->
+
 དེ་ལྟར་བསྒོམ་ཡང་དགོས་ཏེ་
 
-<!-- pair: TGD-002623 | source: U02623 | role: main_text | format: prose -->
+[Not yet translated: U02622.]
+
+<!-- TGD-002623 -->
+
 སྐྱོན་སྤང་ཡོན་ཏན་རྫོགས་པའི་སངས་རྒྱས་ཡིན་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-002624 | source: U02624 | role: main_text | format: prose -->
+[Not yet translated: U02623.]
+
+<!-- TGD-002624 -->
+
 མཚན་བཟང་དང་ལྡན་པར་བསྒོམ་ན་ཚོགས་རྫོགས་ཤིང༌།
 
-<!-- pair: TGD-002625 | source: U02625 | role: main_text | format: prose -->
+[Not yet translated: U02624.]
+
+<!-- TGD-002625 -->
+
 མི་ལྡན་ན་ཉེས་པ་འབྱུང་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002626 | source: U02626 | role: main_text | format: prose -->
+[Not yet translated: U02625.]
+
+<!-- TGD-002626 -->
+
 དེ་ལྟར་ཡང་དུས་འཁོར་ལས།
 
-<!-- pair: TGD-002627 | source: U02627 | role: main_text | format: prose -->
+[Not yet translated: U02626.]
+
+<!-- TGD-002627 -->
+
 རབ་མཆོག་རྒྱལ་བའི་བདག་པོ་ཡི། །
 
-<!-- pair: TGD-002628 | source: U02628 | role: main_text | format: prose -->
+[Not yet translated: U02627.]
+
+<!-- TGD-002628 -->
+
 མཚན་ནི་སུམ་ཅུ་རྩ་གཉིས་དང༌། །
 
-<!-- pair: TGD-002629 | source: U02629 | role: main_text | format: prose -->
+[Not yet translated: U02628.]
+
+<!-- TGD-002629 -->
+
 དཔེ་བྱད་བཟང་པོ་བརྒྱད་ཅུ་སྟེ། །
 
-<!-- pair: TGD-002630 | source: U02630 | role: main_text | format: prose -->
+[Not yet translated: U02629.]
+
+<!-- TGD-002630 -->
+
 འདི་དག་མ་ལུས་འདུས་པ་སྟེ། །
 
-<!-- pair: TGD-002631 | source: U02631 | role: main_text | format: prose -->
+[Not yet translated: U02630.]
+
+<!-- TGD-002631 -->
+
 ཁྱབ་བདག་མཆོག་གི་གོ་འཕང་ནི།
 
-<!-- pair: TGD-002632 | source: U02632 | role: main_text | format: prose -->
+[Not yet translated: U02631.]
+
+<!-- TGD-002632 -->
+
 སྔགས་པ་རྣམས་ཀྱིས་བསྒོམ་པར་བྱ། །
 
-<!-- pair: TGD-002633 | source: U02633 | role: main_text | format: prose -->
+[Not yet translated: U02632.]
+
+<!-- TGD-002633 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-002634 | source: U02634 | role: main_text | format: prose -->
+[Not yet translated: U02633.]
+
+<!-- TGD-002634 -->
+
 རྡོ་རྗེ་གུར་ལས།
 
-<!-- pair: TGD-002635 | source: U02635 | role: main_text | format: prose -->
+[Not yet translated: U02634.]
+
+<!-- TGD-002635 -->
+
 མཚན་བཟང་པོ་སོ་གཉིས་དང་དཔེ་བྱད་བརྒྱད་ཅུས་བརྒྱན་པའི་སྐུ་དེ་ནི་ང་ཡིན་ནོ།༑ །
 
-<!-- pair: TGD-002636 | source: U02636 | role: main_text | format: prose -->
+[Not yet translated: U02635.]
+
+<!-- TGD-002636 -->
+
 ཞེས་དང༌། ཀྱེེ་རྡོར་ལས།
 
-<!-- pair: TGD-002637 | source: U02637 | role: main_text | format: prose -->
+[Not yet translated: U02636.]
+
+<!-- TGD-002637 -->
+
 བཙུན་མོའི་བྷ་གའི་བདེ་གནས་སུ།
 
-<!-- pair: TGD-002638 | source: U02638 | role: main_text | format: prose -->
+[Not yet translated: U02637.]
+
+<!-- TGD-002638 -->
+
 སྟོན་པ་སུམ་ཅུ་རྩ་གཉིས་མཚན། །
 
-<!-- pair: TGD-002639 | source: U02639 | role: main_text | format: prose -->
+[Not yet translated: U02638.]
+
+<!-- TGD-002639 -->
+
 གཙོ་བོ་དཔེ་བྱད་བརྒྱད་ཅུ་ལྡན། །
 
-<!-- pair: TGD-002640 | source: U02640 | role: main_text | format: prose -->
+[Not yet translated: U02639.]
+
+<!-- TGD-002640 -->
+
 གུ་བ་ཞེས་བྱའི་རྣམ་པར་གནས། །
 
-<!-- pair: TGD-002641 | source: U02641 | role: main_text | format: prose -->
+[Not yet translated: U02640.]
+
+<!-- TGD-002641 -->
+
 ཞེས་སོགས་མཐའ་ཡས་སོ། །
 
-<!-- pair: TGD-002642 | source: U02642 | role: main_text | format: prose -->
+[Not yet translated: U02641.]
+
+<!-- TGD-002642 -->
+
 ཚུལ་དེ་ལྟར་མ་གོ་ན་དུག་གསུམ་གྱིས་ཀུན་ནས་བསླངས་ཏེ་ཞལ་སྦྱོར།
 
-<!-- pair: TGD-002643 | source: U02643 | role: main_text | format: prose -->
+[Not yet translated: U02642.]
+
+<!-- TGD-002643 -->
+
 འཇིགས་རུང་།
 
-<!-- pair: TGD-002644 | source: U02644 | role: main_text | format: prose -->
+[Not yet translated: U02643.]
+
+<!-- TGD-002644 -->
+
 དུད་འགྲོའི་རྣམ་པ་ཅན་སྒོམ་པ་ནི་
 
-<!-- pair: TGD-002645 | source: U02645 | role: main_text | format: prose -->
+[Not yet translated: U02644.]
+
+<!-- TGD-002645 -->
+
 རྒྱལ་བསེན་སྒྲུབ་པ་དང་ཁྱད་མེད་ཅིང་།
 
-<!-- pair: TGD-002646 | source: U02646 | role: main_text | format: prose -->
+[Not yet translated: U02645.]
+
+<!-- TGD-002646 -->
+
 བརྟན་པ་ཐོབ་ཀྱང་ཡོན་ཏན་སྣ་གཅིག་མི་འབྱུང་ངོ༌།
 
-<!-- pair: TGD-002647 | source: U02647 | role: main_text | format: prose -->
+[Not yet translated: U02646.]
+
+<!-- TGD-002647 -->
+
 རྡོ༽༽ ལྷ་རང་ཉིད་ཀྱིས་བསྒོམས་པ་གཞན་ལ་སྟོན་པ་
 
-<!-- pair: TGD-002648 | source: U02648 | role: main_text | format: prose -->
+[Not yet translated: U02647.]
+
+<!-- TGD-002648 -->
+
 བྲིས་སྐུ་འབྲི་བ་གང་ཡང་རུང་སྟེ་འབད་རྩོལ་ལྡན་པར་སྒྲུབ་པས་
 
-<!-- pair: TGD-002649 | source: U02649 | role: main_text | format: prose -->
+[Not yet translated: U02648.]
+
+<!-- TGD-002649 -->
+
 ཞལ་ཇི་ལྟར་མཐོང་བ་དེར་བྱེད་དགོས་ཟེར།
 
-<!-- pair: TGD-002650 | source: U02650 | role: main_text | format: prose -->
+[Not yet translated: U02649.]
+
+<!-- TGD-002650 -->
+
 འདིར་ནི་མདོ་རྒྱུད་དྲི་མ་མེད་པ་ལས་གསུངས་པའི་དབྱིབ་ཚད་སོགས་
 
-<!-- pair: TGD-002651 | source: U02651 | role: main_text | format: prose -->
+[Not yet translated: U02650.]
+
+<!-- TGD-002651 -->
+
 ཇི་ལྟར་བཤད་པའི་ལྷ་དེ་རྣམས་ཁོ་ན་གཙོ་བོར་བྱ་དགོས་ཏེ་
 
-<!-- pair: TGD-002652 | source: U02652 | role: main_text | format: prose -->
+[Not yet translated: U02651.]
+
+<!-- TGD-002652 -->
+
 ཤེས་བྱ་ཐམས་ཅད་མཁྱེན་པས་སྐྱོན་སྤོང་ཡོན་ཏན་སྒྲུབ་པའི་ཐབས་
 
-<!-- pair: TGD-002653 | source: U02653 | role: main_text | format: prose -->
+[Not yet translated: U02652.]
+
+<!-- TGD-002653 -->
+
 སེམས་ཅན་ཀུན་ལ་སྟོན་པའི་ཕྱིར།
 
-<!-- pair: TGD-002654 | source: U02654 | role: main_text | format: prose -->
+[Not yet translated: U02653.]
+
+<!-- TGD-002654 -->
+
 རང་གིས་མཐོང་བའི་ལྷར་སྐྱོན་ཅི་ཡོད་ཅེ་ན་
 
-<!-- pair: TGD-002655 | source: U02655 | role: main_text | format: prose -->
+[Not yet translated: U02654.]
+
+<!-- TGD-002655 -->
+
 རང་རྒྱུད་སྒྲིབ་པས་བསྒྲིབས་ཏེ་
 
-<!-- pair: TGD-002656 | source: U02656 | role: main_text | format: prose -->
+[Not yet translated: U02655.]
+
+<!-- TGD-002656 -->
+
 ཉོན་མོངས་འདུ་བ་བཞིས་མཐོང་སྣང་དུ་མ་འབྱུང་བ་དང་
 
-<!-- pair: TGD-002657 | source: U02657 | role: main_text | format: prose -->
+[Not yet translated: U02656.]
+
+<!-- TGD-002657 -->
+
 མཐོང་བ་དེ་རྒྱལ་བའི་བཀས་མ་བསྒྱུར་ན་
 
-<!-- pair: TGD-002658 | source: U02658 | role: main_text | format: prose -->
+[Not yet translated: U02657.]
+
+<!-- TGD-002658 -->
+
 ལེགས་ཉེས་གར་འགྲོ་མི་ཤེས་ཤིང་
 
-<!-- pair: TGD-002659 | source: U02659 | role: main_text | format: prose -->
+[Not yet translated: U02658.]
+
+<!-- TGD-002659 -->
+
 བཀའ་དང་འགལ་བའི་ལོག་ཤེས་ཡིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-002660 | source: U02660 | role: main_text | format: prose -->
+[Not yet translated: U02659.]
+
+<!-- TGD-002660 -->
+
 རྡོ༽༽ དབང་རབ་འབྲིང་ཐ་གསུམ་ལ་རིམ་བཞིན།
 
-<!-- pair: TGD-002661 | source: U02661 | role: main_text | format: prose -->
+[Not yet translated: U02660.]
+
+<!-- TGD-002661 -->
+
 ཚོམ་བུ་རས་བྲིས་རྡུལ་མཚོན་ལ་བརྟེན་ནས་
 
-<!-- pair: TGD-002662 | source: U02662 | role: main_text | format: prose -->
+[Not yet translated: U02661.]
+
+<!-- TGD-002662 -->
+
 རིམ་བཞིན་བསྐྱེད་རིམ་སྐད་ཅིག་དྲན་རྫོགས།
 
-<!-- pair: TGD-002663 | source: U02663 | role: main_text | format: prose -->
+[Not yet translated: U02662.]
+
+<!-- TGD-002663 -->
+
 ས་བོན་ལ་བརྟེན་པ་འབྱུང་བ་རིམ་བརྩེགས་སྒོམ་པ་དང་།
 
-<!-- pair: TGD-002664 | source: U02664 | role: main_text | format: prose -->
+[Not yet translated: U02663.]
+
+<!-- TGD-002664 -->
+
 ཆོ་ག་མི་དགོས་པ། ཆོ་ག་འབྲིང༌། ཆོ་ག་རྒྱས་པ་སྟེ་།
 
-<!-- pair: TGD-002665 | source: U02665 | role: main_text | format: prose -->
+[Not yet translated: U02664.]
+
+<!-- TGD-002665 -->
+
 རབ་ལ་ཚོམ་བུ་སོགས་དང་པོ་གསུམ་གྱི་ཆོག་ཟེར་རོ། །
 
-<!-- pair: TGD-002666 | source: U02666 | role: main_text | format: prose -->
+[Not yet translated: U02665.]
+
+<!-- TGD-002666 -->
+
 འདིར་ནི་དབང་པོ་རབ་ལ་ཆོ་ག་རྒྱས་པ་ལྷག་པར་ཡང་དགོས་ཏེ་
 
-<!-- pair: TGD-002667 | source: U02667 | role: main_text | format: prose -->
+[Not yet translated: U02666.]
+
+<!-- TGD-002667 -->
+
 སྐྱེ་བ་མེད་པར་རྟོགས་པ་རྒྱུ་འབྲས་ཀྱི་རྟེན་འབྲེལ་ལ་རག་ལས་ཤིང༌།
 
-<!-- pair: TGD-002668 | source: U02668 | role: main_text | format: prose -->
+[Not yet translated: U02667.]
+
+<!-- TGD-002668 -->
+
 དེ་རྟོགས་ན་རྒྱུ་འབྲས་ཉིད་དུ་འཆར་ཏེ་
 
-<!-- pair: TGD-002669 | source: U02669 | role: main_text | format: prose -->
+[Not yet translated: U02668.]
+
+<!-- TGD-002669 -->
+
 ཡོན་ཏན་ཕྲིན་ལས་ཐམས་ཅད་འབྱུང་བར་འགྱུར་བའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-002670 | source: U02670 | role: main_text | format: prose -->
+[Not yet translated: U02669.]
+
+<!-- TGD-002670 -->
+
 དབང་པོ་ཐ་མས་དེ་ལྟར་འཇུག་མི་ཤེས་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002671 | source: U02671 | role: main_text | format: prose -->
+[Not yet translated: U02670.]
+
+<!-- TGD-002671 -->
+
 དེ་ལྟར་ཡང་ཡུམ་ལས།
 
-<!-- pair: TGD-002672 | source: U02672 | role: main_text | format: prose -->
+[Not yet translated: U02671.]
+
+<!-- TGD-002672 -->
+
 ཆོས་ཐམས་ཅད་མཉམ་པ་ཉིད་བས་
 
-<!-- pair: TGD-002673 | source: U02673 | role: main_text | format: prose -->
+[Not yet translated: U02672.]
+
+<!-- TGD-002673 -->
+
 ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཉམ་པ་ཉིད་དོ། །
 
-<!-- pair: TGD-002674 | source: U02674 | role: main_text | format: prose -->
+[Not yet translated: U02673.]
+
+<!-- TGD-002674 -->
+
 ནམ་མཁའ་མུ་མེད་པསx
 
-<!-- pair: TGD-002675 | source: U02675 | role: main_text | format: prose -->
+[Not yet translated: U02674.]
+
+<!-- TGD-002675 -->
+
 རི་རབ་སྣ་ཚོགསx
 
-<!-- pair: TGD-002676 | source: U02676 | role: main_text | format: prose -->
+[Not yet translated: U02675.]
+
+<!-- TGD-002676 -->
+
 ཞེས་གསུངས་པ་འདིས་བསྟན་པ་ཡིན་ནོ། །
 
-<!-- pair: TGD-002677 | source: U02677 | role: main_text | format: prose -->
+[Not yet translated: U02676.]
+
+<!-- TGD-002677 -->
+
 ལྷན༽༽ མཁས་པ་གཞན་དག་ན་རེ།
 
-<!-- pair: TGD-002678 | source: U02678 | role: main_text | format: prose -->
+[Not yet translated: U02677.]
+
+<!-- TGD-002678 -->
+
 བྱ་སྤྱོད་རྣལ་འབྱོར་གསུམ་མི་ཟབ་བླ་མེད་ཟབ་སྟེ་
 
-<!-- pair: TGD-002679 | source: U02679 | role: main_text | format: prose -->
+[Not yet translated: U02678.]
+
+<!-- TGD-002679 -->
+
 དྲང་དོན་དང་ངེས་དོན་ཡིན་པའི་ཕྱིར་ཞེས་ཟེར་རོ། །
 
-<!-- pair: TGD-002680 | source: U02680 | role: main_text | format: prose -->
+[Not yet translated: U02679.]
+
+<!-- TGD-002680 -->
+
 འདིར་ངེས་དོན་ཡིན་པར་མཐུན་ཀྱང་
 
-<!-- pair: TGD-002681 | source: U02681 | role: main_text | format: prose -->
+[Not yet translated: U02680.]
+
+<!-- TGD-002681 -->
+
 དྲང་དོན་གསུམ་པོ་དང་ངེས་དོན་བླ་མེད་པར་གཉིས་ཀ་ལ་ཆོ་ག་རྒྱས་པ་དགོས་ཏེ་
 
-<!-- pair: TGD-002682 | source: U02682 | role: main_text | format: prose -->
+[Not yet translated: U02681.]
+
+<!-- TGD-002682 -->
+
 རྒྱུ་རྐྱེན་ལ་མ་བརྟེན་ན་མི་འགྲུབ་པའི་ཕྱིར།
 
-<!-- pair: TGD-002683 | source: U02683 | role: main_text | format: prose -->
+[Not yet translated: U02682.]
+
+<!-- TGD-002683 -->
+
 དཔེར་ན་ཆུ་ལུད་དྲོད་གཤེར་དང་བྲལ་བའི་ས་བོན་བཞིན་ནོ། །
 
-<!-- pair: TGD-002684 | source: U02684 | role: main_text | format: prose -->
+[Not yet translated: U02683.]
+
+<!-- TGD-002684 -->
+
 དེས་ན་རང་ལུས་རྡོ་རྗེ་གསུམ་གདོད་ནས་ཡིན་པར་
 
-<!-- pair: TGD-002685 | source: U02685 | role: main_text | format: prose -->
+[Not yet translated: U02684.]
+
+<!-- TGD-002685 -->
+
 ངེས་པའི་དོན་ཆོ་ག་ལ་བརྟེན་ནས་རྟོགས་དགོས་ཤིང་
 
-<!-- pair: TGD-002686 | source: U02686 | role: main_text | format: prose -->
+[Not yet translated: U02685.]
+
+<!-- TGD-002686 -->
+
 རྟོགས་ན་དྲང་དོན་ཆོ་ག་སོགས་ཐབས་རྣམས་ཀྱང་
 
-<!-- pair: TGD-002687 | source: U02687 | role: main_text | format: prose -->
+[Not yet translated: U02686.]
+
+<!-- TGD-002687 -->
+
 ངེས་དོན་དང་རོ་གཅིག་པར་འགྱུར་རོ། །
 
-<!-- pair: TGD-002688 | source: U02688 | role: main_text | format: prose -->
+[Not yet translated: U02687.]
+
+<!-- TGD-002688 -->
+
 ལྷན༽༽ དབང་གི་དང་པོ་ནས་ཆོ་ག་རྒྱས་པ་གཅིག་གི་སྒོར་འཇུག་དགོས་ཟེར།
 
-<!-- pair: TGD-002689 | source: U02689 | role: main_text | format: prose -->
+[Not yet translated: U02688.]
+
+<!-- TGD-002689 -->
+
 འདིར་ནི་ཐབས་བསྡུས་པ་དེ་ཡིས་མཚན་མར་ཞེན་པ་འདུལ་ནུས་ན་
 
-<!-- pair: TGD-002690 | source: U02690 | role: main_text | format: prose -->
+[Not yet translated: U02689.]
+
+<!-- TGD-002690 -->
+
 ཆོ་ག་བསྡུས་པ་ཡང་ནི་བཞེད་དེ་
 
-<!-- pair: TGD-002691 | source: U02691 | role: main_text | format: prose -->
+[Not yet translated: U02690.]
+
+<!-- TGD-002691 -->
+
 རྟོགས་པ་གཅིག་ལ་སེམས་ཟིན་པའི་དུས་བླ་མས་ངོ་སྤྲོད་ན་
 
-<!-- pair: TGD-002692 | source: U02692 | role: main_text | format: prose -->
+[Not yet translated: U02691.]
+
+<!-- TGD-002692 -->
+
 རྟོགས་ལྡན་དུ་འགྱུར་བ་ལ་ཚེགས་མེད་པའི་ཕྱིར།
 
-<!-- pair: TGD-002693 | source: U02693 | role: main_text | format: prose -->
+[Not yet translated: U02692.]
+
+<!-- TGD-002693 -->
+
 ཀླུའི་བྱང་ཆུབ་ལ་སོགས་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002694 | source: U02694 | role: main_text | format: prose -->
+[Not yet translated: U02693.]
+
+<!-- TGD-002694 -->
+
 དེ་བླ་མ་མཚན་ཉིད་དང་ལྡན་པ་དང་
 
-<!-- pair: TGD-002695 | source: U02695 | role: main_text | format: prose -->
+[Not yet translated: U02694.]
+
+<!-- TGD-002695 -->
+
 སློབ་མའི་མོས་གུས་དང༌།
 
-<!-- pair: TGD-002696 | source: U02696 | role: main_text | format: prose -->
+[Not yet translated: U02695.]
+
+<!-- TGD-002696 -->
+
 སྔོན་སྦྱང་གི་རྟེན་འབྲེལ་ཚོགས་པ་ལས་འབྱུང་བ་ཡིན་ནོ། །
 
-<!-- pair: TGD-002697 | source: U02697 | role: main_text | format: prose -->
+[Not yet translated: U02696.]
+
+<!-- TGD-002697 -->
+
 ལྷན༽༽ སྔགས་ཀྱི་བར་དུ་གཅོད་པ་དགྲ་འགེགས་གཉིས་ལས་
 
-<!-- pair: TGD-002698 | source: U02698 | role: main_text | format: prose -->
+[Not yet translated: U02697.]
+
+<!-- TGD-002698 -->
+
 འགེགས་ལ་བསྲུང་འཁོར་མེ་རི་རྡོ་རྭ་ཁྲོ་བོ་འཅུ་གཞལ་ཡས་ཁང་དང་
 
-<!-- pair: TGD-002699 | source: U02699 | role: main_text | format: prose -->
+[Not yet translated: U02698.]
+
+<!-- TGD-002699 -->
+
 བཅས་པ་སྒོམ་པ་ཟབ་པར་འདོད་དོ། །
 
-<!-- pair: TGD-002700 | source: U02700 | role: main_text | format: prose -->
+[Not yet translated: U02699.]
+
+<!-- TGD-002700 -->
+
 འདིར་དེ་རྣམས་ཕྱོགས་རེར་འོང་པ་ཡིན་
 
-<!-- pair: TGD-002701 | source: U02701 | role: main_text | format: prose -->
+[Not yet translated: U02700.]
+
+<!-- TGD-002701 -->
+
 བསྲུང་བའི་འཁོར་ལོ་རྨད་དུ་བྱུང་བ་གཉིས་མེད་བྱང་ཆུབ་ཀྱི་སེམས་ཡིན་ཏེ་
 
-<!-- pair: TGD-002702 | source: U02702 | role: main_text | format: prose -->
+[Not yet translated: U02701.]
+
+<!-- TGD-002702 -->
+
 དོན་དམ་བདེན་པའི་དབང་དུ་ན་གེགས་ལས་སངས་རྒྱས་ཉིད་ཀྱང་མེད་ཅེས་སོ། །
 
-<!-- pair: TGD-002703 | source: U02703 | role: main_text | format: prose -->
+[Not yet translated: U02702.]
+
+<!-- TGD-002703 -->
+
 མེད་བཞིན་དུ་ཡུལ་དབང་ཤེས་གསུམ་ཚོགས་པ་ལས་གེགས་སྣང་འབྱུང་
 
-<!-- pair: TGD-002704 | source: U02704 | role: main_text | format: prose -->
+[Not yet translated: U02703.]
+
+<!-- TGD-002704 -->
+
 དེའི་རྩ་བ་ཡིད་ཀྱི་སྐྱེ་མཆེད་མིག་སོགས་དང་
 
-<!-- pair: TGD-002705 | source: U02705 | role: main_text | format: prose -->
+[Not yet translated: U02704.]
+
+<!-- TGD-002705 -->
+
 ཡིད་ཤེས་གཅིག་ཏུ་བྱས་ཏེ་
 
-<!-- pair: TGD-002706 | source: U02706 | role: main_text | format: prose -->
+[Not yet translated: U02705.]
+
+<!-- TGD-002706 -->
+
 ཕྱིའི་གཟུགས་ལ་སྐྱེ་ཞིང་མཆེད་པ་དྲུག་ལས་
 
-<!-- pair: TGD-002707 | source: U02707 | role: main_text | format: prose -->
+[Not yet translated: U02706.]
+
+<!-- TGD-002707 -->
+
 མིག་རྣ་སྣ་ལྕེ་ལུས་ཡིད་དྲུག་ལ་
 
-<!-- pair: TGD-002708 | source: U02708 | role: main_text | format: prose -->
+[Not yet translated: U02707.]
+
+<!-- TGD-002708 -->
+
 རིམ་བཞིན་གཏི་མུག། ཞེ་སྡང། སེར་སྣ། འདོད་ཆགས། ཕྲག་དོག་གི་སྐྱེ་མཆེད་ཐམས་ཅད་བསྡུས་པའི་རྡོ་རྗེ་དྲུག་ཏུ་གསུངས་ཏེ་
 
-<!-- pair: TGD-002709 | source: U02709 | role: main_text | format: prose -->
+[Not yet translated: U02708.]
+
+<!-- TGD-002709 -->
+
 ཕྱི་ལྟར་ན་མིག་ས་སྙིང་རིགས་རྣམ་སྣང་རང་གི་ས་སྙིང་ཡིན་པ་གོམ་ཞིང་འདྲིས་པས་
 
-<!-- pair: TGD-002710 | source: U02710 | role: main_text | format: prose -->
+[Not yet translated: U02709.]
+
+<!-- TGD-002710 -->
+
 མཐོང་བ་ཐམས་ཅད་རྣམ་སྣང་ལས་མ་གཡོས་ཤིང་
 
-<!-- pair: TGD-002711 | source: U02711 | role: main_text | format: prose -->
+[Not yet translated: U02710.]
+
+<!-- TGD-002711 -->
+
 གེགས་བྱ་བ་གདོད་ནས་མ་གྲུབ་པའོ། །
 
-<!-- pair: TGD-002712 | source: U02712 | role: main_text | format: prose -->
+[Not yet translated: U02711.]
+
+<!-- TGD-002712 -->
+
 དེ་བཞིན་རྣ་བ་སོགས་ཀྱང་
 
-<!-- pair: TGD-002713 | source: U02713 | role: main_text | format: prose -->
+[Not yet translated: U02712.]
+
+<!-- TGD-002713 -->
+
 རིམ་བཞིན་གསང་བདག ནམ་སྙིང༌། སྤྱན་རས་གཟིགས། སྒྲིབ་ ་སེལ། སྐྱེ་མཆེད་བསྡུས་པ་ཀུན་བཟང་དང་རིགས། མི་བསྐྱོད། རིན་འབྱུང་། སྣང་མཐའ། དོན་གྲུབ། དྲུག་པ་རྡོ་རྗེ་འཆང་སྟེ་ལྔ་པོ་གོང་ལྟར་སྦྱར་རོ།
 
-<!-- pair: TGD-002714 | source: U02714 | role: main_text | format: prose -->
+[Not yet translated: U02713.]
+
+<!-- TGD-002714 -->
+
 ནང་ལྟར་ན། མེ་ལོང་། ཆོས་དབྱིངས། མཉམ་ཉིད། སོར་རྟོག། བྱ་གྲུབ་ཀྱི་ཡེ་ཤེས་
 
-<!-- pair: TGD-002715 | source: U02715 | role: main_text | format: prose -->
+[Not yet translated: U02714.]
+
+<!-- TGD-002715 -->
+
 ལྔས་སྤང་བྱ། གཏི་མུག །ཞེ་སྡངསེར་སྣ་འདོད་ཆགས། ཕྲག་དོག་གི་མ་རིག་པ་ལྔ་བསལ་བཞག་མེད་པར་སྤང་གཉེན་མི་བྱེད་པའི་ཚུལ་གྱིས་འཇོམས་པས་སྲུང་བའི་ཆོག་གོ །
 
-<!-- pair: TGD-002716 | source: U02716 | role: main_text | format: prose -->
+[Not yet translated: U02715.]
+
+<!-- TGD-002716 -->
+
 སྲུང་བ་ཞེས་པ་རྒྱུ་ལ་གནས་པ་ལམ་གྱིས་བསྲུངས་ནས་འབྲས་བུ་མངོན་དུ་བྱེད་པའོ། །
 
-<!-- pair: TGD-002717 | source: U02717 | role: main_text | format: prose -->
+[Not yet translated: U02716.]
+
+<!-- TGD-002717 -->
+
 རྡོ༽༽ སྨིན་བྱེད་སྟ་དངོས་གྲོལ་བྱེད་བསྐྱེད་རྫོགས་སོགས་ཀྱི་རྣམ་བཞག་རྒྱས་པ་རྣམས་
 
-<!-- pair: TGD-002718 | source: U02718 | role: main_text | format: prose -->
+[Not yet translated: U02717.]
+
+<!-- TGD-002718 -->
+
 སྤྲོས་པ་ལ་དགའ་བ་ལ་གསུངས་པ་ཡིན་ཟེར།
 
-<!-- pair: TGD-002719 | source: U02719 | role: main_text | format: prose -->
+[Not yet translated: U02718.]
+
+<!-- TGD-002719 -->
+
 འདིར་ནི་སྤྲོས་པའི་རིམ་པ་དེ་ཐམས་ཅད་
 
-<!-- pair: TGD-002720 | source: U02720 | role: main_text | format: prose -->
+[Not yet translated: U02719.]
+
+<!-- TGD-002720 -->
+
 ཤེས་བྱའི་གཤིས་ལ་ཡོད་པ་བབས་ཀྱི་རྟེན་འབྲེལ་ཡིན་ཏེ་
 
-<!-- pair: TGD-002721 | source: U02721 | role: main_text | format: prose -->
+[Not yet translated: U02720.]
+
+<!-- TGD-002721 -->
+
 ཕྱི་སྣོད་རླུང་མེ་ཆུ་ས་རི་རབ་ལྔ།
 
-<!-- pair: TGD-002722 | source: U02722 | role: main_text | format: prose -->
+[Not yet translated: U02721.]
+
+<!-- TGD-002722 -->
+
 རང་ལུས་རྐང་མཐིལ། འདོམས། ལྟེ་བ། བྲང་། སྒལ་ཚིགས་རྣམས་ཡིན་པར་གསུངས་པས་
 
-<!-- pair: TGD-002723 | source: U02723 | role: main_text | format: prose -->
+[Not yet translated: U02722.]
+
+<!-- TGD-002723 -->
+
 ཚུལ་དེ་ལྟར་བསྒོམ་དགོས་པ་དང༌།
 
-<!-- pair: TGD-002724 | source: U02724 | role: main_text | format: prose -->
+[Not yet translated: U02723.]
+
+<!-- TGD-002724 -->
+
 བཅུད་གྲུབ་པའི་ཚུལ་དུ་ལྷ་དང་ལྷ་མོའི་རང་བཞིན་གདོད་ནས་
 
-<!-- pair: TGD-002725 | source: U02725 | role: main_text | format: prose -->
+[Not yet translated: U02724.]
+
+<!-- TGD-002725 -->
+
 གྲུབ་པ་བསྒོམ་པས་འབྲས་བུ་མཉམ་ཉིད་མངོན་དུ་གྱུར་པ་སྟེ་
 
-<!-- pair: TGD-002726 | source: U02726 | role: main_text | format: prose -->
+[Not yet translated: U02725.]
+
+<!-- TGD-002726 -->
+
 སྤྲོས་པ་དེ་དག་གདོད་ནས་གནས་པ་རྟེན་འབྲེལ་གྱི་ཚུལ་དུ་འབྱུང་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002727 | source: U02727 | role: main_text | format: prose -->
+[Not yet translated: U02726.]
+
+<!-- TGD-002727 -->
+
 དེ་ལྟར་ཡང་།
 
-<!-- pair: TGD-002728 | source: U02728 | role: main_text | format: prose -->
+[Not yet translated: U02727.]
+
+<!-- TGD-002728 -->
+
 རྟེན་ཅིང་འབྲེལ་འབྱུང་མ་གཏོགས་པའི། །
 
-<!-- pair: TGD-002729 | source: U02729 | role: main_text | format: prose -->
+[Not yet translated: U02728.]
+
+<!-- TGD-002729 -->
+
 ཆོས་འགའ་ཡོད་པ་མ་ཡིན་ནོ། །
 
-<!-- pair: TGD-002730 | source: U02730 | role: main_text | format: prose -->
+[Not yet translated: U02729.]
+
+<!-- TGD-002730 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-002731 | source: U02731 | role: main_text | format: prose -->
+[Not yet translated: U02730.]
+
+<!-- TGD-002731 -->
+
 ཕུར་པའི་རྒྱུད་ཉི་མའི་འོད་ཟེར་ལས། །
 
-<!-- pair: TGD-002732 | source: U02732 | role: main_text | format: prose -->
+[Not yet translated: U02731.]
+
+<!-- TGD-002732 -->
+
 རྟེན་ཅིང་འབྲེལ་འབྱུང་གནས་པའི་ཆོས། །
 
-<!-- pair: TGD-002733 | source: U02733 | role: main_text | format: prose -->
+[Not yet translated: U02732.]
+
+<!-- TGD-002733 -->
+
 རིག་པའི་ཡེ་ཤེས་གསལ་བར་འགྱུར།
 
-<!-- pair: TGD-002734 | source: U02734 | role: main_text | format: prose -->
+[Not yet translated: U02733.]
+
+<!-- TGD-002734 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-002735 | source: U02735 | role: main_text | format: prose -->
+[Not yet translated: U02734.]
+
+<!-- TGD-002735 -->
+
 རྡོ༽༽ རྡོ་རྗེའི་ལུས་ཀྱི་གནས་ལུགས་ལུས་དང་མཉམ་དུ་
 
-<!-- pair: TGD-002736 | source: U02736 | role: main_text | format: prose -->
+[Not yet translated: U02735.]
+
+<!-- TGD-002736 -->
+
 ཆགས་པ་གནས་པ་རྩ་གཡོ་བ་རླུང་བཀོད་པ་
 
-<!-- pair: TGD-002737 | source: U02737 | role: main_text | format: prose -->
+[Not yet translated: U02736.]
+
+<!-- TGD-002737 -->
+
 བྱང་སེམས་ཐིག་ལེའི་འཁོར་ལོ་བཞི་འདི་ཡིན་ཟེར།
 
-<!-- pair: TGD-002738 | source: U02738 | role: main_text | format: prose -->
+[Not yet translated: U02737.]
+
+<!-- TGD-002738 -->
+
 འདིར་ནི་རྡོ་རྗེའི་ལུས་ཟབ་མོ་གཉིས་སུ་མེད་པའི་འཁོར་ལོ་བཞེད་དེ་
 
-<!-- pair: TGD-002739 | source: U02739 | role: main_text | format: prose -->
+[Not yet translated: U02738.]
+
+<!-- TGD-002739 -->
+
 ཆོས་སྐུ་ཡིན་པའི་ཕྱིར༑
 
-<!-- pair: TGD-002740 | source: U02740 | role: main_text | format: prose -->
+[Not yet translated: U02739.]
+
+<!-- TGD-002740 -->
+
 དཔེར་ན་དམ་བཅའ་བདུན་ལྡན་གྱི་ཕ་ལམ་བཞིན་ནོ།
 
-<!-- pair: TGD-002741 | source: U02741 | role: main_text | format: prose -->
+[Not yet translated: U02740.]
+
+<!-- TGD-002741 -->
+
 དེ་ལྟར་ཡང་རྡོ་རྗེ་རྩེ་མོ་ལས་
 
-<!-- pair: TGD-002742 | source: U02742 | role: main_text | format: prose -->
+[Not yet translated: U02741.]
+
+<!-- TGD-002742 -->
+
 སྲ་ཞིང་སྙིང་པོ་ཁོང་སྟོང་མེད། །
 
-<!-- pair: TGD-002743 | source: U02743 | role: main_text | format: prose -->
+[Not yet translated: U02742.]
+
+<!-- TGD-002743 -->
+
 གཞིག་ཅིང་གཞོམ་དུ་མེད་པས་ན། །
 
-<!-- pair: TGD-002744 | source: U02744 | role: main_text | format: prose -->
+[Not yet translated: U02743.]
+
+<!-- TGD-002744 -->
+
 བསྲེག་ པར་བྱར་མེད་འཇིགས་པ་མེད། །
 
-<!-- pair: TGD-002745 | source: U02745 | role: main_text | format: prose -->
+[Not yet translated: U02744.]
+
+<!-- TGD-002745 -->
+
 སྟོང་པ་ཉིད་ནི་རྡོ་རྗེར་བཤད། །
 
-<!-- pair: TGD-002746 | source: U02746 | role: main_text | format: prose -->
+[Not yet translated: U02745.]
+
+<!-- TGD-002746 -->
+
 ཅེས་པས་ཆོས་སྐུ་ཡོན་ཏན་མཛད་པ་དང་བཅས་པ་སྟེ་
 
-<!-- pair: TGD-002747 | source: U02747 | role: main_text | format: prose -->
+[Not yet translated: U02746.]
+
+<!-- TGD-002747 -->
+
 སྒོ་གསུམ་རྡོ་རྗེ་གསུམ་ལས་ནམ་ཡང་མི་འདའ་བར་བྱེད་པ་རྡོ་རྗེ་འཛིན་པ་ཟེར།
 
-<!-- pair: TGD-002748 | source: U02748 | role: main_text | format: prose -->
+[Not yet translated: U02747.]
+
+<!-- TGD-002748 -->
+
 དེ་ལ་བརྟེན་ནས་སྒོ་གསུམ་དབྱེར་མེད་གཉིས་སུ་མེད་པའི་རྡོ་རྗེ་མི་ཕྱེད་པ་
 
-<!-- pair: TGD-002749 | source: U02749 | role: main_text | format: prose -->
+[Not yet translated: U02748.]
+
+<!-- TGD-002749 -->
+
 མངོན་དུ་གྱུར་པ་ལ་རྡོ་རྗེའི་ལུས་ཞེས་བྱ་སྟེ།
 
-<!-- pair: TGD-002750 | source: U02750 | role: main_text | format: prose -->
+[Not yet translated: U02749.]
+
+<!-- TGD-002750 -->
+
 ལུས་མེད་ལུས་ཏེ་ལུས་ཀྱི་མཆོག །
 
-<!-- pair: TGD-002751 | source: U02751 | role: main_text | format: prose -->
+[Not yet translated: U02750.]
+
+<!-- TGD-002751 -->
+
 ལུས་ཀྱི་མཐའ་ནི་རྟོཌ་པ་པོ།
 
-<!-- pair: TGD-002752 | source: U02752 | role: main_text | format: prose -->
+[Not yet translated: U02751.]
+
+<!-- TGD-002752 -->
+
 ཞེས་པས་དེ་མངོན་དུ་བྱས་པའོ།
 
-<!-- pair: TGD-002753 | source: U02753 | role: main_text | format: prose -->
+[Not yet translated: U02752.]
+
+<!-- TGD-002753 -->
+
 རྡོ༽༽ རྩ་རླུང་ཐིག་ལེའི་གནས་ལུགས་རྒྱུད་དུ་གསུངས་པ་དེ་ཁོ་ནར་ངེས་ཟེར་
 
-<!-- pair: TGD-002754 | source: U02754 | role: main_text | format: prose -->
+[Not yet translated: U02753.]
+
+<!-- TGD-002754 -->
+
 འདིར་ནི་ཟབ་མོའི་གནས་ལུགས་འགའ་ཞིག་
 
-<!-- pair: TGD-002755 | source: U02755 | role: main_text | format: prose -->
+[Not yet translated: U02754.]
+
+<!-- TGD-002755 -->
+
 རྡོ་རྗེ་འཆང་གིས་རྒྱུད་དཀྲུགས་ལུང་བཅུས་མན་ངག་གབ་པའི་སྒོ་ནས་སྦས་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-002756 | source: U02756 | role: main_text | format: prose -->
+[Not yet translated: U02755.]
+
+<!-- TGD-002756 -->
+
 བླ་མ་ལ་མ་བརྟེན་པར་དབང་རྣོན་གོ་བས་ཞུགས་ན་
 
-<!-- pair: TGD-002757 | source: U02757 | role: main_text | format: prose -->
+[Not yet translated: U02756.]
+
+<!-- TGD-002757 -->
+
 དངོས་གྲུབ་མི་ཐོབ་ཅིང༌།
 
-<!-- pair: TGD-002758 | source: U02758 | role: main_text | format: prose -->
+[Not yet translated: U02757.]
+
+<!-- TGD-002758 -->
+
 ཉམས་པར་འགྱུར་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002759 | source: U02759 | role: main_text | format: prose -->
+[Not yet translated: U02758.]
+
+<!-- TGD-002759 -->
+
 ཆོས་ལུང་ལ་རག་ལས།
 
-<!-- pair: TGD-002760 | source: U02760 | role: main_text | format: prose -->
+[Not yet translated: U02759.]
+
+<!-- TGD-002760 -->
+
 ལུང་མན་ངག །
 
-<!-- pair: TGD-002761 | source: U02761 | role: main_text | format: prose -->
+[Not yet translated: U02760.]
+
+<!-- TGD-002761 -->
+
 མན་ངག་བརྒྱུད་པའི་བླ་མ་ལ་རག་ལས་པས་
 
-<!-- pair: TGD-002762 | source: U02762 | role: main_text | format: prose -->
+[Not yet translated: U02761.]
+
+<!-- TGD-002762 -->
+
 དབང་རྣོན་གྱིས་ཟབ་མོ་དེ་རྟོགས་པའི་ཆེད་དུ་
 
-<!-- pair: TGD-002763 | source: U02763 | role: main_text | format: prose -->
+[Not yet translated: U02762.]
+
+<!-- TGD-002763 -->
+
 བླ་མར་བསྟེན་ནས་བརྩོན་འགྲུས་ཀྱིས་ཉམས་སུ་བླངས་པས་
 
-<!-- pair: TGD-002764 | source: U02764 | role: main_text | format: prose -->
+[Not yet translated: U02763.]
+
+<!-- TGD-002764 -->
+
 གནས་ལུགས་རྟོགས་པར་འགྱུར་བའི་ཕྱིར།
 
-<!-- pair: TGD-002765 | source: U02765 | role: main_text | format: prose -->
+[Not yet translated: U02764.]
+
+<!-- TGD-002765 -->
+
 སྦས་ཏེ།
 
-<!-- pair: TGD-002766 | source: U02766 | role: main_text | format: prose -->
+[Not yet translated: U02765.]
+
+<!-- TGD-002766 -->
+
 རྡོ་རྗེ་སྙིང་པོ་ལས།
 
-<!-- pair: TGD-002767 | source: U02767 | role: main_text | format: prose -->
+[Not yet translated: U02766.]
+
+<!-- TGD-002767 -->
+
 ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་དང༌། །
 
-<!-- pair: TGD-002768 | source: U02768 | role: main_text | format: prose -->
+[Not yet translated: U02767.]
+
+<!-- TGD-002768 -->
+
 བཞི་སྟོང་གི་ནི་གྲངས་སྟོང་གི །
 
-<!-- pair: TGD-002769 | source: U02769 | role: main_text | format: prose -->
+[Not yet translated: U02768.]
+
+<!-- TGD-002769 -->
+
 ཡང་དག་འདུས་པར་ངས་བཤད་དོ། །
 
-<!-- pair: TGD-002770 | source: U02770 | role: main_text | format: prose -->
+[Not yet translated: U02769.]
+
+<!-- TGD-002770 -->
+
 གཞན་དུ་དོན་འདི་མ་བསྒྲགས་པས། །
 
-<!-- pair: TGD-002771 | source: U02771 | role: main_text | format: prose -->
+[Not yet translated: U02770.]
+
+<!-- TGD-002771 -->
+
 བླ་མ་ལ་ནི་གུས་པ་ཡི། །
 
-<!-- pair: TGD-002772 | source: U02772 | role: main_text | format: prose -->
+[Not yet translated: U02771.]
+
+<!-- TGD-002772 -->
+
 སློབ་མ་དག་གིས་རྟོགས་པའི་ཕྱིར། །
 
-<!-- pair: TGD-002773 | source: U02773 | role: main_text | format: prose -->
+[Not yet translated: U02772.]
+
+<!-- TGD-002773 -->
+
 རྒྱུད་གཞན་དག་ཏུ་སྦས་པའོ། །
 
-<!-- pair: TGD-002774 | source: U02774 | role: main_text | format: prose -->
+[Not yet translated: U02773.]
+
+<!-- TGD-002774 -->
+
 རྟོགས་ཚུལ་ཆོས་རྗེ་རིན་པོ་ཆེ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002775 | source: U02775 | role: main_text | format: prose -->
+[Not yet translated: U02774.]
+
+<!-- TGD-002775 -->
+
 རྡོ༽༽ ལུས་སྐྱོན་ཡོན་གྱི་གནས་ལུགས་
 
-<!-- pair: TGD-002776 | source: U02776 | role: main_text | format: prose -->
+[Not yet translated: U02775.]
+
+<!-- TGD-002776 -->
+
 རྩ་ རླུང་གི་རྟེན་འབྲེལ་ལས་འབྱུང་བས་
 
-<!-- pair: TGD-002777 | source: U02777 | role: main_text | format: prose -->
+[Not yet translated: U02776.]
+
+<!-- TGD-002777 -->
+
 དང་པོ་སྐྱེ་བའི་རྒྱུ།
 
-<!-- pair: TGD-002778 | source: U02778 | role: main_text | format: prose -->
+[Not yet translated: U02777.]
+
+<!-- TGD-002778 -->
+
 བར་དུ་གནས་པའི་གཞི།
 
-<!-- pair: TGD-002779 | source: U02779 | role: main_text | format: prose -->
+[Not yet translated: U02778.]
+
+<!-- TGD-002779 -->
+
 མཐར་འཇིག་རྐྱེན་རྣམས་རྒྱུད་དུ་བཤད་པ་ལྟར་ཟབ་ཟེར།
 
-<!-- pair: TGD-002780 | source: U02780 | role: main_text | format: prose -->
+[Not yet translated: U02779.]
+
+<!-- TGD-002780 -->
+
 འདིར་ནི་ལས་ཏེ་རྩ་རླུང་གི་བྱ་བྱེད་ལས་གསུམ་གྱི་གནས་ཚུལ་དང་
 
-<!-- pair: TGD-002781 | source: U02781 | role: main_text | format: prose -->
+[Not yet translated: U02780.]
+
+<!-- TGD-002781 -->
+
 འདུག་ཚུལ་འགའ་ཞིག་ནི་སྨན་རྒྱུད་ཟབ་པར་བཞེད་དེ།
 
-<!-- pair: TGD-002782 | source: U02782 | role: main_text | format: prose -->
+[Not yet translated: U02781.]
+
+<!-- TGD-002782 -->
+
 སྔགས་རྒྱུད་དུ་སྦས་ཏེ་གསལ་པོར་མ་བསྟན་པ་
 
-<!-- pair: TGD-002783 | source: U02783 | role: main_text | format: prose -->
+[Not yet translated: U02782.]
+
+<!-- TGD-002783 -->
+
 འདིར་གསལ་བའི་ཕྱིར་ཡན་ལག་བརྒྱད་པར་མཚོན་ན་
 
-<!-- pair: TGD-002784 | source: U02784 | role: main_text | format: prose -->
+[Not yet translated: U02783.]
+
+<!-- TGD-002784 -->
+
 དང་པོ་ཆགས་པ་དུག་གསུམ་ཤས་གང་ཆེའི་ཚུལ་དུ་
 
-<!-- pair: TGD-002785 | source: U02785 | role: main_text | format: prose -->
+[Not yet translated: U02784.]
+
+<!-- TGD-002785 -->
+
 ཉེས་གསུམ་པགས་པ་དེ་
 
-<!-- pair: TGD-002786 | source: U02786 | role: main_text | format: prose -->
+[Not yet translated: U02785.]
+
+<!-- TGD-002786 -->
+
 རྣམ་པར་གྱུར་ན་སེལ་ཐབས་གང་གི་གཉེན་པོ་གང་ཡིན་པ་སྐྱོན་དག་པ་ཕན་བདེ་སྐྱེད་པ་དང༌།
 
-<!-- pair: TGD-002787 | source: U02787 | role: main_text | format: prose -->
+[Not yet translated: U02786.]
+
+<!-- TGD-002787 -->
+
 རྩ་འདི་ལ་རླུང་འདི་གནས་པ་སོགས་ཤིན་ཏུ་གསལ་པོར་བསྟན་ཅིང་།
 
-<!-- pair: TGD-002788 | source: U02788 | role: main_text | format: prose -->
+[Not yet translated: U02787.]
+
+<!-- TGD-002788 -->
+
 དེའང་སངས་རྒྱས་ཀྱི་ཕྲིན་ལས་
 
-<!-- pair: TGD-002789 | source: U02789 | role: main_text | format: prose -->
+[Not yet translated: U02788.]
+
+<!-- TGD-002789 -->
+
 གསེར་འོད་སོགས་བཀའ་ནས་གསུངས་པ་
 
-<!-- pair: TGD-002790 | source: U02790 | role: main_text | format: prose -->
+[Not yet translated: U02789.]
+
+<!-- TGD-002790 -->
+
 རིགས་གསུམ་སེམས་དཔའ་དང་སློབ་དཔོན་ཀླུ་གྲུབ་སོགས་ཀྱིས་བཀྲལ་བའི་དོན་ཡིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-002791 | source: U02791 | role: main_text | format: prose -->
+[Not yet translated: U02790.]
+
+<!-- TGD-002791 -->
+
 རྡོ༽༽ སྐྱབས་འགྲོ་བདེན་བཞིའི་ཆོས་འཁོར་སྡེ་སྣོད་འདུལ་བ།
 
-<!-- pair: TGD-002792 | source: U02792 | role: main_text | format: prose -->
+[Not yet translated: U02791.]
+
+<!-- TGD-002792 -->
+
 བསླབ་པ་ཚུལ་ཁྲིམས།
 
-<!-- pair: TGD-002793 | source: U02793 | role: main_text | format: prose -->
+[Not yet translated: U02792.]
+
+<!-- TGD-002793 -->
+
 སྡོམ་པ་སོ་ཐར།
 
-<!-- pair: TGD-002794 | source: U02794 | role: main_text | format: prose -->
+[Not yet translated: U02793.]
+
+<!-- TGD-002794 -->
+
 སེམས་བསྐྱེད་དོན་དམ་རྒྱུད་བླ་མེད་དབང་བཞི་པ་གྲོལ་ལམ་རྫོགས་རིམ་རྣམས་
 
-<!-- pair: TGD-002795 | source: U02795 | role: main_text | format: prose -->
+[Not yet translated: U02794.]
+
+<!-- TGD-002795 -->
+
 ཟབ་ཅིང་གཞན་པ་མི་ཟབ་པ་འདོད་མོད།
 
-<!-- pair: TGD-002796 | source: U02796 | role: main_text | format: prose -->
+[Not yet translated: U02795.]
+
+<!-- TGD-002796 -->
+
 འདིར་ནི་གཞན་གྱི་མི་ཟབ་པར་འདོད་པ་དེ་རྣམས་
 
-<!-- pair: TGD-002797 | source: U02797 | role: main_text | format: prose -->
+[Not yet translated: U02796.]
+
+<!-- TGD-002797 -->
+
 འདིར་ཟབ་པར་བྱ་སྟེ་
 
-<!-- pair: TGD-002798 | source: U02798 | role: main_text | format: prose -->
+[Not yet translated: U02797.]
+
+<!-- TGD-002798 -->
+
 དེ་དག་མེད་ན་སངས་རྒྱས་་ པ་ལྟ་ཅི་
 
-<!-- pair: TGD-002799 | source: U02799 | role: main_text | format: prose -->
+[Not yet translated: U02798.]
+
+<!-- TGD-002799 -->
+
 ལམ་གྱི་ཡོན་ཏན་ཡང་ཐོབ་པར་མི་ནུས་པའི་ཕྱིར་
 
-<!-- pair: TGD-002800 | source: U02800 | role: main_text | format: prose -->
+[Not yet translated: U02799.]
+
+<!-- TGD-002800 -->
+
 རྩ་བ་དང་དྲལ་བའི་ཡལ་འདབས་བཞིན་ནོ། །
 
-<!-- pair: TGD-002801 | source: U02801 | role: main_text | format: prose -->
+[Not yet translated: U02800.]
+
+<!-- TGD-002801 -->
+
 དེ་བས་ན་སྐྱབས་སུ་འགྲོ་བ་ཟབ་སྟེ།
 
-<!-- pair: TGD-002802 | source: U02802 | role: main_text | format: prose -->
+[Not yet translated: U02801.]
+
+<!-- TGD-002802 -->
+
 ཆོས་ཐམས་ཅད་ཀྱི་གཞི་མ་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-002803 | source: U02803 | role: main_text | format: prose -->
+[Not yet translated: U02802.]
+
+<!-- TGD-002803 -->
+
 དཔེར་ན་འཁོར་ལོས་བསྒྱུར་རྒྱལ་
 
-<!-- pair: TGD-002804 | source: U02804 | role: main_text | format: prose -->
+[Not yet translated: U02803.]
+
+<!-- TGD-002804 -->
+
 འཇིག་རྟེན་དུ་འབྱུང་བ་ལ་
 
-<!-- pair: TGD-002805 | source: U02805 | role: main_text | format: prose -->
+[Not yet translated: U02804.]
+
+<!-- TGD-002805 -->
+
 ཐོག་མར་དེའི་རིགས་སུ་སྐྱེ་དགོས་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002806 | source: U02806 | role: main_text | format: prose -->
+[Not yet translated: U02805.]
+
+<!-- TGD-002806 -->
+
 དེའི་འོག་ཏུ་བདེན་བཞི་དང་འདུལ་བ་སོགས་ཟབ་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-002807 | source: U02807 | role: main_text | format: prose -->
+[Not yet translated: U02806.]
+
+<!-- TGD-002807 -->
+
 དེས་ཁྱད་པར་གྱི་ཆོས་འཁོར་དང་བཟོ་གནས་དང་ཡིག་རྩིས་ལ་བརྟེན་དགོས་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002808 | source: U02808 | role: main_text | format: prose -->
+[Not yet translated: U02807.]
+
+<!-- TGD-002808 -->
+
 དེ་ལྟར་ཡང་རྗེ་འཇིག་རྟེན་མགོན་པོས།
 
-<!-- pair: TGD-002809 | source: U02809 | role: main_text | format: prose -->
+[Not yet translated: U02808.]
+
+<!-- TGD-002809 -->
+
 གཞན་གྱི་ཆོག་དབང་གོང་མ་ཟབ་ཟེར་ཡང༌།
 
-<!-- pair: TGD-002810 | source: U02810 | role: main_text | format: prose -->
+[Not yet translated: U02809.]
+
+<!-- TGD-002810 -->
+
 འམ་བུ་བུམ་དབང་ལ་རྩི་ཆོད་ཆེ།
 
-<!-- pair: TGD-002811 | source: U02811 | role: main_text | format: prose -->
+[Not yet translated: U02810.]
+
+<!-- TGD-002811 -->
+
 གཞི་དང་སྣོད་དང་ལུས་ལྟ་བུ། །
 
-<!-- pair: TGD-002812 | source: U02812 | role: main_text | format: prose -->
+[Not yet translated: U02811.]
+
+<!-- TGD-002812 -->
+
 གཞན་རྣམས་དེ་ཡི་ཁྱད་པར་ཆོས།
 
-<!-- pair: TGD-002813 | source: U02813 | role: main_text | format: prose -->
+[Not yet translated: U02812.]
+
+<!-- TGD-002813 -->
+
 ཞེས་སོ། །
 
-<!-- pair: TGD-002814 | source: U02814 | role: main_text | format: prose -->
+[Not yet translated: U02813.]
+
+<!-- TGD-002814 -->
+
 གཞན་ཡང་བརྟག་གཉིས་ལས།
 
-<!-- pair: TGD-002815 | source: U02815 | role: main_text | format: prose -->
+[Not yet translated: U02814.]
+
+<!-- TGD-002815 -->
+
 དང་པོ་གསོ་སྦྱོང་སྦྱིན་པར་བྱ།
 
-<!-- pair: TGD-002816 | source: U02816 | role: main_text | format: prose -->
+[Not yet translated: U02815.]
+
+<!-- TGD-002816 -->
+
 ཞེས་པ་ནས།
 
-<!-- pair: TGD-002817 | source: U02817 | role: main_text | format: prose -->
+[Not yet translated: U02816.]
+
+<!-- TGD-002817 -->
+
 དེ་རྗེས་ཀྱེ་རྡོ་རྗེ་བརྩམས།
 
-<!-- pair: TGD-002818 | source: U02818 | role: main_text | format: prose -->
+[Not yet translated: U02817.]
+
+<!-- TGD-002818 -->
+
 ཞེས་སོ། །
 
-<!-- pair: TGD-002819 | source: U02819 | role: main_text | format: prose -->
+[Not yet translated: U02818.]
+
+<!-- TGD-002819 -->
+
 རྡོ༽༽ བཤད་མ་ཐག་པའི་མི་ཟབ་པ་དེ་རྣམས་
 
-<!-- pair: TGD-002820 | source: U02820 | role: main_text | format: prose -->
+[Not yet translated: U02819.]
+
+<!-- TGD-002820 -->
+
 མི་དགོས་པར་རྩ་རླུང་བསྒྲུབས་པས་
 
-<!-- pair: TGD-002821 | source: U02821 | role: main_text | format: prose -->
+[Not yet translated: U02820.]
+
+<!-- TGD-002821 -->
+
 འགྲོས་བཞི་རིམ་པར་ཐིམ་པས་
 
-<!-- pair: TGD-002822 | source: U02822 | role: main_text | format: prose -->
+[Not yet translated: U02821.]
+
+<!-- TGD-002822 -->
+
 ས་བཅུའི་བར་བགྲོད་དེ་
 
-<!-- pair: TGD-002823 | source: U02823 | role: main_text | format: prose -->
+[Not yet translated: U02822.]
+
+<!-- TGD-002823 -->
+
 འབྲས་བུ་སྐུ་བཞི་ཡེ་ཤེས་ལྔ་མངོན་དུ་གྱུར་ཏེ་
 
-<!-- pair: TGD-002824 | source: U02824 | role: main_text | format: prose -->
+[Not yet translated: U02823.]
+
+<!-- TGD-002824 -->
+
 རྡོ་རྗེ་འཆང་གི་གོ་འཕང་ཐོབ་ཟེར།
 
-<!-- pair: TGD-002825 | source: U02825 | role: main_text | format: prose -->
+[Not yet translated: U02824.]
+
+<!-- TGD-002825 -->
+
 འདིར་མི་ཟབ་པ་དེ་རྣམས་མེད་ན་
 
-<!-- pair: TGD-002826 | source: U02826 | role: main_text | format: prose -->
+[Not yet translated: U02825.]
+
+<!-- TGD-002826 -->
+
 རྩ་རླུང་གི་གདམས་པས་སངས་མི་རྒྱ་སྟེ་
 
-<!-- pair: TGD-002827 | source: U02827 | role: main_text | format: prose -->
+[Not yet translated: U02826.]
+
+<!-- TGD-002827 -->
+
 རྟེན་གཞི་མེད་པའི་ཕྱིར།
 
-<!-- pair: TGD-002828 | source: U02828 | role: main_text | format: prose -->
+[Not yet translated: U02827.]
+
+<!-- TGD-002828 -->
+
 དཔེར་ན་འཁོར་བསྒྱུར་ཟས་ལ་མ་བརྟེན་ན་འཚོ་མི་ནུས་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002829 | source: U02829 | role: main_text | format: prose -->
+[Not yet translated: U02828.]
+
+<!-- TGD-002829 -->
+
 བརྩོན་འགྲུས་ཅན་མངོནཤེས་དང་རྫུ་འཕྲུལ་རེ་ཐོབ་པ་སྲིད་ཀྱང་།
 
-<!-- pair: TGD-002830 | source: U02830 | role: main_text | format: prose -->
+[Not yet translated: U02829.]
+
+<!-- TGD-002830 -->
+
 ཕྱི་རོལ་པ་ལའང་ཡོད་དེ།
 
-<!-- pair: TGD-002831 | source: U02831 | role: main_text | format: prose -->
+[Not yet translated: U02830.]
+
+<!-- TGD-002831 -->
+
 དེའང་འདོད་ཆགས་དང་བྲལ་དགོས་པས་
 
-<!-- pair: TGD-002832 | source: U02832 | role: main_text | format: prose -->
+[Not yet translated: U02831.]
+
+<!-- TGD-002832 -->
+
 དེང་སང་དཀའ་བར་སྣང་ངོ་།
 
-<!-- pair: TGD-002833 | source: U02833 | role: main_text | format: prose -->
+[Not yet translated: U02832.]
+
+<!-- TGD-002833 -->
+
 ལྷན༽༽ སྔགས་ཀྱི་ཉམས་ལེན་ཐུན་མིན་རྩ་རླུང་གི་གདམས་པ་ཟབ་པར་འདོད་མོད།
 
-<!-- pair: TGD-002834 | source: U02834 | role: main_text | format: prose -->
+[Not yet translated: U02833.]
+
+<!-- TGD-002834 -->
+
 འདིར་སྔགས་གང་གི་གདམས་པའི་གནད་ལ་འདུལ་བ་ལྷག་པ་ཡིན་ཏེ་
 
-<!-- pair: TGD-002835 | source: U02835 | role: main_text | format: prose -->
+[Not yet translated: U02834.]
+
+<!-- TGD-002835 -->
+
 སྒོ་གསུམ་གྱི་སྐྱོན་བསྡམས་པས་
 
-<!-- pair: TGD-002836 | source: U02836 | role: main_text | format: prose -->
+[Not yet translated: U02835.]
+
+<!-- TGD-002836 -->
+
 ལུས་ངག་ཡིད་གསུམ་ལས་སུ་རུང་ཞིང་།
 
-<!-- pair: TGD-002837 | source: U02837 | role: main_text | format: prose -->
+[Not yet translated: U02836.]
+
+<!-- TGD-002837 -->
+
 སྐྱོན་ལུས་རྩ་ཡི་མི་ཚངས་སྤྱོད།
 
-<!-- pair: TGD-002838 | source: U02838 | role: main_text | format: prose -->
+[Not yet translated: U02837.]
+
+<!-- TGD-002838 -->
+
 ངག་རླུང་གི་རྫུན།
 
-<!-- pair: TGD-002839 | source: U02839 | role: main_text | format: prose -->
+[Not yet translated: U02838.]
+
+<!-- TGD-002839 -->
+
 ཡིད་ཐིག་ལེའི་བརྣབ་སེམས་སོགས་དག་ཅིང་
 
-<!-- pair: TGD-002840 | source: U02840 | role: main_text | format: prose -->
+[Not yet translated: U02839.]
+
+<!-- TGD-002840 -->
+
 ཡོན་ཏན་དྭངས་མ་འཕེལ་བས་
 
-<!-- pair: TGD-002841 | source: U02841 | role: main_text | format: prose -->
+[Not yet translated: U02840.]
+
+<!-- TGD-002841 -->
+
 འཁོར་ལོ་བཞི་གང་སྟེ་བསམ་གཏན་བཞི་དགེ་སྦྱོང་གི་འབྲས་བུ་བཞི་
 
-<!-- pair: TGD-002842 | source: U02842 | role: main_text | format: prose -->
+[Not yet translated: U02841.]
+
+<!-- TGD-002842 -->
+
 མཐར་ཐུག་སྟོབས་སོགས་ཀྱང་འབྱུང་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002843 | source: U02843 | role: main_text | format: prose -->
+[Not yet translated: U02842.]
+
+<!-- TGD-002843 -->
+
 དེས་ན་སྒོ་གསུམ་མ་དག་ན་དུག་གསུམ་གྱིས་རྙོག་པར་འགྱུར་བས་
 
-<!-- pair: TGD-002844 | source: U02844 | role: main_text | format: prose -->
+[Not yet translated: U02843.]
+
+<!-- TGD-002844 -->
+
 རྩ་རླུང་ཐིག་ལེ་གསུམ་ཀ་སྡོམ་བྱེད་དགེ་སློང་གི་སྡོམ་སེམས་བརྟན་པོས་སྡོམ་པ་སྟེ་
 
-<!-- pair: TGD-002845 | source: U02845 | role: main_text | format: prose -->
+[Not yet translated: U02844.]
+
+<!-- TGD-002845 -->
+
 འཁོར་ལོ་བཞི་དང་སྡེ་པ་བཞི་སྤྲད་པའི་རྒྱུ་མཚན་ཡང་དེ་ཡིན་ནོ།
 
-<!-- pair: TGD-002846 | source: U02846 | role: main_text | format: prose -->
+[Not yet translated: U02845.]
+
+<!-- TGD-002846 -->
+
 ལྷན༽༽ ཀུན་གཞི་བདེ་གཤེགས་སྙིང་པོ་དེ་
 
-<!-- pair: TGD-002847 | source: U02847 | role: main_text | format: prose -->
+[Not yet translated: U02846.]
+
+<!-- TGD-002847 -->
+
 ས་བཅུ་པས་ཀྱང་མུན་ཁུང་གི་གླང་པོ་ལྟར་ཕྱོགས་ཙམ་ལས་མི་རྟོགས་ཏེ།
 
-<!-- pair: TGD-002848 | source: U02848 | role: main_text | format: prose -->
+[Not yet translated: U02847.]
+
+<!-- TGD-002848 -->
+
 སྤྲིན་མཐོང་མཁའ་ལ་ཉི་བཞིན་
 
-<!-- pair: TGD-002849 | source: U02849 | role: main_text | format: prose -->
+[Not yet translated: U02848.]
+
+<!-- TGD-002849 -->
+
 འདིར་ཁྱོད་བློ་གྲོས་ཅན་བློ་མིག་དག་པའི་འཕགས་རྣམས་ཀྱིས་ཀྱང་
 
-<!-- pair: TGD-002850 | source: U02850 | role: main_text | format: prose -->
+[Not yet translated: U02849.]
+
+<!-- TGD-002850 -->
+
 ཐམས་ཅད་མཐོང་མ་ལགས།
 
-<!-- pair: TGD-002851 | source: U02851 | role: main_text | format: prose -->
+[Not yet translated: U02850.]
+
+<!-- TGD-002851 -->
+
 ཞེས་པས་སྤྱིའི་བཞེད་པ་དེ་མཐུན་ཡང་།
 
-<!-- pair: TGD-002852 | source: U02852 | role: main_text | format: prose -->
+[Not yet translated: U02851.]
+
+<!-- TGD-002852 -->
+
 འདིར་བླ་མ་བྱིན་རླབ་དང་ལྡན་པས་
 
-<!-- pair: TGD-002853 | source: U02853 | role: main_text | format: prose -->
+[Not yet translated: U02852.]
+
+<!-- TGD-002853 -->
+
 གདམས་ངག་བསྟན་པའི་དོན་བརྩོན་འགྲུས་ཀྱིས་བསྒོམ་པའི་མཐུས་ཀུན་གཞི་དེ་དུས་རེ་འགའ་གཞན་དུ་ཡང་མཐོང་སྟེ་
 
-<!-- pair: TGD-002854 | source: U02854 | role: main_text | format: prose -->
+[Not yet translated: U02853.]
+
+<!-- TGD-002854 -->
+
 གོམ་པ་གནད་དུ་སོང་བས་
 
-<!-- pair: TGD-002855 | source: U02855 | role: main_text | format: prose -->
+[Not yet translated: U02854.]
+
+<!-- TGD-002855 -->
+
 ཁམས་ནང་དུ་འདུས་ཏེ་
 
-<!-- pair: TGD-002856 | source: U02856 | role: main_text | format: prose -->
+[Not yet translated: U02855.]
+
+<!-- TGD-002856 -->
+
 ལུས་ལ་བག་ཆགས་ཀྱི་ས་བོན་རྩ་མདུད་དང་
 
-<!-- pair: TGD-002857 | source: U02857 | role: main_text | format: prose -->
+[Not yet translated: U02856.]
+
+<!-- TGD-002857 -->
+
 ཡི་གེར་གནས་པའི་ངང་རིག་དྲུག་གི་ས་བོན་རྣམས་མཐོང་།
 
-<!-- pair: TGD-002858 | source: U02858 | role: main_text | format: prose -->
+[Not yet translated: U02857.]
+
+<!-- TGD-002858 -->
+
 དེར་རླུང་ཆུད་པས་རིགས་དྲུག་པོ།
 
-<!-- pair: TGD-002859 | source: U02859 | role: main_text | format: prose -->
+[Not yet translated: U02858.]
+
+<!-- TGD-002859 -->
+
 དེ་དང་དེར་མཐོང་དེ་ཡུན་རིང་དུ་གོམ་པས་
 
-<!-- pair: TGD-002860 | source: U02860 | role: main_text | format: prose -->
+[Not yet translated: U02859.]
+
+<!-- TGD-002860 -->
+
 ཕྱི་རོལ་ཏུ་རིག་དྲུག་གི་དཀྱིལ་འཁོར་ཡོད་པ་དང༌།
 
-<!-- pair: TGD-002861 | source: U02861 | role: main_text | format: prose -->
+[Not yet translated: U02860.]
+
+<!-- TGD-002861 -->
+
 ཕྱི་རོལ་གྱི་རྒྱུ་རྐྱེན་གང་ལས་གང་འབྱུང་ཕལ་ཆེར་མཐོང་བས་
 
-<!-- pair: TGD-002862 | source: U02862 | role: main_text | format: prose -->
+[Not yet translated: U02861.]
+
+<!-- TGD-002862 -->
+
 ཀུན་གཞིའམ་ཆོས་ཉིད་བདེ་གཤེགས་སྙིང་པོ་མཐོང་བ་སྟེ་
 
-<!-- pair: TGD-002863 | source: U02863 | role: main_text | format: prose -->
+[Not yet translated: U02862.]
+
+<!-- TGD-002863 -->
+
 ཆོས་རྣམས་ཀྱི་རྟེན་འབྲེལ་མངོན་དུ་བྱས་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002864 | source: U02864 | role: main_text | format: prose -->
+[Not yet translated: U02863.]
+
+<!-- TGD-002864 -->
+
 དེའང་ཀུན་གཞི་ཉོན་ཡིད་ཡིད་ཤེས་སྒོ་ལྔ་དག་པས་ཆོས་དབྱིངས།
 
-<!-- pair: TGD-002865 | source: U02865 | role: main_text | format: prose -->
+[Not yet translated: U02864.]
+
+<!-- TGD-002865 -->
+
 མེ་ལོང་དང་མཉམ་ཉིད་སོགས་ཡེ་ཤེས་ལྔ་འབྱུང་ཞིང༌།
 
-<!-- pair: TGD-002866 | source: U02866 | role: main_text | format: prose -->
+[Not yet translated: U02865.]
+
+<!-- TGD-002866 -->
+
 དེ་ལྟར་ན་ས་བཅུས་ཀྱང་མི་མཐོང་བ་དང་།
 
-<!-- pair: TGD-002867 | source: U02867 | role: main_text | format: prose -->
+[Not yet translated: U02866.]
+
+<!-- TGD-002867 -->
+
 ས་བདུན་པས་མཐོང་བ་དང་།
 
-<!-- pair: TGD-002868 | source: U02868 | role: main_text | format: prose -->
+[Not yet translated: U02867.]
+
+<!-- TGD-002868 -->
+
 ས་དང་པོས་མཐོང༌།
 
-<!-- pair: TGD-002869 | source: U02869 | role: main_text | format: prose -->
+[Not yet translated: U02868.]
+
+<!-- TGD-002869 -->
+
 སོ་སྐྱེས་མཐོང་བའི་ཀུན་གཞི་སྟེ་རྣམ་གྲངས་བྱེད་དགོས།
 
-<!-- pair: TGD-002870 | source: U02870 | role: main_text | format: prose -->
+[Not yet translated: U02869.]
+
+<!-- TGD-002870 -->
+
 རྡོ ༽༽ སྒོམ་ཆེན་པས་ཉམས་སུ་མྱོང་བ་
 
-<!-- pair: TGD-002871 | source: U02871 | role: main_text | format: prose -->
+[Not yet translated: U02870.]
+
+<!-- TGD-002871 -->
+
 བཀའ་དང་བསྟན་བཅོས་གང་ནས་ཀྱང་མ་བཤད་པ་ཞིག་བྱུང་ནའང་ཟབ་ཟེར།
 
-<!-- pair: TGD-002872 | source: U02872 | role: main_text | format: prose -->
+[Not yet translated: U02871.]
+
+<!-- TGD-002872 -->
+
 འདིར་བཀའ་དང་འགལ་བའི་ཉམས་མྱོང་བྱུང་བ་ལོག་རྟོག་ཡིན་ཏེ་
 
-<!-- pair: TGD-002873 | source: U02873 | role: main_text | format: prose -->
+[Not yet translated: U02872.]
+
+<!-- TGD-002873 -->
+
 ཐམས་ཅད་མཁྱེན་པའི་གསུང་དང་འགལ་བའམ་
 
-<!-- pair: TGD-002874 | source: U02874 | role: main_text | format: prose -->
+[Not yet translated: U02873.]
+
+<!-- TGD-002874 -->
+
 མུ་སྟེགས་ཀྱི་ལམ་སྣ་ཟིན་པ་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-002875 | source: U02875 | role: main_text | format: prose -->
+[Not yet translated: U02874.]
+
+<!-- TGD-002875 -->
+
 མུ་སྟེགས་མངོན་མཐའ་འཇིག་པ་དང་
 
-<!-- pair: TGD-002876 | source: U02876 | role: main_text | format: prose -->
+[Not yet translated: U02875.]
+
+<!-- TGD-002876 -->
+
 ཕྱི་མཐའ་མི་འཇིག་པས་མངོན་ཤེས་ཀྱིས་བརྟགས་པའི་གྲུབ་མཐའ་བཞིན་ནོ། །
 
-<!-- pair: TGD-002877 | source: U02877 | role: main_text | format: prose -->
+[Not yet translated: U02876.]
+
+<!-- TGD-002877 -->
+
 མཁྱེན་པ་དང་བརྩེ་བ་ཆེན་པོ་སངས་རྒྱས་ཀྱི་གསུངས་ལས་ལྡོགཔའི་མྱོང་བ་
 
-<!-- pair: TGD-002878 | source: U02878 | role: main_text | format: prose -->
+[Not yet translated: U02877.]
+
+<!-- TGD-002878 -->
+
 དེ་ནི་འདུད་ཀྱི་ལས་ཡིན་པས་
 
-<!-- pair: TGD-002879 | source: U02879 | role: main_text | format: prose -->
+[Not yet translated: U02878.]
+
+<!-- TGD-002879 -->
+
 ཡུམ་དང་གཙུག་ཏོར་བམ་དགུ་ལས་གསུངས་པ་བཞིན་རིགས་པར་བྱའོ།
 
-<!-- pair: TGD-002880 | source: U02880 | role: main_text | format: prose -->
+[Not yet translated: U02879.]
+
+<!-- TGD-002880 -->
+
 རྡོ༽༽ སྡེ་སྣོད་རྒྱུད་སྡེ་དྲང་དོན་ངེས་དོན་ཐ་དད་པས་
 
-<!-- pair: TGD-002881 | source: U02881 | role: main_text | format: prose -->
+[Not yet translated: U02880.]
+
+<!-- TGD-002881 -->
+
 ལ་ལར་བཀག་པ་ལ་ལར་གནང།
 
-<!-- pair: TGD-002882 | source: U02882 | role: main_text | format: prose -->
+[Not yet translated: U02881.]
+
+<!-- TGD-002882 -->
+
 ལ་ལར་སྤང་བ་ལ་ལར་སྒྲུབ་པས་
 
-<!-- pair: TGD-002883 | source: U02883 | role: main_text | format: prose -->
+[Not yet translated: U02882.]
+
+<!-- TGD-002883 -->
+
 ཕྱོགས་རེར་མཐུན་པས་ཆོག་ཟེར་བ་དང་
 
-<!-- pair: TGD-002884 | source: U02884 | role: main_text | format: prose -->
+[Not yet translated: U02883.]
+
+<!-- TGD-002884 -->
+
 འོག་མ་གོང་མར་ཞུགས་ནས་དོར་ཟེར།
 
-<!-- pair: TGD-002885 | source: U02885 | role: main_text | format: prose -->
+[Not yet translated: U02884.]
+
+<!-- TGD-002885 -->
+
 འདིར་ནི་དགོངས་པ་ཐམས་ཅད་འགལ་བ་མེད་པར་ཤེས་པར་བྱ་དགོས་ཏེ་
 
-<!-- pair: TGD-002886 | source: U02886 | role: main_text | format: prose -->
+[Not yet translated: U02885.]
+
+<!-- TGD-002886 -->
+
 ཆོས་ཕུང་བརྒྱད་ཁྲི་ཉོན་མོངས་པའི་གཉེན་པོར་གསུངས་པས་
 
-<!-- pair: TGD-002887 | source: U02887 | role: main_text | format: prose -->
+[Not yet translated: U02886.]
+
+<!-- TGD-002887 -->
+
 སྐྱོན་སྤོང་ཡོན་ཏན་བསྒྲུབ་པ་ལ་ཐམས་ཅད་ཉམས་སུ་ལེན་དགོས་པའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-002888 | source: U02888 | role: main_text | format: prose -->
+[Not yet translated: U02887.]
+
+<!-- TGD-002888 -->
+
 སྡོམ་གསུམ་དང་ཕྱག་ཆེན་ཚུལ་ཁྲིམས་གནད་གཅིག་པའི་ཕྱིར་དང་
 
-<!-- pair: TGD-002889 | source: U02889 | role: main_text | format: prose -->
+[Not yet translated: U02888.]
+
+<!-- TGD-002889 -->
+
 བརྗོད་བྱའི་དོན་ཡང་གཅིག་སྟེ་
 
-<!-- pair: TGD-002890 | source: U02890 | role: main_text | format: prose -->
+[Not yet translated: U02889.]
+
+<!-- TGD-002890 -->
+
 ཟླ་སྒྲོན་ལས།
 
-<!-- pair: TGD-002891 | source: U02891 | role: main_text | format: prose -->
+[Not yet translated: U02890.]
+
+<!-- TGD-002891 -->
+
 ངས་ནི་མདོ་སྡེ་གང་བཤད་པ།
 
-<!-- pair: TGD-002892 | source: U02892 | role: main_text | format: prose -->
+[Not yet translated: U02891.]
+
+<!-- TGD-002892 -->
+
 ཚིག་འབྲུ་ཐ་དད་དོན་གཅིག་སྟེ།
 
-<!-- pair: TGD-002893 | source: U02893 | role: main_text | format: prose -->
+[Not yet translated: U02892.]
+
+<!-- TGD-002893 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-002894 | source: U02894 | role: main_text | format: prose -->
+[Not yet translated: U02893.]
+
+<!-- TGD-002894 -->
+
 ཇོ་བོས།
 
-<!-- pair: TGD-002895 | source: U02895 | role: main_text | format: prose -->
+[Not yet translated: U02894.]
+
+<!-- TGD-002895 -->
+
 ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་དང༌། །
 
-<!-- pair: TGD-002896 | source: U02896 | role: main_text | format: prose -->
+[Not yet translated: U02895.]
+
+<!-- TGD-002896 -->
+
 བཞི་སྟོང་གསུང་པ་གང་ཡིན་པ། །
 
-<!-- pair: TGD-002897 | source: U02897 | role: main_text | format: prose -->
+[Not yet translated: U02896.]
+
+<!-- TGD-002897 -->
+
 ཆོས་ཉིད་འདི་ལ་གཞོལ་ཞིང་འབབས།
 
-<!-- pair: TGD-002898 | source: U02898 | role: main_text | format: prose -->
+[Not yet translated: U02897.]
+
+<!-- TGD-002898 -->
+
 ཞེས་པས་མི་འགལ་བ་བྱེད་དགོས།
 
-<!-- pair: TGD-002899 | source: U02899 | role: main_text | format: prose -->
+[Not yet translated: U02898.]
+
+<!-- TGD-002899 -->
+
 རྡོ༽༽ ཉམས་སུ་ལེན་པའི་སྐྱོན་ཡོན་ནི་གདམས་ངག་དམིགས་བསལ་ཡིན་པས་
 
-<!-- pair: TGD-002900 | source: U02900 | role: main_text | format: prose -->
+[Not yet translated: U02899.]
+
+<!-- TGD-002900 -->
+
 དེ་ཁོ་ན་ཉིད་ལྟར་འབྱུང་ཟེར།
 
-<!-- pair: TGD-002901 | source: U02901 | role: main_text | format: prose -->
+[Not yet translated: U02900.]
+
+<!-- TGD-002901 -->
+
 འདིར་ནི་གདམས་ངག་ལྟར་མིན་པར་རྒྱལ་བ་ཐམས་ཅད་མཁྱེན་པའི་བཀའ་ལྟར་འོང་བར་བཞེད་དེ་
 
-<!-- pair: TGD-002902 | source: U02902 | role: main_text | format: prose -->
+[Not yet translated: U02901.]
+
+<!-- TGD-002902 -->
+
 རྒྱུ་འབྲས་ཀྱི་རྟེན་འབྲེལ་ཐམས་ཅད་མངོན་སུམ་དུ་གྱུར་པས་
 
-<!-- pair: TGD-002903 | source: U02903 | role: main_text | format: prose -->
+[Not yet translated: U02902.]
+
+<!-- TGD-002903 -->
+
 གནད་ཇི་དང་ཇི་ལྟ་བུས་ཡོན་ཏན་བསྐྱེད་པ་དང་
 
-<!-- pair: TGD-002904 | source: U02904 | role: main_text | format: prose -->
+[Not yet translated: U02903.]
+
+<!-- TGD-002904 -->
+
 སྐྱོན་སྤོང་བ་མཁྱེན་པས་བརྩེ་བ་ཆེན་པོས་གདུལ་བྱ་རྣམས་ལ་བསྟན་པའི་ཕྱིར་
 
-<!-- pair: TGD-002905 | source: U02905 | role: main_text | format: prose -->
+[Not yet translated: U02904.]
+
+<!-- TGD-002905 -->
+
 གསུང་རབ་ནས་གསུངས་པ་དེ་བཞིན་དུ་འབྱུང་བ་ཡིན་ནོ། །
 
-<!-- pair: TGD-002906 | source: U02906 | role: main_text | format: prose -->
+[Not yet translated: U02905.]
+
+<!-- TGD-002906 -->
+
 རྡོ༽༽ རྟོག་པ་ཕྲ་མོ་ཙམ་ཡང་མི་འགྱུ་བ་
 
-<!-- pair: TGD-002907 | source: U02907 | role: main_text | format: prose -->
+[Not yet translated: U02906.]
+
+<!-- TGD-002907 -->
+
 མི་རྟོག་ལུས་ལ་གྲི་རྒྱབ་ཀྱང་བདེ་བར་འོང་བ་
 
-<!-- pair: TGD-002908 | source: U02908 | role: main_text | format: prose -->
+[Not yet translated: U02907.]
+
+<!-- TGD-002908 -->
+
 བདེ་བ་ཕྱི་ནང་དང་གང་ཟག་ཁྱད་མེད་པ་གསལ་བ་སྟེ་
 
-<!-- pair: TGD-002909 | source: U02909 | role: main_text | format: prose -->
+[Not yet translated: U02908.]
+
+<!-- TGD-002909 -->
+
 ཏིང་ངེ་འཛིན་དེ་གསུམ་སྐུ་གསུམ་གྱི་རྒྱུ་ཡིན་པར་འདོད་ཀྱང་།
 
-<!-- pair: TGD-002910 | source: U02910 | role: main_text | format: prose -->
+[Not yet translated: U02909.]
+
+<!-- TGD-002910 -->
+
 འདིར་ནི་སྐྱོན་མེད་པའི་ཏིང་འཛིན་དེ་གསུམ་ཁམས་གསུམ་འཁོར་བའི་རྒྱུའམ་ས་བོན་ཡིན་ཏེ།
 
-<!-- pair: TGD-002911 | source: U02911 | role: main_text | format: prose -->
+[Not yet translated: U02910.]
+
+<!-- TGD-002911 -->
+
 བདེ་བས་འདོད་ཁམས།
 
-<!-- pair: TGD-002912 | source: U02912 | role: main_text | format: prose -->
+[Not yet translated: U02911.]
+
+<!-- TGD-002912 -->
+
 གསལ་བས་གཟུགས་ཁམས།
 
-<!-- pair: TGD-002913 | source: U02913 | role: main_text | format: prose -->
+[Not yet translated: U02912.]
+
+<!-- TGD-002913 -->
+
 མི་རྟོག་པས་གཟུགས་མེད་ཁམས་སུ་སྐྱེ་བའི་ཕྱིར།
 
-<!-- pair: TGD-002914 | source: U02914 | role: main_text | format: prose -->
+[Not yet translated: U02913.]
+
+<!-- TGD-002914 -->
+
 ཨཱརྱ་དེ་ཝས།
 
-<!-- pair: TGD-002915 | source: U02915 | role: main_text | format: prose -->
+[Not yet translated: U02914.]
+
+<!-- TGD-002915 -->
+
 བསམ་གཏན་ནགས་མེས་ཡང་དང་ཡང་དུ་ནི་ཉོན་མོངས་ཚང་ཚིང་བསྲེག་པར་གྱུར་ན་ཡང༌། །
 
-<!-- pair: TGD-002916 | source: U02916 | role: main_text | format: prose -->
+[Not yet translated: U02915.]
+
+<!-- TGD-002916 -->
+
 བདག་ལྟའི་རྩ་བ་བརྟན་པོ་མ་སྤངས་པས། །
 
-<!-- pair: TGD-002917 | source: U02917 | role: main_text | format: prose -->
+[Not yet translated: U02916.]
+
+<!-- TGD-002917 -->
+
 ཆར་གྱིས་བརླན་བཞིན་མོད་ལ་རབ་ཏུ་སྐྱེ།
 
-<!-- pair: TGD-002918 | source: U02918 | role: main_text | format: prose -->
+[Not yet translated: U02917.]
+
+<!-- TGD-002918 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-002919 | source: U02919 | role: main_text | format: prose -->
+[Not yet translated: U02918.]
+
+<!-- TGD-002919 -->
+
 མགོན་པོ་ཕག་མོ་གྲུ་པས་ཀྱང༌། །
 
-<!-- pair: TGD-002920 | source: U02920 | role: main_text | format: prose -->
+[Not yet translated: U02919.]
+
+<!-- TGD-002920 -->
+
 བདེ་དང་གསལ་བའི་རྒྱ་མཚོ་རུ། །
 
-<!-- pair: TGD-002921 | source: U02921 | role: main_text | format: prose -->
+[Not yet translated: U02920.]
+
+<!-- TGD-002921 -->
+
 ཞེན་དང་འཛིན་པའི་ནོར་བུ་གནས། །
 
-<!-- pair: TGD-002922 | source: U02922 | role: main_text | format: prose -->
+[Not yet translated: U02921.]
+
+<!-- TGD-002922 -->
+
 ནོར་བུ་ལ་མངོན་ཞེན་སྐྱེ་གྱུར་ན། །
 
-<!-- pair: TGD-002923 | source: U02923 | role: main_text | format: prose -->
+[Not yet translated: U02922.]
+
+<!-- TGD-002923 -->
+
 དུག་སྦྲུལ་ལྟ་བུའི་དམྱལ་་སྲུང་གིས། །
 
-<!-- pair: TGD-002924 | source: U02924 | role: main_text | format: prose -->
+[Not yet translated: U02923.]
+
+<!-- TGD-002924 -->
+
 བདེ་བ་ཆེན་པོའི་སྲོག་བཅད་དེ༑ ༑
 
-<!-- pair: TGD-002925 | source: U02925 | role: main_text | format: prose -->
+[Not yet translated: U02924.]
+
+<!-- TGD-002925 -->
+
 ཉམ་ང་ཆེན་པོའི་གཡང་ལ་བསྐུར།
 
-<!-- pair: TGD-002926 | source: U02926 | role: main_text | format: prose -->
+[Not yet translated: U02925.]
+
+<!-- TGD-002926 -->
+
 ཞེས་པས།
 
-<!-- pair: TGD-002927 | source: U02927 | role: main_text | format: prose -->
+[Not yet translated: U02926.]
+
+<!-- TGD-002927 -->
+
 གསུམ་པོ་དབྱེར་མེད་ཆོས་དབྱིངས་སུ་རོ་མཉམ་པ་ཞིག་དགོས་པར་སེམས་ཤིང་གཞན་དུ་སྐྱོན་མེད་དུ་བཤད་ ཀྱང་
 
-<!-- pair: TGD-002928 | source: U02928 | role: main_text | format: prose -->
+[Not yet translated: U02927.]
+
+<!-- TGD-002928 -->
+
 བདེ་གསལ་སོགས་སོ་སོར་འཛིན་པའི་རྟོག་པ་ལས་མ་འདས་པར་དགོངས་པ་ཡིན་ནམ་མཉམ་མོ།
 
-<!-- pair: TGD-002929 | source: U02929 | role: main_text | format: prose -->
+[Not yet translated: U02928.]
+
+<!-- TGD-002929 -->
+
 རྡོ༽༽ དཀྱིལ་འཁོར་གྱི་འཁོར་ལོ་བདེ་མཆོག་ལྟ་བུར་མཚོན་ན་
 
-<!-- pair: TGD-002930 | source: U02930 | role: main_text | format: prose -->
+[Not yet translated: U02929.]
+
+<!-- TGD-002930 -->
+
 ལོངས་སྐུ་ཡུམ་ཆོས་སྐུ་ཡུལ་ཉེར་བཞི་གནས་པའི་ཐུགས་གསུང་སྐུ་ཡི་འཁོར་ལོ་དཔའ་བོ་མཁའ་འགྲོ་སྒོ་མཚམས་ཀྱི་ལྷ་མོ་དང་བཅས་པ་སྤྲུལ་སྐུ་སྟེ་
 
-<!-- pair: TGD-002931 | source: U02931 | role: main_text | format: prose -->
+[Not yet translated: U02930.]
+
+<!-- TGD-002931 -->
+
 དེ་གསུམ་ཐ་དད་ཡིན་ཟེར་རོ།
 
-<!-- pair: TGD-002932 | source: U02932 | role: main_text | format: prose -->
+[Not yet translated: U02931.]
+
+<!-- TGD-002932 -->
+
 འདིར་ནི་སྐུ་གསུམ་པོ་རེ་རེ་ལ་ཡང་གཞན་གཉིས་ཀ་ཚང་སྟེ་
 
-<!-- pair: TGD-002933 | source: U02933 | role: main_text | format: prose -->
+[Not yet translated: U02932.]
+
+<!-- TGD-002933 -->
+
 དཀྱིལ་འཁོར་གྱི་དུར་ཁྲོད་བརྒྱད་དང་བཅས་པ་
 
-<!-- pair: TGD-002934 | source: U02934 | role: main_text | format: prose -->
+[Not yet translated: U02933.]
+
+<!-- TGD-002934 -->
+
 རང་གི་ལུས་ལ་གནས་པ་དེ་
 
-<!-- pair: TGD-002935 | source: U02935 | role: main_text | format: prose -->
+[Not yet translated: U02934.]
+
+<!-- TGD-002935 -->
+
 ལམ་གྱིས་བསྒོམ་པས་ཕུང་ཁམས་སྐྱེ་མཆེད་རྣམ་པར་དག་པ་
 
-<!-- pair: TGD-002936 | source: U02936 | role: main_text | format: prose -->
+[Not yet translated: U02935.]
+
+<!-- TGD-002936 -->
+
 དེའི་འཁོར་ལོ་ལ་ཐ་དད་མེད་པའི་ཕྱིར་
 
-<!-- pair: TGD-002937 | source: U02937 | role: main_text | format: prose -->
+[Not yet translated: U02936.]
+
+<!-- TGD-002937 -->
+
 གསང་བ་རྒྱ་མཚོ་ལས།
 
-<!-- pair: TGD-002938 | source: U02938 | role: main_text | format: prose -->
+[Not yet translated: U02937.]
+
+<!-- TGD-002938 -->
+
 སྐུ་གསུམ་ཡོངས་སུ་གྲུབ་པ་གསང་སྔགས་ཐེག་པ་སྟེ།
 
-<!-- pair: TGD-002939 | source: U02939 | role: main_text | format: prose -->
+[Not yet translated: U02938.]
+
+<!-- TGD-002939 -->
+
 སྐུ་གསུམ་ཉིད་ལ་འཇུག་པ་ལམ་གྱི་ཐེག་པ་ཡིན། །
 
-<!-- pair: TGD-002940 | source: U02940 | role: main_text | format: prose -->
+[Not yet translated: U02939.]
+
+<!-- TGD-002940 -->
+
 སྐུ་གསུམ་འདུ་འབྲལ་མེད་པ་འབྲས་བུའི་ཐེག་པའོ། །
 
-<!-- pair: TGD-002941 | source: U02941 | role: main_text | format: prose -->
+[Not yet translated: U02940.]
+
+<!-- TGD-002941 -->
+
 ཞེས་གསུངས་སོ། །
 
-<!-- pair: TGD-002942 | source: U02942 | role: main_text | format: prose -->
+[Not yet translated: U02941.]
+
+<!-- TGD-002942 -->
+
 རྡོ༽༽ ཐུབ་དབང་དང་རྡོ་རྗེ་འཆང་གི་བསྟན་པ་མདོ་སྔགས་གཉིས་ཐ་དད་ཡིན་པས་སྔགས་ལ་ཚུལ་ཁྲིམས་མི་དགོས་ཏེ།
 
-<!-- pair: TGD-002943 | source: U02943 | role: main_text | format: prose -->
+[Not yet translated: U02942.]
+
+<!-- TGD-002943 -->
+
 གསང་འདུས་ལས།
 
-<!-- pair: TGD-002944 | source: U02944 | role: main_text | format: prose -->
+[Not yet translated: U02943.]
+
+<!-- TGD-002944 -->
+
 འདོད་པའི་ཡོན་ཏན་རྣམ་ལྔ་ལ།།
 
-<!-- pair: TGD-002945 | source: U02945 | role: main_text | format: prose -->
+[Not yet translated: U02944.]
+
+<!-- TGD-002945 -->
+
 བརྟེན་ནས་མྱུར་དུ་འགྲུབ་པར་འགྱུར།
 
-<!-- pair: TGD-002946 | source: U02946 | role: main_text | format: prose -->
+[Not yet translated: U02945.]
+
+<!-- TGD-002946 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-002947 | source: U02947 | role: main_text | format: prose -->
+[Not yet translated: U02946.]
+
+<!-- TGD-002947 -->
+
 ཁྱོད་ཀྱི་སྲོག་ཆགས་བསད་པར་བྱ།
 
-<!-- pair: TGD-002948 | source: U02948 | role: main_text | format: prose -->
+[Not yet translated: U02947.]
+
+<!-- TGD-002948 -->
+
 ཞེས་སོགས་གསུངས་པས་སོ་ཟེར་རོ།
 
-<!-- pair: TGD-002949 | source: U02949 | role: main_text | format: prose -->
+[Not yet translated: U02948.]
+
+<!-- TGD-002949 -->
+
 འདིར་ནི་གསང་སྔགས་ལ་ནི་ཚུལ་ཁྲིམས་མེད་ཀ་མེད་ཡིན་ཏེ་
 
-<!-- pair: TGD-002950 | source: U02950 | role: main_text | format: prose -->
+[Not yet translated: U02949.]
+
+<!-- TGD-002950 -->
+
 ཚེ་གཅིག་རྡོ་རྗེ་འཆང་གི་གོ་འཕང་ཐོབ་པར་བྱེད་པ་ལ་
 
-<!-- pair: TGD-002951 | source: U02951 | role: main_text | format: prose -->
+[Not yet translated: U02950.]
+
+<!-- TGD-002951 -->
+
 སྐྱོན་སྤོང་བ་དང་ཡོན་ཏན་སྒྲུབ་དགོས་ཤིང་
 
-<!-- pair: TGD-002952 | source: U02952 | role: main_text | format: prose -->
+[Not yet translated: U02951.]
+
+<!-- TGD-002952 -->
+
 དེའང་སྒོ་གསུམ་ཉེས་པ་ཕྲ་མོས་ཀྱང་མི་གོས་པར་བྱེད་དགོས་པའི་ཕྱིར།
 
-<!-- pair: TGD-002953 | source: U02953 | role: main_text | format: prose -->
+[Not yet translated: U02952.]
+
+<!-- TGD-002953 -->
+
 དུས་འཁོར་ལས།
 
-<!-- pair: TGD-002954 | source: U02954 | role: main_text | format: prose -->
+[Not yet translated: U02953.]
+
+<!-- TGD-002954 -->
+
 བསླབ་པ་ལྔ་ཡི་གནས་ལྡན་ཞིང༌། །
 
-<!-- pair: TGD-002955 | source: U02955 | role: main_text | format: prose -->
+[Not yet translated: U02954.]
+
+<!-- TGD-002955 -->
+
 བྱང་ཆུབ་སེམས་དཔའི་སྡོམ་པ་དང༌། །
 
-<!-- pair: TGD-002956 | source: U02956 | role: main_text | format: prose -->
+[Not yet translated: U02955.]
+
+<!-- TGD-002956 -->
+
 གསང་སྔགས་དམ་ཚིག་ལྡན་པ་ནི། །
 
-<!-- pair: TGD-002957 | source: U02957 | role: main_text | format: prose -->
+[Not yet translated: U02956.]
+
+<!-- TGD-002957 -->
+
 དགེ་བསྙེན་རྡོ་རྗེ་འཛིན་པ་ཡིན། །
 
-<!-- pair: TGD-002958 | source: U02958 | role: main_text | format: prose -->
+[Not yet translated: U02957.]
+
+<!-- TGD-002958 -->
+
 བསླབ་པ་བཅུ་ཡིx
 
-<!-- pair: TGD-002959 | source: U02959 | role: main_text | format: prose -->
+[Not yet translated: U02958.]
+
+<!-- TGD-002959 -->
+
 བྱང་ཆུབ་སེམས་དཔའིx
 
-<!-- pair: TGD-002960 | source: U02960 | role: main_text | format: prose -->
+[Not yet translated: U02959.]
+
+<!-- TGD-002960 -->
+
 གསང་སྔགསx
 
-<!-- pair: TGD-002961 | source: U02961 | role: main_text | format: prose -->
+[Not yet translated: U02960.]
+
+<!-- TGD-002961 -->
+
 དགེ་ཚུལx
 
-<!-- pair: TGD-002962 | source: U02962 | role: main_text | format: prose -->
+[Not yet translated: U02961.]
+
+<!-- TGD-002962 -->
+
 བསླབ་པ་བྱེ་བའིx
 
-<!-- pair: TGD-002963 | source: U02963 | role: main_text | format: prose -->
+[Not yet translated: U02962.]
+
+<!-- TGD-002963 -->
+
 བྱང་ཆུབx
 
-<!-- pair: TGD-002964 | source: U02964 | role: main_text | format: prose -->
+[Not yet translated: U02963.]
+
+<!-- TGD-002964 -->
+
 གསང་སྔགསx
 
-<!-- pair: TGD-002965 | source: U02965 | role: main_text | format: prose -->
+[Not yet translated: U02964.]
+
+<!-- TGD-002965 -->
+
 དགེ་སློང་x
 
-<!-- pair: TGD-002966 | source: U02966 | role: main_text | format: prose -->
+[Not yet translated: U02965.]
+
+<!-- TGD-002966 -->
+
 ཅེས་དང༌།
 
-<!-- pair: TGD-002967 | source: U02967 | role: main_text | format: prose -->
+[Not yet translated: U02966.]
+
+<!-- TGD-002967 -->
+
 དང་པོར་གསོ་སྦྱོང་སྦྱིན་པར་བྱ།
 
-<!-- pair: TGD-002968 | source: U02968 | role: main_text | format: prose -->
+[Not yet translated: U02967.]
+
+<!-- TGD-002968 -->
+
 ཞེས་པ་ནས།
 
-<!-- pair: TGD-002969 | source: U02969 | role: main_text | format: prose -->
+[Not yet translated: U02968.]
+
+<!-- TGD-002969 -->
+
 དེ་རྗེས་ཀྱེ་རྡོ་རྗེ་རྩམ།
 
-<!-- pair: TGD-002970 | source: U02970 | role: main_text | format: prose -->
+[Not yet translated: U02969.]
+
+<!-- TGD-002970 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-002971 | source: U02971 | role: main_text | format: prose -->
+[Not yet translated: U02970.]
+
+<!-- TGD-002971 -->
+
 འཇམ་དཔལ་རྩ་རྒྱུད་ལས༑
 
-<!-- pair: TGD-002972 | source: U02972 | role: main_text | format: prose -->
+[Not yet translated: U02971.]
+
+<!-- TGD-002972 -->
+
 ཚུལ་ཁྲིམས་འཆལ་བས་སྔགས་མི་འགྲུབ།
 
-<!-- pair: TGD-002973 | source: U02973 | role: main_text | format: prose -->
+[Not yet translated: U02972.]
+
+<!-- TGD-002973 -->
+
 ཅེས་སོ། །
 
-<!-- pair: TGD-002974 | source: U02974 | role: main_text | format: prose -->
+[Not yet translated: U02973.]
+
+<!-- TGD-002974 -->
+
 རྡོ༽༽ སྔགས་ནི་འཇུག་ལམ་འབྲས་བུ་བདེ་བས་འདོད་ཡོན་སྤྱད་པས་གྲུབ་ཟེར།
 
-<!-- pair: TGD-002975 | source: U02975 | role: main_text | format: prose -->
+[Not yet translated: U02974.]
+
+<!-- TGD-002975 -->
+
 འདིར་ནི་འདོད་པས་བར་དུ་གཅོད་པའི་སྟེང་དུ་
 
-<!-- pair: TGD-002976 | source: U02976 | role: main_text | format: prose -->
+[Not yet translated: U02975.]
+
+<!-- TGD-002976 -->
+
 མདོ་སྔགས་གཉིས་ཀ་གཅིག་པ་ཡིན་ཏེ་མཚན་ཉིད་དུ༌།
 
-<!-- pair: TGD-002977 | source: U02977 | role: main_text | format: prose -->
+[Not yet translated: U02976.]
+
+<!-- TGD-002977 -->
+
 ཡུམ་ལས་འདོད་པས་ནི་ཚངས་པའི་འཇིག་རྟེན་དུ་སྐྱེ་བ་ལ་ཡང་བར་དུ་གཅོད་ན་
 
-<!-- pair: TGD-002978 | source: U02978 | role: main_text | format: prose -->
+[Not yet translated: U02977.]
+
+<!-- TGD-002978 -->
+
 མྱ་ངན་ལས་འདས་པ་ལས་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཞེས་དང༌།
 
-<!-- pair: TGD-002979 | source: U02979 | role: main_text | format: prose -->
+[Not yet translated: U02978.]
+
+<!-- TGD-002979 -->
+
 འདོད་པ་རྣམས་ནི་དུག་གི་ལོ་མ་ལྟ་བུའོ།
 
-<!-- pair: TGD-002980 | source: U02980 | role: main_text | format: prose -->
+[Not yet translated: U02979.]
+
+<!-- TGD-002980 -->
+
 རལ་གྲིའི་སོ་ལྟ་བུའོ། །
 
-<!-- pair: TGD-002981 | source: U02981 | role: main_text | format: prose -->
+[Not yet translated: U02980.]
+
+<!-- TGD-002981 -->
+
 མི་གཙང་བའི་སྦུབས་ལྟ་བུའོ། །
 
-<!-- pair: TGD-002982 | source: U02982 | role: main_text | format: prose -->
+[Not yet translated: U02981.]
+
+<!-- TGD-002982 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-002983 | source: U02983 | role: main_text | format: prose -->
+[Not yet translated: U02982.]
+
+<!-- TGD-002983 -->
+
 སྔགས་ལ་ཚུལ་ཁྲིམས་མེད་ཐབས་མེད་པ་བཤད་མ་ཐག་པ་ཉིད་ཀྱི་ཕྱིར་དང་
 
-<!-- pair: TGD-002984 | source: U02984 | role: main_text | format: prose -->
+[Not yet translated: U02983.]
+
+<!-- TGD-002984 -->
+
 བརྟག་པ་གོང་མ་ལས།
 
-<!-- pair: TGD-002985 | source: U02985 | role: main_text | format: prose -->
+[Not yet translated: U02984.]
+
+<!-- TGD-002985 -->
+
 བཅོམ་ལྡན་མ་དག་པ་གང་ལགས།
 
-<!-- pair: TGD-002986 | source: U02986 | role: main_text | format: prose -->
+[Not yet translated: U02985.]
+
+<!-- TGD-002986 -->
+
 བཀའ་རྩལ་པ་གཟུགས་ལ་སོགས་པ་ལྔའོ། །
 
-<!-- pair: TGD-002987 | source: U02987 | role: main_text | format: prose -->
+[Not yet translated: U02986.]
+
+<!-- TGD-002987 -->
+
 ཅི་ཕྱིར་ཞུས་པས།
 
-<!-- pair: TGD-002988 | source: U02988 | role: main_text | format: prose -->
+[Not yet translated: U02987.]
+
+<!-- TGD-002988 -->
+
 གཟུགས་འཛིན་གྱི་ངོ་བོ་ཡིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-002989 | source: U02989 | role: main_text | format: prose -->
+[Not yet translated: U02988.]
+
+<!-- TGD-002989 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-002990 | source: U02990 | role: main_text | format: prose -->
+[Not yet translated: U02989.]
+
+<!-- TGD-002990 -->
+
 དཀོན་རྩེགས་ལས།
 
-<!-- pair: TGD-002991 | source: U02991 | role: main_text | format: prose -->
+[Not yet translated: U02990.]
+
+<!-- TGD-002991 -->
+
 བར་དུ་གཅོད་པའི་ཆོས་གང་དག །
 
-<!-- pair: TGD-002992 | source: U02992 | role: main_text | format: prose -->
+[Not yet translated: U02991.]
+
+<!-- TGD-002992 -->
+
 སྐྱེ་བོ་རྣམས་ལ་ངས་བསྟན་པ། །
 
-<!-- pair: TGD-002993 | source: U02993 | role: main_text | format: prose -->
+[Not yet translated: U02992.]
+
+<!-- TGD-002993 -->
+
 དེ་ཀུན་ཡང་དག་ཉིད་དུ་སྨྲ། །
 
-<!-- pair: TGD-002994 | source: U02994 | role: main_text | format: prose -->
+[Not yet translated: U02993.]
+
+<!-- TGD-002994 -->
+
 གཞན་དུ་གྱུར་པ་ཡོད་མ་ཡིན། །
 
-<!-- pair: TGD-002995 | source: U02995 | role: main_text | format: prose -->
+[Not yet translated: U02994.]
+
+<!-- TGD-002995 -->
+
 ཅེས་སོ།
 
-<!-- pair: TGD-002996 | source: U02996 | role: main_text | format: prose -->
+[Not yet translated: U02995.]
+
+<!-- TGD-002996 -->
+
 འདོད་པ་བསྟེན་པར་གསུངས་པ་ནི།
 
-<!-- pair: TGD-002997 | source: U02997 | role: main_text | format: prose -->
+[Not yet translated: U02996.]
+
+<!-- TGD-002997 -->
+
 གང་ཟག་གཉེན་པོ་སྟོབས་དང་ལྡན་ན་
 
-<!-- pair: TGD-002998 | source: U02998 | role: main_text | format: prose -->
+[Not yet translated: U02997.]
+
+<!-- TGD-002998 -->
+
 རྒྱུད་ལ་མི་གོས་པ་འདམས་ཀྱི་པདྨ་བཞིན་ཡིན་ཀྱང༌།
 
-<!-- pair: TGD-002999 | source: U02999 | role: main_text | format: prose -->
+[Not yet translated: U02998.]
+
+<!-- TGD-002999 -->
+
 དེ་མཚན་ཉིད་ལས་ཤིན་ཏུ་དཀའ་བར་སྣང་ངོ༌། །
 
-<!-- pair: TGD-003000 | source: U03000 | role: main_text | format: prose -->
+[Not yet translated: U02999.]
+
+<!-- TGD-003000 -->
+
 དེའི་ཕྱིར་རལ་གྲི་དང་འདྲ་བའི་སྔགས་འདི་ཕུབ་ལྟ་བུའི་ཚུལ་ཁྲིམས་ལ་མ་བརྟེན་ན་ཉམས་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-003001 | source: U03001 | role: main_text | format: prose -->
+[Not yet translated: U03000.]
+
+<!-- TGD-003001 -->
+
 རྡོ༽༽ འདུལ་བ་གཞི་སྤོང་བ་མཚན་ཉིད་གཞི་སྦྱོང་བ་སྔགས་གཞི་བསྒྱུར་བ་སྟེའང་
 
-<!-- pair: TGD-003002 | source: U03002 | role: main_text | format: prose -->
+[Not yet translated: U03001.]
+
+<!-- TGD-003002 -->
+
 འདོད་ཆགས་ལམ་དུ་བསྒྱུར་བ་བདེ་བའི་ཏིང་ངེ་འཛིན་འབྲས་བུ་ལོངས་སྐུ།
 
-<!-- pair: TGD-003003 | source: U03003 | role: main_text | format: prose -->
+[Not yet translated: U03002.]
+
+<!-- TGD-003003 -->
+
 ཞེ་སྡང་དང་གཏི་མུག་ལམ་དུ་བསྒྱུར་བ་
 
-<!-- pair: TGD-003004 | source: U03004 | role: main_text | format: prose -->
+[Not yet translated: U03003.]
+
+<!-- TGD-003004 -->
+
 གསལ་བ་དང་མི་རྟོག་པའི་ཏིང་ངེ་འཛིན་
 
-<!-- pair: TGD-003005 | source: U03005 | role: main_text | format: prose -->
+[Not yet translated: U03004.]
+
+<!-- TGD-003005 -->
+
 འབྲས་བུ་སྤྲུལ་སྐུ་དང་ཆོས་སྐུར་བསྒྱུར་བས་
 
-<!-- pair: TGD-003006 | source: U03006 | role: main_text | format: prose -->
+[Not yet translated: U03005.]
+
+<!-- TGD-003006 -->
+
 རྣམ་རྟོག་ཡེ་ཤེས་ཀྱི་རོལ་པ་ཡིན་ཟེར།
 
-<!-- pair: TGD-003007 | source: U03007 | role: main_text | format: prose -->
+[Not yet translated: U03006.]
+
+<!-- TGD-003007 -->
+
 འདིར་ནི་སྔགས་ཀྱི་ལམ་གྱིས་མི་དགེ་བ་དགེ་བར་བསྒྱུར་བར་འདོད་ན་
 
-<!-- pair: TGD-003008 | source: U03008 | role: main_text | format: prose -->
+[Not yet translated: U03007.]
+
+<!-- TGD-003008 -->
+
 འདིར་འགྱུར་བའི་སྐབས་མེད་དེ་
 
-<!-- pair: TGD-003009 | source: U03009 | role: main_text | format: prose -->
+[Not yet translated: U03008.]
+
+<!-- TGD-003009 -->
+
 གདོད་ནས་དཀྱིལ་འཁོར་གྱི་འཁོར་ལོ་ཡིན་ཀྱང་
 
-<!-- pair: TGD-003010 | source: U03010 | role: main_text | format: prose -->
+[Not yet translated: U03009.]
+
+<!-- TGD-003010 -->
+
 གློ་བུར་གྱི་དྲི་མས་བསྒྲིབས་པ་བསལ་བའམ་སྦྱོང་པའི་ལམ་པ་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-003011 | source: U03011 | role: main_text | format: prose -->
+[Not yet translated: U03010.]
+
+<!-- TGD-003011 -->
+
 ཀྱེ་རྡོར་ལས།
 
-<!-- pair: TGD-003012 | source: U03012 | role: main_text | format: prose -->
+[Not yet translated: U03011.]
+
+<!-- TGD-003012 -->
+
 སེམས་ཅན་རྣམས་སངས་རྒྱས་ཏེ། །
 
-<!-- pair: TGD-003013 | source: U03013 | role: main_text | format: prose -->
+[Not yet translated: U03012.]
+
+<!-- TGD-003013 -->
+
 འོན་ཀྱང་གློ་བུར་དྲི་མས་བསྒྲིབས། །
 
-<!-- pair: TGD-003014 | source: U03014 | role: main_text | format: prose -->
+[Not yet translated: U03013.]
+
+<!-- TGD-003014 -->
+
 དེ་ཉིད་བསལ་ན་སངས་རྒྱས་ཉིད།
 
-<!-- pair: TGD-003015 | source: U03015 | role: main_text | format: prose -->
+[Not yet translated: U03014.]
+
+<!-- TGD-003015 -->
+
 ཅེས་པས་སྦྱོང་བའི་ལམ་པ་ཡིན་ཅིང༌།
 
-<!-- pair: TGD-003016 | source: U03016 | role: main_text | format: prose -->
+[Not yet translated: U03015.]
+
+<!-- TGD-003016 -->
+
 དེར་མ་ཟད་མཚན་ཉིད་དུའང་ཕལ་ཆེན་ལས།
 
-<!-- pair: TGD-003017 | source: U03017 | role: main_text | format: prose -->
+[Not yet translated: U03016.]
+
+<!-- TGD-003017 -->
+
 སྟོང་གསུམ་དར་ཡུག་དང་སྙིང་པོའི་མདོར་དཔེ་དགུས་བསྟན་པ་སོགས་
 
-<!-- pair: TGD-003018 | source: U03018 | role: main_text | format: prose -->
+[Not yet translated: U03017.]
+
+<!-- TGD-003018 -->
+
 སྤོང་བའི་ལམ་པ་མིན་བསྒྱུར་བའི་ལམ་ཡིན་ནོ། །
 
-<!-- pair: TGD-003019 | source: U03019 | role: main_text | format: prose -->
+[Not yet translated: U03018.]
+
+<!-- TGD-003019 -->
+
 དེ་ལྟར་མིན་པ་བསྒྱུར་བའི་ལམ་པ་ཡིན་ན་
 
-<!-- pair: TGD-003020 | source: U03020 | role: main_text | format: prose -->
+[Not yet translated: U03019.]
+
+<!-- TGD-003020 -->
+
 ཀུན་ནས་ཉོན་མོངས་སོགས་བདུད་བཅོམ་ཕྱིར་བཅོམ་ལྡན་འདས་ཞེས་བྱ་ཞེས་པ་དང་
 
-<!-- pair: TGD-003021 | source: U03021 | role: main_text | format: prose -->
+[Not yet translated: U03020.]
+
+<!-- TGD-003021 -->
+
 འགལ་བ་དང་དུག་གསུམ་གཞི་མ་གྲུབ་པས་བསྒྱུར་བས་འགྱུར་ན་
 
-<!-- pair: TGD-003022 | source: U03022 | role: main_text | format: prose -->
+[Not yet translated: U03021.]
+
+<!-- TGD-003022 -->
+
 མི་དགེ་དགེ་བར་འགྱུར་ཏེ་
 
-<!-- pair: TGD-003023 | source: U03023 | role: main_text | format: prose -->
+[Not yet translated: U03022.]
+
+<!-- TGD-003023 -->
+
 རྒྱུ་འབྲས་ཀྱི་བབ་དང་འགལ་བའི་ཕྱིར་སྤོང་བ་ཡིན་ནའང་
 
-<!-- pair: TGD-003024 | source: U03024 | role: main_text | format: prose -->
+[Not yet translated: U03023.]
+
+<!-- TGD-003024 -->
+
 སྙིང་པོ་རྟག་པ་དང་འགལ་བའི་ཕྱིར་
 
-<!-- pair: TGD-003025 | source: U03025 | role: main_text | format: prose -->
+[Not yet translated: U03024.]
+
+<!-- TGD-003025 -->
+
 སྔགས་སུ་མི་འགྱུར་བས་སྦྱོང་བའི་ལམ་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-003026 | source: U03026 | role: main_text | format: prose -->
+[Not yet translated: U03025.]
+
+<!-- TGD-003026 -->
+
 རྡོ༽༽ སྔགས་སུ་མི་དགེ་བ་ཐབས་མཁས་པས་སྤྱད་པས་དགེ་བར་འགྱུར་ཏེ་
 
-<!-- pair: TGD-003027 | source: U03027 | role: main_text | format: prose -->
+[Not yet translated: U03026.]
+
+<!-- TGD-003027 -->
+
 འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དང་།
 
-<!-- pair: TGD-003028 | source: U03028 | role: main_text | format: prose -->
+[Not yet translated: U03027.]
+
+<!-- TGD-003028 -->
+
 ང་རྒྱལ་ཕྲག་དོག་མི་སྤང་ངོ་ཞེས་ཟེར་རོ།
 
-<!-- pair: TGD-003029 | source: U03029 | role: main_text | format: prose -->
+[Not yet translated: U03028.]
+
+<!-- TGD-003029 -->
+
 འདིར་ནི་འདུལ་བར་མི་དགེ་བ་བཀག་པ་
 
-<!-- pair: TGD-003030 | source: U03030 | role: main_text | format: prose -->
+[Not yet translated: U03029.]
+
+<!-- TGD-003030 -->
+
 སྔགས་སུའང་མི་དགེ་ཞིང་སྤང་བྱ་ཡིན་པས་
 
-<!-- pair: TGD-003031 | source: U03031 | role: main_text | format: prose -->
+[Not yet translated: U03030.]
+
+<!-- TGD-003031 -->
+
 དགེ་བར་མི་འགྱུར་ཏེ་
 
-<!-- pair: TGD-003032 | source: U03032 | role: main_text | format: prose -->
+[Not yet translated: U03031.]
+
+<!-- TGD-003032 -->
+
 སངས་རྒྱས་ཀྱི་གནས་དང་གནས་མིན་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱི་གཟིགས་པ་དང་
 
-<!-- pair: TGD-003033 | source: U03033 | role: main_text | format: prose -->
+[Not yet translated: U03032.]
+
+<!-- TGD-003033 -->
+
 ལམ་གྱི་གེགས་དམ་བཅས་པ་ལ་
 
-<!-- pair: TGD-003034 | source: U03034 | role: main_text | format: prose -->
+[Not yet translated: U03033.]
+
+<!-- TGD-003034 -->
+
 ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་ན་སུས་ཀྱང་རྒོལ་བ་མེད་པའི་ཕྱིར་དང་
 
-<!-- pair: TGD-003035 | source: U03035 | role: main_text | format: prose -->
+[Not yet translated: U03034.]
+
+<!-- TGD-003035 -->
+
 རྡོ་རྗེ་འཆང་གི་རྒྱུད་དཀྲུགས་ལུང་བཅུས་མན་ངག་གབ་པ་དང་མཐའ་དྲུག་ལས་
 
-<!-- pair: TGD-003036 | source: U03036 | role: main_text | format: prose -->
+[Not yet translated: U03035.]
+
+<!-- TGD-003036 -->
+
 དགོངས་པ་ཅན་དང་སྒྲ་ཇི་བཞིན་མ་ཡིན་པ་དང༌།
 
-<!-- pair: TGD-003037 | source: U03037 | role: main_text | format: prose -->
+[Not yet translated: U03036.]
+
+<!-- TGD-003037 -->
+
 ཚུལ་བཞིན་ལས་སྦས་དོན་སྤྱི་བཤད་ཤས་ཆེ་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-003038 | source: U03038 | role: main_text | format: prose -->
+[Not yet translated: U03037.]
+
+<!-- TGD-003038 -->
+
 དེ་ལྟར་ཡང་གསང་འདུས་རིགས་བཞིའི་དམ་ཚིག་གི་སྲོག་ཆགས་གསོད་པ་སོགས་བཞིའི་དོན་
 
-<!-- pair: TGD-003039 | source: U03039 | role: main_text | format: prose -->
+[Not yet translated: U03038.]
+
+<!-- TGD-003039 -->
+
 དགོངས༌པ་ལུང་བསྟན་དུ་བཀྲལ་ཏེ།
 
-<!-- pair: TGD-003040 | source: U03040 | role: main_text | format: prose -->
+[Not yet translated: U03039.]
+
+<!-- TGD-003040 -->
+
 མ་བྱིན་པ་ལ་བྱང་ཆུབ་སེམས།
 
-<!-- pair: TGD-003041 | source: U03041 | role: main_text | format: prose -->
+[Not yet translated: U03040.]
+
+<!-- TGD-003041 -->
+
 ཀུན་རྫོབ་སྟོན་པ་རྫུན་སྨྲ་བ། །
 
-<!-- pair: TGD-003042 | source: U03042 | role: main_text | format: prose -->
+[Not yet translated: U03041.]
+
+<!-- TGD-003042 -->
+
 ཕུང་པོ་སྲོག་ཆགས་གྱུར་པ་སྟེ། །
 
-<!-- pair: TGD-003043 | source: U03043 | role: main_text | format: prose -->
+[Not yet translated: U03042.]
+
+<!-- TGD-003043 -->
+
 ཚངས་པའི་གནས་བཞི་བུད་མེད་ཡིན། །
 
-<!-- pair: TGD-003044 | source: U03044 | role: main_text | format: prose -->
+[Not yet translated: U03043.]
+
+<!-- TGD-003044 -->
+
 དགོངས་པ་ཡིས་ནི་བཤད་པ་ལ། །
 
-<!-- pair: TGD-003045 | source: U03045 | role: main_text | format: prose -->
+[Not yet translated: U03044.]
+
+<!-- TGD-003045 -->
+
 བྱིས་པ་རྣམས་ནི་ཡི་གར་རྟོགས། །
 
-<!-- pair: TGD-003046 | source: U03046 | role: main_text | format: prose -->
+[Not yet translated: U03045.]
+
+<!-- TGD-003046 -->
+
 རྗེ་རྗེ་ ཐེག་པར་གནས་འདོད་ཀྱང་། །
 
-<!-- pair: TGD-003047 | source: U03047 | role: main_text | format: prose -->
+[Not yet translated: U03046.]
+
+<!-- TGD-003047 -->
+
 ཆོས་ཉིད་དེ་ཡི་ཡེ་ཤེས་སོ། །
 
-<!-- pair: TGD-003048 | source: U03048 | role: main_text | format: prose -->
+[Not yet translated: U03047.]
+
+<!-- TGD-003048 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-003049 | source: U03049 | role: main_text | format: prose -->
+[Not yet translated: U03048.]
+
+<!-- TGD-003049 -->
+
 དགོངས་པའི་ཚིག་ལ་རྨོངས་པ་རྣམས། །
 
-<!-- pair: TGD-003050 | source: U03050 | role: main_text | format: prose -->
+[Not yet translated: U03049.]
+
+<!-- TGD-003050 -->
+
 གསུངས་པའི་དོན་འདི་མ་རྟོགས་ནས། ༑
 
-<!-- pair: TGD-003051 | source: U03051 | role: main_text | format: prose -->
+[Not yet translated: U03050.]
+
+<!-- TGD-003051 -->
+
 གསུངས་པ་འདི་ལས་གཞན་མིན་ཞེས། །
 
-<!-- pair: TGD-003052 | source: U03052 | role: main_text | format: prose -->
+[Not yet translated: U03051.]
+
+<!-- TGD-003052 -->
+
 དེ་ནས་ཇི་བཞིན་སྨྲར་འཛིན་ཏོ།
 
-<!-- pair: TGD-003053 | source: U03053 | role: main_text | format: prose -->
+[Not yet translated: U03052.]
+
+<!-- TGD-003053 -->
+
 ཞེས་པས་དུག་གསུམ་འབྲེལ་བའི་ལས་སྔགས་སུའང་མི་དགེ་བ་ལ་
 
-<!-- pair: TGD-003054 | source: U03054 | role: main_text | format: prose -->
+[Not yet translated: U03053.]
+
+<!-- TGD-003054 -->
+
 དེ་མེད་ན་སྔགས་སུའང་དགེ་བ་ཡིན་ནོ།
 
-<!-- pair: TGD-003055 | source: U03055 | role: main_text | format: prose -->
+[Not yet translated: U03054.]
+
+<!-- TGD-003055 -->
+
 ལྷན༽༽ གཞི་སྡེ་སྣོད་གསུམ་ལམ་སོ་བྱང་སོགས་ཀྱི་གང་ཟག་དབང་པོ་ཐ་མ་འབྲིང་རབ་གསུམ་གྱིས་བསླབས་པས།
 
-<!-- pair: TGD-003056 | source: U03056 | role: main_text | format: prose -->
+[Not yet translated: U03055.]
+
+<!-- TGD-003056 -->
+
 འབྲས་བུ་ཞི་བདེ་མི་གནས་པའི་མྱང་འདས།
 
-<!-- pair: TGD-003057 | source: U03057 | role: main_text | format: prose -->
+[Not yet translated: U03056.]
+
+<!-- TGD-003057 -->
+
 ཟུང་འཇུག་བདེ་ཆེན་གསུམ་ཐོབ་ཟེར།
 
-<!-- pair: TGD-003058 | source: U03058 | role: main_text | format: prose -->
+[Not yet translated: U03057.]
+
+<!-- TGD-003058 -->
+
 འདིར་རྡོ་རྗེ་ཐེག་པའི་ལམ་རིམ་གྱི་བསླབ་པ་
 
-<!-- pair: TGD-003059 | source: U03059 | role: main_text | format: prose -->
+[Not yet translated: U03058.]
+
+<!-- TGD-003059 -->
+
 དེ་གསུམ་ཀའི་གང་ཟག་ཆོས་འབྲས་བུ་སོགས་བཟང་ངན་བསལ་བཞག་མེད་པས་ཐམས་ཅད་དགོས་ཏེ།
 
-<!-- pair: TGD-003060 | source: U03060 | role: main_text | format: prose -->
+[Not yet translated: U03059.]
+
+<!-- TGD-003060 -->
+
 གང་ཟག་གཅིག་སངས་རྒྱས་པའི་རྒྱུ་རྐྱེན་ཐབས་ཀྱི་རིམ་པ་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-003061 | source: U03061 | role: main_text | format: prose -->
+[Not yet translated: U03060.]
+
+<!-- TGD-003061 -->
+
 དཔེར་ན་རྒྱལ་པོ་མཁས་པས་ཁྲིམས་འཆའ་བ་བཞིན་ནོ། །
 
-<!-- pair: TGD-003062 | source: U03062 | role: main_text | format: prose -->
+[Not yet translated: U03061.]
+
+<!-- TGD-003062 -->
+
 དེ་ལྟར་ཡང་བརྟག་གཉིས་ལས།
 
-<!-- pair: TGD-003063 | source: U03063 | role: main_text | format: prose -->
+[Not yet translated: U03062.]
+
+<!-- TGD-003063 -->
+
 དང་པོ་གསོ་སྦྱོང་སྦྱིན་པར་བྱ།
 
-<!-- pair: TGD-003064 | source: U03064 | role: main_text | format: prose -->
+[Not yet translated: U03063.]
+
+<!-- TGD-003064 -->
+
 སོགས་གསུངས་པས།
 
-<!-- pair: TGD-003065 | source: U03065 | role: main_text | format: prose -->
+[Not yet translated: U03064.]
+
+<!-- TGD-003065 -->
+
 སྔགས་སྡོམ་མན་ཆད་ལ་བསླབ་པ་གསུམ་ལམ་རིམ་སྤྱི་ཁྱབ་ཏུ་དགོས་པ་ཁོ་ན་ཡིན་ནོ།
 
-<!-- pair: TGD-003066 | source: U03066 | role: main_text | format: prose -->
+[Not yet translated: U03065.]
+
+<!-- TGD-003066 -->
+
 ལྷན༽༽ སོ་བྱང་སྔགས་གསུམ་ལམ་མི་གཅིག་པ་ཐ་དད་ཡིན་ཟེར་ཡང༌།
 
-<!-- pair: TGD-003067 | source: U03067 | role: main_text | format: prose -->
+[Not yet translated: U03066.]
+
+<!-- TGD-003067 -->
+
 འདིར་ཕར་ཕྱིན་དྲུག་ནི་མདོ་སྔགས་ཀྱི་ཐེག་པ་གསུམ་ཀའི་ལམ་ཡིན་ཏེ་
 
-<!-- pair: TGD-003068 | source: U03068 | role: main_text | format: prose -->
+[Not yet translated: U03067.]
+
+<!-- TGD-003068 -->
+
 ཚོགས་གཉིས་མ་བརྟེན་པར་སངས་རྒྱས་པའི་ཐབས་མེད་པའི་ཕྱིར།
 
-<!-- pair: TGD-003069 | source: U03069 | role: main_text | format: prose -->
+[Not yet translated: U03068.]
+
+<!-- TGD-003069 -->
+
 དེའང་དང་པོ་གསུམ་
 
-<!-- pair: TGD-003070 | source: U03070 | role: main_text | format: prose -->
+[Not yet translated: U03069.]
+
+<!-- TGD-003070 -->
+
 བསོད་ནམས་ཐ་མ་གཉིས་ཡེ་ཤེས་ཀྱི་ཚོགས་བརྩོན་འགྲུས་གཉིས་ཀྱི་གྲོགས་
 
-<!-- pair: TGD-003071 | source: U03071 | role: main_text | format: prose -->
+[Not yet translated: U03070.]
+
+<!-- TGD-003071 -->
+
 དཔལ་མགོན་ཀླུ་སྒྲུབ་ཀྱི་དབུ་མ་རིན་ཆེན་ཕྲེང་བ་ལས།
 
-<!-- pair: TGD-003072 | source: U03072 | role: main_text | format: prose -->
+[Not yet translated: U03071.]
+
+<!-- TGD-003072 -->
+
 མདོར་ན་སངས་རྒྱས་བསྟན་འདི་དག །
 
-<!-- pair: TGD-003073 | source: U03073 | role: main_text | format: prose -->
+[Not yet translated: U03072.]
+
+<!-- TGD-003073 -->
+
 ཕ་རོལ་ཕྱིན་དྲུག་ཁོ་ན་ཡོད།
 
-<!-- pair: TGD-003074 | source: U03074 | role: main_text | format: prose -->
+[Not yet translated: U03073.]
+
+<!-- TGD-003074 -->
+
 ཅེས་པ་སོགས་རྒྱ་ཆེར་གསུངས་པས་ཤེས་སོ།
 
-<!-- pair: TGD-003075 | source: U03075 | role: main_text | format: prose -->
+[Not yet translated: U03074.]
+
+<!-- TGD-003075 -->
+
 རྡོ༽༽ ཉོན་མོངས་སངས་རྒྱས་ཀྱི་གདུང་དང་
 
-<!-- pair: TGD-003076 | source: U03076 | role: main_text | format: prose -->
+[Not yet translated: U03075.]
+
+<!-- TGD-003076 -->
+
 རིགས་སུ་ཕར་ཕྱིན་དང་སྔགས་གཉིས་ཀ་ནས་བཤད་ཟེར་རོ། །
 
-<!-- pair: TGD-003077 | source: U03077 | role: main_text | format: prose -->
+[Not yet translated: U03076.]
+
+<!-- TGD-003077 -->
+
 ཉོན་མོངས་པ་དག་པའམ་བྲལ་བའི་འབྲས་བུ་བདེ་བར་གཤེགས་པ་ཉིད་དེ་
 
-<!-- pair: TGD-003078 | source: U03078 | role: main_text | format: prose -->
+[Not yet translated: U03077.]
+
+<!-- TGD-003078 -->
+
 གཞི་བསྒྱུར་བའི་ལམ་པ་མི་སྲིད་པ་གོང་དུ་བསྒྲུབས་ཟིན་པའི་ཕྱིར་
 
-<!-- pair: TGD-003079 | source: U03079 | role: main_text | format: prose -->
+[Not yet translated: U03078.]
+
+<!-- TGD-003079 -->
+
 ཀུན་ཏུ་ཁྭ་ཀྱི་རྒྱུད་ལས།
 
-<!-- pair: TGD-003080 | source: U03080 | role: main_text | format: prose -->
+[Not yet translated: U03079.]
+
+<!-- TGD-003080 -->
+
 གཏི་མུག་རྣམ་དག་བསྒོམ་པ་ཡི། །
 
-<!-- pair: TGD-003081 | source: U03081 | role: main_text | format: prose -->
+[Not yet translated: U03080.]
+
+<!-- TGD-003081 -->
+
 རྣམ་པར་སྣང་མཛད་ཉིད་དུ་འགྱུར། །
 
-<!-- pair: TGD-003082 | source: U03082 | role: main_text | format: prose -->
+[Not yet translated: U03081.]
+
+<!-- TGD-003082 -->
+
 ཞེ་སྡང་རྣམ་དག་བསྒོམ་པ་ཡི། །
 
-<!-- pair: TGD-003083 | source: U03083 | role: main_text | format: prose -->
+[Not yet translated: U03082.]
+
+<!-- TGD-003083 -->
+
 མི་བསྐྱོད་པ་ནི་ཉིད་དུ་འགྱུར། །
 
-<!-- pair: TGD-003084 | source: U03084 | role: main_text | format: prose -->
+[Not yet translated: U03083.]
+
+<!-- TGD-003084 -->
+
 ཕྲག་དོག་རྣམ་དག་བསྒོམ་པ་ཡི། །
 
-<!-- pair: TGD-003085 | source: U03085 | role: main_text | format: prose -->
+[Not yet translated: U03084.]
+
+<!-- TGD-003085 -->
+
 དོན་ཡོད་གྲུབ་པ་ཉིད་དུ་འགྱུར། །
 
-<!-- pair: TGD-003086 | source: U03086 | role: main_text | format: prose -->
+[Not yet translated: U03085.]
+
+<!-- TGD-003086 -->
+
 ང་རྒྱལ་རྣམ་དག་བསྒོམ་པ་ཡི། །
 
-<!-- pair: TGD-003087 | source: U03087 | role: main_text | format: prose -->
+[Not yet translated: U03086.]
+
+<!-- TGD-003087 -->
+
 རིན་ཆེན་འབྱུང་ལྡན་ཉིད་དུ་འགྱུར།
 
-<!-- pair: TGD-003088 | source: U03088 | role: main_text | format: prose -->
+[Not yet translated: U03087.]
+
+<!-- TGD-003088 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-003089 | source: U03089 | role: main_text | format: prose -->
+[Not yet translated: U03088.]
+
+<!-- TGD-003089 -->
+
 མགོན་པོ་འབྲི་གུང་པ་ཆེན་པོས།
 
-<!-- pair: TGD-003090 | source: U03090 | role: main_text | format: prose -->
+[Not yet translated: U03089.]
+
+<!-- TGD-003090 -->
+
 དགྲ་གཉེན་དུ་ཆོད་པའི་དཔའ་བོ་དང་། །
 
-<!-- pair: TGD-003091 | source: U03091 | role: main_text | format: prose -->
+[Not yet translated: U03090.]
+
+<!-- TGD-003091 -->
+
 གཉེན་སྟོང་པར་རྟོགས་པའི་མཁའ་འགྲོ་གཉིས། །
 
-<!-- pair: TGD-003092 | source: U03092 | role: main_text | format: prose -->
+[Not yet translated: U03091.]
+
+<!-- TGD-003092 -->
+
 སེམས་འགྱུར་བ་མེད་པའི་རྣལ་འབྱོར་པ། །
 
-<!-- pair: TGD-003093 | source: U03093 | role: main_text | format: prose -->
+[Not yet translated: U03092.]
+
+<!-- TGD-003093 -->
+
 དུས་རྒྱུན་ཆད་མེད་པ་སྒོར་རོ་རོ། །
 
-<!-- pair: TGD-003094 | source: U03094 | role: main_text | format: prose -->
+[Not yet translated: U03093.]
+
+<!-- TGD-003094 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-003095 | source: U03095 | role: main_text | format: prose -->
+[Not yet translated: U03094.]
+
+<!-- TGD-003095 -->
+
 དཀོན་མཆོག་སྤྲིན་ལས།
 
-<!-- pair: TGD-003096 | source: U03096 | role: main_text | format: prose -->
+[Not yet translated: U03095.]
+
+<!-- TGD-003096 -->
+
 སྲིད་པའི་མྱ་ངན་སྒྲོལ་བ་པོ། །
 
-<!-- pair: TGD-003097 | source: U03097 | role: main_text | format: prose -->
+[Not yet translated: U03096.]
+
+<!-- TGD-003097 -->
+
 ཉོན་མོངས་བསྒྲལ་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-003098 | source: U03098 | role: main_text | format: prose -->
+[Not yet translated: U03097.]
+
+<!-- TGD-003098 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-003099 | source: U03099 | role: main_text | format: prose -->
+[Not yet translated: U03098.]
+
+<!-- TGD-003099 -->
+
 བྱང་ཆུབ་སྙིང་པོར་བཞུགས་པ་ན། །
 
-<!-- pair: TGD-003100 | source: U03100 | role: main_text | format: prose -->
+[Not yet translated: U03099.]
+
+<!-- TGD-003100 -->
+
 འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དང་། །
 
-<!-- pair: TGD-003101 | source: U03101 | role: main_text | format: prose -->
+[Not yet translated: U03100.]
+
+<!-- TGD-003101 -->
+
 དྲི་མ་གཞན་ཡང་རྣམ་མང་པོ། །
 
-<!-- pair: TGD-003102 | source: U03102 | role: main_text | format: prose -->
+[Not yet translated: U03101.]
+
+<!-- TGD-003102 -->
+
 ཁྱོད་ཀྱི་ཡེ་ཤེས་མེ་ཡིས་བསྲེགས།
 
-<!-- pair: TGD-003103 | source: U03103 | role: main_text | format: prose -->
+[Not yet translated: U03102.]
+
+<!-- TGD-003103 -->
+
 ཞེས་པས་
 
-<!-- pair: TGD-003104 | source: U03104 | role: main_text | format: prose -->
+[Not yet translated: U03103.]
+
+<!-- TGD-003104 -->
+
 དུག་གསུམ་སྦྱོང་བྱེད་ལམ་གྱིས་སྦྱངས་པས་
 
-<!-- pair: TGD-003105 | source: U03105 | role: main_text | format: prose -->
+[Not yet translated: U03104.]
+
+<!-- TGD-003105 -->
+
 བྲལ་འབྲས་སྐུ་དང་ཡེ་ཤེས་མཛད་ཕྲིན་རྒྱ་མཚོ་ལྟ་བུ་འབྱུང་བས་
 
-<!-- pair: TGD-003106 | source: U03106 | role: main_text | format: prose -->
+[Not yet translated: U03105.]
+
+<!-- TGD-003106 -->
+
 རིགས་དང་གདུངས་ཞེས་གསུངས་སོ། །
 
-<!-- pair: TGD-003107 | source: U03107 | role: main_text | format: prose -->
+[Not yet translated: U03106.]
+
+<!-- TGD-003107 -->
+
 གཞན་དུ་ཉོན་མོངས་ཉིད་མ་སྦྱངས་ན་
 
-<!-- pair: TGD-003108 | source: U03108 | role: main_text | format: prose -->
+[Not yet translated: U03107.]
+
+<!-- TGD-003108 -->
+
 སངས་རྒྱས་ཀྱི་གདུང་དུ་ལྟ་ཅི་མཐོ་རིས་ཀྱི་གདུང་དུའང་མི་འགྱུར་ཏེ།
 
-<!-- pair: TGD-003109 | source: U03109 | role: main_text | format: prose -->
+[Not yet translated: U03108.]
+
+<!-- TGD-003109 -->
+
 ངན་སོང་གི་གདུང་ཡིན་པས་སོ།
 
-<!-- pair: TGD-003110 | source: U03110 | role: main_text | format: prose -->
+[Not yet translated: U03109.]
+
+<!-- TGD-003110 -->
+
 ལྷན༽༽ དུག་གསུམ་གྱིས་རིམ་བ་ཞིག་རྩ་རླུང་ཐིག་ལེ་གསུམ་མ་དག་པས་
 
-<!-- pair: TGD-003111 | source: U03111 | role: main_text | format: prose -->
+[Not yet translated: U03110.]
+
+<!-- TGD-003111 -->
+
 དག་པར་བྱེད་དགོས་ཟེར་བས་
 
-<!-- pair: TGD-003112 | source: U03112 | role: main_text | format: prose -->
+[Not yet translated: U03111.]
+
+<!-- TGD-003112 -->
+
 དེ་ངེད་དང་མཐུན་ཀྱང་
 
-<!-- pair: TGD-003113 | source: U03113 | role: main_text | format: prose -->
+[Not yet translated: U03112.]
+
+<!-- TGD-003113 -->
+
 འདིར་རྩ་རླུང་ཐིག་ལེ་ནི་སྙིགས་མ་སྟེ་དྲུག་དང་བཅས་པ་
 
-<!-- pair: TGD-003114 | source: U03114 | role: main_text | format: prose -->
+[Not yet translated: U03113.]
+
+<!-- TGD-003114 -->
+
 དེ་ཟབ་སྟེ་རྩ་རླུང་མ་དག་པའི་གང་ཟག་ལས་དག་པའི་སྐུ་དང་ཡེ་ཤེས་འབྱུང་ཞིང༌།
 
-<!-- pair: TGD-003115 | source: U03115 | role: main_text | format: prose -->
+[Not yet translated: U03114.]
+
+<!-- TGD-003115 -->
+
 གཞན་དུ་ན་དག་རྒྱུའི་དེ་གསུམ་མེད་ན་
 
-<!-- pair: TGD-003116 | source: U03116 | role: main_text | format: prose -->
+[Not yet translated: U03115.]
+
+<!-- TGD-003116 -->
+
 དག་པའི་འབྲས་བུ་མི་འབྱུང་སྟེ་
 
-<!-- pair: TGD-003117 | source: U03117 | role: main_text | format: prose -->
+[Not yet translated: U03116.]
+
+<!-- TGD-003117 -->
+
 རྒྱུ་མེད་པའི་འབྲས་བུ་བཞིན་ནོ། །
 
-<!-- pair: TGD-003118 | source: U03118 | role: main_text | format: prose -->
+[Not yet translated: U03117.]
+
+<!-- TGD-003118 -->
+
 དེ་ལྟར་ཡང་འོད་སྲུང་གིས་ཞུས་པ་ལས།
 
-<!-- pair: TGD-003119 | source: U03119 | role: main_text | format: prose -->
+[Not yet translated: U03118.]
+
+<!-- TGD-003119 -->
+
 ཇི་ལྟར་གྲོང་ཁྱེར་དབུས་ཀྱི་མི་གཙང་ལུད། །
 
-<!-- pair: TGD-003120 | source: U03120 | role: main_text | format: prose -->
+[Not yet translated: U03119.]
+
+<!-- TGD-003120 -->
+
 དེ་ནི་བུ་རམ་ཤིང་པའི་ཞིང་ལ་ཕན། །
 
-<!-- pair: TGD-003121 | source: U03121 | role: main_text | format: prose -->
+[Not yet translated: U03120.]
+
+<!-- TGD-003121 -->
+
 དེ་བཞིན་བྱང་ཆུབ་སེམས་དཔའི་ཉོན་མོངས་ལུད། །
 
-<!-- pair: TGD-003122 | source: U03122 | role: main_text | format: prose -->
+[Not yet translated: U03121.]
+
+<!-- TGD-003122 -->
+
 རྒྱལ་དང་རྒྱལ་བའི་ཆོས་ལ་ཕན་པར་བྱེད།
 
-<!-- pair: TGD-003123 | source: U03123 | role: main_text | format: prose -->
+[Not yet translated: U03122.]
+
+<!-- TGD-003123 -->
+
 ཅེས་པ་བཞིན་རྩ་རླུང་ཐིག་ལེ་མ་དག་པ་འདམ་རྫབ་དང་འདྲ་བ་དེ་རྒྱུ་བྱས་
 
-<!-- pair: TGD-003124 | source: U03124 | role: main_text | format: prose -->
+[Not yet translated: U03123.]
+
+<!-- TGD-003124 -->
+
 རྐྱེན་བླ་མ་དམ་པའི་གདམས་ངག་ལ་བརྟེན་ནས་
 
-<!-- pair: TGD-003125 | source: U03125 | role: main_text | format: prose -->
+[Not yet translated: U03124.]
+
+<!-- TGD-003125 -->
+
 བརྩོན་འགྲུས་བརྩམས་པས་དག་པ་ཐོབ་པར་འགྱུར་རོ༑ ༑
 
-<!-- pair: TGD-003126 | source: U03126 | role: main_text | format: prose -->
+[Not yet translated: U03125.]
+
+<!-- TGD-003126 -->
+
 མ་དག་པ་དེ་སེམས་ཅན་ཐམས་ཅད་ལ་ཡོད་ཀྱང་
 
-<!-- pair: TGD-003127 | source: U03127 | role: main_text | format: prose -->
+[Not yet translated: U03126.]
+
+<!-- TGD-003127 -->
+
 རྐྱེན་མ་ཚང་བས་དེ་ལྟར་མི་འགྱུར་ཏེ།
 
-<!-- pair: TGD-003128 | source: U03128 | role: main_text | format: prose -->
+[Not yet translated: U03127.]
+
+<!-- TGD-003128 -->
+
 རྩོལ་བ་མ་བྱས་པའི་གསེར་རྡོ་བཞིན་ནོ།
 
-<!-- pair: TGD-003129 | source: U03129 | role: main_text | format: prose -->
+[Not yet translated: U03128.]
+
+<!-- TGD-003129 -->
+
 རྡོ༽༽ སྔགས་ཀྱི་མངོན་སྤྱོད་ཀྱིས་གདུག་པ་ཅན་སྒྲོལ་དགོས་པར་གསུངས་པ་སྒྲ་ཇི་བཞིན་པ་ཡིན་པས་
 
-<!-- pair: TGD-003130 | source: U03130 | role: main_text | format: prose -->
+[Not yet translated: U03129.]
+
+<!-- TGD-003130 -->
+
 ཉེས་པར་མི་འགྱུར་བས་གནང་བར་འདོད་དོ།
 
-<!-- pair: TGD-003131 | source: U03131 | role: main_text | format: prose -->
+[Not yet translated: U03130.]
+
+<!-- TGD-003131 -->
+
 འདིར་ནི་སྔགས་ཀྱི་མཐུའམ་ནུས་པ་བསྟན་ཙམ་ལས་
 
-<!-- pair: TGD-003132 | source: U03132 | role: main_text | format: prose -->
+[Not yet translated: U03131.]
+
+<!-- TGD-003132 -->
+
 མངོན་སྤྱོད་དངོས་སུ་གནང་བ་མེད་དེ་
 
-<!-- pair: TGD-003133 | source: U03133 | role: main_text | format: prose -->
+[Not yet translated: U03132.]
+
+<!-- TGD-003133 -->
+
 སྦྱོར་བ་ཞེ་སྡང་ཡིན་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-003134 | source: U03134 | role: main_text | format: prose -->
+[Not yet translated: U03133.]
+
+<!-- TGD-003134 -->
+
 དེ་གནས་དང་གནས་མིན་མཁྱེན་པའི་ཡེ་ཤེས་དང་
 
-<!-- pair: TGD-003135 | source: U03135 | role: main_text | format: prose -->
+[Not yet translated: U03134.]
+
+<!-- TGD-003135 -->
+
 མི་འཇིགས་པ་དམ་བཅས་པ་དང་། ། འགལ་བའི་ཕྱིར་
 
-<!-- pair: TGD-003136 | source: U03136 | role: main_text | format: prose -->
+[Not yet translated: U03135.]
+
+<!-- TGD-003136 -->
+
 འཇམ་དཔལ་རྩ་རྒྱུད་ལས།
 
-<!-- pair: TGD-003137 | source: U03137 | role: main_text | format: prose -->
+[Not yet translated: U03136.]
+
+<!-- TGD-003137 -->
+
 བྲམ་ཟེ་ཙ་ནག་སྐྱ་གཤིན་རྗེའི་ཤེད་ཀྱི་རྣལ་འབྱོར་པ་ཞིག་རྒྱལ་པོ་ཟླ་བས་བླ་མཆོད་དུ་བྱས་ནས་
 
-<!-- pair: TGD-003138 | source: U03138 | role: main_text | format: prose -->
+[Not yet translated: U03137.]
+
+<!-- TGD-003138 -->
+
 མངོན་སྤྱོད་ཀྱིས་དགྲ་མང་པོ་བསད་པས་
 
-<!-- pair: TGD-003139 | source: U03139 | role: main_text | format: prose -->
+[Not yet translated: U03138.]
+
+<!-- TGD-003139 -->
+
 ལྷ་དེ་ཡི་གཟུགས་བཟུང་ནས་དམྱལ་བར་སྐྱེ་བར་གསུངས་ན།
 
-<!-- pair: TGD-003140 | source: U03140 | role: main_text | format: prose -->
+[Not yet translated: U03139.]
+
+<!-- TGD-003140 -->
+
 གཙང་བཙན་དང་པེ་ཧར་སོགས་ལ་རྟེན་ནས་་
 
-<!-- pair: TGD-003141 | source: U03141 | role: main_text | format: prose -->
+[Not yet translated: U03140.]
+
+<!-- TGD-003141 -->
+
 སྲོག་གཅོད་པ་ངན་སོང་དུ་སྐྱེ་བ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས།
 
-<!-- pair: TGD-003142 | source: U03142 | role: main_text | format: prose -->
+[Not yet translated: U03141.]
+
+<!-- TGD-003142 -->
+
 འོ་ན་མ་གནང་ངམ་ཞེ་ན།
 
-<!-- pair: TGD-003143 | source: U03143 | role: main_text | format: prose -->
+[Not yet translated: U03142.]
+
+<!-- TGD-003143 -->
+
 བསད་པ་དག་གསོ་ནུས་པ་རྣམ་ཤེས་སྤར་ནུས་པ་
 
-<!-- pair: TGD-003144 | source: U03144 | role: main_text | format: prose -->
+[Not yet translated: U03143.]
+
+<!-- TGD-003144 -->
+
 ཆོས་ཀུན་མཉམ་ཉིད་དུ་རྟོགས་པ་ཇོ་བོ་རྗེ་དང༌། རྗེ་བཙུན་མི་ལ། སློབ་ དཔོན་པདྨ་ལྟ་བུ་ཞིག་གི་མཛད་པ་སྟེ་
 
-<!-- pair: TGD-003145 | source: U03145 | role: main_text | format: prose -->
+[Not yet translated: U03144.]
+
+<!-- TGD-003145 -->
+
 གཤིན་རྗེ་མེ་རུ་རྩེའི་རྒྱུད་ལས།
 
-<!-- pair: TGD-003146 | source: U03146 | role: main_text | format: prose -->
+[Not yet translated: U03145.]
+
+<!-- TGD-003146 -->
+
 རང་རིག་གསལ་བའི་ཐུགས་རྗེ་ཡི། །
 
-<!-- pair: TGD-003147 | source: U03147 | role: main_text | format: prose -->
+[Not yet translated: U03146.]
+
+<!-- TGD-003147 -->
+
 ཉོན་མོངས་བསྒྲལ་བ་མ་གཏོགས་པ། །
 
-<!-- pair: TGD-003148 | source: U03148 | role: main_text | format: prose -->
+[Not yet translated: U03147.]
+
+<!-- TGD-003148 -->
+
 ཞེ་སྡང་གདུག་པའི་སེམས་ཀྱིས་སྒྲོལ། །
 
-<!-- pair: TGD-003149 | source: U03149 | role: main_text | format: prose -->
+[Not yet translated: U03148.]
+
+<!-- TGD-003149 -->
+
 དམྱལ་བའི་སྐྱེ་བ་མནར་མེད་ལེན།
 
-<!-- pair: TGD-003150 | source: U03150 | role: main_text | format: prose -->
+[Not yet translated: U03149.]
+
+<!-- TGD-003150 -->
+
 ཅེས་སོ།༑
 
-<!-- pair: TGD-003151 | source: U03151 | role: main_text | format: prose -->
+[Not yet translated: U03150.]
+
+<!-- TGD-003151 -->
+
 རྡོ༽༽ རྡོ་རྗེའི་དམྱལ་བ་ནི་རྒྱུའི་ཐེག་པར་བཤད་པའི་བཅོ་བརྒྱད་ལས་གུད་ན་སྡུག་བསྔལ་ ལག་པར་ཆེ་བ་ཞིག་ཡོད་ཟེར།
 
-<!-- pair: TGD-003152 | source: U03152 | role: main_text | format: prose -->
+[Not yet translated: U03151.]
+
+<!-- TGD-003152 -->
+
 འདིར་ནི་དེ་ལ་ལོགས་སུ་མེད་དེ་
 
-<!-- pair: TGD-003153 | source: U03153 | role: main_text | format: prose -->
+[Not yet translated: U03152.]
+
+<!-- TGD-003153 -->
+
 མནར་མེད་ལ་སོགས་བཅོ་བརྒྱད་དེ་རྣམས་ཡིན་ཏེ་
 
-<!-- pair: TGD-003154 | source: U03154 | role: main_text | format: prose -->
+[Not yet translated: U03153.]
+
+<!-- TGD-003154 -->
+
 མི་གཡོ་བའི་རྟོགས་པ་དང་བླ་མ་ལྔ་བཅུ་པ་ལས།
 
-<!-- pair: TGD-003155 | source: U03155 | role: main_text | format: prose -->
+[Not yet translated: U03154.]
+
+<!-- TGD-003155 -->
+
 མནར་མེད་ལ་སོགས་འཇིགས་རུང་བའི། །
 
-<!-- pair: TGD-003156 | source: U03156 | role: main_text | format: prose -->
+[Not yet translated: U03155.]
+
+<!-- TGD-003156 -->
+
 དམྱལ་བ་བསྟན་བ་གང་ཡིན་པ། །
 
-<!-- pair: TGD-003157 | source: U03157 | role: main_text | format: prose -->
+[Not yet translated: U03156.]
+
+<!-- TGD-003157 -->
+
 སློབ་དཔོན་ལ་ནི་སྨོད་པ་རྣམས། །
 
-<!-- pair: TGD-003158 | source: U03158 | role: main_text | format: prose -->
+[Not yet translated: U03157.]
+
+<!-- TGD-003158 -->
+
 དེར་ནི་ངེས་པར་གནས་པར་བསྟན།
 
-<!-- pair: TGD-003159 | source: U03159 | role: main_text | format: prose -->
+[Not yet translated: U03158.]
+
+<!-- TGD-003159 -->
+
 ཅེས་དང༌།
 
-<!-- pair: TGD-003160 | source: U03160 | role: main_text | format: prose -->
+[Not yet translated: U03159.]
+
+<!-- TGD-003160 -->
+
 རྡོ་རྗེ་གུར་ལས།
 
-<!-- pair: TGD-003161 | source: U03161 | role: main_text | format: prose -->
+[Not yet translated: U03160.]
+
+<!-- TGD-003161 -->
+
 དེ་ཚེ་དབང་བསྒྱུར་མཆོག་ཐོབ་པའི། །
 
-<!-- pair: TGD-003162 | source: U03162 | role: main_text | format: prose -->
+[Not yet translated: U03161.]
+
+<!-- TGD-003162 -->
+
 སློབ་མས་བླ་མའི་བཀའ་འདས་ན། །
 
-<!-- pair: TGD-003163 | source: U03163 | role: main_text | format: prose -->
+[Not yet translated: U03162.]
+
+<!-- TGD-003163 -->
+
 འཇིག་རྟེན་འདིར་ནི་སྡུག་བསྔལ་ཞིང༌། །
 
-<!-- pair: TGD-003164 | source: U03164 | role: main_text | format: prose -->
+[Not yet translated: U03163.]
+
+<!-- TGD-003164 -->
+
 ཕ་རོལ་མནར་མེད་གནས་པར་འགྱུར།
 
-<!-- pair: TGD-003165 | source: U03165 | role: main_text | format: prose -->
+[Not yet translated: U03164.]
+
+<!-- TGD-003165 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-003166 | source: U03166 | role: main_text | format: prose -->
+[Not yet translated: U03165.]
+
+<!-- TGD-003166 -->
+
 གསང་སྔགས་སུ་ངུ་འབོད་ལ་
 
-<!-- pair: TGD-003167 | source: U03167 | role: main_text | format: prose -->
+[Not yet translated: U03166.]
+
+<!-- TGD-003167 -->
+
 རྡོ་རྗེའི་དམྱལ་བ་མནར་མེད་དུ་བཞག་པ་ཡང་ཡོད་དེ།
 
-<!-- pair: TGD-003168 | source: U03168 | role: main_text | format: prose -->
+[Not yet translated: U03167.]
+
+<!-- TGD-003168 -->
+
 དུས་འཁོར་གྱི་འགྲེལ་བ་དྲི་མེད་འོད་ལས།
 
-<!-- pair: TGD-003169 | source: U03169 | role: main_text | format: prose -->
+[Not yet translated: U03168.]
+
+<!-- TGD-003169 -->
+
 རླུང་གི་དཀྱིལ་འཁོར་གྱི་དབུས་སུ་ངུ་འབོད་དང༌།
 
-<!-- pair: TGD-003170 | source: U03170 | role: main_text | format: prose -->
+[Not yet translated: U03169.]
+
+<!-- TGD-003170 -->
+
 དེའི་སྟེང་དུ་མུན་པ་ཆེན་པོ་དང༌།
 
-<!-- pair: TGD-003171 | source: U03171 | role: main_text | format: prose -->
+[Not yet translated: U03170.]
+
+<!-- TGD-003171 -->
+
 དེ་བཞིན་དུ་མེ་དཀྱིལ་ལ་མེའི་དམྱལ་བ་དང་
 
-<!-- pair: TGD-003172 | source: U03172 | role: main_text | format: prose -->
+[Not yet translated: U03171.]
+
+<!-- TGD-003172 -->
+
 ངུ་བ་མི་བཟད་པ་ཆུ་དཀྱིལ་ལ་འདམ་གྱི་ཆུ་དང་བྱེ་མའི་ཆུ།
 
-<!-- pair: TGD-003173 | source: U03173 | role: main_text | format: prose -->
+[Not yet translated: U03172.]
+
+<!-- TGD-003173 -->
+
 ས་དཀྱིལ་གྱི་ཕྱེད་འོག་མ་ལ་གསེག་མའི་དམྱལ་བ་སྟེ།
 
-<!-- pair: TGD-003174 | source: U03174 | role: main_text | format: prose -->
+[Not yet translated: U03173.]
+
+<!-- TGD-003174 -->
+
 གནས་བདུན་ལ་ཚ་གྲང་གི་དམྱལ་བ་འཁོར་བཅས་
 
-<!-- pair: TGD-003175 | source: U03175 | role: main_text | format: prose -->
+[Not yet translated: U03174.]
+
+<!-- TGD-003175 -->
+
 འདུ་བར་ཡང་གསུངས་སོ།
 
-<!-- pair: TGD-003176 | source: U03176 | role: main_text | format: prose -->
+[Not yet translated: U03175.]
+
+<!-- TGD-003176 -->
+
 རྡོ༽༽ དམ་ཚིག་འདས་ནས་རྡོ་རྗེའི་དམྱལ་བར་སྐྱེས་ན་
 
-<!-- pair: TGD-003177 | source: U03177 | role: main_text | format: prose -->
+[Not yet translated: U03176.]
+
+<!-- TGD-003177 -->
+
 ཐར་པ་དང་ཐོབ་པའི་དུས་མེད་ཅེས་ཟེར་ཡང་
 
-<!-- pair: TGD-003178 | source: U03178 | role: main_text | format: prose -->
+[Not yet translated: U03177.]
+
+<!-- TGD-003178 -->
+
 འདིར་ནི་སློབ་དཔོན་རྒྱུད་ཚོད་མཐོ་ན་མྱུར་དུ་འདྲེན་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-003179 | source: U03179 | role: main_text | format: prose -->
+[Not yet translated: U03178.]
+
+<!-- TGD-003179 -->
+
 ཆོས་ལ་བརྟེན་པའི་བསྐུལ་བ་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-003180 | source: U03180 | role: main_text | format: prose -->
+[Not yet translated: U03179.]
+
+<!-- TGD-003180 -->
+
 དཔེར་ན་ཐུབ་དཀའ་གཞོན་ནུས་ཐར་པ་ནག་པོར།
 
-<!-- pair: TGD-003181 | source: U03181 | role: main_text | format: prose -->
+[Not yet translated: U03180.]
+
+<!-- TGD-003181 -->
+
 དེ་བཞིན་ཉིད་དེ་མ་བཅོས་ན། །
 
-<!-- pair: TGD-003182 | source: U03182 | role: main_text | format: prose -->
+[Not yet translated: U03181.]
+
+<!-- TGD-003182 -->
+
 ཆེན་པོ་བཞི་ལ་གནས་བཅས་ཀྱང་། །
 
-<!-- pair: TGD-003183 | source: U03183 | role: main_text | format: prose -->
+[Not yet translated: U03182.]
+
+<!-- TGD-003183 -->
+
 ནམ་མཁའ་ལ་ནི་སྤྲིན་བཞིན་དུ།
 
-<!-- pair: TGD-003184 | source: U03184 | role: main_text | format: prose -->
+[Not yet translated: U03183.]
+
+<!-- TGD-003184 -->
+
 ཞེས་སོགས་བསྟན་པ་སྒྲ་ཇི་བཞིན་དུ་བཟུང་ནས་
 
-<!-- pair: TGD-003185 | source: U03185 | role: main_text | format: prose -->
+[Not yet translated: U03184.]
+
+<!-- TGD-003185 -->
+
 ལས་མི་ཟད་པ་ལ་སྤྱད་པས་ངན་སོང་དུ་ལྟུང་བ་
 
-<!-- pair: TGD-003186 | source: U03186 | role: main_text | format: prose -->
+[Not yet translated: U03185.]
+
+<!-- TGD-003186 -->
+
 དད་འཕགས་འཇིགས་བྱེད་ཆེན་པོར་སྤྲུལ་ནས་དྲང་བ་བཞིན་ནོ།
 
-<!-- pair: TGD-003187 | source: U03187 | role: main_text | format: prose -->
+[Not yet translated: U03186.]
+
+<!-- TGD-003187 -->
+
 ལྷན༽༽ སྔགས་ཀྱི་རྩ་ལྟུང་སློབ་མས་སློབ་དཔོན་ལ་བརྙས་ན་
 
-<!-- pair: TGD-003188 | source: U03188 | role: main_text | format: prose -->
+[Not yet translated: U03187.]
+
+<!-- TGD-003188 -->
+
 ལྟུང་བ་དང་པོ་འཕོག་པས་
 
-<!-- pair: TGD-003189 | source: U03189 | role: main_text | format: prose -->
+[Not yet translated: U03188.]
+
+<!-- TGD-003189 -->
+
 སློབ་མའི་དམ་ཚིག་ཤིན་ཏུ་གཉེན་ལ་
 
-<!-- pair: TGD-003190 | source: U03190 | role: main_text | format: prose -->
+[Not yet translated: U03189.]
+
+<!-- TGD-003190 -->
+
 སློབ་དཔོན་གྱིས་ནི་སློབ་མར་དེ་ལྟར་མི་གཉེན་ཟེར།
 
-<!-- pair: TGD-003191 | source: U03191 | role: main_text | format: prose -->
+[Not yet translated: U03190.]
+
+<!-- TGD-003191 -->
+
 འདིར་ནི་དཔོན་སློབ་གཉིས་ཀ་ཕན་ཚུན་དམ་ཚིག་གཉེན་མི་གཉེན་མཉམ་པ་ལ་གཅིག་ཡིན་ཏེ།
 
-<!-- pair: TGD-003192 | source: U03192 | role: main_text | format: prose -->
+[Not yet translated: U03191.]
+
+<!-- TGD-003192 -->
+
 སློབ་དཔོན་གྱིས་སློབ་མར་བརྙས་ན་རྩ་ལྟུང་བཅུ་གཉིས་པ་ཡིན་པའི་ཕྱིར་དང་
 
-<!-- pair: TGD-003193 | source: U03193 | role: main_text | format: prose -->
+[Not yet translated: U03192.]
+
+<!-- TGD-003193 -->
+
 ས།ཉེས་པ་བྱས་ན་བླ་མ་ཡིན་ཀྱང་འབྲས་བུ་འབྱུང་བ་རྟེན་འབྲེལ་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-003194 | source: U03194 | role: main_text | format: prose -->
+[Not yet translated: U03193.]
+
+<!-- TGD-003194 -->
+
 དཔེར་མས་བུ་བསད་པ་དང༌།
 
-<!-- pair: TGD-003195 | source: U03195 | role: main_text | format: prose -->
+[Not yet translated: U03194.]
+
+<!-- TGD-003195 -->
+
 བུས་མ་བསད་པ་གཉིས་ཀ་གང་ཡིན་ཡང་དམྱལ་བར་ལྟུང་བ་བཞིན་ནོ།
 
-<!-- pair: TGD-003196 | source: U03196 | role: main_text | format: prose -->
+[Not yet translated: U03195.]
+
+<!-- TGD-003196 -->
+
 གསང་སྔགས་གནད་བསྡུས་ཏེ་རྡོ་རྗེའི་ཚིག་རྐང་ཉེར་བརྒྱད་ལྷན་ཐབས་ཚིག་རྐང་བཅུ་བདུན་བཅས་ཀྱི་འགྲེལ་བཤད་བྱེད་པའི་སྐབས་ཏེ་ལྔ་པའོ།
 
-<!-- pair: TGD-003197 | source: U03197 U03198 U03199 U03200 U03201 U03202 U03203 U03204 U03205 | role: main_text | format: prose -->
+[Not yet translated: U03196.]
+
+<!-- TGD-003197 -->
+
 རྡོ༽༽ འགའ་ཞིག་ཆོས་རྒྱུད་པ་མེད་པའི་ཉམས་མྱོང་དང༌།
 རྡོལ་ཆོས་དཔེ་དཀར་བུ་བཞི་དང།
 ཤིང་ཆོས་གསོ་སྦྱོང་ཡན་ལག་བརྒྱད་པ།
@@ -7521,7 +14122,10 @@ language: bo
 འདིར་ནི་དམ་པའི་ཆོས་གང་ཞིག་བརྒྱུད་པ་ནས་བརྒྱུད་པར་འབྲེལ་པ་
 དེ་ཟབ་པར་བཞེད་དེ་
 
-<!-- pair: TGD-003206 | source: U03206 U03207 U03208 U03209 U03210 U03211 | role: main_text | format: prose -->
+Vajra statement. Some regard as profound experiential acquaintance without a Dharma lineage, the spontaneously disclosed teachings called the Four White Booklets, the tree teachings of the eightfold restoration and purification, the sky teachings of the eighteen tantra divisions, and so forth. Yet even if their words and meanings are good, they yield no result without a lineage of lamas. Here, it is the holy Dharma connected through lineage after lineage that is held to be profound.[^N-C-001]
+
+<!-- TGD-003206 -->
+
 དེའང་ཆོས་ཐམས་ཅད་ལུང་དང་བཅས་པ།
 ལུང་མན་ངག་དང་བཅས་པ་དགོས་པས་
 བརྒྱུད་པའི་བླ་མ་ལ་མ་བརྟེན་ན་
@@ -7529,21 +14133,35 @@ language: bo
 དཔེར་ན་སངས་རྒྱས་བཞིན་ནོ།
 མདོ་ལས་ཀྱང༌།
 
-<!-- pair: TGD-003212 | source: U03212 U03213 | role: main_text | format: verse -->
+Moreover, every Dharma teaching needs a scriptural transmission, and the transmission needs pith instructions. Without relying on a lineage lama, one does not know these oneself; the Buddha serves as an example. A sūtra also says:
+
+<!-- TGD-003212 -->
+
 སངས་རྒྱས་ཆོས་རྣམས་དགེ་བའི་བཤེས་ལ་བརྟེན་ཏོ་ཞེས། །
 ཡོན་ཏན་ཀུན་གྱི་མཆོག་མངའ་རྒྱལ་བས་དེ་སྐད་གསུངས།
 
-<!-- pair: TGD-003214 | source: U03214 U03215 U03216 U03217 | role: main_text | format: prose -->
+“The qualities of buddhahood depend on a spiritual friend.”
+So said the Victorious One, supreme in every quality.
+
+<!-- TGD-003214 -->
+
 ཞེས་སོགས་གསུངས་ན་སྔགས་སུ་རྒྱུད་དཀྲུག་པ།
 ལུང་བཅུས།
 མན་ངག་གབ་པའི་ཕྱིར་ལྟ་སྨྲོས་ཀྱང་ཅི་དགོས་
 དེ་ལྟར་ཡང་སཾ་བྷུ་ཊི་ལས།
 
-<!-- pair: TGD-003218 | source: U03218 U03219 | role: main_text | format: verse -->
+If that is said there, how much more is it necessary in mantra, where the tantras are deliberately disordered, the transmissions twisted, and the pith instructions concealed. Likewise, the Saṃpuṭa says:[^N-C-002]
+
+<!-- TGD-003218 -->
+
 ཡོན་ཏན་ཐམས་ཅད་རབ་རྫོགས་ཀྱང༌།
 བླ་མ་མེད་ན་སྲིད་མཐར་མིན།
 
-<!-- pair: TGD-003220 | source: U03220 U03221 U03222 U03223 U03224 U03225 | role: main_text | format: prose -->
+Even with every good quality fully perfected,
+Without a lama one does not reach the end of existence.
+
+<!-- TGD-003220 -->
+
 ཅེས་པས་སངས་རྒྱས་ནས་བརྒྱུད་པའི་ཆོས་ཟབ་ཅིང་ངོ་མཚར་བ་ཡིན་ལ།
 དེའང་མཚན་ཉིད་ལྡན་པའི་བླ་མར་རག་ལས་པ་ཡིན་ནོ། །
 བླ་མ་མ་བརྟེན་པར་རྡོལ་ཆོས་སོགས་ཀྱིས་སྒོམ་སྐྱེས་ཀྱང་
@@ -7551,7 +14169,10 @@ language: bo
 འཁོར་བ་ལས་ཀྱང་མི་འདའ་ན་
 ཐམས་ཅད་མཁྱེན་པ་ལྟ་ཅི་སྨོས།
 
-<!-- pair: TGD-003226 | source: U03226 U03227 U03228 U03229 U03230 U03231 U03232 | role: main_text | format: prose -->
+Thus the Dharma transmitted from the Buddha is profound and wondrous, and it depends on a qualified lama. Even if cultivation arises through spontaneously disclosed teachings and the like without reliance on a lama, it will mostly be nothing but worldly deep absorption. If it does not even transcend saṃsāra, what need is there to speak of omniscience?
+
+<!-- TGD-003226 -->
+
 དེས་ན་རྣམ་པར་དག་པའི་བརྒྱུད་པ་
 དེ་འདྲ་བ་ནི་བཀའ་བརྒྱུད་རིན་པོ་ཆེ་འདི་ཡིན་ཏེ།
 དེའང་ལྟ་བ་རྣམ་པར་དག་པ་སངས་རྒྱས་དང་ཀླུ་གྲུབ་ནས་བརྒྱུད་པའི་དབུ་མ།
@@ -7560,26 +14181,38 @@ language: bo
 བླ་མ་དྭགས་པོ་ལྷ་རྗེ་ཕག་གྲུ་ཆོས་རྗེ་འབྲི་གུང་པ་ནས་
 ད་བར་ཆོས་བརྒྱུད་རྣམ་པར་དག་པ།
 
-<!-- pair: TGD-003233 | source: U03233 U03234 U03235 | role: main_text | format: prose -->
+Such a completely pure lineage is this precious Kagyü. Its completely pure view is Madhyamaka, transmitted from the Buddha and Nāgārjuna; its pure activity is the perfections, transmitted from the Buddha and Asaṅga. The lineage in which these two rivers merge has remained a completely pure Dharma lineage from Lord Atiśa, Lama Dakpo Lhajé, Phakdru Chöjé, and Drigungpa down to the present.
+
+<!-- TGD-003233 -->
+
 སྔགས་ཀྱི་ལྟ་སྤྱོད་སྒོམ་གསུམ་དབྱེར་མེད་རྣམ་དག་རྡོ་རྗེ་འཆང་ཏེ་
 ལོ་ནས་བརྒྱུད་པའི་ཟབ་ལམ་ཕྱག་རྒྱ་ཆེན་པོ་སྟེ་
 བརྒྱུད་པ་དེ་ལྟར་རྣམ་པར་དག་པ་ཡིན་པས་ཟབ་བོ།
 
-<!-- pair: TGD-003236 | source: U03236 U03237 U03238 U03239 U03240 | role: main_text | format: prose -->
+The completely pure, inseparable view, activity, and cultivation of mantra constitute the profound path of Mahamudra transmitted from Vajradhara and Tilo. Because the lineage is completely pure in this way, it is profound.[^N-C-003]
+
+<!-- TGD-003236 -->
+
 རྡོ༽༽སྣང་བ་སྣ་ཚོགས་སུ་སྣང་བ་ཐམས་ཅད་ཕྱི་དོན་དུ་སྒྲུབ་པས་
 བློ་དང་མ་འབྲེལ་བར་བྱེ་སྨྲ་སོགས་འདོད་པ་ཡོད་ཀྱང་
 འདིར་ནི་ཁམས་གསུམ་འཁོར་བ་དང་མྱང་འདས་གསུམ་གྱི་ཆོས་མ་ལུས་པ་
 ཀུན་གྱི་བཟང་ངན་སྣང་བ་ནི་རང་གི་སེམས་ཡིན་ཏེ།
 སྣང་མི་སྣང་དུ་འཛིན་པ་རང་གི་སེམས་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-003241 | source: U03241 U03242 U03243 U03244 U03245 | role: main_text | format: prose -->
+Vajra statement. Vaibhāṣikas and others maintain that all the various appearances are established as external objects and are unconnected with the conceptual mind. Here, however, all good and bad appearances of every phenomenon whatsoever in the three realms of saṃsāra and the three nirvāṇas are one’s own ordinary mind, because it is one’s own ordinary mind that apprehends appearing and not appearing.[^N-C-004]
+
+<!-- TGD-003241 -->
+
 འོ་ན་སྣང་ཡུལ་ཡོད་པས་སེམས་ཡིན་ནམ་མེད་པས་ཡིན།
 དང་པོ་ལྟར་ན་ཡུལ་ལྟར་ཡོད་པ་བཞིན་
 སེམས་ཀྱང་དེར་ཐལ་བའམ་
 སེམས་བཞིན་དུ་ཡུལ་ཀྱང་མཐོང་ཆོས་སུ་མི་རུང་བར་འགྱུར་རོ། །
 གཉིས་པ་ལྟར་ནའང་དོན་ཡོད་པ་ལྟར་འགྱུར་རོ་སྙམ་ན་
 
-<!-- pair: TGD-003246 | source: U03246 U03247 U03248 U03249 U03250 U03251 | role: main_text | format: prose -->
+One might object: “Is this ordinary mind because appearing objects exist, or because they do not? In the first case, ordinary mind too would have to exist as the objects do; alternatively, like ordinary mind, the objects could not be visible phenomena. In the second case too, it would turn out as though an object existed.”[^N-C-005]
+
+<!-- TGD-003246 -->
+
 སྣང་བ་ཕྱི་དོན་དུ་གྲུབ་པ་མེད་པས་ཡིན་ཀྱང་
 བག་ཆགས་འཁྲུལ་བ་རྨི་ལམ་གྱི་སྣང་བ་ལྟར་
 ཕྱི་ནང་གང་ཡང་མ་ཡིན་
@@ -7587,75 +14220,130 @@ language: bo
 རང་བཞིན་མེད་པར་སྨྲ་བས་སྐྱོན་དེ་དག་མེད་དོ། །
 དེ་ལྟར་ཡང་སློབ་དཔོན་འཕགས་པས་རྡོ་རྗེའི་བསྟོད་པ་ལས།
 
-<!-- pair: TGD-003252 | source: U03252 U03253 U03254 U03255 | role: main_text | format: verse -->
+The answer is that appearances are not established as external objects. Like dream appearances, they are delusion through habitual tendencies: neither external nor internal, established nowhere at all. Since they are said to lack intrinsic nature, those faults do not apply. Thus the noble master says in the Vajra Praise:
+
+<!-- TGD-003252 -->
+
 སེམས་རྟོགས་པས་ནི་བྱང་ཆུབ་སྟེ།
 སེམས་ནི་འགྲོ་བ་ལྔ་པོ་ཡིན། །
 བདེ་དང་སྡུག་བསྔལ་མཚན་ཉིད་དག །
 སེམས་ལས་མ་གཏོགས་ཅུང་ཟད་མེད།
 
-<!-- pair: TGD-003256 | source: U03256 U03257 | role: main_text | format: prose -->
+Through realizing ordinary mind there is awakening;
+Ordinary mind is the five kinds of wandering beings.
+The characteristics of happiness and suffering—
+There is not the slightest thing apart from ordinary mind.
+
+<!-- TGD-003256 -->
+
 ཅེས་དང་།
 གུར་ལས།
 
-<!-- pair: TGD-003258 | source: U03258 U03259 U03260 U03261 | role: main_text | format: verse -->
+And the Pavilion says:
+
+<!-- TGD-003258 -->
+
 ཡུལ་དང་དབང་པོའི་བྱེ་བྲག་རྣམས། །
 རྣམ་པ་ཐ་དད་མ་མཆིས་ཏེ༑
 གཟུགས་སོགས་སྣང་བར་གྱུར་པ་ནི།
 རང་སེམས་སྣང་བ་ཁོ་ནའོ། །
 
-<!-- pair: TGD-003262 | source: U03262 U03263 U03264 U03265 U03266 | role: main_text | format: prose -->
+The distinctions of objects and faculties
+Are not different aspects.
+What appears as form and so forth
+Is solely the appearance of one’s own ordinary mind.
+
+<!-- TGD-003262 -->
+
 ཞེས་པས་
 སྣང་བའི་ཡུལ་ལུས་སེམས་གསུམ་
 སེམས་ལས་གཞན་དུ་མ་དམིགས་ཤིང༌།
 དེས་བསྒྲུབས་པའི་དགེ་སྡིག་གི་འབྲས་བུ་ཡང་སེམས་ལ་སྣང་བ་ཡིན་ནོ། །
 དེ་ལྟར་སློབ་དཔོན་ཟླ་བས།
 
-<!-- pair: TGD-003267 | source: U03267 U03268 U03269 U03270 | role: main_text | format: verse -->
+Accordingly, the three—appearing objects, body, and ordinary mind—are not found apart from ordinary mind. The results of the virtue and wrongdoing accomplished through them likewise appear to ordinary mind. Thus Master Candra says:
+
+<!-- TGD-003267 -->
+
 སེམས་ཉིད་ཀྱིས་ནི་སེམས་ཅན་འཇིག་རྟེན་དང༌།
 སྣོད་ཀྱི་འཇིག་རྟེན་ཤིན་ཏུ་སྣ་ཚོགས་འགོད། །
 འགྲོ་བ་མ་ལུས་ལས་ལས་སྐྱེས་པར་གསུངས། །
 སེམས་སྤང་ནས་ནི་ལས་ཀྱང་ཡོད་མ་ཡིན།
 
-<!-- pair: TGD-003271 | source: U03271 U03272 U03273 U03274 | role: main_text | format: verse -->
+Ordinary mind itself lays out the world of beings
+And the world that contains them in immense variety.
+All wandering beings are said to arise from karma;
+Apart from ordinary mind, karma too does not exist.
+
+<!-- TGD-003271 -->
+
 གལ་ཏེ་གཟུགས་ཡོད་མོད་ཀྱི་དེ་ལ་ནི། །
 སེམས་བཞིན་བྱེད་པ་པོ་ཉིད་ཡོད་མ་ཡིན། །
 དེས་ནི་སེམས་ལས་གཞན་པའི་བྱེད་པ་པོ། །
 བཟློག་པའི་གཟུགས་ནི་བཀག་པ་མ་ཡིན་ནོ། །
 
-<!-- pair: TGD-003275 | source: U03275 | role: main_text | format: prose -->
+Although form exists,
+It has no agency as ordinary mind does.
+Thus an agent other than ordinary mind
+Is rejected; form is not denied.
+
+<!-- TGD-003275 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-003276 | source: U03276 U03277 | role: main_text | format: prose -->
+So it is said.
+
+<!-- TGD-003276 -->
+
 རྡོ༽༽ད་ལྟའི་བདེ་སྡུག་སྔོན་གྱི་དགེ་སྡིག་གི་འབྲས་བུ་སྨིན་པ་ཡིན་ཅིང་
 ད་ལྟ་གང་བསགས་པ་ཕྱི་མ་ལས་ད་ལྟ་འབྲས་བུ་མི་འབྱུང་ཟེར།
 
-<!-- pair: TGD-003278 | source: U03278 U03279 U03280 U03281 U03282 | role: main_text | format: prose -->
+Vajra statement. Some say that present happiness and suffering are the ripened results of past virtue and wrongdoing, while whatever is accumulated now produces results in the future, not now.
+
+<!-- TGD-003278 -->
+
 འདིར་ནི་རྒྱུ་དགེ་སྡིག་གི་ལས་ལ་འབྲས་བུ་བདེ་སྡུག་མྱོང་བའི་སྣང་བ་ཐམས་ཅད་
 ཀུན་གཞི་ལ་འཁྲུལ་བའི་བག་ཆགས་བཞག་པ་
 དེ་སྐད་ཅིག་གི་བསམ་པ་དེའི་རང་གི་སྣང།
 གཟུགས་ཡིན་པས་འཁྲུལ་སྣང་སྟེ་བག་ཆགས་མ་ཟད་རིང་ལ་སྟོང་མི་སྲིད་པ་
 མཁྲིས་ནད་མ་འབྱང་བར་དུ་དུང་ལ་སེར་འཛིན་མི་ལྡོག་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-003283 | source: U03283 | role: main_text | format: prose -->
+Here, all appearances of experiencing happiness and suffering as results of virtuous and wrongful karma are habitual tendencies of delusion deposited in the all-basis. They are the appearing form of that momentary intention itself, and therefore delusory appearance. As long as habitual tendencies are not exhausted, these appearances cannot cease: until the bile disorder has been cleared, apprehending a conch as yellow does not stop.[^N-C-006]
+
+<!-- TGD-003283 -->
+
 དེ་ལྟར་ཡང་མདོ་དྲན་ཉེར་ལས།
 
-<!-- pair: TGD-003284 | source: U03284 U03285 | role: main_text | format: verse -->
+Likewise, the Sūtra of the Applications of Mindfulness says:
+
+<!-- TGD-003284 -->
+
 འཇིག་རྟེན་དག་ན་ཇི་ལྟར་སྣང་བ་ཀུན། །
 ཐམས་ཅད་རང་གི་ལས༌ལ༌ཉེ་བར་བྱུང༌།
 
-<!-- pair: TGD-003286 | source: U03286 U03287 U03288 U03289 U03290 | role: main_text | format: prose -->
+Everything that appears in any way in the worlds
+Arises entirely in dependence on one’s own karma.
+
+<!-- TGD-003286 -->
+
 ཞེས་སོ།
 དེའང་འདུས་བྱས་སྐད་ཅིག་མ་ཡིན་པ་ནི།
 རྒྱུ་རྐྱེན་གྱི་ཆོས་རྣམས་ཆོས་ཅན་སྐད་ཅིག་མ་ཡིན་ཏེ།
 རྒྱུན་གྱི་འཇུག་པའི་ཕྱིར།
 དཔེར་ན་ཕྲེང་བ་རེ་རེ་བ་མེད་པའི་བརྒྱ་མི་འབྱུང་བ་བཞིན་ནོ། །
 
-<!-- pair: TGD-003291 | source: U03291 U03292 U03293 | role: main_text | format: prose -->
+So it is said. Furthermore, conditioned things being momentary means that phenomena of causes and conditions are momentary bearers of qualities, because they proceed in a succession. For example, there cannot be a hundred beads without the individual beads.[^N-C-007]
+
+<!-- TGD-003291 -->
+
 སྣང་གཟུགས་ནི་ཕྱག་རྒྱ་ཆེན་པོའི་ཆོས་ཉིད་འདི་བསམ་པའི་རང་གཟུགས་ཡིན་ལ་
 ཆོས་ཅན་བསམ་པའི་རང་གཟུགས་ལ་ནི་གསུམ་སྟེ།
 ད་ལྟའི་བསམ་པའི་རང་གཟུགས་དང་ཚེ་འཕོས་པ་དང༌། ཚེ་འཕོས་ཀྱང་ལུས་འགྱུར་པའི་བསམ་པ་སྐད་ཅིག་མའི་རང་གཟུགས་སོ། །
 
-<!-- pair: TGD-003294 | source: U03294 U03295 U03296 U03297 U03298 U03299 | role: main_text | format: prose -->
+As for appearing form, this nature of phenomena of Mahamudra is the own-form of intention. The own-form of intention at the level of phenomena is threefold: the present own-form of intention, [its form] on passing to another life, and the momentary own-form of intention when the body changes even after passing to another life.[^N-C-008]
+
+<!-- TGD-003294 -->
+
 དང་པོ་ནི་
 དེའང་རང་རྒྱུད་ལ་དགེ་མི་དགེའི་རྣམ་རྟོག་གང་སྐྱེས་པའི་འབྲས་བུའམ་ས་བོན་
 དེ་དང་རིགས་མཐུན་པ་ཞིག་རྟོག་པ་
@@ -7663,32 +14351,50 @@ language: bo
 བྱམས་སོགས་ཀྱི་བདེ་ལྡན་གྱིས་འགྲོ་བ་ལྟ་བུ་སྟེ་
 བྲམ་ཟེ་ཏོ་རྒྱའི་ནེ་ཚོའི་ཁྱི་དཀར་པོ་དུང་ལྟ་བུའི་གཏམ་རྒྱུད་བཞིན་ནོ། །
 
-<!-- pair: TGD-003300 | source: U03300 U03301 U03302 | role: main_text | format: prose -->
+First, the result or seed of whatever virtuous or nonvirtuous differentiating conceptualization arises in one’s continuum is established as the own-form of a corresponding conceptual thought. Examples are becoming red with anger and going about happily through love and so forth, as in the account of the brahmin Torya’s conch-white dog at Nétso.[^N-C-009]
+
+<!-- TGD-003300 -->
+
 གཉིས་པ་ནི་སྔར་དགེ་རྩ་དཔག་མེད་བསྒྲུབ་ཀྱང་
 འཆི་ཁར་མི་དགེ་བས་མཚམས་སྦྱར་ན་སོང་དུ་སྐྱེ་བ་ཆོས་རྒྱལ་མྱ་ངན་མེད་པ་དང་།
 དགེ་བས་མཚམས་སྦྱར་ན་འཕགས་རྒྱལ་གྱི་རྔོན་པ་ལྟ་བུ་བཞིན་ནོ། །
 
-<!-- pair: TGD-003303 | source: U03303 U03304 U03305 U03306 U03307 | role: main_text | format: prose -->
+Second, even if one previously accomplished immeasurable roots of virtue, a connection with nonvirtue at death leads to birth in a bad destiny, as with Dharma King Aśoka. A connection with virtue is like the case of the hunter of Ujjayinī.[^N-C-010]
+
+<!-- TGD-003303 -->
+
 གསུམ་པ་ནི།
 ལུས་འགྱུར་བ་དགེ་ཚུལ་ཀླུར་གྱུར་པའི་གླེང་གཞི་བཞིན་ནོ། །
 དེ་ལྟར་སེམས་དང་། ལས་དང་།
 ལས་ཀྱི་འབྲས་བུས་རྟེན་འབྲེལ་ལས་འབྱུང་བ་ནི་
 མོ་མཁན་དང་འདྲ་བའི་སེམས་ལ་སྣང་བའི་གཟུགས་ཡིན་ནོ། །
 
-<!-- pair: TGD-003308 | source: U03308 U03309 U03310 U03311 U03312 | role: main_text | format: prose -->
+Third, bodily transformation is illustrated by the account of the novice who became a nāga. Thus ordinary mind, karma, and karmic results arise dependently: they are forms appearing to ordinary mind, which is like a diviner.[^N-C-011]
+
+<!-- TGD-003308 -->
+
 འདི་གོ་ན་མཐོང་ཆོས་སྐད་ཅིག་ཏུ་འབྱུང་བ་ལ་མཁས་པ་དང༌།
 སྐད་ཅིག་ལ་དགེ་མི་དགེའི་བསམ་པ་མི་རྟག་པར་ཤེས་པ་དང༌།
 ལུས་མི་རྟག་པར་འགྱུར་བ་ཤེས་པས་
 སྐྱོན་སྤོང་ཡོན་ཏན་བསྒྲུབ་པ་ལ་ཚེགས་མེད་པར་འོང་བ་ཡིན་ཏེ།
 ཕར་ཕྱིན་མངོན་རྟོགས་རྒྱན་ལས།
 
-<!-- pair: TGD-003313 | source: U03313 U03314 U03315 U03316 | role: main_text | format: verse -->
+Understanding this brings skill in how things arise moment by moment in this very life. Knowing that virtuous and nonvirtuous intentions are impermanent at each moment and that the body changes impermanently, one comes to abandon faults and accomplish qualities without difficulty. The Adornment of Clear Realization of the perfections says:
+
+<!-- TGD-003313 -->
+
 ཇི་ལྟར་སྐྱེས་པའི་ཟོ་ཆུན་རྒྱུད།
 རྡོག་ཐབས་གཅིག་གིས་བསྐྱེད་པ་ན། །
 ཐམས་ཅད་གཅིག་ཅར་འགུལ་བ་ལྟར།
 སྐད་ཅིག་ཡེ་ཤེས་དེ་བཞིན་ནོ། ༑
 
-<!-- pair: TGD-003317 | source: U03317 U03318 U03319 U03320 U03321 U03322 | role: main_text | format: prose -->
+Just as a connected series of water-wheel buckets,
+When set in motion by a single tread,
+All vibrate at once,
+So too is momentary primordial knowing.
+
+<!-- TGD-003317 -->
+
 ཞེས་སོ།
 རྗེ་འཇིག་རྟེན་མགོན་པོས།
 རྗེ་ཕག་མོ་གྲུ་པའི་སྣང་བ་
@@ -7696,13 +14402,19 @@ language: bo
 ང་འབུས་བསམ་པའི་རང་གཟུགས་འདི་རྙེད་པ་ཡིན་གསུངས།
 དེའི་ཕྱིར་ན་རྡོ་རྗེའི་གསུངས་འདིས་སྣང་བ་རང་རང་སེམས་གསལ་པོར་བསྟན་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-003323 | source: U03323 U03324 U03325 U03326 | role: main_text | format: prose -->
+So it is said. Lord Jikten Gönpo said, “Within my own ordinary mind’s appearance of Lord Phakmo Drupa, I, a mere worm, discovered this own-form of intention.” Thus this vajra utterance clearly teaches that appearances are each one’s own ordinary mind.[^N-C-012]
+
+<!-- TGD-003323 -->
+
 རྡོ༽༽ གཤིས་ལ་མི་གནས་ཀྱང་བལྟས་པས་འགྱུར་ཏེ།
 གཤིས་མ་གྲུབ་པ་དང་
 འཁྲུལ་སྣང་ཡིན་པ་དང་
 རང་བཞིན་མ་ངེས་པའི་ཕྱིར་ཞེས་ཟེར་རོ།
 
-<!-- pair: TGD-003327 | source: U03327 U03328 U03329 U03330 U03331 U03332 U03333 U03334 | role: main_text | format: prose -->
+Vajra statement. Some say, “Although it does not abide in the actual condition, it changes through viewing it, because the actual condition is not established, it is delusory appearance, and its intrinsic nature is not fixed.”[^N-C-013]
+
+<!-- TGD-003327 -->
+
 འདིར་རྒྱུ་འབྲས་ཀྱི་གཤིས༌ལ་རྟེན་འབྲེལ་ལ་མི་གནས་ན་
 བལྟས་པས་འགྱུར་མི་སྲིད་དེ་
 གནས་དང་གནས་མིན་མཁྱེན་པའི་ཡེ་ཤེས་དང་འགལ་བའི་ཕྱིར་དང་།
@@ -7712,7 +14424,10 @@ language: bo
 དེར་འགྱུར་རིགས་ནའང་མངོན་སུམ་དང་འགལ་ཞིང་
 མི་འགྲུབ་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-003335 | source: U03335 U03336 U03337 U03338 U03339 U03340 U03341 U03342 U03343 | role: main_text | format: prose -->
+Here, if something did not abide in the actual condition of cause and result—in dependent arising—it could not change through viewing it. That would contradict primordial knowing of what is possible and impossible, contradict the actual condition of causal dependent arising, and fail to be established by Dharmakīrti’s valid cognition. If it did change in that way, viewing suffering as happiness ought to turn it into happiness. But that contradicts direct perception and is not established.
+
+<!-- TGD-003335 -->
+
 རྫུ་འཕྲུལ་ཏིང་འཛིན་གྱི་སྟོབས་ལས་
 སྐུ་སྟོད་ལས་མེ་འབར་བ་སོགས་དང་
 ནམ་མཁའ་དངོས་པོར་སྒྲུབ་པ་སོགས་ནི་
@@ -7723,139 +14438,248 @@ language: bo
 གཞན་དུ་བལྟས་པས་འགྱུར་ན་
 སྤང་བླང་ལ་ལྟོས་མི་དགོས་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-003344 | source: U03344 U03345 | role: main_text | format: prose -->
+Fire blazing from the upper part of an embodiment through the power of miraculous deep absorption, establishing space as a substantial thing, and the like do occur through their causes: abandoning sense pleasures and accomplishing meditative stability. Their occurrence abides in the actual condition; they are attained by accomplishing the causes. If they could instead change merely through viewing them differently, there would be no need to depend on rejecting and accepting.
+
+<!-- TGD-003344 -->
+
 རྡོ༽༽ མཚན་ཉིད་མི་ལྡན་པའི་བླ་མས་ཀྱང་ཡོན་ཏན་སྐྱེ་ནུས་ཏེ་
 ཀུན་དགའ་བོ་རྒྱུན་ཞུགས་ལ་སློབ་པས་དགྲ་བཅོམ་པ་བྱུང་བ་བཞིན་ནོ་ཞེས་ཟེར་རོ།
 
-<!-- pair: TGD-003346 | source: U03346 U03347 U03348 U03349 U03350 | role: main_text | format: prose -->
+Vajra statement. Some say, “Even an unqualified lama can produce qualities, just as arhats arose through learning from Ānanda when he was a stream-enterer.”
+
+<!-- TGD-003346 -->
+
 འདིར་ནི་མཚན་ཉིད་དང་མི་ལྡན་པའི་བླ་མས་ཡོན་ཏན་སྐྱེད་མི་ནུས་ཏེ་
 རང་ཉིད་མ་སྨིན་པར་གཞན་སྨིན་མི་ནུས་པའི་ཕྱིར།
 དཔེར་ན་འཕོང་མི་ཤེས་པའི་སློབ་དཔོན་གྱིས་གཞན་ལ་དེ་སྟོན་མི་ཤེས་པ་བཞིན་ནོ། །
 དེ་ལྟར་ཡང༌།
 ཆེད་དུ་བརྗོད་པར།
 
-<!-- pair: TGD-003351 | source: U03351 U03352 U03353 U03354 | role: main_text | format: verse -->
+Here, an unqualified lama cannot produce qualities, because someone who has not matured cannot mature others. It is like a teacher who does not know archery and therefore cannot teach it to others. Likewise, the Udānavarga says:
+
+<!-- TGD-003351 -->
+
 དམན་པ་བརྟེན་པས་མི་དག་རྣམ་པར་འགྱུར།
 ཐད་ཀར་བབས་པ་བརྟེན་པས་སོ་ན་གནས། །
 གཙོ་བོ་བརྟེན་པས་དམ་པ་ཐོབ་པར་འགྱུར། །
 དེ་ཕྱིར་བདག་པས་གཙོ་གྱུར་བརྟེན་པར་བྱ།ཞེས་དང་།
 
-<!-- pair: TGD-003355 | source: U03355 U03356 U03357 | role: main_text | format: verse -->
+Relying on an inferior, people are changed [for the worse];
+Relying on an equal, they remain where they are.
+Relying on a superior, they attain excellence.
+Therefore rely on someone superior to yourself.[^N-C-014]
+
+<!-- TGD-003355 -->
+
 སྡུད་པར།སློབ་མ་བཟང་པོ་བླ་མར་གུས་ལྡན་དེ་དག་གིས། །
 བླ་མ་མཁས་པ་རྣམས་ལ་རྟག་ཏུ་བརྟེན་པར་བྱ། །
 ཅི་ཕྱིར་ཞེ་ན་མཁས་པའི་ཡོན་ཏན་དེ་ལས་འབྱུང༌། །
 
-<!-- pair: TGD-003358 | source: U03358 | role: main_text | format: prose -->
+The Condensed [Perfection] says:
+Good disciples who respect their lamas
+Should always rely on learned lamas.
+Why? The qualities of the learned arise from them.
+
+<!-- TGD-003358 -->
+
 དེ་ལྟའི་མཚན་ཉིད་ཕར་ཕྱིན་ཐེག་པར།
 
-<!-- pair: TGD-003359 | source: U03359 U03360 U03361 U03362 | role: main_text | format: verse -->
+Such qualifications are described in the vehicle of the perfections:
+
+<!-- TGD-003359 -->
+
 བཤེས་གཉེན་དུལ་བ་ཞི་བ་ཉེར་ཞི་བ། །
 ཡོན་ཏན་ལྷག་པར་བརྩོན་བྱ་ལུང་གིས་ཕྱུག །
 དེ་ཉིད་རབ་ཏུ་རྟོགས་ལ་སྨྲ་མཁས་ལྡན། །
 བརྩེ་བའི་བདག་ཉིད་སྐྱོ་ངལ་སྤང་ལ་བརྟེན། །
 
-<!-- pair: TGD-003363 | source: U03363 U03364 U03365 | role: main_text | format: verse -->
+Rely on a spiritual friend who is disciplined, peaceful, thoroughly peaceful,
+Superior in qualities, diligent, and rich in scripture,
+Who has fully realized reality and is skilled in speech,
+Whose character is loving and who has abandoned weariness.
+
+<!-- TGD-003363 -->
+
 རྟག་པར་དགེ་བའི་བཤེས་གཉེན་ནི། །
 ཐེག་ཆེན་དོན་ལ་མཁས་པ་དང༌། །
 བྱང་ཆུབ་སེམས་དཔའི་རྟུལ་ཞུགས་མཆོག །
 
-<!-- pair: TGD-003366 | source: U03366 U03367 U03368 | role: main_text | format: prose -->
+Always [rely on] a spiritual friend
+Skilled in the meaning of the Great Vehicle
+And supreme in bodhisattva discipline.
+
+<!-- TGD-003366 -->
+
 ཅེས་སོ། །
 སྔགས་བླ་མེད་ལས།དབང་བཞི་བསྐུར་བའི་བླ་མ་ནི།
 ཞེས་སོགས་དང༌།
 
-<!-- pair: TGD-003369 | source: U03369 U03370 | role: main_text | format: prose -->
+So it is said. Highest Mantra says, “The lama who confers the four empowerments…” and so forth.
+
+<!-- TGD-003369 -->
+
 དུས་འཁོར་ལས།
 སངས་རྒྱས་ཞལ་འདི་གང་གི་ཐུགས་དང་ཞལ་ལ་གནས་པར་གྱུར་པ་དེ་ནི་དཔལ་ལྡན་བླ་མའོ། །
 
-<!-- pair: TGD-003371 | source: U03371 U03372 U03373 U03374 | role: main_text | format: prose -->
+The Kālacakra says, “The one in whose heart and mouth this utterance of the Buddha abides is the glorious lama.”[^N-C-015]
+
+<!-- TGD-003371 -->
+
 ཞེས་པ་དེ་དག་དང་ལྡན་པ་ནི་
 བླ་མའི་མཆོག་ཡིན་པས་བརྟེན་པར་བྱ་ཞིང་༈
 དེ་ལས་གཞན་པ་དག་གི་ཁྱད་པར་བྱ་དགོས་ཏེ།
 དོན་དམ་བསྙེན་པ་ལས།
 
-<!-- pair: TGD-003375 | source: U03375 U03376 U03377 U03378 | role: main_text | format: verse -->
+Those who possess these qualities are supreme lamas and should be relied on. Others must be distinguished. The Ultimate Approach says:
+
+<!-- TGD-003375 -->
+
 རྩོད་ལྡན་དབང་གིས་བླ་མ་སྐྱོན་དང་ཡོན་ཏན་འདྲེན།
 རྣམ་པ་ཀུན་ཏུ་སྡིག་དང་བྲལ་བ་ཡོད་མ་ཡིན། །
 དེ་ཕྱིར་ཡོན་ཏན་ལྷག་པ་ཡང་ནི་དཔྱད་བྱས་ཏེ། །
 བུ་རྣམས་ཀྱིས་ནི་དེ་ལ་བརྟེན་པར་བྱ་བའོ། ༑
 
-<!-- pair: TGD-003379 | source: U03379 U03380 U03381 U03382 | role: main_text | format: prose -->
+Under the sway of the age of strife, lamas bear faults and qualities;
+There is none entirely free from wrongdoing.
+Therefore, having examined whether the qualities predominate,
+Sons should rely on such a one.[^N-C-016]
+
+<!-- TGD-003379 -->
+
 ཞེས་སོ། །
 ཡོན་ཏན་མེད་པས་གཞན་ཡོན་ཏན་ལ་འགོད་པའང་རང་ཉིད་ཀྱིས་མ་ཡིན་ཏེ།
 སངས་རྒྱས་ཀྱི་མཐུའི་ཕྱིར།
 ཕག་པ་སྡུད་པ་ལས།
 
-<!-- pair: TGD-003383 | source: U03383 U03384 U03385 U03386 | role: main_text | format: verse -->
+So it is said. If someone without qualities establishes others in qualities, that is not through their own power; it is through the Buddha’s power. The Noble Condensed [Perfection] says:
+
+<!-- TGD-003383 -->
+
 རྒྱལ་བའི་ཉན་ཐོས་པ་དག་ཇི་སྙེད་ཆོས་སྟོན་དང༌།
 འཆད་དང་རིགས་པ་དག་དང་ལྡན་པར་བརྗོད་པ་དང་། །
 མཆོག་འཕགས་བདེ་བ་བྱེད་དང་དེ་ཡི་འབྲས་ཐོབ་པ། །
 དེ་དག་ཀུན་ཀྱང་དེ་བཞིན་གཤེགས་པའི་སྐྱེས་བུའི་མཐུ། །
 
-<!-- pair: TGD-003387 | source: U03387 U03388 U03389 U03390 U03391 | role: main_text | format: verse -->
+Whatever Dharma the Victorious One’s hearers teach,
+Explain, or set forth with reasoning,
+Whatever supreme noble happiness they bring and whatever results they attain—
+All these are through the personal power of the Tathāgata.
+
+<!-- TGD-003387 -->
+
 ཅི་ཕྱིར་ཞེ་ན་
 རྒྱལ་བས་ཆོས་ཚུལ་གང་བསྟན་པ། །
 དེ་ལ་མི་མཆོག་སློབ་མར་གྱུར་པས་མངོན་བསླབས་ཤིང་། ༑
 མངོན་སུམ་བྱས་ནས་བསླབ་པ་ཇིབཞིན་སྟོན་བྱེད་དེ། །
 སངས་རྒྱས་མཐུས་བྱེད་རང་གི་སྟོབས་ཀྱི་མཐུས་མ་ཡིན།
 
-<!-- pair: TGD-003392 | source: U03392 | role: main_text | format: prose -->
+Why? Whatever way of Dharma the Victorious One has taught,
+Those who become disciples of the supreme person train thoroughly in it.
+Having actualized it, they teach just as they have trained.
+They do so through the Buddha’s power, not the power of their own strength.
+
+<!-- TGD-003392 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-003393 | source: U03393 U03394 | role: main_text | format: prose -->
+So it is said.
+
+<!-- TGD-003393 -->
+
 རྡོ༽༽ ལྷན་སྐྱེས་ཀྱི་ཡེ་ཤེས་ཐོས་བསམ་སྒོམ་གསུམ་གཏན་ཚིག་ལྔས་གཞིག་ན་
 རྟོགས་པར་འདོད་པ་དང་གཞན་ཡང་མ་ངེས་པའི་ཐབས་མང་ཟེར།
 
-<!-- pair: TGD-003395 | source: U03395 U03396 U03397 U03398 | role: main_text | format: prose -->
+Vajra statement. Some maintain that co-emergent primordial knowing is realized by examining it through hearing, reflection, cultivation, and the five logical reasons; they also speak of many other methods that are not certain.[^N-C-017]
+
+<!-- TGD-003395 -->
+
 འདིར་ནི་རྟོགས་པ་སྐྱེད་ཐབས་གཙོ་བོ་མེད་མི་རུང་བ་ནི་
 དྭངས་བའི་དད་པ་མོས་གུས་ཁོ་ནར་ངེས་ཏེ་
 དཀར་པོའི་ཆོས་ཐམས་ཅད་ཀྱི་རྟེན་ཡིན་པའི་ཕྱིར།
 དཀོན་བརྩེགས་ལས།
 
-<!-- pair: TGD-003399 | source: U03399 U03400 U03401 U03402 | role: main_text | format: verse -->
+Here, the principal, indispensable means for generating realization is definitely lucid faith and confident devotion alone, because these support all wholesome qualities. The Heap of Jewels says:
+
+<!-- TGD-003399 -->
+
 དད་པ་མེད་པའི་མི་རྣམས་ལ། །
 དཀར་པོའི་ཡོན་ཏན་མི་འབྱུང་སྟེ། །
 ས་བོན་མེ་ཡིས་ཚིགས་པ་ལས། ༑
 མྱུ་གུ་སྔོན་པོ་ཇི་བཞིན་ནོ། །
 
-<!-- pair: TGD-003403 | source: U03403 U03404 | role: main_text | format: prose -->
+In people without faith
+Wholesome qualities do not arise,
+Just as green shoots do not arise
+From seeds burned by fire.
+
+<!-- TGD-003403 -->
+
 ཞེས་དང༌།
 ཆོས་བཅུ་པའི་མདོ་ལས།
 
-<!-- pair: TGD-003405 | source: U03405 U03406 U03407 U03408 | role: main_text | format: verse -->
+And the Sūtra of the Ten Dharmas says:
+
+<!-- TGD-003405 -->
+
 གང་གི་འདྲེན་པ་ངེས་འབྱུང་བ། །
 དད་པ་ཐེག་པའི་མཆོག་ཡིན་ཏེ། །
 དེ་ཕྱིར་བློ་དང་ལྡན་པའི་མིས། །
 དད་པའི་རྗེས་སུ་འབྲང་བ་བརྟེན།
 
-<!-- pair: TGD-003409 | source: U03409 U03410 U03411 U03412 | role: main_text | format: prose -->
+Faith is the supreme vehicle
+Whose guidance leads to definite emergence.
+Therefore a person with conceptual intelligence
+Should rely on following faith.[^N-C-018]
+
+<!-- TGD-003409 -->
+
 ཅེས།
 ལམ་གྱི་ཆོས་ཐམས་ཅད་དྭངས་བའི་དད་པ་མོས་གུས་ལ་རག་ལས་ཤིང་
 མཐར་ཐུག་གི་དོན་ཡང་དེ་ལས་ཡིན་ཏེ།
 རྒྱུད་བླར།
 
-<!-- pair: TGD-003413 | source: U03413 U03414 U03415 U03416 | role: main_text | format: verse -->
+Thus all the qualities of the path depend on lucid faith and confident devotion; the ultimate meaning too comes from them. The Supreme Continuum says:
+
+<!-- TGD-003413 -->
+
 རང་བྱུང་ཉིད་ཀྱི་དོན་དམ་ནི༑ །
 དད་པ་ཉིད་ཀྱིས་རྟོགས་བྱ་ཡིན། །
 ཉི་མའི་དཀྱིལ་འཁོར་འོད་འབར་བ། །
 མིག་མེད་པ་ཡིས་མཐོང་བ་མེད། །
 
-<!-- pair: TGD-003417 | source: U03417 U03418 | role: main_text | format: prose -->
+The ultimate meaning of the self-arisen
+Is to be realized through faith itself.
+The blazing radiance of the sun’s disk
+Cannot be seen by one without eyes.
+
+<!-- TGD-003417 -->
+
 ཅེས་པས་ཆོས་སྐུར་འདུ་ཤེས་པས་མོས་གུས་སྐྱེས་ན།
 ཏིལླི་པས།
 
-<!-- pair: TGD-003419 | source: U03419 U03420 U03421 | role: main_text | format: verse -->
+Thus, if confident devotion arises through perceiving [the lama] as the Dharma embodiment, it is as Tilopa said:[^N-C-019]
+
+<!-- TGD-003419 -->
+
 མི་བརྗེད་གཟུངས་ཐོབ་ནཱ་རོ་པས། །
 བཅུ་གཉིས་བར་དུ་ང་མཉེས་བྱས། །
 ང་ཡི་རྟོགས་པ་ཁོ་ལ་ཡོད། །
 
-<!-- pair: TGD-003422 | source: U03422 U03423 U03424 U03425 | role: main_text | format: prose -->
+Nāropa, who attained the retention of never forgetting,
+Pleased me for twelve [years].
+He possesses my realization.[^N-C-020]
+
+<!-- TGD-003422 -->
+
 ཅེས་པ་ལྟར་འབྱུང་བ་ཡིན་ནོ། །
 དད་པ་མེད་ན་ཅིར་འགྱུར་སྙམ་ན། །
 བྱང་ཆུབ་ཐོབ་མི་སྲིད་དཔེར་ན།
 མཚོ་གཏིང་གི་རྡོ་བ་སྐམ་ལ་མི་འབྱུང་བ་བཞིན་ནོ།
 
-<!-- pair: TGD-003426 | source: U03426 U03427 U03428 U03429 U03430 U03431 U03432 | role: main_text | format: prose -->
+That is how it comes about. If one asks what happens without faith: awakening cannot be attained, just as a stone at the bottom of a lake does not emerge onto dry land.
+
+<!-- TGD-003426 -->
+
 རྡོ༽༽ ལྟ་བའི་མཐར་ཐུག་དབུ་མ་ཆེན་པོ་འདོད་མོད།
 དེ་དག་ནི་ཡང་དག་པའི་ལྟ་བ་རྟོགས་པ་དང་ལྡན་པ་མིན་ཏེ།
 བློས་བཞག་པའི་ཕྱིར་ཡེ་སྙིང་གིས་སྐྱེ་མེད་ཅེས་དང་སྟོང་ཞེས་དང༌།
@@ -7864,13 +14688,22 @@ language: bo
 ཞེས་དང༌།
 རྩ་ཤེར་ལས།
 
-<!-- pair: TGD-003433 | source: U03433 U03434 U03435 U03436 | role: main_text | format: verse -->
+Vajra statement. Although some maintain that the ultimate view is the Great Middle Way, they do not possess realization of the authentic view, because it is posited by the conceptual mind. Yé Nying says, “Whatever one cultivates with an inferior mental faculty as ‘unborn,’ ‘empty,’ ‘selfless,’ or ‘emptiness’ is, here, cultivation of self.” And the Root [Verses on] Discerning Knowing says:[^N-C-021]
+
+<!-- TGD-003433 -->
+
 གང་གི་ཐུགས་བརྩེས་ཉེར་བཟུང་ན།
 ལྟ་བ་ཐམས་ཅད་སྤོང་བའི་ཕྱིར༑ །
 དམ་པའི་ཆོས་ནི་སྟོན་མཛད་པ།
 གོོོོ་ཏམ་དེ་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-003437 | source: U03437 U03438 U03439 U03440 U03441 U03442 | role: main_text | format: prose -->
+To Gautama, who, taking [beings] into his loving care,
+Taught the holy Dharma
+For the abandonment of all views,
+I pay homage.[^N-C-022]
+
+<!-- TGD-003437 -->
+
 ཞེས་སོ།། །
 དེའི་ཕྱིར་དོན་དམ་པར་བལྟ་བྱ་ལྟ་བྱེད་བྲལ་བས་
 ལྟ་བ་མི་འདོད་ཀྱང༌། །
@@ -7878,76 +14711,133 @@ language: bo
 ཆོས་ཐམས་ཅད་རང་སེམས་དང་དེ་ལ་ཆོས་སྐུ་སྤྲོས་བྲལ་དུ་རྟོགས་པའི་ལྟ་རྟོགས་དབྱེར་མེད་དམ།
 ཡུམ་ལས།
 
-<!-- pair: TGD-003443 | source: U03443 U03444 | role: main_text | format: prose -->
+So it is said. Therefore, ultimately, since that which is viewed and that which views are absent, no view is asserted. Merely conventionally, however, through the meeting of the dependent conditions of master and disciple, there is inseparable view and realization: realizing all phenomena as one’s own ordinary mind and that ordinary mind as the Dharma embodiment, free from conceptual elaborations. Or, as the Mother says:
+
+<!-- TGD-003443 -->
+
 སེམས་ལ་སེམས་མ་མཆིས་ཏེ།
 སེམས་ཀྱི་རང་བཞིན་ནི་འོད་གསལ་བའོ། །
 
-<!-- pair: TGD-003445 | source: U03445 U03446 | role: main_text | format: prose -->
+“In ordinary mind there is no ordinary mind: the intrinsic nature of ordinary mind is clear light.”
+
+<!-- TGD-003445 -->
+
 ཞེས་པས་སྣང་སྲིད་ཡེ་ཤེས་སུ་འཆར་བར་བྱེད་པ་
 དེ་ནི་ལྟ་བའི་མཆོག་གྱུར་རྟོགས་པ་དང་སོ་སོར་ཐ་མི་དད་དུ་ལྡན་པ་ལ་བཞེད་དོ། །
 
-<!-- pair: TGD-003447 | source: U03447 U03448 U03449 U03450 | role: main_text | format: prose -->
+Accordingly, that which makes appearance and existence arise as primordial knowing is held to be the supreme view, possessing realization without being separate from it.
+
+<!-- TGD-003447 -->
+
 གནས་ལུགས་རྟོགས་པ་ལ་
 དབུ་ཕྱག་རྫོགས་གསུམ་ཁོ་ན་མཐོ་བ་ཡིན་པར་འདོད་ཀྱང༌།
 འདིར་ནི་ཆེན་པོ་དེ་གསུམ་གྱིས་གནས་ལུགས་ལ་མ་རེག་པ་ཡིན་ཏེ།
 མདོ་ཏིང་འཛིན་རྒྱལ་པོ་ལས།
 
-<!-- pair: TGD-003451 | source: U03451 U03452 U03453 U03454 | role: main_text | format: verse -->
+Some maintain that only the three—Madhyamaka, Mahamudra, and Dzogchen—are highest for realizing the natural state. Here, however, these three “greats” do not touch the natural state. The King of Deep Absorption Sūtra says:
+
+<!-- TGD-003451 -->
+
 ཡོད་དང་མེད་ཅེས་བྱ་བ་མཐའ་ཡིན་ཏེ།
 དེ་བཞིན་གཙང་དང་མི་གཙང་འདི་ཡང་མཐའ། །
 དེ་ཕྱིར་མཐའ་འདི་དག་ནི་རྣམ་སྤང་ནས། །
 མཁས་པས་དབུས་ལའང་གནས་པར་མི་བྱའོ། །
 
-<!-- pair: TGD-003455 | source: U03455 | role: main_text | format: prose -->
+“Exists” and “does not exist” are extremes;
+Likewise, pure and impure are also extremes.
+Therefore, having completely abandoned these extremes,
+The learned should not abide even in the middle.
+
+<!-- TGD-003455 -->
+
 ཞེས་དང་། ཕལ་ཆེན་ལས།
 
-<!-- pair: TGD-003456 | source: U03456 U03457 U03458 | role: main_text | format: verse -->
+And the Avataṃsaka says:
+
+<!-- TGD-003456 -->
+
 ཇི་ལྟར་བར་སྣངཤིན་ཏུx
 དེ་བཞིནx
 ཡིད་དང་སེམས་ཀྱིས་ཡུལ་དུ་ཤེས་མ་ཡིན།
 
-<!-- pair: TGD-003459 | source: U03459 U03460 | role: main_text | format: prose -->
+Just as the intervening space, exceedingly x [unresolved],
+Likewise x [unresolved],
+It is not known as an object by mental faculty and ordinary mind.[^N-C-023]
+
+<!-- TGD-003459 -->
+
 ཅེས་པ་བཞིན་བློ་དང་སེམས་ཚིག་གིས་གཏན་ལ་མི་ཕབ་བོ། །
 འོ་ན་ཅི་ཞེ་ན།
 
-<!-- pair: TGD-003461 | source: U03461 U03462 U03463 U03464 | role: main_text | format: verse -->
+As this says, it is not settled by conceptual mind, ordinary mind, or words. What, then, is it?
+
+<!-- TGD-003461 -->
+
 སྨྲ་བསམ་བརྗོད་མེད་ཤེས་རབ་ཕ་རོལ་ཕྱིན།
 མ་སྐྱེས་མི་འགག་ནམ་མཁའི་ངོ་བོ་ཉིད།
 སོ་སོ་རང་རིག་ཡེ་ཤེས་སྤྱོད་ཡུལ་བ། །
 དུས་གསུམ་རྒྱལ་བའི་ཡུམ་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-003465 | source: U03465 U03466 | role: main_text | format: prose -->
+Perfection of discerning knowing, inexpressible, unthinkable, indescribable,
+Unborn, unceasing, the very essence of space,
+The sphere of individually self-aware primordial knowing—
+I pay homage to the mother of the victorious ones of the three times.
+
+<!-- TGD-003465 -->
+
 ཞེས་དང༌།
 ཆོས་རྒྱལ་སྲོང་བཙན་གྱིས། །
 
-<!-- pair: TGD-003467 | source: U03467 U03468 U03469 U03470 | role: main_text | format: verse -->
+And Dharma King Songtsen said:
+
+<!-- TGD-003467 -->
+
 བསམ་པ་ཐམས་ཅད་བློ་ཡིན་གྱི། །
 བློ་ཡི་བྱེད་པ་ཞོག་ལ་ཐོང༌། །
 ཞོག་ཅེས་བྱ་བའང་ཚིག་ཡིན་པས། །
 ཚིག་གི་འཛིན་པ་བོར་ལ་ཐོད།
 
-<!-- pair: TGD-003471 | source: U03471 | role: main_text | format: prose -->
+All thinking is conceptual mind;
+Leave the workings of conceptual mind aside.
+“Leave aside” is itself a phrase,
+So let go of grasping at the phrase.[^N-C-024]
+
+<!-- TGD-003471 -->
+
 ཞེས་དང༌། ཏེ་ལོ་པས།
 
-<!-- pair: TGD-003472 | source: U03472 U03473 | role: main_text | format: verse -->
+And Tilopa said:
+
+<!-- TGD-003472 -->
+
 བློ་ཡི་ཆོས་ཀྱིས་བློ་འདས་དོན་མི་རྟོགས།
 བྱས་པའི་ཆོས་ཀྱི་བྱར་མེད་སངས་མི་རྒྱ།
 
-<!-- pair: TGD-003474 | source: U03474 U03475 U03476 U03477 U03478 | role: main_text | format: prose -->
+Through phenomena of conceptual mind, the meaning beyond the conceptual mind is not realized;
+Through fabricated phenomena, buddhahood beyond doing is not attained.
+
+<!-- TGD-003474 -->
+
 ཞེས་པས་ཚིག་གིས་སྨྲར་མེད།
 བརྗོད་པས་གཏན་ལ་མི་ཕེབ།
 དཔེས་མཚོན་དུ་མེད་པའི་འཁོར་འདས་གཉིས་མེད་ཀྱི་དོན་རྟོགས་པ་དེ་ཡིན་ནོ། །
 མིང་དུ་བཏགས་པ་གསུམ་པོ་ནི་
 ཟླ་བ་སྟོན་པའི་འཛུབ་མོ་བཞིན་ནོ༑ །
 
-<!-- pair: TGD-003479 | source: U03479 U03480 U03481 U03482 U03483 | role: main_text | format: prose -->
+Thus it is realization of the nondual meaning of saṃsāra and nirvāṇa, which words cannot express, statements cannot settle, and examples cannot indicate. The three assigned names are like fingers pointing to the moon.
+
+<!-- TGD-003479 -->
+
 དེས་ན་འདི་ལ་དཀར་པོ་ཆིག་ཐུབ་ཅེས་བཏགས་པ་ལས་
 འགའ་ཞིག་གསུམ་དུ་འགྱུར་བའི་ཐལ་བ་འཕེན་པ་ནི་བློ་གྲོས་རྩིང་སྟེ།
 དེ་ལྟར་ན་མཐར་ཐུག་གཉིས་མེད་བྱ་བ་ཡོད་པའི་ཆོས་ཞིག་
 གཏན་མི་རྙེད་པར་འགྱུར་རོ། །
 དེ་བས་ན་རྟོགས་པའི་མཆོག་གོ །
 
-<!-- pair: TGD-003484 | source: U03484 U03485 U03486 U03487 U03488 U03489 U03490 | role: main_text | format: prose -->
+Therefore it is called the “single white remedy.” Those who argue that it would consequently become three have crude understanding. On their reasoning, one would never find anything ultimately called nondual. Therefore it is supreme realization.[^N-C-025]
+
+<!-- TGD-003484 -->
+
 རྡོ༽༽ གནས་ལུགས་ཐོས་བསམ་སྒོམ་གསུམ་གྱི་རྟོགས་པར་འདོད་མོད།
 འདིར་ནི་ཐོས་བསམ་སྒོམ་པའི་སྟོང་ཉིད་ནི་ཤོར་གོལ་ཡིན་ཏེ་
 རིག་པས་གཞལ་བློས་བརྟགས་ཚིག་གིས་གཏན་ལ་ཕབ་པ་དེ་
@@ -7956,63 +14846,110 @@ language: bo
 དེའི་ཤོར་ས་དང་གོལ་ས་ཡིན་པར་གསུངས་པའི་ཕྱིར།
 མགོན་པོ་བྱམས་པས།
 
-<!-- pair: TGD-003491 | source: U03491 U03492 U03493 U03494 | role: main_text | format: verse -->
+Vajra statement. Some maintain that the natural state is realized through hearing, reflection, and cultivation. Here, the emptiness of hearing, reflection, and cultivation is a place of slipping and straying: what is measured by awareness, examined by the conceptual mind, and settled through words is a meaning generalization of emptiness made into an object of conceptual mind, rather than the genuine thing. It is therefore said to be a place of slipping and straying from genuine, ultimate, inseparable view and realization. Lord Maitreya says:[^N-C-026]
+
+<!-- TGD-003491 -->
+
 ཕྲ་ཕྱིར་ཐོས་པའི་ཡུལ་མིན་ཏེ། །
 དོན་དམ་ཕྱིར་ན་བསམ་པས་མིན། །
 ཆོས་ཉིད་ཟབ་ཕྱིར་འཇིག་རྟེན་པའི། །
 སྒོམ་པ་ལ་སོགས་ཡུལ་མ་ཡིན།
 
-<!-- pair: TGD-003495 | source: U03495 U03496 | role: main_text | format: prose -->
+Because it is subtle, it is not an object of hearing;
+Because it is ultimate, it is not [an object] of reflection.
+Because the nature of phenomena is profound,
+It is not an object of worldly cultivation and the like.
+
+<!-- TGD-003495 -->
+
 ཅེས་དང༌།
 འབྲི་གུང་ཆོས་རྗེ་རིན་པོ་ཆེས།
 
-<!-- pair: TGD-003497 | source: U03497 U03498 U03499 U03500 | role: main_text | format: verse -->
+And Drigung Chöjé Rinpoche said:
+
+<!-- TGD-003497 -->
+
 རང་སེམས་མི་སྒོམ་སེམས་ཀྱི་ཡུལ་མི་བསྒོམ། །
 སྒོམ་དུ་མེད་པ་ཡང་ནི་མི་སྒོམ་སྟེ། །
 མ་བསྒོམ་པ་ཡི་བསྒོམ་ཞིག་འོང་བ་ཡི། །
 རེ་བ་དེ་ཡང་བསྒོམ་པར་མི་བྱའོ།
 
-<!-- pair: TGD-003501 | source: U03501 U03502 U03503 | role: main_text | format: prose -->
+Do not cultivate your own ordinary mind or the objects of ordinary mind.
+Do not cultivate even what cannot be cultivated.
+Do not cultivate even the hope
+That some cultivation will arise from not cultivating.
+
+<!-- TGD-003501 -->
+
 ཞེས་པས་མདོར་བསྡུ་ན་སྟོང་པར་ཤོར་གོལ།
 སྣང་བ་ཤོར་གོལ།
 རྒྱུ་འབྲས་ཀྱི་རྟོག་པར་ཤོར་བའོ། །
 
-<!-- pair: TGD-003504 | source: U03504 U03505 U03506 U03507 U03508 | role: main_text | format: prose -->
+In brief: slipping and straying into emptiness; slipping and straying into appearance; and slipping into conceptual thought about cause and result.
+
+<!-- TGD-003504 -->
+
 རྡོ༽༽ ཆོས་ཉིད་གཏན་ལ་ཕབ་ནས་ཡུལ་དུ་བྱེད་པ་ལྟ་བ་
 དེའི་སྟེང་ནས་ཞི་གནས་སྒྲུབ་པ་
 སྒོམ་པའམ་གདམ་ངག་ལྟར་བསྒོམ་པས་
 བདེ་གསལ་མི་རྟོག་གི་ཉམས་སྐྱེས་པ་སྒོམ་པ་དང༌།
 དེ་ལས་བྱུང་བའི་དོན་སྤྱི་ནི་ལྟ་བར་བྱེད་དོ།
 
-<!-- pair: TGD-003509 | source: U03509 U03510 U03511 U03512 U03513 | role: main_text | format: prose -->
+Vajra statement. [Some call] settling the nature of phenomena and taking it as an object “view,” and accomplishing calm abiding on that basis “cultivation.” Alternatively, they call the arising of experiences of bliss, clarity, and non-conceptuality through cultivating according to instructions “cultivation,” and the meaning generalization arising from that “view.”[^N-C-027]
+
+<!-- TGD-003509 -->
+
 འདིར་ནི་དཔོན་སློབ་ཀྱི་རྟེན་འབྲེལ་ལས་བྱུང་བའི་
 ལྟ་བ་ཡང་དག་རྟོགས་པ་དབྱེར་མེད་པ་གསུམ་གྱིས་
 མ་རེག་པའི་རྟོགས་པ་དེ་ལ་འདྲིས་ཤིང་རྒྱུན་མ་ཆད་གོམ་པར་བྱེད་པ་ནི་
 སྒོམ་པ་མཐར་ཐུག་སྟེ།
 བདེ་མཆོག་རྩ་རྒྱུད་ལས།
 
-<!-- pair: TGD-003514 | source: U03514 U03515 | role: main_text | format: verse -->
+Here, ultimate cultivation is becoming familiar with and uninterruptedly habituating to the realization that arises through the dependent conditions of master and disciple: authentic view inseparable from realization, untouched by the three. The Root Tantra of Cakrasaṃvara says:[^N-C-028]
+
+<!-- TGD-003514 -->
+
 ཡིད་ནི་ནང་དུ་ཆུད་གྱུར་ན། །
 གང་འདོད་པ་ཡི་དངོས་གྲུབ་ཐོབ། །
 
-<!-- pair: TGD-003516 | source: U03516 U03517 | role: main_text | format: prose -->
+When the mental faculty is brought within,
+Whatever accomplishment is desired is attained.
+
+<!-- TGD-003516 -->
+
 ཅེས་དང་།
 མགོན་པོ་འབྲི་གུང་པ་ཆེན་པོས། །
 
-<!-- pair: TGD-003518 | source: U03518 U03519 | role: main_text | format: verse -->
+And the great lord Drigungpa said:
+
+<!-- TGD-003518 -->
+
 བརྩོན་འགྲུས་ཆེན་པོའི་གོ་བ་ནི། །
 དྲན་པ་རྒྱུན་ཆད་མེད་པ་ཡིན།
 
-<!-- pair: TGD-003520 | source: U03520 | role: main_text | format: prose -->
+The meaning of great diligence
+Is uninterrupted mindfulness.
+
+<!-- TGD-003520 -->
+
 ཅེས་དང་།
 
-<!-- pair: TGD-003521 | source: U03521 U03522 U03523 U03524 | role: main_text | format: verse -->
+And:
+
+<!-- TGD-003521 -->
+
 དུས་གསུམ་སངས་རྒྱས་ཀྱི་གཞུང་ལམ་དེ།
 དུས་རྒྱུན་ཆད་མེད་པར་མ་ཤེས་ན། ། །
 དྲན་པའི་རྒྱུན་ཆད་མ་ཤེས་ན། །
 ལུས་ངག་ཏབ་ཏབ་ཁ་ན་ཡོད། །
 
-<!-- pair: TGD-003525 | source: U03525 U03526 U03527 U03528 U03529 U03530 U03531 U03532 | role: main_text | format: prose -->
+If you do not know the great highway
+Of the buddhas of the three times as uninterrupted in time,
+If you do not know the interruption of mindfulness,
+Body and speech remain in frantic bustle.[^N-C-029]
+
+<!-- TGD-003525 -->
+
 ཅེས་གསུངས་པ་བཞིན་གོམ་ཞེས་པ་སེམས་དྲན་པ་ཉེར་བཞག །
 གྲོགས་ཡང་དག་སྤོང་བཞིས་ཉམས་སུ་བླངས་པས་
 རྐང་བཞི་ལ་གཙོ་བོར་སེམས་ཀྱི་ཏིང་ངེ་འཛིན་སྤོང་བའི་འདུ་བྱེད་དང་ལྡན།
@@ -8022,11 +14959,17 @@ language: bo
 དེ་བྱང་ཕྱོགས་སོ་བདུན་རིམ་བཞིན་མངོན་དུ་བྱེད་ཅིང་
 མཐར་མ་འདྲེས་པའི་དྲན་ཉམས་པ་མངའ་བའི་བར་དུ་འགྲུབ་པོ།
 
-<!-- pair: TGD-003533 | source: U03533 U03534 | role: main_text | format: prose -->
+As stated, habituation is the close application of mindfulness to ordinary mind. Practicing it with the four right abandonments as its support, one successively actualizes the thirty-seven factors conducive to awakening: among the four bases, principally deep absorption of ordinary mind endowed with the formations of abandonment; the faculty of mindfulness; the strength of mindfulness; mindfulness among the seven factors of perfect awakening; and the factors of the noble path. Finally, it is accomplished up to the unshared [quality described here as] “possessing impaired mindfulness.”[^N-C-030]
+
+<!-- TGD-003533 -->
+
 རྡོ༽༽ དགེ་བ་དང་སྡིག་པ་རིམ་བཞིན་བླང་དོར་བྲལ་པ་སྟེ་
 བྱ་བྱེད་རྣམ་སྨིན་ཐམས་ཅད་སྟོང་ཉིད་ཡིན་པས་སོ་ཟེར།
 
-<!-- pair: TGD-003535 | source: U03535 U03536 U03537 U03538 U03539 U03540 U03541 U03542 | role: main_text | format: prose -->
+Vajra statement. Some say that virtue and wrongdoing are free, respectively, from accepting and rejecting, since deeds, agents, and ripened results are all emptiness.
+
+<!-- TGD-003535 -->
+
 འདིར་ནི་སྤྱོད་པ་སྡིག་པ་བླང་བ་དང་
 དགེ་བ་དོར་བ་དང་
 བྲལ་བའི་ཚུལ་ཁྲིམས་སུ་བཞེད་དེ་
@@ -8036,48 +14979,82 @@ language: bo
 སྒྲུབ་བཅས་ཐར་ལམ་འདོར་དུ་མེད་པ་སྟེ།
 དཔེར་ན། ཟས་ལྟ་བུ་གཅིག་ལའང་འདུལ་བར་ཀཱ་རི་ཀ་ལས།
 
-<!-- pair: TGD-003543 | source: U03543 U03544 | role: main_text | format: verse -->
+Here, activity is held to be ethical discipline free from accepting wrongdoing and rejecting virtue. Attractive objects of desire, together with what is to be prohibited, become sources [of suffering]; unpleasant objects of aversion, together with the path of liberation to be accomplished, are not to be discarded. For example, even regarding the single matter of food, the Vinaya Kārikā says:[^N-C-031]
+
+<!-- TGD-003543 -->
+
 ཤུ་བའི་ནད་ལས་ལྡོག་པའི་ཕྱིར།
 བཟའ་འོ་སྙམ་པའི་སེམས་ཀྱི་བཟའ།
 
-<!-- pair: TGD-003545 | source: U03545 U03546 U03547 | role: main_text | format: prose -->
+Eat with the ordinary mind’s intention, “I shall eat
+To avert the illness of sores.”
+
+<!-- TGD-003545 -->
+
 ཞེས་དང༌།
 ཕར་ཕྱིན་དུ་ལུས་ཀྱི་སྲིན་བུའི་ཆེད་དུ་བཟའ་བར་གསུངས་ཤིང༌།
 སྔགས་སུའངདཀྱིལ་འཁོར་གྱི་ལྷར་མཆོད་པས་ཆགས་སྡང་ བྲལ་བར་བསྟན་ཏོ།
 
-<!-- pair: TGD-003548 | source: U03548 | role: main_text | format: prose -->
+And in the perfections, one is told to eat for the worms in the body. In mantra too, offering [food] to the maṇḍala’s deities is taught as freedom from attachment and aversion.[^N-C-032]
+
+<!-- TGD-003548 -->
+
 མདོར་ན་གསང་སྤྱོད་ལས།
 
-<!-- pair: TGD-003549 | source: U03549 U03550 U03551 U03552 | role: main_text | format: verse -->
+In brief, the Secret Activity says:
+
+<!-- TGD-003549 -->
+
 ལྟ་བར་མི་ལྡན་སྤྱོད་པ་དང་། །
 སྤྱོད་པར་མི་ལྡན་ལྟ་བ་གཉིས། །
 འདི་ནི་གསང་སྔགས་དམ་སྲི་སྟེ། །
 མནར་མེད་སེམས་ཅན་དམྱལ་བར་སྐྱེ། །
 
-<!-- pair: TGD-003553 | source: U03553 U03554 U03555 | role: main_text | format: prose -->
+Activity without view
+And view without activity—
+These two are samaya demons of secret mantra
+And bring birth in the hell of Unceasing Torment.
+
+<!-- TGD-003553 -->
+
 ཞེས་པས་ལུས་འདི་ལ་བདེ་བ་འདོད་ཡོན་བརྒྱ་བཏབ་པ་དང༌།
 སྡུག་བསྔལ་མདུང་བརྒྱ་བཏབ་པ་གཉིས་མཉམ་ཞིང་
 སོ་སོར་མི་རྟོག་ན་རྒྱུ་འབྲས་ལས་གྲོལ་བ་ཡིན་མ་གཏོག་གཞན་ནི།
 
-<!-- pair: TGD-003556 | source: U03556 U03557 U03558 U03559 | role: main_text | format: verse -->
+Thus, if the happiness of bestowing a hundred sense pleasures on this body and the suffering of thrusting a hundred spears into it are equal, and one does not conceptualize them separately, one is liberated from cause and result. Otherwise:
+
+<!-- TGD-003556 -->
+
 འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་གསུམ།
 དེས་བསྐྱེད་ལས་ནི་མི་དགེ་བའོ། །
 མ་ཆགས་མི་སྡང་གཏི་མུག་མེད། །
 དེས་བསྐྱེད་ལས་ནི་དགེ་བའོ། །
 
-<!-- pair: TGD-003560 | source: U03560 U03561 U03562 U03563 U03564 | role: main_text | format: prose -->
+Desire, hatred, and bewilderment—
+Karma generated by these is nonvirtue.
+Nonattachment, nonhatred, and freedom from bewilderment—
+Karma generated by these is virtue.
+
+<!-- TGD-003560 -->
+
 ཞེས་པ་ལྟར།
 དོན་དུ་དགེ་བ་མི་བླང་།
 སྡིག་པ་མི་འདོར་ཞེས་པ་མིན་གྱི།
 མཆོག་དམན་བར་མ་གང་ལ་ཡང་
 དགེ་བ་ལ་ཆགས་ཤིང་མི་དགེ་བ་ལ་སྡང་བའི་བསམ་པ་མེད་པ་ཞིག་ཡིན།
 
-<!-- pair: TGD-003565 | source: U03565 U03566 U03567 | role: main_text | format: prose -->
+As this says, the meaning is not “Do not accept virtue; do not reject wrongdoing.” Rather, whoever one is—superior, inferior, or middling—there is to be no intention of attachment to virtue and hatred toward nonvirtue.
+
+<!-- TGD-003565 -->
+
 དེ་ཡང་གང་ཟག་ལྟ་རྟོགས་དང་ལྡན་པ་དེས་བསྒྲུབས་པའི་སྤྱོད་པ་ནི་
 དོན་སྙིང་པོར་གྱུར་པ་
 བསླབ་པ་རིན་པོ་ཆེ་གསུམ་ཆགས་སྡང་མེད་པའི་སྒོ་ནས་སྤྱོད་དགོས་པ་ཞིག་གོ ༑
 
-<!-- pair: TGD-003568 | source: U03568 U03569 U03570 U03571 U03572 U03573 | role: main_text | format: prose -->
+Moreover, the activity undertaken by someone possessing view and realization must consist of practicing the essential meaning, the three precious trainings, without attachment or hatred.
+
+<!-- TGD-003568 -->
+
 རྡོ༽༽ ལྟ་སྒོམ་སྤྱོད་གསུམ་ཐ་དད་དུ་འདོད་པ་མང་མོད་ཀྱང༌།
 འདིར་ནི་ལྟ་སྒོམ་སྤྱོད་གསུམ་སོ་སོར་ཐ་དད་མེད་པར་གཅིག་པ་བཞེད་དེ་
 ལྟ་བ་རྟོགས་པ་ལྡན་པ་སྒོམ་པར་བྱེད་ཅིང་
@@ -8085,19 +15062,31 @@ language: bo
 དེ་གསུམ་ཀ་རང་བཞིན་མེད་པར་ཉམས་སུ་ལེན་དགོས་པའི་ཕྱིར་རོ། །
 དེ་ལྟར་ཡང་།
 
-<!-- pair: TGD-003574 | source: U03574 | role: main_text | format: verse -->
+Vajra statement. Many hold view, cultivation, and activity to be different. Here, these three are held to be one, without separate differences: one cultivates the view endowed with realization and enhances it without contradicting it; moreover, all three must be practiced as lacking intrinsic nature. Accordingly:
+
+<!-- TGD-003574 -->
+
 ལྟ་སྒོམ་སྤྱོད་གསུམ་གཅིག་ན་སྐུ་གསུམ་འདུ་འབྲེལ་མེད།
 
-<!-- pair: TGD-003575 | source: U03575 | role: main_text | format: prose -->
+When view, cultivation, and activity are one, the three embodiments have no joining or separation.[^N-C-033]
+
+<!-- TGD-003575 -->
+
 ཅེས་སོ།
 
-<!-- pair: TGD-003576 | source: U03576 U03577 U03578 U03579 | role: main_text | format: prose -->
+So it is said.
+
+<!-- TGD-003576 -->
+
 རྡོ གཉིས་མེད་ཕྱག་ཆེན་དང་སྤང་བླང་དགག་སྒྲུབ་ཀྱི་ཚུལ་ཁྲིམས་གཉིས་མི་གཅིག་སྡེ་འགལ་བའོ་ཟེར།
 འདིར་ནི་ཕྱག་ཆེན་དང་ཚུལ་ཁྲིམས་གནད་གཅིག་པ་
 སྟོང་ཉིད་རྒྱུ་འབྲས་སུ་འབྱུང་བ་འདི་
 གཞན་ལ་མེད་པའི་ཁྱད་པར་གྱི་ཆོས་ཡིན་ཏེ་
 
-<!-- pair: TGD-003580 | source: U03580 U03581 U03582 U03583 U03584 U03585 U03586 U03587 U03588 | role: main_text | format: prose -->
+Vajra statement. Some say, “Nondual Mahamudra and ethical discipline involving rejecting and accepting, denying and affirming, are not the same; they contradict each other.” Here, Mahamudra and ethical discipline share one essential point. This occurrence of emptiness as cause and result is a distinctive teaching absent elsewhere.
+
+<!-- TGD-003580 -->
+
 སེམས་ཉིད་རྟོགས་ན་
 ཆགས་སྡང་དང་བྲལ་བ་དང་
 ཚུལ་ཁྲིམས་ཀྱིས་ཀྱང་དེ་སྤོང་ཞིང་
@@ -8108,48 +15097,91 @@ language: bo
 མཐར་ཐུག་གི་ཡོན་ཏན་སྒྲུབ་པའི་བྱེད་ལས་གཅིག་པའི་ཕྱིར་དང་།
 གཤིས་བབས་སྟོང་ཉིད་དང་གཅིག་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-003589 | source: U03589 | role: main_text | format: prose -->
+For, if ordinary mind itself is realized, attachment and hatred are absent; ethical discipline also abandons them, and that too depends on the Ground, the nature of phenomena. Clear realization of Mahamudra must depend on the ground of ethical discipline. They share the function of abandoning the three poisons and accomplishing temporary and ultimate qualities, and they are one with emptiness, the actual condition as it is.[^N-C-034]
+
+<!-- TGD-003589 -->
+
 དེ་ལྟར་ཡང༌།
 
-<!-- pair: TGD-003590 | source: U03590 U03591 U03592 U03593 | role: main_text | format: verse -->
+Likewise:
+
+<!-- TGD-003590 -->
+
 གལ་ཏེ་སངས་རྒྱས་ཁམས་མེད་ན།
 སྡུག་ལ་སྐྱོ་བར་མི་འགྱུར་ཞིང༌།
 མྱ་ངན་འདས་ལ་འདོད་པ་དང༌།
 དོན་གཉེར་སྨོན་པའང་མེད་པར་འགྱུར།
 
-<!-- pair: TGD-003594 | source: U03594 | role: main_text | format: prose -->
+If there were no buddha element,
+There would be no disenchantment with suffering,
+No desire for nirvāṇa,
+And no aspiration to seek it.
+
+<!-- TGD-003594 -->
+
 སློབ་དཔོན་འཕགས་པས༑
 
-<!-- pair: TGD-003595 | source: U03595 U03596 | role: main_text | format: verse -->
+The noble master said:
+
+<!-- TGD-003595 -->
+
 ཁྲིམས་ནི་རྒྱུ་དང་མི་རྒྱུའི་ས་བཞིན་དུ།
 ༑།ཡོན་ཏན་ཀུན་གྱི་གཞི་རྟེན་ཡིན་པར་གསུངས།
 
-<!-- pair: TGD-003597 | source: U03597 | role: main_text | format: prose -->
+Ethical discipline is said to be the supporting ground of all qualities,
+As earth is for the moving and the unmoving.
+
+<!-- TGD-003597 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-003598 | source: U03598 U03599 U03600 U03601 | role: main_text | format: verse -->
+And:
+
+<!-- TGD-003598 -->
+
 སོ་སོ་སྐྱེ་བོ་རྣམས་དང་གསུང་སྐྱེས་དང་།
 རང་བྱང་ཆུབ་ལ་བདག་ཉིད་ངེས་རྣམས་དང༌།
 རྒྱལ་སྲས་རྣམས་ཀྱི་ངེས་པར་ལེགས་པ་དང༌། །
 མངོན་མཐོའི་རྒྱུ་ནི་ཚུལ་ཁྲིམས་ལས་གཞན་མེད།
 
-<!-- pair: TGD-003602 | source: U03602 | role: main_text | format: prose -->
+For ordinary people, those born from the [Buddha’s] speech,
+Those whose character is fixed on solitary awakening,
+And the children of the victorious ones, there is no cause
+Of definite goodness and higher rebirth other than ethical discipline.[^N-C-035]
+
+<!-- TGD-003602 -->
+
 ཅེས་དང༌།
 
-<!-- pair: TGD-003603 | source: U03603 | role: main_text | format: verse -->
+And:
+
+<!-- TGD-003603 -->
+
 ཚུལ་ཁྲིམས་ཀྱིས་ནི་ཞི་བ་འདོད་རྣམས་འཕགས་པར་འགྱུར།
 
-<!-- pair: TGD-003604 | source: U03604 U03605 | role: main_text | format: prose -->
+Through ethical discipline, those who desire peace become noble.
+
+<!-- TGD-003604 -->
+
 ཞེས་དང་།
 ཏིང་རྒྱལ་ལས།
 
-<!-- pair: TGD-003606 | source: U03606 U03607 U03608 U03609 | role: main_text | format: verse -->
+And the King of Deep Absorption says:
+
+<!-- TGD-003606 -->
+
 ཏིང་འཛིན་རྒྱལ་པོ་སྟོང་པ་འདི་བསྒོམ་པས། །
 ཚུལ་ཁྲིམས་དག་པའི་མགོ་ལ་དེ་འདུག་སྟེ། །
 ཆོས་རྣམས་རང་བཞིན་སྟོང་པར་མཉམ་གཞག་ནས།།
 བྱིས་པ་མེ་རེག་བརྩོན་པས་མི་ཤེས་སོ།
 
-<!-- pair: TGD-003610 | source: U03610 U03611 U03612 U03613 U03614 U03615 | role: main_text | format: prose -->
+By cultivating emptiness, this king of deep absorption,
+One stands at the summit of pure ethical discipline.
+Having rested in equipoise in phenomena’s emptiness of intrinsic nature,
+The childish, intent on touching fire, do not know [this].[^N-C-036]
+
+<!-- TGD-003610 -->
+
 ཞེས་སོ།
 མདོར་བསྡུ་ན།
 གཉིས་ཀ་ཉོན་མོངས་ཀྱི་དབེན་ཀྱང་
@@ -8157,7 +15189,10 @@ language: bo
 མར་ངན་སོང་ལ་དོགས་པ་མེད་ཀྱང་
 སྡིག་པ་ཕྲ་བས་གཅིག་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-003616 | source: U03616 U03617 U03618 U03619 U03620 U03621 U03622 | role: main_text | format: prose -->
+So it is said. In brief, although both are free of afflictions, they do not interrupt wholesome Dharma activity. Though there is no fear of falling into bad destinies, they are one in [avoiding] even subtle wrongdoing.[^N-C-037]
+
+<!-- TGD-003616 -->
+
 རྡོ༽༽ ཕྱག་ཆེན་ནམ་མཁའ་དང་འདྲ་བས་དགེ་མི་དགེར་བཞག་ཏུ་མེད་ཅིང༌།
 སྐྱོན་ཡོན་མེད་པའི་སྟོང་ཉིད་ཡིན་ཟེར།
 འདིར་ནི་ཕྱག་ཆེན་ནི་
@@ -8166,23 +15201,38 @@ language: bo
 མྱང་འདས་ལ་འདོད་འདུན་སྐྱེ་བ་ཁམས་ཀྱི་མཐུ་ཡིན་ཏེ།
 རྒྱུད་བླ་མ་ལས།
 
-<!-- pair: TGD-003623 | source: U03623 U03624 U03625 U03626 | role: main_text | format: verse -->
+Vajra statement. Some say, “Mahamudra is like space, so it cannot be assigned to virtue or nonvirtue; it is emptiness without faults or qualities.” Here, Mahamudra abides as the very character of all qualities throughout the Ground, path, and result. At the time of the Ground, disenchantment with suffering and the arising of desire and aspiration for nirvāṇa are the power of the element. The Supreme Continuum says:
+
+<!-- TGD-003623 -->
+
 གལ་ཏེ་སངས་རྒྱས་ཁམས་མེད་ན།
 སྡུག་བསྔལ་ལ་སྐྱོ་བར་མི་འགྱུར་ཞིང༌།
 མྱ་ངན་འདས་ལ་འདུན་པ་དང༌།
 དོན་གཉེར་སྨོན་པའང་མེད་པར་འགྱུར།
 
-<!-- pair: TGD-003627 | source: U03627 U03628 U03629 U03630 | role: main_text | format: prose -->
+If there were no buddha element,
+There would be no disenchantment with suffering,
+No aspiration for nirvāṇa,
+And no wish to seek it.
+
+<!-- TGD-003627 -->
+
 ཞེས་སོ། །
 གཞི་དེ་ཉིད་ལ་བླ་མས་ངོ་སྤྲད་དེ་གོམ་པར་བྱེད་པ་ལ་ལམ་ཟེར་
 དགེ་རྩ་གང་བྱེད་ཀྱང་དེའི་མཐུས་དཔག་མེད་དུ་འགྱུར་རོ། །
 ཡུམ་ལས།
 
-<!-- pair: TGD-003631 | source: U03631 U03632 | role: main_text | format: prose -->
+So it is said. The lama’s pointing out that very Ground and one’s becoming familiar with it is called the path. Through its power, whatever roots of virtue one undertakes become immeasurable. The Mother says:
+
+<!-- TGD-003631 -->
+
 མེ་ཏོག་གཅིག་གམ་གདུགས་གཅིག་གིས་འཇིག་རྟེན་གྱི་ཁམས་ཐམས་ཅད་ཁྱབ་པར་འདོད་པས་
 ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བསླབ་པར་བྱའོ། །
 
-<!-- pair: TGD-003633 | source: U03633 U03634 U03635 U03636 U03637 U03638 | role: main_text | format: prose -->
+“Those who wish to pervade all world systems with a single flower or a single parasol should train in the perfection of discerning knowing.”
+
+<!-- TGD-003633 -->
+
 ཞེས་སོ།
 འབྲས་བུ་དུས་སུ་ཆོས་སྐུ་ཡོན་ཏན་མཛད་པ་དང་བཅས་པ་
 རྒྱུན་མི་ཆད་པ་འབྱུང་བས་ཡོན་ཏན་གྱི་བདག་ཉིད་དུ་གནས་སོ། །
@@ -8190,25 +15240,44 @@ language: bo
 སྐྱོན་ཡོན་བསལ་གཞག་མེད་པར་གནས་ཏེ།
 རྒྱུད་བླ་མ་ལས།
 
-<!-- pair: TGD-003639 | source: U03639 U03640 U03641 U03642 | role: main_text | format: verse -->
+So it is said. At the time of the result, the Dharma embodiment, together with its qualities and deeds, arises without interruption; thus it abides as the very character of qualities. In brief, throughout the Ground, path, and result, it abides without removing faults or adding qualities. The Supreme Continuum says:
+
+<!-- TGD-003639 -->
+
 འདི་ལ་བསལ་བྱ་ཅི་ཡང་མེད།
 བཞག་པར་བྱ་བ་ཅུང་ཟད་མེད།
 ཡང་དག་ཉིད་ལ་ཡང་དག་ལྟ།
 ཡང་དག་མཐོང་ནས་རྣམ་པར་གྲོལ།
 
-<!-- pair: TGD-003643 | source: U03643 | role: main_text | format: prose -->
+There is nothing here to remove,
+And not the slightest thing to add.
+Look authentically at the authentic;
+Seeing authentically, one is fully liberated.
+
+<!-- TGD-003643 -->
+
 ཅེས་སོ།
 
-<!-- pair: TGD-003644 | source: U03644 U03645 U03646 | role: main_text | format: prose -->
+So it is said.
+
+<!-- TGD-003644 -->
+
 ༼༼༡༽༽ རྡོ༽༽འགའ་ཞིག་མཉམ་པར་བཞག་པ་ལས་
 ཡོན་ཏན་མི་འབྱུང་རྗེས་ཐོབ་ལས་འབྱུང་སྟེ།
 ཇོ་བོས།
 
-<!-- pair: TGD-003647 | source: U03647 U03648 | role: main_text | format: verse -->
+[1] Vajra statement. Some say that qualities do not arise from equipoise but from post-cultivation attainment, citing Lord Atiśa:
+
+<!-- TGD-003647 -->
+
 གལ་ཏེ་མཉམ་བཞག་སེམས་བརྟན་ན། །
 ལུས་ངག་དགེ་བ་གཙོར་མི་བྱ།
 
-<!-- pair: TGD-003649 | source: U03649 U03650 U03651 U03652 U03653 U03654 | role: main_text | format: prose -->
+If ordinary mind is stable in equipoise,
+Do not give priority to virtue of body and speech.
+
+<!-- TGD-003649 -->
+
 ཞེས་པ་དང་།
 མཉམ་གཞག་ནམ་མཁའ་ལྟ་བུ་ཡིན་པས་སོ༑ །
 ཟེར་ཡང་།
@@ -8216,10 +15285,16 @@ language: bo
 འདུ་བྱེད་ཡིན་པའི་ཕྱིར་
 རྩ་ཤེར་ལ།
 
-<!-- pair: TGD-003655 | source: U03655 | role: main_text | format: verse -->
+They also say that equipoise is like space. Further, there is the claim here that both virtue and nonvirtue obscure Mahamudra itself because they are formations, citing the Root [Verses on] Discerning Knowing:[^N-C-038]
+
+<!-- TGD-003655 -->
+
 འཁོར་བའི་རྩ་བ་འདུ་བྱེད་དེ།
 
-<!-- pair: TGD-003656 | source: U03656 U03657 U03658 U03659 U03660 U03661 | role: main_text | format: prose -->
+The root of saṃsāra is formations.
+
+<!-- TGD-003656 -->
+
 ཅེས་པས་སྤྲིན་དཀར་ནག་གཉིས་ཀས་ཉི་མ་སྒྲིབ་པར་ཁྱད་པར་མེད་པ་བཞིན་ནོ་ཟེར། འདིར་ནི་དགེ་བའི་ངོ་བོས་གཞི་ལམ་འབྲས་བུ་གསུམ་དུ་ཕྱག་ཆེན་ལ་སྒྲིབ་མི་སྲིད་དེ་
 མཚོ་དང་མཚོའི་རླབས་བཞིན་དུ་
 ཐབས་བྱང་ཕྱོགས་སོ་བདུན་སོགས་
@@ -8227,13 +15302,19 @@ language: bo
 སྐྱབས་ སུ་འགྲོ་བ་ལ་སོགས་པས་སངས་རྒྱས་པའི་དུས་སུ་
 དཀོན་མཆོག་གི་འཁོར་ལོ་འབའ་ཞིག་ཏུ་འབྱུང་ངོ༌།
 
-<!-- pair: TGD-003662 | source: U03662 U03663 U03664 U03665 | role: main_text | format: prose -->
+They say this is like white and black clouds: there is no difference in their obscuring the sun. Here, however, the essence of virtue cannot obscure Mahamudra in the Ground, path, or result. Like a lake and its waves, methods such as the thirty-seven factors conducive to awakening arise from it itself and make its essence grow ever greater. Through going for refuge and so forth, at buddhahood there arises nothing but the wheel of the Jewels.
+
+<!-- TGD-003662 -->
+
 གཞི་ལམ་གྱི་དགེ་བ་བྱས་ཚད་
 མཐར་ཐུག་སངས་རྒྱས་ཀྱི་དུས་
 ཕྲིན་ལས་བསམ་གྱི་མི་ཁྱབ་པར་
 སེམས་ཅན་གྱི་ཁམས་རྒྱུན་མི་འཆད་པར་འཇུག་པར་བྱེད་པ་ཡིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-003666 | source: U03666 U03667 U03668 U03669 U03670 U03671 U03672 U03673 U03674 U03675 | role: main_text | format: prose -->
+For every virtue done at the Ground and on the path ultimately, at buddhahood, brings inconceivable enlightened activity into uninterrupted engagement with the realms of beings.
+
+<!-- TGD-003666 -->
+
 བཞེད་ལ་མཉམ་བཞག་སྐབས་ལ་
 ཡོན་ཏན་ཐམས་ཅད་འབྱུང་སྟེ་
 མཐོང་ལམ་ཐོབ་ནས་ཡོན་ཏན་བརྒྱ་ཕྲག་བཅུ་གཉིས།
@@ -8245,7 +15326,10 @@ language: bo
 ས་བརྒྱད་པར་སྟོང་ཆེན་འབུམ་ཕྲག་གཅིག་གི་རྡུལ་གྲངས་བཅུ་གཉིས།
 ས་དགུ་པར་སྟོང་ཆེན་འབུམ་ཕྲག་བཅུའི་རྡུལ་གྲངས་བཅུ་གཉིས།
 
-<!-- pair: TGD-003676 | source: U03676 U03677 U03678 U03679 U03680 U03681 U03682 U03683 U03684 U03685 | role: main_text | format: prose -->
+It is held that all qualities arise during equipoise. On attaining the path of seeing there are twelve sets of one hundred qualities; on the second ground, twelve sets of one thousand; on the fourth, twelve sets of one hundred koṭis; on the fifth, twelve sets of one thousand koṭis; on the sixth, twelve sets of one hundred thousand koṭis; on the seventh, twelve sets of one hundred thousand khrak-khrik; on the eighth, twelve times the number of particles in one hundred thousand great thousandfold world systems; and on the ninth, twelve times the number of particles in ten hundred thousand great thousandfold world systems.[^N-C-039]
+
+<!-- TGD-003676 -->
+
 ས་བཅུ་པར་བརྗོད་དུ་མེད་པའི་རྡུལ་གྲངས་ཀྱི་
 སངས་རྒྱས་ཀྱི་ཞལ་ལྟ་བས་སངས་རྒྱས་ཀྱི་བྱིན་རླབས་ཤེས་པ།
 ཞིང་ཁམས་སུ་འགྲོ་བ།
@@ -8257,7 +15341,10 @@ language: bo
 ལུས་སྟོན་པ།
 ལུང་རིག་འཁོར་གྱིས་བསྐོར་བ་སྟོན་པ།
 
-<!-- pair: TGD-003686 | source: U03686 U03687 U03688 U03689 U03690 U03691 U03692 | role: main_text | format: prose -->
+On the tenth ground, [the qualities number] the particles of the inexpressible: seeing the faces of buddhas and knowing their blessings; going to their fields; entering and emerging from deep absorption; shaking fields; making fields appear; opening Dharma gateways; maturing beings; abiding for aeons; directing the gaze of primordial knowing to former abodes; displaying bodies; and displaying a surrounding retinue of “scripture and awareness.”[^N-C-040]
+
+<!-- TGD-003686 -->
+
 མཉམ་བཞག་ཇེ་ཆེར་སོང་བ་ལ་བརྟེན་ནས་
 ཡོན་ཏན་ཡང་ཇེ་ཆེར་འཕེལ་ཏེ་
 ས་བཅུའི་མཐར་ཡོན་ཏན་བསམ་མི་ཁྱབ་པ་དང་
@@ -8266,11 +15353,18 @@ language: bo
 བཅས་པ་མཉམ་གཞག་ལས་བྱུང་བ་ཡིན་ནོ། །
 རྗེ་ཕག་གྲུས།
 
-<!-- pair: TGD-003693 | source: U03693 U03694 | role: main_text | format: verse -->
+As equipoise grows, qualities also increase. The inconceivable qualities at the culmination of the ten grounds, and the enlightened activity that matures and liberates beings after buddhahood, all arise from equipoise. Lord Phakdru said:
+
+<!-- TGD-003693 -->
+
 བྱང་ཆུབ་སེམས་དཔའ་ས་བཅུ་དག །
 སྐྱེ་མེད་དུ་གནས་པ་ཡོན་ཏན་ཡིན།
 
-<!-- pair: TGD-003695 | source: U03695 U03696 U03697 U03698 U03699 U03700 U03701 | role: main_text | format: prose -->
+The qualities of bodhisattvas on the ten grounds
+Are their abiding in the unborn.
+
+<!-- TGD-003695 -->
+
 ཞེས་སོ། །
 དེ་ལྟར་མིན་ན་སོ་སྐྱེ་འོག་མ་རྣམས་ལ་ཡོན་ཏན་འབྱུང་བ་དང་༑
 སངས་རྒྱས་ལ་མི་འབྱུང་བར་རིགས་ཏེ་
@@ -8279,19 +15373,31 @@ language: bo
 དེའང་སངས་རྒྱས་དང་ས་བཅུ་པའི་བྱང་སེམས་ཀྱི་ཡོན་ཏན་
 རྒྱ་མཚོ་དང་བ་ལང་རྨིག་རྗེས་ཀྱི་ཆུ་ལྟར་ཁྱད་ཡོད་པར་གསུངས་པས་བསལ་ལོ༑།
 
-<!-- pair: TGD-003702 | source: U03702 U03703 U03704 U03705 | role: main_text | format: prose -->
+So it is said. Were it otherwise, qualities ought to arise in lower ordinary beings but not in buddhas, because ordinary beings have only subsequent knowing, whereas buddhas never lack equipoise. This is refuted by the statement that the difference between the qualities of buddhas and tenth-ground bodhisattvas is like that between an ocean and the water in a cow’s hoofprint.[^N-C-041]
+
+<!-- TGD-003702 -->
+
 རྡོ༽༽ ཆོས་སྐུ་ཕྱག་རྒྱ་ཆེན་པོ་རྟོགས་ན་རྒྱུ་མ་བསྒྲུབས་ཀྱང་ཡོན་ཏན་ཐམས་ཅད་འབྱུང་ཟེར།
 འདིར་ནི་རྒྱུ་ནི་མ་བསྒྲུབ་པར་ཡོན་ཏན་ཐམས་ཅད་འབྱུང་མི་སྲིད་དེ་
 ཚོགས་གཉིས་མ་བསགས་པ་ལའང་ཡོན་ཏན་འབྱུང་བར་ཐལ་བའི་ཕྱིར་རོ། །
 དེ་ལྟར་ཡང་དཀོན་མཆོག་བརྩེགས་པ་ལས།
 
-<!-- pair: TGD-003706 | source: U03706 U03707 U03708 U03709 | role: main_text | format: verse -->
+Vajra statement. Some say, “If one realizes Dharma embodiment Mahamudra, all qualities arise even without accomplishing their causes.” Here, all qualities cannot arise without accomplishing their causes, for otherwise qualities would arise even in someone who had not gathered the two accumulations. Accordingly, the Heap of Jewels says:
+
+<!-- TGD-003706 -->
+
 ས་ནི་བསམ་གྱིས་མི་ཁྱབ་པའི། །
 དགེ་བའི་ལས་ཀྱི་རྒྱུ་རྐྱེན་གྱིས།།
 རྨོངས་པ་རབ་ཏུ་སྤངས་པ་ཡིིས། །
 འོད་ཟེར་སྣ་ཚོགས་འགྲུབ་པ་ཡིན།
 
-<!-- pair: TGD-003710 | source: U03710 U03711 U03712 U03713 U03714 U03715 U03716 | role: main_text | format: prose -->
+Through the causes and conditions of inconceivable
+Virtuous karma on the grounds,
+By completely abandoning bewilderment,
+Various rays of light are accomplished.[^N-C-042]
+
+<!-- TGD-003710 -->
+
 ཅེས་སོགས་མཐའ་ཡས་པར་གསུངས་སོ།
 མཉམ་བཞག་ལ་ཡོན་ཏན་འབྱུང་བ་དང་
 རྒྱུ་མ་བསྒྲུབ་པར་མི་འབྱུང་བ་གཉིས་མི་འགལ་བར་
@@ -8300,27 +15406,39 @@ language: bo
 སྡུད་པ་ལས།
 བདག་ནི་མཉམ་པར་བཞག་ཅེས་པའམ་ལང་ཞེས་རློམ་སེམས་མེད་ཅེས་པས་སོ།
 
-<!-- pair: TGD-003717 | source: U03717 U03718 U03719 U03720 U03721 | role: main_text | format: prose -->
+Countless such statements are taught. Qualities arising in equipoise and not arising without accomplishing their causes are not contradictory: the causes are accomplished without separation from that state, so this does not become subsequent knowing. For the Condensed [Perfection] says, “There is no conceited ordinary mind thinking, ‘I am in equipoise,’ or ‘I have arisen.’”
+
+<!-- TGD-003717 -->
+
 ལྷན༽༽ འགའ་ཞིག་བྲལ་བའི་འབྲས་བུའི་ཡོན་ཏན་ལ་རྒྱུ་མི་དགོས་ཟེར་ཡང་
 འདིར་བྲལ་འབྲས་ཐམས་ཅད་རྒྱུ་དང་བཅས་པ་ཡིན་ཏེ།
 རྒྱུ་མེད་པའི་འབྲས་བུ་གཤིས་ལ་མི་སྲིད་པའི་ཕྱིར་རོ། །
 དེ་ལྟར་ཡང་།
 བུ་མོ་རིན་ཆེན་གྱིས་ཞུས་པའི་མདོར།
 
-<!-- pair: TGD-003722 | source: U03722 U03723 U03724 U03725 U03726 | role: main_text | format: prose -->
+Addendum. Some say that the qualities of results of separation do not require causes. Here, all results of separation have causes, because a result without a cause is impossible in the actual condition. Thus, in the Sūtra of the Questions of the Girl Ratna:[^N-C-043]
+
+<!-- TGD-003722 -->
+
 བུ་མོ་བྱང་ཆུབ་སེམས་དཔའི་སྤྱད་པ་སྤྱོད་པ་ན་
 ཐེག་པ་དམན་པ་འདི་ནི་གནས་མིན།
 སྐབས་མེད་བསྟན་པའི་སྟོབས་དང་ལྡན་པ་
 སངས་རྒྱས་པའི་དུས་ན་གནས་དང་གནས་མིན་མཁྱེན་པའི་སྟོབས་ཐོབ་པར་འགྱུར་རོ།
 ཞེས་སོགས་གསུངས་སོ།
 
-<!-- pair: TGD-003727 | source: U03727 U03728 U03729 U03730 | role: main_text | format: prose -->
+“Girl, when practicing bodhisattva activity, one possesses the power of teaching that this Lesser Vehicle is impossible and has no occasion [to occur]. At buddhahood one will attain the power of knowing what is possible and impossible.” Such things are said.[^N-C-044]
+
+<!-- TGD-003727 -->
+
 རྡོ༽༽ ཆོས་ཐམས་ཅད་རང་སེམས་ལས་མི་གཞན་པས་
 དེའི་ཆོས་ཉིད་ལམ་གྱིས་རྟོགས་ན་
 དགེ་མི་དགེ་ལས་འབྲས་སོགས་སྣ་ཚོགས་པའི་སྣང་བ་ཐམས་ཅད་སྣང་མེད་སྟོང་ཉིད་དུ་རྟོགས་ཏེ།
 རྒྱུ་འབྲས་ཀྱི་རྟེན་འབྲེལ་མེད་པ་ནམ་མཁའ་བཞིན་ནོ་ཟེར་རོ།
 
-<!-- pair: TGD-003731 | source: U03731 U03732 U03733 U03734 U03735 U03736 U03737 U03738 | role: main_text | format: prose -->
+Vajra statement. Some say, “Since all phenomena are no other than one’s own ordinary mind, when its nature of phenomena is realized through the path, all the diverse appearances of virtue, nonvirtue, karma, results, and so on are realized as emptiness without appearance. There is no causal dependent arising, just as in space.”
+
+<!-- TGD-003731 -->
+
 འདིར་ནི་སྟོང་ཉིད་རྟོགས་པའི་ཚེ་ན་
 དེ་དང་དབྱེར་མེད་པར་རྒྱུ་འབྲས་ཀྱི་རྟེན་འབྲེལ་ཉིད་
 སྒྱུ་མའི་སྣང་བ་བཞིན་འགོགས་པ་མེད་པར་འབྱུང་བས་
@@ -8330,32 +15448,60 @@ language: bo
 ནམ་མཁས་འཇའ་ཚོན་མི་ཁེགས་པ་བཞིན་ནོ། །
 དེ་ལྟར་ཡང་ཏིང་འཛིན་རྒྱལ་པོ་ལས།
 
-<!-- pair: TGD-003739 | source: U03739 U03740 U03741 U03742 | role: main_text | format: verse -->
+Here, when emptiness is realized, causal dependent arising itself occurs inseparably from it, without obstruction, like an illusory appearance. Thus emptiness does not block cause and result. For example, when a rainbow arising in space appears inseparably from that space, space does not block the rainbow. Accordingly, the King of Deep Absorption says:
+
+<!-- TGD-003739 -->
+
 ཆོས་ཉིད་ལས་ཀྱི་རྣམ་སྨིན་མེད་ཤེས་ཀྱང་།
 དགེ་དང་མི་དགེའི་ལས་ནི་ཆུད་མི་ཟ། །
 ཞི་བར་གནས་པ་རང་རྒྱལ་ཐེག་པ་དེ།
 ཉན་ཐོས་རྣམ་པར་གྲོལ་བའི་སྒྲ་ཕྱིར་འབྲང༌། །
 
-<!-- pair: TGD-003743 | source: U03743 | role: main_text | format: prose -->
+Though one knows that in the nature of phenomena there is no karmic ripening,
+Virtuous and nonvirtuous karma does not go to waste.
+That vehicle of solitary victors, abiding in peace,
+Follows the word of the hearers’ liberation.[^N-C-045]
+
+<!-- TGD-003743 -->
+
 ལྗོན་པས་ཞུས་པའི་མདོ་ལས།
 
-<!-- pair: TGD-003744 | source: U03744 U03745 U03746 U03747 | role: main_text | format: verse -->
+The Sūtra of the Questions of Jönpa says:
+
+<!-- TGD-003744 -->
+
 རྒྱུ་ལ་བརྟེན་པའི་མཁས་པ་བཅོམ་ལྡན་འདས། །
 མཐའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་བ།
 ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་ཁོ་ན་གསུངས། །
 ལྟ་བའི་མུན་བྲལ་ཁྱེད་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-003748 | source: U03748 U03749 | role: main_text | format: prose -->
+Blessed One, skilled in dependence on causes,
+Never possessing views of the two extremes,
+You teach precisely the ripened results of karma.
+Homage to you, free from the darkness of views.
+
+<!-- TGD-003748 -->
+
 ཞེས་སོ། །
 རྗེ་བཙུན་གྱིས་སྒམ་པོ་པ་ལ་འགྲོ་ཆོས་སུ་གསུངས་པ།
 
-<!-- pair: TGD-003750 | source: U03750 U03751 U03752 U03753 | role: main_text | format: verse -->
+So it is said. The Jetsün gave Gampopa this Dharma instruction at his departure:
+
+<!-- TGD-003750 -->
+
 ཡར་སངས་རྒྱས་ལ་རེ་བ་མེད་ཀྱང་
 དཀར་པོའི་ཆོས་སྤྱོད་རྒྱུན་མི་བཅད།
 མར་ངན་སོང༌ལ་དོགས་པ་མེད་ཀྱང་
 སྡིག་པ་ཕྲ་ཞིང་ཕྲ་བ་ལ་འཛེམ་ཞེས་སོགས་གསུངས་སོ། །
 
-<!-- pair: TGD-003754 | source: U03754 U03755 U03756 U03757 U03758 U03759 U03760 U03761 U03762 | role: main_text | format: prose -->
+Though you have no hope for buddhahood above,
+Do not interrupt wholesome Dharma activity.
+Though you have no fear of bad destinies below,
+Shun even the subtlest wrongdoing.
+So he said, and more.
+
+<!-- TGD-003754 -->
+
 འོ་ན་འགལ་བར་འགྱུར་རོ་སྙམ་ན་
 མི་འགལ་ཏེ།
 ཏིང་འཛིན་རྒྱལ་བོ་ལས།
@@ -8366,2201 +15512,4673 @@ language: bo
 མི་འགལ་བར་བསྟན་པ་བཞིན་ནོ། །
 དེ་ལྟར་ཡང་།
 
-<!-- pair: TGD-003763 | source: U03763 U03764 | role: main_text | format: verse -->
+If one thinks this contradictory, it is not. The King of Deep Absorption speaks of “the king of deep absorption in the evenness of all phenomena, extensively elaborated.” Evenness is emptiness; extensive elaboration is the elaboration of causal dependent arising. These two are taught as noncontradictory. Likewise:
+
+<!-- TGD-003763 -->
+
 གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །
 དེ་ལ་ཐམས་ཅད་རུང་བར་གྱུར།
 
-<!-- pair: TGD-003765 | source: U03765 | role: main_text | format: prose -->
+For whom emptiness is tenable,
+Everything is tenable.
+
+<!-- TGD-003765 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-003766 | source: U03766 U03767 U03768 | role: main_text | format: verse -->
+And:
+
+<!-- TGD-003766 -->
+
 རྟེན་ཅིང་འབྲེལ་འབྱུང་མ་གཏོགས་པའི། །
 ཆོས་འགའ་ཡོད་པ་མ་ཡིན་ནོ། །
 དེ་ཕྱིར་སྟོང་ཉིད་མ་ཡིན་པའི།།
 
-<!-- pair: TGD-003769 | source: U03769 U03770 U03771 U03772 | role: main_text | format: prose -->
+There is no phenomenon whatsoever
+Apart from dependent arising.
+Therefore, [something] that is not emptiness—[quotation breaks off].[^N-C-046]
+
+<!-- TGD-003769 -->
+
 ཞེས་སོ། །
 དེ་བས་ན་མཐར་ཐུག་ཐམས་ཅད་མཁྱེན་པ་ཐོབ་པའི་དུས་ནའང་
 སྤྲོས་པ་བྲལ་བའི་ངང་ལས་
 རྒྱུ་འབྲས་ཀྱི་སྤུ་རིས་མི་འདོར་བ་ཉིད་དུ་ལྡང་བའམ་འབྱུང་བ་ཡིན་ནོ།
 
-<!-- pair: TGD-003773 | source: U03773 | role: main_text | format: prose -->
+So it is said. Therefore, even when ultimate omniscience is attained, there is emergence or occurrence from the state free from conceptual elaborations without abandoning the fine distinctions of cause and result.
+
+<!-- TGD-003773 -->
+
 ལྷན༽༽ བསྒོམ་བྱ་སྒོམ་བྱེད་གཉིས་མེད་དོན་དམ་ཆོས་དབྱིངས་རྟོགས་ན་
 
-<!-- pair: TGD-003774 | source: U03774 | role: main_text | format: prose -->
+[Not yet translated: U03773.]
+
+<!-- TGD-003774 -->
+
 ནམ་མཁའ་གཉིས་འདྲེས་བཞིན་དུ་གྱུར་བ་དེ་
 
-<!-- pair: TGD-003775 | source: U03775 | role: main_text | format: prose -->
+[Not yet translated: U03774.]
+
+<!-- TGD-003775 -->
+
 མཐར་ཐུག་ཏུ་འགའ་ཞིག་འདོད་དོ།
 
-<!-- pair: TGD-003776 | source: U03776 | role: main_text | format: prose -->
+[Not yet translated: U03775.]
+
+<!-- TGD-003776 -->
+
 འདིར་ནི་དེ་ནི་མཐར་ཐུག་མ་ཡིན་ཏེ་
 
-<!-- pair: TGD-003777 | source: U03777 | role: main_text | format: prose -->
+[Not yet translated: U03776.]
+
+<!-- TGD-003777 -->
+
 ཡུལ་ཡུལ་ཅན་གཉིས་ཀ་སྟོང་ཞིང་
 
-<!-- pair: TGD-003778 | source: U03778 | role: main_text | format: prose -->
+[Not yet translated: U03777.]
+
+<!-- TGD-003778 -->
+
 རྒྱུ་འབྲས་ཀྱི་རྟེན་འབྲེལ་མངོན་དུ་མ་གྱུར་པའི་སྟོང་པ་རྐྱང་པ།
 
-<!-- pair: TGD-003779 | source: U03779 | role: main_text | format: prose -->
+[Not yet translated: U03778.]
+
+<!-- TGD-003779 -->
+
 ནམ་མཁའ་གཉིས་འདྲེས་ལྟ་བུ་
 
-<!-- pair: TGD-003780 | source: U03780 | role: main_text | format: prose -->
+[Not yet translated: U03779.]
+
+<!-- TGD-003780 -->
+
 དེ་ནི་ཉན་ཐོས་ཀྱི་མངོན་རྟོགས་ཡིན་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-003781 | source: U03781 | role: main_text | format: prose -->
+[Not yet translated: U03780.]
+
+<!-- TGD-003781 -->
+
 རྡོ༽༽ སྨིན་གྲོལ་གཉིས་ལས་
 
-<!-- pair: TGD-003782 | source: U03782 | role: main_text | format: prose -->
+[Not yet translated: U03781.]
+
+<!-- TGD-003782 -->
+
 གྲོལ་ལམ་བསྐྱེད་རྫོགས་གཉིས་
 
-<!-- pair: TGD-003783 | source: U03783 | role: main_text | format: prose -->
+[Not yet translated: U03782.]
+
+<!-- TGD-003783 -->
+
 རྫོགས་རིམ་ལ་མཚན་མེད་ཕྱག་རྒྱ་ཆེན་པོ་དང་
 
-<!-- pair: TGD-003784 | source: U03784 | role: main_text | format: prose -->
+[Not yet translated: U03783.]
+
+<!-- TGD-003784 -->
+
 མཚན་བཅས་ཆོས་དྲུག་སོགས་ཐབས་ལམ་རྣམས་དང་གཉིས་ལས་
 
-<!-- pair: TGD-003785 | source: U03785 | role: main_text | format: prose -->
+[Not yet translated: U03784.]
+
+<!-- TGD-003785 -->
+
 ཐབས་ལམ་དེ་རྟོགས་པ་མ་སྐྱེ་བར་དགོངས་ཤིང་
 
-<!-- pair: TGD-003786 | source: U03786 | role: main_text | format: prose -->
+[Not yet translated: U03785.]
+
+<!-- TGD-003786 -->
+
 སྐྱེས་ནས་མི་དགོས་ཏེ་
 
-<!-- pair: TGD-003787 | source: U03787 | role: main_text | format: prose -->
+[Not yet translated: U03786.]
+
+<!-- TGD-003787 -->
+
 ཆུ་བརྒལ་ཟིན་པའི་ཟམ་པ་བཞིན་ནོ་ཞེས་ཟེར་རོ།
 
-<!-- pair: TGD-003788 | source: U03788 | role: main_text | format: prose -->
+[Not yet translated: U03787.]
+
+<!-- TGD-003788 -->
+
 འདིར་ནི་རྟོགས་པ་དང་ལྡན་པའི་རྣལ་འབྱོར་པ་ལ་ཡང་
 
-<!-- pair: TGD-003789 | source: U03789 | role: main_text | format: prose -->
+[Not yet translated: U03788.]
+
+<!-- TGD-003789 -->
+
 ཐབས་ལམ་ལྷག་པར་དགོས་ཏེ་
 
-<!-- pair: TGD-003790 | source: U03790 | role: main_text | format: prose -->
+[Not yet translated: U03789.]
+
+<!-- TGD-003790 -->
+
 མ་རྟོགས་པའི་སེམས་ཅན་རྣམས་སྨིན་གྲོལ་བྱེད་པའི་དོན་དུ་
 
-<!-- pair: TGD-003791 | source: U03791 | role: main_text | format: prose -->
+[Not yet translated: U03790.]
+
+<!-- TGD-003791 -->
+
 རྫུ་འཕྲུལ་དང་མངོནཤེས་ཡ་མ་ཟུང་དགོས་ཤིང་།
 
-<!-- pair: TGD-003792 | source: U03792 | role: main_text | format: prose -->
+[Not yet translated: U03791.]
+
+<!-- TGD-003792 -->
+
 དེའི་རྒྱུ་གཏུམ་མོ་དང་སྦྱིན་སོགས་ཐབས་ཀྱི་ལམ་ཐམས་ཅད་
 
-<!-- pair: TGD-003793 | source: U03793 | role: main_text | format: prose -->
+[Not yet translated: U03792.]
+
+<!-- TGD-003793 -->
+
 ཉམས་སུ་ལེན་པའི་སྟོང་ཉིད་
 
-<!-- pair: TGD-003794 | source: U03794 | role: main_text | format: prose -->
+[Not yet translated: U03793.]
+
+<!-- TGD-003794 -->
+
 རྒྱུ་འབྲས་སུ་འབྱུང་བའི་ཕྱིར་དང་།
 
-<!-- pair: TGD-003795 | source: U03795 | role: main_text | format: prose -->
+[Not yet translated: U03794.]
+
+<!-- TGD-003795 -->
+
 དེ་དག་དང་དོན་མཐུན་པར་སྤྱོད་དགོས་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-003796 | source: U03796 | role: main_text | format: prose -->
+[Not yet translated: U03795.]
+
+<!-- TGD-003796 -->
+
 དེ་ལྟ་ཡང།
 
-<!-- pair: TGD-003797 | source: U03797 | role: main_text | format: prose -->
+[Not yet translated: U03796.]
+
+<!-- TGD-003797 -->
+
 སློབ་དཔོན་གྱིས།
 
-<!-- pair: TGD-003798 | source: U03798 | role: main_text | format: prose -->
+[Not yet translated: U03797.]
+
+<!-- TGD-003798 -->
+
 དེ་ལྟར་རྣལ་འབྱོར་པ་རྣམས་ཀྱི། །
 
-<!-- pair: TGD-003799 | source: U03799 | role: main_text | format: prose -->
+[Not yet translated: U03798.]
+
+<!-- TGD-003799 -->
+
 སྟོང་པ་ཉིད་ནིx
 
-<!-- pair: TGD-003800 | source: U03800 | role: main_text | format: prose -->
+[Not yet translated: U03799.]
+
+<!-- TGD-003800 -->
+
 བློ་ནི་གཞན་དོནx
 
-<!-- pair: TGD-003801 | source: U03801 | role: main_text | format: prose -->
+[Not yet translated: U03800.]
+
+<!-- TGD-003801 -->
+
 འགྱུར་བ་ཉིད་དུx
 
-<!-- pair: TGD-003802 | source: U03802 | role: main_text | format: prose -->
+[Not yet translated: U03801.]
+
+<!-- TGD-003802 -->
+
 ཅེས་དང༌།
 
-<!-- pair: TGD-003803 | source: U03803 | role: main_text | format: prose -->
+[Not yet translated: U03802.]
+
+<!-- TGD-003803 -->
+
 བྱམས་མགོན་གྱིས།
 
-<!-- pair: TGD-003804 | source: U03804 | role: main_text | format: prose -->
+[Not yet translated: U03803.]
+
+<!-- TGD-003804 -->
+
 མགོ་ལ་སེམས་ཅན་ཁུར་ཆེན་ཁྱེར་བ་ཡི། །
 
-<!-- pair: TGD-003805 | source: U03805 | role: main_text | format: prose -->
+[Not yet translated: U03804.]
+
+<!-- TGD-003805 -->
+
 སེམས་དཔའ་མཆོག་རྣམས་དལ་གྱིས་འགྲོ་མི་མཛེས། །
 
-<!-- pair: TGD-003806 | source: U03806 | role: main_text | format: prose -->
+[Not yet translated: U03805.]
+
+<!-- TGD-003806 -->
+
 ཞེས་པས་སྒྲུབ་རྒྱུད་འདིའི་གོང་མ་རྣམས་ཀྱིས་མཛད་པ་བཞིན་ནོ།
 
-<!-- pair: TGD-003807 | source: U03807 | role: main_text | format: prose -->
+[Not yet translated: U03806.]
+
+<!-- TGD-003807 -->
+
 ལྷན༽༽ གཞན་བཞེད་ནི།
 
-<!-- pair: TGD-003808 | source: U03808 | role: main_text | format: prose -->
+[Not yet translated: U03807.]
+
+<!-- TGD-003808 -->
+
 མཚན་བཅས་ཀྱི་རྫོགས་རིམ་རླུང་སྦྱོར་བ་བཞི་ལྡན་ནི༑
 
-<!-- pair: TGD-003809 | source: U03809 | role: main_text | format: prose -->
+[Not yet translated: U03808.]
+
+<!-- TGD-003809 -->
+
 དང་པོ་ཞག་འགའ་སྟོང་པར་བསྒོམས།
 
-<!-- pair: TGD-003810 | source: U03810 | role: main_text | format: prose -->
+[Not yet translated: U03809.]
+
+<!-- TGD-003810 -->
+
 དེ་ནས་སྣ་བུག་གཉིས་ཀྱི་རླུང་། །
 
-<!-- pair: TGD-003811 | source: U03811 | role: main_text | format: prose -->
+[Not yet translated: U03810.]
+
+<!-- TGD-003811 -->
+
 དྲག་པོ་ལན་གསུམ་ཕྱི་རུ་འབུད། །
 
-<!-- pair: TGD-003812 | source: U03812 | role: main_text | format: prose -->
+[Not yet translated: U03811.]
+
+<!-- TGD-003812 -->
+
 དེ་ལྟར་མ་བྱས་ནང་དུ་འགྲོ། །
 
-<!-- pair: TGD-003813 | source: U03813 | role: main_text | format: prose -->
+[Not yet translated: U03812.]
+
+<!-- TGD-003813 -->
+
 དེ་ནས་སྣ་ཐུག་གཉིས་ཀྱི་རླུང༌། །
 
-<!-- pair: TGD-003814 | source: U03814 | role: main_text | format: prose -->
+[Not yet translated: U03813.]
+
+<!-- TGD-003814 -->
+
 ལྕགས་ཀྱུ་བཞིན་དུ་དགུག་པར་བྱ། །
 
-<!-- pair: TGD-003815 | source: U03815 | role: main_text | format: prose -->
+[Not yet translated: U03814.]
+
+<!-- TGD-003815 -->
+
 དེ་ཡང་འཇམ་ལ་རིང་བའོ། །
 
-<!-- pair: TGD-003816 | source: U03816 | role: main_text | format: prose -->
+[Not yet translated: U03815.]
+
+<!-- TGD-003816 -->
+
 དེ་ཡིས་རླུང་ནི་རང་གནས་ཚུད། །
 
-<!-- pair: TGD-003817 | source: U03817 | role: main_text | format: prose -->
+[Not yet translated: U03816.]
+
+<!-- TGD-003817 -->
+
 དྲག་ན་རྩ་གནས་གཞན་དུ་དབྱེར། །
 
-<!-- pair: TGD-003818 | source: U03818 | role: main_text | format: prose -->
+[Not yet translated: U03817.]
+
+<!-- TGD-003818 -->
+
 དེ་ནི་རྔུབ་པའི་རླུང་སྦྱོར་ཡིན༑ ༑
 
-<!-- pair: TGD-003819 | source: U03819 | role: main_text | format: prose -->
+[Not yet translated: U03818.]
+
+<!-- TGD-003819 -->
+
 རླུང་ནི་གཡས་གཡོན་གཉིས་ན་མར། །
 
-<!-- pair: TGD-003820 | source: U03820 | role: main_text | format: prose -->
+[Not yet translated: U03819.]
+
+<!-- TGD-003820 -->
+
 ལུག་རྒྱུད་རྒྱུ་མ་ཕུས་བཏབ་བཞིན། །
 
-<!-- pair: TGD-003821 | source: U03821 | role: main_text | format: prose -->
+[Not yet translated: U03820.]
+
+<!-- TGD-003821 -->
+
 ཧ་ར་ར་ནི་སོང་ནས་ཀྱང་། །
 
-<!-- pair: TGD-003822 | source: U03822 | role: main_text | format: prose -->
+[Not yet translated: U03821.]
+
+<!-- TGD-003822 -->
+
 དབུ་མའི་ནང་དུ་ཞུགས་པར་བསམ། །
 
-<!-- pair: TGD-003823 | source: U03823 | role: main_text | format: prose -->
+[Not yet translated: U03822.]
+
+<!-- TGD-003823 -->
+
 དེ་ནི་འགང་བའི་རླུང་སྦྱོར་རོ། །
 
-<!-- pair: TGD-003824 | source: U03824 | role: main_text | format: prose -->
+[Not yet translated: U03823.]
+
+<!-- TGD-003824 -->
+
 དེ་ནས་ཕོ་བར་རླུང་བཅུག་ལ༑ །
 
-<!-- pair: TGD-003825 | source: U03825 | role: main_text | format: prose -->
+[Not yet translated: U03824.]
+
+<!-- TGD-003825 -->
+
 ཐུབ་ཀྱང་དྲག་ཏུ་མནན་པར་བྱ། །
 
-<!-- pair: TGD-003826 | source: U03826 | role: main_text | format: prose -->
+[Not yet translated: U03825.]
+
+<!-- TGD-003826 -->
+
 མི་ཐུབ་དུས་སུ་ཅུང་ཟད་རྔུབ། །
 
-<!-- pair: TGD-003827 | source: U03827 | role: main_text | format: prose -->
+[Not yet translated: U03826.]
+
+<!-- TGD-003827 -->
+
 དེས་ཀྱང་མ་ཐུབ་སྣ་གཉིས་ནས། །
 
-<!-- pair: TGD-003828 | source: U03828 | role: main_text | format: prose -->
+[Not yet translated: U03827.]
+
+<!-- TGD-003828 -->
+
 སེ་གོལ་གཏོགས་པའི་ཚད་ཙམ་ཞིག །
 
-<!-- pair: TGD-003829 | source: U03829 | role: main_text | format: prose -->
+[Not yet translated: U03828.]
+
+<!-- TGD-003829 -->
+
 ཕྱི་རུ་བཏང་ལ་ལྷག་མ་བསྡམས། །
 
-<!-- pair: TGD-003830 | source: U03830 | role: main_text | format: prose -->
+[Not yet translated: U03829.]
+
+<!-- TGD-003830 -->
+
 དེ་ནི་གཞིལ་བའི་རླུང་སྦྱོར་རོ། །
 
-<!-- pair: TGD-003831 | source: U03831 | role: main_text | format: prose -->
+[Not yet translated: U03830.]
+
+<!-- TGD-003831 -->
+
 བསྡམས་པས་མ་ཐུབ་གཏོང་དུས་སུ། །
 
-<!-- pair: TGD-003832 | source: U03832 | role: main_text | format: prose -->
+[Not yet translated: U03831.]
+
+<!-- TGD-003832 -->
+
 དངོས་སུ་སྣ་བུག་གཉིས་ན་ཡར། །
 
-<!-- pair: TGD-003833 | source: U03833 | role: main_text | format: prose -->
+[Not yet translated: U03832.]
+
+<!-- TGD-003833 -->
+
 ཆ་གཅིག་ཙམ་གཅིག་དལ་བར་བཏང༌། །
 
-<!-- pair: TGD-003834 | source: U03834 | role: main_text | format: prose -->
+[Not yet translated: U03833.]
+
+<!-- TGD-003834 -->
+
 དམིགས་པ་དབུ་མའི་ནང་ལ་ཡར། །
 
-<!-- pair: TGD-003835 | source: U03835 | role: main_text | format: prose -->
+[Not yet translated: U03834.]
+
+<!-- TGD-003835 -->
+
 རྩལ་པོ་ཆེ་ཡིས་མདའ་འཕང་བཞིན།
 
-<!-- pair: TGD-003836 | source: U03836 | role: main_text | format: prose -->
+[Not yet translated: U03835.]
+
+<!-- TGD-003836 -->
+
 ཚངས་པའི་སྒོ་ནས་ནམ་མཁའ་ལ། །
 
-<!-- pair: TGD-003837 | source: U03837 | role: main_text | format: prose -->
+[Not yet translated: U03836.]
+
+<!-- TGD-003837 -->
+
 སྔོ་ནི་ཕྱུར་ཕྱུར་འགྲོ་བར་བསམས། །
 
-<!-- pair: TGD-003838 | source: U03838 | role: main_text | format: prose -->
+[Not yet translated: U03837.]
+
+<!-- TGD-003838 -->
+
 མདའ་ལྟར་འཕངས་བའི་རླུང་སྦྱོར་རོ། །
 
-<!-- pair: TGD-003839 | source: U03839 | role: main_text | format: prose -->
+[Not yet translated: U03838.]
+
+<!-- TGD-003839 -->
+
 ཞེས་དེ་བཞི་པོ་ཟབ་པར་འདོད་ཀྱང་།
 
-<!-- pair: TGD-003840 | source: U03840 | role: main_text | format: prose -->
+[Not yet translated: U03839.]
+
+<!-- TGD-003840 -->
+
 འདིར་ནི་རླུང་མི་འཛིན་པར་མ་བཅོས་
 
-<!-- pair: TGD-003841 | source: U03841 | role: main_text | format: prose -->
+[Not yet translated: U03840.]
+
+<!-- TGD-003841 -->
+
 ལྷུག་པར་འཇོག་པ་ཉིད་གནད་ཟབ་པས།
 
-<!-- pair: TGD-003842 | source: U03842 | role: main_text | format: prose -->
+[Not yet translated: U03841.]
+
+<!-- TGD-003842 -->
+
 རླུང་སེམས་ཐ་དད་མེད་པས་
 
-<!-- pair: TGD-003843 | source: U03843 | role: main_text | format: prose -->
+[Not yet translated: U03842.]
+
+<!-- TGD-003843 -->
+
 རླུང་ལ་རྩོལ་འབུང་འདོན་པའི་རྩར་རྩིར་གཡོ་འགུལ་མང་པོ་ལ་
 
-<!-- pair: TGD-003844 | source: U03844 | role: main_text | format: prose -->
+[Not yet translated: U03843.]
+
+<!-- TGD-003844 -->
+
 འཁྲུལ་འཁོར་སྐད་དུ་བཏགས་ནས་བྱས་ཀྱང་
 
-<!-- pair: TGD-003845 | source: U03845 | role: main_text | format: prose -->
+[Not yet translated: U03844.]
+
+<!-- TGD-003845 -->
+
 སེམས་དངོས་པོའི་གནས་ལུགས་མ་མཐོང་ན་
 
-<!-- pair: TGD-003846 | source: U03846 | role: main_text | format: prose -->
+[Not yet translated: U03845.]
+
+<!-- TGD-003846 -->
+
 གནས་སྐབས་ལྟར་སྣང་
 
-<!-- pair: TGD-003847 | source: U03847 | role: main_text | format: prose -->
+[Not yet translated: U03846.]
+
+<!-- TGD-003847 -->
+
 ཀུན་རྫོབ་པའི་ཡོན་ཏན་ཕྲན་བུ་སྐྱེ་སྲིད་ཀྱང་
 
-<!-- pair: TGD-003848 | source: U03848 | role: main_text | format: prose -->
+[Not yet translated: U03847.]
+
+<!-- TGD-003848 -->
+
 མཐར་ཐུག་གི་ས་ཆོད་ཆེ་བའི་གོ་ཆོད་པོ་མི་འབྱུང་བས།
 
-<!-- pair: TGD-003849 | source: U03849 | role: main_text | format: prose -->
+[Not yet translated: U03848.]
+
+<!-- TGD-003849 -->
+
 རླུང་སེམས་དབྱེར་མེད་ཀྱི་རྟོགས་པའི་ཡེ་ཤེས་བསྐྱེད་པའི་རླུང་གི་གནད་འཆིང་བ་མ་བྱས་བྱར་མེད་དུ་
 
-<!-- pair: TGD-003850 | source: U03850 | role: main_text | format: prose -->
+[Not yet translated: U03849.]
+
+<!-- TGD-003850 -->
+
 ཉམས་སུ་ལེན་པ་ནི་བཤད་རྒྱུད་རྡོ་རྗེ་ཕྲེང་བ་ནས་གསུངས་པ་ལྟར་
 
-<!-- pair: TGD-003851 | source: U03851 | role: main_text | format: prose -->
+[Not yet translated: U03850.]
+
+<!-- TGD-003851 -->
+
 ཉམས་སུ་ལེན་པ་གནད་ཆེ་སྟེ་
 
-<!-- pair: TGD-003852 | source: U03852 | role: main_text | format: prose -->
+[Not yet translated: U03851.]
+
+<!-- TGD-003852 -->
+
 ཚུལ་ནི་གཏུམ་མོ་གསུམ་ཁྲིད་དུ་རྟོགས་པར་བྱོས་ཤིག
 
-<!-- pair: TGD-003853 | source: U03853 | role: main_text | format: prose -->
+[Not yet translated: U03852.]
+
+<!-- TGD-003853 -->
+
 ༑ལྷན༽༽ འཕོ་བ་ནི་ཧཱུཾ་ངམ་ཡིག་འབྲུ་གང་རུང་ལ་བརྟེན་ནས་
 
-<!-- pair: TGD-003854 | source: U03854 | role: main_text | format: prose -->
+[Not yet translated: U03853.]
+
+<!-- TGD-003854 -->
+
 བླ་མའམ་ཡི་དམ་གྱི་ཐུགས་ཀར་འཕོ་བ་ཡིན་ཟེར་ཡང་
 
-<!-- pair: TGD-003855 | source: U03855 | role: main_text | format: prose -->
+[Not yet translated: U03854.]
+
+<!-- TGD-003855 -->
+
 དེ་ནི་རིམ་གྱིས་པའི་དབང་དུ་བྱས་ཀྱི།
 
-<!-- pair: TGD-003856 | source: U03856 | role: main_text | format: prose -->
+[Not yet translated: U03855.]
+
+<!-- TGD-003856 -->
+
 འདིར་མཐར་ཐུག་ནི་རྣམ་ཤེས་དང་བླ་མ་དང་འོད་གསལ་ཆོས་སྐུ་གསུམ་དབྱེར་མེད་དུ་གྱུར་པ་ནི་འཕོ་བའི་མཆོག་སྟེ།
 
-<!-- pair: TGD-003857 | source: U03857 | role: main_text | format: prose -->
+[Not yet translated: U03856.]
+
+<!-- TGD-003857 -->
+
 འཕོ་བྱ་འཕོ་བྱེད་ཀྱི་རྟེན་དང་བྲལ་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-003858 | source: U03858 | role: main_text | format: prose -->
+[Not yet translated: U03857.]
+
+<!-- TGD-003858 -->
+
 དེ་ལྟར་ཡང་འཕོ་རྒྱུ་བྱུང་ན་རྣལ་འབྱོར་མིན།
 
-<!-- pair: TGD-003859 | source: U03859 | role: main_text | format: prose -->
+[Not yet translated: U03858.]
+
+<!-- TGD-003859 -->
+
 ཞེས་གསུངས་པའི་ཕྱིར་ན་
 
-<!-- pair: TGD-003860 | source: U03860 | role: main_text | format: prose -->
+[Not yet translated: U03859.]
+
+<!-- TGD-003860 -->
+
 རྣལ་འབྱོར་རབ་ཀྱི་འཕོ་བའོ།
 
-<!-- pair: TGD-003861 | source: U03861 | role: main_text | format: prose -->
+[Not yet translated: U03860.]
+
+<!-- TGD-003861 -->
+
 རྡོ༽༽ རྟོགས་པའི་བོགས་འདོན་པ་ལ་
 
-<!-- pair: TGD-003862 | source: U03862 | role: main_text | format: prose -->
+[Not yet translated: U03861.]
+
+<!-- TGD-003862 -->
+
 རིགས་པ་བརྟུལ་ཞུགས་ཀྱི་སྤྱོད་པ་སྣ་ཚོགས་པས་
 
-<!-- pair: TGD-003863 | source: U03863 | role: main_text | format: prose -->
+[Not yet translated: U03862.]
+
+<!-- TGD-003863 -->
+
 རབ་བྱུང་གི་རྟགས་དོར་ནས་རྣལ་འབྱོར་གྱི་ཆ་ལུགས་ཕྱག་རྒྱ་མ་ཁྲིད་ནས་
 
-<!-- pair: TGD-003864 | source: U03864 | role: main_text | format: prose -->
+[Not yet translated: U03863.]
+
+<!-- TGD-003864 -->
+
 དུར་ཁྲོད་དང་ཚོང་འདུས་སོགས་རྒྱུ་ཞིང་གླུ་གར་བྱེད་དགོས་ཟེར།
 
-<!-- pair: TGD-003865 | source: U03865 | role: main_text | format: prose -->
+[Not yet translated: U03864.]
+
+<!-- TGD-003865 -->
+
 འདིར་རིགས་ཤིང་འོས་པའི་སྤྱོད་པ་ཁྱད་པར་དུ་འཕགས་པ་ནི་ཚུལ་ཁྲིམས་རིན་པོ་ཆེ་ཡིན་ཏེ་
 
-<!-- pair: TGD-003866 | source: U03866 | role: main_text | format: prose -->
+[Not yet translated: U03865.]
+
+<!-- TGD-003866 -->
+
 སྤང་བྱ་ཉོན་མོངས་དང་རྣམ་རྟོག་བརྟུལ་ནས་
 
-<!-- pair: TGD-003867 | source: U03867 | role: main_text | format: prose -->
+[Not yet translated: U03866.]
+
+<!-- TGD-003867 -->
+
 ཡེ་ཤེས་ཀྱི་སྟོབས་ལ་ཞུགས་པའི་སྤྱོད་པ་
 
-<!-- pair: TGD-003868 | source: U03868 | role: main_text | format: prose -->
+[Not yet translated: U03867.]
+
+<!-- TGD-003868 -->
+
 སངས་རྒྱས་ཀྱི་གནས་དང་གནས་མིན་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱིས་བཅས་པའི་
 
-<!-- pair: TGD-003869 | source: U03869 | role: main_text | format: prose -->
+[Not yet translated: U03868.]
+
+<!-- TGD-003869 -->
+
 དགག་སྒྲུབ་ཀྱི་བསླབ་པ་འདི་ཡིན་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-003870 | source: U03870 | role: main_text | format: prose -->
+[Not yet translated: U03869.]
+
+<!-- TGD-003870 -->
+
 དམ་པ་དང་པོ་ལས་ཀྱང༌།
 
-<!-- pair: TGD-003871 | source: U03871 | role: main_text | format: prose -->
+[Not yet translated: U03870.]
+
+<!-- TGD-003871 -->
+
 རྡོ་རྗེ་འཛིན་པ་མཆོག་དགེ་སློང་དུ་གསུངས་པ་དང༌།
 
-<!-- pair: TGD-003872 | source: U03872 | role: main_text | format: prose -->
+[Not yet translated: U03871.]
+
+<!-- TGD-003872 -->
+
 བསྟན་པ་འཛིན་སྐྱོང་སྤེལ་བ་ལའང་
 
-<!-- pair: TGD-003873 | source: U03873 | role: main_text | format: prose -->
+[Not yet translated: U03872.]
+
+<!-- TGD-003873 -->
+
 འདི་ཉིད་མཆོག་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-003874 | source: U03874 | role: main_text | format: prose -->
+[Not yet translated: U03873.]
+
+<!-- TGD-003874 -->
+
 དཔེར་ན་འཕགས་པ་ཀླུ་སྒྲུབ་དང༌།
 
-<!-- pair: TGD-003875 | source: U03875 | role: main_text | format: prose -->
+[Not yet translated: U03874.]
+
+<!-- TGD-003875 -->
+
 མཉམ་མེད་དྭགས་པོ་ལྷ་རྗེ་བཞིན་ནོ། །
 
-<!-- pair: TGD-003876 | source: U03876 | role: main_text | format: prose -->
+[Not yet translated: U03875.]
+
+<!-- TGD-003876 -->
+
 དེང་སང་འགའ་ཞིག་བརྟུལ་ཞུགས་ཀྱི་སྤྱོད་པ་ཡིན་པར་
 
-<!-- pair: TGD-003877 | source: U03877 | role: main_text | format: prose -->
+[Not yet translated: U03876.]
+
+<!-- TGD-003877 -->
+
 ཁས་འཆེ་བའི་རུས་རྒྱན་གྱི་རྒྱན།
 
-<!-- pair: TGD-003878 | source: U03878 | role: main_text | format: prose -->
+[Not yet translated: U03877.]
+
+<!-- TGD-003878 -->
+
 ཁྱི་ལྤགས་དཀྲིས།
 
-<!-- pair: TGD-003879 | source: U03879 | role: main_text | format: prose -->
+[Not yet translated: U03878.]
+
+<!-- TGD-003879 -->
+
 རྒྱུ་འབྲས་ཁྱད་དུ་གསོད་ཅིང་
 
-<!-- pair: TGD-003880 | source: U03880 | role: main_text | format: prose -->
+[Not yet translated: U03879.]
+
+<!-- TGD-003880 -->
+
 ལུས་སྲོག་ཐད་ལ་འཁོར་བའི་རྟོགས་ལྡན་སྤྱོད་པ་ལྷ་ཀླུ་ཐམས་ཅད་དཀྲུག་ཅིང་
 
-<!-- pair: TGD-003881 | source: U03881 | role: main_text | format: prose -->
+[Not yet translated: U03880.]
+
+<!-- TGD-003881 -->
+
 ཕཊ་སྒྲ་དང་ཧཱུྃ་སྒྲས་ལུང་པ་འགེངས།
 
-<!-- pair: TGD-003882 | source: U03882 | role: main_text | format: prose -->
+[Not yet translated: U03881.]
+
+<!-- TGD-003882 -->
+
 མིག་ཧྲིག་ཧྲིག་དུ་བར་སྣང་དུ་བལྟ།
 
-<!-- pair: TGD-003883 | source: U03883 | role: main_text | format: prose -->
+[Not yet translated: U03882.]
+
+<!-- TGD-003883 -->
+
 ཁ་ནས་ཆོས་ཐམས་ཅད་སྟོང་པ་ཆེན་པོའོ་ཟེར་ནས་
 
-<!-- pair: TGD-003884 | source: U03884 | role: main_text | format: prose -->
+[Not yet translated: U03883.]
+
+<!-- TGD-003884 -->
+
 དོན་མེད་ཁྱི་ལྟར་འཁྱམས་པ་རྣམས་ཀྱི་
 
-<!-- pair: TGD-003885 | source: U03885 | role: main_text | format: prose -->
+[Not yet translated: U03884.]
+
+<!-- TGD-003885 -->
+
 སྤྱོད་པ་བརྟུལ་ཞུགས་ལས་ཆེས་འཕགས་པའི་ཕྱིར་
 
-<!-- pair: TGD-003886 | source: U03886 | role: main_text | format: prose -->
+[Not yet translated: U03885.]
+
+<!-- TGD-003886 -->
+
 ཚུལ་དེ་ལྟར་དགོས་སོ། །
 
-<!-- pair: TGD-003887 | source: U03887 | role: main_text | format: prose -->
+[Not yet translated: U03886.]
+
+<!-- TGD-003887 -->
+
 རྡོ༽༽ རྣལ་འབྱོར་བཞིའི་མཐར་ཐུག་སྒོམ་མེད་རྟོགས་པ་ན་
 
-<!-- pair: TGD-003888 | source: U03888 | role: main_text | format: prose -->
+[Not yet translated: U03887.]
+
+<!-- TGD-003888 -->
+
 མཉམ་བཞག་ཆེན་པོ་བྷུ་སུ་ཀུ་སྟེ་
 
-<!-- pair: TGD-003889 | source: U03889 | role: main_text | format: prose -->
+[Not yet translated: U03888.]
+
+<!-- TGD-003889 -->
+
 ཟ་ཉལ་འཆག་གསུམ་གྱི་འདུ་ཤེས་ཙམ་མ་གཏོགས་
 
-<!-- pair: TGD-003890 | source: U03890 | role: main_text | format: prose -->
+[Not yet translated: U03889.]
+
+<!-- TGD-003890 -->
+
 བདེ་སྡུག་མཐོ་དམན་གང་ལའང་ཞུམ་ཁེངས་མེད་པ་
 
-<!-- pair: TGD-003891 | source: U03891 | role: main_text | format: prose -->
+[Not yet translated: U03890.]
+
+<!-- TGD-003891 -->
+
 ཤིང་ལོ་རླུང་ཁྱེར་བཞིན་དུ་སྤྱོད་དགོས་ཟེར་ཡང་
 
-<!-- pair: TGD-003892 | source: U03892 | role: main_text | format: prose -->
+[Not yet translated: U03891.]
+
+<!-- TGD-003892 -->
+
 འདིར་དེའི་སྟེང་དུ་ཆོས་ཚུལ་ཁྲིམས་དང་སྒྲུབ་པ་དང་ཚད་མེད་པའི་སྙིང་རྗེ་གསུམ་མི་ལྡན་ན་
 
-<!-- pair: TGD-003893 | source: U03893 | role: main_text | format: prose -->
+[Not yet translated: U03892.]
+
+<!-- TGD-003893 -->
+
 ཉན་རང་དང་ཁྱད་པར་མེད་པས་
 
-<!-- pair: TGD-003894 | source: U03894 | role: main_text | format: prose -->
+[Not yet translated: U03893.]
+
+<!-- TGD-003894 -->
+
 དང་པོ་རང་རྒྱུད་ལ་ཡོད་པའི་ལག་མཐིལ་གྱི་སྤུ་ཉག་ལྟ་བུའི་ཉེས་པ་ཤིན་ཏུ་ཕྲ་བའང་སྤང་དགོས་ཏེ་
 
-<!-- pair: TGD-003895 | source: U03895 | role: main_text | format: prose -->
+[Not yet translated: U03894.]
+
+<!-- TGD-003895 -->
+
 ཡོན་ཏན་མི་ཐོབ་པའི་ཕྱིར།
 
-<!-- pair: TGD-003896 | source: U03896 | role: main_text | format: prose -->
+[Not yet translated: U03895.]
+
+<!-- TGD-003896 -->
+
 སློབ་དཔོན་འཕགས་པ་རྫ་བུམ་ལ་ཆགས་པས་
 
-<!-- pair: TGD-003897 | source: U03897 | role: main_text | format: prose -->
+[Not yet translated: U03896.]
+
+<!-- TGD-003897 -->
+
 གནོད་སྦྱིན་མ་གྲུབ་པ་དང་།
 
-<!-- pair: TGD-003898 | source: U03898 | role: main_text | format: prose -->
+[Not yet translated: U03897.]
+
+<!-- TGD-003898 -->
+
 ཆོས་མཆོག་ཉིད་ཀྱི་བརྩམས་པའི་ཚད་མར་མཉེས་པས་
 
-<!-- pair: TGD-003899 | source: U03899 | role: main_text | format: prose -->
+[Not yet translated: U03898.]
+
+<!-- TGD-003899 -->
+
 ཤིང་སྐམ་ལས་མེ་ཏོག་མ་སྐྱེས་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-003900 | source: U03900 | role: main_text | format: prose -->
+[Not yet translated: U03899.]
+
+<!-- TGD-003900 -->
+
 གཉིས་པ་རང་རྒྱུད་ལ་འཕགས་པ་རྣམས་ཀྱི་བྲལ་བ་དང་
 
-<!-- pair: TGD-003901 | source: U03901 | role: main_text | format: prose -->
+[Not yet translated: U03900.]
+
+<!-- TGD-003901 -->
+
 རྣམ་སྨིན་གྱི་ཡོན་ཏན་ཚད་མེད་པ་དག་སྒྲུབ་དགོས་ཏེ།
 
-<!-- pair: TGD-003902 | source: U03902 | role: main_text | format: prose -->
+[Not yet translated: U03901.]
+
+<!-- TGD-003902 -->
+
 རྒྱུ་རྐྱེན་མེད་པར་མི་འབྱུང་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-003903 | source: U03903 | role: main_text | format: prose -->
+[Not yet translated: U03902.]
+
+<!-- TGD-003903 -->
+
 གསུམ་པ་རང་ཉིད་གཅིག་པུ་ཞི་བདེ་འདོད་པའི་སེམས་སྤངས་ནས་
 
-<!-- pair: TGD-003904 | source: U03904 | role: main_text | format: prose -->
+[Not yet translated: U03903.]
+
+<!-- TGD-003904 -->
+
 ཚད་མེད་པའི་སྙིང་རྗེ་གཞན་དོན་མཐར་ཐུག་ཏུ་བྱེད་དགོས་ཏེ།
 
-<!-- pair: TGD-003905 | source: U03905 | role: main_text | format: prose -->
+[Not yet translated: U03904.]
+
+<!-- TGD-003905 -->
+
 སྟོང་ཉིད་སྙིང་རྗེ་དང་བྲལ་ན་དམན་པར་འགྱུར་བའི་ཕྱིར།
 
-<!-- pair: TGD-003906 | source: U03906 | role: main_text | format: prose -->
+[Not yet translated: U03905.]
+
+<!-- TGD-003906 -->
+
 དེ་གསུམ་གཅེས་པ་ཡིན་ནོ། །
 
-<!-- pair: TGD-003907 | source: U03907 | role: main_text | format: prose -->
+[Not yet translated: U03906.]
+
+<!-- TGD-003907 -->
+
 ལྟ་སྒོམ་སྤྱོད་པ་གནད་བསྡུས་ཏེ་རྡོ་རྗེའི་ཚིག་རྐང་ཉི་ཤུ་ལྷན་ཐབས་ཚིག་རྐང་ལྔ་བཅས་ཀྱི་འགྲེལ་བཤད་བྱེད་པའི་སྐབས་ཏེ་དྲུག་པའོ།
 
-<!-- pair: TGD-003908 | source: U03908 | role: main_text | format: prose -->
+[Not yet translated: U03907.]
+
+<!-- TGD-003908 -->
+
 རྡོ༽༽ གཞན་བཞེད་ལྟར་ན།
 
-<!-- pair: TGD-003909 | source: U03909 | role: main_text | format: prose -->
+[Not yet translated: U03908.]
+
+<!-- TGD-003909 -->
+
 སངས་རྒྱས་ཀྱི་སར་ཆོས་སྐུ་ཇི་ལྟ་མཁྱེན་པ་
 
-<!-- pair: TGD-003910 | source: U03910 | role: main_text | format: prose -->
+[Not yet translated: U03909.]
+
+<!-- TGD-003910 -->
+
 བྲལ་བའི་ཡོན་ཏན་རྣམས་དོན་དམ།
 
-<!-- pair: TGD-003911 | source: U03911 | role: main_text | format: prose -->
+[Not yet translated: U03910.]
+
+<!-- TGD-003911 -->
+
 གཟུགས་སྐུ།
 
-<!-- pair: TGD-003912 | source: U03912 | role: main_text | format: prose -->
+[Not yet translated: U03911.]
+
+<!-- TGD-003912 -->
+
 ཇི་སྙེད་མཁྱེན་པའི་རྣམ་སྨིན་གྱི་ཡོན་ཏན་ཀུན་རྫོབ་ཏུ་འདོད་པ་དང་།
 
-<!-- pair: TGD-003913 | source: U03913 | role: main_text | format: prose -->
+[Not yet translated: U03912.]
+
+<!-- TGD-003913 -->
+
 ཡང་རྡོར་གཅོད་ལས།
 
-<!-- pair: TGD-003914 | source: U03914 | role: main_text | format: prose -->
+[Not yet translated: U03913.]
+
+<!-- TGD-003914 -->
+
 གང་དག་ང་ལ་གཟུགསུ་མཐོང་།།
 
-<!-- pair: TGD-003915 | source: U03915 | role: main_text | format: prose -->
+[Not yet translated: U03914.]
+
+<!-- TGD-003915 -->
+
 གང་དག་ང་ལ་དགྲར་ཤེས་ན། །
 
-<!-- pair: TGD-003916 | source: U03916 | role: main_text | format: prose -->
+[Not yet translated: U03915.]
+
+<!-- TGD-003916 -->
+
 ལོག་པའི་ལམ་དུ་ཞུགས་པ་དེ། །
 
-<!-- pair: TGD-003917 | source: U03917 | role: main_text | format: prose -->
+[Not yet translated: U03916.]
+
+<!-- TGD-003917 -->
+
 སྐྱེས་བུ་དེ་དག་ང་མི་མཐོང་། །
 
-<!-- pair: TGD-003918 | source: U03918 | role: main_text | format: prose -->
+[Not yet translated: U03917.]
+
+<!-- TGD-003918 -->
+
 ཞེས་པས་ཆོས་སྐུ་དོན་དམ་པ་འབའ་ཞིག་ཡིན་ཟེར་བ་དང༌།
 
-<!-- pair: TGD-003919 | source: U03919 | role: main_text | format: prose -->
+[Not yet translated: U03918.]
+
+<!-- TGD-003919 -->
+
 ཡང་རྟོགས་བྱ་དབྱིངས་དང་
 
-<!-- pair: TGD-003920 | source: U03920 | role: main_text | format: prose -->
+[Not yet translated: U03919.]
+
+<!-- TGD-003920 -->
+
 རྟོགས་བྱེད་ཀྱི་བློ་འདྲེས་གང་ཡོད་པས་
 
-<!-- pair: TGD-003921 | source: U03921 | role: main_text | format: prose -->
+[Not yet translated: U03920.]
+
+<!-- TGD-003921 -->
+
 ཆོས་སྐུ་ལ་ཡང་ཀུན་རྫོབ་ཀྱི་ཆ་ཤས་ཅུང་ཟད་ཡོད་ཟེར་བ་སོགས་སྣང་ཡང་།
 
-<!-- pair: TGD-003922 | source: U03922 | role: main_text | format: prose -->
+[Not yet translated: U03921.]
+
+<!-- TGD-003922 -->
+
 འདིར་འབྲས་བུ་སངས་རྒྱས་ཀྱི་ས་ན་
 
-<!-- pair: TGD-003923 | source: U03923 | role: main_text | format: prose -->
+[Not yet translated: U03922.]
+
+<!-- TGD-003923 -->
+
 བདེན་གཉིས་ཀྱི་སྤྲོས་པ་རྣམ་པར་དབྱེ་བར་བྱ་བའི་ཆོས་ཙམ་མེད་དེ་
 
-<!-- pair: TGD-003924 | source: U03924 | role: main_text | format: prose -->
+[Not yet translated: U03923.]
+
+<!-- TGD-003924 -->
+
 དོན་དམ་དང་ཀུན་རྫོབ་ནི་གཅིག་ལ་གཅིག་ལྟོས་ནས་བཞག་པས་
 
-<!-- pair: TGD-003925 | source: U03925 | role: main_text | format: prose -->
+[Not yet translated: U03924.]
+
+<!-- TGD-003925 -->
+
 འབྲས་བུ་གཉིས་མེད་
 
-<!-- pair: TGD-003926 | source: U03926 | role: main_text | format: prose -->
+[Not yet translated: U03925.]
+
+<!-- TGD-003926 -->
+
 མཉམ་པ་ཉིད་དུ་གྱུར་པས་ན་
 
-<!-- pair: TGD-003927 | source: U03927 | role: main_text | format: prose -->
+[Not yet translated: U03926.]
+
+<!-- TGD-003927 -->
+
 དོན་དམ་པ་ལ་ལྟོས་པའི་ཀུན་རྫོབ་མེད་ཅིང་།
 
-<!-- pair: TGD-003928 | source: U03928 | role: main_text | format: prose -->
+[Not yet translated: U03927.]
+
+<!-- TGD-003928 -->
+
 དེ་ལ་ལྟོས་པའི་དོན་དམ་མེད་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-003929 | source: U03929 | role: main_text | format: prose -->
+[Not yet translated: U03928.]
+
+<!-- TGD-003929 -->
+
 དེ་ལྟར་ཡང་མཚན་བརྗོད་ལས།
 
-<!-- pair: TGD-003930 | source: U03930 | role: main_text | format: prose -->
+[Not yet translated: U03929.]
+
+<!-- TGD-003930 -->
+
 གཉིས་མེད་གཉིས་སུ་མེད་པར་སྟོན། །
 
-<!-- pair: TGD-003931 | source: U03931 | role: main_text | format: prose -->
+[Not yet translated: U03930.]
+
+<!-- TGD-003931 -->
+
 ཡང་དག་མཐའ་ལ་རྣམ་པར་གནས།
 
-<!-- pair: TGD-003932 | source: U03932 | role: main_text | format: prose -->
+[Not yet translated: U03931.]
+
+<!-- TGD-003932 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-003933 | source: U03933 | role: main_text | format: prose -->
+[Not yet translated: U03932.]
+
+<!-- TGD-003933 -->
+
 བཤད་རྒྱུད་རྡོར་ཕྲེང་ལས།
 
-<!-- pair: TGD-003934 | source: U03934 | role: main_text | format: prose -->
+[Not yet translated: U03933.]
+
+<!-- TGD-003934 -->
+
 ཀུན་རྫོབ་དང་ནི་དོན་དམ་དག །
 
-<!-- pair: TGD-003935 | source: U03935 | role: main_text | format: prose -->
+[Not yet translated: U03934.]
+
+<!-- TGD-003935 -->
+
 རྟོག་པ་གཉིས་དང་ཡང་དག་བྲལ། །
 
-<!-- pair: TGD-003936 | source: U03936 | role: main_text | format: prose -->
+[Not yet translated: U03935.]
+
+<!-- TGD-003936 -->
+
 གང་དུ་ཡང་དག་འདྲེས་གྱུར་པ། །
 
-<!-- pair: TGD-003937 | source: U03937 | role: main_text | format: prose -->
+[Not yet translated: U03936.]
+
+<!-- TGD-003937 -->
+
 དེ་ནི་ཟུང་དུ་འཇུག་པར་བཤད།
 
-<!-- pair: TGD-003938 | source: U03938 | role: main_text | format: prose -->
+[Not yet translated: U03937.]
+
+<!-- TGD-003938 -->
+
 ཅེས་དང།
 
-<!-- pair: TGD-003939 | source: U03939 | role: main_text | format: prose -->
+[Not yet translated: U03938.]
+
+<!-- TGD-003939 -->
+
 རྩ་ཤེས་ལས།
 
-<!-- pair: TGD-003940 | source: U03940 | role: main_text | format: prose -->
+[Not yet translated: U03939.]
+
+<!-- TGD-003940 -->
+
 གང་གི་རྟེན་ཅིང་འབྲེལ་བར་འབྱུང༌། །
 
-<!-- pair: TGD-003941 | source: U03941 | role: main_text | format: prose -->
+[Not yet translated: U03940.]
+
+<!-- TGD-003941 -->
+
 འགག་པ་མེད་པ་སྐྱེ་མེད་པ། །
 
-<!-- pair: TGD-003942 | source: U03942 | role: main_text | format: prose -->
+[Not yet translated: U03941.]
+
+<!-- TGD-003942 -->
+
 ཆད་པ་མེད་པ་རྟག་མེད་པ། །
 
-<!-- pair: TGD-003943 | source: U03943 | role: main_text | format: prose -->
+[Not yet translated: U03942.]
+
+<!-- TGD-003943 -->
+
 འོང་བ་མེད་པ་འགྲོ་མེད་པ། །
 
-<!-- pair: TGD-003944 | source: U03944 | role: main_text | format: prose -->
+[Not yet translated: U03943.]
+
+<!-- TGD-003944 -->
+
 ཐ་དད་དོན་མིན་དོན་གཅིག་མིན།
 
-<!-- pair: TGD-003945 | source: U03945 | role: main_text | format: prose -->
+[Not yet translated: U03944.]
+
+<!-- TGD-003945 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-003946 | source: U03946 | role: main_text | format: prose -->
+[Not yet translated: U03945.]
+
+<!-- TGD-003946 -->
+
 ཤེར་སྙིང་ལས།
 
-<!-- pair: TGD-003947 | source: U03947 | role: main_text | format: prose -->
+[Not yet translated: U03946.]
+
+<!-- TGD-003947 -->
+
 གཟུགས་སྟོང་པའོ༑
 
-<!-- pair: TGD-003948 | source: U03948 | role: main_text | format: prose -->
+[Not yet translated: U03947.]
+
+<!-- TGD-003948 -->
+
 ༑སྟོང་པ་ཉིད་གཟུགས་སོ༑ །
 
-<!-- pair: TGD-003949 | source: U03949 | role: main_text | format: prose -->
+[Not yet translated: U03948.]
+
+<!-- TGD-003949 -->
+
 ཞེས་སོགས་མཐའ་ཡས་པས་གཉིས་ཆོས་ཐམས་ཅད་ལས་འདས་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-003950 | source: U03950 | role: main_text | format: prose -->
+[Not yet translated: U03949.]
+
+<!-- TGD-003950 -->
+
 རྡོ༽༽ བརྟེན་པ་ཡེ་ཤེས་ལ་ཟླ་གྲགས་སོགས་ཐལ་འགྱུར་བ་འགའ་ཞིག་
 
-<!-- pair: TGD-003951 | source: U03951 | role: main_text | format: prose -->
+[Not yet translated: U03950.]
+
+<!-- TGD-003951 -->
+
 རྒྱུན་མཐའི་རྡོ་ཏིང་གི་སྤངས་བྱ་ཕྲ་བ་སྤང་བ་ཡན་ཆད་སྤང་བྱ་ཡོད་པས་
 
-<!-- pair: TGD-003952 | source: U03952 | role: main_text | format: prose -->
+[Not yet translated: U03951.]
+
+<!-- TGD-003952 -->
+
 གཉེན་པོ་ཡེ་ཤེས་ཀྱང་ཡོད་དེ་
 
-<!-- pair: TGD-003953 | source: U03953 | role: main_text | format: prose -->
+[Not yet translated: U03952.]
+
+<!-- TGD-003953 -->
+
 ཤིང་ཡོད་ཚེ་མེ་ལྕེ་ཡོད་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-003954 | source: U03954 | role: main_text | format: prose -->
+[Not yet translated: U03953.]
+
+<!-- TGD-003954 -->
+
 དེ་ལྟར་ཡང།
 
-<!-- pair: TGD-003955 | source: U03955 | role: main_text | format: prose -->
+[Not yet translated: U03954.]
+
+<!-- TGD-003955 -->
+
 ཤེས་བྱའི་བུད་ཤིང་སྐམ་པོ་མ་ལུས་པ། །
 
-<!-- pair: TGD-003956 | source: U03956 | role: main_text | format: prose -->
+[Not yet translated: U03955.]
+
+<!-- TGD-003956 -->
+
 བསྲེགས་པས་ཞིང་དེ་རྒྱལ་རྣམས་ཆོས་སྐུ་དེ། །
 
-<!-- pair: TGD-003957 | source: U03957 | role: main_text | format: prose -->
+[Not yet translated: U03956.]
+
+<!-- TGD-003957 -->
+
 དེ་ཚེ་སྐྱེ་བ་མེད་ཅིང་འགག་པ་མེད། །
 
-<!-- pair: TGD-003958 | source: U03958 | role: main_text | format: prose -->
+[Not yet translated: U03957.]
+
+<!-- TGD-003958 -->
+
 སེམས་འགགས་པ་དེ་སྐུ་ཡིས་མངོན་སུམ་མཛད།
 
-<!-- pair: TGD-003959 | source: U03959 | role: main_text | format: prose -->
+[Not yet translated: U03958.]
+
+<!-- TGD-003959 -->
+
 ཅེས་དང།
 
-<!-- pair: TGD-003960 | source: U03960 | role: main_text | format: prose -->
+[Not yet translated: U03959.]
+
+<!-- TGD-003960 -->
+
 ཤེར་སྙིང་ལས།
 
-<!-- pair: TGD-003961 | source: U03961 | role: main_text | format: prose -->
+[Not yet translated: U03960.]
+
+<!-- TGD-003961 -->
+
 ཡེ་ཤེས་མེད་ཅེས་པས་སོ། །
 
-<!-- pair: TGD-003962 | source: U03962 | role: main_text | format: prose -->
+[Not yet translated: U03961.]
+
+<!-- TGD-003962 -->
+
 ཡོད་པར་གསུངས་པ་ནི་གཞན་དབང་ཡིན་ཟེར་རོ། །
 
-<!-- pair: TGD-003963 | source: U03963 | role: main_text | format: prose -->
+[Not yet translated: U03962.]
+
+<!-- TGD-003963 -->
+
 ཡང་ལེགས་ལྡན་སོགས་རང་རྒྱུད་པ་རྣམས་ནི་
 
-<!-- pair: TGD-003964 | source: U03964 | role: main_text | format: prose -->
+[Not yet translated: U03963.]
+
+<!-- TGD-003964 -->
+
 མཐར་ཐུག་ཡེ་ཤེས་ནི་ནམ་མཁའ་ལ་འདོམ་གྱི་གཞལ་བའམ་
 
-<!-- pair: TGD-003965 | source: U03965 | role: main_text | format: prose -->
+[Not yet translated: U03964.]
+
+<!-- TGD-003965 -->
+
 མཚོན་གྱི་རི་མོ་འབྲི་བ་བཞིན་ནོ། །
 
-<!-- pair: TGD-003966 | source: U03966 | role: main_text | format: prose -->
+[Not yet translated: U03965.]
+
+<!-- TGD-003966 -->
+
 ཡེཤེས་དེ་ཐོས་ནས་ཐེ་ཚོམ་ཟོས་པ་ཙམ་གྱིས་ཀྱང་
 
-<!-- pair: TGD-003967 | source: U03967 | role: main_text | format: prose -->
+[Not yet translated: U03966.]
+
+<!-- TGD-003967 -->
+
 འཁོར་བ་ནུས་མེད་དུ་གཏོང་སྟེ།
 
-<!-- pair: TGD-003968 | source: U03968 | role: main_text | format: prose -->
+[Not yet translated: U03967.]
+
+<!-- TGD-003968 -->
+
 བཞི་བརྒྱ་པར།
 
-<!-- pair: TGD-003969 | source: U03969 | role: main_text | format: prose -->
+[Not yet translated: U03968.]
+
+<!-- TGD-003969 -->
+
 གང་ཞིག་ཆོས་འདི་ཐོས་པའམ།
 
-<!-- pair: TGD-003970 | source: U03970 | role: main_text | format: prose -->
+[Not yet translated: U03969.]
+
+<!-- TGD-003970 -->
+
 ཐོས་ནས་ཐེ་ཚོམ་ཟོས་པས་ཀྱང༌། །
 
-<!-- pair: TGD-003971 | source: U03971 | role: main_text | format: prose -->
+[Not yet translated: U03970.]
+
+<!-- TGD-003971 -->
+
 སྲིད་པ་ཧྲུལ་པོར་གཏོང་བར་བྱེད།
 
-<!-- pair: TGD-003972 | source: U03972 | role: main_text | format: prose -->
+[Not yet translated: U03971.]
+
+<!-- TGD-003972 -->
+
 ཅེས་སོ། །
 
-<!-- pair: TGD-003973 | source: U03973 | role: main_text | format: prose -->
+[Not yet translated: U03972.]
+
+<!-- TGD-003973 -->
+
 རྡོ༽༽ མྱ་ངན་འདས་པ་ལས་ཆེས་ལྷག་པའི་ཆོས་གཅིག་ཡོད་ན་
 
-<!-- pair: TGD-003974 | source: U03974 | role: main_text | format: prose -->
+[Not yet translated: U03973.]
+
+<!-- TGD-003974 -->
+
 ཡང་སྒྱུ་མ་ལྟ་བུ་གསུངས་པས་སངས་རྒྱས་ཀྱང་སྒྱུ་མ་ལྟ་བུ་ཞེས་འགར་སོགས་ཀྱིས་ཟེར་རོ། །
 
-<!-- pair: TGD-003975 | source: U03975 | role: main_text | format: prose -->
+[Not yet translated: U03974.]
+
+<!-- TGD-003975 -->
+
 སངས་རྒྱས་ཆོས་ཅན་
 
-<!-- pair: TGD-003976 | source: U03976 | role: main_text | format: prose -->
+[Not yet translated: U03975.]
+
+<!-- TGD-003976 -->
+
 ཁྱོད་སྒྱུ་མ་ལྟ་བུའི་ཆོས་ལས་ཀྱང་ཡང་དག་པར་འདས་པ་ཡིན་ཏེ་
 
-<!-- pair: TGD-003977 | source: U03977 | role: main_text | format: prose -->
+[Not yet translated: U03976.]
+
+<!-- TGD-003977 -->
+
 འཁོར་འདས་ཀྱི་ཆོས་མ་ལུས་པ་སྤྲོས་པ་དང་བྲལ་བའི་ངོ་བོར་སངས་རྒྱས་པའི་ཕྱིར་དང་༑
 
-<!-- pair: TGD-003978 | source: U03978 | role: main_text | format: prose -->
+[Not yet translated: U03977.]
+
+<!-- TGD-003978 -->
+
 སྒྱུ་མ་ནི་འཁྲུལ་ཤེས་མི་རྟག་པ་ཡིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-003979 | source: U03979 | role: main_text | format: prose -->
+[Not yet translated: U03978.]
+
+<!-- TGD-003979 -->
+
 དེ་ལྟར་ཡང་ཆོས་ཀུན་སྒྱུ་མར་ཐུགས་སུ་ཆུད།
 
-<!-- pair: TGD-003980 | source: U03980 | role: main_text | format: prose -->
+[Not yet translated: U03979.]
+
+<!-- TGD-003980 -->
+
 སྒྱུ་མ་ཉིད་ཀྱང་མཆིས་མ་ལགས། །
 
-<!-- pair: TGD-003981 | source: U03981 | role: main_text | format: prose -->
+[Not yet translated: U03980.]
+
+<!-- TGD-003981 -->
+
 སྒྱུ་མའི་ཆོས་ལས་རྣམ་གྲོལ་བ། །
 
-<!-- pair: TGD-003982 | source: U03982 | role: main_text | format: prose -->
+[Not yet translated: U03981.]
+
+<!-- TGD-003982 -->
+
 མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-003983 | source: U03983 | role: main_text | format: prose -->
+[Not yet translated: U03982.]
+
+<!-- TGD-003983 -->
+
 ཞེས་ཡེ་ཤེས་སྣང་བ་རྒྱན་ལས་གསུངས་པས་
 
-<!-- pair: TGD-003984 | source: U03984 | role: main_text | format: prose -->
+[Not yet translated: U03983.]
+
+<!-- TGD-003984 -->
+
 བློ་ལས་འདས་པ་ཡིན་ནོ། །
 
-<!-- pair: TGD-003985 | source: U03985 | role: main_text | format: prose -->
+[Not yet translated: U03984.]
+
+<!-- TGD-003985 -->
+
 འོ་ན་སྒྱུ་མ་ལྟར་གསུངས་པ་ཅི་ཞེ་ན།
 
-<!-- pair: TGD-003986 | source: U03986 | role: main_text | format: prose -->
+[Not yet translated: U03985.]
+
+<!-- TGD-003986 -->
+
 དེ་ནི་སྒྱུ་མ་ལས་འདས་པར་
 
-<!-- pair: TGD-003987 | source: U03987 | role: main_text | format: prose -->
+[Not yet translated: U03986.]
+
+<!-- TGD-003987 -->
+
 མ་རྟོགས་པའི་སེམས་ཅན་སྒྱུ་མ་དང་རྨི་ལམ་བཞིིན་
 
-<!-- pair: TGD-003988 | source: U03988 | role: main_text | format: prose -->
+[Not yet translated: U03987.]
+
+<!-- TGD-003988 -->
+
 ཁམས་གསུམ་དུ་འཁོར་བ་རྣམས་ཀྱི་ངོར་གསུངས་སོ། །
 
-<!-- pair: TGD-003989 | source: U03989 | role: main_text | format: prose -->
+[Not yet translated: U03988.]
+
+<!-- TGD-003989 -->
+
 རྡོ༽༽ ཚད་མའི་བློ་མངོན་སུམ་དང་རྗེས་དཔག་གཉིས་
 
-<!-- pair: TGD-003990 | source: U03990 | role: main_text | format: prose -->
+[Not yet translated: U03989.]
+
+<!-- TGD-003990 -->
+
 ཚད་མིན་གྱི་བློ་ཐེ་ཚོམ་ཡིད་དཔྱོད། ལོག་ཤེས། བཅད་ཤེས། སྣང་བ་མ་ངེས་པ་དང་ལྔ་་སྟེ་
 
-<!-- pair: TGD-003991 | source: U03991 | role: main_text | format: prose -->
+[Not yet translated: U03990.]
+
+<!-- TGD-003991 -->
+
 བདུན་དུ་གསུསངས་པས༑
 
-<!-- pair: TGD-003992 | source: U03992 | role: main_text | format: prose -->
+[Not yet translated: U03991.]
+
+<!-- TGD-003992 -->
+
 ཐོ་རང་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་བརྙེས་པའི་སྐད་ཅིག་དང་པོ་ཕན་ཆད་
 
-<!-- pair: TGD-003993 | source: U03993 | role: main_text | format: prose -->
+[Not yet translated: U03992.]
+
+<!-- TGD-003993 -->
+
 ཐུགས་ཚད་མ་ཡིན་ལ་
 
-<!-- pair: TGD-003994 | source: U03994 | role: main_text | format: prose -->
+[Not yet translated: U03993.]
+
+<!-- TGD-003994 -->
+
 གཉིས་པ་ཕྱིན་ཆད་བཅད་ཤེས་སྒྲོ་འདོགས་ཆོད་པ་ཡིན་པས་
 
-<!-- pair: TGD-003995 | source: U03995 | role: main_text | format: prose -->
+[Not yet translated: U03994.]
+
+<!-- TGD-003995 -->
+
 ཚད་མར་མི་འགྱུར་ཟེར་བ་དག་ཀྱང་ཡོད་དོ།
 
-<!-- pair: TGD-003996 | source: U03996 | role: main_text | format: prose -->
+[Not yet translated: U03995.]
+
+<!-- TGD-003996 -->
+
 འདིར་སངས་རྒྱས་པའི་དུས་རྣམས་
 
-<!-- pair: TGD-003997 | source: U03997 | role: main_text | format: prose -->
+[Not yet translated: U03996.]
+
+<!-- TGD-003997 -->
+
 རྟག་ཏུ་ཚད་མར་བཞུགས་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-003998 | source: U03998 | role: main_text | format: prose -->
+[Not yet translated: U03997.]
+
+<!-- TGD-003998 -->
+
 དེ་བཞིན་གཤེགས་པ་འཇིག་རྟེན་ན་མཉམ་པ་མེད་པ་དང་
 
-<!-- pair: TGD-003999 | source: U03999 | role: main_text | format: prose -->
+[Not yet translated: U03998.]
+
+<!-- TGD-003999 -->
+
 མི་བསླུ་བ་ཡིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004000 | source: U04000 | role: main_text | format: prose -->
+[Not yet translated: U03999.]
+
+<!-- TGD-004000 -->
+
 དེ་ལྟར་ཡང་ལག་ན་རྡོ་རྗེ་དབར་བསྐུར་བའི་རྒྱུད་ལས།
 
-<!-- pair: TGD-004001 | source: U04001 | role: main_text | format: prose -->
+[Not yet translated: U04000.]
+
+<!-- TGD-004001 -->
+
 དེ་བཞིན་གཤེགས་པ་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་གྱི་ཚད་མ་མི་བསླུ་བའོ། །
 
-<!-- pair: TGD-004002 | source: U04002 | role: main_text | format: prose -->
+[Not yet translated: U04001.]
+
+<!-- TGD-004002 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-004003 | source: U04003 | role: main_text | format: prose -->
+[Not yet translated: U04002.]
+
+<!-- TGD-004003 -->
+
 གསེར་འོད་དང་ལྟུང་བཤགས་ཡོད་དེ།
 
-<!-- pair: TGD-004004 | source: U04004 | role: main_text | format: prose -->
+[Not yet translated: U04003.]
+
+<!-- TGD-004004 -->
+
 མདོ་སྡུད་པ་ལས།
 
-<!-- pair: TGD-004005 | source: U04005 | role: main_text | format: prose -->
+[Not yet translated: U04004.]
+
+<!-- TGD-004005 -->
+
 ཡེཤེས་མེད་ན་ཡོན་ཏན་འཕེལ་མེད་བྱང་ཆུབ་མེད། །
 
-<!-- pair: TGD-004006 | source: U04006 | role: main_text | format: prose -->
+[Not yet translated: U04005.]
+
+<!-- TGD-004006 -->
+
 རྒྱ་མཚོ་འདྲ་བའི་སངས་རྒྱས་ཆོས་ཀྱང་མེད་པར་གྱུར།
 
-<!-- pair: TGD-004007 | source: U04007 | role: main_text | format: prose -->
+[Not yet translated: U04006.]
+
+<!-- TGD-004007 -->
+
 ཞེས་དང།
 
-<!-- pair: TGD-004008 | source: U04008 | role: main_text | format: prose -->
+[Not yet translated: U04007.]
+
+<!-- TGD-004008 -->
+
 མདོ་སྡེ་རྣམས་ནས།
 
-<!-- pair: TGD-004009 | source: U04009 | role: main_text | format: prose -->
+[Not yet translated: U04008.]
+
+<!-- TGD-004009 -->
+
 ཉིན་མཚན་དུས་དྲུག་ཏུ་འཇིག་རྟེན་ལ་ཡེ་ཤེས་ཀྱི་གཟིགས་པ་འཇུག་པར་གསུངས་པ་དང༌།
 
-<!-- pair: TGD-004010 | source: U04010 | role: main_text | format: prose -->
+[Not yet translated: U04009.]
+
+<!-- TGD-004010 -->
+
 མ་འདྲེས་པ་བཅོ་བརྒྱད་ལས་ཡེ་ཤེས་ཀྱི་བསྡུས་པ་གསུམ་དུ་གསུངས་པའི་ཕྱིར་ཡོད་དོ་
 
-<!-- pair: TGD-004011 | source: U04011 | role: main_text | format: prose -->
+[Not yet translated: U04010.]
+
+<!-- TGD-004011 -->
+
 ཞེས་སྨྲ་ཡང་།
 
-<!-- pair: TGD-004012 | source: U04012 | role: main_text | format: prose -->
+[Not yet translated: U04011.]
+
+<!-- TGD-004012 -->
+
 རང་ལུགས་ལ་སངས་རྒྱས་ཀྱི་སར་མཁྱེན་པའི་ཡེ་ཤེས་གཉིས་སུ་མེད་ཅིང་
 
-<!-- pair: TGD-004013 | source: U04013 | role: main_text | format: prose -->
+[Not yet translated: U04012.]
+
+<!-- TGD-004013 -->
+
 སྤྲོས་པའི་མཐའ་ཐམས་ཅད་དང་བྲལ་བ་
 
-<!-- pair: TGD-004014 | source: U04014 | role: main_text | format: prose -->
+[Not yet translated: U04013.]
+
+<!-- TGD-004014 -->
+
 ཟབ་མོ་བསམ་གྱིས་མི་ཁྱབ་པའི་འཁོར་ལོར་བཞུགས་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-004015 | source: U04015 | role: main_text | format: prose -->
+[Not yet translated: U04014.]
+
+<!-- TGD-004015 -->
+
 ཡོད་མེད་དུ་འདོད་པ་ནི་གཉིས་སྣང་གི་བློ་ཡིན་ལ་
 
-<!-- pair: TGD-004016 | source: U04016 | role: main_text | format: prose -->
+[Not yet translated: U04015.]
+
+<!-- TGD-004016 -->
+
 མཐའ་ཐུག་གི་ཡེ་ཤེས་སུ་མ་ཟད་
 
-<!-- pair: TGD-004017 | source: U04017 | role: main_text | format: prose -->
+[Not yet translated: U04016.]
+
+<!-- TGD-004017 -->
+
 ལམ་གྱི་དོན་དམ་ཡང་བློའི་ཡུལ་མིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004018 | source: U04018 | role: main_text | format: prose -->
+[Not yet translated: U04017.]
+
+<!-- TGD-004018 -->
+
 དེ་ལྟར་ཡང་མཚན་བརྗོད་ལས།
 
-<!-- pair: TGD-004019 | source: U04019 | role: main_text | format: prose -->
+[Not yet translated: U04018.]
+
+<!-- TGD-004019 -->
+
 གཉིས་མེད་ཡེ་ཤེས་ཚུལ་འཆང་བ། །
 
-<!-- pair: TGD-004020 | source: U04020 | role: main_text | format: prose -->
+[Not yet translated: U04019.]
+
+<!-- TGD-004020 -->
+
 རྣམ་པར་ཤེས་པའི་ཆོས་ཉིད་འདས།
 
-<!-- pair: TGD-004021 | source: U04021 | role: main_text | format: prose -->
+[Not yet translated: U04020.]
+
+<!-- TGD-004021 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-004022 | source: U04022 | role: main_text | format: prose -->
+[Not yet translated: U04021.]
+
+<!-- TGD-004022 -->
+
 སྤྱོད་འཇུག་ལས།
 
-<!-- pair: TGD-004023 | source: U04023 | role: main_text | format: prose -->
+[Not yet translated: U04022.]
+
+<!-- TGD-004023 -->
+
 དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན། །
 
-<!-- pair: TGD-004024 | source: U04024 | role: main_text | format: prose -->
+[Not yet translated: U04023.]
+
+<!-- TGD-004024 -->
+
 བློ་ནི་ཀུན་རྫོབ་ཡིན་པར་འདོད།
 
-<!-- pair: TGD-004025 | source: U04025 | role: main_text | format: prose -->
+[Not yet translated: U04024.]
+
+<!-- TGD-004025 -->
+
 ཅེས་སོ།
 
-<!-- pair: TGD-004026 | source: U04026 | role: main_text | format: prose -->
+[Not yet translated: U04025.]
+
+<!-- TGD-004026 -->
+
 དེས་ན་ཆོས་ཐམས་ཅད་ཀྱི་གནས་ལུགས་ཇི་ལྟ་བ་མཁྱེན་པ་དང༌།
 
-<!-- pair: TGD-004027 | source: U04027 | role: main_text | format: prose -->
+[Not yet translated: U04026.]
+
+<!-- TGD-004027 -->
+
 སྟོང་ཉིད་རྒྱུ་འབྲས་སུ་འབྱུང་བའི་ཆོས་ཐམས་ཅད་ཀྱི་
 
-<!-- pair: TGD-004028 | source: U04028 | role: main_text | format: prose -->
+[Not yet translated: U04027.]
+
+<!-- TGD-004028 -->
+
 གཞི་ལམ་འབྲས་བུའི་རྟེན་འབྲེལ་ཇི་སྙེད་མཁྱེན་པ་
 
-<!-- pair: TGD-004029 | source: U04029 | role: main_text | format: prose -->
+[Not yet translated: U04028.]
+
+<!-- TGD-004029 -->
+
 དེ་གཉིས་ཡོད་མེད་སྤྲོས་པ་ཐམས་ཅད་ལས་གྲོལ་བ་ཡིན་ནོ། །
 
-<!-- pair: TGD-004030 | source: U04030 | role: main_text | format: prose -->
+[Not yet translated: U04029.]
+
+<!-- TGD-004030 -->
+
 ཡོད་མེད་དུ་འདོད་པ་ནི་
 
-<!-- pair: TGD-004031 | source: U04031 | role: main_text | format: prose -->
+[Not yet translated: U04030.]
+
+<!-- TGD-004031 -->
+
 རྟག་ཆད་དང་བདེ་འགྲོའི་ལམ་དང་ངན་འགྲོ་ལས་མ་འདས་ཏེ།
 
-<!-- pair: TGD-004032 | source: U04032 | role: main_text | format: prose -->
+[Not yet translated: U04031.]
+
+<!-- TGD-004032 -->
+
 ཏིང་འཛིན་ རྒྱལ་པོ་ལས།
 
-<!-- pair: TGD-004033 | source: U04033 | role: main_text | format: prose -->
+[Not yet translated: U04032.]
+
+<!-- TGD-004033 -->
+
 ཡོད་དང་མེད་ཅེས་བྱ་བ་མཐའ་ཡིན་ཏེ།
 
-<!-- pair: TGD-004034 | source: U04034 | role: main_text | format: prose -->
+[Not yet translated: U04033.]
+
+<!-- TGD-004034 -->
+
 དེ་བཞིན་གཙང་དང་མི་གཙང་འདི་ཡང་མཐའ། །
 
-<!-- pair: TGD-004035 | source: U04035 | role: main_text | format: prose -->
+[Not yet translated: U04034.]
+
+<!-- TGD-004035 -->
+
 དེ་ཕྱིར་མཐའ་འདི་དག་ནི་རྣམ་སྤངས་ཏེ།
 
-<!-- pair: TGD-004036 | source: U04036 | role: main_text | format: prose -->
+[Not yet translated: U04035.]
+
+<!-- TGD-004036 -->
+
 མཁས་པས་དབུས་ལའང་གནས་པར་མི་བྱའོ། ༑
 
-<!-- pair: TGD-004037 | source: U04037 | role: main_text | format: prose -->
+[Not yet translated: U04036.]
+
+<!-- TGD-004037 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-004038 | source: U04038 | role: main_text | format: prose -->
+[Not yet translated: U04037.]
+
+<!-- TGD-004038 -->
+
 སློབ་དཔོན་འཕགས་པས།
 
-<!-- pair: TGD-004039 | source: U04039 | role: main_text | format: prose -->
+[Not yet translated: U04038.]
+
+<!-- TGD-004039 -->
+
 ཡོད་ཅེས་བྱ་བ་རྟག་པར་ལྟ། །
 
-<!-- pair: TGD-004040 | source: U04040 | role: main_text | format: prose -->
+[Not yet translated: U04039.]
+
+<!-- TGD-004040 -->
+
 མེད་ཅེས་བྱ་བ་ཆད་པར་ལྟ། །
 
-<!-- pair: TGD-004041 | source: U04041 | role: main_text | format: prose -->
+[Not yet translated: U04040.]
+
+<!-- TGD-004041 -->
+
 དེ་ཕྱིར་ཡོད་ དང་མེད་པ་གཉིས། །
 
-<!-- pair: TGD-004042 | source: U04042 | role: main_text | format: prose -->
+[Not yet translated: U04041.]
+
+<!-- TGD-004042 -->
+
 མཁས་པས་གནས་པར་མི་བྱའོ། །
 
-<!-- pair: TGD-004043 | source: U04043 | role: main_text | format: prose -->
+[Not yet translated: U04042.]
+
+<!-- TGD-004043 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-004044 | source: U04044 | role: main_text | format: prose -->
+[Not yet translated: U04043.]
+
+<!-- TGD-004044 -->
+
 དེས་ན་ཆད་པ་ལྔ་དང་བྲལ་བ་སྟེ།
 
-<!-- pair: TGD-004045 | source: U04045 | role: main_text | format: prose -->
+[Not yet translated: U04044.]
+
+<!-- TGD-004045 -->
+
 སྟོང་ཉིད་དབུ་མ་ཐལ་འགྱུར་བའི་རྒྱ་ཆད།
 
-<!-- pair: TGD-004046 | source: U04046 | role: main_text | format: prose -->
+[Not yet translated: U04045.]
+
+<!-- TGD-004046 -->
+
 ཉན་ཐོས་པའི་བཅོམ་ཆད།
 
-<!-- pair: TGD-004047 | source: U04047 | role: main_text | format: prose -->
+[Not yet translated: U04046.]
+
+<!-- TGD-004047 -->
+
 མུ་སྟེགས་ཆད་ལྟ་བའི་ཤི་ཆད།
 
-<!-- pair: TGD-004048 | source: U04048 | role: main_text | format: prose -->
+[Not yet translated: U04047.]
+
+<!-- TGD-004048 -->
+
 བློས་བྱས་ཀྱི་སྟོང་པ་ཕྱལ་ཆད།
 
-<!-- pair: TGD-004049 | source: U04049 | role: main_text | format: prose -->
+[Not yet translated: U04048.]
+
+<!-- TGD-004049 -->
+
 རྫོགས་ཆེན་པའི་གདོད་ནས་ཡེ་ཆད།
 
-<!-- pair: TGD-004050 | source: U04050 | role: main_text | format: prose -->
+[Not yet translated: U04049.]
+
+<!-- TGD-004050 -->
+
 དེ་ལྔ་ནི་བློས་གཞལ་བའི་ཆོས་ལས་མ་འདས་ཏེ།
 
-<!-- pair: TGD-004051 | source: U04051 | role: main_text | format: prose -->
+[Not yet translated: U04050.]
+
+<!-- TGD-004051 -->
+
 དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན་སོགས་ཀྱིས་ཤེས་པར་ནུས་སོ། །
 
-<!-- pair: TGD-004052 | source: U04052 | role: main_text | format: prose -->
+[Not yet translated: U04051.]
+
+<!-- TGD-004052 -->
+
 དེས་ན་བློས་དཔག་པ་ལས།
 
-<!-- pair: TGD-004053 | source: U04053 | role: main_text | format: prose -->
+[Not yet translated: U04052.]
+
+<!-- TGD-004053 -->
+
 ཚད་མར་གཟིགས་པ།
 
-<!-- pair: TGD-004054 | source: U04054 | role: main_text | format: prose -->
+[Not yet translated: U04053.]
+
+<!-- TGD-004054 -->
+
 མཁྱེན་པར་གཟིགས་པ་ཞེས་དང༌།
 
-<!-- pair: TGD-004055 | source: U04055 | role: main_text | format: prose -->
+[Not yet translated: U04054.]
+
+<!-- TGD-004055 -->
+
 སློབ་དཔོན་ཕྱོགས་གླང་གིས།
 
-<!-- pair: TGD-004056 | source: U04056 | role: main_text | format: prose -->
+[Not yet translated: U04055.]
+
+<!-- TGD-004056 -->
+
 ཚད་མར་གྱུར་པ་འགྲོ་ལ་ཕན་བཞེད་པ།
 
-<!-- pair: TGD-004057 | source: U04057 | role: main_text | format: prose -->
+[Not yet translated: U04056.]
+
+<!-- TGD-004057 -->
+
 སྟོན་པ་བདེ་གཤེགས་སྐྱོབ་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-004058 | source: U04058 | role: main_text | format: prose -->
+[Not yet translated: U04057.]
+
+<!-- TGD-004058 -->
+
 དེས་ན་བསམ་གྱིས་མི་ཁྱབ་པའི་གནས་ལ་སྐུར་བ་འདེབས་པ་
 
-<!-- pair: TGD-004059 | source: U04059 | role: main_text | format: prose -->
+[Not yet translated: U04058.]
+
+<!-- TGD-004059 -->
+
 འདི་ལྟ་བུ་ལ་རྣ་བ་བགབ་པར་བྱའོ། །
 
-<!-- pair: TGD-004060 | source: U04060 | role: main_text | format: prose -->
+[Not yet translated: U04059.]
+
+<!-- TGD-004060 -->
+
 རྡོ༽༽ ས་དང་པོ་ཡན་ལས་སྒྲིབ་དང༌།
 
-<!-- pair: TGD-004061 | source: U04061 | role: main_text | format: prose -->
+[Not yet translated: U04060.]
+
+<!-- TGD-004061 -->
+
 ས་བདུན་ལ་ཉོན་སྒྲིབ།
 
-<!-- pair: TGD-004062 | source: U04062 | role: main_text | format: prose -->
+[Not yet translated: U04061.]
+
+<!-- TGD-004062 -->
+
 རྒྱུན་མཐརཤེས་སྒྲིབ་སྤོང་བའམ།
 
-<!-- pair: TGD-004063 | source: U04063 | role: main_text | format: prose -->
+[Not yet translated: U04062.]
+
+<!-- TGD-004063 -->
+
 མཐོང་ལམ་གྱིས་ཉོན་མོངས།
 
-<!-- pair: TGD-004064 | source: U04064 | role: main_text | format: prose -->
+[Not yet translated: U04063.]
+
+<!-- TGD-004064 -->
+
 སྒོམ་ལམ་སྒོམ་སྤངས་ཏེ།
 
-<!-- pair: TGD-004065 | source: U04065 | role: main_text | format: prose -->
+[Not yet translated: U04064.]
+
+<!-- TGD-004065 -->
+
 མོས་པ་བྲལ་བའི་ངོ་བོར་སངས་རྒྱས་པ་ན་
 
-<!-- pair: TGD-004066 | source: U04066 | role: main_text | format: prose -->
+[Not yet translated: U04065.]
+
+<!-- TGD-004066 -->
+
 མཉམ་བཞག་སྟོབས་ཆེ་བས་རྗེས་ཐོབ་ཆད་དེ།
 
-<!-- pair: TGD-004067 | source: U04067 | role: main_text | format: prose -->
+[Not yet translated: U04066.]
+
+<!-- TGD-004067 -->
+
 རྟེན་སྐུ་བསོད།
 
-<!-- pair: TGD-004068 | source: U04068 | role: main_text | format: prose -->
+[Not yet translated: U04067.]
+
+<!-- TGD-004068 -->
+
 བརྟེན་པ་ཡེ་ཤེས་མཛད་འཕྲིན་རྣམས་ཀྱང་མེད་དེ།
 
-<!-- pair: TGD-004069 | source: U04069 | role: main_text | format: prose -->
+[Not yet translated: U04068.]
+
+<!-- TGD-004069 -->
+
 མེ་ཆེར་འབར་ན་དུ་བ་ཆད་པ་བཞིན་ནོ།
 
-<!-- pair: TGD-004070 | source: U04070 | role: main_text | format: prose -->
+[Not yet translated: U04069.]
+
+<!-- TGD-004070 -->
+
 ཅི་ཕྱིར།
 
-<!-- pair: TGD-004071 | source: U04071 | role: main_text | format: prose -->
+[Not yet translated: U04070.]
+
+<!-- TGD-004071 -->
+
 གསང་བ་བསམ་གྱིས་མི་ཁྱབ་པའི་མདོ་ལས།
 
-<!-- pair: TGD-004072 | source: U04072 | role: main_text | format: prose -->
+[Not yet translated: U04071.]
+
+<!-- TGD-004072 -->
+
 ཐུགས་ཀྱི་གསང་བའི་སྐབས་
 
-<!-- pair: TGD-004073 | source: U04073 | role: main_text | format: prose -->
+[Not yet translated: U04072.]
+
+<!-- TGD-004073 -->
+
 འདུ་ཤེས་མེད་པའི་ལྷར་དཔེ་མཛད་པ་ཡང་དོན་འདི་ཡིན་ནོ།
 
-<!-- pair: TGD-004074 | source: U04074 | role: main_text | format: prose -->
+[Not yet translated: U04073.]
+
+<!-- TGD-004074 -->
+
 རྣམ་རྟོག་མེད་བཞིན་དུ་སྔར་ཚོགས་བསགས་པས་
 
-<!-- pair: TGD-004075 | source: U04075 | role: main_text | format: prose -->
+[Not yet translated: U04074.]
+
+<!-- TGD-004075 -->
+
 ནམ་མཁའ་ལྡིང་གི་མཆོད་སྡོང་དང་
 
-<!-- pair: TGD-004076 | source: U04076 | role: main_text | format: prose -->
+[Not yet translated: U04075.]
+
+<!-- TGD-004076 -->
+
 ནོར་བུ་དཔག་བསམ་ཉི་མ་བཞིན་
 
-<!-- pair: TGD-004077 | source: U04077 | role: main_text | format: prose -->
+[Not yet translated: U04076.]
+
+<!-- TGD-004077 -->
+
 གདུལ་བྱའི་བློ་ངོར་སྣང་བ་མི་འགལ་ཟེར་རོ། །
 
-<!-- pair: TGD-004078 | source: U04078 | role: main_text | format: prose -->
+[Not yet translated: U04077.]
+
+<!-- TGD-004078 -->
+
 འདིར་ནི་སྤང་བྱ་སྒྲིབ་པ་ཐམས་ཅད་དང་བྲལ་བའི་འབྲས་བུས་
 
-<!-- pair: TGD-004079 | source: U04079 | role: main_text | format: prose -->
+[Not yet translated: U04078.]
+
+<!-- TGD-004079 -->
+
 སྤྲོས་བྲལ་ཇི་ལྟ་མཁྱེན་པའི་ཡེ་ཤེས་དང་རྟེན་འབྲེལ་ཇི་སྙེད་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱི་ཐུགས་ཅན་
 
-<!-- pair: TGD-004080 | source: U04080 | role: main_text | format: prose -->
+[Not yet translated: U04079.]
+
+<!-- TGD-004080 -->
+
 རྣམ་རྟོགས་ཐམས་ཅད་དང་བྲལ་བ་བཞེད་དེ་
 
-<!-- pair: TGD-004081 | source: U04081 | role: main_text | format: prose -->
+[Not yet translated: U04080.]
+
+<!-- TGD-004081 -->
+
 སྐུ་གསུང་ཐུགས་ཀྱི་ཕྲིན་ལས་ཐམས་ཅད་ཀྱི་སྔོན་དུ་འགྲོ་ཞིང་
 
-<!-- pair: TGD-004082 | source: U04082 | role: main_text | format: prose -->
+[Not yet translated: U04081.]
+
+<!-- TGD-004082 -->
+
 རྗེས་སུ་འབྲང་བ་དང༌།
 
-<!-- pair: TGD-004083 | source: U04083 | role: main_text | format: prose -->
+[Not yet translated: U04082.]
+
+<!-- TGD-004083 -->
+
 དུས་གསུམ་ལ་མ་ཆགས་མ་ཐོག་པའི་ཡེ་ཤེས་ཀྱི་གཟིགས་པ་འཇུག་པར་གསུངས་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004084 | source: U04084 | role: main_text | format: prose -->
+[Not yet translated: U04083.]
+
+<!-- TGD-004084 -->
+
 དེ་ལྟར་ཡང་།
 
-<!-- pair: TGD-004085 | source: U04085 | role: main_text | format: prose -->
+[Not yet translated: U04084.]
+
+<!-- TGD-004085 -->
+
 ནད་ཐམས་ཅད་ཞི་བར་བྱེད་པའི་གཟུངས་ལས།
 
-<!-- pair: TGD-004086 | source: U04086 | role: main_text | format: prose -->
+[Not yet translated: U04085.]
+
+<!-- TGD-004086 -->
+
 འདི་ལ་སངས་རྒྱས་ནི་སེམས་ཅན་གྱི་མཆོག་གོ །
 
-<!-- pair: TGD-004087 | source: U04087 | role: main_text | format: prose -->
+[Not yet translated: U04086.]
+
+<!-- TGD-004087 -->
+
 དཔའ་བོས།
 
-<!-- pair: TGD-004088 | source: U04088 | role: main_text | format: prose -->
+[Not yet translated: U04087.]
+
+<!-- TGD-004088 -->
+
 རྣམ་རྟོག་མི་མངའ་ཅིར་ཡང་ས་ལེར་མཁྱེན།
 
-<!-- pair: TGD-004089 | source: U04089 | role: main_text | format: prose -->
+[Not yet translated: U04088.]
+
+<!-- TGD-004089 -->
+
 ཅེས་དང་།
 
-<!-- pair: TGD-004090 | source: U04090 | role: main_text | format: prose -->
+[Not yet translated: U04089.]
+
+<!-- TGD-004090 -->
+
 མཚན་བརྗོད་ལས་༑
 
-<!-- pair: TGD-004091 | source: U04091 | role: main_text | format: prose -->
+[Not yet translated: U04090.]
+
+<!-- TGD-004091 -->
+
 ཡེ་ཤེས་སྣང་བ་ལམ་མེ་བ།
 
-<!-- pair: TGD-004092 | source: U04092 | role: main_text | format: prose -->
+[Not yet translated: U04091.]
+
+<!-- TGD-004092 -->
+
 ཞེས་སོ༑ །
 
-<!-- pair: TGD-004093 | source: U04093 | role: main_text | format: prose -->
+[Not yet translated: U04092.]
+
+<!-- TGD-004093 -->
+
 སངས་རྒྱས་ཐུགས་ཀྱི་འཇུག་པ་ཆད་པར་འདོད་པ་དེ་ཆོས་ཅན།
 
-<!-- pair: TGD-004094 | source: U04094 | role: main_text | format: prose -->
+[Not yet translated: U04093.]
+
+<!-- TGD-004094 -->
+
 མཁྱེན་གཉིས་དང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་རྒྱུན་ཆད་དུ་ཐལ།
 
-<!-- pair: TGD-004095 | source: U04095 | role: main_text | format: prose -->
+[Not yet translated: U04094.]
+
+<!-- TGD-004095 -->
+
 འགགས་པའི་ཕྱིར་བེམ་པོ་བཞིན་ནོ། །
 
-<!-- pair: TGD-004096 | source: U04096 | role: main_text | format: prose -->
+[Not yet translated: U04095.]
+
+<!-- TGD-004096 -->
+
 དེ་ལྟར་ཡང་རིན་ཆེན་འབར་བའི་རྒྱུད་ལས།
 
-<!-- pair: TGD-004097 | source: U04097 | role: main_text | format: prose -->
+[Not yet translated: U04096.]
+
+<!-- TGD-004097 -->
+
 ཐམས་ཅད་སེམས་ལ་གནས་པས་ན། །
 
-<!-- pair: TGD-004098 | source: U04098 | role: main_text | format: prose -->
+[Not yet translated: U04097.]
+
+<!-- TGD-004098 -->
+
 སེམས་མེད་སངས་རྒྱས་མ་ཡིན་ཏེ།
 
-<!-- pair: TGD-004099 | source: U04099 | role: main_text | format: prose -->
+[Not yet translated: U04098.]
+
+<!-- TGD-004099 -->
+
 ངམ་གྲོགས་ལ་སོགས་བེམ་བོའོ། །
 
-<!-- pair: TGD-004100 | source: U04100 | role: main_text | format: prose -->
+[Not yet translated: U04099.]
+
+<!-- TGD-004100 -->
+
 སེམས་ཉིད་སངས་རྒྱས་ཡིན་པའི་ཕྱིར།
 
-<!-- pair: TGD-004101 | source: U04101 | role: main_text | format: prose -->
+[Not yet translated: U04100.]
+
+<!-- TGD-004101 -->
+
 ཞེས་སོ༑ ༑
 
-<!-- pair: TGD-004102 | source: U04102 | role: main_text | format: prose -->
+[Not yet translated: U04101.]
+
+<!-- TGD-004102 -->
+
 འོ་ན་མེད་པར་གསུངས་བ་མཐའ་ཡས་པས་ཅི་ཞེ་ན།
 
-<!-- pair: TGD-004103 | source: U04103 | role: main_text | format: prose -->
+[Not yet translated: U04102.]
+
+<!-- TGD-004103 -->
+
 དེ་ནི་རྣམ་རྟོག་གཉིས་སུ་འཛིན་པའི་སེམས་མེད་གསུངས་ཀྱི།
 
-<!-- pair: TGD-004104 | source: U04104 | role: main_text | format: prose -->
+[Not yet translated: U04103.]
+
+<!-- TGD-004104 -->
+
 སྒྲིབ་པ་ཐམས་ཅད་བྲལ་བའི་ཡེ་ཤེས་ཀྱི་ཐུགས་མེད་ཅེས་གསུངས་པ་མིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004105 | source: U04105 | role: main_text | format: prose -->
+[Not yet translated: U04104.]
+
+<!-- TGD-004105 -->
+
 སྣང་བ་མེད་པར་གསུངས་པ་ཡང་
 
-<!-- pair: TGD-004106 | source: U04106 | role: main_text | format: prose -->
+[Not yet translated: U04105.]
+
+<!-- TGD-004106 -->
+
 ཕྱི་དོན་དུ་གྲུབ་པ་མེད་པས་ཡིན་ནོ༑ ༑
 
-<!-- pair: TGD-004107 | source: U04107 | role: main_text | format: prose -->
+[Not yet translated: U04106.]
+
+<!-- TGD-004107 -->
+
 རྡོ ༽༽ ཆོས་སྐུ་སྟོང་པ་ཉིད་མ་རྟོགས་ཀྱང་
 
-<!-- pair: TGD-004108 | source: U04108 | role: main_text | format: prose -->
+[Not yet translated: U04107.]
+
+<!-- TGD-004108 -->
+
 རང་བཞིན་གྱིས་སེམས་ཅན་རྣམས་ལ་ཡོད་པས་
 
-<!-- pair: TGD-004109 | source: U04109 | role: main_text | format: prose -->
+[Not yet translated: U04108.]
+
+<!-- TGD-004109 -->
+
 ཚེས་གཅིག་གི་ཟླ་བ་ཉར་འཕེལ་བ་བཞིན་
 
-<!-- pair: TGD-004110 | source: U04110 | role: main_text | format: prose -->
+[Not yet translated: U04109.]
+
+<!-- TGD-004110 -->
+
 ས་བཅུ་རྒྱུན་མཐའི་བར་འཕེལ་བས་
 
-<!-- pair: TGD-004111 | source: U04111 | role: main_text | format: prose -->
+[Not yet translated: U04110.]
+
+<!-- TGD-004111 -->
+
 རྒྱུ་རྐྱེན་གཉིས་ཆོས་ཐམས་ཅད་ལས་འདས་ཏེ་
 
-<!-- pair: TGD-004112 | source: U04112 | role: main_text | format: prose -->
+[Not yet translated: U04111.]
+
+<!-- TGD-004112 -->
+
 བྱང་ཆུབ་པ་ན་སྐྱོན་ཡོན་གང་ཡང་མེད་ཟེར་རོ།
 
-<!-- pair: TGD-004113 | source: U04113 | role: main_text | format: prose -->
+[Not yet translated: U04112.]
+
+<!-- TGD-004113 -->
+
 འདིར་ནི་ཆོས་སྐུའི་ཡོན་ཏན་ལོངས་སྐུ་དང་སྤྲུལ་སྐུ་ནི་
 
-<!-- pair: TGD-004114 | source: U04114 | role: main_text | format: prose -->
+[Not yet translated: U04113.]
+
+<!-- TGD-004114 -->
+
 དེའི་མཛད་པའི་ཕྲིན་ལས་དང་བཅས་པ་སྟེ་
 
-<!-- pair: TGD-004115 | source: U04115 | role: main_text | format: prose -->
+[Not yet translated: U04114.]
+
+<!-- TGD-004115 -->
+
 དེ་དག་ཆོས་སྐུར་མངའ་བ་ཡིན་ཏེ།
 
-<!-- pair: TGD-004116 | source: U04116 | role: main_text | format: prose -->
+[Not yet translated: U04115.]
+
+<!-- TGD-004116 -->
+
 རྗེ་བཙུན་བྱམས་པས།
 
-<!-- pair: TGD-004117 | source: U04117 | role: main_text | format: prose -->
+[Not yet translated: U04116.]
+
+<!-- TGD-004117 -->
+
 རང་དོན་གཞན་དོན་དོན་དམ་སྐུ་རང་ནི། །
 
-<!-- pair: TGD-004118 | source: U04118 | role: main_text | format: prose -->
+[Not yet translated: U04117.]
+
+<!-- TGD-004118 -->
+
 དེ་ལ་བརྟེན་ནས་ཀུན་རྫོབ་སྐུ་ཉིད་དེ།
 
-<!-- pair: TGD-004119 | source: U04119 | role: main_text | format: prose -->
+[Not yet translated: U04118.]
+
+<!-- TGD-004119 -->
+
 ཞེས་སོགས་གསུངས་པའི་ཕྱིར་རོ༑ ༑
 
-<!-- pair: TGD-004120 | source: U04120 | role: main_text | format: prose -->
+[Not yet translated: U04119.]
+
+<!-- TGD-004120 -->
+
 དེ་ལྟར་ན་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་
 
-<!-- pair: TGD-004121 | source: U04121 | role: main_text | format: prose -->
+[Not yet translated: U04120.]
+
+<!-- TGD-004121 -->
+
 སེམས་ཅན་གྱི་ཁམས་དང་མཉམ་པ་
 
-<!-- pair: TGD-004122 | source: U04122 | role: main_text | format: prose -->
+[Not yet translated: U04121.]
+
+<!-- TGD-004122 -->
+
 ཕྱི་མའི་མཐའི་མུར་ཐུག་གི་བར་དུ་འབྱུང་བ་ཡིན་ནོ། །
 
-<!-- pair: TGD-004123 | source: U04123 | role: main_text | format: prose -->
+[Not yet translated: U04122.]
+
+<!-- TGD-004123 -->
+
 དེ་ལྟར་མིན་པ་སངས་རྒྱས་པ་མཐར་ཐུག་
 
-<!-- pair: TGD-004124 | source: U04124 | role: main_text | format: prose -->
+[Not yet translated: U04123.]
+
+<!-- TGD-004124 -->
+
 ཆོས་སྐུའི་སར་ཡོན་ཏན་ཕྲིན་ལས་མེད་ན་
 
-<!-- pair: TGD-004125 | source: U04125 | role: main_text | format: prose -->
+[Not yet translated: U04124.]
+
+<!-- TGD-004125 -->
+
 རྒྱུན་ཆད་དེ་ཕྲིན་ལས་མི་འཇུག་ཅིང་
 
-<!-- pair: TGD-004126 | source: U04126 | role: main_text | format: prose -->
+[Not yet translated: U04125.]
+
+<!-- TGD-004126 -->
+
 ཆད་ལྟ་བ་དང་ཁྱད་མེད་པར་འགྱུར་རོ༑
 
-<!-- pair: TGD-004127 | source: U04127 | role: main_text | format: prose -->
+[Not yet translated: U04126.]
+
+<!-- TGD-004127 -->
+
 རྡོ༽༽ སངས་རྒྱས་རྣམས་འབྲས་བུའི་སྔོན་དུ་
 
-<!-- pair: TGD-004128 | source: U04128 | role: main_text | format: prose -->
+[Not yet translated: U04127.]
+
+<!-- TGD-004128 -->
+
 རྒྱུ་བྱང་ཆུབ་ཏུ་ཐུགས་བསྐྱེད་དེ་
 
-<!-- pair: TGD-004129 | source: U04129 | role: main_text | format: prose -->
+[Not yet translated: U04128.]
+
+<!-- TGD-004129 -->
+
 འབྲས་བུ་མཐར་ཕྱིན་པ་ན་
 
-<!-- pair: TGD-004130 | source: U04130 | role: main_text | format: prose -->
+[Not yet translated: U04129.]
+
+<!-- TGD-004130 -->
+
 རྒྱུ་ལ་མི་འཇུག་པས་ཐུགས་བསྐྱེད་ཡོད་ཟེར།
 
-<!-- pair: TGD-004131 | source: U04131 | role: main_text | format: prose -->
+[Not yet translated: U04130.]
+
+<!-- TGD-004131 -->
+
 དེ་ཆོས་ཅན་
 
-<!-- pair: TGD-004132 | source: U04132 | role: main_text | format: prose -->
+[Not yet translated: U04131.]
+
+<!-- TGD-004132 -->
+
 འབྲས་བུ་མཐར་ཐུག་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་སངས་རྒྱས་ཀྱི་ས་ནའང་ཐུགས་བསྐྱེད་ཡོད་དེ།
 
-<!-- pair: TGD-004133 | source: U04133 | role: main_text | format: prose -->
+[Not yet translated: U04132.]
+
+<!-- TGD-004133 -->
+
 བྱང་ཆུབ་ཀྱི་སེམས་མཐར་ཕྱིན་པའི་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་རྒྱུན་མི་ཆད་པའི་ཕྱིར།
 
-<!-- pair: TGD-004134 | source: U04134 | role: main_text | format: prose -->
+[Not yet translated: U04133.]
+
+<!-- TGD-004134 -->
+
 དཔེར་ན་ཉི་མའི་དཀྱིལ་འཁོར་ལ་འོད་ཟེར་རྒྱུན་མི་ཆད་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-004135 | source: U04135 | role: main_text | format: prose -->
+[Not yet translated: U04134.]
+
+<!-- TGD-004135 -->
+
 དེ་ལྟར་ཡང་བྱང་ཆུབ་སེམས་འགྲེལ་ལས།
 
-<!-- pair: TGD-004136 | source: U04136 | role: main_text | format: prose -->
+[Not yet translated: U04135.]
+
+<!-- TGD-004136 -->
+
 བྱང་ཆུབ་སེམས་ཀྱི་རང་བཞིན་སྐུ། །
 
-<!-- pair: TGD-004137 | source: U04137 | role: main_text | format: prose -->
+[Not yet translated: U04136.]
+
+<!-- TGD-004137 -->
+
 དཔལ་ལྡན་རྡོ་རྗེ་འཆང་ལ་འདུད།
 
-<!-- pair: TGD-004138 | source: U04138 | role: main_text | format: prose -->
+[Not yet translated: U04137.]
+
+<!-- TGD-004138 -->
+
 ཅེས་པས་
 
-<!-- pair: TGD-004139 | source: U04139 | role: main_text | format: prose -->
+[Not yet translated: U04138.]
+
+<!-- TGD-004139 -->
+
 གཞན་དོན་དུ་ཐུགས་བསྐྱེད་པ་འཁོར་བ་མ་སྟོང་གི་བར་དུ་འབྱུང་ཞིང་
 
-<!-- pair: TGD-004140 | source: U04140 | role: main_text | format: prose -->
+[Not yet translated: U04139.]
+
+<!-- TGD-004140 -->
+
 མྱ་ངན་ལས་མི་འདའ་སྟེ།
 
-<!-- pair: TGD-004141 | source: U04141 | role: main_text | format: prose -->
+[Not yet translated: U04140.]
+
+<!-- TGD-004141 -->
+
 ཡབ་སྲས་མཇལ་བ་ལས།
 
-<!-- pair: TGD-004142 | source: U04142 | role: main_text | format: prose -->
+[Not yet translated: U04141.]
+
+<!-- TGD-004142 -->
+
 དཔའ་བོ་ཆེན་པོ་ཐབས་མཁས་ཏེ། །
 
-<!-- pair: TGD-004143 | source: U04143 | role: main_text | format: prose -->
+[Not yet translated: U04142.]
+
+<!-- TGD-004143 -->
+
 བྱེ་བ་བརྒྱད་ཅུར་རྒྱལ་བ་ཉིད། །
 
-<!-- pair: TGD-004144 | source: U04144 | role: main_text | format: prose -->
+[Not yet translated: U04143.]
+
+<!-- TGD-004144 -->
+
 སངས་རྒྱས་ཉིད་དུ་བསྟན་གྱུར་ཀྱང་། །
 
-<!-- pair: TGD-004145 | source: U04145 | role: main_text | format: prose -->
+[Not yet translated: U04144.]
+
+<!-- TGD-004145 -->
+
 ད་དུང་ཆོག་པའི་འདུ་ཤེས་གསལ། །
 
-<!-- pair: TGD-004146 | source: U04146 | role: main_text | format: prose -->
+[Not yet translated: U04145.]
+
+<!-- TGD-004146 -->
+
 དཔའ་བོ་ཆེན་པོ་རྣམ་པར་འཕྲུལ། །
 
-<!-- pair: TGD-004147 | source: U04147 | role: main_text | format: prose -->
+[Not yet translated: U04146.]
+
+<!-- TGD-004147 -->
+
 བྱང་ཆུབ་མཆོག་ཏུ་ཐུགས་ཀྱང་འཇུག །
 
-<!-- pair: TGD-004148 | source: U04148 | role: main_text | format: prose -->
+[Not yet translated: U04147.]
+
+<!-- TGD-004148 -->
+
 ཅེས་དང་།
 
-<!-- pair: TGD-004149 | source: U04149 | role: main_text | format: prose -->
+[Not yet translated: U04148.]
+
+<!-- TGD-004149 -->
+
 དབུ་མ་འཇུག་པ་ལས།
 
-<!-- pair: TGD-004150 | source: U04150 | role: main_text | format: prose -->
+[Not yet translated: U04149.]
+
+<!-- TGD-004150 -->
+
 བདེ་བར་གཤེགས་པ་མ་ལུས་ཕྱོགས་ཞིང་སངས་རྒྱས་མཐའ་དག་ན། །
 
-<!-- pair: TGD-004151 | source: U04151 | role: main_text | format: prose -->
+[Not yet translated: U04150.]
+
+<!-- TGD-004151 -->
+
 ཕྲ་རབ་རྡུལ་གྱི་རྡུལ་རྣམས་བདོག་པར་གྱུར་པ་ཇི་སྙེད་པ།
 
-<!-- pair: TGD-004152 | source: U04152 | role: main_text | format: prose -->
+[Not yet translated: U04151.]
+
+<!-- TGD-004152 -->
+
 བྱང་ཆུབ་མཆོག་རབ་དམ་པར་གཤེགས་པའི་བསྐལ་པའང་དེ་སྙེད་དེ།
 
-<!-- pair: TGD-004153 | source: U04153 | role: main_text | format: prose -->
+[Not yet translated: U04152.]
+
+<!-- TGD-004153 -->
+
 འོན་ཀྱང་ཁྱོད་ཀྱི་གསང་བ་འདི་ནི་བསྙད་བགྱི་མ་ལགས་སོ། །
 
-<!-- pair: TGD-004154 | source: U04154 | role: main_text | format: prose -->
+[Not yet translated: U04153.]
+
+<!-- TGD-004154 -->
+
 རྒྱལ་བ་ཇི་སྲིད་འཇིག་རྟེན་མཐའ་དག་མཆོག་ཏུ་རབ་ཞི་བར།
 
-<!-- pair: TGD-004155 | source: U04155 | role: main_text | format: prose -->
+[Not yet translated: U04154.]
+
+<!-- TGD-004155 -->
+
 འགྲོ་བ་མིན་ཅིང་ནམ་མཁའ་རྣམ་འཇིག་འགྱུར་མིན་དེ་སྲིད་དུ།
 
-<!-- pair: TGD-004156 | source: U04156 | role: main_text | format: prose -->
+[Not yet translated: U04155.]
+
+<!-- TGD-004156 -->
+
 ཤེས་རབ་ཡུམ་གྱིས་བསྐྱེད་པ་ཁྱོད་ལ་ཐུགས་བརྩེ་མ་མ་ཡི། །
 
-<!-- pair: TGD-004157 | source: U04157 | role: main_text | format: prose -->
+[Not yet translated: U04156.]
+
+<!-- TGD-004157 -->
+
 ཚུལ་ལུགས་བྱེད་པས་རབ་ཏུ་ཞི་བར་འགྱུར་བ་ག་ལ་མངའ། །
 
-<!-- pair: TGD-004158 | source: U04158 | role: main_text | format: prose -->
+[Not yet translated: U04157.]
+
+<!-- TGD-004158 -->
+
 གཏི་མུག་སྐྱོན་གྱིས་འཇིག་རྟེན་ཁ་ཟས་དུག་བཅས་ཟ་བ་ཉིད། །
 
-<!-- pair: TGD-004159 | source: U04159 | role: main_text | format: prose -->
+[Not yet translated: U04158.]
+
+<!-- TGD-004159 -->
+
 སྐྱེ་བོ་ཉིད་ཀྱི་ནང་མི་དེ་ལ་ཁྱོད་བརྩེ་ཇི་ལྟ་བ། །
 
-<!-- pair: TGD-004160 | source: U04160 | role: main_text | format: prose -->
+[Not yet translated: U04159.]
+
+<!-- TGD-004160 -->
+
 དེ་ལྟར་དུག་ཟོས་ཉེན་པའི་བུ་ལ་མ་ཡི་སྡུག་བསྔལ་མིན་པར་འགྱུར་མ་ལགས༎
 
-<!-- pair: TGD-004161 | source: U04161 | role: main_text | format: prose -->
+[Not yet translated: U04160.]
+
+<!-- TGD-004161 -->
+
 དེས་ན་མགོན་པོ་མཆོག་ཏུ་རབ་ཞིར་གཤེགས་པར་གྱུར་མ་ལགས། །
 
-<!-- pair: TGD-004162 | source: U04162 | role: main_text | format: prose -->
+[Not yet translated: U04161.]
+
+<!-- TGD-004162 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-004163 | source: U04163 | role: main_text | format: prose -->
+[Not yet translated: U04162.]
+
+<!-- TGD-004163 -->
+
 སྡུད་པ་ལས།
 
-<!-- pair: TGD-004164 | source: U04164 | role: main_text | format: prose -->
+[Not yet translated: U04163.]
+
+<!-- TGD-004164 -->
+
 མ་ཞིག་ན་བར་གྱུར་པ་བུ་ནི་མང་ཡོད་པ། །
 
-<!-- pair: TGD-004165 | source: U04165 | role: main_text | format: prose -->
+[Not yet translated: U04164.]
+
+<!-- TGD-004165 -->
+
 དེ་ཀུན་ཡིད་མི་བདེ་ཞིང་
 
-<!-- pair: TGD-004166 | source: U04166 | role: main_text | format: prose -->
+[Not yet translated: U04165.]
+
+<!-- TGD-004166 -->
+
 དེ་ལ་རིམ་གྲོ་བྱེད། །
 
-<!-- pair: TGD-004167 | source: U04167 | role: main_text | format: prose -->
+[Not yet translated: U04166.]
+
+<!-- TGD-004167 -->
+
 དེ་བཞིན་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ཁམས་ཀྱི་སངས་རྒྱས་ཀྱང༌། །
 
-<!-- pair: TGD-004168 | source: U04168 | role: main_text | format: prose -->
+[Not yet translated: U04167.]
+
+<!-- TGD-004168 -->
+
 ཡུམ་གྱུར་ཤེས་རབ་དམ་པ་འདི་ལ་དགོངས་པ་མཛད།
 
-<!-- pair: TGD-004169 | source: U04169 | role: main_text | format: prose -->
+[Not yet translated: U04168.]
+
+<!-- TGD-004169 -->
+
 ཅེས་པས།
 
-<!-- pair: TGD-004170 | source: U04170 | role: main_text | format: prose -->
+[Not yet translated: U04169.]
+
+<!-- TGD-004170 -->
+
 སངས་རྒྱས་ཀྱི་ས་ན་ཐུགས་བསྐྱེད་
 
-<!-- pair: TGD-004171 | source: U04171 | role: main_text | format: prose -->
+[Not yet translated: U04170.]
+
+<!-- TGD-004171 -->
+
 མངོན་རྒྱན་ལས།
 
-<!-- pair: TGD-004172 | source: U04172 | role: main_text | format: prose -->
+[Not yet translated: U04171.]
+
+<!-- TGD-004172 -->
+
 ཆོས་ཀྱི་དགའ་སྟོན་སྒྲ་སྙན་ལྟ་བུ་དང༌། །
 
-<!-- pair: TGD-004173 | source: U04173 | role: main_text | format: prose -->
+[Not yet translated: U04172.]
+
+<!-- TGD-004173 -->
+
 བགྲོད་གཅིག་ལམ་ཆུ་བོ་ལྟ་བུ་དང༌།
 
-<!-- pair: TGD-004174 | source: U04174 | role: main_text | format: prose -->
+[Not yet translated: U04173.]
+
+<!-- TGD-004174 -->
+
 ཆོས་སྐུ་སྤྲིན་ལྟ་བུ་གསུམ་དུ་གསུངས་པ་དང༌།
 
-<!-- pair: TGD-004175 | source: U04175 | role: main_text | format: prose -->
+[Not yet translated: U04174.]
+
+<!-- TGD-004175 -->
+
 མངོན་རྒྱན་ལས།
 
-<!-- pair: TGD-004176 | source: U04176 | role: main_text | format: prose -->
+[Not yet translated: U04175.]
+
+<!-- TGD-004176 -->
+
 སྒྲིབ་པ་སྤངས་པའི་སེམས་བསྐྱེད་སོགས་བཤད་ཅིང་།
 
-<!-- pair: TGD-004177 | source: U04177 | role: main_text | format: prose -->
+[Not yet translated: U04176.]
+
+<!-- TGD-004177 -->
+
 གསང་འདུས་གཉིས་མེད་རྣམས་ལས།
 
-<!-- pair: TGD-004178 | source: U04178 | role: main_text | format: prose -->
+[Not yet translated: U04177.]
+
+<!-- TGD-004178 -->
+
 བྱང་ཆུབ་སེམས་ནི་མི་ཟད་ཕྱིར། །
 
-<!-- pair: TGD-004179 | source: U04179 | role: main_text | format: prose -->
+[Not yet translated: U04178.]
+
+<!-- TGD-004179 -->
+
 དེ་ཕྱིར་ཕྲིན་ལས་རྒྱུན་མི་ཆད།
 
-<!-- pair: TGD-004180 | source: U04180 | role: main_text | format: prose -->
+[Not yet translated: U04179.]
+
+<!-- TGD-004180 -->
+
 ཅེས་སོ།
 
-<!-- pair: TGD-004181 | source: U04181 | role: main_text | format: prose -->
+[Not yet translated: U04180.]
+
+<!-- TGD-004181 -->
+
 ལྷན༽༽ སངས་རྒྱས་མྱ་ངན་འདས་ན་བུད་ཤིང་ཟད་པའི་མེ་བཞིན་དུ་འདོད་པ་དང་
 
-<!-- pair: TGD-004182 | source: U04182 | role: main_text | format: prose -->
+[Not yet translated: U04181.]
+
+<!-- TGD-004182 -->
+
 སྐུའི་གདུལ་བྱ་ཟད་ནས་གསུང་གི་གདུལ་བྱར་བསྟན་ཏེ་
 
-<!-- pair: TGD-004183 | source: U04183 | role: main_text | format: prose -->
+[Not yet translated: U04182.]
+
+<!-- TGD-004183 -->
+
 འོག་མིན་དུ་གཤེགས་ཏེ་བཞུགས་པས་
 
-<!-- pair: TGD-004184 | source: U04184 | role: main_text | format: prose -->
+[Not yet translated: U04183.]
+
+<!-- TGD-004184 -->
+
 བསོད་ནམས་བསགས་པའི་ངོར་
 
-<!-- pair: TGD-004185 | source: U04185 | role: main_text | format: prose -->
+[Not yet translated: U04184.]
+
+<!-- TGD-004185 -->
+
 ལན་རེ་སྣང་བ་ཡིན་ཟེར་རོ། །
 
-<!-- pair: TGD-004186 | source: U04186 | role: main_text | format: prose -->
+[Not yet translated: U04185.]
+
+<!-- TGD-004186 -->
+
 འདིར་བྱང་ཆུབ་ཀྱི་སེམས་གཉིས་ཀྱི་རང་བཞིན་གྱི་གཟུགས་སྐུ་སངས་རྒྱས་དེ་
 
-<!-- pair: TGD-004187 | source: U04187 | role: main_text | format: prose -->
+[Not yet translated: U04186.]
+
+<!-- TGD-004187 -->
+
 སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་མཐའ་ཐམས་ཅད་དང་བྲལ་བ་ཡིན་ཏེ།
 
-<!-- pair: TGD-004188 | source: U04188 | role: main_text | format: prose -->
+[Not yet translated: U04187.]
+
+<!-- TGD-004188 -->
+
 ལྗོན་ཞུས་ལས།
 
-<!-- pair: TGD-004189 | source: U04189 | role: main_text | format: prose -->
+[Not yet translated: U04188.]
+
+<!-- TGD-004189 -->
+
 རྒྱུ་ལ་བརྟེན་པའི་མཁས་པ་བཅོམ་ལྡན་འདས། ༑
 
-<!-- pair: TGD-004190 | source: U04190 | role: main_text | format: prose -->
+[Not yet translated: U04189.]
+
+<!-- TGD-004190 -->
+
 མཐའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་བ།
 
-<!-- pair: TGD-004191 | source: U04191 | role: main_text | format: prose -->
+[Not yet translated: U04190.]
+
+<!-- TGD-004191 -->
+
 ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་ཁོ་ན་གསུངས། །
 
-<!-- pair: TGD-004192 | source: U04192 | role: main_text | format: prose -->
+[Not yet translated: U04191.]
+
+<!-- TGD-004192 -->
+
 ལྟ་བའི་མུན་བྲལ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-004193 | source: U04193 | role: main_text | format: prose -->
+[Not yet translated: U04192.]
+
+<!-- TGD-004193 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-004194 | source: U04194 | role: main_text | format: prose -->
+[Not yet translated: U04193.]
+
+<!-- TGD-004194 -->
+
 མདོ་རྒྱན་ལས།
 
-<!-- pair: TGD-004195 | source: U04195 | role: main_text | format: prose -->
+[Not yet translated: U04194.]
+
+<!-- TGD-004195 -->
+
 འཛིན་པ་མི་མངའ་ཉེས་མི་མངའ། །
 
-<!-- pair: TGD-004196 | source: U04196 | role: main_text | format: prose -->
+[Not yet translated: U04195.]
+
+<!-- TGD-004196 -->
+
 རྙོག་པ་མི་མངའ་མི་གནས་པ། །
 
-<!-- pair: TGD-004197 | source: U04197 | role: main_text | format: prose -->
+[Not yet translated: U04196.]
+
+<!-- TGD-004197 -->
+
 མི་གཡོ་ཆོས་རྣམས་ཐམས་ཅད་ལ།།
 
-<!-- pair: TGD-004198 | source: U04198 | role: main_text | format: prose -->
+[Not yet translated: U04197.]
+
+<!-- TGD-004198 -->
+
 སྤྲོས་མེད་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-004199 | source: U04199 | role: main_text | format: prose -->
+[Not yet translated: U04198.]
+
+<!-- TGD-004199 -->
+
 ཞེས་པ་བཞིན་ཡིན་ནོ།
 
-<!-- pair: TGD-004200 | source: U04200 | role: main_text | format: prose -->
+[Not yet translated: U04199.]
+
+<!-- TGD-004200 -->
+
 རྡོ༽༽ ཆོས་སྐུ་སྟོང་པ་གཟུགས་སྐུའི་ཡོན་ཏན་ཕྲིན་ལས་ཐམས་ཅད་དང་འབྲེལ་བ་མེད་ཅིང་
 
-<!-- pair: TGD-004201 | source: U04201 | role: main_text | format: prose -->
+[Not yet translated: U04200.]
+
+<!-- TGD-004201 -->
+
 གདུལ་བྱ་འདི་ལྟ་བུས་འདུལ་བར་བྱེད་སྙམ་པའི་ཐུགས་མེད་ཀྱང་།
 
-<!-- pair: TGD-004202 | source: U04202 | role: main_text | format: prose -->
+[Not yet translated: U04201.]
+
+<!-- TGD-004202 -->
+
 མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོས་གཞན་སྣང་ལ་རྣམ་འཕྲུལ་ཙམ་དུ་འབྱུང་ཟེར་བ་དང་
 
-<!-- pair: TGD-004203 | source: U04203 | role: main_text | format: prose -->
+[Not yet translated: U04202.]
+
+<!-- TGD-004203 -->
+
 ཡང་འཇུག་པ་མི་འཆད་པར་བཟང་བ་འབའ་ཞིག་ཏུ་འབྱུང་བར་འདོད་ཀྱང༌།
 
-<!-- pair: TGD-004204 | source: U04204 | role: main_text | format: prose -->
+[Not yet translated: U04203.]
+
+<!-- TGD-004204 -->
+
 འདིར་ཐུགས་ནི་ཐ་ན་རྟག་ཆད་ཀྱི་ལྟ་བ་ཚུན་ཆད་ལ་ཡང་འབྱུང་བ་ཡིན་ཏེ་
 
-<!-- pair: TGD-004205 | source: U04205 | role: main_text | format: prose -->
+[Not yet translated: U04204.]
+
+<!-- TGD-004205 -->
+
 གདུལ་བྱའི་རྣམ་རྟོག་དང་
 
-<!-- pair: TGD-004206 | source: U04206 | role: main_text | format: prose -->
+[Not yet translated: U04205.]
+
+<!-- TGD-004206 -->
+
 ཡིད་ཀྱི་འཇུག་པའི་བྱེ་བྲག་བསམ་གྱིས་མི་ཁྱབ་པ་ཅི་སྙེད་པ་
 
-<!-- pair: TGD-004207 | source: U04207 | role: main_text | format: prose -->
+[Not yet translated: U04206.]
+
+<!-- TGD-004207 -->
+
 དེ་སྙེད་དུ་འདུལ་བྱེད་ཐུགས་ཀྱི་འཇུག་པ་ཡང་འབྱུང་བའི་ཕྱིར།
 
-<!-- pair: TGD-004208 | source: U04208 | role: main_text | format: prose -->
+[Not yet translated: U04207.]
+
+<!-- TGD-004208 -->
+
 མྱ་ངན་འདས་མདོ་ལས། །
 
-<!-- pair: TGD-004209 | source: U04209 | role: main_text | format: prose -->
+[Not yet translated: U04208.]
+
+<!-- TGD-004209 -->
+
 ལོང་བ་མ་ལགས་ལོང་བ་ལྟར། །
 
-<!-- pair: TGD-004210 | source: U04210 | role: main_text | format: prose -->
+[Not yet translated: U04209.]
+
+<!-- TGD-004210 -->
+
 ཞ་བོ་མ་ལགས་ཞ་པོ་ལྟར། །
 
-<!-- pair: TGD-004211 | source: U04211 | role: main_text | format: prose -->
+[Not yet translated: U04210.]
+
+<!-- TGD-004211 -->
+
 བྱིས་པ་མ་ལགས་བྱིས་ཚུལ་གྱིས། །
 
-<!-- pair: TGD-004212 | source: U04212 | role: main_text | format: prose -->
+[Not yet translated: U04211.]
+
+<!-- TGD-004212 -->
+
 སེམས་ཅན་རྣམས་ནི་སྨིན་པར་མཛད།། །
 
-<!-- pair: TGD-004213 | source: U04213 | role: main_text | format: prose -->
+[Not yet translated: U04212.]
+
+<!-- TGD-004213 -->
+
 བརྒྱ་བྱིན་ཚངས་པའི་ཆ་བྱད་ཀྱིས། །
 
-<!-- pair: TGD-004214 | source: U04214 | role: main_text | format: prose -->
+[Not yet translated: U04213.]
+
+<!-- TGD-004214 -->
+
 སེམས་ཅན་རྣམས་ཀྱི་དོན་མཛད་ཀྱང༌། །
 
-<!-- pair: TGD-004215 | source: U04215 | role: main_text | format: prose -->
+[Not yet translated: U04214.]
+
+<!-- TGD-004215 -->
+
 འཇིག་རྟེན་རྣམས་ཀྱིས་རྟོགས་མི་ནུས།
 
-<!-- pair: TGD-004216 | source: U04216 | role: main_text | format: prose -->
+[Not yet translated: U04215.]
+
+<!-- TGD-004216 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-004217 | source: U04217 | role: main_text | format: prose -->
+[Not yet translated: U04216.]
+
+<!-- TGD-004217 -->
+
 གསང་བ་བསམ་གྱིས་མི་ཁྱབ་པ་ལས།
 
-<!-- pair: TGD-004218 | source: U04218 | role: main_text | format: prose -->
+[Not yet translated: U04217.]
+
+<!-- TGD-004218 -->
+
 སངས་རྒྱས་ཀྱི་ཐུགས་
 
-<!-- pair: TGD-004219 | source: U04219 | role: main_text | format: prose -->
+[Not yet translated: U04218.]
+
+<!-- TGD-004219 -->
+
 སེམས་ཀྱི་དམིགས་པ་དང་ཡང་བྲལ་ལ།
 
-<!-- pair: TGD-004220 | source: U04220 | role: main_text | format: prose -->
+[Not yet translated: U04219.]
+
+<!-- TGD-004220 -->
+
 སེམས་ཅན་ཐམས་ཅད་ཀྱི་སེམས་ཀྱི་དཔྱོད་པ་དང་བསམ་པ་ཡང་རབ་ཏུ་ཤེས་སོ། །
 
-<!-- pair: TGD-004221 | source: U04221 | role: main_text | format: prose -->
+[Not yet translated: U04220.]
+
+<!-- TGD-004221 -->
+
 ཞེས་གསུངས་པས།
 
-<!-- pair: TGD-004222 | source: U04222 | role: main_text | format: prose -->
+[Not yet translated: U04221.]
+
+<!-- TGD-004222 -->
+
 འཇིག་རྟེན་ཐ་མལ་པའི་གཏམ་དང་ཆད་པ་དང་རྟག་པ་ལས་རིམ་གྱིས་གོང་དུ་ཁྲིད་དེ།
 
-<!-- pair: TGD-004223 | source: U04223 | role: main_text | format: prose -->
+[Not yet translated: U04222.]
+
+<!-- TGD-004223 -->
+
 མཐར་ནང་པའི་ལམ་ལ་དྲངས་ཏེ་
 
-<!-- pair: TGD-004224 | source: U04224 | role: main_text | format: prose -->
+[Not yet translated: U04223.]
+
+<!-- TGD-004224 -->
+
 རྣམ་མཁྱེན་ལ་འགོད་པར་མཛད་པའི་ཐབས་མཁས་བསམ་གྱིས་མི་ཁྱབ་པའི་གནས་ཡིན་ནོ།
 
-<!-- pair: TGD-004225 | source: U04225 | role: main_text | format: prose -->
+[Not yet translated: U04224.]
+
+<!-- TGD-004225 -->
+
 རྡོེ༽༽གདུལ་བྱ་འདུལ་བ་ལ་སྤྲུལ་པ་མཆོག་གི་དོན་བྱེད་པ་ལས་གཞན་དམན་པ་མཱི་བྱོན་ཟེར་བའི་ཚུལ་དེ་ཁོ་ན་མ་ཡིན་ཏེ།
 
-<!-- pair: TGD-004226 | source: U04226 | role: main_text | format: prose -->
+[Not yet translated: U04225.]
+
+<!-- TGD-004226 -->
+
 འདིར་ལྟར་བེམ་པོ་དང་མུ་སྟེགས་དང་བདུད་དང་ཉོན་མོངས་སོགས་ཤེས་བྱར་སྲིད་ཚད་ཀྱིས་སངས་རྒྱས་ཀྱི་བྱ་བ་བྱེད་པའི་ཕྱིར།
 
-<!-- pair: TGD-004227 | source: U04227 | role: main_text | format: prose -->
+[Not yet translated: U04226.]
+
+<!-- TGD-004227 -->
+
 དྲི་མ་མེད་པར་གྲགས་པའི་མདོ་ལས།
 
-<!-- pair: TGD-004228 | source: U04228 | role: main_text | format: prose -->
+[Not yet translated: U04227.]
+
+<!-- TGD-004228 -->
+
 ཀུན་དགའ་བོ་གང་དག་ན་སངས་རྒྱས་ཀྱི་མཛད་པ་བྱེད་པའི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ཀྱང་ཡོད་དོ། །
 
-<!-- pair: TGD-004229 | source: U04229 | role: main_text | format: prose -->
+[Not yet translated: U04228.]
+
+<!-- TGD-004229 -->
+
 དེ་བཞིན་དུ་སྦྱར་ཏེ་འོད་དང༌།
 
-<!-- pair: TGD-004230 | source: U04230 | role: main_text | format: prose -->
+[Not yet translated: U04229.]
+
+<!-- TGD-004230 -->
+
 བྱང་ཆུབ་ཀྱི་ཤིང་དང་ཁ་ཟས་དང་།
 
-<!-- pair: TGD-004231 | source: U04231 | role: main_text | format: prose -->
+[Not yet translated: U04230.]
+
+<!-- TGD-004231 -->
+
 ཆུ་དང་། བསྐྱེད་མོས་ཚལ་དང༌།
 
-<!-- pair: TGD-004232 | source: U04232 | role: main_text | format: prose -->
+[Not yet translated: U04231.]
+
+<!-- TGD-004232 -->
+
 གཞལ་མེད་ཁང་དང་ཁང་པ་བརྩེགས་པ་དང་
 
-<!-- pair: TGD-004233 | source: U04233 | role: main_text | format: prose -->
+[Not yet translated: U04232.]
+
+<!-- TGD-004233 -->
+
 སྤྲུལ་པ་དང་ནམ་མཁའ་དང༌།
 
-<!-- pair: TGD-004234 | source: U04234 | role: main_text | format: prose -->
+[Not yet translated: U04233.]
+
+<!-- TGD-004234 -->
+
 བར་སྣང་དང། རྨི་ལམ་དང༌། གཟུགས་བརྙན་དང་།
 
-<!-- pair: TGD-004235 | source: U04235 | role: main_text | format: prose -->
+[Not yet translated: U04234.]
+
+<!-- TGD-004235 -->
+
 ཆུ་ཟླ་དང༌། བྲག་ཆ་དང༌། སྒྱུ་མ་དང༌།
 
-<!-- pair: TGD-004236 | source: U04236 | role: main_text | format: prose -->
+[Not yet translated: U04235.]
+
+<!-- TGD-004236 -->
+
 སྨིག་རྒྱུ་དང་། ཡི་གེར་སྟོན་པ་དང༌། བརྗེད་པ་མེད་པ་དང་།
 
-<!-- pair: TGD-004237 | source: U04237 | role: main_text | format: prose -->
+[Not yet translated: U04236.]
+
+<!-- TGD-004237 -->
+
 ལོངས་སྤྱོད་དང་། བདུད་བཞི་པོ་དང༌།
 
-<!-- pair: TGD-004238 | source: U04238 | role: main_text | format: prose -->
+[Not yet translated: U04237.]
+
+<!-- TGD-004238 -->
+
 ཉོན་མོངས་པའི་སྒོ་སྟོང་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞི་དག་གིས་སངས་རྒྱས་ཀྱི་མཛད་པ་བྱེད་དོ། །
 
-<!-- pair: TGD-004239 | source: U04239 | role: main_text | format: prose -->
+[Not yet translated: U04238.]
+
+<!-- TGD-004239 -->
+
 ཅེས་དང༌།
 
-<!-- pair: TGD-004240 | source: U04240 | role: main_text | format: prose -->
+[Not yet translated: U04239.]
+
+<!-- TGD-004240 -->
+
 བྱང་སེམས་ཐབས་ཀྱི་སྤྱོད་ཡུལ་རྣམ་པར་འཁྲུལ་པ་བསྟན་པ་ལས།
 
-<!-- pair: TGD-004241 | source: U04241 | role: main_text | format: prose -->
+[Not yet translated: U04240.]
+
+<!-- TGD-004241 -->
+
 འཇམ་དཔལ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ན་
 
-<!-- pair: TGD-004242 | source: U04242 | role: main_text | format: prose -->
+[Not yet translated: U04241.]
+
+<!-- TGD-004242 -->
+
 གཞན་མུ་སྟེགས་ཅན་ཀུན་ཏུ་དཔྱོད་པ་བ་གང་དག་སྣང་བ་
 
-<!-- pair: TGD-004243 | source: U04243 | role: main_text | format: prose -->
+[Not yet translated: U04242.]
+
+<!-- TGD-004243 -->
+
 འདི་ཡང་དེ་བཞིན་གཤེགས་པའི་བྱིན་རླབས་དང་ཐབས་མཁས་བསམ་གྱིས་མི་ཁྱབ་པར་རིགས་པར་བྱའོ། །
 
-<!-- pair: TGD-004244 | source: U04244 | role: main_text | format: prose -->
+[Not yet translated: U04243.]
+
+<!-- TGD-004244 -->
+
 དེ་ཅིའི་ཕྱིར་ཞེ་ན།
 
-<!-- pair: TGD-004245 | source: U04245 | role: main_text | format: prose -->
+[Not yet translated: U04244.]
+
+<!-- TGD-004245 -->
+
 འདི་དག་ནི་རྣམ་པར་ཐར་པ་བསམ་གྱིས་མི་ཁྱབ་པའི་སྒོ་ལ་གནས་པ་དང་
 
-<!-- pair: TGD-004246 | source: U04246 | role: main_text | format: prose -->
+[Not yet translated: U04245.]
+
+<!-- TGD-004246 -->
+
 ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ངེས་པར་འབྱིན་པ་ལ་
 
-<!-- pair: TGD-004247 | source: U04247 | role: main_text | format: prose -->
+[Not yet translated: U04246.]
+
+<!-- TGD-004247 -->
+
 ཐབས་མཁས་པས་སྣེར་བརྩེ་བ་ཤ་སྟག་གོ །
 
-<!-- pair: TGD-004248 | source: U04248 | role: main_text | format: prose -->
+[Not yet translated: U04247.]
+
+<!-- TGD-004248 -->
+
 དཀོན་མཆོག་གསུམ་ཡིད་ལ་བྱ་བ་མ་བཏང་བ་
 
-<!-- pair: TGD-004249 | source: U04249 | role: main_text | format: prose -->
+[Not yet translated: U04248.]
+
+<!-- TGD-004249 -->
+
 སེམ་ཅན་ཡོངས་སུ་སྨིན་པར་བྱ་བ་ལ་དམ་པའི་ཕ་རོལ་ཏུ་སོན་པ་ཤ་སྟག་གོ །
 
-<!-- pair: TGD-004250 | source: U04250 | role: main_text | format: prose -->
+[Not yet translated: U04249.]
+
+<!-- TGD-004250 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-004251 | source: U04251 | role: main_text | format: prose -->
+[Not yet translated: U04250.]
+
+<!-- TGD-004251 -->
+
 དེ་བཞིན་དུ་བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ་དང༌།
 
-<!-- pair: TGD-004252 | source: U04252 | role: main_text | format: prose -->
+[Not yet translated: U04251.]
+
+<!-- TGD-004252 -->
+
 ཆོས་ཀུན་འགྲོ་བ་སོགས་མདོ་མང་པོར་
 
-<!-- pair: TGD-004253 | source: U04253 | role: main_text | format: prose -->
+[Not yet translated: U04252.]
+
+<!-- TGD-004253 -->
+
 མཐའ་ཡས་པར་གསུངས་ཤིང་
 
-<!-- pair: TGD-004254 | source: U04254 | role: main_text | format: prose -->
+[Not yet translated: U04253.]
+
+<!-- TGD-004254 -->
+
 འདོད་ཆགས་དང༌། ཞེ་སྡང་། གཏི་མུག་གིས་བྱ་བ་བྱས་པ་རིམ་བཞིན།
 
-<!-- pair: TGD-004255 | source: U04255 | role: main_text | format: prose -->
+[Not yet translated: U04254.]
+
+<!-- TGD-004255 -->
+
 དགེ་སློང་བསྟན་པའི་བློ་གྲོས་དང་༑
 
-<!-- pair: TGD-004256 | source: U04256 | role: main_text | format: prose -->
+[Not yet translated: U04255.]
+
+<!-- TGD-004256 -->
+
 སོར་འཕྲེང་སངས་རྒྱས་བཅོམ་ལྡན་འདས་མཐོང་ན་དགའ་བ་ཅན་དང་།
 
-<!-- pair: TGD-004257 | source: U04257 | role: main_text | format: prose -->
+[Not yet translated: U04256.]
+
+<!-- TGD-004257 -->
+
 འོད་སྲུང་རྫོགས་བྱེད་ལྟ་བུ་ཡིན་ནོ།
 
-<!-- pair: TGD-004258 | source: U04258 | role: main_text | format: prose -->
+[Not yet translated: U04257.]
+
+<!-- TGD-004258 -->
+
 དེ་ལྟར་ཡང་ཡང་དག་སྦྱོར་བའི་རྒྱུད་ལས།
 
-<!-- pair: TGD-004259 | source: U04259 | role: main_text | format: prose -->
+[Not yet translated: U04258.]
+
+<!-- TGD-004259 -->
+
 རྡུལ་དང༌། མུན་པ། སྙིང་སྟོབས་ཀྱང་སེམས་ཅན་གྱི་དོན་བྱེད་དོ་ཞེས་སོ། །
 
-<!-- pair: TGD-004260 | source: U04260 | role: main_text | format: prose -->
+[Not yet translated: U04259.]
+
+<!-- TGD-004260 -->
+
 དེ་ལྟར་ཐམས་ཅད་ཀྱིས་བྱ་བ་བྱེད་ཀྱང་
 
-<!-- pair: TGD-004261 | source: U04261 | role: main_text | format: prose -->
+[Not yet translated: U04260.]
+
+<!-- TGD-004261 -->
+
 དུས་ལ་མ་བབས་པར་མི་འགྱུར་ཏེ།
 
-<!-- pair: TGD-004262 | source: U04262 | role: main_text | format: prose -->
+[Not yet translated: U04261.]
+
+<!-- TGD-004262 -->
+
 ཆོས་ཀུན་འགྲོ་བར།
 
-<!-- pair: TGD-004263 | source: U04263 | role: main_text | format: prose -->
+[Not yet translated: U04262.]
+
+<!-- TGD-004263 -->
+
 དཔེར་ན་མེ་ནི་ཤིང་ཐམས་ཅད་ལ་གནས་མོད་ཀྱི།
 
-<!-- pair: TGD-004264 | source: U04264 | role: main_text | format: prose -->
+[Not yet translated: U04263.]
+
+<!-- TGD-004264 -->
+
 རྐྱེན་དང་རྩོལ་བ་མ་ཚང་ན་མི་འབར་ཞིང་དགོས་པ་རྣམས་མི་བྱེད་དོ།
 
-<!-- pair: TGD-004265 | source: U04265 | role: main_text | format: prose -->
+[Not yet translated: U04264.]
+
+<!-- TGD-004265 -->
+
 དེ་བཞིན་དུ་སངས་རྒྱས་རྣམས་ཤེས་བྱ་ཐམས་ཅད་ལ་གནས་མོད་ཀྱང་།
 
-<!-- pair: TGD-004266 | source: U04266 | role: main_text | format: prose -->
+[Not yet translated: U04265.]
+
+<!-- TGD-004266 -->
+
 དད་པ་སོགས་རྐྱེན་མ་ཚང་ན་མི་འབྱུང་ཞིང་བྱ་བ་མི་མཛད་དོ། །
 
-<!-- pair: TGD-004267 | source: U04267 | role: main_text | format: prose -->
+[Not yet translated: U04266.]
+
+<!-- TGD-004267 -->
+
 ཞེས་སོ།
 
-<!-- pair: TGD-004268 | source: U04268 | role: main_text | format: prose -->
+[Not yet translated: U04267.]
+
+<!-- TGD-004268 -->
+
 རྡོ༽༽ སངས་རྒྱས་རྣམས་ནི་ཞིང་དག་པ་དང་མ་དག་པ་དབྱིབས་ཀྱང་སྣ་ཚོགས་པའི་ཞིང་ཐ་དད་པ་དེར་སངས་རྒྱ་བ་ཡིན་ཟེར་ཡང༌།
 
-<!-- pair: TGD-004269 | source: U04269 | role: main_text | format: prose -->
+[Not yet translated: U04268.]
+
+<!-- TGD-004269 -->
+
 འདིར་ནི་ཆོས་དབྱིངས་མ་ལུས་པ་ཀུན་ཏུ་འཚང་རྒྱ་དགོས་པར་བཞེད་དེ་
 
-<!-- pair: TGD-004270 | source: U04270 | role: main_text | format: prose -->
+[Not yet translated: U04269.]
+
+<!-- TGD-004270 -->
+
 བདེ་བར་གཤེགས་པ་ཆོས་ཐམས་ཅད་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པ་ཡིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004271 | source: U04271 | role: main_text | format: prose -->
+[Not yet translated: U04270.]
+
+<!-- TGD-004271 -->
+
 དེ་ལྟར་ཡང་རྒྱ་ཆེར་རོལ་པ་ལས།
 
-<!-- pair: TGD-004272 | source: U04272 | role: main_text | format: prose -->
+[Not yet translated: U04271.]
+
+<!-- TGD-004272 -->
+
 ཚངས་པ་ངས་ཡོངས་སུ་ཆད་པའི་རྣམ་པས་
 
-<!-- pair: TGD-004273 | source: U04273 | role: main_text | format: prose -->
+[Not yet translated: U04272.]
+
+<!-- TGD-004273 -->
+
 ཚད་དང་ལྡན་པར་སངས་རྒྱས་པ་མ་ཡིན་གྱི།
 
-<!-- pair: TGD-004274 | source: U04274 | role: main_text | format: prose -->
+[Not yet translated: U04273.]
+
+<!-- TGD-004274 -->
+
 ཚངས་པ་ང་ནི་ཚད་མེད་ཅིང་རིས་སུ་མ་ཆད་པའི་རྣམ་པས་
 
-<!-- pair: TGD-004275 | source: U04275 | role: main_text | format: prose -->
+[Not yet translated: U04274.]
+
+<!-- TGD-004275 -->
+
 ཆོས་ཐམས་ཅད་མཉམ་པ་ཉིད་དུ་མངོན་པར་རྫོགས་པར་བྱའོ། །
 
-<!-- pair: TGD-004276 | source: U04276 | role: main_text | format: prose -->
+[Not yet translated: U04275.]
+
+<!-- TGD-004276 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-004277 | source: U04277 | role: main_text | format: prose -->
+[Not yet translated: U04276.]
+
+<!-- TGD-004277 -->
+
 ཡུམ་ལས་ཆོས་ཐམས་ཅད་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ། །
 
-<!-- pair: TGD-004278 | source: U04278 | role: main_text | format: prose -->
+[Not yet translated: U04277.]
+
+<!-- TGD-004278 -->
+
 ཞེས་དང༌།
 
-<!-- pair: TGD-004279 | source: U04279 | role: main_text | format: prose -->
+[Not yet translated: U04278.]
+
+<!-- TGD-004279 -->
+
 ཡུམ་ལས་ཆོས་ཐམས་ཅད་མངོན་པར་རྫོགས་པར་སངས་རྒྱ་བར་འདོད་པ་
 
-<!-- pair: TGD-004280 | source: U04280 | role: main_text | format: prose -->
+[Not yet translated: U04279.]
+
+<!-- TGD-004280 -->
+
 ཤེར་ཕྱིན་ལ་བསླབ་པར་བྱའོ། །
 
-<!-- pair: TGD-004281 | source: U04281 | role: main_text | format: prose -->
+[Not yet translated: U04280.]
+
+<!-- TGD-004281 -->
+
 ཞེས་དང་ཕལ་ཆེན་ལས།
 
-<!-- pair: TGD-004282 | source: U04282 | role: main_text | format: prose -->
+[Not yet translated: U04281.]
+
+<!-- TGD-004282 -->
+
 སྟོང་གསུམ་འདི་ཉིད་དུ་
 
-<!-- pair: TGD-004283 | source: U04283 | role: main_text | format: prose -->
+[Not yet translated: U04282.]
+
+<!-- TGD-004283 -->
+
 གླིང་བཞི་བྱེ་བ་ཕྲག་བརྒྱར་སངས་རྒྱས་པར་གསུངས་ཤིང་།
 
-<!-- pair: TGD-004284 | source: U04284 | role: main_text | format: prose -->
+[Not yet translated: U04283.]
+
+<!-- TGD-004284 -->
+
 གཞན་ཡང་དཔའ་བར་འགྲོ་བ་དཀོན་མཆོག་འབྱུང་གནས།
 
-<!-- pair: TGD-004285 | source: U04285 | role: main_text | format: prose -->
+[Not yet translated: U04284.]
+
+<!-- TGD-004285 -->
+
 སོར་འཕྲེང་ལ་ཕན་པ་སོགས་མཐའ་ཡས་པར་གསུངས་སོ། །
 
-<!-- pair: TGD-004286 | source: U04286 | role: main_text | format: prose -->
+[Not yet translated: U04285.]
+
+<!-- TGD-004286 -->
+
 དེ་ན་མ་གྲུབ་ན་ཚོགས་མཐའ་ཡས་པའི་འབྲས་བུས་
 
-<!-- pair: TGD-004287 | source: U04287 | role: main_text | format: prose -->
+[Not yet translated: U04286.]
+
+<!-- TGD-004287 -->
+
 འཁོར་ལོས་བསྒྱུར་བ་ལས་ཆུང་བར་འགྱུར་ཏེ་
 
-<!-- pair: TGD-004288 | source: U04288 | role: main_text | format: prose -->
+[Not yet translated: U04287.]
+
+<!-- TGD-004288 -->
+
 ཕལ་ཆེན་ལས་འཇིག་རྟེན་ཁམས་རྒྱ་མཚོ་བཅུའི་གྲངས་ཀྱི་
 
-<!-- pair: TGD-004289 | source: U04289 | role: main_text | format: prose -->
+[Not yet translated: U04288.]
+
+<!-- TGD-004289 -->
+
 རྡུལ་དང་མཉམ་པ་ལ་དབང་བྱེད་པའི་འཁོར་བསྒྱུར་ཡོད་པར་གསུངས་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004290 | source: U04290 | role: main_text | format: prose -->
+[Not yet translated: U04289.]
+
+<!-- TGD-004290 -->
+
 དེ་བས་ན་སེམས་བསྐྱེད་པའི་གནད་
 
-<!-- pair: TGD-004291 | source: U04291 | role: main_text | format: prose -->
+[Not yet translated: U04290.]
+
+<!-- TGD-004291 -->
+
 ཕྱིས་ཐམས་ཅད་དུ་སངས་རྒྱས་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-004292 | source: U04292 | role: main_text | format: prose -->
+[Not yet translated: U04291.]
+
+<!-- TGD-004292 -->
+
 རྡོ༽༽སྤྲུལ་སྐུ་སྐྱེས་སྟོབས་ལས་བྱུང་བ་མཆོག་དང༌།
 
-<!-- pair: TGD-004293 | source: U04293 | role: main_text | format: prose -->
+[Not yet translated: U04292.]
+
+<!-- TGD-004293 -->
+
 མཆན་མཛད་པ༡༢།
 
-<!-- pair: TGD-004294 | source: U04294 | role: main_text | format: prose -->
+[Not yet translated: U04293.]
+
+<!-- TGD-004294 -->
+
 དམན་པ་ཉན་རང་དང༌། བཟོ་དང༌། སྒྱེ་བ་རི་བོང་སོགས་སྟེ་བཞི་བསྒོམས་པ་ལས་བྱུང་བ་
 
-<!-- pair: TGD-004295 | source: U04295 | role: main_text | format: prose -->
+[Not yet translated: U04294.]
+
+<!-- TGD-004295 -->
+
 བསྟན་པའི་བློ་གྲོས་བརྟུལ་བའི་སྨད་ཚོང་མ་ལྟ་བུ་དེ་དག་རྒྱུ་མེད་ཀྱང་
 
-<!-- pair: TGD-004296 | source: U04296 | role: main_text | format: prose -->
+[Not yet translated: U04295.]
+
+<!-- TGD-004296 -->
+
 རྣམ་འཕྲུལ་ཙམ་དུ་འབྱུང་ཞིང་
 
-<!-- pair: TGD-004297 | source: U04297 | role: main_text | format: prose -->
+[Not yet translated: U04296.]
+
+<!-- TGD-004297 -->
+
 དགེ་མི་དགེའི་འབྲས་བུ་མི་དགོས་ཟེར་བ་དག་ཆོས་ཅན།
 
-<!-- pair: TGD-004298 | source: U04298 | role: main_text | format: prose -->
+[Not yet translated: U04297.]
+
+<!-- TGD-004298 -->
+
 རྒྱུ་མེད་པའི་སྤྲུལ་པ་མི་སྲིད་པར་ཐལ།
 
-<!-- pair: TGD-004299 | source: U04299 | role: main_text | format: prose -->
+[Not yet translated: U04298.]
+
+<!-- TGD-004299 -->
+
 གང་ལ་མ་ལྟོས་པའི་ཆོས་མི་འགྲུབ་པའི་ཕྱིར།
 
-<!-- pair: TGD-004300 | source: U04300 | role: main_text | format: prose -->
+[Not yet translated: U04299.]
+
+<!-- TGD-004300 -->
+
 རི་བོང་གི་རང་བཞིན་ནོ། །
 
-<!-- pair: TGD-004301 | source: U04301 | role: main_text | format: prose -->
+[Not yet translated: U04300.]
+
+<!-- TGD-004301 -->
+
 མ་གྲུབ་ན་
 
-<!-- pair: TGD-004302 | source: U04302 | role: main_text | format: prose -->
+[Not yet translated: U04301.]
+
+<!-- TGD-004302 -->
+
 ཕུར་བུ་པའི་འདོད་པ་ཁས་ལོངས་ཤིག །
 
-<!-- pair: TGD-004303 | source: U04303 | role: main_text | format: prose -->
+[Not yet translated: U04302.]
+
+<!-- TGD-004303 -->
+
 དེ་ལྟར་ཡང༌།
 
-<!-- pair: TGD-004304 | source: U04304 | role: main_text | format: prose -->
+[Not yet translated: U04303.]
+
+<!-- TGD-004304 -->
+
 རྒྱུ་ལ་བརྟེན་་ པའི་མཁས་པ་བཅོམ་ལྡན་འདས། །
 
-<!-- pair: TGD-004305 | source: U04305 | role: main_text | format: prose -->
+[Not yet translated: U04304.]
+
+<!-- TGD-004305 -->
+
 མཇའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་ཞིང༌། །
 
-<!-- pair: TGD-004306 | source: U04306 | role: main_text | format: prose -->
+[Not yet translated: U04305.]
+
+<!-- TGD-004306 -->
+
 ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་དེ་དག་གསུངས། །
 
-<!-- pair: TGD-004307 | source: U04307 | role: main_text | format: prose -->
+[Not yet translated: U04306.]
+
+<!-- TGD-004307 -->
+
 མ་སྐྱེས་དགྲའི་འགྱོད་བསལ་ལས།
 
-<!-- pair: TGD-004308 | source: U04308 | role: main_text | format: prose -->
+[Not yet translated: U04307.]
+
+<!-- TGD-004308 -->
+
 ཆོས་ཐམས་ཅད་རྒྱུའི་རྗེས་སུ་འགྲོ་བ།
 
-<!-- pair: TGD-004309 | source: U04309 | role: main_text | format: prose -->
+[Not yet translated: U04308.]
+
+<!-- TGD-004309 -->
+
 ཞེས་དང་འདུལ་བའི་དུས་ལ་བབ་པ་ན།
 
-<!-- pair: TGD-004310 | source: U04310 | role: main_text | format: prose -->
+[Not yet translated: U04309.]
+
+<!-- TGD-004310 -->
+
 ཏིང་ངེ་འཛིན་འདི་ཞེས་བྱ་བ་ལ་སྙོམས་པར་ཞུགས་སོ།
 
-<!-- pair: TGD-004311 | source: U04311 | role: main_text | format: prose -->
+[Not yet translated: U04310.]
+
+<!-- TGD-004311 -->
+
 ཞེས་པ་དེ་
 
-<!-- pair: TGD-004312 | source: U04312 | role: main_text | format: prose -->
+[Not yet translated: U04311.]
+
+<!-- TGD-004312 -->
+
 རྒྱུ་བསྒྲུབ་པ་ཡིན་ཅིང་སྤྱིར་ཆོས་ཐམས་ཅད་སྤྲུལ་པ་ཡིན་པ།
 
-<!-- pair: TGD-004313 | source: U04313 | role: main_text | format: prose -->
+[Not yet translated: U04312.]
+
+<!-- TGD-004313 -->
+
 ཡུམ་ལས།
 
-<!-- pair: TGD-004314 | source: U04314 | role: main_text | format: prose -->
+[Not yet translated: U04313.]
+
+<!-- TGD-004314 -->
+
 རབ་འབྱོར་ཁ་ཅིག་ནི་ཉོན་མོངས་པའི་སྤྲུལ་པའོ། །
 
-<!-- pair: TGD-004315 | source: U04315 | role: main_text | format: prose -->
+[Not yet translated: U04314.]
+
+<!-- TGD-004315 -->
+
 དེ་བཞིན་དུ་ལས་དང་། ཉན་ཐོས་དང་། རང་རྒྱལ་དང་། སངས་རྒྱས་ཀྱི་སྤྲུལ་པའོ། །
 
-<!-- pair: TGD-004316 | source: U04316 | role: main_text | format: prose -->
+[Not yet translated: U04315.]
+
+<!-- TGD-004316 -->
+
 གསུངས་པས།
 
-<!-- pair: TGD-004317 | source: U04317 | role: main_text | format: prose -->
+[Not yet translated: U04316.]
+
+<!-- TGD-004317 -->
+
 ཁྱེད་ལྟར་ན་ཐམས་ཅད་རྒྱུ་མེད་དུ་ཐལ་བར་འགྱུར་རོ། །
 
-<!-- pair: TGD-004318 | source: U04318 | role: main_text | format: prose -->
+[Not yet translated: U04317.]
+
+<!-- TGD-004318 -->
+
 དེས་ན་སངས་རྒྱས་རང་ལས་རྒྱུད་པའི་རྒྱུ་ཅན་ནོ།
 
-<!-- pair: TGD-004319 | source: U04319 | role: main_text | format: prose -->
+[Not yet translated: U04318.]
+
+<!-- TGD-004319 -->
+
 རྡོ༽༽ གཟུགས་སྐུ་གཉིས་དང་ཡེ་ཤེས་སངས་རྒྱས་ཆོས་སྐུ་ལ་མེད་ཀྱང་
 
-<!-- pair: TGD-004320 | source: U04320 | role: main_text | format: prose -->
+[Not yet translated: U04319.]
+
+<!-- TGD-004320 -->
+
 གདུལ་བྱའི་གཞན་སྣང་ཡིན་ཟེར་ཡང༌།
 
-<!-- pair: TGD-004321 | source: U04321 | role: main_text | format: prose -->
+[Not yet translated: U04320.]
+
+<!-- TGD-004321 -->
+
 འདིར་ནི་ཆོས་སྐུ་རྣམ་པར་དག་པ་བརྙེས་པ་དང༌།
 
-<!-- pair: TGD-004322 | source: U04322 | role: main_text | format: prose -->
+[Not yet translated: U04321.]
+
+<!-- TGD-004322 -->
+
 སེམས་ཅན་རྣམས་སངས་རྒྱས་ཀྱི་སར་འགོད་པའི་ཐུགས་དམ་བཞེས་པ་དང༌།
 
-<!-- pair: TGD-004323 | source: U04323 | role: main_text | format: prose -->
+[Not yet translated: U04322.]
+
+<!-- TGD-004323 -->
+
 གདུལ་བྱ་རྣམས་ཀྱི་སངས་རྒྱས་དང་ཕྲད་པའི་ལས་བསགས་པའི་དད་པའི་སྣང་བ་གསུམ་འཛོམས་ན་
 
-<!-- pair: TGD-004324 | source: U04324 | role: main_text | format: prose -->
+[Not yet translated: U04323.]
+
+<!-- TGD-004324 -->
+
 སངས་རྒྱས་མཐོང་སྟེ།
 
-<!-- pair: TGD-004325 | source: U04325 | role: main_text | format: prose -->
+[Not yet translated: U04324.]
+
+<!-- TGD-004325 -->
+
 རྒྱུད་བླ་མ་ལས།
 
-<!-- pair: TGD-004326 | source: U04326 | role: main_text | format: prose -->
+[Not yet translated: U04325.]
+
+<!-- TGD-004326 -->
+
 ཇི་ལྟར་བཻཌཱུར་ས་གཞི་གཙང་མ་ལ། །
 
-<!-- pair: TGD-004327 | source: U04327 | role: main_text | format: prose -->
+[Not yet translated: U04326.]
+
+<!-- TGD-004327 -->
+
 ལྷ་དབང་ལུས་ཀྱི་གཟུགས་བརྙན་སྣང་བ་ལྟར། །
 
-<!-- pair: TGD-004328 | source: U04328 | role: main_text | format: prose -->
+[Not yet translated: U04327.]
+
+<!-- TGD-004328 -->
+
 དེ་བཞིན་འགྲོ་སེམས་ས་གཞི་གཙང་མ་ལ། །
 
-<!-- pair: TGD-004329 | source: U04329 | role: main_text | format: prose -->
+[Not yet translated: U04328.]
+
+<!-- TGD-004329 -->
+
 ཐུབ་པའི་དབང་པོའི་སྐུ་ཡི་གཟུགས་བརྙན་འཆར།
 
-<!-- pair: TGD-004330 | source: U04330 | role: main_text | format: prose -->
+[Not yet translated: U04329.]
+
+<!-- TGD-004330 -->
+
 ཞེས་དང་།
 
-<!-- pair: TGD-004331 | source: U04331 | role: main_text | format: prose -->
+[Not yet translated: U04330.]
+
+<!-- TGD-004331 -->
+
 བརྒྱད་སྟོང་པ་ལས།
 
-<!-- pair: TGD-004332 | source: U04332 | role: main_text | format: prose -->
+[Not yet translated: U04331.]
+
+<!-- TGD-004332 -->
+
 པི་ཝང་གི་དཔེས་བསྟན་པ་དང་།
 
-<!-- pair: TGD-004333 | source: U04333 | role: main_text | format: prose -->
+[Not yet translated: U04332.]
+
+<!-- TGD-004333 -->
+
 དབྱེན་གྱི་གཞི་ལས།
 
-<!-- pair: TGD-004334 | source: U04334 | role: main_text | format: prose -->
+[Not yet translated: U04333.]
+
+<!-- TGD-004334 -->
+
 སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་སྐུ་གཅིག་གིས་མ་ཡིན།
 
-<!-- pair: TGD-004335 | source: U04335 | role: main_text | format: prose -->
+[Not yet translated: U04334.]
+
+<!-- TGD-004335 -->
+
 རྐྱེན་གཅིག་གིས་མ་ཡིན།
 
-<!-- pair: TGD-004336 | source: U04336 | role: main_text | format: prose -->
+[Not yet translated: U04335.]
+
+<!-- TGD-004336 -->
+
 དགེ་བའི་རྩ་བ་གཅིག་གིས་མ་ཡིན།
 
-<!-- pair: TGD-004337 | source: U04337 | role: main_text | format: prose -->
+[Not yet translated: U04336.]
+
+<!-- TGD-004337 -->
+
 ཅེས་པས།
 
-<!-- pair: TGD-004338 | source: U04338 | role: main_text | format: prose -->
+[Not yet translated: U04337.]
+
+<!-- TGD-004338 -->
+
 ཡེ་ཤེས་ཡོན་ཏན་ཕྲིན་ལས་རྣམས་རྒྱུ་རྐྱེན་ཚོགས་ན་འབྱུང་བ་དང་
 
-<!-- pair: TGD-004339 | source: U04339 | role: main_text | format: prose -->
+[Not yet translated: U04338.]
+
+<!-- TGD-004339 -->
+
 སྐུ་དང་ཡེ་ཤེས་མཛད་པ་བསམ་གྱིས་མི་ཁྱབ་པ་རྣམས་
 
-<!-- pair: TGD-004340 | source: U04340 | role: main_text | format: prose -->
+[Not yet translated: U04339.]
+
+<!-- TGD-004340 -->
+
 སངས་རྒྱས་ཉག་གཅིག་གི་སྤྱོད་ཡུལ་ཡིན་པས་
 
-<!-- pair: TGD-004341 | source: U04341 | role: main_text | format: prose -->
+[Not yet translated: U04340.]
+
+<!-- TGD-004341 -->
+
 གཞན་སྣང་ཁོ་ནའང་མིན་པ་དེའི་ཕྱིར།
 
-<!-- pair: TGD-004342 | source: U04342 | role: main_text | format: prose -->
+[Not yet translated: U04341.]
+
+<!-- TGD-004342 -->
+
 སངས་རྒྱས་ཞེས་བྱ་བ་ནི་རྟེན་ཅིང་འབྲེལ་འབྱུང་ལ་སོགས་པའི་སྐུ་ཡིན་ནོ།
 
-<!-- pair: TGD-004343 | source: U04343 | role: main_text | format: prose -->
+[Not yet translated: U04342.]
+
+<!-- TGD-004343 -->
+
 རྡོ་༽༽ ཀུན་རྫོབ་བྱང་ཆུབ་ཀྱི་སེམས་སྨོན་པ་ལས་སྤྲུལ་སྐུ་འབྱུང་བ་ཁོ་ནར་ངེས་ཟེར་ཡང།
 
-<!-- pair: TGD-004344 | source: U04344 | role: main_text | format: prose -->
+[Not yet translated: U04343.]
+
+<!-- TGD-004344 -->
+
 དེ་གཅིག་པུར་མ་ངེས་ཏེ།
 
-<!-- pair: TGD-004345 | source: U04345 | role: main_text | format: prose -->
+[Not yet translated: U04344.]
+
+<!-- TGD-004345 -->
+
 སྨོན་འཇུག་གཉིས་ལས་རིམ་བཞིན་ལོངས་སྐུ་དང་སྤྲུལ་སྐུ་རུ་འབྱུང་བའང་ཡོད་པར་སྲིད་དེ།
 
-<!-- pair: TGD-004346 | source: U04346 | role: main_text | format: prose -->
+[Not yet translated: U04345.]
+
+<!-- TGD-004346 -->
+
 ནམ་མཁའི་མཐའ་དང་མཉམ་པའི་
 
-<!-- pair: TGD-004347 | source: U04347 | role: main_text | format: prose -->
+[Not yet translated: U04346.]
+
+<!-- TGD-004347 -->
+
 སེམས་ཅན་བློའི་ཁོངས་སུ་ཆུད་པའི་སྨོན་པ་འདིའི་འབྲས་བུ་ཡང་ཚད་ མེད་པའི་ཕྱིར་དང༌།
 
-<!-- pair: TGD-004348 | source: U04348 | role: main_text | format: prose -->
+[Not yet translated: U04347.]
+
+<!-- TGD-004348 -->
+
 རབ་འབྱམས་ཕྱོགས་བཅུའི་སངས་རྒྱས་ལ་
 
-<!-- pair: TGD-004349 | source: U04349 | role: main_text | format: prose -->
+[Not yet translated: U04348.]
+
+<!-- TGD-004349 -->
+
 འདོད་འདུན་གྱིས་བསྐྱེད་པའི་ཕྱིར་
 
-<!-- pair: TGD-004350 | source: U04350 | role: main_text | format: prose -->
+[Not yet translated: U04349.]
+
+<!-- TGD-004350 -->
+
 སྨོན་པ་ལས་ལོངས་སྐུ་འབྱུང་ཞིང༌།
 
-<!-- pair: TGD-004351 | source: U04351 | role: main_text | format: prose -->
+[Not yet translated: U04350.]
+
+<!-- TGD-004351 -->
+
 སེམས་བསྐྱེད་པ་དེ་ལ་བརྟེན་པ་དགེ་རྩ་ཐ་དད་རེ་རེས་ཀྱང་སྤྲུལ་པའི་སྐུ་རེ་རེ་འབྱུང་བ་
 
-<!-- pair: TGD-004352 | source: U04352 | role: main_text | format: prose -->
+[Not yet translated: U04351.]
+
+<!-- TGD-004352 -->
+
 ཆོས་དབྱིངས་ཐམས་ཅད་དུ་སངས་རྒྱ་བ་དང་།
 
-<!-- pair: TGD-004353 | source: U04353 | role: main_text | format: prose -->
+[Not yet translated: U04352.]
+
+<!-- TGD-004353 -->
+
 སྐུ་རྟེན་འབྲེལ་དུ་བཞེད་པ་དག་སྤྲུལ་པ་རྒྱུ་ཅན་དུ་བཞེད་པའི་གནད་ཀྱིས་ཡིན་ནོ།
 
-<!-- pair: TGD-004354 | source: U04354 | role: main_text | format: prose -->
+[Not yet translated: U04353.]
+
+<!-- TGD-004354 -->
+
 ༑སྔ་མ་ལྟར་རྫ་མཁན་ཡང་པའི་འོད་ལྟར་
 
-<!-- pair: TGD-004355 | source: U04355 | role: main_text | format: prose -->
+[Not yet translated: U04354.]
+
+<!-- TGD-004355 -->
+
 སངས་རྒྱས་གཅིག་ལ་འདོད་འདུན་བསྐྱེད་པས་སོ། །
 
-<!-- pair: TGD-004356 | source: U04356 | role: main_text | format: prose -->
+[Not yet translated: U04355.]
+
+<!-- TGD-004356 -->
+
 རྡོ༽༽ སྐུ་གསུམ་པོ་རིམ་བཞིན་གནས་ཆོས་དབྱིངས་ཀྱི་ཕོ་བྲང་དང༌།
 
-<!-- pair: TGD-004357 | source: U04357 | role: main_text | format: prose -->
+[Not yet translated: U04356.]
+
+<!-- TGD-004357 -->
+
 འོག་མིན་དང༌།
 
-<!-- pair: TGD-004358 | source: U04358 | role: main_text | format: prose -->
+[Not yet translated: U04357.]
+
+<!-- TGD-004358 -->
+
 བྱ་རྒོད་ཕུང་རི་སོགས་སུ།
 
-<!-- pair: TGD-004359 | source: U04359 | role: main_text | format: prose -->
+[Not yet translated: U04358.]
+
+<!-- TGD-004359 -->
+
 འཁོར་སངས་རྒྱས་དང་། ས་བཅུ་པ་དང་། ཐེག་པ་གསུམ་གྱི་རིགས་ཅན་ལ་
 
-<!-- pair: TGD-004360 | source: U04360 | role: main_text | format: prose -->
+[Not yet translated: U04359.]
+
+<!-- TGD-004360 -->
+
 ཆོས་ཟབ་མོ་སྐྱེ་མེད་དང༌།
 
-<!-- pair: TGD-004361 | source: U04361 | role: main_text | format: prose -->
+[Not yet translated: U04360.]
+
+<!-- TGD-004361 -->
+
 ཐེག་ཆེན་དང་ཐེག་པ་སྣ་ཚོགས་དང་།
 
-<!-- pair: TGD-004362 | source: U04362 | role: main_text | format: prose -->
+[Not yet translated: U04361.]
+
+<!-- TGD-004362 -->
+
 དུས་དུས་གསུམ་དུས་མེད་དང་།
 
-<!-- pair: TGD-004363 | source: U04363 | role: main_text | format: prose -->
+[Not yet translated: U04362.]
+
+<!-- TGD-004363 -->
+
 རྟག་པ་རྒྱུན་འཁོར་དང་འདུལ་བའི་དུས་ཏེ་གསུམ་ལ་
 
-<!-- pair: TGD-004364 | source: U04364 | role: main_text | format: prose -->
+[Not yet translated: U04363.]
+
+<!-- TGD-004364 -->
+
 སོ་སོ་ཐ་དད་དུ་སྟོན་པ་ཡིན་ཟེར་རོ། །
 
-<!-- pair: TGD-004365 | source: U04365 | role: main_text | format: prose -->
+[Not yet translated: U04364.]
+
+<!-- TGD-004365 -->
+
 འདིར་ནི་སྐུ་གསུམ་པོ་ཐ་དད་མེད་པར་བཞུགས་པ་ཡིན་ཏེ་
 
-<!-- pair: TGD-004366 | source: U04366 | role: main_text | format: prose -->
+[Not yet translated: U04365.]
+
+<!-- TGD-004366 -->
+
 རྒྱུ་བླ་མ་ལས།
 
-<!-- pair: TGD-004367 | source: U04367 | role: main_text | format: prose -->
+[Not yet translated: U04366.]
+
+<!-- TGD-004367 -->
+
 དེ་ནི་རང་བཞིན་དག་ཕྱིར་དང་། །
 
-<!-- pair: TGD-004368 | source: U04368 | role: main_text | format: prose -->
+[Not yet translated: U04367.]
+
+<!-- TGD-004368 -->
+
 བག་ཆགས་སྤངས་ཕྱིར་གཙང་བ་ཡིན། །
 
-<!-- pair: TGD-004369 | source: U04369 | role: main_text | format: prose -->
+[Not yet translated: U04368.]
+
+<!-- TGD-004369 -->
+
 བདག་དང་བདག་མེད་སྤྲོས་པ་དག །
 
-<!-- pair: TGD-004370 | source: U04370 | role: main_text | format: prose -->
+[Not yet translated: U04369.]
+
+<!-- TGD-004370 -->
+
 ཉེ་བར་ཞི་བ་དམ་པའི་བདག །
 
-<!-- pair: TGD-004371 | source: U04371 | role: main_text | format: prose -->
+[Not yet translated: U04370.]
+
+<!-- TGD-004371 -->
+
 ཡིད་ཀྱི་རང་བཞིན་ཕུང་པོ་དང༌། །
 
-<!-- pair: TGD-004372 | source: U04372 | role: main_text | format: prose -->
+[Not yet translated: U04371.]
+
+<!-- TGD-004372 -->
+
 དེ་རྒྱུའི་ལོག་ཕྱིར་བདེ་བ་ཉིད། །
 
-<!-- pair: TGD-004373 | source: U04373 | role: main_text | format: prose -->
+[Not yet translated: U04372.]
+
+<!-- TGD-004373 -->
+
 ཅེས་པས་མཚན་ཉིད་བཞི་ལྡན་གྱི་ཆོས་སྐུ་དེ་ཉིད་
 
-<!-- pair: TGD-004374 | source: U04374 | role: main_text | format: prose -->
+[Not yet translated: U04373.]
+
+<!-- TGD-004374 -->
+
 མཚན་དང་དཔེ་བྱད་ཀྱིས་བརྒྱན་པ་ལོངས་སྐུ།
 
-<!-- pair: TGD-004375 | source: U04375 | role: main_text | format: prose -->
+[Not yet translated: U04374.]
+
+<!-- TGD-004375 -->
+
 དེ་གཉིས་དབྱེར་མེད་པར་སེམས་ཅན་གྱི་དོན་མཛད་པ་སྤྲུལ་སྐུ་ཡིན་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004376 | source: U04376 | role: main_text | format: prose -->
+[Not yet translated: U04375.]
+
+<!-- TGD-004376 -->
+
 དེ་ལྟར་ཟླ་སྒྲོན་ལས།
 
-<!-- pair: TGD-004377 | source: U04377 | role: main_text | format: prose -->
+[Not yet translated: U04376.]
+
+<!-- TGD-004377 -->
+
 སྐུ་ནི་ནམ་མཁའི་མཚན་ཉིད་དེ། །
 
-<!-- pair: TGD-004378 | source: U04378 | role: main_text | format: prose -->
+[Not yet translated: U04377.]
+
+<!-- TGD-004378 -->
+
 སངས་རྒྱས་ཞིང་ཡང་དེ་འདྲ་སྟེ། །
 
-<!-- pair: TGD-004379 | source: U04379 | role: main_text | format: prose -->
+[Not yet translated: U04378.]
+
+<!-- TGD-004379 -->
+
 སྟོབས་དང་རྣམ་ཐར་བསམ་གཏན་དང་། །
 
-<!-- pair: TGD-004380 | source: U04380 | role: main_text | format: prose -->
+[Not yet translated: U04379.]
+
+<!-- TGD-004380 -->
+
 དེ་དག་ཐམས་ཅད་མཚན་ཉིད་གཅིག །
 
-<!-- pair: TGD-004381 | source: U04381 | role: main_text | format: prose -->
+[Not yet translated: U04380.]
+
+<!-- TGD-004381 -->
+
 ཅེས་སོ།
 
-<!-- pair: TGD-004382 | source: U04382 | role: main_text | format: prose -->
+[Not yet translated: U04381.]
+
+<!-- TGD-004382 -->
+
 དེས་ན་ལྡོག་པ་ཙམ་ལས་ཐ་དད་མེད་དོ།
 
-<!-- pair: TGD-004383 | source: U04383 | role: main_text | format: prose -->
+[Not yet translated: U04382.]
+
+<!-- TGD-004383 -->
+
 རྡོ དུས་གསུམ་གྱི་སངས་རྒྱས་རྣམས་
 
-<!-- pair: TGD-004384 | source: U04384 | role: main_text | format: prose -->
+[Not yet translated: U04383.]
+
+<!-- TGD-004384 -->
+
 མཛད་པ་མཛད་ནས་བུད་ཤིང་ཟད་པའི་མེ་བཞིན་
 
-<!-- pair: TGD-004385 | source: U04385 | role: main_text | format: prose -->
+[Not yet translated: U04384.]
+
+<!-- TGD-004385 -->
+
 མྱ་ངན་ལས་འདས་ཏེ་
 
-<!-- pair: TGD-004386 | source: U04386 | role: main_text | format: prose -->
+[Not yet translated: U04385.]
+
+<!-- TGD-004386 -->
+
 འོག་མིན་ཆོས་དབྱིངས་ཀྱི་ཕོ་བྲང་ན་བཞུགས་པ་ཡིན།
 
-<!-- pair: TGD-004387 | source: U04387 | role: main_text | format: prose -->
+[Not yet translated: U04386.]
+
+<!-- TGD-004387 -->
+
 ཟེར་ཡང༌།
 
-<!-- pair: TGD-004388 | source: U04388 | role: main_text | format: prose -->
+[Not yet translated: U04387.]
+
+<!-- TGD-004388 -->
+
 འདིར་ནི། དུས་གསུམ་གྱི་སངས་རྒྱས་ཐམས་ཅད་སེམས་ཅན་རྣམས་ཀྱི་ཁམས་རྒྱུད་ལ་བཞུགས་པ་ཡིན་ཏེ།
 
-<!-- pair: TGD-004389 | source: U04389 | role: main_text | format: prose -->
+[Not yet translated: U04388.]
+
+<!-- TGD-004389 -->
+
 དང་པོ་ཐུགས་བསྐྱེད་པ་ནས་དམ་པའི་ཆོས་གནས་ཀྱི་བར་
 
-<!-- pair: TGD-004390 | source: U04390 | role: main_text | format: prose -->
+[Not yet translated: U04389.]
+
+<!-- TGD-004390 -->
+
 མཐའ་ཡས་པའི་སེམས་ཅན་གྱི་དོན་བསྒྲུབས་ནས་
 
-<!-- pair: TGD-004391 | source: U04391 | role: main_text | format: prose -->
+[Not yet translated: U04390.]
+
+<!-- TGD-004391 -->
+
 ད་ཐུགས་ལས་ཆུང་ངུར་བཞུགས་པ་མི་སྲིད་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004392 | source: U04392 | role: main_text | format: prose -->
+[Not yet translated: U04391.]
+
+<!-- TGD-004392 -->
+
 དེ་ལྟར་ཡང་གཏན་ལ་ཕབ་པ་དང༌། ཟླ་བ་སྒྲོན་མེ་ལས།
 
-<!-- pair: TGD-004393 | source: U04393 | role: main_text | format: prose -->
+[Not yet translated: U04392.]
+
+<!-- TGD-004393 -->
+
 མྱ་ངན་ལས་འདས་པ་ལ་མི་གནས་པ་
 
-<!-- pair: TGD-004394 | source: U04394 | role: main_text | format: prose -->
+[Not yet translated: U04393.]
+
+<!-- TGD-004394 -->
+
 ཡང་དག་པའི་མཉམ་པ་ཉིད་ལ་གནས་པ།
 
-<!-- pair: TGD-004395 | source: U04395 | role: main_text | format: prose -->
+[Not yet translated: U04394.]
+
+<!-- TGD-004395 -->
+
 སེམས་ཅན་ཐམས་ཅད་ལ་གཟིགས་པའི་ས་ལ་བཞུགས་པ་སྟེ།
 
-<!-- pair: TGD-004396 | source: U04396 | role: main_text | format: prose -->
+[Not yet translated: U04395.]
+
+<!-- TGD-004396 -->
+
 ཞེས་པས།
 
-<!-- pair: TGD-004397 | source: U04397 | role: main_text | format: prose -->
+[Not yet translated: U04396.]
+
+<!-- TGD-004397 -->
+
 དུས་གསུམ་གྱི་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་མ་ཚང་བ་མེད་པ་
 
-<!-- pair: TGD-004398 | source: U04398 | role: main_text | format: prose -->
+[Not yet translated: U04397.]
+
+<!-- TGD-004398 -->
+
 སེམས་ཅན་རེ་རེའི་ཁམས་རྒྱུད་ལ་བཞུགས་པ་ནི་
 
-<!-- pair: TGD-004399 | source: U04399 | role: main_text | format: prose -->
+[Not yet translated: U04398.]
+
+<!-- TGD-004399 -->
+
 སེམས་ཅན་དོན་ལས་མཛད་པ་གཞན་མེད་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004400 | source: U04400 | role: main_text | format: prose -->
+[Not yet translated: U04399.]
+
+<!-- TGD-004400 -->
+
 ཚུལ་ཇི་ལྟར་བཞུགས་ན།
 
-<!-- pair: TGD-004401 | source: U04401 | role: main_text | format: prose -->
+[Not yet translated: U04400.]
+
+<!-- TGD-004401 -->
+
 རྫོགས་སངས་སྐུ་ནི་འཕྲོ་ཕྱིར་དང་།
 
-<!-- pair: TGD-004402 | source: U04402 | role: main_text | format: prose -->
+[Not yet translated: U04401.]
+
+<!-- TGD-004402 -->
+
 དེ་བཞིན་ཉིད་དབྱེར་མེད་ཕྱིར་དང༌། །
 
-<!-- pair: TGD-004403 | source: U04403 | role: main_text | format: prose -->
+[Not yet translated: U04402.]
+
+<!-- TGD-004403 -->
+
 རིགས་ཡོད་ཕྱིར་ན་ལུས་ཅན་ཀུན།
 
-<!-- pair: TGD-004404 | source: U04404 | role: main_text | format: prose -->
+[Not yet translated: U04403.]
+
+<!-- TGD-004404 -->
+
 རྟག་ཏུ་སངས་རྒྱས་སྙིང་པོ་ཅན།
 
-<!-- pair: TGD-004405 | source: U04405 | role: main_text | format: prose -->
+[Not yet translated: U04404.]
+
+<!-- TGD-004405 -->
+
 སངས་རྒྱས་ཡེ་ཤེས་སེམས་ཅན་ཚོགས་ཞུགས་ཕྱིར། །
 
-<!-- pair: TGD-004406 | source: U04406 | role: main_text | format: prose -->
+[Not yet translated: U04405.]
+
+<!-- TGD-004406 -->
+
 རང་བཞིན་དྲི་མེད་དེ་ནི་གཉིས་མེད་དེ།
 
-<!-- pair: TGD-004407 | source: U04407 | role: main_text | format: prose -->
+[Not yet translated: U04406.]
+
+<!-- TGD-004407 -->
+
 སངས་རྒྱས་རིགས་ལ་དེ་འབྲས་ཉེར་བརྟགས་ཕྱིར། །
 
-<!-- pair: TGD-004408 | source: U04408 | role: main_text | format: prose -->
+[Not yet translated: U04407.]
+
+<!-- TGD-004408 -->
+
 འགྲོ་ཀུན་སངས་རྒྱས་སྙིང་པོ་ཅན་དུ་གསུངས།
 
-<!-- pair: TGD-004409 | source: U04409 | role: main_text | format: prose -->
+[Not yet translated: U04408.]
+
+<!-- TGD-004409 -->
+
 ཞེས་པ་འདི་ཆོས་ཀྱི་རྗེ་སངས་རྒྱས་ཐམས་ཅད་སེམས་ཅན་གྱི་རྒྱུད་ལ་བཞུགས་པ་ལ་བཞེད་ཅིང་
 
-<!-- pair: TGD-004410 | source: U04410 | role: main_text | format: prose -->
+[Not yet translated: U04409.]
+
+<!-- TGD-004410 -->
+
 རྟོག་གེ་བ་རྣམས་དང་ནི་མི་མཐུན་པ་ཡིན་ནོ། །
 
-<!-- pair: TGD-004411 | source: U04411 | role: main_text | format: prose -->
+[Not yet translated: U04410.]
+
+<!-- TGD-004411 -->
+
 དེ་ཕྱིར་སྒོ་གསུམ་སྤྱོད་པ་ངན་པ་སྤང་བར་བྱ་སྟེ།
 
-<!-- pair: TGD-004412 | source: U04412 | role: main_text | format: prose -->
+[Not yet translated: U04411.]
+
+<!-- TGD-004412 -->
+
 མ་སྤངས་ན་ཐུགས་ཁྲེལ་བར་འགྱུར་བ་དང་།
 
-<!-- pair: TGD-004413 | source: U04413 | role: main_text | format: prose -->
+[Not yet translated: U04412.]
+
+<!-- TGD-004413 -->
+
 སྤང་ན་དགྱེས་ནས་འཕྲིན་ལས་ཀྱི་འཇུག་སྒོ་ཡོད་པར་འགྱུར་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004414 | source: U04414 | role: main_text | format: prose -->
+[Not yet translated: U04413.]
+
+<!-- TGD-004414 -->
+
 འབྲས་བུ་སངས་རྒྱས་པའི་གནད་དོན་རྣམས་བསྡུས་སྟེ་རྡོ་རྗེ་ཚིག་རྐང་བཅུ་དྲུག་ལྷན་ཐབས་ཚིག་རྐང་གཅིག་བཅས་ཀྱི་སྐབས་ཏེ་དེ་ལྟར་ན་ཚོམ་བདུན་ཡོངས་སུ་རྫོགས་པའི་འགྲེལ་བཤད་ལེགས་པར་བྱེད་པའོ། །
 
-<!-- pair: TGD-004415 | source: U04415 | role: main_text | format: prose -->
+[Not yet translated: U04414.]
+
+<!-- TGD-004415 -->
+
 གཞུང་གི་མཇུག་བསྡུ་བ་ནི།
 
-<!-- pair: TGD-004416 | source: U04416 | role: main_text | format: prose -->
+[Not yet translated: U04415.]
+
+<!-- TGD-004416 -->
+
 ཇི་ལྟར་འཇིག་རྟེན་གྱི་ཁམས་འདི་ན་
 
-<!-- pair: TGD-004417 | source: U04417 | role: main_text | format: prose -->
+[Not yet translated: U04416.]
+
+<!-- TGD-004417 -->
+
 ཕ་ཡི་བུ་ཞིག་ལ་ལོངས་སྤྱོད་ཕལ་པའི་འབྱོར་བ་
 
-<!-- pair: TGD-004418 | source: U04418 | role: main_text | format: prose -->
+[Not yet translated: U04417.]
+
+<!-- TGD-004418 -->
+
 གཞན་ལ་གྲགས་པའི་རྫས་མང་པོ་དང་།
 
-<!-- pair: TGD-004419 | source: U04419 | role: main_text | format: prose -->
+[Not yet translated: U04418.]
+
+<!-- TGD-004419 -->
+
 ཟབ་དགུ་ཚོགས་སུ་བཤད་ན་ཡང་།
 
-<!-- pair: TGD-004420 | source: U04420 | role: main_text | format: prose -->
+[Not yet translated: U04419.]
+
+<!-- TGD-004420 -->
+
 ཉམས་སུ་མ་མྱོང་སྨྲས་པ་མེད་ཅེས་པ་ལྟར་
 
-<!-- pair: TGD-004421 | source: U04421 | role: main_text | format: prose -->
+[Not yet translated: U04420.]
+
+<!-- TGD-004421 -->
+
 ཚད་མ་བཞིའི་སྒོ་ནས་ངེས་ཤེས་ཁྱད་པར་ཅན་ལྡན་པར་གྱུར་ཀྱང་
 
-<!-- pair: TGD-004422 | source: U04422 | role: main_text | format: prose -->
+[Not yet translated: U04421.]
+
+<!-- TGD-004422 -->
+
 སུས་དེ་ཆུད་གསོན་པར་བྱེད་ན་
 
-<!-- pair: TGD-004423 | source: U04423 | role: main_text | format: prose -->
+[Not yet translated: U04422.]
+
+<!-- TGD-004423 -->
+
 གཞན་གྱིས་སྨད་པའི་གནས་སུ་ཡིན་པར་གྱུར་ན།
 
-<!-- pair: TGD-004424 | source: U04424 | role: main_text | format: prose -->
+[Not yet translated: U04423.]
+
+<!-- TGD-004424 -->
+
 དེ་བས་ཀྱང་གཅེས་པ་ཕ་ཡི་ཁྱད་ནོར་གཞན་ལ་མེད་པའི་ནོར་བུའི་རིགས་དག་
 
-<!-- pair: TGD-004425 | source: U04425 | role: main_text | format: prose -->
+[Not yet translated: U04424.]
+
+<!-- TGD-004425 -->
+
 སྔོན་སུས་ཀྱང་མ་ཐོས་པ་
 
-<!-- pair: TGD-004426 | source: U04426 | role: main_text | format: prose -->
+[Not yet translated: U04425.]
+
+<!-- TGD-004426 -->
+
 དེ་རང་ཉིད་ཀྱིས་མི་འཛིན་པར་འདོད་ན་
 
-<!-- pair: TGD-004427 | source: U04427 | role: main_text | format: prose -->
+[Not yet translated: U04426.]
+
+<!-- TGD-004427 -->
+
 དེ་ནི་སྨད་པར་བྱེད་པ་ལྟ་ཅི་སྨྲོས།
 
-<!-- pair: TGD-004428 | source: U04428 | role: main_text | format: prose -->
+[Not yet translated: U04427.]
+
+<!-- TGD-004428 -->
+
 དཔེར་བསྟན་པ་དེ་བཞིན་དུ་མཚུངས་མེད་
 
-<!-- pair: TGD-004429 | source: U04429 | role: main_text | format: prose -->
+[Not yet translated: U04428.]
+
+<!-- TGD-004429 -->
+
 ཆོས་ཀྱི་རྒྱལ་པོ་འཇིག་རྟེན་གསུམ་གྱི་མགོན་པོ་ཡིས་འཁྲུངས་ཏེ་
 
-<!-- pair: TGD-004430 | source: U04430 | role: main_text | format: prose -->
+[Not yet translated: U04429.]
+
+<!-- TGD-004430 -->
+
 དོན་མཐའ་དག་མངོན་དུ་མཛད་པའི་ཁྱད་པར་གྱི་ཆོས་འདི་དག་
 
-<!-- pair: TGD-004431 | source: U04431 | role: main_text | format: prose -->
+[Not yet translated: U04430.]
+
+<!-- TGD-004431 -->
+
 གངས་ཅན་འདིར་སྔོན་ཆད་མ་གྲགས་པ་ཞིག་
 
-<!-- pair: TGD-004432 | source: U04432 | role: main_text | format: prose -->
+[Not yet translated: U04431.]
+
+<!-- TGD-004432 -->
+
 ཕྱི་དུས་འཇིག་རྟེན་མགོན་པོས་འདི་ལྟར་གསལ་བར་མཛད་པ་
 
-<!-- pair: TGD-004433 | source: U04433 | role: main_text | format: prose -->
+[Not yet translated: U04432.]
+
+<!-- TGD-004433 -->
+
 རྗེས་འབྲངས་སྲས་ཀྱིས་མི་འཛིན་པ་ནི་
 
-<!-- pair: TGD-004434 | source: U04434 | role: main_text | format: prose -->
+[Not yet translated: U04433.]
+
+<!-- TGD-004434 -->
+
 དེ་དང་ཚུལ་མཚུངས་པ་ཡིན་ནོ། །
 
-<!-- pair: TGD-004435 | source: U04435 | role: main_text | format: prose -->
+[Not yet translated: U04434.]
+
+<!-- TGD-004435 -->
+
 རྒྱུ་མཚན་དེའི་ཕྱིར་རིགས་པ་དང་ལྡན་པ་
 
-<!-- pair: TGD-004436 | source: U04436 | role: main_text | format: prose -->
+[Not yet translated: U04435.]
+
+<!-- TGD-004436 -->
+
 ཕ་ཡི་གདུངས་འཚོབ་པར་འདོད་ན་
 
-<!-- pair: TGD-004437 | source: U04437 | role: main_text | format: prose -->
+[Not yet translated: U04436.]
+
+<!-- TGD-004437 -->
+
 རྗེའི་ཞལ་ནས་སུའི་ཆོས་ལ་ཡང་མི་སྨོད།
 
-<!-- pair: TGD-004438 | source: U04438 | role: main_text | format: prose -->
+[Not yet translated: U04437.]
+
+<!-- TGD-004438 -->
+
 གང་ལ་ཡང་མ་སྨད་པས་ཆོས་ལ་བརྟེན་པའི་གཡང་ས་མེད།
 
-<!-- pair: TGD-004439 | source: U04439 | role: main_text | format: prose -->
+[Not yet translated: U04438.]
+
+<!-- TGD-004439 -->
+
 སུའི་ཆོས་ཀྱི་རྗེས་སུ་མི་འབྲང་
 
-<!-- pair: TGD-004440 | source: U04440 | role: main_text | format: prose -->
+[Not yet translated: U04439.]
+
+<!-- TGD-004440 -->
+
 གང་གི་རྗེས་སུ་མ་འབྲངས་པས་
 
-<!-- pair: TGD-004441 | source: U04441 | role: main_text | format: prose -->
+[Not yet translated: U04440.]
+
+<!-- TGD-004441 -->
+
 ལོག་པར་ཞུགས་པའི་ཉེས་པ་མི་འབྱུང་ཞེས་གསུངས་པ་ལྟར།
 
-<!-- pair: TGD-004442 | source: U04442 | role: main_text | format: prose -->
+[Not yet translated: U04441.]
+
+<!-- TGD-004442 -->
+
 རིགས་འཆོལ་བས་གཞན་གྱི་གྲུབ་མཐའ་དང་གང་ཟག་ལ་སྨོད་པར་མི་བྱེད་པ་
 
-<!-- pair: TGD-004443 | source: U04443 | role: main_text | format: prose -->
+[Not yet translated: U04442.]
+
+<!-- TGD-004443 -->
+
 ཁམས་གསུམ་ཆོས་ཀྱི་རྒྱལ་པོ་ཆོས་རྗེ་རིན་པོ་ཆེ་
 
-<!-- pair: TGD-004444 | source: U04444 | role: main_text | format: prose -->
+[Not yet translated: U04443.]
+
+<!-- TGD-004444 -->
+
 སྲིད་པ་གསུམ་ན་གྲགས་པ་དང་ལྡན་པ་
 
-<!-- pair: TGD-004445 | source: U04445 | role: main_text | format: prose -->
+[Not yet translated: U04444.]
+
+<!-- TGD-004445 -->
+
 དེ་ཡི་བཞེད་པའི་ཐུགས་དགོངས་དུས་གསུམ་སངས་རྒྱས་ཀྱི་བསྟན་པ་མཐའ་དག་གི་སྙིང་པོར་གྱུར་པའི་ཁྱད་ཆོས་རྣམས།
 
-<!-- pair: TGD-004446 | source: U04446 | role: main_text | format: prose -->
+[Not yet translated: U04445.]
+
+<!-- TGD-004446 -->
+
 མདོ་ལས།
 
-<!-- pair: TGD-004447 | source: U04447 | role: main_text | format: prose -->
+[Not yet translated: U04446.]
+
+<!-- TGD-004447 -->
+
 མེ་ཚོགས་སྤུ་གྲིའི་སོ་ཡང་བརྒལ་ནས་ནི། །
 
-<!-- pair: TGD-004448 | source: U04448 | role: main_text | format: prose -->
+[Not yet translated: U04447.]
+
+<!-- TGD-004448 -->
+
 ཕྱི་མཐར་ཐུག་གི་བར་དུ་བཟུང་བར་བགྱི།
 
-<!-- pair: TGD-004449 | source: U04449 | role: main_text | format: prose -->
+[Not yet translated: U04448.]
+
+<!-- TGD-004449 -->
+
 ཞེས་པ་ལྟར་ནན་ཏན་ཆེན་པོའི་སྒོ་ནས་འཛིན་པ་ཞིག་བྱུང་ན་
 
-<!-- pair: TGD-004450 | source: U04450 | role: main_text | format: prose -->
+[Not yet translated: U04449.]
+
+<!-- TGD-004450 -->
+
 ངོ་མཚར་ཤིན་ཏུ་ཆེ་བ་ཡིན་ནོ། །
 
-<!-- pair: TGD-004451 | source: U04451 | role: main_text | format: prose -->
+[Not yet translated: U04450.]
+
+<!-- TGD-004451 -->
+
 བསྟན་པ་གང་གིས་འཛིན་པའི་ཆོས་མཛད་
 
-<!-- pair: TGD-004452 | source: U04452 | role: main_text | format: prose -->
+[Not yet translated: U04451.]
+
+<!-- TGD-004452 -->
+
 སྐྱེས་བུ་དམ་པ་རྣམས་ནི་འབངས་ཕལ་པའི་བུ་སྟོང་གི་ནང་དུ་འཁོར་ལོས་བསྒྱུར་རྒྱལ་གྱི་རིགས་རུས་ལས་འཁྲུངས་པའི་མཚན་ལྡན་གྱི་སྲས་དེ་ནི་
 
-<!-- pair: TGD-004453 | source: U04453 | role: main_text | format: prose -->
+[Not yet translated: U04452.]
+
+<!-- TGD-004453 -->
+
 ཡོན་ཏན་དུ་མའི་སྒོ་ནས་ཁྱད་པར་འཕགས་པ་བཞིན་དུ་
 
-<!-- pair: TGD-004454 | source: U04454 | role: main_text | format: prose -->
+[Not yet translated: U04453.]
+
+<!-- TGD-004454 -->
+
 བསྟན་པའི་སྒོར་ཞུགས་
 
-<!-- pair: TGD-004455 | source: U04455 | role: main_text | format: prose -->
+[Not yet translated: U04454.]
+
+<!-- TGD-004455 -->
+
 ཀུན་གྱི་ནང་ན་ཡོན་ཏན་དུ་མས་མཛེས་ཤིང་
 
-<!-- pair: TGD-004456 | source: U04456 | role: main_text | format: prose -->
+[Not yet translated: U04455.]
+
+<!-- TGD-004456 -->
+
 ལྷག་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-004457 | source: U04457 | role: main_text | format: prose -->
+[Not yet translated: U04456.]
+
+<!-- TGD-004457 -->
+
 དེའང་གང་གིས་ལྷག་པ་ཡིན་སྙམ་ན།
 
-<!-- pair: TGD-004458 | source: U04458 | role: main_text | format: prose -->
+[Not yet translated: U04457.]
+
+<!-- TGD-004458 -->
+
 ཐུན་མོང་མ་ཡིན་པ་གཞི་བདེ་བར་གཤེགས་པ་དམ་པའི་སྙིང་པོ་དང་
 
-<!-- pair: TGD-004459 | source: U04459 | role: main_text | format: prose -->
+[Not yet translated: U04458.]
+
+<!-- TGD-004459 -->
+
 དེ་མངོན་དུ་བྱེད་པའི་ཐབས་ལམ་གྱི་རིམ་པ་རབ་འབྱམས་ཐུབ་པའི་བཀའ་མཐའ་དག་གམ།
 
-<!-- pair: TGD-004460 | source: U04460 | role: main_text | format: prose -->
+[Not yet translated: U04459.]
+
+<!-- TGD-004460 -->
+
 ཡང་ན་གཉིས་ཆོས་ཐམས་ཅད་ལས་འདས་པའི་སྟོང་ཉིད་ཕྱག་རྒྱ་ཆེན་པོ་དང་།
 
-<!-- pair: TGD-004461 | source: U04461 | role: main_text | format: prose -->
+[Not yet translated: U04460.]
+
+<!-- TGD-004461 -->
+
 དེ་རྒྱུ་འབྲས་སུ་འབྱུང་བ་
 
-<!-- pair: TGD-004462 | source: U04462 | role: main_text | format: prose -->
+[Not yet translated: U04461.]
+
+<!-- TGD-004462 -->
+
 འཁོར་འདས་ཀྱི་རྟེན་འབྲེལ་ཀུན་ལ་མ་རྨོངས་པས་
 
-<!-- pair: TGD-004463 | source: U04463 | role: main_text | format: prose -->
+[Not yet translated: U04462.]
+
+<!-- TGD-004463 -->
+
 དེ་ཕྱིར་ཕྱི་རོལ་རྒོལ་བ་ངན་པའི་ཝ་ཚོགས་ཀྱིས། །
 
-<!-- pair: TGD-004464 | source: U04464 | role: main_text | format: prose -->
+[Not yet translated: U04463.]
+
+<!-- TGD-004464 -->
+
 གངས་ཅན་སེང་གེ་ལྟ་བུར་ཉམས་ང་།
 
-<!-- pair: TGD-004465 | source: U04465 | role: main_text | format: prose -->
+[Not yet translated: U04464.]
+
+<!-- TGD-004465 -->
+
 བག་ཚ་བ་སྤུ་ཙམ་ཡང་མེད་དོ།
 
-<!-- pair: TGD-004466 | source: U04466 | role: main_text | format: prose -->
+[Not yet translated: U04465.]
+
+<!-- TGD-004466 -->
+
 རིགས་དང་དབང་པོ་དང་མཐུན་པར་རྗེས་འབྲང་ཀྱི་འཁོར་དང་
 
-<!-- pair: TGD-004467 | source: U04467 | role: main_text | format: prose -->
+[Not yet translated: U04466.]
+
+<!-- TGD-004467 -->
+
 རིགས་ཅན་སྣ་ཚོགས་པའི་གདུལ་བྱ་སོ་སོ་ལ་མ་འདྲེས་པའི་ཆོས་ ཀྱི་ཁྱད་པར་ལེགས་པར་བསྟན་པ་
 
-<!-- pair: TGD-004468 | source: U04468 | role: main_text | format: prose -->
+[Not yet translated: U04467.]
+
+<!-- TGD-004468 -->
+
 དམན་པ་ཉན་རང་དང་བྱང་ཆུབ་མཆོག་གི་ལམ་ལ་མོས་པ་ཇི་ལྟ་བའི་བྱེ་བྲག་གི་རིམ་པ་ཕྱེས་ཏེ་
 
-<!-- pair: TGD-004469 | source: U04469 | role: main_text | format: prose -->
+[Not yet translated: U04468.]
+
+<!-- TGD-004469 -->
+
 བསྟན་པས་བྱང༌ཆུབ་གསུམ་ལ་འགོད་པར་བྱེད་ཅིང་
 
-<!-- pair: TGD-004470 | source: U04470 | role: main_text | format: prose -->
+[Not yet translated: U04469.]
+
+<!-- TGD-004470 -->
+
 སྙན་པ་དང་གྲགས་པའི་སྒྲ་ཆེན་འབྲུག་སྒྲ་བཞིན་དུ་ཕྱོགས་བཅུར་སྒྲོགས་པར་བྱེད་དོ། །
 
-<!-- pair: TGD-004471 | source: U04471 | role: main_text | format: prose -->
+[Not yet translated: U04470.]
+
+<!-- TGD-004471 -->
+
 དེ་ལྟར་བརྗོད་བྱ་ཆོས་ཐུན་མཉམ་པ་ཉིད་
 
-<!-- pair: TGD-004472 | source: U04472 | role: main_text | format: prose -->
+[Not yet translated: U04471.]
+
+<!-- TGD-004472 -->
+
 སྦྲང་རྩི་རོ་གཅིག་པ་ལྟར་ཟབ་ཅིང་
 
-<!-- pair: TGD-004473 | source: U04473 | role: main_text | format: prose -->
+[Not yet translated: U04472.]
+
+<!-- TGD-004473 -->
+
 རྗོད་བྱེད་མདོ་རྒྱུད་དང་བསྟན་བཅོས་རྒྱ་ཆེ་བླ་ན་མེད་པའི།
 
-<!-- pair: TGD-004474 | source: U04474 | role: main_text | format: prose -->
+[Not yet translated: U04473.]
+
+<!-- TGD-004474 -->
+
 དགོངས་པ་རྒྱ་མཚོ་ཆེ་ལྟར་
 
-<!-- pair: TGD-004475 | source: U04475 | role: main_text | format: prose -->
+[Not yet translated: U04474.]
+
+<!-- TGD-004475 -->
+
 ཤིན་ཏུ་ཡངས་པར་གྱུར་པ་ལས།
 
-<!-- pair: TGD-004476 | source: U04476 | role: main_text | format: prose -->
+[Not yet translated: U04475.]
+
+<!-- TGD-004476 -->
+
 སྐྲའི་རྩེ་མོ་བླངས་པའི་ཆུ་ཐིག་ཙམ་ཞིག་སྨྲས་པ་
 
-<!-- pair: TGD-004477 | source: U04477 | role: main_text | format: prose -->
+[Not yet translated: U04476.]
+
+<!-- TGD-004477 -->
+
 འདི་ནི་བསོད་སྙོམས་ཀྱི་འཚོ་བའི་བན་དེ་ལྡོམ་བུ་པ་ཤེས་རབ་འབྱུང་གནས་བདག་གིས་བྲིས་ཞེས་སོ། །
 
-<!-- pair: TGD-004478 | source: U04478 | role: main_text | format: prose -->
+[Not yet translated: U04477.]
+
+<!-- TGD-004478 -->
+
 འཁོར་གསུམ་གང་དུ་གང་ཞིག་
 
-<!-- pair: TGD-004479 | source: U04479 | role: main_text | format: prose -->
+[Not yet translated: U04478.]
+
+<!-- TGD-004479 -->
+
 ཇི་ལྟར་བསྔོ་བའི་ཆོས་མི་དམིགས་རྣམ་པར་དག་པ་
 
-<!-- pair: TGD-004480 | source: U04480 | role: main_text | format: prose -->
+[Not yet translated: U04479.]
+
+<!-- TGD-004480 -->
+
 གངས་ཀྱི་རི་ལྟར་དཀར་བའི་དགེ་བ་འདིས། །
 
-<!-- pair: TGD-004481 | source: U04481 | role: main_text | format: prose -->
+[Not yet translated: U04480.]
+
+<!-- TGD-004481 -->
+
 རིན་ཆེན་རྒྱལ་བའི་བསྟན་པ་ཕྱོགས་བཅུ་མུ་མེད་པ་
 
-<!-- pair: TGD-004482 | source: U04482 | role: main_text | format: prose -->
+[Not yet translated: U04481.]
+
+<!-- TGD-004482 -->
+
 ཕྱི་མའི་མཐའི་བར་དུ་རྒྱས་པ་དང༌།
 
-<!-- pair: TGD-004483 | source: U04483 | role: main_text | format: prose -->
+[Not yet translated: U04482.]
+
+<!-- TGD-004483 -->
+
 དེའི་མཐུས་འཇིག་རྟེན་འཁོར་བའི་རྩ་བ་
 
-<!-- pair: TGD-004484 | source: U04484 | role: main_text | format: prose -->
+[Not yet translated: U04483.]
+
+<!-- TGD-004484 -->
+
 མི་ཤེས་པའི་གཏི་མུག་
 
-<!-- pair: TGD-004485 | source: U04485 | role: main_text | format: prose -->
+[Not yet translated: U04484.]
+
+<!-- TGD-004485 -->
+
 གློ་བུར་པའི་དྲི་མ་དང་རྣམ་པར་བྲལ་ཞིང༌།
 
-<!-- pair: TGD-004486 | source: U04486 | role: main_text | format: prose -->
+[Not yet translated: U04485.]
+
+<!-- TGD-004486 -->
+
 མཐར་ཕྱིན་པའི་སངས་རྒྱས་སྐུ་གསུམ་དང་
 
-<!-- pair: TGD-004487 | source: U04487 | role: main_text | format: prose -->
+[Not yet translated: U04486.]
+
+<!-- TGD-004487 -->
+
 ཡེ་ཤེས་ལྔའི་བདག་ཉིད་མྱུར་དུ་ཐོབ་པར་ཤོག་ཅིག་ཅེས་པའོ། །
 
-<!-- pair: TGD-004488 | source: U04488 | role: main_text | format: prose -->
+[Not yet translated: U04487.]
+
+<!-- TGD-004488 -->
+
 ཞེས་པ་བཤེར་འབྱུང་གིས་མཛད་པའི་གཞུང་རྩ་བ་དེ་ཉིད་
 
-<!-- pair: TGD-004489 | source: U04489 | role: main_text | format: prose -->
+[Not yet translated: U04488.]
+
+<!-- TGD-004489 -->
+
 འབྲི་གུང་གདན་རབ་རྗེ་བཙུན་དཀོན་མཆོག་རིན་ཆེན་ཕྲིན་ལས་རྣམ་རྒྱལ་དཔལ་འཟང་པོས་
 
-<!-- pair: TGD-004490 | source: U04490 | role: main_text | format: prose -->
+[Not yet translated: U04489.]
+
+<!-- TGD-004490 -->
+
 ཚིག་བཅད་དུ་ལྡེབས་པ་ལས་
 
-<!-- pair: TGD-004491 | source: U04491 | role: main_text | format: prose -->
+[Not yet translated: U04490.]
+
+<!-- TGD-004491 -->
+
 སླར་ལྷན་ཐབས་བཅས་དཀྱུས་སུ་བསྒྲིགས་ནས་
 
-<!-- pair: TGD-004492 | source: U04492 | role: main_text | format: prose -->
+[Not yet translated: U04491.]
+
+<!-- TGD-004492 -->
+
 མཆན་གྱིས་བཀྲལ་བ་
 
-<!-- pair: TGD-004493 | source: U04493 | role: main_text | format: prose -->
+[Not yet translated: U04492.]
+
+<!-- TGD-004493 -->
+
 སྔོན་བྱོན་སྐྱེས་ཆེན་དམ་པ་བཅུ་ཕྲག་རིགས་པའི་གནས་ལ་མཁས་པ་ཤཱཀྱའི་དགེ་སློང་དཔལ་འབྱོར་རིན་པོ་ཆེས་མཆན་ཐོར་བུར་སྡེབས་པ་ལ་གཞི་བྱས་ཏེ་
 
-<!-- pair: TGD-004494 | source: U04494 | role: main_text | format: prose -->
+[Not yet translated: U04493.]
+
+<!-- TGD-004494 -->
+
 སྙིགས་དུས་ཀྱི་ལྡོམ་བུ་བ་འབྲི་སྤྲུལ་རྟོགས་ལྡན་དཀོན་མཆོག་ཐུབ་བསྟན་བསྟན་པའི་རྒྱལ་མཚན་གྱིས་
 
-<!-- pair: TGD-004495 | source: U04495 | role: main_text | format: prose -->
+[Not yet translated: U04494.]
+
+<!-- TGD-004495 -->
+
 མང་ཡུལ་ལ་དྭགས་སྒང་སྔོན་བཀྲཤིས་ཆོས་རྫོང་དུ་
 
-<!-- pair: TGD-004496 | source: U04496 | role: main_text | format: prose -->
+[Not yet translated: U04495.]
+
+<!-- TGD-004496 -->
+
 འབྱུང་བ་བཞི་ལྡན་
 
-<!-- pair: TGD-004497 | source: U04497 | role: main_text | format: prose -->
+[Not yet translated: U04496.]
+
+<!-- TGD-004497 -->
+
 ས་མོ་བྱ་ལོའི་དུས་འཁོར་གྱི་གསོ་དཔྱད་རྒྱ་རྩིས་ཀྱི་སྟོན་ར།
 
-<!-- pair: TGD-004498 | source: U04498 | role: main_text | format: prose -->
+[Not yet translated: U04497.]
+
+<!-- TGD-004498 -->
+
 སྐར་རྩིས་རྒྱ་གར་གྱི་དབྱར་ཐ་གྲོ་ཞིན་
 
-<!-- pair: TGD-004499 | source: U04499 | role: main_text | format: prose -->
+[Not yet translated: U04498.]
+
+<!-- TGD-004499 -->
+
 ཟླ་བ་མར་ངོའི་ཚེས་ ༡༣ ལ་བྲིས་པ་དགེ་ལེགས་འཕེལ།།
+
+[Not yet translated: U04499.]
+
+## Notes
+
+[^N-A-001]: Anchors: U00001. Exact Tibetan: རྔ་སྒྲ་ Category: contextual use. Issue: The glossary assigns Word to སྒྲ་; this title uses it for a drum’s sound. Working treatment: Summer Drum Sound is a provisional acoustic rendering of this title compound; Word remains the unchanged canonical assignment. Uncertainty: The working interpretation is provisional. Review action: Approve a scoped sound sense for this title or revise the title wording.
+
+[^N-A-002]: Anchors: U00004. Exact Tibetan: སྤང་རྟོག་ Category: source reading. Issue: The supplied reading has རྟོག་, conceptualizing, where the formula appears to require རྟོགས་, realization. Working treatment: The conventional formula is supplied in brackets; the Tibetan remains unchanged. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-003]: Anchors: U00016. Exact Tibetan: རྒྱུད་སྡེ་ Category: terminology gap. Issue: The established རྒྱུད་ = continuum does not directly express the bibliographical compound here. Working treatment: Tantra classes is a provisional compound-specific rendering, distinguished from continuum for a being’s continuity. Uncertainty: The working interpretation is provisional. Review action: Approve a separate scripture/tantra sense and its compounds; do not change the continuum assignment.
+
+[^N-A-004]: Anchors: U00030, U00031, U00039. Exact Tibetan: བརྒྱ་དང་ལྔ་བཅུ། Category: scope. Issue: The introduction gives 150 utterances and 40 supplements; U00039 gives 152 and 47. Working treatment: Retain both stated counts without harmonizing them. Uncertainty: The working interpretation is provisional. Review action: Check whether these are rounded counts, different enumerations, or transcript errors.
+
+[^N-A-005]: Anchors: U00041, U00051. Exact Tibetan: དབང་ཕྱུག་ཕ་ཤཱཀྱ་ Category: syntax/reference. Issue: The syllable ཕ་ before Śākya is syntactically doubtful; the list concerns the ten powers. གནས་དང་གནས་མིན་ here concerns possibility, not the meditation term abiding. Working treatment: Translate the ten-power construction provisionally; no father is supplied. Uncertainty: The working interpretation is provisional. Review action: Check ཕ་ and the etymological explanation of Śākya.
+
+[^N-A-006]: Anchors: U00056. Exact Tibetan: ཐུགས་ཀྱི་དཀྱིལ་འཁོར་ Category: terminology gap. Issue: Standalone ཐུགས་ has no established glossary entry. Working treatment: Awakened mind is a provisional honorific rendering here, not a replacement for ordinary mind, mental faculty, or enlightened intent. Uncertainty: The working interpretation is provisional. Review action: Approve an occurrence-specific treatment of ཐུགས་ and preserve the established neighboring entries.
+
+[^N-A-007]: Anchors: U00069. Exact Tibetan: དྲན་པ་ཅུང་ཟད་ Category: contextual use. Issue: The glossary’s mindfulness entry appears here in an ordinary recollection construction. Working treatment: Remember is a provisional contextual rendering tied to the preceding failure of retention. Uncertainty: The working interpretation is provisional. Review action: Approve recollection/remembering for this construction without replacing technical mindfulness.
+
+[^N-A-008]: Anchors: U00075, U00076. Exact Tibetan: ཆོས་ཀུན་རྣམ་པར་དག་པའི་ངོ་བོ་སངས་རྒྱས་པས་ Category: syntax/reference. Issue: The syntax of the Buddha/purified-essence clause is compressed. Working treatment: Retain the apparent identification, without introducing a creation claim. Uncertainty: The working interpretation is provisional. Review action: Review whether སངས་རྒྱས་པས་ is nominal or verbal in this clause.
+
+[^N-A-009]: Anchors: U00105, U00106. Exact Tibetan: ལྗོན་པས་ཞུས་པའི་མདོར། Category: source reading. Issue: The cited title has not been securely identified; U00105 is only a quotation incipit. Working treatment: Retain Jonpa as a provisional transliteration and leave the incipit visibly abbreviated. Uncertainty: The working interpretation is provisional. Review action: Identify the cited sūtra and compare its quotation.
+
+[^N-A-010]: Anchors: U00130. Exact Tibetan: ཐུགས་བསྐྱེད་ Category: terminology gap. Issue: This honorific compound is not separately established in the glossary. Working treatment: Awakening intention is a provisional compound rendering; it is not a new standalone equivalent for ཐུགས་. Uncertainty: The working interpretation is provisional. Review action: Review the compound alongside སེམས་བསྐྱེད་ and bodhicitta terminology.
+
+[^N-A-011]: Anchors: U00139. Exact Tibetan: སོ་སོར་རྟོགས་པའི་ངེས་པ་ཅན་ Category: scope. Issue: The closing phrase can concern distinct realizations or definitive allocation of teachings. Working treatment: The draft follows the paragraph’s claim of definitive distinctions. Uncertainty: The working interpretation is provisional. Review action: Review the attachment of སོ་སོར་རྟོགས་པའི་.
+
+[^N-A-012]: Anchors: U00145, U00146, U00147, U00150, U00151, U00152, U00153. Exact Tibetan: གསུམ་པ་གསང་བ་རང་བཞིན་གྱི་བསམ་པ་ Category: syntax/reference. Issue: The enumeration repeats third; the relation of its subdivisions and the secret/intention phrase is unclear. Working treatment: Retain the repeated number and translate the clauses provisionally without reordering them. Uncertainty: The working interpretation is provisional. Review action: Check the enumeration and clause boundaries against a physical source.
+
+[^N-A-013]: Anchors: U00154. Exact Tibetan: ཆོས་ཕུང་བརྒྱད་ཁྲི་ Category: scope. Issue: The source says eighty thousand here, whereas U00174 explicitly says eighty-four thousand. Working treatment: Preserve eighty thousand; do not expand it from the human reference. Uncertainty: The working interpretation is provisional. Review action: Check whether the shorter number is intentional abbreviation.
+
+[^N-A-014]: Anchors: U00193. Exact Tibetan: དེ་ལ་བྱེ་བྲག་སྨྲ་བ་གྲག་ Category: source reading. Issue: The quotation is only an incipit, and its exact grammatical completion is absent. Working treatment: Retain a provisional incipit instead of attributing a complete claim to the Vaibhāṣikas. Uncertainty: The working interpretation is provisional. Review action: Identify the quotation and verify གྲག་.
+
+[^N-A-015]: Anchors: U00197, U00198, U00199. Exact Tibetan: མདོ་སྡེ་དབྱངས་བསྙད་ལུང་བསྟན་ཚིགས་བཅད་ཆེད་བརྗོད་ Category: terminology gap. Issue: Names of the twelve scriptural branches lack established full-expression glossary entries. Working treatment: Render each as a separate branch, preserving source order; labels are provisional. Uncertainty: The working interpretation is provisional. Review action: Approve a consistent twelve-branch terminology set.
+
+[^N-A-016]: Anchors: U00221, U00225, U00226. Exact Tibetan: མི་ཆོག་ཆོག་ག་ Category: source reading. Issue: U00221 contains a repeated/doubtful phrase; U00225–226 are compressed quotation fragments. Working treatment: Translate the explicit insufficiency and progression; retain quotation fragments without inventing their missing continuation. Uncertainty: The working interpretation is provisional. Review action: Verify the repeated phrase and identify the quoted passages.
+
+[^N-A-017]: Anchors: U00246. Exact Tibetan: གཏུམ་པོ་རབ་སྣང་ལ་གསུམ་གསོལ་བས་ Category: syntax/reference. Issue: The relation of Caṇḍapradyota, the three requests, and the teaching is syntactically compressed. Working treatment: Render the requests as the occasion of teaching, provisionally. Uncertainty: The working interpretation is provisional. Review action: Verify the cited episode and its participants.
+
+[^N-A-018]: Anchors: U00253, U00255. Exact Tibetan: སྡོམ་པའི་ངོ་བོ་རྣམ་རིག་མིན་པ་ Category: terminology gap. Issue: The technical compound for non-informative form is compressed, without an explicit form noun. The basis analogy uses གཞི་ ordinarily, rather than an explicit doctrinal Ground. Working treatment: Supply form in brackets; use basis provisionally in the analogy. Uncertainty: The working interpretation is provisional. Review action: Approve terminology for རྣམ་རིག་མིན་པ་ and this ordinary basis construction.
+
+[^N-A-019]: Anchors: U00300. Exact Tibetan: རྣལ་འབྱོར་བཞིར་འཁོར་ལོ་བཞིའི་དོན་དང་གཅིག་པས་གསུམ་དུ་ངེས་པའོ། Category: scope. Issue: The source invokes four yogas and four wheels while concluding that three are established. Working treatment: Retain all numbers; no fourth-to-third harmonization. Uncertainty: The working interpretation is provisional. Review action: Check the four-wheels reading and the intended relation to three turnings.
+
+[^N-A-020]: Anchors: U00304. Exact Tibetan: མདོ་བཟུང་བ་སྙིང་པོ་བསྟན་པ་ Category: source reading. Issue: The sequence may contain a sūtra title or compressed description; its boundaries are uncertain. Working treatment: Keep the reference visibly unresolved rather than inventing a title. Uncertainty: The working interpretation is provisional. Review action: Identify the sūtra and verify the word division.
+
+[^N-A-021]: Anchors: U00308, U00309. Exact Tibetan: སངས་རྒྱས་མ་ཐག་རྣམ་འཇོམས་སོར་འབྲད་ཕལ་པོ་ཆེའི་དབུ་སྟོད་སོགས་དང༌། Category: source reading. Issue: U00308–309 have no human translation and contain doubtful or compressed textual titles, including སོར་འབྲད་ and ནོར་བཟང་མི་. Working treatment: Translate the temporal argument and retain bracketed provisional title identifications; not all titles are resolved. Uncertainty: The working interpretation is provisional. Review action: Collate these lines and identify every cited text; review whether སྡོང་པོ་རྒྱན་ refers to Gaṇḍavyūha.
+
+[^N-A-022]: Anchors: U00317. Exact Tibetan: བརྗོད་དོན་ཡིན་གྱི་བདེན་བཞི་བསྟན་པའི་ཕྱིར། Category: syntax/reference. Issue: The objection’s transition is compressed and appears textually awkward. Working treatment: Supply the subject of the concluding classification in brackets; preserve the opposition between Vinaya’s subjects and Abhidharma’s four truths. Uncertainty: The working interpretation is provisional. Review action: Check the clause ending after ཡིན་གྱི་.
+
+[^N-A-023]: Anchors: U00323, U00325, U00329. Exact Tibetan: རབ་བྱུང་སོགས་བཞི་བཅུ་བདུན་ Category: scope. Issue: The nouns governed by 253 and 47 are compressed or absent; the lama/path root-branch relation is terse. Working treatment: Supply rules and matters provisionally, retain both counts and the stated root/branch relation. Uncertainty: The working interpretation is provisional. Review action: Verify the counted sets and syntactic attachment of lama and noble path.
+
+[^N-A-024]: Anchors: U00333, U00334. Exact Tibetan: གང་འབྱུང་ན་གང་ཟག་གམ་ཀུན་འབྱུང༌། Category: syntax/reference. Issue: The identification of person with origin is unusually compressed; the parallel question concerns emergence. Working treatment: Preserve the alternatives as written rather than replacing origin with suffering. Uncertainty: The working interpretation is provisional. Review action: Check the alignment of the four truths with the questions.
+
+[^N-A-025]: Anchors: U00339, U00342. Exact Tibetan: ང་དང་ཁྱེད་ཅག་ཁོ་ན་ལས། Category: source reading. Issue: The first line’s ཁོ་ན་ལས་ is doubtful, and the last contains joined or malformed syllables. The reference’s “except you and me” changes the participants. Working treatment: Render the inclusive first-person reading provisionally and bracket the supplied verb. Uncertainty: The working interpretation is provisional. Review action: Compare this four-truths quotation with its source; verify the inclusive subject.
+
+[^N-A-026]: Anchors: U00350. Exact Tibetan: རིག་པ་ཕའང་ Category: source reading. Issue: This appears defective and cannot securely be construed as the reference’s “father of awareness.” Working treatment: Retain the exact Tibetan for the unresolved phrase; translate the clear remainder. Uncertainty: The working interpretation is provisional. Review action: Check whether a reasoning formula such as རིགས་པས་ཀྱང་ was intended, without silently emending.
+
+[^N-A-027]: Anchors: U00352, U00353, U00354, U00355, U00356. Exact Tibetan: ཕྱི་མ་གཉིས་ཀྱང་ངེས་དོན་མིན་ Category: syntax/reference. Issue: Several rival classifications are juxtaposed without clear quotation boundaries; the referent of latter two is uncertain. Working treatment: Keep the differing claims distinct and flag their unresolved allocation. Uncertainty: The working interpretation is provisional. Review action: Identify the rival schemes and the scope of each attribution.
+
+[^N-A-028]: Anchors: U00374. Exact Tibetan: བར་པ་གཉིས་ Category: source reading. Issue: Literally “the middle two” does not clearly fit the threefold scheme. Working treatment: Supply preceding in brackets provisionally, keeping the stated count two. Uncertainty: The working interpretation is provisional. Review action: Check བར་པ་གཉིས་ against the cited sūtra and source witness.
+
+[^N-A-029]: Anchors: U00386. Exact Tibetan: གསུམ་གནས་སྐབས་ཐབས་ཀྱི་རྫུན་པར་གསུངས་པས་ངེས་དོན་ཡིན་ Category: interpretive supply. Issue: The source seems to call the three expedient falsehoods definitive; the implied contrasting group is absent. Working treatment: Supply the other three in brackets as a provisional construction, without claiming the source itself contains that group. Uncertainty: The working interpretation is provisional. Review action: Check whether a negation or contrasting clause is missing; review the six-limit terminology.
+
+[^N-A-030]: Anchors: U00407. Exact Tibetan: མནར་མེད་དུ་སྐྱེ་ངའི་ལས་ Category: source reading. Issue: The transmitted སྐྱེ་ངའི་ is irregular; a birth-causing karma construction is contextually likely. Working treatment: Translate that construction provisionally; do not read the stray syllable as an explicit first-person possessive. Uncertainty: The working interpretation is provisional. Review action: Verify whether སྐྱེ་བའི་ was intended.
+
+[^N-A-031]: Anchors: U00410, U00411, U00415. Exact Tibetan: སེམས་ཙམ་ Category: terminology gap. Issue: No whole-expression school name is established in the glossary. Working treatment: Ordinary Mind Only preserves ordinary mind for སེམས་ while identifying the school; the school-name construction is provisional. Uncertainty: The working interpretation is provisional. Review action: Approve a school-name rendering without shortening standalone ordinary mind.
+
+[^N-A-032]: Anchors: U00438, U00440, U00441, U00442, U00443, U00444. Exact Tibetan: སེམས་ལ་འཇུག་པ་རྣམ་ཤེས་ཚོགས། Category: source reading. Issue: Proper names and Abhidharma titles are compressed; the apparent list does not transparently yield the stated seven. Working treatment: Retain a provisional literal title list and the explicit count seven; do not invent a missing title. Uncertainty: The working interpretation is provisional. Review action: Identify the named figures and seven treatises, checking the word divisions.
+
+[^N-A-033]: Anchors: U00448. Exact Tibetan: མངོན་པ་གོང་འོག་མ་ཡིན་ Category: scope. Issue: This can deny higher/lower classification or deny identification with those Abhidharma collections. Working treatment: Translate as rejecting the division, following the immediately preceding identification with the Abhidharma basket. Uncertainty: The working interpretation is provisional. Review action: Review the scope of མ་ཡིན་ in the taxonomy.
+
+[^N-A-034]: Anchors: U00455. Exact Tibetan: བདེན་མ་མཐོང་ཞིང་ Category: source reading. Issue: The transmitted line appears to say “not seeing truth,” whereas the argument and following examples point to seeing truth through a reflection. Working treatment: Bracket a provisional positive reading; preserve the unchanged negative-looking Tibetan in the source. Uncertainty: The working interpretation is provisional. Review action: Check whether བདེན་པ་མཐོང་ was intended; the polarity remains unresolved.
+
+[^N-A-035]: Anchors: U00461. Exact Tibetan: ཐོས་ཆང་ Category: source reading. Issue: The compound is irregular; skull-cup liquor is a plausible reading of ཐོད་ཆང་ but is not the supplied spelling. Working treatment: Use skull-cup liquor provisionally and disclose the proposed reading. Uncertainty: The working interpretation is provisional. Review action: Check the source spelling and identify the great brahmin’s episode.
+
+[^N-A-036]: Anchors: U00473. Exact Tibetan: ཡང་དག་ཀུན་རྫོབ་རྣམ་གཉིས་སྐས། Category: source reading. Issue: Only a compressed quotation fragment is supplied, with unclear relation between authentic and conventional. Working treatment: Retain the fragment’s two terms and stairs metaphor; do not complete it. Uncertainty: The working interpretation is provisional. Review action: Locate the quotation and check its wording.
+
+[^N-A-037]: Anchors: U00493, U00497. Exact Tibetan: གོང་མ་ཐབས་བྱུང་དུ་སྐྱེ་བ་ Category: source reading. Issue: The master-king is unnamed; ཐབས་བྱུང་ is an uncertain phrase, plausibly ཐབས་ཅིག་/together. Working treatment: Keep master-king unexpanded and render together provisionally without claiming a textual repair. Uncertainty: The working interpretation is provisional. Review action: Identify the master-king and check the phrase describing simultaneous arising.
+
+[^N-A-038]: Anchors: U00500, U00501. Exact Tibetan: གདངས་ལྟར་ Category: source reading. Issue: གདངས་ is canonically radiance, but the gradual-ascent analogy may have a defective spelling of rungs; གཉིས་ཆར་ is also doubtful for simultaneous. Working treatment: Use rungs and simultaneously as disclosed provisional readings. Uncertainty: The working interpretation is provisional. Review action: Check both source forms; do not promote these contextual treatments to glossary alternatives.
+
+[^N-A-039]: Anchors: U00520, U00523, U00524. Exact Tibetan: ས་དང་པོ་མན་ངག་དང་། Category: scope. Issue: The threefold ignorance list and abandonment ranges are defective or compressed: མན་ངག་ and འདུན་པ་ do not securely yield the expected ranges. Working treatment: Give bracketed provisional range readings, retain the explicit tenth-level endpoint, and mark the sequence unresolved. Uncertainty: The working interpretation is provisional. Review action: Collate the ignorance list and all three level ranges; do not treat the inferred ranges as fixed.
+
+[^N-A-040]: Anchors: U00557, U00558. Exact Tibetan: གྲུབ་མཐའ་དན་པ་སུན་འབྱིན་བྱེད་ Category: source reading. Issue: The untranslated reference entry contains དན་པ་, an unclear modifier of tenet systems. The following ལས་ links only/refutation, rather than necessarily meaning karma. Working treatment: Translate the clear objection that logic merely refutes tenets and has no result; leave the modifier’s force unresolved. Uncertainty: The working interpretation is provisional. Review action: Check དན་པ་ and identify the Lord’s quotation.
+
+[^N-A-041]: Anchors: U00569, U00573, U00574, U00575. Exact Tibetan: ལྐོག་གྱུར་ཤིན་ཏུ་ལྐོག་གྱུར་གསུམ་ Category: terminology gap. Issue: The source lists pairs but says three; epistemological terms are abbreviated and lack established full-expression glossary entries. Working treatment: Preserve the supplied list and count, supplying pairs in brackets; render technical labels provisionally. Uncertainty: The working interpretation is provisional. Review action: Review the epistemological taxonomy and establish glossary rows for recurrent logical terms.
+
+[^N-A-042]: Anchors: U00583. Exact Tibetan: གང་གི་དངོས་པོ་རྣམ་དག་ན། Category: source reading. Issue: The transmitted རྣམ་དག་ literally suggests purification, while the logical context and reference suggest examination. Working treatment: Use examined provisionally; do not silently alter the Tibetan. Uncertainty: The working interpretation is provisional. Review action: Verify the quotation, especially whether རྣམ་དཔྱད་ was intended.
+
+[^N-A-043]: Anchors: U00594. Exact Tibetan: མཐོང་ལས་གྱི་བདེན་པ་ Category: source reading. Issue: The supplied མཐོང་ལས་ is doubtful for མཐོང་ལམ་, path of seeing. Working treatment: Translate the path-of-seeing reading provisionally. Uncertainty: The working interpretation is provisional. Review action: Check the source spelling at this conclusion.
+
+[^N-B-001]: Anchors: U01686, U01687, U01688. Exact Tibetan: སྙིང་རྗེ་བྱང་ཆུབ་ཀྱི་སེམས Category: terminology gap. Issue: The glossary has ordinary mind for sems, but no complete bodhicitta, bodhisattva, sentient-being or snying rje entries. The repeated compassion in this sentence is in the source. Working treatment: Use ordinary mind of awakening for bodhicitta, bodhisattva and sentient being for the lexicalized personal compounds, and compassion for snying rje; preserve the repetition. These are local proposals, not additions to the active glossary. Uncertainty: Compound treatments and the first sentence syntax require human review. Review action: Review these whole-expression proposals across section 4; distinguish compassion from established compassionate responsiveness.
+
+[^N-B-002]: Anchors: U01696. Exact Tibetan: སྙིང་རྗེ་སོགས་ཀྱིས་བསྐྱེད་པའི་འབྲས་བུ་མིན་པའི་ཕྱིར། Category: source reading. Issue: The explicit negation seems difficult beside the argument distinguishing cause and result. Working treatment: Retain not; do not silently emend to is a result. Uncertainty: The referent of the negative clause remains uncertain. Review action: Check the transcript against a witness and assess the referent.
+
+[^N-B-003]: Anchors: U01713, U01714, U01715. Exact Tibetan: རྣམ་པར་འཕེལ་྾ དེ་བཞིན་དམ་ཆོས× གཞི་དང་རྩ་བ✖ Category: source reading. Issue: The quotation is abbreviated and contains explicit × and ✖ placeholders. Working treatment: Keep the fragments and marks; do not reconstruct unquoted verse. Capitalization of The Ground provisionally follows the glossary display. Uncertainty: Missing wording and the application of the technical Ground entry in this metaphor need review. Review action: Identify the quotation and check the original witness; approve contextual ground usage separately.
+
+[^N-B-004]: Anchors: U01721. Exact Tibetan: མདོ་རྒྱུད Category: contextual use. Issue: rgyud is canonically continuum, but here denotes a class of scriptural texts. Working treatment: Retain continuum as the identifiable lexical term, including title occurrences; its scriptural sense is intended. Uncertainty: Reader-facing suitability of continuum for a tantra text remains provisional. Review action: Review a scoped scriptural-title usage, without replacing the canonical entry.
+
+[^N-B-005]: Anchors: U01722. Exact Tibetan: སོ་ཐར་བྱང་ཆུང་སེམས Category: source reading. Issue: The source reads byang chung, not the expected byang chub. Working treatment: Supply awakening in brackets for the apparent compound; preserve the exact Tibetan in this note. Uncertainty: Likely transcription defect, unverified. Review action: Check witness; do not alter fixed source.
+
+[^N-B-006]: Anchors: U01734, U01735, U01736, U01737, U01738, U01739. Exact Tibetan: གྲོགས་སྨོན་འདུན། དབྱེ་གྲོགས་ཀྱི་མི་ཟད། Category: syntax/reference. Issue: The classification is highly compressed; the companions/inexhaustible clause lacks explicit links. Working treatment: Preserve each listed division; construe the repeated kyi as classification by a criterion. Uncertainty: Exact nesting of subtle/coarse and signs/nature remains open. Review action: Compare the cited classification and assess the punctuation without changing this source.
+
+[^N-B-007]: Anchors: U01748. Exact Tibetan: སྡུག་བསྔལ་མེད་པར་གྱུར་པ་ལ། ། Category: source reading. Issue: The supplied line says free of suffering, whereas the surrounding withholding rule suggests a recipient in need. Working treatment: Translate the supplied negative literally. Uncertainty: Possible defective reading, not authenticated. Review action: Check the quotation against its witness; do not silently substitute a familiar version.
+
+[^N-B-008]: Anchors: U01757. Exact Tibetan: བདག་དང་བདག་གིར་འདི་ལྟར་བཞེད་པས Category: syntax/reference. Issue: The clause about I and mine has unclear attachment after the elimination of self-view. Working treatment: Keep its wording and present the conclusion separately. Uncertainty: It may be an elliptical contrast with the ordinary person rather than a qualification of the first-level bodhisattva. Review action: Review clause attachment in a fuller witness.
+
+[^N-B-009]: Anchors: U01765, U01766, U01767. Exact Tibetan: ཉམས་སུ་ལེན་ཚུལ་ ཟུང་རེ་ཚེ་བརྟགས་གཞན་ཤེས་པར་ནུས་ རེ་ཀན་ཞེས་གསུང་པ་བཞིན་ནོ། ། Category: source reading. Issue: The transmitted wording is disrupted, especially tshe brtags and re kan. Working treatment: Provisional sense follows the local argument about limited accomplishments; supplied knowing is bracketed. Uncertainty: Exact wording and the scope of one or two are uncertain. Review action: Check the Sudhana quotation and its source witness.
+
+[^N-B-010]: Anchors: U01784, U01785, U01786, U01787. Exact Tibetan: དེ་ཡི་ཆོས་ཀུན་ཅེས་མ་ལྟ་བུ་དང༌། སྐྱེ་བ་སྐྱེད་མོ྾ འབྱོར་བའི་དུས་དང× ཉོན་མོངས྾ Category: source reading. Issue: Abbreviated quotation with × and unusual ces ma where illusion is expected. Working treatment: Retain fragmentary structure and ×; illusion is a provisional contextual interpretation of ces ma. Uncertainty: No complete verse is reconstructed; first comparison is uncertain. Review action: Identify and compare the quotation with a witness.
+
+[^N-B-011]: Anchors: U01789, U01791. Exact Tibetan: ཐུགས་བསྐྱེད་པ་ Category: terminology gap. Issue: Standalone thugs and its arousal compound are absent from the glossary; thugs rje does not authorize their rendering. Working treatment: Awakened intention for thugs bskyed and awakened mind for thugs are provisional honorific uses. Uncertainty: Their relationship to ordinary mind and enlightened intent requires a scoped decision. Review action: Review these compounds and the thugs occurrences in section 4.
+
+[^N-B-012]: Anchors: U01801, U01802, U01803, U01804, U01805. Exact Tibetan: དུག་གསུམ་གྱིས་དཀོན་མཆོག་མཆོད་ན་ Category: syntax/reference. Issue: The opening example appears compressed and may lack a negation; the following debate attacks the proposed unafflicted category. Working treatment: Retain making the offering as supplied and mark the speaker’s position as a quotation. Uncertainty: Exact attachment of gr ub pa and na remains uncertain. Review action: Check the vow-classification passage in its witness.
+
+[^N-B-013]: Anchors: U01831. Exact Tibetan: བྲམ་ཟེ་ཁྱེའུ་སྐར་མ Category: source reading. Issue: The youth’s Tibetan name is skar ma; the reference identifies Jyotipala without source evidence here. Working treatment: Retain Tibetan name as Karma, rather than assert a Sanskrit identification. Uncertainty: Identity unresolved. Review action: Check the cited narrative and proper name.
+
+[^N-B-014]: Anchors: U01842, U01843, U01844, U01845. Exact Tibetan: སེམས་ཅན་རྣམས་མ་འོངས་པར་འདི་ལྟ་བུ་འབྱུང་ཞིང་ Category: syntax/reference. Issue: The quotation changes subject elliptically between beings and the speaker. Working treatment: Retain general wording rather than supply a specific future agent. Uncertainty: Referent of such things remains unspecified. Review action: Check full quotation for agent and temporal construction.
+
+[^N-B-015]: Anchors: U01847. Exact Tibetan: སྡོམ་པ་ཉི་ཤུ་པ་དང་སྤྱོད་འཇུག་གི་ལུང་བཀོད་ནུས་པས་གསུངས་ཀྱི། Category: interpretive supply. Issue: The nus pa clause is elliptical; the context contrasts ability to bear results with their non-occurrence. Working treatment: Supply consequence visibly and interpret capacity to bear provisionally. Uncertainty: The attachment of bkod nus pa is uncertain. Review action: Check sentence and source quotation.
+
+[^N-B-016]: Anchors: U01864, U01865. Exact Tibetan: སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་པས་ འབྲས་བུ་བཀོད་ནུས་པ་ལ་གསུངས་སོ། ། Category: source reading. Issue: The phrase says arising phenomena, not the familiar non-arising formula; bkod nus pa also requires interpretation. Working treatment: Retain arising; bear the result is provisional in light of the immediately preceding argument. Uncertainty: Neither a missing negative nor the verb sense is authenticated. Review action: Check witness and the cited sutras.
+
+[^N-B-017]: Anchors: U01871. Exact Tibetan: ཐབས་ལམ་མཁས་ན Category: source reading. Issue: The positive mkhas na, if skilled, conflicts with the caution about unskilled practice; the compound thabs lam is also unusual. Working treatment: Disclose the supplied lack of; do not change the Tibetan. Uncertainty: Likely missing negative, unverified. Review action: Check witness before accepting this supplied relationship.
+
+[^N-B-018]: Anchors: U01885. Exact Tibetan: ས་འདུན་པའི་བར Category: source reading. Issue: The supplied ’dun pa is not the normal spelling of seventh, bdun pa. Working treatment: Seventh is a provisional contextual reading, supported by the adjacent eighth. Uncertainty: Spelling not corrected in source. Review action: Verify against witness.
+
+[^N-B-019]: Anchors: U01893. Exact Tibetan: མཛའ་བོའི་བུ་མོ Category: syntax/reference. Issue: The phrase functions as a narrative example, not the instruction to regard pain as a dear friend. Working treatment: Provisionally identify the name as Maitrakanyaka. Uncertainty: Sanskrit identification requires confirmation. Review action: Verify the story and name.
+
+[^N-B-020]: Anchors: U01913. Exact Tibetan: དྲུག་གི་ས་བོན Category: source reading. Issue: The source reads six, drug, where poison, dug, would fit the analogy. Working treatment: Retain six visibly in quotation marks rather than silently correct. Uncertainty: Probable transcription defect. Review action: Check witness.
+
+[^N-B-021]: Anchors: U01916. Exact Tibetan: སེམས་ལ་གཤེ་བ Category: source reading. Issue: Only sems is supplied, where the context expects a bodhisattva. Working treatment: Retain ordinary mind and disclose the apparent referent. Uncertainty: Possible lost syllables. Review action: Verify full quotation.
+
+[^N-B-022]: Anchors: U01928. Exact Tibetan: འབྲས་བུ་ཡ་ཟུང་ཞིག་གནས་སྐབས་ལན་མི་ལྡོག་པས Category: syntax/reference. Issue: ya zung zhig is obscure; the contrast is between harmful karma and the bodhisattva’s nonretaliation. Working treatment: Particular portion is a provisional rendering; supply the bodhisattva as agent visibly. Uncertainty: Exact restriction of the result remains uncertain. Review action: Review ya zung and sentence attachment.
+
+[^N-B-023]: Anchors: U01930. Exact Tibetan: འཕེན་བྱེད་དགེ་སྡིག་དང་དགེ་བ་སྟེ Category: syntax/reference. Issue: The list of causal alternatives is compressed and apparently asymmetric. Working treatment: Supply cause and completing factor in brackets, retaining the stated virtue/wrongdoing sequence. Uncertainty: The exact fourfold formulation remains uncertain. Review action: Compare with a witness; do not harmonize from standard karma classifications.
+
+[^N-B-024]: Anchors: U01937, U01938. Exact Tibetan: རྒྱུ་འཕེན་བྱེད་དང་པོ་དད་གུས་དང་། Category: syntax/reference. Issue: The causal list has two persons but does not clearly distribute both causes across them. Working treatment: Keep the examples together and supply they also only to make the transition visible. Uncertainty: Assignment of each cause requires review. Review action: Check longer narrative and syntax.
+
+[^N-B-025]: Anchors: U01955. Exact Tibetan: ལུག་ར་དང་འདྲ་བའི་ལོག་ལྟ Category: source reading. Issue: The diamond analogy mentions sheep and goats without explaining the relationship. Working treatment: Retain the comparison without adding a substance or causal explanation. Uncertainty: Possibly abbreviated traditional comparison. Review action: Verify the complete scriptural simile.
+
+[^N-B-026]: Anchors: U01973. Exact Tibetan: བྱང་ཆུང་སྙིང་པོར Category: source reading. Issue: Again the source reads byang chung rather than byang chub. Working treatment: Render awakening provisionally; retain exact spelling here. Uncertainty: Unverified spelling defect. Review action: Check witness.
+
+[^N-B-027]: Anchors: U01982. Exact Tibetan: བློས་བྱས་པ་དང་གཞལ་བྱ་ཚད་མར་གྱུར་པའི་ཕྱིར། Category: syntax/reference. Issue: The relation between object of comprehension and valid cognition is compressed. Working treatment: Preserve the two items without turning the sentence into a doctrinal definition. Uncertainty: An omitted genitive or comparison may be involved. Review action: Review exact syntax against witness.
+
+[^N-B-028]: Anchors: U02044. Exact Tibetan: སེམས་ཙམ་པས Category: terminology gap. Issue: The school name and rang rig/rang gsal have no complete glossary assignments. Working treatment: Use Ordinary-Mind-Only to retain ordinary mind; self-aware and self-clear provisionally preserve awareness and clarity components. Uncertainty: Whether a conventional school name should be an approved whole-expression exception remains open. Review action: Review these compound proposals; do not activate them globally.
+
+[^N-B-029]: Anchors: U02112. Exact Tibetan: སྤྲོས་མེད་ལྷན་སྐྱེས་ཀྱིས་ཡེ་ཤེས་ཅུང་ཟད་གསལ་བ་ཚེ་གཅིག། Category: source reading. Issue: The source has tshe gcig, one time, where the four-yoga list suggests rtse gcig, one-pointedness. Working treatment: Use the proposed one-pointedness reading, marked here, without altering source. Uncertainty: Unverified correction in interpretation. Review action: Check witness before accepting the yoga identification.
+
+[^N-B-030]: Anchors: U02116, U02117. Exact Tibetan: སྟོང་ཉིད་བཅོ་བརྒྱད་དང་ཞི་གནས་རྒལ་བའི་བར་མི་གཅིག་ལ་ Category: syntax/reference. Issue: The analogy of eighteen emptinesses, calm abiding, and ten stages is syntactically compressed. Working treatment: Retain the items and numbers without harmonizing them. Uncertainty: The attachment of differing and crossing is provisional. Review action: Review source context and classification.
+
+[^N-B-031]: Anchors: U02129, U02131. Exact Tibetan: རྣལ་འབྱོར་པའི་ཉམས་སྣང་ལུང་ཁུངས་ཀྱི་མུ་དང་མུ་དྲུག Category: syntax/reference. Issue: The initial list is compressed; the following numbered examples clarify six categories. Working treatment: Separate six categories using the following examples; experiential appearances renders nyams snang, preserving experience and appearance. Uncertainty: Final two category labels require review. Review action: Compare list with six explanations.
+
+[^N-B-032]: Anchors: U02135. Exact Tibetan: བསྒྲེས་མོ་མོ་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་ཀྱང་ Category: source reading. Issue: The reference is blank; the source repeats mo after old woman. Working treatment: Translate from Tibetan, retaining the old-woman example without inventing a personal name. Uncertainty: The repeated syllable and narrative identification are unresolved. Review action: Check witness and identify the story.
+
+[^N-B-033]: Anchors: U02139. Exact Tibetan: དབུ་སྙུང་བཞེས་ནས Category: source reading. Issue: Unusual dbu snyung appears where an oath-taking expression is expected. Working treatment: Solemnly declared is a provisional interpretation; directions takes lung bstan in the narrative referral context. Uncertainty: Exact honorific expression and prediction/direction sense uncertain. Review action: Verify witness and narrative.
+
+[^N-B-034]: Anchors: U02148. Exact Tibetan: བྱང་ཆུབ་སེམས་བྱུང་བ་རྣམས Category: syntax/reference. Issue: The phrase may mean bodhisattvas’ arising experiences rather than events in bodhicitta; the reference adds no reliable resolution. Working treatment: Retain ordinary mind of awakening and mark the attachment as provisional. Uncertainty: Exact subject of what is seen remains uncertain. Review action: Check witness and the cited explanation.
+
+[^N-B-035]: Anchors: U02157. Exact Tibetan: བཟད་མི་འགྱུར Category: source reading. Issue: The source reads will not be exhausted, not will not arise or be attained. Working treatment: Keep the supplied verbal meaning, despite the argumentative difficulty. Uncertainty: Possible corrupt quotation. Review action: Check original quotation and witness.
+
+[^N-B-036]: Anchors: U02175, U02176. Exact Tibetan: གཅིག་ཐོག་གཅིག་གིས་འདོད་ན་ སར་གོམས་པ་གཡས་གཡོན་འདོར་བ་བཞིན་ནོ། ། Category: syntax/reference. Issue: The relationship between alternation and inseparability is implicit, and goms pa spelling is unusual for steps. Working treatment: Use a walking analogy provisionally; bracket proceed. Uncertainty: Whether this is a concession or objection remains uncertain. Review action: Review exact wording and rhetorical scope.
+
+[^N-B-037]: Anchors: U02196, U02197, U02198. Exact Tibetan: དེ་ལས་གཞན་སེམས་ཅན་དང་། གནོད་པ་བསྐྱལ་བ་སྟེ་ མར་དམན་པ་གསུམ Category: syntax/reference. Issue: Three lower fields are asserted, but only two clear noun phrases appear; other is treated provisionally as the first. Working treatment: Preserve the three outcomes and show supplied recipients in brackets. Uncertainty: Enumeration and causal distribution uncertain. Review action: Check witness for omitted wording; review threefold list.
+
+[^N-B-038]: Anchors: U02211, U02212, U02214, U02216, U02218. Exact Tibetan: བདག་འཛིན Category: terminology gap. Issue: The complete compound has no glossary row; ’dzin pa is apprehending subject, but these clauses use apprehension as an action. Working treatment: Use self-apprehension and apprehending as self/one’s own, preserving the apprehending role and the source play on ownership. Uncertainty: The shift between self and ownership is contextually supported but remains a usage proposal. Review action: Review compound and grammatical usage across this section.
+
+[^N-B-039]: Anchors: U02253. Exact Tibetan: བསོད་ནམས་གྲངས་མེད་གཞལ་མི་ལང་། །/ Category: source reading. Issue: A literal slash follows the verse punctuation in the fixed transcript. Working treatment: Keep the slash visible as an unresolved source mark. Uncertainty: Its function is unknown. Review action: Check archival witness; do not delete as tokenizer noise.
+
+[^N-B-040]: Anchors: U02262. Exact Tibetan: ལུང་མ་བསྟན Category: contextual use. Issue: Here the term denotes ethical neutrality in an argument, rather than a meditative state. Working treatment: Retain canonical stagnant neutrality while flagging its contextual scope. Uncertainty: Whether a scoped ethical-neutrality exception is needed remains open. Review action: Review this occurrence separately from meditative uses.
+
+[^N-B-041]: Anchors: U02270. Exact Tibetan: བསོད་ནམས་བསྔོ་བྱར་བྱེད་པ་བཞིན་མཚན་ལྟར་མི་འགྲོའོ། ། Category: syntax/reference. Issue: The last phrase mtshan ltar mi ’gro is elliptical. Working treatment: Supply ultimately established in brackets, provisionally connecting it to the following ultimate/relative contrast. Uncertainty: Possible alternate relation to sign-based apprehension. Review action: Review construction against source witness.
+
+[^N-B-042]: Anchors: U02304, U02305. Exact Tibetan: སངས་རྒྱས་དང་བླ་མ་ལ་བསྔོ་བ་དགོས་ཏེ་ Category: source reading. Issue: The objection says necessary, although the reply suggests the opponent may have claimed not necessary. Working treatment: Preserve the positive statement without supplying a negative. Uncertainty: Possible missing negative, unverified. Review action: Check witness and argumentative contrast.
+
+[^N-B-043]: Anchors: U02312. Exact Tibetan: པི་ཝང་གི་སྒྲ Category: contextual use. Issue: sgra is canonically word, but denotes an instrument’s audible sound here. Working treatment: Sound is an explicitly provisional contextual rendering for this physical simile. Uncertainty: A nonverbal-sound exception is not yet approved. Review action: Review scoped usage and proposed row, preserving word elsewhere.
+
+[^N-B-044]: Anchors: U02320, U02324. Exact Tibetan: གསང་སྔགས Category: terminology gap. Issue: Secret mantra, empowerment, samaya, generation/completion stage, and bodhisattva vocabulary lie outside the active glossary’s main Dzogchen-oriented inventory. Working treatment: Use these technical expressions provisionally in section 5, with source-linked usage records; retain all covered components such as ordinary mind, discerning knowing, primordial knowing, continuum, and embodiment. Uncertainty: No new technical assignment is owner-approved. Review action: Review section-5 candidate rows before final terminology approval.
+
+[^N-B-045]: Anchors: U02359, U02360, U02361. Exact Tibetan: རྣལ་འབྱོར་པ་ནིx མཁའ་ལ་ཁུ་ཚུར་གྱིསx སྨིག་རྒྱུའི་ཆུ་ནིx Category: source reading. Issue: Three literal x marks replace or abbreviate quoted wording. Working treatment: Retain x and fragmentary lineation without reconstructing the quotation. Uncertainty: Omitted wording unresolved. Review action: Compare exact quotation and witness.
+
+[^N-B-046]: Anchors: U02399. Exact Tibetan: རིག་མ Category: terminology gap. Issue: rig ma is absent as a whole expression; its ritual role is more specific than standalone awareness. Working treatment: Awareness woman provisionally preserves the awareness component; no claim that every such figure is a human consort. Uncertainty: Canonical compound and ritual scope pending. Review action: Review rig ma family and compare section-5 ritual uses.
+
+[^N-B-047]: Anchors: U02406, U02410. Exact Tibetan: ཚིག་ཆེན་བཅུ Category: source reading. Issue: The source reads ten great words, tshig, where bodily joints, tshigs, may be intended; eight collections also omits consciousness explicitly. Working treatment: Keep words quoted; disclose consciousness as a bracketed expansion of tshogs brgyad. Uncertainty: Anatomical identification remains unverified. Review action: Check mandala correspondences against witness; no silent spelling repair.
+
+[^N-C-001]: Anchors: U03197, U03198, U03199, U03200. Exact Tibetan: རྡོལ་ཆོས་དཔེ་དཀར་བུ་བཞི་དང། Category: terminology gap. Issue: These historical teaching names and the source label lack active whole-expression entries; the reference is blank at U03198. Working treatment: Translate all named groups provisionally; render རྡོ༽༽ as Vajra statement throughout this range. Tantra is a textual-category use, distinct from the glossary continuum. Uncertainty: The referents of the four booklets and tree/sky teachings are unverified. Review action: Check the historical titles and their lineage context; retain the source label.
+
+[^N-C-002]: Anchors: U03214, U03215, U03216. Exact Tibetan: རྒྱུད་དཀྲུག་པ། ལུང་བཅུས། མན་ངག་གབ་པའི་ཕྱིར Category: source reading. Issue: ལུང་བཅུས is not a straightforward reference to ten transmissions; the surrounding parallel phrases concern obscured instructions. Working treatment: Provisionally read བཅུས as twisted; preserve the transmitted spelling. Uncertainty: The exact form and intended description of transmission need source verification. Review action: Compare a witness at U03215 and review the three parallel clauses.
+
+[^N-C-003]: Anchors: U03233, U03234. Exact Tibetan: རྡོ་རྗེ་འཆང་ཏེ་ ལོ་ནས་བརྒྱུད་པའི Category: source reading. Issue: The name ཏེ་ལོ is divided across electronic anchors; the rough reference misreads ལོ as years. Working treatment: Read the joined name as Tilo, without changing the Tibetan. Uncertainty: The spelling differs from the common ཏི་ལོ; identification is provisional. Review action: Verify the proper-name spelling in a witness.
+
+[^N-C-004]: Anchors: U03238. Exact Tibetan: ཁམས་གསུམ་འཁོར་བ་དང་མྱང་འདས་གསུམ་གྱི Category: scope. Issue: The second གསུམ can attach to nirvāṇa; the rough reference leaves its force unclear. Working treatment: Provisionally retain three nirvāṇas, alongside the three realms of saṃsāra. Uncertainty: The intended enumeration is not explained locally. Review action: Check the enumeration and modifier scope.
+
+[^N-C-005]: Anchors: U03245. Exact Tibetan: གཉིས་པ་ལྟར་ནའང་དོན་ཡོད་པ་ལྟར་འགྱུར་རོ Category: syntax/reference. Issue: The stated consequence for the second horn is compressed and its logical connection is unclear. Working treatment: Retain the literal consequence rather than supplying a doctrinal reconstruction. Uncertainty: Whether a word is missing cannot be determined from this transcript. Review action: Review the argument against a witness and parallel commentary.
+
+[^N-C-006]: Anchors: U03280, U03281. Exact Tibetan: དེ་སྐད་ཅིག་གི་བསམ་པ་དེའི་རང་གི་སྣང། གཟུགས་ཡིན་པས Category: source reading. Issue: A shad and electronic line break interrupt སྣང་གཟུགས; the reference treats གཟུགས separately. Working treatment: Read the phrase across the break as appearing form; render བསམ་པ provisionally as intention here and below. Uncertainty: Punctuation is preserved; the exact relationship of intention and habitual tendencies remains compressed. Review action: Verify punctuation and review the recurrent བསམ་པའི་རང་གཟུགས construction.
+
+[^N-C-007]: Anchors: U03287, U03288, U03289. Exact Tibetan: རྒྱུན་གྱི་འཇུག་པའི་ཕྱིར། Category: terminology gap. Issue: རྒྱུན is distinct from the established རྒྱུད continuum; ཆོས་ཅན also has no active entry. Working treatment: Use succession for རྒྱུན and bearers of qualities for ཆོས་ཅན locally. Uncertainty: The causal explanation of momentariness is compressed. Review action: Review these contextual terms without adding them to the active glossary.
+
+[^N-C-008]: Anchors: U03291, U03292, U03293. Exact Tibetan: ཆོས་ཅན་བསམ་པའི་རང་གཟུགས་ལ་ནི་གསུམ་སྟེ། Category: syntax/reference. Issue: The relationship between Mahamudra, nature of phenomena, and intention is densely stated; the second member of the enumeration lacks an explicit repeated noun. Working treatment: Retain own-form as a provisional rendering and supply [its form] only to expose the parallel construction. Uncertainty: Doctrinal scope and the relation of the second and third members remain uncertain. Review action: Review the whole U03291–U03293 construction and its three following examples.
+
+[^N-C-009]: Anchors: U03297, U03298, U03299. Exact Tibetan: བྲམ་ཟེ་ཏོ་རྒྱའི་ནེ་ཚོའི་ཁྱི་དཀར་པོ་དུང་ལྟ་བུའི Category: syntax/reference. Issue: The proper names and the attachment of ནེ་ཚོའི are unclear; the anger and love examples are idiomatic. Working treatment: Retain Torya and Nétso provisionally; translate the visible color and happiness contrasts without adding the story. Uncertainty: Nétso could be a person or another name rather than a place. Review action: Identify the cited narrative and check the name/possessive chain.
+
+[^N-C-010]: Anchors: U03301, U03302. Exact Tibetan: འཆི་ཁར་མི་དགེ་བས་མཚམས་སྦྱར་ན་སོང་དུ་སྐྱེ་བ Category: source reading. Issue: སོང་དུ is incomplete for the expected destiny expression; འཕགས་རྒྱལ is provisionally identified with Ujjayinī. Working treatment: Translate bad destiny as a disclosed contextual reading, with no source repair. Uncertainty: Neither the defective wording nor the narrative identification is authenticated. Review action: Check སོང་དུ and identify the hunter narrative.
+
+[^N-C-011]: Anchors: U03305, U03306, U03307. Exact Tibetan: མོ་མཁན་དང་འདྲ་བའི་སེམས་ལ་སྣང་བའི་གཟུགས Category: syntax/reference. Issue: The comparison with a diviner has no explanation here; འབྲས་བུས also complicates the preceding list. Working treatment: Attach like a diviner to ordinary mind, as the genitive construction permits, and retain the threefold list. Uncertainty: The intended force of the analogy remains uncertain. Review action: Review the analogy and case ending against a witness.
+
+[^N-C-012]: Anchors: U03319, U03320, U03321. Exact Tibetan: རྗེ་ཕག་མོ་གྲུ་པའི་སྣང་བ་ རང་སེམས་ཀྱི་ཁྲོད་ནས་ ང་འབུས Category: syntax/reference. Issue: The reference reads I am a bug as the intention, but ང་འབུས is an instrumental self-deprecating subject. The attachment of Phakmo Drupa’s appearance is less certain. Working treatment: Render I, a mere worm as the speaker; provisionally connect the appearance with the speaker’s ordinary mind. Uncertainty: Whether the appearance belongs to Phakmo Drupa or is an appearance of him needs review. Review action: Check the quotation in its source and confirm attachment.
+
+[^N-C-013]: Anchors: U03323, U03324. Exact Tibetan: གཤིས Category: terminology gap. Issue: གཤིས lacks an entry and should not silently be merged with རང་བཞིན intrinsic nature, which also occurs here. Working treatment: Use actual condition provisionally throughout this argument. Uncertainty: The local term may denote the way things actually are rather than a separate entity. Review action: Review a proposed contextual entry while preserving the distinction from intrinsic nature.
+
+[^N-C-014]: Anchors: U03351, U03352. Exact Tibetan: མི་དག་རྣམ་པར་འགྱུར། ཐད་ཀར་བབས་པ Category: syntax/reference. Issue: མི་དག is read as people, not impure; ཐད་ཀར་བབས་པ is interpreted as someone on the same level. The first line leaves the direction of change implicit. Working treatment: Supply [for the worse] from the inferior/equal/superior contrast and translate equal provisionally. Uncertainty: Exact wording of the quoted verse needs verification. Review action: Check the quotation and the idiom ཐད་ཀར་བབས་པ.
+
+[^N-C-015]: Anchors: U03370. Exact Tibetan: སངས་རྒྱས་ཞལ་འདི་གང་གི་ཐུགས་དང་ཞལ་ལ་གནས་པར Category: contextual use. Issue: ཞལ occurs twice and ཐུགས has no standalone active entry. The reference’s face/mind construction is not intelligible. Working treatment: Provisionally render the first ཞལ as utterance and the pair ཐུགས་དང་ཞལ as heart and mouth. Uncertainty: Utterance assumes metonymy; the transmitted reading may be incomplete. Review action: Check the quotation and approve or revise the local ཐུགས treatment.
+
+[^N-C-016]: Anchors: U03375. Exact Tibetan: བླ་མ་སྐྱོན་དང་ཡོན་ཏན་འདྲེན། Category: source reading. Issue: The verb འདྲེན literally leads or brings; the contrast appears to describe a lama bearing both faults and qualities. Working treatment: Use bear provisionally; do not silently change the Tibetan to a different verb. Uncertainty: A transcription error is possible but unverified. Review action: Compare the quotation in its textual source.
+
+[^N-C-017]: Anchors: U03393. Exact Tibetan: ཐོས་བསམ་སྒོམ་གསུམ་གཏན་ཚིག་ལྔས་གཞིག་ན་ Category: scope. Issue: The grouping of the three practices and five reasons is compressed; the reference treats primordial knowing as another thing examined rather than the object of realization. Working treatment: Read co-emergent primordial knowing as the object to be realized and retain both numerical groups. Uncertainty: Whether the five reasons qualify all three practices or only the examination is not settled. Review action: Review the instrumental scope and identify the five reasons.
+
+[^N-C-018]: Anchors: U03407. Exact Tibetan: བློ་དང་ལྡན་པའི་མིས Category: contextual use. Issue: Literal endowed with conceptual mind could misleadingly suggest that the contrast concerns possessing a mind rather than good judgment. Working treatment: Use conceptual intelligence locally, retaining the conceptual component; the canonical entry remains conceptual mind. Uncertainty: This is an unapproved contextual rendering of བློ in the compound. Review action: Approve or replace this scoped usage.
+
+[^N-C-019]: Anchors: U03417. Exact Tibetan: ཆོས་སྐུར་འདུ་ཤེས་པས་མོས་གུས་སྐྱེས་ན Category: interpretive supply. Issue: The object perceived as Dharma embodiment is not stated in this clause. Working treatment: Supply [the lama] from the surrounding faith/devotion discussion and Tilopa–Nāropa example. Uncertainty: Context strongly supports the supply, but it is not explicit. Review action: Confirm the referent when reviewing the full argument.
+
+[^N-C-020]: Anchors: U03420. Exact Tibetan: བཅུ་གཉིས་བར་དུ Category: interpretive supply. Issue: The unit of twelve is unstated. Working treatment: Supply [years], following the apparent duration of service. Uncertainty: The numeral is explicit; its unit is contextual. Review action: Check the quotation’s complete wording.
+
+[^N-C-021]: Anchors: U03428, U03430. Exact Tibetan: ཡེ་སྙིང་གིས Category: source reading. Issue: ཡེ་སྙིང appears to introduce an attribution, but the reference treats it as primordial essence. Working treatment: Retain Yé Nying provisionally as a source/name; do not silently identify it. Uncertainty: It may abbreviate a title rather than a person. Review action: Identify the quotation source and check the transmitted reading.
+
+[^N-C-022]: Anchors: U03433. Exact Tibetan: གང་གི་ཐུགས་བརྩེས་ཉེར་བཟུང་ན། Category: interpretive supply. Issue: The recipient of the loving care is implicit, and the opening clause has an unusual final ན. Working treatment: Supply [beings] and read the clause as qualifying Gautama. Uncertainty: Source spelling of Gautama and the clause ending are irregular. Review action: Compare the quoted verse without silently normalizing the source.
+
+[^N-C-023]: Anchors: U03456, U03457. Exact Tibetan: ཇི་ལྟར་བར་སྣངཤིན་ཏུx དེ་བཞིནx Category: source reading. Issue: Two x placeholders interrupt a quoted verse; བར་སྣངཤིན lacks an expected syllable separator. Working treatment: Keep both x marks visibly unresolved and translate only the supplied wording. Uncertainty: The missing text and verse structure are not recoverable from this transcript. Review action: Collate the quoted Avataṃsaka passage against a source witness.
+
+[^N-C-024]: Anchors: U03470. Exact Tibetan: ཚིག་གི་འཛིན་པ་བོར་ལ་ཐོད། Category: contextual use. Issue: འཛིན་པ here functions verbally as grasping at words, not as the noun apprehending subject; final ཐོད is unclear. Working treatment: Render the action as grasping provisionally and flag the unclear final word rather than supplying a separate action. Uncertainty: The repeated imperative likely resembles the preceding line, but no source correction is made. Review action: Check final ཐོད and review the contextual grasping use.
+
+[^N-C-025]: Anchors: U03479. Exact Tibetan: དཀར་པོ་ཆིག་ཐུབ Category: terminology gap. Issue: This technical epithet is absent from the glossary. Working treatment: Use single white remedy provisionally, retaining the singularity central to the objection. Uncertainty: Its medical/doctrinal connotations require terminology review. Review action: Review the term as a whole expression; do not activate a new mapping by repetition.
+
+[^N-C-026]: Anchors: U03486, U03487, U03488. Exact Tibetan: རིག་པས་གཞལ་བློས་བརྟགས Category: contextual use. Issue: རིག་པ can denote reasoning in this analytical context, while the active assignment is awareness. མཚན་ཉིད here contrasts a meaning generalization with the genuine realization. Working treatment: Retain awareness and explicitly flag the possible logical sense; translate མཚན་ཉིད as genuine locally. Uncertainty: The technical sense of རིག་པ and the repeated མཚན་ཉིད require review. Review action: Decide the occurrence-specific awareness/reasoning use without changing the canonical entry.
+
+[^N-C-027]: Anchors: U03504, U03505, U03506, U03507, U03508. Exact Tibetan: ཆོས་ཉིད་གཏན་ལ་ཕབ་ནས་ཡུལ་དུ་བྱེད་པ་ལྟ་བ་ Category: interpretive supply. Issue: The subject of the definitions is unstated; the following འདིར contrasts the author’s position. Working treatment: Supply [Some call] to mark the preceding definitions as the position being contrasted. Uncertainty: The disjunction at སྒོམ་པའམ is read as introducing an alternative account. Review action: Confirm the grouping of the two accounts.
+
+[^N-C-028]: Anchors: U03510, U03511. Exact Tibetan: གསུམ་གྱིས་ མ་རེག་པའི་རྟོགས་པ Category: syntax/reference. Issue: The three that do not touch realization are unnamed; they may refer to hearing/reflection/cultivation or the three named systems. Working treatment: Retain untouched by the three without supplying a definite referent. Uncertainty: The antecedent remains open. Review action: Resolve the antecedent from the full commentary or a parallel explanation.
+
+[^N-C-029]: Anchors: U03521, U03522, U03523, U03524. Exact Tibetan: དྲན་པའི་རྒྱུན་ཆད་མ་ཤེས་ན། Category: source reading. Issue: The third line says interruption, whereas the preceding teaching emphasizes uninterrupted mindfulness; the final idiom is uncertain. Working treatment: Retain interruption and provisionally translate ཏབ་ཏབ་ཁ as frantic bustle. Uncertainty: A missing negation or other textual defect is possible but unverified. Review action: Check the quoted song and its lineation.
+
+[^N-C-030]: Anchors: U03527, U03529, U03532. Exact Tibetan: མཐར་མ་འདྲེས་པའི་དྲན་ཉམས་པ་མངའ་བའི་བར་དུ Category: source reading. Issue: The final reading has impaired mindfulness, apparently contrary to the expected unshared quality; the list of awakening factors is abbreviated. Working treatment: Preserve the problematic reading visibly instead of silently adding a negation; identify the list as selective. Uncertainty: A missing negative particle is likely but not authenticated. Review action: Collate U03532 and review the full thirty-seven-factor enumeration.
+
+[^N-C-031]: Anchors: U03538, U03539, U03540, U03541. Exact Tibetan: འདོད་ཆགས་ཡུལ་སྡུག་པ་དང་ དགག་བཅས་ཀུན་འབྱུང་དུ་འོང་ཞིང༌། Category: syntax/reference. Issue: The parallel phrases join attraction/prohibition and aversion/accomplishment in a compressed construction; དགག་བཅས may be a defective reading. Working treatment: Preserve the explicit contrasts, supply [of suffering] for origin, and flag the construction as provisional. Uncertainty: The precise attachment of what is prohibited/accomplished is unresolved. Review action: Check the reading and syntax before treating this as a settled instruction.
+
+[^N-C-032]: Anchors: U03547. Exact Tibetan: དཀྱིལ་འཁོར་གྱི་ལྷར་མཆོད་པས Category: interpretive supply. Issue: The object offered is implicit. Working treatment: Supply [food] from the immediately preceding example. Uncertainty: The context supports this supply. Review action: Retain or remove the brackets after human review.
+
+[^N-C-033]: Anchors: U03574. Exact Tibetan: སྐུ་གསུམ་འདུ་འབྲེལ་མེད Category: source reading. Issue: The transcript reads འདུ་འབྲེལ, not the expected joining/separation pair འདུ་འབྲལ. Working treatment: Use joining or separation provisionally to expose the likely intended contrast; do not alter source. Uncertainty: The reading may instead assert absence of an assembled connection. Review action: Verify the quotation and decide the final local wording.
+
+[^N-C-034]: Anchors: U03583, U03585. Exact Tibetan: གཞི་ཚུལ་ཁྲིམས Category: contextual use. Issue: གཞི appears both as the technical Ground and as the supporting ground of ethical discipline. The glossary has intentional internal capitalization not otherwise explained. Working treatment: Keep the Ground for the technical ground/path/result usage, lower-case ground where ordinary support is meant; preserve the lexical term. Uncertainty: The contextual and capitalization distinction is provisional. Review action: Review presentation once for this range; no change to the glossary.
+
+[^N-C-035]: Anchors: U03598. Exact Tibetan: གསུང་སྐྱེས Category: interpretive supply. Issue: The possessor of speech is not explicit in this compound. Working treatment: Supply [Buddha’s] for the conventional epithet of hearers. Uncertainty: The doctrinal referent is likely; the source remains abbreviated. Review action: Review the compound together with the four classes listed.
+
+[^N-C-036]: Anchors: U03608, U03609. Exact Tibetan: ཆོས་རྣམས་རང་བཞིན་སྟོང་པར་མཉམ་གཞག་ནས།། བྱིས་པ་མེ་རེག་བརྩོན་པས་མི་ཤེས་སོ། Category: syntax/reference. Issue: The subject changes awkwardly between the equipoise clause and the childish touching fire; a defect in the quoted text is possible. Working treatment: Retain the sequence and fire image; supply only [this] as the implicit object of not knowing. Uncertainty: The attachment is unresolved and this verse is not a settled reading. Review action: Check all four lines of the quotation in a witness.
+
+[^N-C-037]: Anchors: U03615. Exact Tibetan: སྡིག་པ་ཕྲ་བས་གཅིག་པ་ཡིན་ནོ། Category: source reading. Issue: The phrase literally connects subtle wrongdoing with being one, but lacks an explicit verb of avoidance. The later parallel U03753 supplies such a verb. Working treatment: Supply [avoiding] visibly from the parallel argument; retain the unity of Mahamudra and discipline. Uncertainty: This is a contextual reconstruction, not an authenticated reading. Review action: Compare U03615 with U03750–U03753 and a physical witness.
+
+[^N-C-038]: Anchors: U03651, U03652. Exact Tibetan: དེ་ལས་འདིར་རང་ཕྱག་ཆེན་ལ་དགེ་མི་དགེ་གཉིས་ཀས་སྒྲིབ Category: syntax/reference. Issue: The source uses འདིར while still presenting a claim later explicitly rejected at U03656. Working treatment: Keep here but identify the claim as reported rather than the author’s conclusion. Uncertainty: The discourse boundary may reflect defective punctuation or wording. Review action: Review attribution across U03644–U03656.
+
+[^N-C-039]: Anchors: U03668, U03669, U03670, U03671, U03672, U03673, U03674, U03675. Exact Tibetan: ས་བདུན་པར་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བཅུ་གཉིས། Category: scope. Issue: The enumeration omits the third ground. Large-number names vary by system and the particle counts must not be reduced to twelve particles. Working treatment: Preserve the stated factorized quantities; retain koṭi and khrak-khrik without decimal conversion. Translate སྟོང་ཆེན contextually as great thousandfold world system. Uncertainty: The value of khrak-khrik and the omitted third-ground quantity remain unverified. Review action: Check the numerical tradition and the missing third-ground entry; do not silently insert it.
+
+[^N-C-040]: Anchors: U03676, U03683, U03685. Exact Tibetan: ལུང་རིག་འཁོར་གྱིས་བསྐོར་བ་སྟོན་པ། Category: source reading. Issue: The tenth-ground quantity lacks an explicit counted cosmic unit; the last item’s ལུང་རིག is anomalous in a list of retinues. U03683 contains repeated tshegs. Working treatment: Supply the quantitative link in brackets, retain the particle expression, and quote scripture and awareness as unresolved wording rather than inventing a retinue. Uncertainty: A defective final item is probable; the correct reading is unknown. Review action: Collate the complete twelve-quality list and tenth-ground quantity.
+
+[^N-C-041]: Anchors: U03698. Exact Tibetan: སོ་སྐྱེ་རྣམས་རྗེ་ཤེས་ཁོ་ན་ཡིན་པའི་ཕྱིར Category: source reading. Issue: The reference is blank. རྗེ་ཤེས appears to stand for subsequent knowing, contrasted with equipoise; the source lacks the usual final letter of རྗེས. Working treatment: Translate subsequent knowing provisionally, retaining the original source. Uncertainty: The textual form and its relation to post-cultivation attainment need review. Review action: Check U03698 against U03714 and a witness.
+
+[^N-C-042]: Anchors: U03706, U03707. Exact Tibetan: ས་ནི་བསམ་གྱིས་མི་ཁྱབ་པའི། ། དགེ་བའི་ལས་ཀྱི་རྒྱུ་རྐྱེན་གྱིས།། Category: syntax/reference. Issue: The attachment of grounds to inconceivable virtuous karma is compressed, and ས་ནི might instead be an independent topic. Working treatment: Read on the grounds provisionally while preserving the causal and instrumental sequence. Uncertainty: The exact topic relation remains uncertain. Review action: Check the full verse in the cited sūtra.
+
+[^N-C-043]: Anchors: U03717. Exact Tibetan: བྲལ་བའི་འབྲས་བུ Category: terminology gap. Issue: This technical result category is absent from the active glossary, as is the source label ལྷན༽༽. Working treatment: Use result of separation provisionally; visibly render the label Addendum throughout this range. Uncertainty: The intended scholastic category should be confirmed. Review action: Review the whole-expression term and retain all source labels.
+
+[^N-C-044]: Anchors: U03722, U03723, U03724. Exact Tibetan: ཐེག་པ་དམན་པ་འདི་ནི་གནས་མིན། སྐབས་མེད་བསྟན་པའི་སྟོབས Category: syntax/reference. Issue: The precise impossibility concerning the Lesser Vehicle is not specified, and the clause may be incomplete. Working treatment: Retain the stated vehicle and impossibility; bracket the minimal verbal supply rather than inventing a fall or exclusion. Uncertainty: The quotation’s intended scope is unresolved. Review action: Check the complete passage in the Sūtra of the Questions of the Girl Ratna.
+
+[^N-C-045]: Anchors: U03741, U03742. Exact Tibetan: ཞི་བར་གནས་པ་རང་རྒྱལ་ཐེག་པ་དེ། ཉན་ཐོས་རྣམ་པར་གྲོལ་བའི་སྒྲ་ཕྱིར་འབྲང༌། Category: syntax/reference. Issue: The latter two lines have an unclear subject and logical relation to the preceding karmic statement. Working treatment: Retain the visible vehicle, hearers, liberation, and word relationships without importing a familiar alternate quotation. Uncertainty: The text may be incomplete or defective. Review action: Collate the four-line quotation.
+
+[^N-C-046]: Anchors: U03768. Exact Tibetan: དེ་ཕྱིར་སྟོང་ཉིད་མ་ཡིན་པའི།། Category: source reading. Issue: The quotation stops at a genitive phrase before its conclusion. Working treatment: Translate the available clause and mark the break explicitly; do not restore the familiar missing line. Uncertainty: The absence is in the fixed transcript, not proof of omission in a physical witness. Review action: Collate the quotation and preserve the original partial reading.

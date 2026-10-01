@@ -1,5 +1,9 @@
 # Agent operating contract
 
+## Active project exception
+
+The owner explicitly skipped the golden-edition phase and requested the complete translation. DECISIONS.md D01 governs: use fixed `provisional-source-v0.1.0`, preserve its source uncertainties, and treat the whole work as one bounded annotated-draft deliverable. This is not permission to repair the source or relax the glossary/translation standard. The template contract below otherwise remains active.
+
 This file is the mandatory entry point for every substantial task in repositories created from this template.
 
 ## 1. Startup: establish the exact state before editing

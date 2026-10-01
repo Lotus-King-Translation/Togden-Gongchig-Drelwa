@@ -41,6 +41,16 @@ def assemble(root=ROOT, partial=False):
         if not partial:
             raise ValueError(f'Missing translation at {cursor}')
         expanded.extend(unprocessed(i) for i in range(cursor,4500))
+    # A comparison note can cite anchors in several pairs. Link every affected
+    # pair without duplicating the authored explanatory record.
+    indexed = {i:row for row in expanded for i in range(row['start'],row['end']+1)}
+    for row in expanded:
+        for note in row.get('notes',[]):
+            for anchor in note['anchors']:
+                target = indexed[int(anchor[1:])]
+                marker = '[^'+note['id']+']'
+                if marker not in target['english']:
+                    target['english'] += marker
     source = ['---','schema: paired-text/2','text-id: TGD','edition: provisional-source-v0.1.0',
               'source-status: provisional','language: bo','---','']
     translation = ['---','schema: paired-text/2','text-id: TGD','source-edition: provisional-source-v0.1.0',
@@ -69,7 +79,7 @@ def assemble(root=ROOT, partial=False):
         pairs.append(dict(id=pid,source=ids,format=row['format'],role=row['role'],status=status,
                           batch_file=row.get('batch_file'),note_ids=sorted(set(re.findall(r'\[\^([^\]]+)\]',row['english'])))))
         coverage.extend(dict(anchor=i,pair_id=pid,status=status,
-                             has_review_note=bool(row.get('notes'))) for i in ids)
+                             has_review_note=bool(re.findall(r'\[\^([^\]]+)\]',row['english']))) for i in ids)
     if notes:
         translation.extend(['<!-- translation-notes -->',''])
     for note in notes:
