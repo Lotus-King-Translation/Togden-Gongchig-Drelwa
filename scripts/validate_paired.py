@@ -6,7 +6,7 @@ import re
 import sys
 from collections import Counter
 from pathlib import Path
-from source_io import ROOT, sha, validate_intake
+from source_io import ROOT, sha, validate_intake, render_note
 
 PAIR = re.compile(r'<!-- pair: ([^|>]+)(.*?) -->')
 FORMATS = {'prose','verse','h1','h2','h3'}
@@ -110,6 +110,8 @@ def validate(root=ROOT, final=False):
         if not note['tibetan'] or note['tibetan'] not in quoted:raise ValueError('Note quotation differs from exact source: '+note['id'])
     definitions=re.findall(r'^\[\^([^\]]+)\]:',tfooter,re.M)
     if sorted(definitions)!=sorted(note_map):raise ValueError('Footnote definitions differ')
+    if tfooter.strip()!='\n\n'.join(render_note(n) for n in notes):
+        raise ValueError('Canonical footnote content differs from notes ledger')
     all_refs=set()
     for tr,expected in zip(trows,manifest['pairs']):
         refs=set(re.findall(r'\[\^([^\]]+)\]',tr['body']))
@@ -122,7 +124,11 @@ def validate(root=ROOT, final=False):
                 raise ValueError('Incorrect note source allocation')
     if all_refs!=set(note_map):raise ValueError('Orphan note')
     anchor_to_pair={a:p for p in manifest['pairs'] for a in p['source']}
+    known_pairs={p['id']:p for p in manifest['pairs']}
     for note in notes:
+        owner=known_pairs.get(note.get('pair_id'))
+        if not owner or note['id'] not in owner['note_ids'] or not set(note['anchors']) & set(owner['source']):
+            raise ValueError('Incorrect note owner pair allocation')
         for anchor in note['anchors']:
             if note['id'] not in anchor_to_pair[anchor]['note_ids']:
                 raise ValueError('Affected source span lacks note link: '+note['id'])
@@ -145,6 +151,12 @@ def validate(root=ROOT, final=False):
                 independent_semantic_qc=False,final_mode=final)
     if manifest.get('coverage_counts')!=result['coverage'] or manifest.get('format_counts')!=result['formats']:
         raise ValueError('Manifest counts differ from canonical reading')
+    if final:
+        from build_publication import render
+        outputs,_=render(root,dict(result,final_mode=False))
+        for path,expected_text in outputs.items():
+            if not (root/path).exists() or (root/path).read_text()!=expected_text:
+                raise ValueError('Generated publication differs from canonical rebuild: '+path)
     return result
 
 if __name__=='__main__':

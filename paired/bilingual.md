@@ -16,78 +16,78 @@ Namo guru ratna śrī ye. [Homage to Guru Ratnaśrī.]
 
 <!-- TGD-000003 -->
 
-སྣ་ཚོགས་བསོད་ནམས་འོ་མའི་མཚོ་ལ་བརྩོན་འགྲུས་སྐྱ་བས་བསྲུབས་པ་ལས། །
-གཟུགས་སྐུའི་རྩི་བཅུད་མངོན་པར་འཁྲུངས་ནས་སྤང་རྟོག་མཐར་ཕྱིན་རྫོགས་སངས་རྒྱས། །
-དེས་གསུངས་འགོག་ལམ་དམ་པའི་ཆོས་དང་རིག་གྲོལ་དབང་ཕྱུག་དགེ་འདུན་ལ། །
+སྣ་ཚོགས་བསོད་ནམས་འོ་མའི་མཚོ་ལ་བརྩོན་འགྲུས་སྐྱ་བས་བསྲུབས་པ་ལས། །<br>
+གཟུགས་སྐུའི་རྩི་བཅུད་མངོན་པར་འཁྲུངས་ནས་སྤང་རྟོག་མཐར་ཕྱིན་རྫོགས་སངས་རྒྱས། །<br>
+དེས་གསུངས་འགོག་ལམ་དམ་པའི་ཆོས་དང་རིག་གྲོལ་དབང་ཕྱུག་དགེ་འདུན་ལ། །<br>
 བྱང་ཆུབ་བར་དུ་སྐྱབས་གནས་བསླུ་མེད་དཀོན་མཆོག་རྣམ་གསུམ་གཙུག་ན་རྒྱལ། །
 
-From churning the ocean of the milk of manifold merit with the churning-staff of diligence,
-The vital essence of the form embodiment manifestly arises: the perfect buddha, consummate in abandonment and [realization].[^N-A-002]
-To the sacred Dharma of cessation and path that he taught, and the Sangha, masters of awareness and liberation—
+From churning the ocean of the milk of manifold merit with the churning-staff of diligence,<br>
+The vital essence of the form embodiment manifestly arises: the perfect buddha, consummate in abandonment and [realization].[^N-A-002]<br>
+To the sacred Dharma of cessation and path that he taught, and the Sangha, masters of awareness and liberation—<br>
 May the Three Jewels, unfailing refuge until awakening, reign upon my crown.
 
 <!-- TGD-000007 -->
 
-༄༅། །འགྲོ་ཀུན་མ་རིག་ཞགས་པས་བཅིངས་རྣམས་རྣམ་དཔྱོད་རིག་པའི་རལ་གྲི་ཡིས། །
-བསྐྲལ་ནས་བདེ་བའི་གནས་ལ་དབྱུང་མཛད་ཇི་སྙེད་མཁྱེན་པའི་པོ་ཏི་བསྣམས། །
-རྒྱལ་བ་ཀུན་གྱི་མཁྱེན་པའི་མངའ་བདག་འཇམ་དཔལ་དཔའ་བོ་ཁྱེད་མིན་སུ། །
+༄༅། །འགྲོ་ཀུན་མ་རིག་ཞགས་པས་བཅིངས་རྣམས་རྣམ་དཔྱོད་རིག་པའི་རལ་གྲི་ཡིས། །<br>
+བསྐྲལ་ནས་བདེ་བའི་གནས་ལ་དབྱུང་མཛད་ཇི་སྙེད་མཁྱེན་པའི་པོ་ཏི་བསྣམས། །<br>
+རྒྱལ་བ་ཀུན་གྱི་མཁྱེན་པའི་མངའ་བདག་འཇམ་དཔལ་དཔའ་བོ་ཁྱེད་མིན་སུ། །<br>
 བདག་བློ་དད་པའི་ལན་བརྒྱར་བསྟོད་ནས་མི་འབྲལ་སྤྱི་བོའི་རྒྱན་དུ་མཆོད། །
 
-With the sword of discriminating awareness you cut free all beings bound by ignorance’s lasso
-And lead them out to a place of happiness, bearing the volume of knowing all that is.
-Who but you, heroic Mañjuśrī, commands the knowing of all victorious ones?
+With the sword of discriminating awareness you cut free all beings bound by ignorance’s lasso<br>
+And lead them out to a place of happiness, bearing the volume of knowing all that is.<br>
+Who but you, heroic Mañjuśrī, commands the knowing of all victorious ones?<br>
 With my conceptual mind’s faith I praise you a hundred times and honor you as the inseparable adornment of my crown.
 
 <!-- TGD-000011 -->
 
-སྟོན་པས་ལུང་བསྟན་གངས་ཅན་བྱང་ཕྱོགས་འབྲི་ཐེལ་རྡོར་གདན་གཉིས་པ་རུ། །
-ཟབ་མོ་ལྟ་བའི་ཤིང་རྟའི་རྣམ་རོལ་ཀླུ་སྒྲུབ་གཉིས་པ་རཏྣ་ཤྲཱི། །
-ཆོས་ཀུན་གཤིས་བབ་རྟེན་འབྲེལ་མངོན་བསྒྱུར་རྩེ་གཅིག་སྤྲོས་བྲལ་རོ་གཅིག་དང༌།
+སྟོན་པས་ལུང་བསྟན་གངས་ཅན་བྱང་ཕྱོགས་འབྲི་ཐེལ་རྡོར་གདན་གཉིས་པ་རུ། །<br>
+ཟབ་མོ་ལྟ་བའི་ཤིང་རྟའི་རྣམ་རོལ་ཀླུ་སྒྲུབ་གཉིས་པ་རཏྣ་ཤྲཱི། །<br>
+ཆོས་ཀུན་གཤིས་བབ་རྟེན་འབྲེལ་མངོན་བསྒྱུར་རྩེ་གཅིག་སྤྲོས་བྲལ་རོ་གཅིག་དང༌།<br>
 སྒོམ་མེད་ལྟ་བའི་ཡང་རྩེར་སོན་པ་ཆོས་རྗེ་འཇིག་རྟེན་མགོན་ལ་འདུད། །
 
-At Dri Thil in the northern snowy land, the second vajra seat foretold by the Teacher,
-Ratnaśrī, a second Nāgārjuna, displays the chariot of the profound view.
-Actualizing dependent arising, the abiding character of all phenomena, he reaches one-pointedness, freedom from conceptual elaborations, one taste,
+At Dri Thil in the northern snowy land, the second vajra seat foretold by the Teacher,<br>
+Ratnaśrī, a second Nāgārjuna, displays the chariot of the profound view.<br>
+Actualizing dependent arising, the abiding character of all phenomena, he reaches one-pointedness, freedom from conceptual elaborations, one taste,<br>
 And non-cultivation, the summit of the view: I bow to Dharma Lord Jigten Gön.
 
 <!-- TGD-000015 -->
 
-འཕགས་ཡུལ་གྲུབ་ཆེན་ས་ར་ཧ་དང་གངས་ཅན་ཤེར་འབྱུང་རཏྣའི་མཚན། །
-སྤྲུལ་པའི་སྐུ་མཆོག་བཅུ་ཕྲག་རིག་གནས་རྒྱུད་སྡེ་རྒྱ་མཚོའི་དོན་ལ་མཁས། །
-འཇམ་པའི་དབྱངས་དང་གཉིས་སུ་མེད་པ་རྒྱལ་དབང་རིག་འཛིན་ཆོས་ཀྱི་གྲགས། །
+འཕགས་ཡུལ་གྲུབ་ཆེན་ས་ར་ཧ་དང་གངས་ཅན་ཤེར་འབྱུང་རཏྣའི་མཚན། །<br>
+སྤྲུལ་པའི་སྐུ་མཆོག་བཅུ་ཕྲག་རིག་གནས་རྒྱུད་སྡེ་རྒྱ་མཚོའི་དོན་ལ་མཁས། །<br>
+འཇམ་པའི་དབྱངས་དང་གཉིས་སུ་མེད་པ་རྒྱལ་དབང་རིག་འཛིན་ཆོས་ཀྱི་གྲགས། །<br>
 ཐུགས་རྗེས་རྗེས་བཟུང་བདག་ཡིད་དྭངས་བས་དྲིན་ཅན་བླ་མར་ཕྱག་བགྱིའོ། །
 
-Supreme emanation embodiment of the great adept Saraha of the noble land and Sherjung Ratna of the snowy land,
-Expert in the ten fields of learning and the meaning of the ocean of tantra classes,[^N-A-003]
-Gyalwang Rigdzin Chökyi Drak, inseparable from Mañjughoṣa—
+Supreme emanation embodiment of the great adept Saraha of the noble land and Sherjung Ratna of the snowy land,<br>
+Expert in the ten fields of learning and the meaning of the ocean of tantra classes,[^N-A-003]<br>
+Gyalwang Rigdzin Chökyi Drak, inseparable from Mañjughoṣa—<br>
 To the kind lama who has taken me under his compassionate responsiveness, I bow with a clear mental faculty.
 
 <!-- TGD-000019 -->
 
-སྟོན་པས་གསུང་པའི་མདོ་སྔགས་ཀྱི། །
-དོན་རྣམས་མ་ནོར་གོ་བདེའི་ཕྱིཪ། །
-རྒྱལ་མཆོག་འབྲི་གུང་རིན་ཆེན་གྱི། །
-གསུངས་པའི་ཁྱད་ཆོས་དགོངས་པ་གཅིག །
-བློ་དམན་བདག་འདྲ་རྣམས་ལ་ནི། །
+སྟོན་པས་གསུང་པའི་མདོ་སྔགས་ཀྱི། །<br>
+དོན་རྣམས་མ་ནོར་གོ་བདེའི་ཕྱིཪ། །<br>
+རྒྱལ་མཆོག་འབྲི་གུང་རིན་ཆེན་གྱི། །<br>
+གསུངས་པའི་ཁྱད་ཆོས་དགོངས་པ་གཅིག །<br>
+བློ་དམན་བདག་འདྲ་རྣམས་ལ་ནི། །<br>
 ཕན་ཕྱིར་ཚིག་དོན་འགྲེལ་འདི་བརྩམས། །
 
-To understand easily and without error
-The meanings of the sūtras and mantras taught by the Teacher,
-The supreme victorious Drigung Rinchen
-Taught the distinctive Dharma of the Single Enlightened Intent.
-To benefit those whose conceptual minds are weak, like mine,
+To understand easily and without error<br>
+The meanings of the sūtras and mantras taught by the Teacher,<br>
+The supreme victorious Drigung Rinchen<br>
+Taught the distinctive Dharma of the Single Enlightened Intent.<br>
+To benefit those whose conceptual minds are weak, like mine,<br>
 I have composed this commentary on its words and meanings.
 
 <!-- TGD-000025 -->
 
-སྔོན་ཆད་མ་བྱུང་འདིར་བརྗོད་མེད། །
-སྡེབ་སྦྱོར་སྙན་པའང་བདག་ལ་མེད། །
-གཞན་ལ་ཕན་པའི་བློ་ཡང་དཀའ། །
+སྔོན་ཆད་མ་བྱུང་འདིར་བརྗོད་མེད། །<br>
+སྡེབ་སྦྱོར་སྙན་པའང་བདག་ལ་མེད། །<br>
+གཞན་ལ་ཕན་པའི་བློ་ཡང་དཀའ། །<br>
 རང་ཉིད་ལས་སྒྲིབ་དག་ཕྱིར་བྱ། །
 
-Nothing unprecedented is stated here;
-Nor do I possess pleasing poetic composition.
-Even a conceptual mind that benefits others is difficult to have.
+Nothing unprecedented is stated here;<br>
+Nor do I possess pleasing poetic composition.<br>
+Even a conceptual mind that benefits others is difficult to have.<br>
 I do this to purify my own karmic obscurations.
 
 <!-- TGD-000029 -->
@@ -210,14 +210,14 @@ If one thinks, “Then mastery is not established,” this mastery does not mean
 
 <!-- TGD-000097 -->
 
-རྟེན་ཅིང་འབྲེལ་འབྱུང་མ་གཏོགས་པའི། །
-ཆོས་འགའ་ཡོད་པ་མ་ཡིན་པ། །
-དེ་ཕྱིར་སྟོང་པ་མ་ཡིན་པའི། །
+རྟེན་ཅིང་འབྲེལ་འབྱུང་མ་གཏོགས་པའི། །<br>
+ཆོས་འགའ་ཡོད་པ་མ་ཡིན་པ། །<br>
+དེ་ཕྱིར་སྟོང་པ་མ་ཡིན་པའི། །<br>
 ཆོས་འགའ་ཡོད་པ་མ་ཡིན་ནོ། །
 
-There is no phenomenon whatever
-That is not dependently arisen.
-Therefore there is no phenomenon whatever
+There is no phenomenon whatever<br>
+That is not dependently arisen.<br>
+Therefore there is no phenomenon whatever<br>
 That is not empty.
 
 <!-- TGD-000101 -->
@@ -228,10 +228,10 @@ And:
 
 <!-- TGD-000102 -->
 
-གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །
+གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །<br>
 དེ་ལ་ཐམས་ཅད་རུང་བར་འགྱུར།
 
-For whom emptiness is possible,
+For whom emptiness is possible,<br>
 Everything is possible.
 
 <!-- TGD-000104 -->
@@ -244,14 +244,14 @@ And so forth. Also, “Whatever [arises] through conditions …,” and in the S
 
 <!-- TGD-000107 -->
 
-རྒྱུ་ལ་བརྟེན་པའིམཁས་པ་བཅོམ་ལྡན་འདས། །
-མཐའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་ཞིང༌། །
-ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་དེ་ཉིད་གསུངས། །
+རྒྱུ་ལ་བརྟེན་པའིམཁས་པ་བཅོམ་ལྡན་འདས། །<br>
+མཐའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་ཞིང༌། །<br>
+ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་དེ་ཉིད་གསུངས། །<br>
 ལྟ་བའི་མུན་འཇོམས་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ་༑
 
-Blessed One, expert in dependence upon causes,
-You never hold the views of the two extremes.
-You teach precisely the results of karmic ripening.
+Blessed One, expert in dependence upon causes,<br>
+You never hold the views of the two extremes.<br>
+You teach precisely the results of karmic ripening.<br>
 I bow to you who destroy the darkness of views.
 
 <!-- TGD-000111 -->
@@ -286,14 +286,14 @@ Here it is held that all the victorious ones of the ten directions and three tim
 
 <!-- TGD-000126 -->
 
-འོད་སྲུང་ལོག་པར་དད་སེལ་དང༌།
-གསེར་ཐུབ་དག་ཀྱང་ང་ཡིན་ཅེས།
-མཉམ་པ་ཉིད་དུ་མཉམ་གྱུར་པས།
+འོད་སྲུང་ལོག་པར་དད་སེལ་དང༌།<br>
+གསེར་ཐུབ་དག་ཀྱང་ང་ཡིན་ཅེས།<br>
+མཉམ་པ་ཉིད་དུ་མཉམ་གྱུར་པས།<br>
 རྒྱལ་བའི་སྲས་ལ་ངས་བཤད་དོ།
 
-“Kāśyapa, Krakucchanda,
-And Kanakamuni too are myself”—
-Because we are equal in equality,
+“Kāśyapa, Krakucchanda,<br>
+And Kanakamuni too are myself”—<br>
+Because we are equal in equality,<br>
 I explained this to the victorious ones’ children.
 
 <!-- TGD-000130 -->
@@ -355,14 +355,14 @@ In the Supreme Continuum, the meaning of the Jewel Crest Sūtra is given from �
 
 <!-- TGD-000162 -->
 
-དེ་རྣམས་འབྲི་བྱེད་གང་ཡིན་པ།
-སྦྱིན་དང་ཚུལ་ཁྲིམས་བརྗོད་ལ་སོགས། །
-རྣམ་པ་ཀུན་གྱི་མཆོག་ལྡན་པ།
+དེ་རྣམས་འབྲི་བྱེད་གང་ཡིན་པ།<br>
+སྦྱིན་དང་ཚུལ་ཁྲིམས་བརྗོད་ལ་སོགས། །<br>
+རྣམ་པ་ཀུན་གྱི་མཆོག་ལྡན་པ།<br>
 སྟོང་པ་ཉིད་ནི་གཟུགས་སུ་བརྗོད།
 
-Those who do the painting
-Are said to be generosity, discipline, and the rest.
-Emptiness endowed with the supreme of all aspects
+Those who do the painting<br>
+Are said to be generosity, discipline, and the rest.<br>
+Emptiness endowed with the supreme of all aspects<br>
 Is said to be the form.
 
 <!-- TGD-000166 -->
@@ -393,10 +393,10 @@ Here the eighty-four thousand are established as antidotes to the eighty-four th
 
 <!-- TGD-000177 -->
 
-ཉོན་མོངས་རྣམས་ཀྱི་གཉེན་པོར་ནི། །
+ཉོན་མོངས་རྣམས་ཀྱི་གཉེན་པོར་ནི། །<br>
 ཕུང་པོ་བརྒྱད་ཁྲི་བཞི་སྟོང་གསུངས།
 
-As antidotes to the afflictions,
+As antidotes to the afflictions,<br>
 Eighty-four thousand collections were taught.
 
 <!-- TGD-000179 -->
@@ -407,10 +407,10 @@ The Treasury says:
 
 <!-- TGD-000180 -->
 
-སྤྱོད་པ་རྣམས་ཀྱི་གཉེན་པོ་ནི། །
+སྤྱོད་པ་རྣམས་ཀྱི་གཉེན་པོ་ནི། །<br>
 ཆོས་ཀྱི་ཕུང་བོ་མཐུན་པར་གསུངས།
 
-As antidotes to the activities,
+As antidotes to the activities,<br>
 Corresponding Dharma collections were taught.
 
 <!-- TGD-000182 -->
@@ -566,14 +566,14 @@ Vajra statement. Other scholars say that although the connected meanings of the 
 
 <!-- TGD-000258 -->
 
-ལེན་པའི་རྣམ་པར་ཤེས་པ་ཟབ་ཅིང་ཕྲ།
-ས་བོན་ཐམས་ཅད་ཆུ་བོའི་རྒྱུན་བཞིན་བབས།
-བདག་ཏུ་རྟོག་པར་འགྱུར་ན་མི་རུང་ཏེ།
+ལེན་པའི་རྣམ་པར་ཤེས་པ་ཟབ་ཅིང་ཕྲ།<br>
+ས་བོན་ཐམས་ཅད་ཆུ་བོའི་རྒྱུན་བཞིན་བབས།<br>
+བདག་ཏུ་རྟོག་པར་འགྱུར་ན་མི་རུང་ཏེ།<br>
 བྱིས་པ་རྣམས་ལ་ངས་ནི་དེ་མ་བསྟན།
 
-The appropriating consciousness is profound and subtle;
-All its seeds flow like a river.
-Lest they conceptualize it as a self,
+The appropriating consciousness is profound and subtle;<br>
+All its seeds flow like a river.<br>
+Lest they conceptualize it as a self,<br>
 I have not taught it to the immature.
 
 <!-- TGD-000262 -->
@@ -600,16 +600,16 @@ The passage continuing as far as “essence itself” is the seed of the final t
 
 <!-- TGD-000269 -->
 
-བློ་གྲོས་ཆེན་པོ་ས་མཐར་ཕྱིན། །
-ཆོས་ཀྱི་དབང་ནི་བསྐུར་གནས་སུ། །
-འོག་མིན་སྟུག་པོ་ཉམས་དགའ་བར། །
-ཡང་དག་སངས་རྒྱས་དེར་སངས་རྒྱས། །
+བློ་གྲོས་ཆེན་པོ་ས་མཐར་ཕྱིན། །<br>
+ཆོས་ཀྱི་དབང་ནི་བསྐུར་གནས་སུ། །<br>
+འོག་མིན་སྟུག་པོ་ཉམས་དགའ་བར། །<br>
+ཡང་དག་སངས་རྒྱས་དེར་སངས་རྒྱས། །<br>
 སྤྲུལ་པ་པོ་ཞིག་འདིར་འཚང་རྒྱ།
 
-Mahāmati, having reached the end of the levels,
-In the place of Dharma empowerment,
-The dense and delightful Akaniṣṭha,
-The authentic buddha awakens there;
+Mahāmati, having reached the end of the levels,<br>
+In the place of Dharma empowerment,<br>
+The dense and delightful Akaniṣṭha,<br>
+The authentic buddha awakens there;<br>
 An emanation awakens here.
 
 <!-- TGD-000274 -->
@@ -620,14 +620,14 @@ And in the same text:
 
 <!-- TGD-000275 -->
 
-འདོད་པའི་ཁམས་དང་གཟུགས་མེད་དུ། །
-སངས་རྒྱས་རྣམ་པར་འཚང་མི་རྒྱ། །
-གཟུགས་ཀྱི་ཁམས་ཀྱི་འོག་མིན་དུ། །
+འདོད་པའི་ཁམས་དང་གཟུགས་མེད་དུ། །<br>
+སངས་རྒྱས་རྣམ་པར་འཚང་མི་རྒྱ། །<br>
+གཟུགས་ཀྱི་ཁམས་ཀྱི་འོག་མིན་དུ། །<br>
 འདོད་ཆགས་བྲལ་ཁྱོད་འཚང་རྒྱའོ། །
 
-In the desire realm and the formless realm
-Buddhas do not fully awaken.
-In Akaniṣṭha of the form realm,
+In the desire realm and the formless realm<br>
+Buddhas do not fully awaken.<br>
+In Akaniṣṭha of the form realm,<br>
 Free from desire, you awaken.
 
 <!-- TGD-000279 -->
@@ -747,14 +747,14 @@ Even the treatises explain the meaning of the four Vinaya divisions through the 
 
 <!-- TGD-000339 -->
 
-དགེ་སློང་དག །ང་དང་ཁྱེད་ཅག་ཁོ་ན་ལས།
-འཕགས་པའི་བདེན་པ་བཞི་པོ་དག།
-ཇི་ལྟ་བ་བཞིན་མ་མཐོང་བས།།
+དགེ་སློང་དག །ང་དང་ཁྱེད་ཅག་ཁོ་ན་ལས།<br>
+འཕགས་པའི་བདེན་པ་བཞི་པོ་དག།<br>
+ཇི་ལྟ་བ་བཞིན་མ་མཐོང་བས།།<br>
 ཡུནརིང་ལམ་དུ་ལཁོར་བར་འགྱུར།
 
-Monks, I and you [have wandered]—[^N-A-025]
-Not seeing the four noble truths
-Just as they are,
+Monks, I and you [have wandered]—[^N-A-025]<br>
+Not seeing the four noble truths<br>
+Just as they are,<br>
 We revolve on the long road.
 
 <!-- TGD-000343 -->
@@ -766,14 +766,14 @@ And master Nāgārjuna says:
 
 <!-- TGD-000345 -->
 
-ཀཱ་ཤི་ཀ་ཡི་ཝཱ་རཱ་ཎ་སཱི་རུ། །
-ཆོས་ཀྱི་འཁོར་ལོ་རྣམ་གྲོལ་རྨད་བྱུང་བས། །
-ཉོན་མོངས་སྒྲིལ་པ་རྣམ་པར་གཅོད་མཛད་པའི། །
+ཀཱ་ཤི་ཀ་ཡི་ཝཱ་རཱ་ཎ་སཱི་རུ། །<br>
+ཆོས་ཀྱི་འཁོར་ལོ་རྣམ་གྲོལ་རྨད་བྱུང་བས། །<br>
+ཉོན་མོངས་སྒྲིལ་པ་རྣམ་པར་གཅོད་མཛད་པའི། །<br>
 ཡེ་ཤེས་མཆོད་རྟེན་བཞི་ལ་ཕྱག་འཚལ་ལོ།
 
-At Vārāṇasī in Kāśī,
-Through the wondrous Dharma wheel of liberation,
-You completely cut through the mass of afflictions—
+At Vārāṇasī in Kāśī,<br>
+Through the wondrous Dharma wheel of liberation,<br>
+You completely cut through the mass of afflictions—<br>
 I bow to the four stūpas of primordial knowing.
 
 <!-- TGD-000349 -->
@@ -833,10 +833,10 @@ If one thinks this contradicts the statement that emptiness is definitive and ca
 
 <!-- TGD-000379 -->
 
-གལ་ཏེ་སྟོང་པ་ཐབས་ཡིན་ན།
+གལ་ཏེ་སྟོང་པ་ཐབས་ཡིན་ན།<br>
 དེ་ནི་སངས་རྒྱས་ཐོབ་མི་འགྱུར།
 
-If emptiness were the method,
+If emptiness were the method,<br>
 Buddhahood would not be attained.
 
 <!-- TGD-000381 -->
@@ -868,14 +868,14 @@ Here the enlightened intent of all six limits is solely definitive meaning; it i
 
 <!-- TGD-000398 -->
 
-གཞོན་ནུ་ཁྱེད་ལ་བསྒོ་ཞིང་བསྟན་པར་བྱ།
-དད་པར་གྱིས་ཤིག་ང་ལ་མི་བདེན་མེད།
-བདེ་གཤེགས་རྫུན་གྱི་ཚིག་ནི་མི་སྨྲ་སྟེ།
+གཞོན་ནུ་ཁྱེད་ལ་བསྒོ་ཞིང་བསྟན་པར་བྱ།<br>
+དད་པར་གྱིས་ཤིག་ང་ལ་མི་བདེན་མེད།<br>
+བདེ་གཤེགས་རྫུན་གྱི་ཚིག་ནི་མི་སྨྲ་སྟེ།<br>
 ཐུགས་རྗེ་རྒྱལ་བ་རྟག་ཏུ་བདེན་པར་གསུང༌།
 
-Young one, I shall instruct and teach you.
-Have faith: there is no untruth in me.
-A sugata does not speak false words;
+Young one, I shall instruct and teach you.<br>
+Have faith: there is no untruth in me.<br>
+A sugata does not speak false words;<br>
 The victorious one, in compassionate responsiveness, always speaks truth.
 
 <!-- TGD-000402 -->
@@ -913,14 +913,14 @@ Here the Buddha-word of Ordinary Mind Only teaches the meaning of the Middle Way
 
 <!-- TGD-000420 -->
 
-སེམས་ཙམ་དུ་ནི་རྟོགས་པ་དང་།
-དངོས་པོ་ཐམས་ཅད་རྣམས་གསལ་བ།
-ཕྱི་རོལ་རྟོག་པ་རྣམས་བཟློག་སྟེ།
+སེམས་ཙམ་དུ་ནི་རྟོགས་པ་དང་།<br>
+དངོས་པོ་ཐམས་ཅད་རྣམས་གསལ་བ།<br>
+ཕྱི་རོལ་རྟོག་པ་རྣམས་བཟློག་སྟེ།<br>
 ལམ་དེ་ཉིད་ནི་དབུ་མའོ། །
 
-Realizing ordinary mind only,
-Making all things clear,
-And turning back conceptual thought about external things—
+Realizing ordinary mind only,<br>
+Making all things clear,<br>
+And turning back conceptual thought about external things—<br>
 That very path is the Middle Way.
 
 <!-- TGD-000424 -->
@@ -1012,10 +1012,10 @@ Then what is the distinction? Action motivated by a virtuous ordinary mind free 
 
 <!-- TGD-000476 -->
 
-ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི།
+ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི།<br>
 ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས།
 
-All these branches
+All these branches<br>
 The Sage taught for the sake of discerning knowing.
 
 <!-- TGD-000478 -->
@@ -1067,10 +1067,10 @@ Vajra statement. Some others hold that manifest realization on the path proceeds
 
 <!-- TGD-000505 -->
 
-དང་པོར་གསོ་སྦྱོང་བསྟན་པར་བྱ།
+དང་པོར་གསོ་སྦྱོང་བསྟན་པར་བྱ།<br>
 དེ་རྗེས་བསླབ་སོགས།
 
-First the restoration-and-purification observance should be taught;
+First the restoration-and-purification observance should be taught;<br>
 After that, the trainings …
 
 <!-- TGD-000507 -->
@@ -1084,10 +1084,10 @@ This passage, and the preceding utpala example, show that simultaneous passage w
 
 <!-- TGD-000511 -->
 
-མཁྱེན་པའི་སྐད་ཅིག་གཅིག་གིས། །
+མཁྱེན་པའི་སྐད་ཅིག་གཅིག་གིས། །<br>
 ཤེས་བྱའི་འཁོར་ལོ་ཀུན་ཁྱབ་ཅན།
 
-Through a single instant of knowing,
+Through a single instant of knowing,<br>
 Pervading the entire circle of knowables …
 
 <!-- TGD-000513 -->
@@ -1145,10 +1145,10 @@ Vajra statement. Some hold that valid cognition is shared with Vedic reasoning a
 
 <!-- TGD-000546 -->
 
-ཚད་མར་གྱུར་པ་འགྲོ་ལ་ཕན་བཞེད་པ། །
+ཚད་མར་གྱུར་པ་འགྲོ་ལ་ཕན་བཞེད་པ། །<br>
 སྟོན་པ་བདེ་བར་གཤེགས་ལ་ཕྱག་འཚལ་ལོ། །
 
-To the one who has become valid cognition, who wishes to benefit beings,
+To the one who has become valid cognition, who wishes to benefit beings,<br>
 The Teacher, the sugata, I bow.
 
 <!-- TGD-000548 -->
@@ -1174,12 +1174,12 @@ Vajra statement. Some say that logical valid cognition only refutes tenet system
 
 <!-- TGD-000559 -->
 
-མངོན་སུམ་རྗེས་དཔག་དགོས་པ་མེད་༑
-མུ་སྟེགས་རྒོལ་བ་བཟློག་པའི་ཕྱིར།
+མངོན་སུམ་རྗེས་དཔག་དགོས་པ་མེད་༑<br>
+མུ་སྟེགས་རྒོལ་བ་བཟློག་པའི་ཕྱིར།<br>
 མཁས་པ་རྣམས་ཀྱིས་བྱས་པ་ཡིན།
 
-Direct perception and inference serve no purpose;
-To repel non-Buddhist disputants,
+Direct perception and inference serve no purpose;<br>
+To repel non-Buddhist disputants,<br>
 Scholars devised them.
 
 <!-- TGD-000562 -->
@@ -1220,14 +1220,14 @@ Inference for oneself uses a reason complete in the three modes: “Consider thi
 
 <!-- TGD-000583 -->
 
-གང་གི་དངོས་པོ་རྣམ་དག་ན།
-དེ་ཉིད་དུ་ནི་དེ་དངོས་མེད།
-གང་གི་ཕྱིར་ན་དེ་དག་ལ། །
+གང་གི་དངོས་པོ་རྣམ་དག་ན།<br>
+དེ་ཉིད་དུ་ནི་དེ་དངོས་མེད།<br>
+གང་གི་ཕྱིར་ན་དེ་དག་ལ། །<br>
 གཅིག་དང་དུ་མའི་རང་བཞིན་མེད།
 
-When a thing is thoroughly examined,[^N-A-042]
-In reality that thing does not exist,
-Because these things lack
+When a thing is thoroughly examined,[^N-A-042]<br>
+In reality that thing does not exist,<br>
+Because these things lack<br>
 The intrinsic nature of one or many.
 
 <!-- TGD-000587 -->
@@ -1238,14 +1238,14 @@ And:
 
 <!-- TGD-000588 -->
 
-རྟོག་པའི་དྲྭ་བ་རྣམ་བསལ་ཅིང༌། །
-ཟབ་ཅིང་རྒྱ་ཆེའི་སྐུ་མངའ་བ། །
-ཀུན་ཏུ་བཟང་པོའི་འོད་ཟེར་དག །
+རྟོག་པའི་དྲྭ་བ་རྣམ་བསལ་ཅིང༌། །<br>
+ཟབ་ཅིང་རྒྱ་ཆེའི་སྐུ་མངའ་བ། །<br>
+ཀུན་ཏུ་བཟང་པོའི་འོད་ཟེར་དག །<br>
 ཀུན་ནས་འཕྲོ་ལ་ཕྱག་འཚལ་ལོ༑ །
 
-Having wholly cleared the net of conceptual thought,
-Possessing an embodiment profound and vast,
-Samantabhadra’s rays of light
+Having wholly cleared the net of conceptual thought,<br>
+Possessing an embodiment profound and vast,<br>
+Samantabhadra’s rays of light<br>
 Proliferate everywhere—to him I bow.
 
 <!-- TGD-000592 -->
@@ -1295,14 +1295,14 @@ Second, as long as one grasps at tenets from the śrāvakas up to the great moth
 
 <!-- TGD-000612 -->
 
-མཆོག་ལ་སྐྱབས་སོང་འགྲོ་ལ་ཕན་བརྩོན་ཡང༌།
-གང་ཟག་རྡུལ་དང་སྐད་ཅིག་རྫས་སྨྲ་དང༌།
-འཇིག་དང་སྟོང་དང་དོན་དམ་མཚན་མར་བཀྲ་། །
+མཆོག་ལ་སྐྱབས་སོང་འགྲོ་ལ་ཕན་བརྩོན་ཡང༌།<br>
+གང་ཟག་རྡུལ་དང་སྐད་ཅིག་རྫས་སྨྲ་དང༌།<br>
+འཇིག་དང་སྟོང་དང་དོན་དམ་མཚན་མར་བཀྲ་། །<br>
 ཡང་དག་དོན་ལ་གང་གི་མུ་སྟེགས་ཡིན།
 
-Though one goes for refuge to the supreme and strives to benefit beings,
-If one asserts persons, particles, and instants as substances,
-And marks destruction, emptiness, and the ultimate with signs,
+Though one goes for refuge to the supreme and strives to benefit beings,<br>
+If one asserts persons, particles, and instants as substances,<br>
+And marks destruction, emptiness, and the ultimate with signs,<br>
 One is a non-Buddhist with regard to authentic meaning.[^N-A-047]
 
 <!-- TGD-000616 -->
@@ -1329,14 +1329,14 @@ Here non-Buddhists too have many intrinsically virtuous things to accomplish. Th
 
 <!-- TGD-000628 -->
 
-མཐའ་ཡས་ཡོན་ཏན་དཔག་མེད་ཀྱང་། །
-གཞན་གྱི་ཡོན་ཏན་ཆུང་ངུ་ལེན། །
-དེ་ལྟར་ཡུན་དུ་སྤྱད་པ་ཡིས། །
+མཐའ་ཡས་ཡོན་ཏན་དཔག་མེད་ཀྱང་། །<br>
+གཞན་གྱི་ཡོན་ཏན་ཆུང་ངུ་ལེན། །<br>
+དེ་ལྟར་ཡུན་དུ་སྤྱད་པ་ཡིས། །<br>
 མྱུར་དུ་ཐམས་ཅད་མཁྱེན་པར་འགྲོ། །
 
-Though one has boundless, immeasurable qualities,
-Adopt even another’s small good quality.
-Through long engaging in such activity,
+Though one has boundless, immeasurable qualities,<br>
+Adopt even another’s small good quality.<br>
+Through long engaging in such activity,<br>
 One swiftly reaches omniscience.
 
 <!-- TGD-000632 -->
@@ -1348,12 +1348,12 @@ A fault in its own character must be discarded even if it exists in the awakened
 
 <!-- TGD-000634 -->
 
-དགེ་སློང་དག་གམ་མཁས་རྣམས་ཀྱིས། །
-སྲེག་བཅད་བརྡར་བའི་གསེར་བཞིན་དུ།
+དགེ་སློང་དག་གམ་མཁས་རྣམས་ཀྱིས། །<br>
+སྲེག་བཅད་བརྡར་བའི་གསེར་བཞིན་དུ།<br>
 ལེགས་པར་
 
-Monks and scholars,
-As with gold that is burned, cut, and rubbed,
+Monks and scholars,<br>
+As with gold that is burned, cut, and rubbed,<br>
 Thoroughly …
 
 <!-- TGD-000637 -->
@@ -1380,10 +1380,10 @@ The Minor Matters says, “Subhadra, wherever the eightfold noble path is not fo
 
 <!-- TGD-000649 -->
 
-ནམ་མཁའ་ལ་ནི་བྱ་རྗེས་བཞིན། །
+ནམ་མཁའ་ལ་ནི་བྱ་རྗེས་བཞིན། །<br>
 ཀུན་ཏུ་རྒྱུ་ལ་དགེ་སྦྱོང་མེད།
 
-As there is no bird’s track in space,
+As there is no bird’s track in space,<br>
 There is no true ascetic among the wandering outsiders.
 
 <!-- TGD-000651 -->
@@ -1394,10 +1394,10 @@ And the Letter to a Friend says:
 
 <!-- TGD-000652 -->
 
-གང་ཟག་ལོག་པར་ལྟ་བའི་ལེགས་བྱས་ཀྱང་།
+གང་ཟག་ལོག་པར་ལྟ་བའི་ལེགས་བྱས་ཀྱང་།<br>
 ཐམས་ཅད་རྣམ་པར་སྨིན་པ་མི་ཟད་ལྡན།
 
-Even the good deeds of a person with wrong view
+Even the good deeds of a person with wrong view<br>
 All bear terrible ripening.
 
 <!-- TGD-000654 -->
@@ -1474,30 +1474,30 @@ Vajra statement. Some distinguish great and lesser vehicles by superior and infe
 
 <!-- TGD-000696 -->
 
-གཞན་དོན་འཁོར་བར་གནས་ཀྱང་ནི། །
-སྙིང་རྗེ་ཅན་དག་ཅི་སྟེ་སྐྱོ༑
-འདི་ནི་བྱང་ཆུབ་སེམས་སྟོབས་ཀྱིས། །
-སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་ཅིང་། །
-བསོད་ནམས་རྒྱ་མཚོ་བསྡུད་བྱེད་ཕྱིར།
+གཞན་དོན་འཁོར་བར་གནས་ཀྱང་ནི། །<br>
+སྙིང་རྗེ་ཅན་དག་ཅི་སྟེ་སྐྱོ༑<br>
+འདི་ནི་བྱང་ཆུབ་སེམས་སྟོབས་ཀྱིས། །<br>
+སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་ཅིང་། །<br>
+བསོད་ནམས་རྒྱ་མཚོ་བསྡུད་བྱེད་ཕྱིར།<br>
 ཉན་ཐོས་རྣམས་ལས་མཆོག་ཏུ་བཤད། །
 
-Even remaining in saṃsāra for others’ sake,
-Why would compassionate people become weary?
-Through the power of the ordinary mind of awakening,
-They exhaust past wrongdoing
-And gather an ocean of merit;
+Even remaining in saṃsāra for others’ sake,<br>
+Why would compassionate people become weary?<br>
+Through the power of the ordinary mind of awakening,<br>
+They exhaust past wrongdoing<br>
+And gather an ocean of merit;<br>
 Thus they are said to surpass the śrāvakas.[^N-A-054]
 
 <!-- TGD-000702 -->
 
-དེ་བས་སྐྱོ་ངལ་ཀུན་སེལ་བའི
-བྱང་ཆུབ་སེམས་ཀྱི་རྟ་ཞོན་ནས། །
-བདེ་ནས་བདེ་བར་འགྲོ་བ་ལ། །
+དེ་བས་སྐྱོ་ངལ་ཀུན་སེལ་བའི<br>
+བྱང་ཆུབ་སེམས་ཀྱི་རྟ་ཞོན་ནས། །<br>
+བདེ་ནས་བདེ་བར་འགྲོ་བ་ལ། །<br>
 སེམས་ཤེས་སུ་ཞིག་སྒྱིད་ལུགས་འགྱུར་༑ །
 
-Mounting the horse of the ordinary mind of awakening,
-Which dispels every weariness,
-And traveling from happiness to happiness,
+Mounting the horse of the ordinary mind of awakening,<br>
+Which dispels every weariness,<br>
+And traveling from happiness to happiness,<br>
 What discerning person would lose heart?[^N-A-055][^N-A-054]
 
 <!-- TGD-000706 -->
@@ -1519,14 +1519,14 @@ Vajra statement. Some distinguish sūtra and mantra by a happy path, rapid attai
 
 <!-- TGD-000713 -->
 
-གང༌ཞིག་དཀྱིལ་འཁོར་མ་མཐོང་བར།
-རྣལ་འབྱོར་པ་ནི་དངོས་གྲུབ་འདོད།
-མཁའ་ལ་ཁུ་ཚུར་གྱིས་བརྡེག་དང་།
+གང༌ཞིག་དཀྱིལ་འཁོར་མ་མཐོང་བར།<br>
+རྣལ་འབྱོར་པ་ནི་དངོས་གྲུབ་འདོད།<br>
+མཁའ་ལ་ཁུ་ཚུར་གྱིས་བརྡེག་དང་།<br>
 སྨིག་རྒྱུའི་ཆུ་ནི་འཐུང་དང་མཚུངས།
 
-A yogin who desires accomplishment
-Without having seen the maṇḍala
-Is like someone striking space with a fist
+A yogin who desires accomplishment<br>
+Without having seen the maṇḍala<br>
+Is like someone striking space with a fist<br>
 Or drinking a mirage’s water.
 
 <!-- TGD-000717 -->
@@ -1551,26 +1551,26 @@ Supplement. Although the vehicle of characteristics is held to bring buddhahood 
 
 <!-- TGD-000727 -->
 
-འདི་ཡང་སྟོན་པ་ཉིད་ཀྱི་བཀའ།
-སེམས་བསྐྱེད་གཅིག་གིས་སངས་རྒྱས་པར། །
-འདོད་པས་ཕ་རོལ་ཕྱིན་པ་ལ། །
-བསླབ་པར་བྱ་ཞེས་གསུངས་པ་དང་། །
-ལོ་ནི་བཅུ་གཉིས་ནང་རོལ་དུ།
-ནོར་བུ་བཟང་པོས་ཀུན་བཟང་ཐོབ། །
-བྱང་ཆུབ་སེམས་དཔའ་རྟག་ཏུ་ངུ་། །
-ཚེ་འདིར་ས་བཅུ་ཕ་རོལ་ཕྱིན། །
-དེ་ཕྱིར་ཕར་ཕྱིན་ཐེག་པ་ཡང༌། །
+འདི་ཡང་སྟོན་པ་ཉིད་ཀྱི་བཀའ།<br>
+སེམས་བསྐྱེད་གཅིག་གིས་སངས་རྒྱས་པར། །<br>
+འདོད་པས་ཕ་རོལ་ཕྱིན་པ་ལ། །<br>
+བསླབ་པར་བྱ་ཞེས་གསུངས་པ་དང་། །<br>
+ལོ་ནི་བཅུ་གཉིས་ནང་རོལ་དུ།<br>
+ནོར་བུ་བཟང་པོས་ཀུན་བཟང་ཐོབ། །<br>
+བྱང་ཆུབ་སེམས་དཔའ་རྟག་ཏུ་ངུ་། །<br>
+ཚེ་འདིར་ས་བཅུ་ཕ་རོལ་ཕྱིན། །<br>
+དེ་ཕྱིར་ཕར་ཕྱིན་ཐེག་པ་ཡང༌། །<br>
 ཚེ་གཅིག་སངས་རྒྱས་བཞེད་པ་ལགས།
 
-This too is the Teacher’s own word:
-“Those wishing to become buddhas
-Through a single generation of the ordinary mind [of awakening]
-Should train in the perfections.”
-Within twelve years
-Norbu Zangpo attained Samantabhadra;
-The bodhisattva Sadāprarudita
-Passed beyond the ten levels in this very life.
-Therefore the perfection vehicle too
+This too is the Teacher’s own word:<br>
+“Those wishing to become buddhas<br>
+Through a single generation of the ordinary mind [of awakening]<br>
+Should train in the perfections.”<br>
+Within twelve years<br>
+Norbu Zangpo attained Samantabhadra;<br>
+The bodhisattva Sadāprarudita<br>
+Passed beyond the ten levels in this very life.<br>
+Therefore the perfection vehicle too<br>
 Accepts buddhahood in one life.
 
 <!-- TGD-000737 -->
@@ -1616,10 +1616,10 @@ Vajra statement. Some say that buddhahood is attained through either mantra or t
 
 <!-- TGD-000763 -->
 
-གསང་སྔགས་ཕ་རོལ་ཕྱིན་པ་ལ། །
+གསང་སྔགས་ཕ་རོལ་ཕྱིན་པ་ལ། །<br>
 བརྟེན་ནས་བྱང་ཆུབ་བསྒྲུབ་པར་གསུངས། །
 
-Relying on secret mantra and the perfections,
+Relying on secret mantra and the perfections,<br>
 Awakening is said to be accomplished.
 
 <!-- TGD-000765 -->
@@ -1790,10 +1790,10 @@ Vajra statement. Some say the thirty-seven factors of awakening belong only to t
 
 <!-- TGD-000856 -->
 
-བྱང་ཆུབ་ཕྱོགས་ནི་སུམ་ཅུ་བདུན། །
+བྱང་ཆུབ་ཕྱོགས་ནི་སུམ་ཅུ་བདུན། །<br>
 ཆོས་ཀྱི་རྣམ་པར་དག་པ་ཡིན།
 
-The thirty-seven factors of awakening
+The thirty-seven factors of awakening<br>
 Are the complete purity of phenomena.
 
 <!-- TGD-000858 -->
@@ -1838,12 +1838,12 @@ Vajra statement. Some say the four immeasurables, or four Brahmā abodes, are th
 
 <!-- TGD-000883 -->
 
-གང་གི་དོན་སྟོབས་བཅུ་པོ་ལ། །
-སེམས་ཅན་རྣམས་ལ་བསྒོམ་པ་ཡིན། །
+གང་གི་དོན་སྟོབས་བཅུ་པོ་ལ། །<br>
+སེམས་ཅན་རྣམས་ལ་བསྒོམ་པ་ཡིན། །<br>
 བྱམས་པའི་སྟོབས་ཀྱི་རྒྱལ་གྱུར་པ།
 
-For whose sake the ten powers
-Are cultivated toward beings—
+For whose sake the ten powers<br>
+Are cultivated toward beings—<br>
 Victorious through the power of loving-kindness …[^N-A-065]
 
 <!-- TGD-000886 -->
@@ -1855,12 +1855,12 @@ Thus the Buddha’s essence is those four themselves. Vajra statement. Others ho
 
 <!-- TGD-000888 -->
 
-རིགས་ནི་ངེས་དང་མ་ངེས་དང༌། །
-རྐྱེན་རྣམས་ཀྱིས་ནི་མི་འཕྲོག་དང།
+རིགས་ནི་ངེས་དང་མ་ངེས་དང༌། །<br>
+རྐྱེན་རྣམས་ཀྱིས་ནི་མི་འཕྲོག་དང།<br>
 འཕྲོག་མ་ཉིད་དེ་སོཊ།
 
-Lineage is definite or indefinite,
-Not taken away by conditions
+Lineage is definite or indefinite,<br>
+Not taken away by conditions<br>
 Or taken away …
 
 <!-- TGD-000891 -->
@@ -1928,10 +1928,10 @@ And so forth. The Ornament of Manifest Realization says:
 
 <!-- TGD-000909 -->
 
-ཆོས་ཀྱི་དབྱིབས་ལ་དབྱེར་མེད་ཕྱིར། །
+ཆོས་ཀྱི་དབྱིབས་ལ་དབྱེར་མེད་ཕྱིར། །<br>
 རིགས་ནི་ཐ་དད་རུང་མ་ཡིན།
 
-Because there is no division in the [basic space] of phenomena,
+Because there is no division in the [basic space] of phenomena,<br>
 Distinct lineages are not possible.[^N-A-066]
 
 <!-- TGD-000911 -->
@@ -1950,16 +1950,16 @@ Thus the lineage is one. From their first generation of the ordinary mind [of aw
 
 <!-- TGD-000920 -->
 
-འདྲེན་པ་སེམས་ཅན་རྣམས་ལ་མཉམ་པའི་ཐུགས། །
-ང་ལ་ཐ་དད་འདུ་ཤེས་ནམ་ཡང་མེད། །
-ཐེག་པ་དམན་པ་གཞན་ལ་ངེས་བསྟན་ན། །
-དེ་ལ་ང་ནི་སེར་སྣའི་སྐྱོན་དུ་འགྱུར། །
+འདྲེན་པ་སེམས་ཅན་རྣམས་ལ་མཉམ་པའི་ཐུགས། །<br>
+ང་ལ་ཐ་དད་འདུ་ཤེས་ནམ་ཡང་མེད། །<br>
+ཐེག་པ་དམན་པ་གཞན་ལ་ངེས་བསྟན་ན། །<br>
+དེ་ལ་ང་ནི་སེར་སྣའི་སྐྱོན་དུ་འགྱུར། །<br>
 ང་ཡི་མྱ་ངན་འདས་གཅིག་ཐེག་པ་གཅིག །
 
-The guide’s awakened mind is equal toward beings.
-“I never have perceptions of difference.
-If I definitively taught others a lesser vehicle,
-I would incur the fault of miserliness toward them.
+The guide’s awakened mind is equal toward beings.<br>
+“I never have perceptions of difference.<br>
+If I definitively taught others a lesser vehicle,<br>
+I would incur the fault of miserliness toward them.<br>
 Mine is one nirvāṇa, one vehicle.”
 
 <!-- TGD-000925 -->
@@ -1975,14 +1975,14 @@ And the White Lotus says, “Śāriputra, the buddhas’ vehicle is one: omnisci
 
 <!-- TGD-000931 -->
 
-ཐེག་པ་ཆེ་དང་ཐེག་པ་དམན་པ་ལས།
-རང་བཞིན་སྣ་ཚོགས་ཆོས་རྣམས་གང་བསྟན་པ། །
-དེ་དག་ཉིད་ནི་ཚུལ་གཅིག་ཡང་བསྟན་ཏེ།
+ཐེག་པ་ཆེ་དང་ཐེག་པ་དམན་པ་ལས།<br>
+རང་བཞིན་སྣ་ཚོགས་ཆོས་རྣམས་གང་བསྟན་པ། །<br>
+དེ་དག་ཉིད་ནི་ཚུལ་གཅིག་ཡང་བསྟན་ཏེ།<br>
 དེ་ཕྱིར་ཐེག་པ་སྣ་ཚོགས་ང་མི་སྨྲ།
 
-Whatever phenomena of various intrinsic natures
-Are taught in the great and lesser vehicles,
-Those themselves are also taught as a single way.
+Whatever phenomena of various intrinsic natures<br>
+Are taught in the great and lesser vehicles,<br>
+Those themselves are also taught as a single way.<br>
 Therefore I do not declare various vehicles.
 
 <!-- TGD-000935 -->
@@ -2033,14 +2033,14 @@ Supplement. Explained in detail: because they possess the cause, śrāvakas and 
 
 <!-- TGD-000961 -->
 
-དཔེར་ན་མེ་སྟག་ཆུང་ངུ་འཕེལ་གྱུར་ན། །
-མེ་ལྕེ་ཆེ་ཆེར་འབར་ཞིང་མཆེད་པ་ལྟར། །
-ཉན་ཐོས་ཡེ་ཤེས་མེ་ཡི་མེ་སྟག་ཀྱང་། །
+དཔེར་ན་མེ་སྟག་ཆུང་ངུ་འཕེལ་གྱུར་ན། །<br>
+མེ་ལྕེ་ཆེ་ཆེར་འབར་ཞིང་མཆེད་པ་ལྟར། །<br>
+ཉན་ཐོས་ཡེ་ཤེས་མེ་ཡི་མེ་སྟག་ཀྱང་། །<br>
 དེ་ཉིད་སངས་རྒྱས་ཡོན་ཏན་མེ་ལྕེ་སྐྱེ།
 
-Just as a little spark grows,
-Blazing and spreading into a great flame,
-So too the fire-spark of a śrāvaka’s primordial knowing
+Just as a little spark grows,<br>
+Blazing and spreading into a great flame,<br>
+So too the fire-spark of a śrāvaka’s primordial knowing<br>
 Gives rise to the flame of a buddha’s qualities.
 
 <!-- TGD-000965 -->
@@ -2070,14 +2070,14 @@ Vajra statement. Others say that the four great elements and the eighteen elemen
 
 <!-- TGD-000975 -->
 
-འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་གསུམ། །
-དེས་བསྐྱེད་ལས་ནི་མི་དགེ་བ།
-མ་ཆགས་མི་སྡང་གཏི་མུག་མེད། །
+འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་གསུམ། །<br>
+དེས་བསྐྱེད་ལས་ནི་མི་དགེ་བ།<br>
+མ་ཆགས་མི་སྡང་གཏི་མུག་མེད། །<br>
 དེས་བསྐྱེད་ལས་ནི་དགེ་བའོ། །
 
-Desire, hatred, and stupidity—
-Karma generated by these is nonvirtuous.
-Nonattachment, nonhatred, and absence of stupidity—
+Desire, hatred, and stupidity—<br>
+Karma generated by these is nonvirtuous.<br>
+Nonattachment, nonhatred, and absence of stupidity—<br>
 Karma generated by these is virtuous.
 
 <!-- TGD-000979 -->
@@ -2105,10 +2105,10 @@ Vajra statement. Lord Taktsa says that conceptual thoughts arise simultaneously,
 
 <!-- TGD-000992 -->
 
-དགེ་བའི་སེམས་ཀྱང་སྐད་ཅིག་མ། །
+དགེ་བའི་སེམས་ཀྱང་སྐད་ཅིག་མ། །<br>
 མི་དགེའི་སེམས་ཀྱང་སྐད་ཅིག་མ།
 
-Virtuous ordinary mind too is momentary;
+Virtuous ordinary mind too is momentary;<br>
 Nonvirtuous ordinary mind too is momentary.
 
 <!-- TGD-000994 -->
@@ -2281,14 +2281,14 @@ Here appearances differ because ordinary minds differ. Ultimately, neither envir
 
 <!-- TGD-001092 -->
 
-ཡུལ་དང་དབང་པོའི་བྱེ་བྲག་རྣམས།
-རྣམ་པ་ཐ་དད་མ་མཆིས་ཏེ།
-གཟུགས་སོགས་སྣང་བར་གྱུར་པ་ནི། །
+ཡུལ་དང་དབང་པོའི་བྱེ་བྲག་རྣམས།<br>
+རྣམ་པ་ཐ་དད་མ་མཆིས་ཏེ།<br>
+གཟུགས་སོགས་སྣང་བར་གྱུར་པ་ནི། །<br>
 རང་སེམས་ཁོ་ནར་སྣང་བའོ། །
 
-The distinctions of objects and faculties
-Have no separate aspects.
-What appears as form and so forth
+The distinctions of objects and faculties<br>
+Have no separate aspects.<br>
+What appears as form and so forth<br>
 Appears solely as one’s own ordinary mind.
 
 <!-- TGD-001096 -->
@@ -2374,10 +2374,10 @@ Vajra statement. In addition to the ten virtues, recognizing one’s father, mot
 
 <!-- TGD-001142 -->
 
-མི་ཆོས་མཁས་པ་ལྷ་ཆོས་ཡིན། །
+མི་ཆོས་མཁས་པ་ལྷ་ཆོས་ཡིན། །<br>
 མཐུན་འཇུག་མཁས་པ་ཟོལ་ཟོག་ཡིན་
 
-“Expertise in human principles is spiritual Dharma;
+“Expertise in human principles is spiritual Dharma;<br>
 Skill in conforming is hypocrisy.”[^N-A-086]
 
 <!-- TGD-001144 -->
@@ -2394,10 +2394,10 @@ They claim this was taught. Here, in all three sets of vows of spiritual Dharma,
 
 <!-- TGD-001151 -->
 
-མི་ཡི་ཆོས་ལུགས་ལེགས་སྤྱད་ནས།
+མི་ཡི་ཆོས་ལུགས་ལེགས་སྤྱད་ནས།<br>
 ལྷ་ཡུལ་སོགས་གསུངས་པས་
 
-“Having practiced human principles well,
+“Having practiced human principles well,<br>
 [One reaches] the realm of the gods …,” and so forth.[^N-A-087]
 
 <!-- TGD-001153 -->
@@ -2535,10 +2535,10 @@ Others say that the Vinaya basket is called “individual liberation” because 
 
 <!-- TGD-001226 -->
 
-ཚུལ་ཁྲིམས་ཀྱིས་ནི་ཞི་བ་འདོད་རྣམས་འཕགས་པར་འགྱུར། །
+ཚུལ་ཁྲིམས་ཀྱིས་ནི་ཞི་བ་འདོད་རྣམས་འཕགས་པར་འགྱུར། །<br>
 སྟོབས་བཅུའི་སྤྱོད་ཡུལ་གནས་ཀྱང་ཚུལ་ཁྲིམས་ཉམས་པ་མེད།
 
-Through ethical discipline, those who desire peace become noble.
+Through ethical discipline, those who desire peace become noble.<br>
 Even abiding in the sphere of the ten powers, they do not impair ethical discipline.
 
 <!-- TGD-001228 -->
@@ -2551,10 +2551,10 @@ Thus, from the qualities of higher rebirth initially, through the awakening of �
 
 <!-- TGD-001231 -->
 
-ཁྲིམས་ནི་རྒྱུ་དང་མི་རྒྱུའི་ས་བཞིན་དུ།
+ཁྲིམས་ནི་རྒྱུ་དང་མི་རྒྱུའི་ས་བཞིན་དུ།<br>
 ཡོན་ཏན་ཀུན་གྱི་གཞི་རྟེན་ལགས་པར་གསུངས།
 
-Like the earth for the moving and unmoving,
+Like the earth for the moving and unmoving,<br>
 Ethical discipline is taught to be the basis and support of all qualities.
 
 <!-- TGD-001233 -->
@@ -2592,14 +2592,14 @@ If merely mentioning individual liberation made something Lesser Vehicle, the sc
 
 <!-- TGD-001251 -->
 
-ཇི་ལྟར་འདི་ན་ཤིང་རྩ་གཙོ་བོ་སྟེ། །
-རྣམ་པར་འཕེལ་དང་ཀུན་འཛིན་གཉིས་ཀྱི་གཞི། །
-དེ་བཞིན་ཡོན་ཏན་ཚོགས་རྣམས་ཀུན་གྱི་ཡང་། །
+ཇི་ལྟར་འདི་ན་ཤིང་རྩ་གཙོ་བོ་སྟེ། །<br>
+རྣམ་པར་འཕེལ་དང་ཀུན་འཛིན་གཉིས་ཀྱི་གཞི། །<br>
+དེ་བཞིན་ཡོན་ཏན་ཚོགས་རྣམས་ཀུན་གྱི་ཡང་། །<br>
 རྒྱུ་དང་རྩ་བ་འདུལ་བ་ཡིན་པར་གསུངས།
 
-Just as a tree’s roots are foremost here,
-The basis both for growth and for sustaining the whole,
-So too, for every collection of qualities,
+Just as a tree’s roots are foremost here,<br>
+The basis both for growth and for sustaining the whole,<br>
+So too, for every collection of qualities,<br>
 Vinaya is taught to be the cause and root.
 
 <!-- TGD-001255 -->
@@ -2615,12 +2615,12 @@ Thus it is taught. Vajra statement. Although [Vinaya] is held to be Lesser Vehic
 
 <!-- TGD-001261 -->
 
-གཏོང་བ་ལས་བྱུང་བསོད་ནམས་རྣམས་ལས་བྱུང་གང་ལ།།
-དེས་ནི་འཇིག་རྟེན་སངས་རྒྱས་ཉིད་ཐོབ་ཅིང༌། །
+གཏོང་བ་ལས་བྱུང་བསོད་ནམས་རྣམས་ལས་བྱུང་གང་ལ།།<br>
+དེས་ནི་འཇིག་རྟེན་སངས་རྒྱས་ཉིད་ཐོབ་ཅིང༌། །<br>
 འདོད་པའི་རིམས་ནད་ཀུན་ལས་ཐར་བར་བྱ།
 
-“Through whatever merit has arisen from giving,
-May [I] attain buddhahood in the world
+“Through whatever merit has arisen from giving,<br>
+May [I] attain buddhahood in the world<br>
 And free [beings] from every fever of desire.”[^N-A-097]
 
 <!-- TGD-001264 -->
@@ -2675,14 +2675,14 @@ The trainings are prescribed through the vision of that primordial knowing. Prac
 
 <!-- TGD-001294 -->
 
-ང་ནི་མྱ་ངན་འདས་གྱུར་ན། །
-འདི་ནི་ཁྱོད་ཀྱི་སྟོན་པ་ཞེས། །
-རང་བྱུང་ཉིད་ཀྱིས་གུས་བཅས་པར། །
+ང་ནི་མྱ་ངན་འདས་གྱུར་ན། །<br>
+འདི་ནི་ཁྱོད་ཀྱི་སྟོན་པ་ཞེས། །<br>
+རང་བྱུང་ཉིད་ཀྱིས་གུས་བཅས་པར། །<br>
 ནན་ཏན་དགེ་སློང་ཚོགས་མདུན་བསྟོད།
 
-“When I have passed into nirvana,
-This will be your teacher.”
-With respect, the self-arisen one himself
+“When I have passed into nirvana,<br>
+This will be your teacher.”<br>
+With respect, the self-arisen one himself<br>
 Praised it earnestly before the assembly of monks.
 
 <!-- TGD-001298 -->
@@ -2772,12 +2772,12 @@ At the actual [ordination], oneself, the preceptor, instructors, and so forth in
 
 <!-- TGD-001343 -->
 
-དེ་གསུམ་རྣམ་རིག་བྱེད་མིན་དང༌།
-འདུས་མ་བྱས་དང་བྱས་རྣམས་དང༌།
+དེ་གསུམ་རྣམ་རིག་བྱེད་མིན་དང༌།<br>
+འདུས་མ་བྱས་དང་བྱས་རྣམས་དང༌།<br>
 ཆོས་ཀྱི་སྐྱེ་མཆེད་ཁམས་ཞེས་བྱ།
 
-Those three, non-informative [form],
-The unconditioned and the conditioned,
+Those three, non-informative [form],<br>
+The unconditioned and the conditioned,<br>
 Are called the phenomena sense-field and element.[^N-A-105]
 
 <!-- TGD-001346 -->
@@ -2805,14 +2805,14 @@ Vajra statement. [An action] is complete when it has four factors: basis, intent
 
 <!-- TGD-001359 -->
 
-ས་བོན་ཚ་བ་རྣམས་ལ་ནི།
-འབྲས་བུ་ཚ་བ་སྐྱེ་བར་འགྱུར། །
-ས་བོན་མངར་བ་རྣམས་ལ་ནི། །
+ས་བོན་ཚ་བ་རྣམས་ལ་ནི།<br>
+འབྲས་བུ་ཚ་བ་སྐྱེ་བར་འགྱུར། །<br>
+ས་བོན་མངར་བ་རྣམས་ལ་ནི། །<br>
 འབྲས་བུ་མངར་བ་སྐྱེ་བར་འགྱུར།
 
-From pungent seeds
-Pungent results will arise;
-From sweet seeds
+From pungent seeds<br>
+Pungent results will arise;<br>
+From sweet seeds<br>
 Sweet results will arise.
 
 <!-- TGD-001363 -->
@@ -2851,14 +2851,14 @@ Vajra statement. They say that the vows of individual liberation principally inv
 
 <!-- TGD-001382 -->
 
-སྡིག་པ་ཅི་ཡང་མི་བྱ་ཞིང།
-དགེ་བx
-རང་གིx
+སྡིག་པ་ཅི་ཡང་མི་བྱ་ཞིང།<br>
+དགེ་བx<br>
+རང་གིx<br>
 འདི་ནི་ x
 
-“Do not do any evil.
-Virtue—[x: source abbreviation unresolved].
-One’s own—[x: source abbreviation unresolved].
+“Do not do any evil.<br>
+Virtue—[x: source abbreviation unresolved].<br>
+One’s own—[x: source abbreviation unresolved].<br>
 This is—[x: source abbreviation unresolved].”[^N-A-113]
 
 <!-- TGD-001386 -->
@@ -2869,14 +2869,14 @@ And:
 
 <!-- TGD-001387 -->
 
-ལུས་ཀྱི་སྡོམ་པ་ལེགས་པ་ན།
-ངག་གི x
-ཡིད་ཀྱིx
+ལུས་ཀྱི་སྡོམ་པ་ལེགས་པ་ན།<br>
+ངག་གི x<br>
+ཡིད་ཀྱིx<br>
 ཐམས་ཅད་དུ x
 
-“When restraint of the body is good,
-Of speech—[x: source abbreviation unresolved].
-Of the mental faculty—[x: source abbreviation unresolved].
+“When restraint of the body is good,<br>
+Of speech—[x: source abbreviation unresolved].<br>
+Of the mental faculty—[x: source abbreviation unresolved].<br>
 In every respect—[x: source abbreviation unresolved].”[^N-A-114]
 
 <!-- TGD-001391 -->
@@ -2909,14 +2909,14 @@ Vajra statement. The Treasury says:
 
 <!-- TGD-001404 -->
 
-བསླབ་པ་ཕུལ་དང་ཤི་འཕོས་དང༌། །
-རྩ་བ་ཆད་དང་མཚན་འདས་དང༌།
-མཚན་གཉིས་གཅིག་ཆར་བྱུང་བ་ན།
+བསླབ་པ་ཕུལ་དང་ཤི་འཕོས་དང༌། །<br>
+རྩ་བ་ཆད་དང་མཚན་འདས་དང༌།<br>
+མཚན་གཉིས་གཅིག་ཆར་བྱུང་བ་ན།<br>
 སོ་སོར་ཐར་པའི་སྡོམ་པ་གཏོད།
 
-“When training is relinquished, when one dies,
-When the root is severed, when the allotted period ends,
-Or when both sexual characteristics arise at once,
+“When training is relinquished, when one dies,<br>
+When the root is severed, when the allotted period ends,<br>
+Or when both sexual characteristics arise at once,<br>
 The vows of individual liberation are relinquished.”[^N-A-117]
 
 <!-- TGD-001408 -->
@@ -2952,14 +2952,14 @@ Those of superior faculties do not relinquish [their vows] at death. By restrain
 
 <!-- TGD-001424 -->
 
-དགེ་དང་མི་དགེ་རྣམ་སྨིན་གོམས་བྱས་ན།
-མི་རྣམས་ལ་ནི་འདྲེས་པ་ཉིད་དུ་འགྱུར།
-དེ་ལྟ་བུ་དག་ཆེད་དུ་མ་བསྒྲུབ་ཀྱང་།
+དགེ་དང་མི་དགེ་རྣམ་སྨིན་གོམས་བྱས་ན།<br>
+མི་རྣམས་ལ་ནི་འདྲེས་པ་ཉིད་དུ་འགྱུར།<br>
+དེ་ལྟ་བུ་དག་ཆེད་དུ་མ་བསྒྲུབ་ཀྱང་།<br>
 སྲིད་པ་གཞན་ལ་རྨི་ལམ་བཞིན་དུ་སྤྱོད།
 
-When virtue, nonvirtue, and their maturation become habitual,
-They become interwoven with people.
-Even without deliberately bringing such things about,
+When virtue, nonvirtue, and their maturation become habitual,<br>
+They become interwoven with people.<br>
+Even without deliberately bringing such things about,<br>
 They act in another existence as in a dream.
 
 <!-- TGD-001428 -->
@@ -4533,14 +4533,14 @@ Of the seven classes of individual liberation,
 
 <!-- TGD-001712 -->
 
-ཇི་ལྟར་འདི་ན་ཤིང་རྩ་གཙོ་བོ་སྟེ།
-རྣམ་པར་འཕེལ་྾
-དེ་བཞིན་དམ་ཆོས×
+ཇི་ལྟར་འདི་ན་ཤིང་རྩ་གཙོ་བོ་སྟེ།<br>
+རྣམ་པར་འཕེལ་྾<br>
+དེ་བཞིན་དམ་ཆོས×<br>
 གཞི་དང་རྩ་བ✖
 
-Just as here a tree’s root is foremost,
-Thoroughly increasing …
-Likewise, the holy Dharma ×
+Just as here a tree’s root is foremost,<br>
+Thoroughly increasing …<br>
+Likewise, the holy Dharma ×<br>
 The Ground and root ✖[^N-B-003]
 
 <!-- TGD-001716 -->
@@ -4556,10 +4556,10 @@ So it is said. If individual liberation were not required as a support, it would
 
 <!-- TGD-001722 -->
 
-སོ་ཐར་བྱང་ཆུང་སེམས་ཞེས་དང་།
+སོ་ཐར་བྱང་ཆུང་སེམས་ཞེས་དང་།<br>
 ཚུལ་ཁྲིམས་ཀྱི་ནི་བསླབ་པ་དང་།
 
-“Individual liberation and the ordinary mind of [awakening] …”[^N-B-005]
+“Individual liberation and the ordinary mind of [awakening] …”[^N-B-005]<br>
 And: “The training in ethical discipline …”
 
 <!-- TGD-001724 -->
@@ -4579,10 +4579,10 @@ Vajra statement. Others maintain that the defining characteristic of the ordinar
 
 <!-- TGD-001729 -->
 
-སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར།
+སེམས་བསྐྱེད་པ་ནི་གཞན་དོན་ཕྱིར།<br>
 ཡང་དག་རྫོགས་པའི་བྱང་ཆུབ་འདོད།
 
-Arousing the ordinary mind [of awakening] is desiring
+Arousing the ordinary mind [of awakening] is desiring<br>
 Complete, perfect awakening for the sake of others.
 
 <!-- TGD-001731 -->
@@ -4612,22 +4612,22 @@ In summary there are three: aspiration, engagement, and the ultimate on the firs
 
 <!-- TGD-001746 -->
 
-རྙེད་དང་བཀུར་སྟིར་ཆགས་པ་ཡིས། །
-བདག་བསྟོད་གཞན་ལ་སྨོད་པ་དང༌། །
-སྡུག་བསྔལ་མེད་པར་གྱུར་པ་ལ། །
-སེར་སྣས་ཆོས་ནོར་མི་སྟེར་དང་། །
-གཞན་གྱིས་བཤད་ཀྱང་མི་ཉན་པར། །
-ཁྲོས་ནས་གཞན་ལ་འཚོག་པ་དང་། །
-ཐེག་པ་ཆེན་པོ་སྤོང་བྱེད་ཅིང་། །
+རྙེད་དང་བཀུར་སྟིར་ཆགས་པ་ཡིས། །<br>
+བདག་བསྟོད་གཞན་ལ་སྨོད་པ་དང༌། །<br>
+སྡུག་བསྔལ་མེད་པར་གྱུར་པ་ལ། །<br>
+སེར་སྣས་ཆོས་ནོར་མི་སྟེར་དང་། །<br>
+གཞན་གྱིས་བཤད་ཀྱང་མི་ཉན་པར། །<br>
+ཁྲོས་ནས་གཞན་ལ་འཚོག་པ་དང་། །<br>
+ཐེག་པ་ཆེན་པོ་སྤོང་བྱེད་ཅིང་། །<br>
 དམ་ཆོས་འདྲར་སྣང་སྟོན་པའོ། །
 
-Through attachment to gain and honor,
-Praising oneself and disparaging others;
-To one who has become free of suffering,[^N-B-007]
-Withholding Dharma and wealth through miserliness;
-Not listening even when another explains,
-And striking another in anger;
-Rejecting the Greater Vehicle,
+Through attachment to gain and honor,<br>
+Praising oneself and disparaging others;<br>
+To one who has become free of suffering,[^N-B-007]<br>
+Withholding Dharma and wealth through miserliness;<br>
+Not listening even when another explains,<br>
+And striking another in anger;<br>
+Rejecting the Greater Vehicle,<br>
 And teaching what appears to resemble the holy Dharma.
 
 <!-- TGD-001754 -->
@@ -4692,14 +4692,14 @@ Examples include the youth Chukye, King Paljin, and bodhisattvas who went into a
 
 <!-- TGD-001784 -->
 
-དེ་ཡི་ཆོས་ཀུན་ཅེས་མ་ལྟ་བུ་དང༌།
-སྐྱེ་བ་སྐྱེད་མོ྾
-འབྱོར་བའི་དུས་དང×
+དེ་ཡི་ཆོས་ཀུན་ཅེས་མ་ལྟ་བུ་དང༌།<br>
+སྐྱེ་བ་སྐྱེད་མོ྾<br>
+འབྱོར་བའི་དུས་དང×<br>
 ཉོན་མོངས྾
 
-All his phenomena are like an illusion …[^N-B-010]
-Birth, a pleasure garden …
-Times of prosperity and ×
+All his phenomena are like an illusion …[^N-B-010]<br>
+Birth, a pleasure garden …<br>
+Times of prosperity and ×<br>
 Afflictions …
 
 <!-- TGD-001788 -->
@@ -4770,14 +4770,14 @@ The Continuum of Dakini Vows says:
 
 <!-- TGD-001824 -->
 
-མི་ཤེས་པ་དང་བག་མེད་པ།
-མི་ནུས་པ་དང་ཉོན་མོངས་པ།
-བརྗེད་ངས་དྲན་པ་མི་གསལ་བ།
+མི་ཤེས་པ་དང་བག་མེད་པ།<br>
+མི་ནུས་པ་དང་ཉོན་མོངས་པ།<br>
+བརྗེད་ངས་དྲན་པ་མི་གསལ་བ།<br>
 འདི་དྲུག་དམ་ཚིག་ཉམས་པའི་རྒྱུ།
 
-Not knowing and heedlessness,
-Inability and affliction,
-Forgetfulness and unclear mindfulness:
+Not knowing and heedlessness,<br>
+Inability and affliction,<br>
+Forgetfulness and unclear mindfulness:<br>
 These six cause samaya to deteriorate.
 
 <!-- TGD-001828 -->
@@ -4806,10 +4806,10 @@ Here there is no permission on the grounds that it does not become a fault. Perm
 
 <!-- TGD-001837 -->
 
-དབང་མེད་ལས་ཀྱི་རྣམ་སྨིན་འབྱུང་བ་ལ།
+དབང་མེད་ལས་ཀྱི་རྣམ་སྨིན་འབྱུང་བ་ལ།<br>
 སངས་རྒྱས་བཅོམ་ལྡན་འདས་ནི་མངའ་མི་མཛད།
 
-Over the involuntary arising of karmic maturation,
+Over the involuntary arising of karmic maturation,<br>
 The blessed Buddha does not exercise dominion.
 
 <!-- TGD-001839 -->
@@ -4883,14 +4883,14 @@ Vajra statement. It is taught that through great compassion one makes aspiration
 
 <!-- TGD-001873 -->
 
-ཆོས་རྣམས་ཐམས་ཅད་རྐྱེན་བཞིན་དུ། །
-འདུན་པའི་རྩེ་ལ་རབ་ཏུ་གནས།
-གང་གིས་སྨོན་ལམ་ཅི་བཏབ་པ། །
+ཆོས་རྣམས་ཐམས་ཅད་རྐྱེན་བཞིན་དུ། །<br>
+འདུན་པའི་རྩེ་ལ་རབ་ཏུ་གནས།<br>
+གང་གིས་སྨོན་ལམ་ཅི་བཏབ་པ། །<br>
 དེ་འདྲའི་འབྲས་བུ་ཐོབ་པར་འགྱུར།
 
-All phenomena, following conditions,
-Abide at the tip of aspiration.
-Whatever aspiration anyone makes,
+All phenomena, following conditions,<br>
+Abide at the tip of aspiration.<br>
+Whatever aspiration anyone makes,<br>
 A corresponding result will be attained.
 
 <!-- TGD-001877 -->
@@ -4916,10 +4916,10 @@ Therefore, on accumulation and preparation one should arouse a vast intention an
 
 <!-- TGD-001888 -->
 
-དམ་པའི་ཆོས་ནི་སྤྱོད་པའི་ལུས། །
+དམ་པའི་ཆོས་ནི་སྤྱོད་པའི་ལུས། །<br>
 ཕྲན་ཚེགས་ཆེད་དུ་གནོད་མི་བྱ།
 
-Do not harm the body that practises the holy Dharma
+Do not harm the body that practises the holy Dharma<br>
 For the sake of something trifling.
 
 <!-- TGD-001890 -->
@@ -4983,12 +4983,12 @@ Vajra statement. On the basis of “whoever harms [a bodhisattva] is connected w
 
 <!-- TGD-001919 -->
 
-གཅིག་ལ་གཅིག་གིས་གནོད་སེམས་བྱས་པ་ན།
-སྦྱིན་པས་མི་སྐྱོབ་ཚུལ་ཁྲིམས་མི་སྐྱོབ་སྟེ།
+གཅིག་ལ་གཅིག་གིས་གནོད་སེམས་བྱས་པ་ན།<br>
+སྦྱིན་པས་མི་སྐྱོབ་ཚུལ་ཁྲིམས་མི་སྐྱོབ་སྟེ།<br>
 བསམ་གཏན་མི་སྐྱོབ་སངས་རྒྱས་མཆོད་པས་མིན།
 
-When one harbors an ordinary mind of harm toward another,
-Giving does not protect, ethical discipline does not protect,
+When one harbors an ordinary mind of harm toward another,<br>
+Giving does not protect, ethical discipline does not protect,<br>
 Meditative stability does not protect, nor do offerings to buddhas.
 
 <!-- TGD-001922 -->
@@ -5084,12 +5084,12 @@ Here there is one thing to abandon, divided into coarse and subtle, or great, mi
 
 <!-- TGD-001968 -->
 
-གཏི་མུག་འབྱུང་བ་འདོད་དང་ཁྲོ། །
-དེ་དག་འགྲོ་བའི་དགྲ་འདྲ་སྟེ། །
+གཏི་མུག་འབྱུང་བ་འདོད་དང་ཁྲོ། །<br>
+དེ་དག་འགྲོ་བའི་དགྲ་འདྲ་སྟེ། །<br>
 དེ་དག་མ་ལུས་ངས་འདིར་བཤིག། །
 
-Stupidity arising, desire, and anger—
-These are like enemies of beings.
+Stupidity arising, desire, and anger—<br>
+These are like enemies of beings.<br>
 I have destroyed them here without remainder.
 
 <!-- TGD-001971 -->
@@ -5101,14 +5101,14 @@ And the Cloud of Jewels says:
 
 <!-- TGD-001973 -->
 
-བྱང་ཆུང་སྙིང་པོར་བཞུགས་པ་ན། །
-འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དང་། །
-དྲི་མ་གཞན་སྤོང་རྣམ་མང་པོ། །
+བྱང་ཆུང་སྙིང་པོར་བཞུགས་པ་ན། །<br>
+འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དང་། །<br>
+དྲི་མ་གཞན་སྤོང་རྣམ་མང་པོ། །<br>
 ཁྱོད་ཀྱི་ཡེ་ཤེས་མེ་ཡིས་བསྲེག །
 
-When you abided at awakening’s heart,[^N-B-026]
-Desire, hatred, stupidity,
-And the many other stains to abandon
+When you abided at awakening’s heart,[^N-B-026]<br>
+Desire, hatred, stupidity,<br>
+And the many other stains to abandon<br>
 Were burned by the fire of your primordial knowing.
 
 <!-- TGD-001977 -->
@@ -5147,12 +5147,12 @@ And so forth. The Root Verses on Discerning Knowing say, “Having been embraced
 
 <!-- TGD-001991 -->
 
-ཇི་ལྟར་འཛིན་པ་དེ་ལྟར་ཀུན་ནས་ཉོན་མོངས་བསྟན།
-བདག་དང་བདག་གིར་མི་དམིགས་
+ཇི་ལྟར་འཛིན་པ་དེ་ལྟར་ཀུན་ནས་ཉོན་མོངས་བསྟན།<br>
+བདག་དང་བདག་གིར་མི་དམིགས་<br>
 རྣམ་པར་བྱང་བར་གསུངས་ཞེས་དང༌།
 
-However one apprehends, that is taught as thorough affliction;
-Not taking self and mine as objects of focus
+However one apprehends, that is taught as thorough affliction;<br>
+Not taking self and mine as objects of focus<br>
 Is called complete purification.
 
 <!-- TGD-001994 -->
@@ -5190,14 +5190,14 @@ Here hearers too see one aspect of the natural state. Without the discerning kno
 
 <!-- TGD-002012 -->
 
-ཐེག་ཆེན་ལ་ནི་སྐྱེ་མེད་བསྟན། །
-གཞན་གྱི་ཟད་པ་སྟོང་པ་ཉིད། །
-ཟད་དང་མི་སྐྱེ་དོན་དུ་ནི། །
+ཐེག་ཆེན་ལ་ནི་སྐྱེ་མེད་བསྟན། །<br>
+གཞན་གྱི་ཟད་པ་སྟོང་པ་ཉིད། །<br>
+ཟད་དང་མི་སྐྱེ་དོན་དུ་ནི། །<br>
 གཅིག་པ་དེ་ཕྱིར་བཟོད་པར་གྱིས།
 
-In the Greater Vehicle, non-arising is taught;
-For the others, exhaustion is emptiness.
-Since exhaustion and non-arising
+In the Greater Vehicle, non-arising is taught;<br>
+For the others, exhaustion is emptiness.<br>
+Since exhaustion and non-arising<br>
 Are one in meaning, accept this.
 
 <!-- TGD-002016 -->
@@ -5227,14 +5227,14 @@ Vajra statement. Others say that of the Greater and Lesser Vehicles the Lesser i
 
 <!-- TGD-002026 -->
 
-དམྱལ་བར་འགྲོ་བ་སངས་རྒྱས་ལ། །
-གཏན་གྱི་གེགས་བྱེད་མ་ཡིན་ཏེ། །
-ཉན་ཐོས་དང་ནི་རང་སངས་རྒྱས། །
+དམྱལ་བར་འགྲོ་བ་སངས་རྒྱས་ལ། །<br>
+གཏན་གྱི་གེགས་བྱེད་མ་ཡིན་ཏེ། །<br>
+ཉན་ཐོས་དང་ནི་རང་སངས་རྒྱས། །<br>
 ས་གཉིས་དག་ནི་གཏན་གྱི་གེགས།
 
-Going to hell is not
-An enduring obstacle to buddhahood;
-The two levels of hearers
+Going to hell is not<br>
+An enduring obstacle to buddhahood;<br>
+The two levels of hearers<br>
 And solitary buddhas are enduring obstacles.
 
 <!-- TGD-002030 -->
@@ -5291,16 +5291,16 @@ Here the Ordinary-Mind-Only school’s clear realization equals the clear realiz
 
 <!-- TGD-002052 -->
 
-སེམས་ཙམ་པ་ནི་བདུན་པ་སྟེ། །
-སྣང་བ་མེད་པ་ས་བརྒྱད་པ། །
-ས་གཉིས་དག་ནི་གནས་ཡིན་ཏེ། །
-བཅུ་གཅིག་ཡེ་ཤེས་ཆེན་པོའི་ས། །
+སེམས་ཙམ་པ་ནི་བདུན་པ་སྟེ། །<br>
+སྣང་བ་མེད་པ་ས་བརྒྱད་པ། །<br>
+ས་གཉིས་དག་ནི་གནས་ཡིན་ཏེ། །<br>
+བཅུ་གཅིག་ཡེ་ཤེས་ཆེན་པོའི་ས། །<br>
 དེ་ནི་ང་ཡི་ས་ཡིན་ནོ།
 
-Ordinary-Mind-Only is the seventh;
-Absence of appearance is the eighth level.
-Two levels are abodes;
-The eleventh is the level of great primordial knowing.
+Ordinary-Mind-Only is the seventh;<br>
+Absence of appearance is the eighth level.<br>
+Two levels are abodes;<br>
+The eleventh is the level of great primordial knowing.<br>
 That is my level.
 
 <!-- TGD-002057 -->
@@ -5353,14 +5353,14 @@ Here the two do not conflict. Their enlightened intent agrees that the absence o
 
 <!-- TGD-002085 -->
 
-གང་ཚེ་འདི་ན་སྐྱེ་འཆི་གང་ཡང་མེད། །
-ཆོས་འདི་ཐམས་ཅད་རང་བཞིན་བདག་མེད་པའི། །
-བཟོད་པ་བདག་གིས་ཐོབ་པ་དེ་ཡི་ཚེ། །
+གང་ཚེ་འདི་ན་སྐྱེ་འཆི་གང་ཡང་མེད། །<br>
+ཆོས་འདི་ཐམས་ཅད་རང་བཞིན་བདག་མེད་པའི། །<br>
+བཟོད་པ་བདག་གིས་ཐོབ་པ་དེ་ཡི་ཚེ། །<br>
 སངས་རྒྱས་མར་མེ་མཛད་ཀྱིས་བདག་ལུང་བསྟན།
 
-When I attained forbearance that here
-There is neither birth nor death,
-And all these phenomena lack intrinsic nature and self,
+When I attained forbearance that here<br>
+There is neither birth nor death,<br>
+And all these phenomena lack intrinsic nature and self,<br>
 Buddha Dipankara gave me his prediction.
 
 <!-- TGD-002089 -->
@@ -5403,14 +5403,14 @@ Here one traverses every level and path up to their culmination through the sing
 
 <!-- TGD-002107 -->
 
-མི་གང་ཏིང་འཛིན་མཆོག་དེ་སུས་འཛིན་པ། །
-འོད་འཕྲོ་ཤིན་ཏུ་སྦྱངས་དཀའ་མངོན་གྱུར་དང༌། །
-རིང་དུ་སོང་དང་མི་གཡོ་ལེགས་པའི་བློ། །
+མི་གང་ཏིང་འཛིན་མཆོག་དེ་སུས་འཛིན་པ། །<br>
+འོད་འཕྲོ་ཤིན་ཏུ་སྦྱངས་དཀའ་མངོན་གྱུར་དང༌། །<br>
+རིང་དུ་སོང་དང་མི་གཡོ་ལེགས་པའི་བློ། །<br>
 ཆོས་སྤྲིན་ས་བཅུ་པོ་དག་ཐོབ་པར་འགྱུར།
 
-Whoever holds that supreme deep absorption
-Will attain Radiant, Hard to Purify, Manifest,
-Far Gone, Unmoving, Good Conceptual Mind,
+Whoever holds that supreme deep absorption<br>
+Will attain Radiant, Hard to Purify, Manifest,<br>
+Far Gone, Unmoving, Good Conceptual Mind,<br>
 And Cloud of Dharma—the ten levels.
 
 <!-- TGD-002111 -->
@@ -5507,10 +5507,10 @@ Vajra statement. Others say that the accumulation of primordial knowing, the res
 
 <!-- TGD-002153 -->
 
-ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། །
+ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། །<br>
 ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས།
 
-All these branches
+All these branches<br>
 The Sage taught for the sake of discerning knowing.
 
 <!-- TGD-002155 -->
@@ -5521,10 +5521,10 @@ And:
 
 <!-- TGD-002156 -->
 
-ཇི་སྲིད་དགེ་བའི་རྩ་བ་དེ་ནི་མ་རྫོགས་པ། །
+ཇི་སྲིད་དགེ་བའི་རྩ་བ་དེ་ནི་མ་རྫོགས་པ། །<br>
 དེ་སྲིད་བྱང་ཆུབ་དམ་པ་དེ་ནི་བཟད་མི་འགྱུར།
 
-As long as that root of virtue is not complete,
+As long as that root of virtue is not complete,<br>
 That holy awakening will not be exhausted.[^N-B-035]
 
 <!-- TGD-002158 -->
@@ -5541,14 +5541,14 @@ So they argue. Here the two accumulations are united and abide inseparably in al
 
 <!-- TGD-002165 -->
 
-རྫོགས་སངས་སྐུ་ནི་འཕྲོ་ཕྱིར་དང༌།
-དེ་བཞིན་ཉིད་དབྱེར་མེད་ཕྱིར་དང་།
-རིགས་ཡོད་ཕྱིར་ནི་ལུས་ཅན་ཀུན། །
+རྫོགས་སངས་སྐུ་ནི་འཕྲོ་ཕྱིར་དང༌།<br>
+དེ་བཞིན་ཉིད་དབྱེར་མེད་ཕྱིར་དང་།<br>
+རིགས་ཡོད་ཕྱིར་ནི་ལུས་ཅན་ཀུན། །<br>
 རྟག་ཏུ་སངས་རྒྱས་སྙིང་པོ་ཅན།
 
-Because perfect buddha embodiment proliferates,
-Because suchness is inseparable,
-And because the lineage is present, all embodied beings
+Because perfect buddha embodiment proliferates,<br>
+Because suchness is inseparable,<br>
+And because the lineage is present, all embodied beings<br>
 Always possess buddha essence.
 
 <!-- TGD-002169 -->
@@ -5661,16 +5661,16 @@ Vajra statement. Others say that to transcend samsara one must abandon self-appr
 
 <!-- TGD-002222 -->
 
-ཡོངས་སུ་བཟུང་བ་མེད་པ་དེ་དག་ཀུན། །
-བློ་ཡིས་བླང་ནས་ཐུབ་པ་སྐྱེས་ཀྱི་མཆོག །
-སྲས་དང་བཅས་པ་རྣམས་ལ་ལེགས་འབུལ་ན། །
-ཡོན་གནས་དམ་པ་ཐུགས་རྗེ་ཆེ་རྣམས་ཀྱིས། །
+ཡོངས་སུ་བཟུང་བ་མེད་པ་དེ་དག་ཀུན། །<br>
+བློ་ཡིས་བླང་ནས་ཐུབ་པ་སྐྱེས་ཀྱི་མཆོག །<br>
+སྲས་དང་བཅས་པ་རྣམས་ལ་ལེགས་འབུལ་ན། །<br>
+ཡོན་གནས་དམ་པ་ཐུགས་རྗེ་ཆེ་རྣམས་ཀྱིས། །<br>
 བདག་ལ་བརྩེར་དགོངས་བདག་གི་འདི་དག་བཞེས།
 
-Taking with my conceptual mind all these unowned things,
-I offer them well to the Sages, supreme among beings,
-Together with their children.
-Holy recipients endowed with great compassionate responsiveness,
+Taking with my conceptual mind all these unowned things,<br>
+I offer them well to the Sages, supreme among beings,<br>
+Together with their children.<br>
+Holy recipients endowed with great compassionate responsiveness,<br>
 In loving enlightened intent toward me, accept these things of mine.
 
 <!-- TGD-002227 -->
@@ -5725,14 +5725,14 @@ Here, if one gathers the roots of virtue of samsara and nirvana into the single 
 
 <!-- TGD-002252 -->
 
-བཅོམ་ལྡན་འདས་ཀྱིས་བསགས་པ་ཡི། །
-བསོད་ནམས་གྲངས་མེད་གཞལ་མི་ལང་། །/
-དེས་ནི་འགྲོ་བ་མ་ལུས་པ། །
+བཅོམ་ལྡན་འདས་ཀྱིས་བསགས་པ་ཡི། །<br>
+བསོད་ནམས་གྲངས་མེད་གཞལ་མི་ལང་། །/<br>
+དེས་ནི་འགྲོ་བ་མ་ལུས་པ། །<br>
 བླ་མེད་གོ་འཕང་ཐོབ་པར་ཤོག །
 
-Through the immeasurable, incalculable merit
-Gathered by the Blessed One, /[^N-B-039]
-May all beings without exception
+Through the immeasurable, incalculable merit<br>
+Gathered by the Blessed One, /[^N-B-039]<br>
+May all beings without exception<br>
 Attain the unsurpassed state.
 
 <!-- TGD-002256 -->
@@ -5779,12 +5779,12 @@ Therefore the basic space of phenomena, suchness, is to be dedicated: one focuse
 
 <!-- TGD-002278 -->
 
-བདེ་གཤེགས་སྙིང་པོ་ཁམས་དགེ་བ། །
-ཟག་མེད་ཡོན་ཏན་ལྡན་པ་དེ། །
+བདེ་གཤེགས་སྙིང་པོ་ཁམས་དགེ་བ། །<br>
+ཟག་མེད་ཡོན་ཏན་ལྡན་པ་དེ། །<br>
 བསྔོས་པས་འབྲས་བུ་སྨིན་པར་འགྱུར།
 
-The sugata essence, the virtuous element,
-Endowed with uncontaminated qualities—
+The sugata essence, the virtuous element,<br>
+Endowed with uncontaminated qualities—<br>
 Through dedicating it, the result matures.
 
 <!-- TGD-002281 -->
@@ -5800,10 +5800,10 @@ And: “That sugata essence is also virtue.” In Vajra Banner’s Dedication: �
 
 <!-- TGD-002287 -->
 
-རྣལ་འབྱོར་ལས་བྱུང་དགེ་བ་བསྔོ། །
+རྣལ་འབྱོར་ལས་བྱུང་དགེ་བ་བསྔོ། །<br>
 རང་གི་སེམས་ཀྱང་བསྔོ་བར་བྱ།
 
-Dedicate the virtue arising from yoga;
+Dedicate the virtue arising from yoga;<br>
 Dedicate your own ordinary mind as well.
 
 <!-- TGD-002289 -->
@@ -5885,18 +5885,18 @@ Although others say that secret mantra teachings occur only with this Teacher, t
 
 <!-- TGD-002326 -->
 
-རྫོགས་པའི་སངས་རྒྱས་གང་འདས་དང༌། །
-དེ་བཞིན་གང་དག་མ་བྱོན་པ། །
-ད་ལྟར་བྱུང་བའི་མགོན་པོ་རྣམས། །
-འགྲོ་ལ་ཕན་ཕྱིར་བཞུགས་པ་དག །
-ཆོ་ག་བཟང་པོ་འདི་མཁྱེན་ནས། །
+རྫོགས་པའི་སངས་རྒྱས་གང་འདས་དང༌། །<br>
+དེ་བཞིན་གང་དག་མ་བྱོན་པ། །<br>
+ད་ལྟར་བྱུང་བའི་མགོན་པོ་རྣམས། །<br>
+འགྲོ་ལ་ཕན་ཕྱིར་བཞུགས་པ་དག །<br>
+ཆོ་ག་བཟང་པོ་འདི་མཁྱེན་ནས། །<br>
 ཐམས་ཅད་མཁྱེན་པ་ཚད་མེད་བརྙེས།
 
-Perfect buddhas who have passed,
-Those likewise yet to come,
-And protectors now present
-Who abide for beings’ benefit—
-Knowing this excellent rite,
+Perfect buddhas who have passed,<br>
+Those likewise yet to come,<br>
+And protectors now present<br>
+Who abide for beings’ benefit—<br>
+Knowing this excellent rite,<br>
 They attain immeasurable omniscience.
 
 <!-- TGD-002332 -->
@@ -5919,10 +5919,10 @@ Addendum. Some say mantra is the fourth scriptural collection, since Excellent A
 
 <!-- TGD-002340 -->
 
-གསང་སྔགས་མདོ་སྡེའི་ཚུལ་དུ་ནི།
+གསང་སྔགས་མདོ་སྡེའི་ཚུལ་དུ་ནི།<br>
 ཡང་དག་ངས་བཤད་ དྭངས་བས་ཉོན། །
 
-I have correctly explained secret mantra
+I have correctly explained secret mantra<br>
 In the manner of sutras; listen with a clear disposition.
 
 <!-- TGD-002342 -->
@@ -5958,14 +5958,14 @@ Vajra statement. Mantra has three: The Ground, the three doors primordially abid
 
 <!-- TGD-002358 -->
 
-གང་ཞིག་དཀྱིལ་འཁོར་མ་མཐོང་བ།
-རྣལ་འབྱོར་པ་ནིx
-མཁའ་ལ་ཁུ་ཚུར་གྱིསx
+གང་ཞིག་དཀྱིལ་འཁོར་མ་མཐོང་བ།<br>
+རྣལ་འབྱོར་པ་ནིx<br>
+མཁའ་ལ་ཁུ་ཚུར་གྱིསx<br>
 སྨིག་རྒྱུའི་ཆུ་ནིx
 
-Whoever has not seen the mandala—
-The yogin x
-With a fist against space x
+Whoever has not seen the mandala—<br>
+The yogin x<br>
+With a fist against space x<br>
 The water of a mirage x[^N-B-045]
 
 <!-- TGD-002362 -->
@@ -6099,16 +6099,16 @@ Addendum. Although others maintain that the three embodiments are determined as 
 
 <!-- TGD-002431 -->
 
-སེམས་ནི་ཆེན་པོ་གཅིག་ཉིད་ལས། །
-ལྔ་ཡི་གཟུགས་ཀྱི་རྣམ་པར་མཚོན། །
-རིགས་ནི་ལྔ་པོ་དེ་ཉིད་ལས། །
-སྟོང་ཕྲག་དུ་མ་སྐྱེ་བ་ཉིད།
+སེམས་ནི་ཆེན་པོ་གཅིག་ཉིད་ལས། །<br>
+ལྔ་ཡི་གཟུགས་ཀྱི་རྣམ་པར་མཚོན། །<br>
+རིགས་ནི་ལྔ་པོ་དེ་ཉིད་ལས། །<br>
+སྟོང་ཕྲག་དུ་མ་སྐྱེ་བ་ཉིད།<br>
 དེ་ཕྱིར་འདི་དག་རང་བཞིན་གཅིག །
 
-From the single great ordinary mind
-The five aspects of form are displayed;
-From those very five families
-Many thousands arise.
+From the single great ordinary mind<br>
+The five aspects of form are displayed;<br>
+From those very five families<br>
+Many thousands arise.<br>
 Therefore all these have one intrinsic nature.
 
 <!-- TGD-002436 -->
@@ -6121,10 +6121,10 @@ So it says. Even the single family of awakened mind contains all five: embodimen
 
 <!-- TGD-002439 -->
 
-སྔགས་རྣམས་ཀུན་གྱི་མཚན་ཉིད་ནི། །
+སྔགས་རྣམས་ཀུན་གྱི་མཚན་ཉིད་ནི། །<br>
 བདེ་བར་གཤེགས་པའི་ཐུགས་ལ་གནས།
 
-The defining character of every mantra
+The defining character of every mantra<br>
 Abides in the sugatas’ awakened mind.
 
 <!-- TGD-002441 -->
@@ -6171,14 +6171,14 @@ Here, unless primordial knowing that realizes the meaning of empowerment beyond 
 
 <!-- TGD-002463 -->
 
-དབང་པོ་གཉིས་སྦྱོར་བདེ་བ་ནི།
-དེ་ཉིད་ཡིན་ཅེས་སྐྱེ་ངག་སྨྲ། །
-དེ་ནི་བདེ་བ་ཆེ་ཡིན་ཅེས། །
+དབང་པོ་གཉིས་སྦྱོར་བདེ་བ་ནི།<br>
+དེ་ཉིད་ཡིན་ཅེས་སྐྱེ་ངག་སྨྲ། །<br>
+དེ་ནི་བདེ་བ་ཆེ་ཡིན་ཅེས། །<br>
 རྒྱལ་བ་རྣམས་ཀྱིས་མ་གསུངས་སོ།
 
-The bliss of joining the two organs
-Ordinary people call that very [reality];
-But the victors have not said
+The bliss of joining the two organs<br>
+Ordinary people call that very [reality];<br>
+But the victors have not said<br>
 That it is great bliss.
 
 <!-- TGD-002467 -->
@@ -6190,10 +6190,10 @@ So it says. Phagmo Drupa says:
 
 <!-- TGD-002469 -->
 
-ཟག་བཅས་བདེ་བ་ཆེ་སྒོ་ཡི།
+ཟག་བཅས་བདེ་བ་ཆེ་སྒོ་ཡི།<br>
 བདེ་ཆེན་ཡན་ལག
 
-Contaminated bliss, at the great gateway …
+Contaminated bliss, at the great gateway …<br>
 A limb of great bliss …[^N-B-051]
 
 <!-- TGD-002471 -->
@@ -6221,12 +6221,12 @@ Addendum. Concerning the third empowerment there are four claims: primordial kno
 
 <!-- TGD-002484 -->
 
-སྐད་ཅིག་གསུམ་པ་གང་སྐྱེས་པ།
-དོན་མཐོང་མ་ཡིན་འབྲས་ཅན་གྱིས། །
+སྐད་ཅིག་གསུམ་པ་གང་སྐྱེས་པ།<br>
+དོན་མཐོང་མ་ཡིན་འབྲས་ཅན་གྱིས། །<br>
 སྦགས་པ་ཡིས་ནི་བུ་རམ་བཞིན།
 
-Whatever arises in the third moment
-Is not seeing meaning; with the result-bearing [factor]
+Whatever arises in the third moment<br>
+Is not seeing meaning; with the result-bearing [factor]<br>
 It is sullied, like molasses.[^N-B-052]
 
 <!-- TGD-002487 -->
@@ -6241,10 +6241,10 @@ Thus each accepts one or the other, example or meaning. Because it is contaminat
 
 <!-- TGD-002492 -->
 
-ཁ་སང་ཕན་ཆད་དགེ་སློང་མིན། །
+ཁ་སང་ཕན་ཆད་དགེ་སློང་མིན། །<br>
 དེ་རིང་ཚུན་ཆད་དགེ་སློང་ཡིན། །
 
-Until yesterday I was not a monk;
+Until yesterday I was not a monk;<br>
 From today onward I am a monk.
 
 <!-- TGD-002494 -->
@@ -6267,10 +6267,10 @@ Accordingly, if realization of co-emergent primordial knowing, the equal taste o
 
 <!-- TGD-002507 -->
 
-ཁུ་བ་མེད་ན་བདེ་མི་འགྱུར། །
+ཁུ་བ་མེད་ན་བདེ་མི་འགྱུར། །<br>
 བདེ་བ་མེད་ན་དེ་མེད་འགྱུར། །
 
-Without semen there is no bliss;
+Without semen there is no bliss;<br>
 Without bliss, that is absent.
 
 <!-- TGD-002509 -->
@@ -6282,14 +6282,14 @@ And Lord Jowo says:
 
 <!-- TGD-002511 -->
 
-དང་པོའི་སངས་རྒྱས་བྱུང་ཆེན་ལས༑ །
-རབ་ཏུ་འབད་དེ་བཀག་པའི་ཕྱིར། །
-གསང་བ་ཤེས་རབ་དབང་བསྐུར་ནི། །
+དང་པོའི་སངས་རྒྱས་བྱུང་ཆེན་ལས༑ །<br>
+རབ་ཏུ་འབད་དེ་བཀག་པའི་ཕྱིར། །<br>
+གསང་བ་ཤེས་རབ་དབང་བསྐུར་ནི། །<br>
 ཚངས་པར་སྤྱོད་པས་བླང་མི་བྱ།
 
-Because the Great Primordial Buddha [Continuum]
-Emphatically prohibits them,
-The secret empowerment and empowerment of discerning knowing
+Because the Great Primordial Buddha [Continuum]<br>
+Emphatically prohibits them,<br>
+The secret empowerment and empowerment of discerning knowing<br>
 Must not be received by those practising celibacy.
 
 <!-- TGD-002515 -->
@@ -6337,14 +6337,14 @@ If something could be accomplished by imputing what is not so as so, outsiders t
 
 <!-- TGD-002538 -->
 
-འདི་དག་དབང་གིས་སེམས་ཅན་རྣམས། །
-སངས་རྒྱས་ཉིད་དུ་ཐེ་ཚོམ་མེད། །
-ཟླ་བ་བཅུ་ཡང་ས་རྣམས་སྲིང་། །
+འདི་དག་དབང་གིས་སེམས་ཅན་རྣམས། །<br>
+སངས་རྒྱས་ཉིད་དུ་ཐེ་ཚོམ་མེད། །<br>
+ཟླ་བ་བཅུ་ཡང་ས་རྣམས་སྲིང་། །<br>
 སེམས་ཅན་ས་བཅུའི་དབང་ཕྱུག་གི ༑
 
-Through the power of these, sentient beings
-Are undoubtedly buddhas.
-The ten months extend the levels;
+Through the power of these, sentient beings<br>
+Are undoubtedly buddhas.<br>
+The ten months extend the levels;<br>
 Sentient beings are lords of the ten levels.[^N-B-055]
 
 <!-- TGD-002542 -->
@@ -6355,10 +6355,10 @@ Guhyasamaja says:
 
 <!-- TGD-002543 -->
 
-མདོར་ན་ཕུང་པོ་ལྔ་རྣམས་ནི།
+མདོར་ན་ཕུང་པོ་ལྔ་རྣམས་ནི།<br>
 སངས་རྒྱས་ལྔར་ནི་རྣམ་པར་གྲགས། །
 
-In brief, the five aggregates
+In brief, the five aggregates<br>
 Are renowned as the five buddhas.
 
 <!-- TGD-002545 -->
@@ -6372,14 +6372,14 @@ And Universal Activity says, “These beings are the identity of the five buddha
 
 <!-- TGD-002549 -->
 
-ཤེས་བྱའི་དཀྱིལ་འཁོར་མ་ལུས་འདི་དག་ཐམས་ཅད་ནི།
-སྐུ་གསུམ་ཡོངས་སུ་གྲུབ་པ་གསང་སྔགས་ཐེག་པ་སྟེ།
-སྐུ་གསུམ་ཞིང་ལ་འཇུག་པ་ལམ་གྱི་ཐེག་པ་ཡིན།
+ཤེས་བྱའི་དཀྱིལ་འཁོར་མ་ལུས་འདི་དག་ཐམས་ཅད་ནི།<br>
+སྐུ་གསུམ་ཡོངས་སུ་གྲུབ་པ་གསང་སྔགས་ཐེག་པ་སྟེ།<br>
+སྐུ་གསུམ་ཞིང་ལ་འཇུག་པ་ལམ་གྱི་ཐེག་པ་ཡིན།<br>
 སྐུ་གསུམ་འདུ་འཕྲལ་མེད་པ་རྡོ་རྗེའི་ཐེག་པའོ། །
 
-All these mandalas of the knowable, without exception,
-Are the thoroughly established three embodiments: the secret-mantra vehicle.
-Entering the three embodiments’ realm is the vehicle of the path.
+All these mandalas of the knowable, without exception,<br>
+Are the thoroughly established three embodiments: the secret-mantra vehicle.<br>
+Entering the three embodiments’ realm is the vehicle of the path.<br>
 The three embodiments without meeting or parting are the vajra vehicle.
 
 <!-- TGD-002553 -->
@@ -6420,10 +6420,10 @@ Addendum. Concerning accomplishing the deity, Samputa says:
 
 <!-- TGD-002569 -->
 
-འཁོར་ལོའི་བདག་པོ་འབུམ་བཟླས་ཤིང་།
+འཁོར་ལོའི་བདག་པོ་འབུམ་བཟླས་ཤིང་།<br>
 དཀྱིལ་འཁོར་ཅན་གྱིས་དེ་བཞིན་ཁྲི།
 
-Recite a hundred thousand for the lord of the wheel,
+Recite a hundred thousand for the lord of the wheel,<br>
 And likewise ten thousand for those of the mandala.
 
 <!-- TGD-002571 -->
@@ -6476,10 +6476,10 @@ Here such ascetic activity amounts to disparagement, because it imputes an ordin
 
 <!-- TGD-002594 -->
 
-སེམས་བསྲུང་བརྟུལ་ཞུགས་མ་གཏོགས་པའི། །
+སེམས་བསྲུང་བརྟུལ་ཞུགས་མ་གཏོགས་པའི། །<br>
 བརྟུལ་ཞུགས་མང་པོས་ཅི་ཞིག་བྱ།
 
-Apart from the observance of guarding ordinary mind,
+Apart from the observance of guarding ordinary mind,<br>
 What use are many observances?
 
 <!-- TGD-002596 -->
@@ -6545,18 +6545,18 @@ Here all deities possess the qualities of major and minor marks through their in
 
 <!-- TGD-002627 -->
 
-རབ་མཆོག་རྒྱལ་བའི་བདག་པོ་ཡི། །
-མཚན་ནི་སུམ་ཅུ་རྩ་གཉིས་དང༌། །
-དཔེ་བྱད་བཟང་པོ་བརྒྱད་ཅུ་སྟེ། །
-འདི་དག་མ་ལུས་འདུས་པ་སྟེ། །
-ཁྱབ་བདག་མཆོག་གི་གོ་འཕང་ནི།
+རབ་མཆོག་རྒྱལ་བའི་བདག་པོ་ཡི། །<br>
+མཚན་ནི་སུམ་ཅུ་རྩ་གཉིས་དང༌། །<br>
+དཔེ་བྱད་བཟང་པོ་བརྒྱད་ཅུ་སྟེ། །<br>
+འདི་དག་མ་ལུས་འདུས་པ་སྟེ། །<br>
+ཁྱབ་བདག་མཆོག་གི་གོ་འཕང་ནི།<br>
 སྔགས་པ་རྣམས་ཀྱིས་བསྒོམ་པར་བྱ། །
 
-The supreme lord of victors’
-Thirty-two major marks
-And eighty excellent minor signs—
-All gathered without exception—
-Constitute the supreme sovereign’s state,
+The supreme lord of victors’<br>
+Thirty-two major marks<br>
+And eighty excellent minor signs—<br>
+All gathered without exception—<br>
+Constitute the supreme sovereign’s state,<br>
 Which mantra practitioners should cultivate.
 
 <!-- TGD-002633 -->
@@ -6570,14 +6570,14 @@ The Vajra Pavilion says, “That embodiment adorned with thirty-two excellent ma
 
 <!-- TGD-002637 -->
 
-བཙུན་མོའི་བྷ་གའི་བདེ་གནས་སུ།
-སྟོན་པ་སུམ་ཅུ་རྩ་གཉིས་མཚན། །
-གཙོ་བོ་དཔེ་བྱད་བརྒྱད་ཅུ་ལྡན། །
+བཙུན་མོའི་བྷ་གའི་བདེ་གནས་སུ།<br>
+སྟོན་པ་སུམ་ཅུ་རྩ་གཉིས་མཚན། །<br>
+གཙོ་བོ་དཔེ་བྱད་བརྒྱད་ཅུ་ལྡན། །<br>
 གུ་བ་ཞེས་བྱའི་རྣམ་པར་གནས། །
 
-In the queen’s bhaga, the abode of bliss,
-The Teacher with thirty-two marks,
-The chief with eighty minor signs,
+In the queen’s bhaga, the abode of bliss,<br>
+The Teacher with thirty-two marks,<br>
+The chief with eighty minor signs,<br>
 Abides in the aspect called “Guwa.”[^N-B-058]
 
 <!-- TGD-002641 -->
@@ -6759,10 +6759,10 @@ As for the formation of the inhabitants, cultivating male and female deities’ 
 
 <!-- TGD-002728 -->
 
-རྟེན་ཅིང་འབྲེལ་འབྱུང་མ་གཏོགས་པའི། །
+རྟེན་ཅིང་འབྲེལ་འབྱུང་མ་གཏོགས་པའི། །<br>
 ཆོས་འགའ་ཡོད་པ་མ་ཡིན་ནོ། །
 
-Other than dependent arising,
+Other than dependent arising,<br>
 There is no phenomenon whatsoever.
 
 <!-- TGD-002730 -->
@@ -6774,10 +6774,10 @@ And the Kila Continuum Rays of the Sun says:
 
 <!-- TGD-002732 -->
 
-རྟེན་ཅིང་འབྲེལ་འབྱུང་གནས་པའི་ཆོས། །
+རྟེན་ཅིང་འབྲེལ་འབྱུང་གནས་པའི་ཆོས། །<br>
 རིག་པའི་ཡེ་ཤེས་གསལ་བར་འགྱུར།
 
-Through phenomena abiding as dependent arising,
+Through phenomena abiding as dependent arising,<br>
 Awareness’s primordial knowing becomes clear.
 
 <!-- TGD-002734 -->
@@ -6800,14 +6800,14 @@ Vajra statement. Others say the vajra body’s natural state consists of channel
 
 <!-- TGD-002742 -->
 
-སྲ་ཞིང་སྙིང་པོ་ཁོང་སྟོང་མེད། །
-གཞིག་ཅིང་གཞོམ་དུ་མེད་པས་ན། །
-བསྲེག་ པར་བྱར་མེད་འཇིགས་པ་མེད། །
+སྲ་ཞིང་སྙིང་པོ་ཁོང་སྟོང་མེད། །<br>
+གཞིག་ཅིང་གཞོམ་དུ་མེད་པས་ན། །<br>
+བསྲེག་ པར་བྱར་མེད་འཇིགས་པ་མེད། །<br>
 སྟོང་པ་ཉིད་ནི་རྡོ་རྗེར་བཤད། །
 
-Hard, substantial, without a hollow interior,
-Not to be broken or destroyed,
-Not to be burned, without fear—
+Hard, substantial, without a hollow interior,<br>
+Not to be broken or destroyed,<br>
+Not to be burned, without fear—<br>
 Emptiness is explained as vajra.
 
 <!-- TGD-002746 -->
@@ -6821,10 +6821,10 @@ Thus it is the Dharma embodiment together with qualities and deeds. One who neve
 
 <!-- TGD-002750 -->
 
-ལུས་མེད་ལུས་ཏེ་ལུས་ཀྱི་མཆོག །
+ལུས་མེད་ལུས་ཏེ་ལུས་ཀྱི་མཆོག །<br>
 ལུས་ཀྱི་མཐའ་ནི་རྟོཌ་པ་པོ།
 
-The bodyless body, the supreme body;
+The bodyless body, the supreme body;<br>
 The one who realizes the body’s limit.
 
 <!-- TGD-002752 -->
@@ -6859,20 +6859,20 @@ Dharma depends on scriptural transmission; transmission on instructions; instruc
 
 <!-- TGD-002767 -->
 
-ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་དང༌། །
-བཞི་སྟོང་གི་ནི་གྲངས་སྟོང་གི །
-ཡང་དག་འདུས་པར་ངས་བཤད་དོ། །
-གཞན་དུ་དོན་འདི་མ་བསྒྲགས་པས། །
-བླ་མ་ལ་ནི་གུས་པ་ཡི། །
-སློབ་མ་དག་གིས་རྟོགས་པའི་ཕྱིར། །
+ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་དང༌། །<br>
+བཞི་སྟོང་གི་ནི་གྲངས་སྟོང་གི །<br>
+ཡང་དག་འདུས་པར་ངས་བཤད་དོ། །<br>
+གཞན་དུ་དོན་འདི་མ་བསྒྲགས་པས། །<br>
+བླ་མ་ལ་ནི་གུས་པ་ཡི། །<br>
+སློབ་མ་དག་གིས་རྟོགས་པའི་ཕྱིར། །<br>
 རྒྱུད་གཞན་དག་ཏུ་སྦས་པའོ། །
 
-The eighty thousand Dharma collections
-And four thousand, counted in thousands,[^N-B-067]
-I have taught as perfectly gathered.
-This meaning is not proclaimed elsewhere;
-So that disciples who respect
-Their gurus may realize it,
+The eighty thousand Dharma collections<br>
+And four thousand, counted in thousands,[^N-B-067]<br>
+I have taught as perfectly gathered.<br>
+This meaning is not proclaimed elsewhere;<br>
+So that disciples who respect<br>
+Their gurus may realize it,<br>
 It is concealed in other continuums.
 
 <!-- TGD-002774 -->
@@ -6947,14 +6947,14 @@ Thereafter the four truths, discipline, and so forth are profound, just as that 
 
 <!-- TGD-002809 -->
 
-གཞན་གྱི་ཆོག་དབང་གོང་མ་ཟབ་ཟེར་ཡང༌།
-འམ་བུ་བུམ་དབང་ལ་རྩི་ཆོད་ཆེ།
-གཞི་དང་སྣོད་དང་ལུས་ལྟ་བུ། །
+གཞན་གྱི་ཆོག་དབང་གོང་མ་ཟབ་ཟེར་ཡང༌།<br>
+འམ་བུ་བུམ་དབང་ལ་རྩི་ཆོད་ཆེ།<br>
+གཞི་དང་སྣོད་དང་ལུས་ལྟ་བུ། །<br>
 གཞན་རྣམས་དེ་ཡི་ཁྱད་པར་ཆོས།
 
-Though others call higher rites and empowerments profound,
-My child, I place great weight on the vase empowerment.[^N-B-070]
-It is like The Ground, a vessel, and a body;
+Though others call higher rites and empowerments profound,<br>
+My child, I place great weight on the vase empowerment.[^N-B-070]<br>
+It is like The Ground, a vessel, and a body;<br>
 The others are its special qualities.
 
 <!-- TGD-002813 -->
@@ -7097,10 +7097,10 @@ Here one must understand all enlightened intent as free of contradiction. The ei
 
 <!-- TGD-002891 -->
 
-ངས་ནི་མདོ་སྡེ་གང་བཤད་པ།
+ངས་ནི་མདོ་སྡེ་གང་བཤད་པ།<br>
 ཚིག་འབྲུ་ཐ་དད་དོན་གཅིག་སྟེ།
 
-Whatever sutras I have taught,
+Whatever sutras I have taught,<br>
 Their syllables differ, but their meaning is one.
 
 <!-- TGD-002893 -->
@@ -7112,12 +7112,12 @@ And Jowo says:
 
 <!-- TGD-002895 -->
 
-ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་དང༌། །
-བཞི་སྟོང་གསུང་པ་གང་ཡིན་པ། །
+ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་དང༌། །<br>
+བཞི་སྟོང་གསུང་པ་གང་ཡིན་པ། །<br>
 ཆོས་ཉིད་འདི་ལ་གཞོལ་ཞིང་འབབས།
 
-The eighty thousand Dharma collections
-And the four thousand that were taught
+The eighty thousand Dharma collections<br>
+And the four thousand that were taught<br>
 All incline and flow into this nature of phenomena.
 
 <!-- TGD-002898 -->
@@ -7159,12 +7159,12 @@ Here those three faultless deep absorptions are causes or seeds of samsara’s t
 
 <!-- TGD-002915 -->
 
-བསམ་གཏན་ནགས་མེས་ཡང་དང་ཡང་དུ་ནི་ཉོན་མོངས་ཚང་ཚིང་བསྲེག་པར་གྱུར་ན་ཡང༌། །
-བདག་ལྟའི་རྩ་བ་བརྟན་པོ་མ་སྤངས་པས། །
+བསམ་གཏན་ནགས་མེས་ཡང་དང་ཡང་དུ་ནི་ཉོན་མོངས་ཚང་ཚིང་བསྲེག་པར་གྱུར་ན་ཡང༌། །<br>
+བདག་ལྟའི་རྩ་བ་བརྟན་པོ་མ་སྤངས་པས། །<br>
 ཆར་གྱིས་བརླན་བཞིན་མོད་ལ་རབ་ཏུ་སྐྱེ།
 
-Although the forest fire of meditative stability repeatedly burns afflictions’ thicket,
-Because the firm root of self-view is not abandoned,
+Although the forest fire of meditative stability repeatedly burns afflictions’ thicket,<br>
+Because the firm root of self-view is not abandoned,<br>
 It grows again at once, as if watered by rain.
 
 <!-- TGD-002918 -->
@@ -7176,18 +7176,18 @@ Protector Phagmo Drupa too says:
 
 <!-- TGD-002920 -->
 
-བདེ་དང་གསལ་བའི་རྒྱ་མཚོ་རུ། །
-ཞེན་དང་འཛིན་པའི་ནོར་བུ་གནས། །
-ནོར་བུ་ལ་མངོན་ཞེན་སྐྱེ་གྱུར་ན། །
-དུག་སྦྲུལ་ལྟ་བུའི་དམྱལ་་སྲུང་གིས། །
-བདེ་བ་ཆེན་པོའི་སྲོག་བཅད་དེ༑ ༑
+བདེ་དང་གསལ་བའི་རྒྱ་མཚོ་རུ། །<br>
+ཞེན་དང་འཛིན་པའི་ནོར་བུ་གནས། །<br>
+ནོར་བུ་ལ་མངོན་ཞེན་སྐྱེ་གྱུར་ན། །<br>
+དུག་སྦྲུལ་ལྟ་བུའི་དམྱལ་་སྲུང་གིས། །<br>
+བདེ་བ་ཆེན་པོའི་སྲོག་བཅད་དེ༑ ༑<br>
 ཉམ་ང་ཆེན་པོའི་གཡང་ལ་བསྐུར།
 
-In the ocean of bliss and clarity
-Abides the jewel of clinging and the apprehending subject.
-If strong clinging to that jewel arises,
-Hell’s guardians, like poisonous snakes,
-Cut off the life of great bliss
+In the ocean of bliss and clarity<br>
+Abides the jewel of clinging and the apprehending subject.<br>
+If strong clinging to that jewel arises,<br>
+Hell’s guardians, like poisonous snakes,<br>
+Cut off the life of great bliss<br>
 And cast one into a terrifying abyss.
 
 <!-- TGD-002926 -->
@@ -7219,12 +7219,12 @@ Here each of the three embodiments includes the other two. The mandala, together
 
 <!-- TGD-002938 -->
 
-སྐུ་གསུམ་ཡོངས་སུ་གྲུབ་པ་གསང་སྔགས་ཐེག་པ་སྟེ།
-སྐུ་གསུམ་ཉིད་ལ་འཇུག་པ་ལམ་གྱི་ཐེག་པ་ཡིན། །
+སྐུ་གསུམ་ཡོངས་སུ་གྲུབ་པ་གསང་སྔགས་ཐེག་པ་སྟེ།<br>
+སྐུ་གསུམ་ཉིད་ལ་འཇུག་པ་ལམ་གྱི་ཐེག་པ་ཡིན། །<br>
 སྐུ་གསུམ་འདུ་འབྲལ་མེད་པ་འབྲས་བུའི་ཐེག་པའོ། །
 
-The thoroughly established three embodiments are the secret-mantra vehicle.
-Entering those three embodiments is the vehicle of the path.
+The thoroughly established three embodiments are the secret-mantra vehicle.<br>
+Entering those three embodiments is the vehicle of the path.<br>
 The three embodiments without meeting or parting are the resultant vehicle.
 
 <!-- TGD-002941 -->
@@ -7242,10 +7242,10 @@ Vajra statement. Others say: “Since the Sage’s and Vajradhara’s teachings,
 
 <!-- TGD-002944 -->
 
-འདོད་པའི་ཡོན་ཏན་རྣམ་ལྔ་ལ།།
+འདོད་པའི་ཡོན་ཏན་རྣམ་ལྔ་ལ།།<br>
 བརྟེན་ནས་མྱུར་དུ་འགྲུབ་པར་འགྱུར།
 
-Relying on the five kinds
+Relying on the five kinds<br>
 Of sense pleasure, accomplishment comes swiftly.
 
 <!-- TGD-002946 -->
@@ -7268,38 +7268,38 @@ Here ethical discipline is indispensable to secret mantra. To attain Vajradhara�
 
 <!-- TGD-002954 -->
 
-བསླབ་པ་ལྔ་ཡི་གནས་ལྡན་ཞིང༌། །
-བྱང་ཆུབ་སེམས་དཔའི་སྡོམ་པ་དང༌། །
-གསང་སྔགས་དམ་ཚིག་ལྡན་པ་ནི། །
+བསླབ་པ་ལྔ་ཡི་གནས་ལྡན་ཞིང༌། །<br>
+བྱང་ཆུབ་སེམས་དཔའི་སྡོམ་པ་དང༌། །<br>
+གསང་སྔགས་དམ་ཚིག་ལྡན་པ་ནི། །<br>
 དགེ་བསྙེན་རྡོ་རྗེ་འཛིན་པ་ཡིན། །
 
-One endowed with the five training rules,
-The bodhisattva vow,
-And secret-mantra samaya
+One endowed with the five training rules,<br>
+The bodhisattva vow,<br>
+And secret-mantra samaya<br>
 Is a lay vajra-holder.
 
 <!-- TGD-002958 -->
 
-བསླབ་པ་བཅུ་ཡིx
-བྱང་ཆུབ་སེམས་དཔའིx
-གསང་སྔགསx
+བསླབ་པ་བཅུ་ཡིx<br>
+བྱང་ཆུབ་སེམས་དཔའིx<br>
+གསང་སྔགསx<br>
 དགེ་ཚུལx
 
-The ten trainings x
-The bodhisattva’s x
-Secret mantra x
+The ten trainings x<br>
+The bodhisattva’s x<br>
+Secret mantra x<br>
 A novice x[^N-B-078]
 
 <!-- TGD-002962 -->
 
-བསླབ་པ་བྱེ་བའིx
-བྱང་ཆུབx
-གསང་སྔགསx
+བསླབ་པ་བྱེ་བའིx<br>
+བྱང་ཆུབx<br>
+གསང་སྔགསx<br>
 དགེ་སློང་x
 
-Ten million trainings x
-Awakening x
-Secret mantra x
+Ten million trainings x<br>
+Awakening x<br>
+Secret mantra x<br>
 A fully ordained monk x[^N-B-079]
 
 <!-- TGD-002966 -->
@@ -7359,14 +7359,14 @@ The Heap of Jewels says:
 
 <!-- TGD-002991 -->
 
-བར་དུ་གཅོད་པའི་ཆོས་གང་དག །
-སྐྱེ་བོ་རྣམས་ལ་ངས་བསྟན་པ། །
-དེ་ཀུན་ཡང་དག་ཉིད་དུ་སྨྲ། །
+བར་དུ་གཅོད་པའི་ཆོས་གང་དག །<br>
+སྐྱེ་བོ་རྣམས་ལ་ངས་བསྟན་པ། །<br>
+དེ་ཀུན་ཡང་དག་ཉིད་དུ་སྨྲ། །<br>
 གཞན་དུ་གྱུར་པ་ཡོད་མ་ཡིན། །
 
-Whatever obstructing qualities
-I have taught to people,
-All those I declare truly:
+Whatever obstructing qualities<br>
+I have taught to people,<br>
+All those I declare truly:<br>
 They do not become otherwise.
 
 <!-- TGD-002995 -->
@@ -7403,12 +7403,12 @@ Here, if it is claimed that mantra’s path transforms nonvirtue into virtue, th
 
 <!-- TGD-003012 -->
 
-སེམས་ཅན་རྣམས་སངས་རྒྱས་ཏེ། །
-འོན་ཀྱང་གློ་བུར་དྲི་མས་བསྒྲིབས། །
+སེམས་ཅན་རྣམས་སངས་རྒྱས་ཏེ། །<br>
+འོན་ཀྱང་གློ་བུར་དྲི་མས་བསྒྲིབས། །<br>
 དེ་ཉིད་བསལ་ན་སངས་རྒྱས་ཉིད།
 
-Sentient beings are buddhas,
-Yet obscured by adventitious stains.
+Sentient beings are buddhas,<br>
+Yet obscured by adventitious stains.<br>
 When those are removed, they are buddhas.
 
 <!-- TGD-003015 -->
@@ -7463,22 +7463,22 @@ Thus the four samayas of Guhyasamaja’s four families, killing living beings an
 
 <!-- TGD-003040 -->
 
-མ་བྱིན་པ་ལ་བྱང་ཆུབ་སེམས།
-ཀུན་རྫོབ་སྟོན་པ་རྫུན་སྨྲ་བ། །
-ཕུང་པོ་སྲོག་ཆགས་གྱུར་པ་སྟེ། །
-ཚངས་པའི་གནས་བཞི་བུད་མེད་ཡིན། །
-དགོངས་པ་ཡིས་ནི་བཤད་པ་ལ། །
-བྱིས་པ་རྣམས་ནི་ཡི་གར་རྟོགས། །
-རྗེ་རྗེ་ ཐེག་པར་གནས་འདོད་ཀྱང་། །
+མ་བྱིན་པ་ལ་བྱང་ཆུབ་སེམས།<br>
+ཀུན་རྫོབ་སྟོན་པ་རྫུན་སྨྲ་བ། །<br>
+ཕུང་པོ་སྲོག་ཆགས་གྱུར་པ་སྟེ། །<br>
+ཚངས་པའི་གནས་བཞི་བུད་མེད་ཡིན། །<br>
+དགོངས་པ་ཡིས་ནི་བཤད་པ་ལ། །<br>
+བྱིས་པ་རྣམས་ནི་ཡི་གར་རྟོགས། །<br>
+རྗེ་རྗེ་ ཐེག་པར་གནས་འདོད་ཀྱང་། །<br>
 ཆོས་ཉིད་དེ་ཡི་ཡེ་ཤེས་སོ། །
 
-What is not given is the ordinary mind of awakening;
-Teaching the relative is speaking falsely.
-The aggregates are the living beings;
-The four Brahma abodes are the women.
-When explained through enlightened intent,
-The childish understand “as they wish.”
-Though wishing to abide in the “lord-lord vehicle,”
+What is not given is the ordinary mind of awakening;<br>
+Teaching the relative is speaking falsely.<br>
+The aggregates are the living beings;<br>
+The four Brahma abodes are the women.<br>
+When explained through enlightened intent,<br>
+The childish understand “as they wish.”<br>
+Though wishing to abide in the “lord-lord vehicle,”<br>
 The nature of phenomena is its primordial knowing.[^N-B-082]
 
 <!-- TGD-003048 -->
@@ -7489,14 +7489,14 @@ And:
 
 <!-- TGD-003049 -->
 
-དགོངས་པའི་ཚིག་ལ་རྨོངས་པ་རྣམས། །
-གསུངས་པའི་དོན་འདི་མ་རྟོགས་ནས། ༑
-གསུངས་པ་འདི་ལས་གཞན་མིན་ཞེས། །
+དགོངས་པའི་ཚིག་ལ་རྨོངས་པ་རྣམས། །<br>
+གསུངས་པའི་དོན་འདི་མ་རྟོགས་ནས། ༑<br>
+གསུངས་པ་འདི་ལས་གཞན་མིན་ཞེས། །<br>
 དེ་ནས་ཇི་བཞིན་སྨྲར་འཛིན་ཏོ།
 
-Those confused about words of enlightened intent,
-Not realizing the meaning of what is said,
-Say, “It is nothing other than this statement,”
+Those confused about words of enlightened intent,<br>
+Not realizing the meaning of what is said,<br>
+Say, “It is nothing other than this statement,”<br>
 And then take the speech literally.
 
 <!-- TGD-003053 -->
@@ -7545,10 +7545,10 @@ Addendum. Others say individual liberation, bodhisattva, and mantra are three di
 
 <!-- TGD-003072 -->
 
-མདོར་ན་སངས་རྒྱས་བསྟན་འདི་དག །
+མདོར་ན་སངས་རྒྱས་བསྟན་འདི་དག །<br>
 ཕ་རོལ་ཕྱིན་དྲུག་ཁོ་ན་ཡོད།
 
-In brief, these teachings of the Buddha
+In brief, these teachings of the Buddha<br>
 Consist solely of the six perfections.
 
 <!-- TGD-003074 -->
@@ -7569,26 +7569,26 @@ Vajra statement. Others say both the perfections and mantra explain afflictions 
 
 <!-- TGD-003080 -->
 
-གཏི་མུག་རྣམ་དག་བསྒོམ་པ་ཡི། །
-རྣམ་པར་སྣང་མཛད་ཉིད་དུ་འགྱུར། །
-ཞེ་སྡང་རྣམ་དག་བསྒོམ་པ་ཡི། །
+གཏི་མུག་རྣམ་དག་བསྒོམ་པ་ཡི། །<br>
+རྣམ་པར་སྣང་མཛད་ཉིད་དུ་འགྱུར། །<br>
+ཞེ་སྡང་རྣམ་དག་བསྒོམ་པ་ཡི། །<br>
 མི་བསྐྱོད་པ་ནི་ཉིད་དུ་འགྱུར། །
 
-Through cultivating stupidity as perfectly pure,
-One becomes Vairocana himself.
-Through cultivating hatred as perfectly pure,
+Through cultivating stupidity as perfectly pure,<br>
+One becomes Vairocana himself.<br>
+Through cultivating hatred as perfectly pure,<br>
 One becomes Akshobhya himself.
 
 <!-- TGD-003084 -->
 
-ཕྲག་དོག་རྣམ་དག་བསྒོམ་པ་ཡི། །
-དོན་ཡོད་གྲུབ་པ་ཉིད་དུ་འགྱུར། །
-ང་རྒྱལ་རྣམ་དག་བསྒོམ་པ་ཡི། །
+ཕྲག་དོག་རྣམ་དག་བསྒོམ་པ་ཡི། །<br>
+དོན་ཡོད་གྲུབ་པ་ཉིད་དུ་འགྱུར། །<br>
+ང་རྒྱལ་རྣམ་དག་བསྒོམ་པ་ཡི། །<br>
 རིན་ཆེན་འབྱུང་ལྡན་ཉིད་དུ་འགྱུར།
 
-Through cultivating jealousy as perfectly pure,
-One becomes Amoghasiddhi himself.
-Through cultivating pride as perfectly pure,
+Through cultivating jealousy as perfectly pure,<br>
+One becomes Amoghasiddhi himself.<br>
+Through cultivating pride as perfectly pure,<br>
 One becomes Ratnasambhava himself.
 
 <!-- TGD-003088 -->
@@ -7600,14 +7600,14 @@ And the great protector Drigungpa says:
 
 <!-- TGD-003090 -->
 
-དགྲ་གཉེན་དུ་ཆོད་པའི་དཔའ་བོ་དང་། །
-གཉེན་སྟོང་པར་རྟོགས་པའི་མཁའ་འགྲོ་གཉིས། །
-སེམས་འགྱུར་བ་མེད་པའི་རྣལ་འབྱོར་པ། །
+དགྲ་གཉེན་དུ་ཆོད་པའི་དཔའ་བོ་དང་། །<br>
+གཉེན་སྟོང་པར་རྟོགས་པའི་མཁའ་འགྲོ་གཉིས། །<br>
+སེམས་འགྱུར་བ་མེད་པའི་རྣལ་འབྱོར་པ། །<br>
 དུས་རྒྱུན་ཆད་མེད་པ་སྒོར་རོ་རོ། །
 
-The hero who determines the enemy as a friend
-And the dakini who realizes the friend as empty—
-The yogin whose ordinary mind is unchanging
+The hero who determines the enemy as a friend<br>
+And the dakini who realizes the friend as empty—<br>
+The yogin whose ordinary mind is unchanging<br>
 Is “gor ro ro” without interruption.[^N-B-084]
 
 <!-- TGD-003094 -->
@@ -7619,10 +7619,10 @@ The Cloud of Jewels says:
 
 <!-- TGD-003096 -->
 
-སྲིད་པའི་མྱ་ངན་སྒྲོལ་བ་པོ། །
+སྲིད་པའི་མྱ་ངན་སྒྲོལ་བ་པོ། །<br>
 ཉོན་མོངས་བསྒྲལ་ལ་ཕྱག་འཚལ་ལོ། །
 
-Liberator from the sorrow of existence,
+Liberator from the sorrow of existence,<br>
 Homage to you who liberated afflictions.
 
 <!-- TGD-003098 -->
@@ -7633,14 +7633,14 @@ And:
 
 <!-- TGD-003099 -->
 
-བྱང་ཆུབ་སྙིང་པོར་བཞུགས་པ་ན། །
-འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དང་། །
-དྲི་མ་གཞན་ཡང་རྣམ་མང་པོ། །
+བྱང་ཆུབ་སྙིང་པོར་བཞུགས་པ་ན། །<br>
+འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དང་། །<br>
+དྲི་མ་གཞན་ཡང་རྣམ་མང་པོ། །<br>
 ཁྱོད་ཀྱི་ཡེ་ཤེས་མེ་ཡིས་བསྲེགས།
 
-When you abided at awakening’s heart,
-Desire, hatred, stupidity,
-And many other stains
+When you abided at awakening’s heart,<br>
+Desire, hatred, stupidity,<br>
+And many other stains<br>
 Were burned by your fire of primordial knowing.
 
 <!-- TGD-003103 -->
@@ -7671,14 +7671,14 @@ Addendum. Others say channels, winds, and spheres, disrupted by the three poison
 
 <!-- TGD-003119 -->
 
-ཇི་ལྟར་གྲོང་ཁྱེར་དབུས་ཀྱི་མི་གཙང་ལུད། །
-དེ་ནི་བུ་རམ་ཤིང་པའི་ཞིང་ལ་ཕན། །
-དེ་བཞིན་བྱང་ཆུབ་སེམས་དཔའི་ཉོན་མོངས་ལུད། །
+ཇི་ལྟར་གྲོང་ཁྱེར་དབུས་ཀྱི་མི་གཙང་ལུད། །<br>
+དེ་ནི་བུ་རམ་ཤིང་པའི་ཞིང་ལ་ཕན། །<br>
+དེ་བཞིན་བྱང་ཆུབ་སེམས་དཔའི་ཉོན་མོངས་ལུད། །<br>
 རྒྱལ་དང་རྒྱལ་བའི་ཆོས་ལ་ཕན་པར་བྱེད།
 
-As unclean manure from the city’s center
-Benefits a field of sugarcane,
-So the manure of bodhisattvas’ afflictions
+As unclean manure from the city’s center<br>
+Benefits a field of sugarcane,<br>
+So the manure of bodhisattvas’ afflictions<br>
 Benefits the victors and the victors’ Dharma.
 
 <!-- TGD-003123 -->
@@ -7726,14 +7726,14 @@ Was it not permitted, then? It is the deed of someone able to revive those kille
 
 <!-- TGD-003146 -->
 
-རང་རིག་གསལ་བའི་ཐུགས་རྗེ་ཡི། །
-ཉོན་མོངས་བསྒྲལ་བ་མ་གཏོགས་པ། །
-ཞེ་སྡང་གདུག་པའི་སེམས་ཀྱིས་སྒྲོལ། །
+རང་རིག་གསལ་བའི་ཐུགས་རྗེ་ཡི། །<br>
+ཉོན་མོངས་བསྒྲལ་བ་མ་གཏོགས་པ། །<br>
+ཞེ་སྡང་གདུག་པའི་སེམས་ཀྱིས་སྒྲོལ། །<br>
 དམྱལ་བའི་སྐྱེ་བ་མནར་མེད་ལེན།
 
-Except for liberating afflictions
-Through the compassionate responsiveness of clear self-awareness,
-“Liberation” with an ordinary mind of hatred and malice
+Except for liberating afflictions<br>
+Through the compassionate responsiveness of clear self-awareness,<br>
+“Liberation” with an ordinary mind of hatred and malice<br>
 Brings birth in the hell of Unceasing Torment.
 
 <!-- TGD-003150 -->
@@ -7753,14 +7753,14 @@ Vajra statement. Others say vajra hell is a place apart from the eighteen hells 
 
 <!-- TGD-003155 -->
 
-མནར་མེད་ལ་སོགས་འཇིགས་རུང་བའི། །
-དམྱལ་བ་བསྟན་བ་གང་ཡིན་པ། །
-སློབ་དཔོན་ལ་ནི་སྨོད་པ་རྣམས། །
+མནར་མེད་ལ་སོགས་འཇིགས་རུང་བའི། །<br>
+དམྱལ་བ་བསྟན་བ་གང་ཡིན་པ། །<br>
+སློབ་དཔོན་ལ་ནི་སྨོད་པ་རྣམས། །<br>
 དེར་ནི་ངེས་པར་གནས་པར་བསྟན།
 
-Whatever terrifying hells are taught,
-Unceasing Torment and the rest—
-Those who disparage their masters
+Whatever terrifying hells are taught,<br>
+Unceasing Torment and the rest—<br>
+Those who disparage their masters<br>
 Are taught to abide there certainly.
 
 <!-- TGD-003159 -->
@@ -7772,14 +7772,14 @@ The Vajra Pavilion says:
 
 <!-- TGD-003161 -->
 
-དེ་ཚེ་དབང་བསྒྱུར་མཆོག་ཐོབ་པའི། །
-སློབ་མས་བླ་མའི་བཀའ་འདས་ན། །
-འཇིག་རྟེན་འདིར་ནི་སྡུག་བསྔལ་ཞིང༌། །
+དེ་ཚེ་དབང་བསྒྱུར་མཆོག་ཐོབ་པའི། །<br>
+སློབ་མས་བླ་མའི་བཀའ་འདས་ན། །<br>
+འཇིག་རྟེན་འདིར་ནི་སྡུག་བསྔལ་ཞིང༌། །<br>
 ཕ་རོལ་མནར་མེད་གནས་པར་འགྱུར།
 
-If a disciple who has then attained
-Supreme empowerment transgresses the guru’s word,
-They suffer in this world
+If a disciple who has then attained<br>
+Supreme empowerment transgresses the guru’s word,<br>
+They suffer in this world<br>
 And afterward abide in Unceasing Torment.
 
 <!-- TGD-003165 -->
@@ -7815,12 +7815,12 @@ Vajra statement. Although others say that one who transgresses samaya and is bor
 
 <!-- TGD-003181 -->
 
-དེ་བཞིན་ཉིད་དེ་མ་བཅོས་ན། །
-ཆེན་པོ་བཞི་ལ་གནས་བཅས་ཀྱང་། །
+དེ་བཞིན་ཉིད་དེ་མ་བཅོས་ན། །<br>
+ཆེན་པོ་བཞི་ལ་གནས་བཅས་ཀྱང་། །<br>
 ནམ་མཁའ་ལ་ནི་སྤྲིན་བཞིན་དུ།
 
-If that suchness is uncontrived,
-Even abiding in the four great [offenses],
+If that suchness is uncontrived,<br>
+Even abiding in the four great [offenses],<br>
 Like clouds in space …[^N-B-087]
 
 <!-- TGD-003184 -->
@@ -7883,10 +7883,10 @@ Moreover, every Dharma teaching needs a scriptural transmission, and the transmi
 
 <!-- TGD-003212 -->
 
-སངས་རྒྱས་ཆོས་རྣམས་དགེ་བའི་བཤེས་ལ་བརྟེན་ཏོ་ཞེས། །
+སངས་རྒྱས་ཆོས་རྣམས་དགེ་བའི་བཤེས་ལ་བརྟེན་ཏོ་ཞེས། །<br>
 ཡོན་ཏན་ཀུན་གྱི་མཆོག་མངའ་རྒྱལ་བས་དེ་སྐད་གསུངས།
 
-“The qualities of buddhahood depend on a spiritual friend.”
+“The qualities of buddhahood depend on a spiritual friend.”<br>
 So said the Victorious One, supreme in every quality.
 
 <!-- TGD-003214 -->
@@ -7900,10 +7900,10 @@ If that is said there, how much more is it necessary in mantra, where the tantra
 
 <!-- TGD-003218 -->
 
-ཡོན་ཏན་ཐམས་ཅད་རབ་རྫོགས་ཀྱང༌།
+ཡོན་ཏན་ཐམས་ཅད་རབ་རྫོགས་ཀྱང༌།<br>
 བླ་མ་མེད་ན་སྲིད་མཐར་མིན།
 
-Even with every good quality fully perfected,
+Even with every good quality fully perfected,<br>
 Without a lama one does not reach the end of existence.
 
 <!-- TGD-003220 -->
@@ -7970,14 +7970,14 @@ The answer is that appearances are not established as external objects. Like dre
 
 <!-- TGD-003252 -->
 
-སེམས་རྟོགས་པས་ནི་བྱང་ཆུབ་སྟེ།
-སེམས་ནི་འགྲོ་བ་ལྔ་པོ་ཡིན། །
-བདེ་དང་སྡུག་བསྔལ་མཚན་ཉིད་དག །
+སེམས་རྟོགས་པས་ནི་བྱང་ཆུབ་སྟེ།<br>
+སེམས་ནི་འགྲོ་བ་ལྔ་པོ་ཡིན། །<br>
+བདེ་དང་སྡུག་བསྔལ་མཚན་ཉིད་དག །<br>
 སེམས་ལས་མ་གཏོགས་ཅུང་ཟད་མེད།
 
-Through realizing ordinary mind there is awakening;
-Ordinary mind is the five kinds of wandering beings.
-The characteristics of happiness and suffering—
+Through realizing ordinary mind there is awakening;<br>
+Ordinary mind is the five kinds of wandering beings.<br>
+The characteristics of happiness and suffering—<br>
 There is not the slightest thing apart from ordinary mind.
 
 <!-- TGD-003256 -->
@@ -7989,14 +7989,14 @@ And the Pavilion says:
 
 <!-- TGD-003258 -->
 
-ཡུལ་དང་དབང་པོའི་བྱེ་བྲག་རྣམས། །
-རྣམ་པ་ཐ་དད་མ་མཆིས་ཏེ༑
-གཟུགས་སོགས་སྣང་བར་གྱུར་པ་ནི།
+ཡུལ་དང་དབང་པོའི་བྱེ་བྲག་རྣམས། །<br>
+རྣམ་པ་ཐ་དད་མ་མཆིས་ཏེ༑<br>
+གཟུགས་སོགས་སྣང་བར་གྱུར་པ་ནི།<br>
 རང་སེམས་སྣང་བ་ཁོ་ནའོ། །
 
-The distinctions of objects and faculties
-Are not different aspects.
-What appears as form and so forth
+The distinctions of objects and faculties<br>
+Are not different aspects.<br>
+What appears as form and so forth<br>
 Is solely the appearance of one’s own ordinary mind.
 
 <!-- TGD-003262 -->
@@ -8011,26 +8011,26 @@ Accordingly, the three—appearing objects, body, and ordinary mind—are not fo
 
 <!-- TGD-003267 -->
 
-སེམས་ཉིད་ཀྱིས་ནི་སེམས་ཅན་འཇིག་རྟེན་དང༌།
-སྣོད་ཀྱི་འཇིག་རྟེན་ཤིན་ཏུ་སྣ་ཚོགས་འགོད། །
-འགྲོ་བ་མ་ལུས་ལས་ལས་སྐྱེས་པར་གསུངས། །
+སེམས་ཉིད་ཀྱིས་ནི་སེམས་ཅན་འཇིག་རྟེན་དང༌།<br>
+སྣོད་ཀྱི་འཇིག་རྟེན་ཤིན་ཏུ་སྣ་ཚོགས་འགོད། །<br>
+འགྲོ་བ་མ་ལུས་ལས་ལས་སྐྱེས་པར་གསུངས། །<br>
 སེམས་སྤང་ནས་ནི་ལས་ཀྱང་ཡོད་མ་ཡིན།
 
-Ordinary mind itself lays out the world of beings
-And the world that contains them in immense variety.
-All wandering beings are said to arise from karma;
+Ordinary mind itself lays out the world of beings<br>
+And the world that contains them in immense variety.<br>
+All wandering beings are said to arise from karma;<br>
 Apart from ordinary mind, karma too does not exist.
 
 <!-- TGD-003271 -->
 
-གལ་ཏེ་གཟུགས་ཡོད་མོད་ཀྱི་དེ་ལ་ནི། །
-སེམས་བཞིན་བྱེད་པ་པོ་ཉིད་ཡོད་མ་ཡིན། །
-དེས་ནི་སེམས་ལས་གཞན་པའི་བྱེད་པ་པོ། །
+གལ་ཏེ་གཟུགས་ཡོད་མོད་ཀྱི་དེ་ལ་ནི། །<br>
+སེམས་བཞིན་བྱེད་པ་པོ་ཉིད་ཡོད་མ་ཡིན། །<br>
+དེས་ནི་སེམས་ལས་གཞན་པའི་བྱེད་པ་པོ། །<br>
 བཟློག་པའི་གཟུགས་ནི་བཀག་པ་མ་ཡིན་ནོ། །
 
-Although form exists,
-It has no agency as ordinary mind does.
-Thus an agent other than ordinary mind
+Although form exists,<br>
+It has no agency as ordinary mind does.<br>
+Thus an agent other than ordinary mind<br>
 Is rejected; form is not denied.
 
 <!-- TGD-003275 -->
@@ -8064,10 +8064,10 @@ Likewise, the Sūtra of the Applications of Mindfulness says:
 
 <!-- TGD-003284 -->
 
-འཇིག་རྟེན་དག་ན་ཇི་ལྟར་སྣང་བ་ཀུན། །
+འཇིག་རྟེན་དག་ན་ཇི་ལྟར་སྣང་བ་ཀུན། །<br>
 ཐམས་ཅད་རང་གི་ལས༌ལ༌ཉེ་བར་བྱུང༌།
 
-Everything that appears in any way in the worlds
+Everything that appears in any way in the worlds<br>
 Arises entirely in dependence on one’s own karma.
 
 <!-- TGD-003286 -->
@@ -8129,14 +8129,14 @@ Understanding this brings skill in how things arise moment by moment in this ver
 
 <!-- TGD-003313 -->
 
-ཇི་ལྟར་སྐྱེས་པའི་ཟོ་ཆུན་རྒྱུད།
-རྡོག་ཐབས་གཅིག་གིས་བསྐྱེད་པ་ན། །
-ཐམས་ཅད་གཅིག་ཅར་འགུལ་བ་ལྟར།
+ཇི་ལྟར་སྐྱེས་པའི་ཟོ་ཆུན་རྒྱུད།<br>
+རྡོག་ཐབས་གཅིག་གིས་བསྐྱེད་པ་ན། །<br>
+ཐམས་ཅད་གཅིག་ཅར་འགུལ་བ་ལྟར།<br>
 སྐད་ཅིག་ཡེ་ཤེས་དེ་བཞིན་ནོ། ༑
 
-Just as a connected series of water-wheel buckets,
-When set in motion by a single tread,
-All vibrate at once,
+Just as a connected series of water-wheel buckets,<br>
+When set in motion by a single tread,<br>
+All vibrate at once,<br>
 So too is momentary primordial knowing.
 
 <!-- TGD-003317 -->
@@ -8205,25 +8205,25 @@ Here, an unqualified lama cannot produce qualities, because someone who has not 
 
 <!-- TGD-003351 -->
 
-དམན་པ་བརྟེན་པས་མི་དག་རྣམ་པར་འགྱུར།
-ཐད་ཀར་བབས་པ་བརྟེན་པས་སོ་ན་གནས། །
-གཙོ་བོ་བརྟེན་པས་དམ་པ་ཐོབ་པར་འགྱུར། །
+དམན་པ་བརྟེན་པས་མི་དག་རྣམ་པར་འགྱུར།<br>
+ཐད་ཀར་བབས་པ་བརྟེན་པས་སོ་ན་གནས། །<br>
+གཙོ་བོ་བརྟེན་པས་དམ་པ་ཐོབ་པར་འགྱུར། །<br>
 དེ་ཕྱིར་བདག་པས་གཙོ་གྱུར་བརྟེན་པར་བྱ།ཞེས་དང་།
 
-Relying on an inferior, people are changed [for the worse];
-Relying on an equal, they remain where they are.
-Relying on a superior, they attain excellence.
+Relying on an inferior, people are changed [for the worse];<br>
+Relying on an equal, they remain where they are.<br>
+Relying on a superior, they attain excellence.<br>
 Therefore rely on someone superior to yourself.[^N-C-014]
 
 <!-- TGD-003355 -->
 
-སྡུད་པར།སློབ་མ་བཟང་པོ་བླ་མར་གུས་ལྡན་དེ་དག་གིས། །
-བླ་མ་མཁས་པ་རྣམས་ལ་རྟག་ཏུ་བརྟེན་པར་བྱ། །
+སྡུད་པར།སློབ་མ་བཟང་པོ་བླ་མར་གུས་ལྡན་དེ་དག་གིས། །<br>
+བླ་མ་མཁས་པ་རྣམས་ལ་རྟག་ཏུ་བརྟེན་པར་བྱ། །<br>
 ཅི་ཕྱིར་ཞེ་ན་མཁས་པའི་ཡོན་ཏན་དེ་ལས་འབྱུང༌། །
 
-The Condensed [Perfection] says:
-Good disciples who respect their lamas
-Should always rely on learned lamas.
+The Condensed [Perfection] says:<br>
+Good disciples who respect their lamas<br>
+Should always rely on learned lamas.<br>
 Why? The qualities of the learned arise from them.
 
 <!-- TGD-003358 -->
@@ -8234,24 +8234,24 @@ Such qualifications are described in the vehicle of the perfections:
 
 <!-- TGD-003359 -->
 
-བཤེས་གཉེན་དུལ་བ་ཞི་བ་ཉེར་ཞི་བ། །
-ཡོན་ཏན་ལྷག་པར་བརྩོན་བྱ་ལུང་གིས་ཕྱུག །
-དེ་ཉིད་རབ་ཏུ་རྟོགས་ལ་སྨྲ་མཁས་ལྡན། །
+བཤེས་གཉེན་དུལ་བ་ཞི་བ་ཉེར་ཞི་བ། །<br>
+ཡོན་ཏན་ལྷག་པར་བརྩོན་བྱ་ལུང་གིས་ཕྱུག །<br>
+དེ་ཉིད་རབ་ཏུ་རྟོགས་ལ་སྨྲ་མཁས་ལྡན། །<br>
 བརྩེ་བའི་བདག་ཉིད་སྐྱོ་ངལ་སྤང་ལ་བརྟེན། །
 
-Rely on a spiritual friend who is disciplined, peaceful, thoroughly peaceful,
-Superior in qualities, diligent, and rich in scripture,
-Who has fully realized reality and is skilled in speech,
+Rely on a spiritual friend who is disciplined, peaceful, thoroughly peaceful,<br>
+Superior in qualities, diligent, and rich in scripture,<br>
+Who has fully realized reality and is skilled in speech,<br>
 Whose character is loving and who has abandoned weariness.
 
 <!-- TGD-003363 -->
 
-རྟག་པར་དགེ་བའི་བཤེས་གཉེན་ནི། །
-ཐེག་ཆེན་དོན་ལ་མཁས་པ་དང༌། །
+རྟག་པར་དགེ་བའི་བཤེས་གཉེན་ནི། །<br>
+ཐེག་ཆེན་དོན་ལ་མཁས་པ་དང༌། །<br>
 བྱང་ཆུབ་སེམས་དཔའི་རྟུལ་ཞུགས་མཆོག །
 
-Always [rely on] a spiritual friend
-Skilled in the meaning of the Great Vehicle
+Always [rely on] a spiritual friend<br>
+Skilled in the meaning of the Great Vehicle<br>
 And supreme in bodhisattva discipline.
 
 <!-- TGD-003366 -->
@@ -8280,14 +8280,14 @@ Those who possess these qualities are supreme lamas and should be relied on. Oth
 
 <!-- TGD-003375 -->
 
-རྩོད་ལྡན་དབང་གིས་བླ་མ་སྐྱོན་དང་ཡོན་ཏན་འདྲེན།
-རྣམ་པ་ཀུན་ཏུ་སྡིག་དང་བྲལ་བ་ཡོད་མ་ཡིན། །
-དེ་ཕྱིར་ཡོན་ཏན་ལྷག་པ་ཡང་ནི་དཔྱད་བྱས་ཏེ། །
+རྩོད་ལྡན་དབང་གིས་བླ་མ་སྐྱོན་དང་ཡོན་ཏན་འདྲེན།<br>
+རྣམ་པ་ཀུན་ཏུ་སྡིག་དང་བྲལ་བ་ཡོད་མ་ཡིན། །<br>
+དེ་ཕྱིར་ཡོན་ཏན་ལྷག་པ་ཡང་ནི་དཔྱད་བྱས་ཏེ། །<br>
 བུ་རྣམས་ཀྱིས་ནི་དེ་ལ་བརྟེན་པར་བྱ་བའོ། ༑
 
-Under the sway of the age of strife, lamas bear faults and qualities;
-There is none entirely free from wrongdoing.
-Therefore, having examined whether the qualities predominate,
+Under the sway of the age of strife, lamas bear faults and qualities;<br>
+There is none entirely free from wrongdoing.<br>
+Therefore, having examined whether the qualities predominate,<br>
 Sons should rely on such a one.[^N-C-016]
 
 <!-- TGD-003379 -->
@@ -8301,27 +8301,27 @@ So it is said. If someone without qualities establishes others in qualities, tha
 
 <!-- TGD-003383 -->
 
-རྒྱལ་བའི་ཉན་ཐོས་པ་དག་ཇི་སྙེད་ཆོས་སྟོན་དང༌།
-འཆད་དང་རིགས་པ་དག་དང་ལྡན་པར་བརྗོད་པ་དང་། །
-མཆོག་འཕགས་བདེ་བ་བྱེད་དང་དེ་ཡི་འབྲས་ཐོབ་པ། །
+རྒྱལ་བའི་ཉན་ཐོས་པ་དག་ཇི་སྙེད་ཆོས་སྟོན་དང༌།<br>
+འཆད་དང་རིགས་པ་དག་དང་ལྡན་པར་བརྗོད་པ་དང་། །<br>
+མཆོག་འཕགས་བདེ་བ་བྱེད་དང་དེ་ཡི་འབྲས་ཐོབ་པ། །<br>
 དེ་དག་ཀུན་ཀྱང་དེ་བཞིན་གཤེགས་པའི་སྐྱེས་བུའི་མཐུ། །
 
-Whatever Dharma the Victorious One’s hearers teach,
-Explain, or set forth with reasoning,
-Whatever supreme noble happiness they bring and whatever results they attain—
+Whatever Dharma the Victorious One’s hearers teach,<br>
+Explain, or set forth with reasoning,<br>
+Whatever supreme noble happiness they bring and whatever results they attain—<br>
 All these are through the personal power of the Tathāgata.
 
 <!-- TGD-003387 -->
 
-ཅི་ཕྱིར་ཞེ་ན་
-རྒྱལ་བས་ཆོས་ཚུལ་གང་བསྟན་པ། །
-དེ་ལ་མི་མཆོག་སློབ་མར་གྱུར་པས་མངོན་བསླབས་ཤིང་། ༑
-མངོན་སུམ་བྱས་ནས་བསླབ་པ་ཇིབཞིན་སྟོན་བྱེད་དེ། །
+ཅི་ཕྱིར་ཞེ་ན་<br>
+རྒྱལ་བས་ཆོས་ཚུལ་གང་བསྟན་པ། །<br>
+དེ་ལ་མི་མཆོག་སློབ་མར་གྱུར་པས་མངོན་བསླབས་ཤིང་། ༑<br>
+མངོན་སུམ་བྱས་ནས་བསླབ་པ་ཇིབཞིན་སྟོན་བྱེད་དེ། །<br>
 སངས་རྒྱས་མཐུས་བྱེད་རང་གི་སྟོབས་ཀྱི་མཐུས་མ་ཡིན།
 
-Why? Whatever way of Dharma the Victorious One has taught,
-Those who become disciples of the supreme person train thoroughly in it.
-Having actualized it, they teach just as they have trained.
+Why? Whatever way of Dharma the Victorious One has taught,<br>
+Those who become disciples of the supreme person train thoroughly in it.<br>
+Having actualized it, they teach just as they have trained.<br>
 They do so through the Buddha’s power, not the power of their own strength.
 
 <!-- TGD-003392 -->
@@ -8348,14 +8348,14 @@ Here, the principal, indispensable means for generating realization is definitel
 
 <!-- TGD-003399 -->
 
-དད་པ་མེད་པའི་མི་རྣམས་ལ། །
-དཀར་པོའི་ཡོན་ཏན་མི་འབྱུང་སྟེ། །
-ས་བོན་མེ་ཡིས་ཚིགས་པ་ལས། ༑
+དད་པ་མེད་པའི་མི་རྣམས་ལ། །<br>
+དཀར་པོའི་ཡོན་ཏན་མི་འབྱུང་སྟེ། །<br>
+ས་བོན་མེ་ཡིས་ཚིགས་པ་ལས། ༑<br>
 མྱུ་གུ་སྔོན་པོ་ཇི་བཞིན་ནོ། །
 
-In people without faith
-Wholesome qualities do not arise,
-Just as green shoots do not arise
+In people without faith<br>
+Wholesome qualities do not arise,<br>
+Just as green shoots do not arise<br>
 From seeds burned by fire.
 
 <!-- TGD-003403 -->
@@ -8367,14 +8367,14 @@ And the Sūtra of the Ten Dharmas says:
 
 <!-- TGD-003405 -->
 
-གང་གི་འདྲེན་པ་ངེས་འབྱུང་བ། །
-དད་པ་ཐེག་པའི་མཆོག་ཡིན་ཏེ། །
-དེ་ཕྱིར་བློ་དང་ལྡན་པའི་མིས། །
+གང་གི་འདྲེན་པ་ངེས་འབྱུང་བ། །<br>
+དད་པ་ཐེག་པའི་མཆོག་ཡིན་ཏེ། །<br>
+དེ་ཕྱིར་བློ་དང་ལྡན་པའི་མིས། །<br>
 དད་པའི་རྗེས་སུ་འབྲང་བ་བརྟེན།
 
-Faith is the supreme vehicle
-Whose guidance leads to definite emergence.
-Therefore a person with conceptual intelligence
+Faith is the supreme vehicle<br>
+Whose guidance leads to definite emergence.<br>
+Therefore a person with conceptual intelligence<br>
 Should rely on following faith.[^N-C-018]
 
 <!-- TGD-003409 -->
@@ -8388,14 +8388,14 @@ Thus all the qualities of the path depend on lucid faith and confident devotion;
 
 <!-- TGD-003413 -->
 
-རང་བྱུང་ཉིད་ཀྱི་དོན་དམ་ནི༑ །
-དད་པ་ཉིད་ཀྱིས་རྟོགས་བྱ་ཡིན། །
-ཉི་མའི་དཀྱིལ་འཁོར་འོད་འབར་བ། །
+རང་བྱུང་ཉིད་ཀྱི་དོན་དམ་ནི༑ །<br>
+དད་པ་ཉིད་ཀྱིས་རྟོགས་བྱ་ཡིན། །<br>
+ཉི་མའི་དཀྱིལ་འཁོར་འོད་འབར་བ། །<br>
 མིག་མེད་པ་ཡིས་མཐོང་བ་མེད། །
 
-The ultimate meaning of the self-arisen
-Is to be realized through faith itself.
-The blazing radiance of the sun’s disk
+The ultimate meaning of the self-arisen<br>
+Is to be realized through faith itself.<br>
+The blazing radiance of the sun’s disk<br>
 Cannot be seen by one without eyes.
 
 <!-- TGD-003417 -->
@@ -8407,12 +8407,12 @@ Thus, if confident devotion arises through perceiving [the lama] as the Dharma e
 
 <!-- TGD-003419 -->
 
-མི་བརྗེད་གཟུངས་ཐོབ་ནཱ་རོ་པས། །
-བཅུ་གཉིས་བར་དུ་ང་མཉེས་བྱས། །
+མི་བརྗེད་གཟུངས་ཐོབ་ནཱ་རོ་པས། །<br>
+བཅུ་གཉིས་བར་དུ་ང་མཉེས་བྱས། །<br>
 ང་ཡི་རྟོགས་པ་ཁོ་ལ་ཡོད། །
 
-Nāropa, who attained the retention of never forgetting,
-Pleased me for twelve [years].
+Nāropa, who attained the retention of never forgetting,<br>
+Pleased me for twelve [years].<br>
 He possesses my realization.[^N-C-020]
 
 <!-- TGD-003422 -->
@@ -8438,14 +8438,14 @@ Vajra statement. Although some maintain that the ultimate view is the Great Midd
 
 <!-- TGD-003433 -->
 
-གང་གི་ཐུགས་བརྩེས་ཉེར་བཟུང་ན།
-ལྟ་བ་ཐམས་ཅད་སྤོང་བའི་ཕྱིར༑ །
-དམ་པའི་ཆོས་ནི་སྟོན་མཛད་པ།
+གང་གི་ཐུགས་བརྩེས་ཉེར་བཟུང་ན།<br>
+ལྟ་བ་ཐམས་ཅད་སྤོང་བའི་ཕྱིར༑ །<br>
+དམ་པའི་ཆོས་ནི་སྟོན་མཛད་པ།<br>
 གོོོོ་ཏམ་དེ་ལ་ཕྱག་འཚལ་ལོ། །
 
-To Gautama, who, taking [beings] into his loving care,
-Taught the holy Dharma
-For the abandonment of all views,
+To Gautama, who, taking [beings] into his loving care,<br>
+Taught the holy Dharma<br>
+For the abandonment of all views,<br>
 I pay homage.[^N-C-022]
 
 <!-- TGD-003437 -->
@@ -8484,14 +8484,14 @@ Some maintain that only the three—Madhyamaka, Mahamudra, and Dzogchen—are hi
 
 <!-- TGD-003451 -->
 
-ཡོད་དང་མེད་ཅེས་བྱ་བ་མཐའ་ཡིན་ཏེ།
-དེ་བཞིན་གཙང་དང་མི་གཙང་འདི་ཡང་མཐའ། །
-དེ་ཕྱིར་མཐའ་འདི་དག་ནི་རྣམ་སྤང་ནས། །
+ཡོད་དང་མེད་ཅེས་བྱ་བ་མཐའ་ཡིན་ཏེ།<br>
+དེ་བཞིན་གཙང་དང་མི་གཙང་འདི་ཡང་མཐའ། །<br>
+དེ་ཕྱིར་མཐའ་འདི་དག་ནི་རྣམ་སྤང་ནས། །<br>
 མཁས་པས་དབུས་ལའང་གནས་པར་མི་བྱའོ། །
 
-“Exists” and “does not exist” are extremes;
-Likewise, pure and impure are also extremes.
-Therefore, having completely abandoned these extremes,
+“Exists” and “does not exist” are extremes;<br>
+Likewise, pure and impure are also extremes.<br>
+Therefore, having completely abandoned these extremes,<br>
 The learned should not abide even in the middle.
 
 <!-- TGD-003455 -->
@@ -8502,12 +8502,12 @@ And the Avataṃsaka says:
 
 <!-- TGD-003456 -->
 
-ཇི་ལྟར་བར་སྣངཤིན་ཏུx
-དེ་བཞིནx
+ཇི་ལྟར་བར་སྣངཤིན་ཏུx<br>
+དེ་བཞིནx<br>
 ཡིད་དང་སེམས་ཀྱིས་ཡུལ་དུ་ཤེས་མ་ཡིན།
 
-Just as the intervening space, exceedingly x [unresolved],
-Likewise x [unresolved],
+Just as the intervening space, exceedingly x [unresolved],<br>
+Likewise x [unresolved],<br>
 It is not known as an object by mental faculty and ordinary mind.[^N-C-023]
 
 <!-- TGD-003459 -->
@@ -8519,14 +8519,14 @@ As this says, it is not settled by conceptual mind, ordinary mind, or words. Wha
 
 <!-- TGD-003461 -->
 
-སྨྲ་བསམ་བརྗོད་མེད་ཤེས་རབ་ཕ་རོལ་ཕྱིན།
-མ་སྐྱེས་མི་འགག་ནམ་མཁའི་ངོ་བོ་ཉིད།
-སོ་སོ་རང་རིག་ཡེ་ཤེས་སྤྱོད་ཡུལ་བ། །
+སྨྲ་བསམ་བརྗོད་མེད་ཤེས་རབ་ཕ་རོལ་ཕྱིན།<br>
+མ་སྐྱེས་མི་འགག་ནམ་མཁའི་ངོ་བོ་ཉིད།<br>
+སོ་སོ་རང་རིག་ཡེ་ཤེས་སྤྱོད་ཡུལ་བ། །<br>
 དུས་གསུམ་རྒྱལ་བའི་ཡུམ་ལ་ཕྱག་འཚལ་ལོ། །
 
-Perfection of discerning knowing, inexpressible, unthinkable, indescribable,
-Unborn, unceasing, the very essence of space,
-The sphere of individually self-aware primordial knowing—
+Perfection of discerning knowing, inexpressible, unthinkable, indescribable,<br>
+Unborn, unceasing, the very essence of space,<br>
+The sphere of individually self-aware primordial knowing—<br>
 I pay homage to the mother of the victorious ones of the three times.
 
 <!-- TGD-003465 -->
@@ -8538,14 +8538,14 @@ And Dharma King Songtsen said:
 
 <!-- TGD-003467 -->
 
-བསམ་པ་ཐམས་ཅད་བློ་ཡིན་གྱི། །
-བློ་ཡི་བྱེད་པ་ཞོག་ལ་ཐོང༌། །
-ཞོག་ཅེས་བྱ་བའང་ཚིག་ཡིན་པས། །
+བསམ་པ་ཐམས་ཅད་བློ་ཡིན་གྱི། །<br>
+བློ་ཡི་བྱེད་པ་ཞོག་ལ་ཐོང༌། །<br>
+ཞོག་ཅེས་བྱ་བའང་ཚིག་ཡིན་པས། །<br>
 ཚིག་གི་འཛིན་པ་བོར་ལ་ཐོད།
 
-All thinking is conceptual mind;
-Leave the workings of conceptual mind aside.
-“Leave aside” is itself a phrase,
+All thinking is conceptual mind;<br>
+Leave the workings of conceptual mind aside.<br>
+“Leave aside” is itself a phrase,<br>
 So let go of grasping at the phrase.[^N-C-024]
 
 <!-- TGD-003471 -->
@@ -8556,10 +8556,10 @@ And Tilopa said:
 
 <!-- TGD-003472 -->
 
-བློ་ཡི་ཆོས་ཀྱིས་བློ་འདས་དོན་མི་རྟོགས།
+བློ་ཡི་ཆོས་ཀྱིས་བློ་འདས་དོན་མི་རྟོགས།<br>
 བྱས་པའི་ཆོས་ཀྱི་བྱར་མེད་སངས་མི་རྒྱ།
 
-Through phenomena of conceptual mind, the meaning beyond the conceptual mind is not realized;
+Through phenomena of conceptual mind, the meaning beyond the conceptual mind is not realized;<br>
 Through fabricated phenomena, buddhahood beyond doing is not attained.
 
 <!-- TGD-003474 -->
@@ -8596,14 +8596,14 @@ Vajra statement. Some maintain that the natural state is realized through hearin
 
 <!-- TGD-003491 -->
 
-ཕྲ་ཕྱིར་ཐོས་པའི་ཡུལ་མིན་ཏེ། །
-དོན་དམ་ཕྱིར་ན་བསམ་པས་མིན། །
-ཆོས་ཉིད་ཟབ་ཕྱིར་འཇིག་རྟེན་པའི། །
+ཕྲ་ཕྱིར་ཐོས་པའི་ཡུལ་མིན་ཏེ། །<br>
+དོན་དམ་ཕྱིར་ན་བསམ་པས་མིན། །<br>
+ཆོས་ཉིད་ཟབ་ཕྱིར་འཇིག་རྟེན་པའི། །<br>
 སྒོམ་པ་ལ་སོགས་ཡུལ་མ་ཡིན།
 
-Because it is subtle, it is not an object of hearing;
-Because it is ultimate, it is not [an object] of reflection.
-Because the nature of phenomena is profound,
+Because it is subtle, it is not an object of hearing;<br>
+Because it is ultimate, it is not [an object] of reflection.<br>
+Because the nature of phenomena is profound,<br>
 It is not an object of worldly cultivation and the like.
 
 <!-- TGD-003495 -->
@@ -8615,14 +8615,14 @@ And Drigung Chöjé Rinpoche said:
 
 <!-- TGD-003497 -->
 
-རང་སེམས་མི་སྒོམ་སེམས་ཀྱི་ཡུལ་མི་བསྒོམ། །
-སྒོམ་དུ་མེད་པ་ཡང་ནི་མི་སྒོམ་སྟེ། །
-མ་བསྒོམ་པ་ཡི་བསྒོམ་ཞིག་འོང་བ་ཡི། །
+རང་སེམས་མི་སྒོམ་སེམས་ཀྱི་ཡུལ་མི་བསྒོམ། །<br>
+སྒོམ་དུ་མེད་པ་ཡང་ནི་མི་སྒོམ་སྟེ། །<br>
+མ་བསྒོམ་པ་ཡི་བསྒོམ་ཞིག་འོང་བ་ཡི། །<br>
 རེ་བ་དེ་ཡང་བསྒོམ་པར་མི་བྱའོ།
 
-Do not cultivate your own ordinary mind or the objects of ordinary mind.
-Do not cultivate even what cannot be cultivated.
-Do not cultivate even the hope
+Do not cultivate your own ordinary mind or the objects of ordinary mind.<br>
+Do not cultivate even what cannot be cultivated.<br>
+Do not cultivate even the hope<br>
 That some cultivation will arise from not cultivating.
 
 <!-- TGD-003501 -->
@@ -8655,10 +8655,10 @@ Here, ultimate cultivation is becoming familiar with and uninterruptedly habitua
 
 <!-- TGD-003514 -->
 
-ཡིད་ནི་ནང་དུ་ཆུད་གྱུར་ན། །
+ཡིད་ནི་ནང་དུ་ཆུད་གྱུར་ན། །<br>
 གང་འདོད་པ་ཡི་དངོས་གྲུབ་ཐོབ། །
 
-When the mental faculty is brought within,
+When the mental faculty is brought within,<br>
 Whatever accomplishment is desired is attained.
 
 <!-- TGD-003516 -->
@@ -8670,10 +8670,10 @@ And the great lord Drigungpa said:
 
 <!-- TGD-003518 -->
 
-བརྩོན་འགྲུས་ཆེན་པོའི་གོ་བ་ནི། །
+བརྩོན་འགྲུས་ཆེན་པོའི་གོ་བ་ནི། །<br>
 དྲན་པ་རྒྱུན་ཆད་མེད་པ་ཡིན།
 
-The meaning of great diligence
+The meaning of great diligence<br>
 Is uninterrupted mindfulness.
 
 <!-- TGD-003520 -->
@@ -8684,14 +8684,14 @@ And:
 
 <!-- TGD-003521 -->
 
-དུས་གསུམ་སངས་རྒྱས་ཀྱི་གཞུང་ལམ་དེ།
-དུས་རྒྱུན་ཆད་མེད་པར་མ་ཤེས་ན། ། །
-དྲན་པའི་རྒྱུན་ཆད་མ་ཤེས་ན། །
+དུས་གསུམ་སངས་རྒྱས་ཀྱི་གཞུང་ལམ་དེ།<br>
+དུས་རྒྱུན་ཆད་མེད་པར་མ་ཤེས་ན། ། །<br>
+དྲན་པའི་རྒྱུན་ཆད་མ་ཤེས་ན། །<br>
 ལུས་ངག་ཏབ་ཏབ་ཁ་ན་ཡོད། །
 
-If you do not know the great highway
-Of the buddhas of the three times as uninterrupted in time,
-If you do not know the interruption of mindfulness,
+If you do not know the great highway<br>
+Of the buddhas of the three times as uninterrupted in time,<br>
+If you do not know the interruption of mindfulness,<br>
 Body and speech remain in frantic bustle.[^N-C-029]
 
 <!-- TGD-003525 -->
@@ -8729,10 +8729,10 @@ Here, activity is held to be ethical discipline free from accepting wrongdoing a
 
 <!-- TGD-003543 -->
 
-ཤུ་བའི་ནད་ལས་ལྡོག་པའི་ཕྱིར།
+ཤུ་བའི་ནད་ལས་ལྡོག་པའི་ཕྱིར།<br>
 བཟའ་འོ་སྙམ་པའི་སེམས་ཀྱི་བཟའ།
 
-Eat with the ordinary mind’s intention, “I shall eat
+Eat with the ordinary mind’s intention, “I shall eat<br>
 To avert the illness of sores.”
 
 <!-- TGD-003545 -->
@@ -8751,14 +8751,14 @@ In brief, the Secret Activity says:
 
 <!-- TGD-003549 -->
 
-ལྟ་བར་མི་ལྡན་སྤྱོད་པ་དང་། །
-སྤྱོད་པར་མི་ལྡན་ལྟ་བ་གཉིས། །
-འདི་ནི་གསང་སྔགས་དམ་སྲི་སྟེ། །
+ལྟ་བར་མི་ལྡན་སྤྱོད་པ་དང་། །<br>
+སྤྱོད་པར་མི་ལྡན་ལྟ་བ་གཉིས། །<br>
+འདི་ནི་གསང་སྔགས་དམ་སྲི་སྟེ། །<br>
 མནར་མེད་སེམས་ཅན་དམྱལ་བར་སྐྱེ། །
 
-Activity without view
-And view without activity—
-These two are samaya demons of secret mantra
+Activity without view<br>
+And view without activity—<br>
+These two are samaya demons of secret mantra<br>
 And bring birth in the hell of Unceasing Torment.
 
 <!-- TGD-003553 -->
@@ -8771,14 +8771,14 @@ Thus, if the happiness of bestowing a hundred sense pleasures on this body and t
 
 <!-- TGD-003556 -->
 
-འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་གསུམ།
-དེས་བསྐྱེད་ལས་ནི་མི་དགེ་བའོ། །
-མ་ཆགས་མི་སྡང་གཏི་མུག་མེད། །
+འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་གསུམ།<br>
+དེས་བསྐྱེད་ལས་ནི་མི་དགེ་བའོ། །<br>
+མ་ཆགས་མི་སྡང་གཏི་མུག་མེད། །<br>
 དེས་བསྐྱེད་ལས་ནི་དགེ་བའོ། །
 
-Desire, hatred, and bewilderment—
-Karma generated by these is nonvirtue.
-Nonattachment, nonhatred, and freedom from bewilderment—
+Desire, hatred, and bewilderment—<br>
+Karma generated by these is nonvirtue.<br>
+Nonattachment, nonhatred, and freedom from bewilderment—<br>
 Karma generated by these is virtue.
 
 <!-- TGD-003560 -->
@@ -8853,14 +8853,14 @@ Likewise:
 
 <!-- TGD-003590 -->
 
-གལ་ཏེ་སངས་རྒྱས་ཁམས་མེད་ན།
-སྡུག་ལ་སྐྱོ་བར་མི་འགྱུར་ཞིང༌།
-མྱ་ངན་འདས་ལ་འདོད་པ་དང༌།
+གལ་ཏེ་སངས་རྒྱས་ཁམས་མེད་ན།<br>
+སྡུག་ལ་སྐྱོ་བར་མི་འགྱུར་ཞིང༌།<br>
+མྱ་ངན་འདས་ལ་འདོད་པ་དང༌།<br>
 དོན་གཉེར་སྨོན་པའང་མེད་པར་འགྱུར།
 
-If there were no buddha element,
-There would be no disenchantment with suffering,
-No desire for nirvāṇa,
+If there were no buddha element,<br>
+There would be no disenchantment with suffering,<br>
+No desire for nirvāṇa,<br>
 And no aspiration to seek it.
 
 <!-- TGD-003594 -->
@@ -8871,10 +8871,10 @@ The noble master said:
 
 <!-- TGD-003595 -->
 
-ཁྲིམས་ནི་རྒྱུ་དང་མི་རྒྱུའི་ས་བཞིན་དུ།
+ཁྲིམས་ནི་རྒྱུ་དང་མི་རྒྱུའི་ས་བཞིན་དུ།<br>
 ༑།ཡོན་ཏན་ཀུན་གྱི་གཞི་རྟེན་ཡིན་པར་གསུངས།
 
-Ethical discipline is said to be the supporting ground of all qualities,
+Ethical discipline is said to be the supporting ground of all qualities,<br>
 As earth is for the moving and the unmoving.
 
 <!-- TGD-003597 -->
@@ -8885,14 +8885,14 @@ And:
 
 <!-- TGD-003598 -->
 
-སོ་སོ་སྐྱེ་བོ་རྣམས་དང་གསུང་སྐྱེས་དང་།
-རང་བྱང་ཆུབ་ལ་བདག་ཉིད་ངེས་རྣམས་དང༌།
-རྒྱལ་སྲས་རྣམས་ཀྱི་ངེས་པར་ལེགས་པ་དང༌། །
+སོ་སོ་སྐྱེ་བོ་རྣམས་དང་གསུང་སྐྱེས་དང་།<br>
+རང་བྱང་ཆུབ་ལ་བདག་ཉིད་ངེས་རྣམས་དང༌།<br>
+རྒྱལ་སྲས་རྣམས་ཀྱི་ངེས་པར་ལེགས་པ་དང༌། །<br>
 མངོན་མཐོའི་རྒྱུ་ནི་ཚུལ་ཁྲིམས་ལས་གཞན་མེད།
 
-For ordinary people, those born from the [Buddha’s] speech,
-Those whose character is fixed on solitary awakening,
-And the children of the victorious ones, there is no cause
+For ordinary people, those born from the [Buddha’s] speech,<br>
+Those whose character is fixed on solitary awakening,<br>
+And the children of the victorious ones, there is no cause<br>
 Of definite goodness and higher rebirth other than ethical discipline.[^N-C-035]
 
 <!-- TGD-003602 -->
@@ -8916,14 +8916,14 @@ And the King of Deep Absorption says:
 
 <!-- TGD-003606 -->
 
-ཏིང་འཛིན་རྒྱལ་པོ་སྟོང་པ་འདི་བསྒོམ་པས། །
-ཚུལ་ཁྲིམས་དག་པའི་མགོ་ལ་དེ་འདུག་སྟེ། །
-ཆོས་རྣམས་རང་བཞིན་སྟོང་པར་མཉམ་གཞག་ནས།།
+ཏིང་འཛིན་རྒྱལ་པོ་སྟོང་པ་འདི་བསྒོམ་པས། །<br>
+ཚུལ་ཁྲིམས་དག་པའི་མགོ་ལ་དེ་འདུག་སྟེ། །<br>
+ཆོས་རྣམས་རང་བཞིན་སྟོང་པར་མཉམ་གཞག་ནས།།<br>
 བྱིས་པ་མེ་རེག་བརྩོན་པས་མི་ཤེས་སོ།
 
-By cultivating emptiness, this king of deep absorption,
-One stands at the summit of pure ethical discipline.
-Having rested in equipoise in phenomena’s emptiness of intrinsic nature,
+By cultivating emptiness, this king of deep absorption,<br>
+One stands at the summit of pure ethical discipline.<br>
+Having rested in equipoise in phenomena’s emptiness of intrinsic nature,<br>
 The childish, intent on touching fire, do not know [this].[^N-C-036]
 
 <!-- TGD-003610 -->
@@ -8951,14 +8951,14 @@ Vajra statement. Some say, “Mahamudra is like space, so it cannot be assigned 
 
 <!-- TGD-003623 -->
 
-གལ་ཏེ་སངས་རྒྱས་ཁམས་མེད་ན།
-སྡུག་བསྔལ་ལ་སྐྱོ་བར་མི་འགྱུར་ཞིང༌།
-མྱ་ངན་འདས་ལ་འདུན་པ་དང༌།
+གལ་ཏེ་སངས་རྒྱས་ཁམས་མེད་ན།<br>
+སྡུག་བསྔལ་ལ་སྐྱོ་བར་མི་འགྱུར་ཞིང༌།<br>
+མྱ་ངན་འདས་ལ་འདུན་པ་དང༌།<br>
 དོན་གཉེར་སྨོན་པའང་མེད་པར་འགྱུར།
 
-If there were no buddha element,
-There would be no disenchantment with suffering,
-No aspiration for nirvāṇa,
+If there were no buddha element,<br>
+There would be no disenchantment with suffering,<br>
+No aspiration for nirvāṇa,<br>
 And no wish to seek it.
 
 <!-- TGD-003627 -->
@@ -8990,14 +8990,14 @@ So it is said. At the time of the result, the Dharma embodiment, together with i
 
 <!-- TGD-003639 -->
 
-འདི་ལ་བསལ་བྱ་ཅི་ཡང་མེད།
-བཞག་པར་བྱ་བ་ཅུང་ཟད་མེད།
-ཡང་དག་ཉིད་ལ་ཡང་དག་ལྟ།
+འདི་ལ་བསལ་བྱ་ཅི་ཡང་མེད།<br>
+བཞག་པར་བྱ་བ་ཅུང་ཟད་མེད།<br>
+ཡང་དག་ཉིད་ལ་ཡང་དག་ལྟ།<br>
 ཡང་དག་མཐོང་ནས་རྣམ་པར་གྲོལ།
 
-There is nothing here to remove,
-And not the slightest thing to add.
-Look authentically at the authentic;
+There is nothing here to remove,<br>
+And not the slightest thing to add.<br>
+Look authentically at the authentic;<br>
 Seeing authentically, one is fully liberated.
 
 <!-- TGD-003643 -->
@@ -9016,10 +9016,10 @@ So it is said.
 
 <!-- TGD-003647 -->
 
-གལ་ཏེ་མཉམ་བཞག་སེམས་བརྟན་ན། །
+གལ་ཏེ་མཉམ་བཞག་སེམས་བརྟན་ན། །<br>
 ལུས་ངག་དགེ་བ་གཙོར་མི་བྱ།
 
-If ordinary mind is stable in equipoise,
+If ordinary mind is stable in equipoise,<br>
 Do not give priority to virtue of body and speech.
 
 <!-- TGD-003649 -->
@@ -9103,10 +9103,10 @@ As equipoise grows, qualities also increase. The inconceivable qualities at the 
 
 <!-- TGD-003693 -->
 
-བྱང་ཆུབ་སེམས་དཔའ་ས་བཅུ་དག །
+བྱང་ཆུབ་སེམས་དཔའ་ས་བཅུ་དག །<br>
 སྐྱེ་མེད་དུ་གནས་པ་ཡོན་ཏན་ཡིན།
 
-The qualities of bodhisattvas on the ten grounds
+The qualities of bodhisattvas on the ten grounds<br>
 Are their abiding in the unborn.
 
 <!-- TGD-003695 -->
@@ -9132,14 +9132,14 @@ Vajra statement. Some say, “If one realizes Dharma embodiment Mahamudra, all q
 
 <!-- TGD-003706 -->
 
-ས་ནི་བསམ་གྱིས་མི་ཁྱབ་པའི། །
-དགེ་བའི་ལས་ཀྱི་རྒྱུ་རྐྱེན་གྱིས།།
-རྨོངས་པ་རབ་ཏུ་སྤངས་པ་ཡིིས། །
+ས་ནི་བསམ་གྱིས་མི་ཁྱབ་པའི། །<br>
+དགེ་བའི་ལས་ཀྱི་རྒྱུ་རྐྱེན་གྱིས།།<br>
+རྨོངས་པ་རབ་ཏུ་སྤངས་པ་ཡིིས། །<br>
 འོད་ཟེར་སྣ་ཚོགས་འགྲུབ་པ་ཡིན།
 
-Through the causes and conditions of inconceivable
-Virtuous karma on the grounds,
-By completely abandoning bewilderment,
+Through the causes and conditions of inconceivable<br>
+Virtuous karma on the grounds,<br>
+By completely abandoning bewilderment,<br>
 Various rays of light are accomplished.[^N-C-042]
 
 <!-- TGD-003710 -->
@@ -9198,14 +9198,14 @@ Here, when emptiness is realized, causal dependent arising itself occurs insepar
 
 <!-- TGD-003739 -->
 
-ཆོས་ཉིད་ལས་ཀྱི་རྣམ་སྨིན་མེད་ཤེས་ཀྱང་།
-དགེ་དང་མི་དགེའི་ལས་ནི་ཆུད་མི་ཟ། །
-ཞི་བར་གནས་པ་རང་རྒྱལ་ཐེག་པ་དེ།
+ཆོས་ཉིད་ལས་ཀྱི་རྣམ་སྨིན་མེད་ཤེས་ཀྱང་།<br>
+དགེ་དང་མི་དགེའི་ལས་ནི་ཆུད་མི་ཟ། །<br>
+ཞི་བར་གནས་པ་རང་རྒྱལ་ཐེག་པ་དེ།<br>
 ཉན་ཐོས་རྣམ་པར་གྲོལ་བའི་སྒྲ་ཕྱིར་འབྲང༌། །
 
-Though one knows that in the nature of phenomena there is no karmic ripening,
-Virtuous and nonvirtuous karma does not go to waste.
-That vehicle of solitary victors, abiding in peace,
+Though one knows that in the nature of phenomena there is no karmic ripening,<br>
+Virtuous and nonvirtuous karma does not go to waste.<br>
+That vehicle of solitary victors, abiding in peace,<br>
 Follows the word of the hearers’ liberation.[^N-C-045]
 
 <!-- TGD-003743 -->
@@ -9216,14 +9216,14 @@ The Sūtra of the Questions of Jönpa says:
 
 <!-- TGD-003744 -->
 
-རྒྱུ་ལ་བརྟེན་པའི་མཁས་པ་བཅོམ་ལྡན་འདས། །
-མཐའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་བ།
-ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་ཁོ་ན་གསུངས། །
+རྒྱུ་ལ་བརྟེན་པའི་མཁས་པ་བཅོམ་ལྡན་འདས། །<br>
+མཐའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་བ།<br>
+ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་ཁོ་ན་གསུངས། །<br>
 ལྟ་བའི་མུན་བྲལ་ཁྱེད་ལ་ཕྱག་འཚལ་ལོ། །
 
-Blessed One, skilled in dependence on causes,
-Never possessing views of the two extremes,
-You teach precisely the ripened results of karma.
+Blessed One, skilled in dependence on causes,<br>
+Never possessing views of the two extremes,<br>
+You teach precisely the ripened results of karma.<br>
 Homage to you, free from the darkness of views.
 
 <!-- TGD-003748 -->
@@ -9235,15 +9235,15 @@ So it is said. The Jetsün gave Gampopa this Dharma instruction at his departure
 
 <!-- TGD-003750 -->
 
-ཡར་སངས་རྒྱས་ལ་རེ་བ་མེད་ཀྱང་
-དཀར་པོའི་ཆོས་སྤྱོད་རྒྱུན་མི་བཅད།
-མར་ངན་སོང༌ལ་དོགས་པ་མེད་ཀྱང་
+ཡར་སངས་རྒྱས་ལ་རེ་བ་མེད་ཀྱང་<br>
+དཀར་པོའི་ཆོས་སྤྱོད་རྒྱུན་མི་བཅད།<br>
+མར་ངན་སོང༌ལ་དོགས་པ་མེད་ཀྱང་<br>
 སྡིག་པ་ཕྲ་ཞིང་ཕྲ་བ་ལ་འཛེམ་ཞེས་སོགས་གསུངས་སོ། །
 
-Though you have no hope for buddhahood above,
-Do not interrupt wholesome Dharma activity.
-Though you have no fear of bad destinies below,
-Shun even the subtlest wrongdoing.
+Though you have no hope for buddhahood above,<br>
+Do not interrupt wholesome Dharma activity.<br>
+Though you have no fear of bad destinies below,<br>
+Shun even the subtlest wrongdoing.<br>
 So he said, and more.
 
 <!-- TGD-003754 -->
@@ -9262,10 +9262,10 @@ If one thinks this contradictory, it is not. The King of Deep Absorption speaks 
 
 <!-- TGD-003763 -->
 
-གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །
+གང་ལ་སྟོང་པ་ཉིད་རུང་བ། །<br>
 དེ་ལ་ཐམས་ཅད་རུང་བར་གྱུར།
 
-For whom emptiness is tenable,
+For whom emptiness is tenable,<br>
 Everything is tenable.
 
 <!-- TGD-003765 -->
@@ -9276,12 +9276,12 @@ And:
 
 <!-- TGD-003766 -->
 
-རྟེན་ཅིང་འབྲེལ་འབྱུང་མ་གཏོགས་པའི། །
-ཆོས་འགའ་ཡོད་པ་མ་ཡིན་ནོ། །
+རྟེན་ཅིང་འབྲེལ་འབྱུང་མ་གཏོགས་པའི། །<br>
+ཆོས་འགའ་ཡོད་པ་མ་ཡིན་ནོ། །<br>
 དེ་ཕྱིར་སྟོང་ཉིད་མ་ཡིན་པའི།།
 
-There is no phenomenon whatsoever
-Apart from dependent arising.
+There is no phenomenon whatsoever<br>
+Apart from dependent arising.<br>
 Therefore, [something] that is not emptiness—[quotation breaks off].[^N-C-046]
 
 <!-- TGD-003769 -->
@@ -9335,14 +9335,14 @@ Here, even a yogin possessing realization has particular need of the path of met
 
 <!-- TGD-003798 -->
 
-དེ་ལྟར་རྣལ་འབྱོར་པ་རྣམས་ཀྱི། །
-སྟོང་པ་ཉིད་ནིx
-བློ་ནི་གཞན་དོནx
+དེ་ལྟར་རྣལ་འབྱོར་པ་རྣམས་ཀྱི། །<br>
+སྟོང་པ་ཉིད་ནིx<br>
+བློ་ནི་གཞན་དོནx<br>
 འགྱུར་བ་ཉིད་དུx
 
-In that way, for yogins,
-Emptiness is x [unresolved];
-Conceptual mind, for others’ benefit x [unresolved];
+In that way, for yogins,<br>
+Emptiness is x [unresolved];<br>
+Conceptual mind, for others’ benefit x [unresolved];<br>
 Becoming itself x [unresolved].[^N-C-049]
 
 <!-- TGD-003802 -->
@@ -9354,10 +9354,10 @@ And Lord Maitreya said:
 
 <!-- TGD-003804 -->
 
-མགོ་ལ་སེམས་ཅན་ཁུར་ཆེན་ཁྱེར་བ་ཡི། །
+མགོ་ལ་སེམས་ཅན་ཁུར་ཆེན་ཁྱེར་བ་ཡི། །<br>
 སེམས་དཔའ་མཆོག་རྣམས་དལ་གྱིས་འགྲོ་མི་མཛེས། །
 
-For the supreme courageous ones carrying
+For the supreme courageous ones carrying<br>
 The great burden of beings on their heads, a leisurely pace is unbecoming.
 
 <!-- TGD-003806 -->
@@ -9375,82 +9375,82 @@ Addendum. Others maintain the completion stage with signs, endowed with four win
 
 <!-- TGD-003809 -->
 
-དང་པོ་ཞག་འགའ་སྟོང་པར་བསྒོམས།
-དེ་ནས་སྣ་བུག་གཉིས་ཀྱི་རླུང་། །
-དྲག་པོ་ལན་གསུམ་ཕྱི་རུ་འབུད། །
+དང་པོ་ཞག་འགའ་སྟོང་པར་བསྒོམས།<br>
+དེ་ནས་སྣ་བུག་གཉིས་ཀྱི་རླུང་། །<br>
+དྲག་པོ་ལན་གསུམ་ཕྱི་རུ་འབུད། །<br>
 དེ་ལྟར་མ་བྱས་ནང་དུ་འགྲོ། །
 
-First cultivate emptiness for a few days.
-Then forcefully expel the wind
-Three times through both nostrils.
+First cultivate emptiness for a few days.<br>
+Then forcefully expel the wind<br>
+Three times through both nostrils.<br>
 If this is not done, it goes inside.
 
 <!-- TGD-003813 -->
 
-དེ་ནས་སྣ་ཐུག་གཉིས་ཀྱི་རླུང༌། །
-ལྕགས་ཀྱུ་བཞིན་དུ་དགུག་པར་བྱ། །
-དེ་ཡང་འཇམ་ལ་རིང་བའོ། །
-དེ་ཡིས་རླུང་ནི་རང་གནས་ཚུད། །
-དྲག་ན་རྩ་གནས་གཞན་དུ་དབྱེར། །
+དེ་ནས་སྣ་ཐུག་གཉིས་ཀྱི་རླུང༌། །<br>
+ལྕགས་ཀྱུ་བཞིན་དུ་དགུག་པར་བྱ། །<br>
+དེ་ཡང་འཇམ་ལ་རིང་བའོ། །<br>
+དེ་ཡིས་རླུང་ནི་རང་གནས་ཚུད། །<br>
+དྲག་ན་རྩ་གནས་གཞན་དུ་དབྱེར། །<br>
 དེ་ནི་རྔུབ་པའི་རླུང་སྦྱོར་ཡིན༑ ༑
 
-Then draw the wind through both nostrils
-Like drawing with a hook,
-Gently and at length.
-By this the wind enters its own place;
-If forceful, it diverts into other channel locations.
+Then draw the wind through both nostrils<br>
+Like drawing with a hook,<br>
+Gently and at length.<br>
+By this the wind enters its own place;<br>
+If forceful, it diverts into other channel locations.<br>
 This is the wind practice of inhaling.
 
 <!-- TGD-003819 -->
 
-རླུང་ནི་གཡས་གཡོན་གཉིས་ན་མར། །
-ལུག་རྒྱུད་རྒྱུ་མ་ཕུས་བཏབ་བཞིན། །
-ཧ་ར་ར་ནི་སོང་ནས་ཀྱང་། །
-དབུ་མའི་ནང་དུ་ཞུགས་པར་བསམ། །
+རླུང་ནི་གཡས་གཡོན་གཉིས་ན་མར། །<br>
+ལུག་རྒྱུད་རྒྱུ་མ་ཕུས་བཏབ་བཞིན། །<br>
+ཧ་ར་ར་ནི་སོང་ནས་ཀྱང་། །<br>
+དབུ་མའི་ནང་དུ་ཞུགས་པར་བསམ། །<br>
 དེ་ནི་འགང་བའི་རླུང་སྦྱོར་རོ། །
 
-The wind descends through the right and left,
-Like sheep intestines inflated by blowing,
-Going “ha-ra-ra.”
-Imagine that it enters the central channel.
+The wind descends through the right and left,<br>
+Like sheep intestines inflated by blowing,<br>
+Going “ha-ra-ra.”<br>
+Imagine that it enters the central channel.<br>
 This is the wind practice of filling.[^N-C-050]
 
 <!-- TGD-003824 -->
 
-དེ་ནས་ཕོ་བར་རླུང་བཅུག་ལ༑ །
-ཐུབ་ཀྱང་དྲག་ཏུ་མནན་པར་བྱ། །
-མི་ཐུབ་དུས་སུ་ཅུང་ཟད་རྔུབ། །
-དེས་ཀྱང་མ་ཐུབ་སྣ་གཉིས་ནས། །
-སེ་གོལ་གཏོགས་པའི་ཚད་ཙམ་ཞིག །
-ཕྱི་རུ་བཏང་ལ་ལྷག་མ་བསྡམས། །
+དེ་ནས་ཕོ་བར་རླུང་བཅུག་ལ༑ །<br>
+ཐུབ་ཀྱང་དྲག་ཏུ་མནན་པར་བྱ། །<br>
+མི་ཐུབ་དུས་སུ་ཅུང་ཟད་རྔུབ། །<br>
+དེས་ཀྱང་མ་ཐུབ་སྣ་གཉིས་ནས། །<br>
+སེ་གོལ་གཏོགས་པའི་ཚད་ཙམ་ཞིག །<br>
+ཕྱི་རུ་བཏང་ལ་ལྷག་མ་བསྡམས། །<br>
 དེ་ནི་གཞིལ་བའི་རླུང་སྦྱོར་རོ། །
 
-Then bring the wind into the belly
-And, while able, press it down strongly.
-When unable, inhale a little.
-If that too is insufficient, through both nostrils
-Release outward for the measure of a finger snap
-And hold the remainder.
+Then bring the wind into the belly<br>
+And, while able, press it down strongly.<br>
+When unable, inhale a little.<br>
+If that too is insufficient, through both nostrils<br>
+Release outward for the measure of a finger snap<br>
+And hold the remainder.<br>
 This is the wind practice of pressing.[^N-C-051]
 
 <!-- TGD-003831 -->
 
-བསྡམས་པས་མ་ཐུབ་གཏོང་དུས་སུ། །
-དངོས་སུ་སྣ་བུག་གཉིས་ན་ཡར། །
-ཆ་གཅིག་ཙམ་གཅིག་དལ་བར་བཏང༌། །
-དམིགས་པ་དབུ་མའི་ནང་ལ་ཡར། །
-རྩལ་པོ་ཆེ་ཡིས་མདའ་འཕང་བཞིན།
-ཚངས་པའི་སྒོ་ནས་ནམ་མཁའ་ལ། །
-སྔོ་ནི་ཕྱུར་ཕྱུར་འགྲོ་བར་བསམས། །
+བསྡམས་པས་མ་ཐུབ་གཏོང་དུས་སུ། །<br>
+དངོས་སུ་སྣ་བུག་གཉིས་ན་ཡར། །<br>
+ཆ་གཅིག་ཙམ་གཅིག་དལ་བར་བཏང༌། །<br>
+དམིགས་པ་དབུ་མའི་ནང་ལ་ཡར། །<br>
+རྩལ་པོ་ཆེ་ཡིས་མདའ་འཕང་བཞིན།<br>
+ཚངས་པའི་སྒོ་ནས་ནམ་མཁའ་ལ། །<br>
+སྔོ་ནི་ཕྱུར་ཕྱུར་འགྲོ་བར་བསམས། །<br>
 མདའ་ལྟར་འཕངས་བའི་རླུང་སྦྱོར་རོ། །
 
-When unable to hold it and the time comes to release,
-Actually release just one portion slowly
-Upward through both nostrils.
-As the object of focus, imagine it rising inside the central channel,
-Like an arrow shot by a powerful archer,
-Through Brahmā’s gate into space,
-Blue and billowing as it goes.
+When unable to hold it and the time comes to release,<br>
+Actually release just one portion slowly<br>
+Upward through both nostrils.<br>
+As the object of focus, imagine it rising inside the central channel,<br>
+Like an arrow shot by a powerful archer,<br>
+Through Brahmā’s gate into space,<br>
+Blue and billowing as it goes.<br>
 This is the wind practice of shooting like an arrow.[^N-C-052]
 
 <!-- TGD-003839 -->
@@ -9595,14 +9595,14 @@ Vajra statement. According to others’ positions, at the ground of buddhahood t
 
 <!-- TGD-003914 -->
 
-གང་དག་ང་ལ་གཟུགསུ་མཐོང་།།
-གང་དག་ང་ལ་དགྲར་ཤེས་ན། །
-ལོག་པའི་ལམ་དུ་ཞུགས་པ་དེ། །
+གང་དག་ང་ལ་གཟུགསུ་མཐོང་།།<br>
+གང་དག་ང་ལ་དགྲར་ཤེས་ན། །<br>
+ལོག་པའི་ལམ་དུ་ཞུགས་པ་དེ། །<br>
 སྐྱེས་བུ་དེ་དག་ང་མི་མཐོང་། །
 
-Those who see me as form,
-Those who know me as an enemy,
-Have entered a mistaken path;
+Those who see me as form,<br>
+Those who know me as an enemy,<br>
+Have entered a mistaken path;<br>
 Those people do not see me.[^N-C-058]
 
 <!-- TGD-003918 -->
@@ -9629,10 +9629,10 @@ Here, at the resultant ground of buddhahood there is not even a phenomenon to di
 
 <!-- TGD-003930 -->
 
-གཉིས་མེད་གཉིས་སུ་མེད་པར་སྟོན། །
+གཉིས་མེད་གཉིས་སུ་མེད་པར་སྟོན། །<br>
 ཡང་དག་མཐའ་ལ་རྣམ་པར་གནས།
 
-Nondual, teaching the absence of duality,
+Nondual, teaching the absence of duality,<br>
 Fully abiding at the authentic limit.
 
 <!-- TGD-003932 -->
@@ -9644,14 +9644,14 @@ And the Vajra Garland explanatory tantra says:
 
 <!-- TGD-003934 -->
 
-ཀུན་རྫོབ་དང་ནི་དོན་དམ་དག །
-རྟོག་པ་གཉིས་དང་ཡང་དག་བྲལ། །
-གང་དུ་ཡང་དག་འདྲེས་གྱུར་པ། །
+ཀུན་རྫོབ་དང་ནི་དོན་དམ་དག །<br>
+རྟོག་པ་གཉིས་དང་ཡང་དག་བྲལ། །<br>
+གང་དུ་ཡང་དག་འདྲེས་གྱུར་པ། །<br>
 དེ་ནི་ཟུང་དུ་འཇུག་པར་བཤད།
 
-Truly free from the two conceptual thoughts
-Of conventional and ultimate,
-Where they have authentically mixed,
+Truly free from the two conceptual thoughts<br>
+Of conventional and ultimate,<br>
+Where they have authentically mixed,<br>
 That is explained as union.[^N-C-060]
 
 <!-- TGD-003938 -->
@@ -9663,16 +9663,16 @@ And the Root [Verses on] Discerning Knowing says:
 
 <!-- TGD-003940 -->
 
-གང་གི་རྟེན་ཅིང་འབྲེལ་བར་འབྱུང༌། །
-འགག་པ་མེད་པ་སྐྱེ་མེད་པ། །
-ཆད་པ་མེད་པ་རྟག་མེད་པ། །
-འོང་བ་མེད་པ་འགྲོ་མེད་པ། །
+གང་གི་རྟེན་ཅིང་འབྲེལ་བར་འབྱུང༌། །<br>
+འགག་པ་མེད་པ་སྐྱེ་མེད་པ། །<br>
+ཆད་པ་མེད་པ་རྟག་མེད་པ། །<br>
+འོང་བ་མེད་པ་འགྲོ་མེད་པ། །<br>
 ཐ་དད་དོན་མིན་དོན་གཅིག་མིན།
 
-That which arises dependently
-Has no cessation and no arising,
-No annihilation and no permanence,
-No coming and no going,
+That which arises dependently<br>
+Has no cessation and no arising,<br>
+No annihilation and no permanence,<br>
+No coming and no going,<br>
 Neither distinct entities nor a single entity.[^N-C-061]
 
 <!-- TGD-003945 -->
@@ -9707,14 +9707,14 @@ Vajra statement. Concerning supported primordial knowing, some Prāsaṅgikas, s
 
 <!-- TGD-003955 -->
 
-ཤེས་བྱའི་བུད་ཤིང་སྐམ་པོ་མ་ལུས་པ། །
-བསྲེགས་པས་ཞིང་དེ་རྒྱལ་རྣམས་ཆོས་སྐུ་དེ། །
-དེ་ཚེ་སྐྱེ་བ་མེད་ཅིང་འགག་པ་མེད། །
+ཤེས་བྱའི་བུད་ཤིང་སྐམ་པོ་མ་ལུས་པ། །<br>
+བསྲེགས་པས་ཞིང་དེ་རྒྱལ་རྣམས་ཆོས་སྐུ་དེ། །<br>
+དེ་ཚེ་སྐྱེ་བ་མེད་ཅིང་འགག་པ་མེད། །<br>
 སེམས་འགགས་པ་དེ་སྐུ་ཡིས་མངོན་སུམ་མཛད།
 
-When all the dry firewood of knowables has been burned,
-That peaceful [state] is the victorious ones’ Dharma embodiment.
-At that time there is no arising and no cessation;
+When all the dry firewood of knowables has been burned,<br>
+That peaceful [state] is the victorious ones’ Dharma embodiment.<br>
+At that time there is no arising and no cessation;<br>
 The cessation of ordinary mind is actualized through the embodiment.[^N-C-063]
 
 <!-- TGD-003959 -->
@@ -9739,12 +9739,12 @@ Svātantrikas such as Bhāvaviveka, by contrast, say that [describing] ultimate 
 
 <!-- TGD-003969 -->
 
-གང་ཞིག་ཆོས་འདི་ཐོས་པའམ།
-ཐོས་ནས་ཐེ་ཚོམ་ཟོས་པས་ཀྱང༌། །
+གང་ཞིག་ཆོས་འདི་ཐོས་པའམ།<br>
+ཐོས་ནས་ཐེ་ཚོམ་ཟོས་པས་ཀྱང༌། །<br>
 སྲིད་པ་ཧྲུལ་པོར་གཏོང་བར་བྱེད།
 
-Whoever hears this Dharma,
-Or even entertains doubt after hearing it,
+Whoever hears this Dharma,<br>
+Or even entertains doubt after hearing it,<br>
 Makes existence fall to tatters.
 
 <!-- TGD-003972 -->
@@ -9766,14 +9766,14 @@ Vajra statement. Because it is taught that even if there were a phenomenon surpa
 
 <!-- TGD-003979 -->
 
-དེ་ལྟར་ཡང་ཆོས་ཀུན་སྒྱུ་མར་ཐུགས་སུ་ཆུད།
-སྒྱུ་མ་ཉིད་ཀྱང་མཆིས་མ་ལགས། །
-སྒྱུ་མའི་ཆོས་ལས་རྣམ་གྲོལ་བ། །
+དེ་ལྟར་ཡང་ཆོས་ཀུན་སྒྱུ་མར་ཐུགས་སུ་ཆུད།<br>
+སྒྱུ་མ་ཉིད་ཀྱང་མཆིས་མ་ལགས། །<br>
+སྒྱུ་མའི་ཆོས་ལས་རྣམ་གྲོལ་བ། །<br>
 མི་རྟེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །
 
-All phenomena are understood as illusion;
-Yet illusion itself does not exist.
-Liberated from the phenomena of illusion,
+All phenomena are understood as illusion;<br>
+Yet illusion itself does not exist.<br>
+Liberated from the phenomena of illusion,<br>
 Independent one, to you I pay homage.
 
 <!-- TGD-003983 -->
@@ -9820,10 +9820,10 @@ This also occurs in the Golden Light and the Confession of Downfalls. The Conden
 
 <!-- TGD-004005 -->
 
-ཡེཤེས་མེད་ན་ཡོན་ཏན་འཕེལ་མེད་བྱང་ཆུབ་མེད། །
+ཡེཤེས་མེད་ན་ཡོན་ཏན་འཕེལ་མེད་བྱང་ཆུབ་མེད། །<br>
 རྒྱ་མཚོ་འདྲ་བའི་སངས་རྒྱས་ཆོས་ཀྱང་མེད་པར་གྱུར།
 
-Without primordial knowing, there is no growth of qualities and no awakening;
+Without primordial knowing, there is no growth of qualities and no awakening;<br>
 The ocean-like qualities of a buddha would not exist either.
 
 <!-- TGD-004007 -->
@@ -9850,10 +9850,10 @@ In our system, however, at buddhahood the primordial knowing that knows is nondu
 
 <!-- TGD-004019 -->
 
-གཉིས་མེད་ཡེ་ཤེས་ཚུལ་འཆང་བ། །
+གཉིས་མེད་ཡེ་ཤེས་ཚུལ་འཆང་བ། །<br>
 རྣམ་པར་ཤེས་པའི་ཆོས་ཉིད་འདས།
 
-Holding the way of nondual primordial knowing,
+Holding the way of nondual primordial knowing,<br>
 Transcending the nature of phenomena of consciousness.
 
 <!-- TGD-004021 -->
@@ -9865,10 +9865,10 @@ And Entering Bodhisattva Activity says:
 
 <!-- TGD-004023 -->
 
-དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན། །
+དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན། །<br>
 བློ་ནི་ཀུན་རྫོབ་ཡིན་པར་འདོད།
 
-The ultimate is not the sphere of conceptual mind;
+The ultimate is not the sphere of conceptual mind;<br>
 Conceptual mind is held to be conventional.
 
 <!-- TGD-004025 -->
@@ -9891,14 +9891,14 @@ To hold existence or nonexistence does not transcend permanence and annihilation
 
 <!-- TGD-004033 -->
 
-ཡོད་དང་མེད་ཅེས་བྱ་བ་མཐའ་ཡིན་ཏེ།
-དེ་བཞིན་གཙང་དང་མི་གཙང་འདི་ཡང་མཐའ། །
-དེ་ཕྱིར་མཐའ་འདི་དག་ནི་རྣམ་སྤངས་ཏེ།
+ཡོད་དང་མེད་ཅེས་བྱ་བ་མཐའ་ཡིན་ཏེ།<br>
+དེ་བཞིན་གཙང་དང་མི་གཙང་འདི་ཡང་མཐའ། །<br>
+དེ་ཕྱིར་མཐའ་འདི་དག་ནི་རྣམ་སྤངས་ཏེ།<br>
 མཁས་པས་དབུས་ལའང་གནས་པར་མི་བྱའོ། ༑
 
-“Exists” and “does not exist” are extremes;
-Likewise, pure and impure are also extremes.
-Therefore, having completely abandoned these extremes,
+“Exists” and “does not exist” are extremes;<br>
+Likewise, pure and impure are also extremes.<br>
+Therefore, having completely abandoned these extremes,<br>
 The learned should not abide even in the middle.
 
 <!-- TGD-004037 -->
@@ -9910,14 +9910,14 @@ And the noble master said:
 
 <!-- TGD-004039 -->
 
-ཡོད་ཅེས་བྱ་བ་རྟག་པར་ལྟ། །
-མེད་ཅེས་བྱ་བ་ཆད་པར་ལྟ། །
-དེ་ཕྱིར་ཡོད་ དང་མེད་པ་གཉིས། །
+ཡོད་ཅེས་བྱ་བ་རྟག་པར་ལྟ། །<br>
+མེད་ཅེས་བྱ་བ་ཆད་པར་ལྟ། །<br>
+དེ་ཕྱིར་ཡོད་ དང་མེད་པ་གཉིས། །<br>
 མཁས་པས་གནས་པར་མི་བྱའོ། །
 
-“It exists” is a view of permanence;
-“It does not exist” is a view of annihilation.
-Therefore the learned should abide
+“It exists” is a view of permanence;<br>
+“It does not exist” is a view of annihilation.<br>
+Therefore the learned should abide<br>
 In neither existence nor nonexistence.
 
 <!-- TGD-004043 -->
@@ -9945,10 +9945,10 @@ Thus, from inference by conceptual mind, there are such expressions as “seen a
 
 <!-- TGD-004056 -->
 
-ཚད་མར་གྱུར་པ་འགྲོ་ལ་ཕན་བཞེད་པ།
+ཚད་མར་གྱུར་པ་འགྲོ་ལ་ཕན་བཞེད་པ།<br>
 སྟོན་པ་བདེ་གཤེགས་སྐྱོབ་ལ་ཕྱག་འཚལ་ལོ། །
 
-To the one who has become an authority, who intends beings’ benefit,
+To the one who has become an authority, who intends beings’ benefit,<br>
 The teacher, Sugata, protector—to you I pay homage.
 
 <!-- TGD-004058 -->
@@ -10037,14 +10037,14 @@ So it is said. Taking the claim that the Buddha’s awakened heart ceases to fun
 
 <!-- TGD-004097 -->
 
-ཐམས་ཅད་སེམས་ལ་གནས་པས་ན། །
-སེམས་མེད་སངས་རྒྱས་མ་ཡིན་ཏེ།
-ངམ་གྲོགས་ལ་སོགས་བེམ་བོའོ། །
+ཐམས་ཅད་སེམས་ལ་གནས་པས་ན། །<br>
+སེམས་མེད་སངས་རྒྱས་མ་ཡིན་ཏེ།<br>
+ངམ་གྲོགས་ལ་སོགས་བེམ་བོའོ། །<br>
 སེམས་ཉིད་སངས་རྒྱས་ཡིན་པའི་ཕྱིར།
 
-Since everything abides in ordinary mind,
-What is without ordinary mind is not a buddha;
-It is inert matter, like ravines and the like,
+Since everything abides in ordinary mind,<br>
+What is without ordinary mind is not a buddha;<br>
+It is inert matter, like ravines and the like,<br>
 Because ordinary mind itself is buddha.[^N-C-075]
 
 <!-- TGD-004101 -->
@@ -10080,10 +10080,10 @@ Here, the qualities of the Dharma embodiment are the complete enjoyment embodime
 
 <!-- TGD-004117 -->
 
-རང་དོན་གཞན་དོན་དོན་དམ་སྐུ་རང་ནི། །
+རང་དོན་གཞན་དོན་དོན་དམ་སྐུ་རང་ནི། །<br>
 དེ་ལ་བརྟེན་ནས་ཀུན་རྫོབ་སྐུ་ཉིད་དེ།
 
-For one’s own benefit and others’ benefit: the ultimate embodiment itself,
+For one’s own benefit and others’ benefit: the ultimate embodiment itself,<br>
 And, dependent on it, the conventional embodiment.[^N-C-077]
 
 <!-- TGD-004119 -->
@@ -10125,10 +10125,10 @@ Taking that as the subject: even at buddhahood, the ultimate result of knowing e
 
 <!-- TGD-004136 -->
 
-བྱང་ཆུབ་སེམས་ཀྱི་རང་བཞིན་སྐུ། །
+བྱང་ཆུབ་སེམས་ཀྱི་རང་བཞིན་སྐུ། །<br>
 དཔལ་ལྡན་རྡོ་རྗེ་འཆང་ལ་འདུད།
 
-I bow to glorious Vajradhara,
+I bow to glorious Vajradhara,<br>
 The embodiment of the intrinsic nature of the ordinary mind of awakening.
 
 <!-- TGD-004138 -->
@@ -10142,18 +10142,18 @@ Thus the resolve for others’ benefit occurs until saṃsāra is emptied, and t
 
 <!-- TGD-004142 -->
 
-དཔའ་བོ་ཆེན་པོ་ཐབས་མཁས་ཏེ། །
-བྱེ་བ་བརྒྱད་ཅུར་རྒྱལ་བ་ཉིད། །
-སངས་རྒྱས་ཉིད་དུ་བསྟན་གྱུར་ཀྱང་། །
-ད་དུང་ཆོག་པའི་འདུ་ཤེས་གསལ། །
-དཔའ་བོ་ཆེན་པོ་རྣམ་པར་འཕྲུལ། །
+དཔའ་བོ་ཆེན་པོ་ཐབས་མཁས་ཏེ། །<br>
+བྱེ་བ་བརྒྱད་ཅུར་རྒྱལ་བ་ཉིད། །<br>
+སངས་རྒྱས་ཉིད་དུ་བསྟན་གྱུར་ཀྱང་། །<br>
+ད་དུང་ཆོག་པའི་འདུ་ཤེས་གསལ། །<br>
+དཔའ་བོ་ཆེན་པོ་རྣམ་པར་འཕྲུལ། །<br>
 བྱང་ཆུབ་མཆོག་ཏུ་ཐུགས་ཀྱང་འཇུག །
 
-The great hero, skilled in means,
-Has shown himself as a victorious buddha
-Eighty koṭis [of times],
-Yet still the perception of contentment is clear.
-The great hero displays transformations,
+The great hero, skilled in means,<br>
+Has shown himself as a victorious buddha<br>
+Eighty koṭis [of times],<br>
+Yet still the perception of contentment is clear.<br>
+The great hero displays transformations,<br>
 And his awakened heart enters supreme awakening.[^N-C-080]
 
 <!-- TGD-004148 -->
@@ -10165,38 +10165,38 @@ And Entering the Middle Way says:
 
 <!-- TGD-004150 -->
 
-བདེ་བར་གཤེགས་པ་མ་ལུས་ཕྱོགས་ཞིང་སངས་རྒྱས་མཐའ་དག་ན། །
-ཕྲ་རབ་རྡུལ་གྱི་རྡུལ་རྣམས་བདོག་པར་གྱུར་པ་ཇི་སྙེད་པ།
-བྱང་ཆུབ་མཆོག་རབ་དམ་པར་གཤེགས་པའི་བསྐལ་པའང་དེ་སྙེད་དེ།
+བདེ་བར་གཤེགས་པ་མ་ལུས་ཕྱོགས་ཞིང་སངས་རྒྱས་མཐའ་དག་ན། །<br>
+ཕྲ་རབ་རྡུལ་གྱི་རྡུལ་རྣམས་བདོག་པར་གྱུར་པ་ཇི་སྙེད་པ།<br>
+བྱང་ཆུབ་མཆོག་རབ་དམ་པར་གཤེགས་པའི་བསྐལ་པའང་དེ་སྙེད་དེ།<br>
 འོན་ཀྱང་ཁྱོད་ཀྱི་གསང་བ་འདི་ནི་བསྙད་བགྱི་མ་ལགས་སོ། །
 
-As many finest particles as there are
-In all the buddha-fields of every Sugata in every direction,
-So many aeons have passed since you reached most supreme awakening;
+As many finest particles as there are<br>
+In all the buddha-fields of every Sugata in every direction,<br>
+So many aeons have passed since you reached most supreme awakening;<br>
 Yet this secret of yours must not be disclosed.
 
 <!-- TGD-004154 -->
 
-རྒྱལ་བ་ཇི་སྲིད་འཇིག་རྟེན་མཐའ་དག་མཆོག་ཏུ་རབ་ཞི་བར།
-འགྲོ་བ་མིན་ཅིང་ནམ་མཁའ་རྣམ་འཇིག་འགྱུར་མིན་དེ་སྲིད་དུ།
-ཤེས་རབ་ཡུམ་གྱིས་བསྐྱེད་པ་ཁྱོད་ལ་ཐུགས་བརྩེ་མ་མ་ཡི། །
+རྒྱལ་བ་ཇི་སྲིད་འཇིག་རྟེན་མཐའ་དག་མཆོག་ཏུ་རབ་ཞི་བར།<br>
+འགྲོ་བ་མིན་ཅིང་ནམ་མཁའ་རྣམ་འཇིག་འགྱུར་མིན་དེ་སྲིད་དུ།<br>
+ཤེས་རབ་ཡུམ་གྱིས་བསྐྱེད་པ་ཁྱོད་ལ་ཐུགས་བརྩེ་མ་མ་ཡི། །<br>
 ཚུལ་ལུགས་བྱེད་པས་རབ་ཏུ་ཞི་བར་འགྱུར་བ་ག་ལ་མངའ། །
 
-Victorious One, as long as all the world has not gone
-To supreme peace, and space has not disintegrated,
-Compassion acts as nurse to you, born of the mother discerning knowing;
+Victorious One, as long as all the world has not gone<br>
+To supreme peace, and space has not disintegrated,<br>
+Compassion acts as nurse to you, born of the mother discerning knowing;<br>
 How could you pass into complete peace?
 
 <!-- TGD-004158 -->
 
-གཏི་མུག་སྐྱོན་གྱིས་འཇིག་རྟེན་ཁ་ཟས་དུག་བཅས་ཟ་བ་ཉིད། །
-སྐྱེ་བོ་ཉིད་ཀྱི་ནང་མི་དེ་ལ་ཁྱོད་བརྩེ་ཇི་ལྟ་བ། །
-དེ་ལྟར་དུག་ཟོས་ཉེན་པའི་བུ་ལ་མ་ཡི་སྡུག་བསྔལ་མིན་པར་འགྱུར་མ་ལགས༎
+གཏི་མུག་སྐྱོན་གྱིས་འཇིག་རྟེན་ཁ་ཟས་དུག་བཅས་ཟ་བ་ཉིད། །<br>
+སྐྱེ་བོ་ཉིད་ཀྱི་ནང་མི་དེ་ལ་ཁྱོད་བརྩེ་ཇི་ལྟ་བ། །<br>
+དེ་ལྟར་དུག་ཟོས་ཉེན་པའི་བུ་ལ་མ་ཡི་སྡུག་བསྔལ་མིན་པར་འགྱུར་མ་ལགས༎<br>
 དེས་ན་མགོན་པོ་མཆོག་ཏུ་རབ་ཞིར་གཤེགས་པར་གྱུར་མ་ལགས། །
 
-Your love for beings, your kin, who through the fault of bewilderment
-Eat the world’s poisoned food, is such
-That a mother’s suffering for a child afflicted by eating poison is not other than this.
+Your love for beings, your kin, who through the fault of bewilderment<br>
+Eat the world’s poisoned food, is such<br>
+That a mother’s suffering for a child afflicted by eating poison is not other than this.<br>
 Therefore, protector, you do not pass into supreme peace.[^N-C-081]
 
 <!-- TGD-004162 -->
@@ -10208,16 +10208,16 @@ And the Condensed [Perfection] says:
 
 <!-- TGD-004164 -->
 
-མ་ཞིག་ན་བར་གྱུར་པ་བུ་ནི་མང་ཡོད་པ། །
-དེ་ཀུན་ཡིད་མི་བདེ་ཞིང་
-དེ་ལ་རིམ་གྲོ་བྱེད། །
-དེ་བཞིན་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ཁམས་ཀྱི་སངས་རྒྱས་ཀྱང༌། །
+མ་ཞིག་ན་བར་གྱུར་པ་བུ་ནི་མང་ཡོད་པ། །<br>
+དེ་ཀུན་ཡིད་མི་བདེ་ཞིང་<br>
+དེ་ལ་རིམ་གྲོ་བྱེད། །<br>
+དེ་བཞིན་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ཁམས་ཀྱི་སངས་རྒྱས་ཀྱང༌། །<br>
 ཡུམ་གྱུར་ཤེས་རབ་དམ་པ་འདི་ལ་དགོངས་པ་མཛད།
 
-When a mother with many sons falls ill,
-All are distressed in their mental faculties
-And attend to her.
-Likewise, the buddhas in the world systems of the ten directions
+When a mother with many sons falls ill,<br>
+All are distressed in their mental faculties<br>
+And attend to her.<br>
+Likewise, the buddhas in the world systems of the ten directions<br>
 Direct their enlightened intent to this supreme discerning knowing, their mother.
 
 <!-- TGD-004169 -->
@@ -10236,10 +10236,10 @@ Thus, at buddhahood there is the resolve for awakening. The Adornment of Clear R
 
 <!-- TGD-004178 -->
 
-བྱང་ཆུབ་སེམས་ནི་མི་ཟད་ཕྱིར། །
+བྱང་ཆུབ་སེམས་ནི་མི་ཟད་ཕྱིར། །<br>
 དེ་ཕྱིར་ཕྲིན་ལས་རྒྱུན་མི་ཆད།
 
-Because the ordinary mind of awakening is inexhaustible,
+Because the ordinary mind of awakening is inexhaustible,<br>
 Enlightened activity is uninterrupted.
 
 <!-- TGD-004180 -->
@@ -10268,14 +10268,14 @@ Here, that buddha as form embodiment, whose intrinsic nature is the two kinds of
 
 <!-- TGD-004189 -->
 
-རྒྱུ་ལ་བརྟེན་པའི་མཁས་པ་བཅོམ་ལྡན་འདས། ༑
-མཐའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་བ།
-ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་ཁོ་ན་གསུངས། །
+རྒྱུ་ལ་བརྟེན་པའི་མཁས་པ་བཅོམ་ལྡན་འདས། ༑<br>
+མཐའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་བ།<br>
+ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་ཁོ་ན་གསུངས། །<br>
 ལྟ་བའི་མུན་བྲལ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །
 
-Blessed One, skilled in dependence on causes,
-Never possessing views of the two extremes,
-You teach precisely the ripened results of karma.
+Blessed One, skilled in dependence on causes,<br>
+Never possessing views of the two extremes,<br>
+You teach precisely the ripened results of karma.<br>
 Homage to you, free from the darkness of views.
 
 <!-- TGD-004193 -->
@@ -10287,14 +10287,14 @@ And the Adornment of Sūtras says:
 
 <!-- TGD-004195 -->
 
-འཛིན་པ་མི་མངའ་ཉེས་མི་མངའ། །
-རྙོག་པ་མི་མངའ་མི་གནས་པ། །
-མི་གཡོ་ཆོས་རྣམས་ཐམས་ཅད་ལ།།
+འཛིན་པ་མི་མངའ་ཉེས་མི་མངའ། །<br>
+རྙོག་པ་མི་མངའ་མི་གནས་པ། །<br>
+མི་གཡོ་ཆོས་རྣམས་ཐམས་ཅད་ལ།།<br>
 སྤྲོས་མེད་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །
 
-Without an apprehending subject, without faults,
-Without turbidity, without abiding,
-Unmoving, without elaboration regarding all phenomena—
+Without an apprehending subject, without faults,<br>
+Without turbidity, without abiding,<br>
+Unmoving, without elaboration regarding all phenomena—<br>
 To you I pay homage.
 
 <!-- TGD-004199 -->
@@ -10324,24 +10324,24 @@ Here, the awakened heart operates even as far as views of permanence and annihil
 
 <!-- TGD-004209 -->
 
-ལོང་བ་མ་ལགས་ལོང་བ་ལྟར། །
-ཞ་བོ་མ་ལགས་ཞ་པོ་ལྟར། །
-བྱིས་པ་མ་ལགས་བྱིས་ཚུལ་གྱིས། །
+ལོང་བ་མ་ལགས་ལོང་བ་ལྟར། །<br>
+ཞ་བོ་མ་ལགས་ཞ་པོ་ལྟར། །<br>
+བྱིས་པ་མ་ལགས་བྱིས་ཚུལ་གྱིས། །<br>
 སེམས་ཅན་རྣམས་ནི་སྨིན་པར་མཛད།། །
 
-Not blind, yet appearing blind;
-Not lame, yet appearing lame;
-Not childish, yet in a childish manner,
+Not blind, yet appearing blind;<br>
+Not lame, yet appearing lame;<br>
+Not childish, yet in a childish manner,<br>
 He brings beings to maturity.
 
 <!-- TGD-004213 -->
 
-བརྒྱ་བྱིན་ཚངས་པའི་ཆ་བྱད་ཀྱིས། །
-སེམས་ཅན་རྣམས་ཀྱི་དོན་མཛད་ཀྱང༌། །
+བརྒྱ་བྱིན་ཚངས་པའི་ཆ་བྱད་ཀྱིས། །<br>
+སེམས་ཅན་རྣམས་ཀྱི་དོན་མཛད་ཀྱང༌། །<br>
 འཇིག་རྟེན་རྣམས་ཀྱིས་རྟོགས་མི་ནུས།
 
-Though he acts for beings’ benefit
-In the garb of Indra or Brahmā,
+Though he acts for beings’ benefit<br>
+In the garb of Indra or Brahmā,<br>
 The world cannot realize this.
 
 <!-- TGD-004216 -->
@@ -10529,12 +10529,12 @@ A causeless emanation would be impossible, because no phenomenon independent of 
 
 <!-- TGD-004304 -->
 
-རྒྱུ་ལ་བརྟེན་་ པའི་མཁས་པ་བཅོམ་ལྡན་འདས། །
-མཇའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་ཞིང༌། །
+རྒྱུ་ལ་བརྟེན་་ པའི་མཁས་པ་བཅོམ་ལྡན་འདས། །<br>
+མཇའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་ཞིང༌། །<br>
 ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་དེ་དག་གསུངས། །
 
-Blessed One, skilled in dependence on causes,
-Never possessing views of the two extremes,
+Blessed One, skilled in dependence on causes,<br>
+Never possessing views of the two extremes,<br>
 You teach those ripened results of karma.[^N-C-093]
 
 <!-- TGD-004307 -->
@@ -10578,14 +10578,14 @@ Vajra statement. Some say that although the two form embodiments and primordial 
 
 <!-- TGD-004326 -->
 
-ཇི་ལྟར་བཻཌཱུར་ས་གཞི་གཙང་མ་ལ། །
-ལྷ་དབང་ལུས་ཀྱི་གཟུགས་བརྙན་སྣང་བ་ལྟར། །
-དེ་བཞིན་འགྲོ་སེམས་ས་གཞི་གཙང་མ་ལ། །
+ཇི་ལྟར་བཻཌཱུར་ས་གཞི་གཙང་མ་ལ། །<br>
+ལྷ་དབང་ལུས་ཀྱི་གཟུགས་བརྙན་སྣང་བ་ལྟར། །<br>
+དེ་བཞིན་འགྲོ་སེམས་ས་གཞི་གཙང་མ་ལ། །<br>
 ཐུབ་པའི་དབང་པོའི་སྐུ་ཡི་གཟུགས་བརྙན་འཆར།
 
-Just as the reflection of the lord of gods’ body
-Appears on a pure ground of lapis lazuli,
-So, on the pure ground of beings’ ordinary minds,
+Just as the reflection of the lord of gods’ body<br>
+Appears on a pure ground of lapis lazuli,<br>
+So, on the pure ground of beings’ ordinary minds,<br>
 The reflection of the Lord of Sages’ embodiment arises.
 
 <!-- TGD-004330 -->
@@ -10667,18 +10667,18 @@ Here, the three embodiments abide without difference. The Supreme Continuum says
 
 <!-- TGD-004367 -->
 
-དེ་ནི་རང་བཞིན་དག་ཕྱིར་དང་། །
-བག་ཆགས་སྤངས་ཕྱིར་གཙང་བ་ཡིན། །
-བདག་དང་བདག་མེད་སྤྲོས་པ་དག །
-ཉེ་བར་ཞི་བ་དམ་པའི་བདག །
-ཡིད་ཀྱི་རང་བཞིན་ཕུང་པོ་དང༌། །
+དེ་ནི་རང་བཞིན་དག་ཕྱིར་དང་། །<br>
+བག་ཆགས་སྤངས་ཕྱིར་གཙང་བ་ཡིན། །<br>
+བདག་དང་བདག་མེད་སྤྲོས་པ་དག །<br>
+ཉེ་བར་ཞི་བ་དམ་པའི་བདག །<br>
+ཡིད་ཀྱི་རང་བཞིན་ཕུང་པོ་དང༌། །<br>
 དེ་རྒྱུའི་ལོག་ཕྱིར་བདེ་བ་ཉིད། །
 
-It is pure because intrinsic nature is pure
-And habitual tendencies have been abandoned.
-The complete pacification of elaborations
-Of self and selflessness is the supreme self.
-It is bliss because the aggregates of the mental faculty’s intrinsic nature
+It is pure because intrinsic nature is pure<br>
+And habitual tendencies have been abandoned.<br>
+The complete pacification of elaborations<br>
+Of self and selflessness is the supreme self.<br>
+It is bliss because the aggregates of the mental faculty’s intrinsic nature<br>
 And their causes have been reversed.[^N-C-099]
 
 <!-- TGD-004373 -->
@@ -10692,14 +10692,14 @@ Thus that very Dharma embodiment, endowed with the four characteristics, is the 
 
 <!-- TGD-004377 -->
 
-སྐུ་ནི་ནམ་མཁའི་མཚན་ཉིད་དེ། །
-སངས་རྒྱས་ཞིང་ཡང་དེ་འདྲ་སྟེ། །
-སྟོབས་དང་རྣམ་ཐར་བསམ་གཏན་དང་། །
+སྐུ་ནི་ནམ་མཁའི་མཚན་ཉིད་དེ། །<br>
+སངས་རྒྱས་ཞིང་ཡང་དེ་འདྲ་སྟེ། །<br>
+སྟོབས་དང་རྣམ་ཐར་བསམ་གཏན་དང་། །<br>
 དེ་དག་ཐམས་ཅད་མཚན་ཉིད་གཅིག །
 
-The embodiment has the characteristic of space;
-The buddha-field is likewise.
-Powers, liberations, and meditative stabilities—
+The embodiment has the characteristic of space;<br>
+The buddha-field is likewise.<br>
+Powers, liberations, and meditative stabilities—<br>
 All have one characteristic.
 
 <!-- TGD-004381 -->
@@ -10749,26 +10749,26 @@ Accordingly, all tathāgatas of the three times, with none missing, abide in the
 
 <!-- TGD-004401 -->
 
-རྫོགས་སངས་སྐུ་ནི་འཕྲོ་ཕྱིར་དང་།
-དེ་བཞིན་ཉིད་དབྱེར་མེད་ཕྱིར་དང༌། །
-རིགས་ཡོད་ཕྱིར་ན་ལུས་ཅན་ཀུན།
+རྫོགས་སངས་སྐུ་ནི་འཕྲོ་ཕྱིར་དང་།<br>
+དེ་བཞིན་ཉིད་དབྱེར་མེད་ཕྱིར་དང༌། །<br>
+རིགས་ཡོད་ཕྱིར་ན་ལུས་ཅན་ཀུན།<br>
 རྟག་ཏུ་སངས་རྒྱས་སྙིང་པོ་ཅན།
 
-Because the perfect buddha embodiment proliferates,
-Because suchness is indivisible,
-And because the lineage is present,
+Because the perfect buddha embodiment proliferates,<br>
+Because suchness is indivisible,<br>
+And because the lineage is present,<br>
 All embodied beings always possess the buddha heart.[^N-C-103]
 
 <!-- TGD-004405 -->
 
-སངས་རྒྱས་ཡེ་ཤེས་སེམས་ཅན་ཚོགས་ཞུགས་ཕྱིར། །
-རང་བཞིན་དྲི་མེད་དེ་ནི་གཉིས་མེད་དེ།
-སངས་རྒྱས་རིགས་ལ་དེ་འབྲས་ཉེར་བརྟགས་ཕྱིར། །
+སངས་རྒྱས་ཡེ་ཤེས་སེམས་ཅན་ཚོགས་ཞུགས་ཕྱིར། །<br>
+རང་བཞིན་དྲི་མེད་དེ་ནི་གཉིས་མེད་དེ།<br>
+སངས་རྒྱས་རིགས་ལ་དེ་འབྲས་ཉེར་བརྟགས་ཕྱིར། །<br>
 འགྲོ་ཀུན་སངས་རྒྱས་སྙིང་པོ་ཅན་དུ་གསུངས།
 
-Because buddha primordial knowing enters the multitude of beings,
-Because its stainless intrinsic nature is nondual,
-And because the result is imputed to the buddha lineage,
+Because buddha primordial knowing enters the multitude of beings,<br>
+Because its stainless intrinsic nature is nondual,<br>
+And because the result is imputed to the buddha lineage,<br>
 All wandering beings are said to possess the buddha heart.[^N-C-103]
 
 <!-- TGD-004409 -->
@@ -10851,10 +10851,10 @@ Without indiscriminately disparaging others’ tenets or persons, [one should pr
 
 <!-- TGD-004447 -->
 
-མེ་ཚོགས་སྤུ་གྲིའི་སོ་ཡང་བརྒལ་ནས་ནི། །
+མེ་ཚོགས་སྤུ་གྲིའི་སོ་ཡང་བརྒལ་ནས་ནི། །<br>
 ཕྱི་མཐར་ཐུག་གི་བར་དུ་བཟུང་བར་བགྱི།
 
-Even after crossing masses of fire and razor edges,
+Even after crossing masses of fire and razor edges,<br>
 I shall uphold it to the furthest limit of the future.
 
 <!-- TGD-004449 -->

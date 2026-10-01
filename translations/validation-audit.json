@@ -1,0 +1,69 @@
+{
+  "scope": "Read-only software/source-coverage audit; not semantic translation QC",
+  "repository": "Lotus-King-Translation/Togden-Gongchig-Drelwa",
+  "base_commit": "3332211878704ada6dd6f43cad2bec1e20454c35",
+  "fixed_source_commit": "8d7a583020ffc3dee6a4e56f6cecc35a18e09436",
+  "repository_modified_by_auditor": false,
+  "checks": {
+    "existing_test_suite": "23/23 passed",
+    "fixed_source_current_bytes": "intake-manifest.json, anchors.json and governing raw transcript equal fixed commit",
+    "source_coverage": "4499 anchors, exact order and exactly once",
+    "snapshot": "1176 pairs; 327 notes; 4252 translated anchors; 247 unprocessed",
+    "final_partial_rejection": "Expected: Unprocessed source in final draft",
+    "existing_publication_receipt": "All input/output hashes match",
+    "rebuild_reproducibility": "Bilingual Markdown and HTML exactly reproduce existing files",
+    "corruption_environment": "Temporary copies and synthetic test fixture only"
+  },
+  "findings": [
+    {
+      "id": "V1",
+      "priority": "P2",
+      "file": "scripts/source_io.py",
+      "line": 52,
+      "problem": "The fixed source snapshot is checked against an unpinned editable manifest, not the claimed source commit.",
+      "reproduction": "Append one archival trailing space to raw U00001, refresh its intake-manifest digest, and reconstruct anchors. validate() accepts the changed archive while still claiming the same fixed source commit.",
+      "impact": "A coordinated source/manifest regeneration can silently replace immutable intake evidence under the existing source edition.",
+      "action": "Pin the intake manifest or its complete expected content to the fixed commit, and add this coordinated-corruption test.",
+      "fixed_manifest_sha256": "795b3418661d94800f7399bef2b9fa5cac59f85e75c7b7283ad48a193e487063"
+    },
+    {
+      "id": "V2",
+      "priority": "P2",
+      "file": "scripts/validate_paired.py",
+      "line": 111,
+      "related": "scripts/build_publication.py:14,28",
+      "problem": "Footnote validation compares definition IDs but not definition content against notes.json; HTML reads the ledger while Markdown reads the canonical footer.",
+      "reproduction": "Edit a canonical footnote's text and refresh translation_sha256. validate() passes; build() includes the corrected text in bilingual.md but omits it from bilingual.html.",
+      "impact": "A legitimate canonical note correction can be silently lost in the HTML delivery while both projections report valid hashes.",
+      "action": "Enforce exact canonical-footer/ledger content agreement or derive both projections from one canonical note representation. Add a note-content corruption test."
+    },
+    {
+      "id": "V3",
+      "priority": "P2",
+      "file": "scripts/validate_paired.py",
+      "line": 107,
+      "problem": "The notes ledger's pair_id is never validated.",
+      "reproduction": "Set a note's pair_id to nonexistent TGD-999999 and refresh notes_sha256. validate() accepts it.",
+      "impact": "The source-linked note ledger can contain invalid pair allocations while validation reports annotation integrity.",
+      "action": "Require pair_id to exist, include the note reference, and overlap the note's allocated anchors. Add invalid-allocation corruption tests."
+    },
+    {
+      "id": "V4",
+      "priority": "P2",
+      "file": "scripts/validate_paired.py",
+      "line": 131,
+      "problem": "The final delivery gate never verifies publication-manifest.json or generated projection hashes.",
+      "reproduction": "Build the complete synthetic fixture and create valid hash-bound draft signoff. Replace bilingual.html with CORRUPTED PUBLICATION, or remove publication-manifest.json. validate(final=True) still succeeds.",
+      "impact": "The release check can approve stale, missing, or corrupted reading deliverables even though canonical pairs remain valid.",
+      "action": "Add a publication receipt/input/output consistency check to the final delivery sequence, with stale/missing/corrupt projection tests. Keep the builder's pre-build validation separate to avoid a circular dependency."
+    }
+  ],
+  "audited_script_sha256": {
+    "scripts/source_io.py": "2737f5623b07666bafeb5901fa217860487145aa46bbe8d5e787fc96fb5f07ec",
+    "scripts/assemble_draft.py": "54e67922924f7aa5b998b530b14f1eeed6ff1b38ae6d50a416a0fb3fee51a0bd",
+    "scripts/validate_paired.py": "351224ea4d6049da8f15593dff3f98741c3bc3c3c0897eacad25f93729ea4108",
+    "scripts/build_publication.py": "b6eb91f29fd594a0e9ab1e5c709622d2c7d8062403eaf58abba8ca301aa0c79d",
+    "scripts/test_validation.py": "cab8af9f74dc61776fccfd7e53b418a1f0c5809e7b0edbda895edb088b4495bc"
+  },
+  "note": "No current source or generated-output corruption was observed. Findings are reproduced validator/builder failures. Existing partial coverage is expected and is not a finding."
+}

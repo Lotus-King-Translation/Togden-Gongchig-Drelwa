@@ -5,7 +5,7 @@ import json
 import re
 from collections import Counter
 from pathlib import Path
-from source_io import ROOT, sha, validate_intake
+from source_io import ROOT, sha, validate_intake, render_note
 
 BOUNDARIES = [69, 969, 1215, 1685, 2319, 3196, 3907, 4414, 4487]
 FORMATS = {'prose','verse','h1','h2','h3'}
@@ -83,11 +83,7 @@ def assemble(root=ROOT, partial=False):
     if notes:
         translation.extend(['<!-- translation-notes -->',''])
     for note in notes:
-        fields = [f'Anchors: {", ".join(note["anchors"])}.',f'Exact Tibetan: {note["tibetan"]}',
-                  f'Category: {note["category"]}.',f'Issue: {note["problem"]}',
-                  f'Working treatment: {note["treatment"]}',f'Uncertainty: {note["uncertainty"]}',
-                  f'Review action: {note["review_action"]}']
-        translation.extend([f'[^'+note['id']+']: '+' '.join(str(x).replace('\n',' ') for x in fields),''])
+        translation.extend([render_note(note),''])
     (root/'paired/source.md').write_text('\n'.join(source))
     (root/'paired/translation.md').write_text('\n'.join(translation))
     (root/'translations/notes.json').write_text(json.dumps(notes,ensure_ascii=False,indent=2)+'\n')

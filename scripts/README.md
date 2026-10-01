@@ -2,9 +2,9 @@
 
 All scripts require Python 3 and only its standard library.
 
-- source_io.py: read-only reconstruction of 4,499 anchors from immutable original text and PO files; verifies originals, UUID alignment, glossary and standard hashes.
+- source_io.py: read-only reconstruction of 4,499 anchors from immutable original text and PO files; pins the intake manifest to the fixed source snapshot and verifies originals, UUID alignment, glossary and standard hashes.
 - assemble_draft.py: initial assembly from translations/batches JSONL. It preserves source strings and coherent grouping. `--partial` makes unfinished coverage explicit; it does not count those anchors as translated. Do not use it to overwrite post-assembly canonical edits.
-- validate_paired.py: checks source identity, complete ordered object coverage, pair symmetry, structural metadata, notes, canonical hashes and `--final` signoff.
+- validate_paired.py: checks source identity, complete ordered object coverage, pair symmetry, structural metadata, notes, canonical hashes, exact footnote/ledger agreement, note ownership and `--final` signoff. Final mode also reproduces and compares every generated reading file and its receipt.
 - test_validation.py: positive synthetic fixture plus deliberate corruption tests; synthetic English exists only in a temporary directory and is never publication content.
 - build_publication.py: reproducible bilingual Markdown and HTML from the canonical paired reading; does not alter the canonical files.
 - checkpoint.py: explicit staged commit/push with remote-SHA verification.

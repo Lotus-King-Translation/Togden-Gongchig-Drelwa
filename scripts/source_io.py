@@ -5,6 +5,8 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+# Hash of the manifest stored in fixed source commit 8d7a583.
+PINNED_MANIFEST_SHA256 = '795b3418661d94800f7399bef2b9fa5cac59f85e75c7b7283ad48a193e487063'
 
 def sha(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
@@ -49,6 +51,8 @@ def reconstruct(root=ROOT):
     return rows
 
 def validate_intake(root=ROOT):
+    if sha(root/'source/intake-manifest.json') != PINNED_MANIFEST_SHA256:
+        raise ValueError('Intake manifest differs from fixed source snapshot')
     manifest = json.loads((root/'source/intake-manifest.json').read_text())
     for path, digest in manifest['files'].items():
         if sha(root/path) != digest:
@@ -65,6 +69,14 @@ def validate_intake(root=ROOT):
     if residual != ['U00176', 'U01173']:
         raise ValueError('Unexpected detokenization difference')
     return stored
+
+
+def render_note(note):
+    fields = [f'Anchors: {", ".join(note["anchors"])}.',f'Exact Tibetan: {note["tibetan"]}',
+              f'Category: {note["category"]}.',f'Issue: {note["problem"]}',
+              f'Working treatment: {note["treatment"]}',f'Uncertainty: {note["uncertainty"]}',
+              f'Review action: {note["review_action"]}']
+    return '[^'+note['id']+']: '+' '.join(str(x).replace('\n',' ') for x in fields)
 
 if __name__ == '__main__':
     rows = validate_intake()

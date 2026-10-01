@@ -7,8 +7,9 @@ import unittest
 from contextlib import contextmanager
 from pathlib import Path
 from assemble_draft import assemble
-from source_io import ROOT,detokenize
+from source_io import ROOT,detokenize,sha
 from validate_paired import validate
+from build_publication import build
 
 class ValidationTests(unittest.TestCase):
     @classmethod
@@ -114,6 +115,7 @@ class FinalGateTests(unittest.TestCase):
             rows.append(dict(start=n,end=n,format='prose',role='main_text',english=english,notes=notes))
         (cls.root/'translations/batches/fixture.jsonl').write_text('\n'.join(json.dumps(r,ensure_ascii=False) for r in rows)+'\n')
         assemble(cls.root)
+        build(cls.root)
 
     @classmethod
     def tearDownClass(cls):cls.tmp.cleanup()
@@ -127,6 +129,13 @@ class FinalGateTests(unittest.TestCase):
         p=self.root/'translations/release-signoff.json';p.write_text(json.dumps(signoff))
         try:
             self.assertTrue(validate(self.root,final=True)['final_mode'])
+            html_path=self.root/'paired/bilingual.html';html_before=html_path.read_text()
+            html_path.write_text('corrupted projection')
+            with self.assertRaisesRegex(ValueError,'publication differs'):validate(self.root,final=True)
+            html_path.write_text(html_before)
+            receipt=self.root/'paired/publication-manifest.json';receipt_before=receipt.read_text();receipt.unlink()
+            with self.assertRaisesRegex(ValueError,'publication differs'):validate(self.root,final=True)
+            receipt.write_text(receipt_before)
             signoff['translation_sha256']='stale';p.write_text(json.dumps(signoff))
             with self.assertRaisesRegex(ValueError,'Stale'):validate(self.root,final=True)
         finally:p.unlink()
@@ -139,6 +148,34 @@ class FinalGateTests(unittest.TestCase):
         try:
             with self.assertRaisesRegex(ValueError,'note/reference'):validate(self.root)
         finally:p.write_text(original)
+
+    def test_canonical_footnote_and_ledger_must_agree(self):
+        p=self.root/'paired/translation.md';m=self.root/'paired/manifest.json'
+        original=p.read_text();manifest_original=m.read_text()
+        p.write_text(original.replace('Synthetic placeholder test.','Different canonical note.',1))
+        data=json.loads(manifest_original);data['translation_sha256']=sha(p);m.write_text(json.dumps(data))
+        try:
+            with self.assertRaisesRegex(ValueError,'footnote content'):validate(self.root)
+        finally:p.write_text(original);m.write_text(manifest_original)
+
+    def test_nonexistent_note_owner_rejected_after_hash_refresh(self):
+        p=self.root/'translations/notes.json';m=self.root/'paired/manifest.json'
+        original=p.read_text();manifest_original=m.read_text()
+        rows=json.loads(original);rows[0]['pair_id']='TGD-999999';p.write_text(json.dumps(rows))
+        data=json.loads(manifest_original);data['notes_sha256']=sha(p);m.write_text(json.dumps(data))
+        try:
+            with self.assertRaisesRegex(ValueError,'owner pair'):validate(self.root)
+        finally:p.write_text(original);m.write_text(manifest_original)
+
+    def test_archival_mutation_cannot_be_resealed_in_editable_manifest(self):
+        p=self.root/'source/intake/wip/en/001.po';m=self.root/'source/intake-manifest.json'
+        original=p.read_bytes();manifest_original=m.read_bytes()
+        p.write_bytes(original.replace(b'2025',b'2099',1))
+        data=json.loads(manifest_original);data['files']['source/intake/wip/en/001.po']=sha(p)
+        m.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
+        try:
+            with self.assertRaisesRegex(ValueError,'fixed source snapshot'):validate(self.root)
+        finally:p.write_bytes(original);m.write_bytes(manifest_original)
 
     def test_note_quote_must_match_inflected_source(self):
         p=self.root/'translations/notes.json';original=p.read_text()
