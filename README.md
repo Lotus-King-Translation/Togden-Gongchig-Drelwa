@@ -1,51 +1,29 @@
-# Tibetan text project template
+# Togden-Gongchig-Drelwa
 
-Organization template for projects that follow one controlled workflow:
+Togden Rinpoche's commentary on the Gongchig, prepared from the [Lotus King Tibetan text template](https://github.com/Lotus-King-Translation/tibetan-text-project-template).
 
-1. **Bring the editions together.**
-2. **Create a maintained golden Tibetan edition.**
-3. **Segment the fixed golden edition into reader-ready pairs with `format: prose|verse|h1|h2|h3`.**
-4. **Translate those fixed pairs.**
+The owner explicitly requested direct translation, skipping the golden-edition phase. The Tibetan is a **fixed provisional electronic transcript**, not a collated golden edition. The English is being translated against that source under the template's [translation standard](guidelines/tibetan_translation_standard_v2.md) and unchanged [222-entry glossary](glossary/expanded_tibetan_english_glossary.csv).
 
-The repository is intentionally opinionated. Source witnesses, modern transcripts, editorial decisions, the golden reading, and translations remain separate provenance layers. A released golden edition is a maintained reading of an explicitly chosen governing witness; it is not presented as an infallible reconstruction of an original text.
+## Reading and project state
 
-## Start here
+- [Current status](PROJECT-STATUS.md) and [translation handoff](translations/HANDOFF.md)
+- [Paired Tibetan](paired/source.md) and [paired English](paired/translation.md)
+- [Source provenance and markup recovery](source/PROVENANCE.md)
+- [Owner decisions and scope](DECISIONS.md)
+- [Paired format](FORMAT.md)
 
-Agents and contributors must read [AGENTS.md](AGENTS.md) first.
+The legacy human translation is retained as attributed reference material, with original PO files and exact UUID alignment. The source contains 4,499 anchors; the reference has 4,482 nonempty entries and 17 empty entries. No missing entry is counted as translated merely because it was imported.
 
-The active method documents are:
+Agents must read [AGENTS.md](AGENTS.md) first.
 
-- [Golden edition method](guidelines/golden_edition_method.md)
-- [Tibetan–English translation and QC standard](guidelines/tibetan_translation_standard_v2.md)
-- [Paired-text format](FORMAT.md)
-- [Active glossary](glossary/expanded_tibetan_english_glossary.csv)
+## Validation
 
-The current project state belongs in [PROJECT-STATUS.md](PROJECT-STATUS.md). Phase-specific continuation details belong in the relevant HANDOFF.md; do not rely on chat history as the only record of unfinished work.
+Python 3, standard library only:
 
-## Repository structure
+```sh
+python3 scripts/source_io.py
+python3 scripts/validate_paired.py
+python3 scripts/test_validation.py
+```
 
-- editions/ — acquired scans, transcripts, and source register
-- source/ — immutable imported/source copies
-- diplomatic/ — golden-edition work, evidence, releases, and handoff
-- translations/ — translation work, evidence, releases, and handoff
-- paired/ — canonical paired source/translation files
-- guidelines/ — active editorial/translation standards
-- glossary/ — active eight-column terminology resource
-- scripts/ — project validators/build helpers
-
-Tracked empty subdirectories are included because they recur in every project.
-
-## Completion model
-
-Work is released in bounded, versioned stages. A chapter or section is not “done” because a script ran or a large number of pages were inspected. A release gate requires explicit scope, closed decision queues, preserved uncertainty, reproducible outputs, validation, signoff, a fixed tag, a publication receipt, remote SHA verification, and a clean tree.
-
-Full scan proofreading, exhaustive manuscript collation, eclectic reconstruction, and new witness acquisition are separate research scopes unless a project explicitly adds them to its release contract.
-
-## Paired source and translation
-
-After a golden release is fixed, establish reader-ready source pairs before translation. Each source pair has one `format` value: `prose`, `verse`, `h1`, `h2`, or `h3`. Translate into the matching pair IDs in:
-
-- paired/source.md
-- paired/translation.md
-
-Both files use the same stable pair IDs in the same order. See [FORMAT.md](FORMAT.md).
+Final draft validation additionally requires `--final` and a hash-bound draft signoff. Mechanical checks establish source preservation, coverage and structural consistency; they do not certify semantic accuracy or constitute independent human review.

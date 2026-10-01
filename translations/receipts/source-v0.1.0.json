@@ -1,0 +1,15 @@
+{
+  "kind": "provisional source snapshot",
+  "date": "2026-10-01",
+  "tag": "provisional-source-v0.1.0",
+  "tag_object": "435578075dd7a38e8a19320adf4955d6c4ddd9bb",
+  "peeled_commit": "8d7a583020ffc3dee6a4e56f6cecc35a18e09436",
+  "remote_tag_and_commit_verified": true,
+  "source_anchors": 4499,
+  "golden_edition": false,
+  "owner_exception": "D01",
+  "validation": "All nine original file hashes verified; both PO sequences align to all 4499 raw source lines; two residual detokenization differences retained.",
+  "full_scan_proofreading": false,
+  "exhaustive_collation": false,
+  "translation_complete_at_snapshot": false
+}

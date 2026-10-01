@@ -1,87 +1,142 @@
 #!/usr/bin/env python3
-"""Validate the generic paired-text/2 source/translation contract."""
-from pathlib import Path
+"""Validate exact source coverage, pair structure, annotations and draft release gates."""
+import argparse
+import json
 import re
 import sys
+from collections import Counter
+from pathlib import Path
+from source_io import ROOT, sha, validate_intake
 
-ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT / "paired/source.md"
-TRANSLATION = ROOT / "paired/translation.md"
-ALLOWED_FORMATS = {"prose", "verse", "h1", "h2", "h3"}
-PAIR = re.compile(r"<!-- pair: ([^|>]+?)(.*?) -->")
-
+PAIR = re.compile(r'<!-- pair: ([^|>]+)(.*?) -->')
+FORMATS = {'prose','verse','h1','h2','h3'}
+REQUIRED_BOUNDARIES = [69,969,1215,1685,2319,3196,3907,4414,4487]
 
 def front_matter(text):
-    if not text.startswith("---\n"):
-        raise ValueError("missing front matter")
-    end = text.find("\n---\n", 4)
-    if end < 0:
-        raise ValueError("unterminated front matter")
-    values = {}
+    if not text.startswith('---\n'):
+        raise ValueError('Missing front matter')
+    end=text.find('\n---\n',4)
+    if end<0:
+        raise ValueError('Unterminated front matter')
+    values={}
     for line in text[4:end].splitlines():
-        if not line.strip():
-            continue
-        key, sep, value = line.partition(":")
-        if not sep:
-            raise ValueError("invalid front matter line: " + line)
-        values[key.strip()] = value.strip()
-    return values
+        key,sep,value=line.partition(':')
+        if not sep or key in values:
+            raise ValueError('Invalid/duplicate front matter')
+        values[key.strip()]=value.strip()
+    return values,end+5
 
-
-def pairs(text, source_side):
-    rows = []
-    seen = set()
-    for match in PAIR.finditer(text):
-        ident = match.group(1).strip()
-        if ident in seen:
-            raise ValueError("duplicate pair ID: " + ident)
-        seen.add(ident)
-        metadata = {}
-        for piece in match.group(2).split("|"):
-            piece = piece.strip()
-            if not piece:
-                continue
-            key, sep, value = piece.partition(":")
-            if not sep:
-                raise ValueError("invalid pair metadata for " + ident)
-            metadata[key.strip()] = value.strip()
+def parse(text, source_side):
+    fm,offset=front_matter(text)
+    content,sep,footer=text[offset:].partition('<!-- translation-notes -->')
+    if source_side and sep:
+        raise ValueError('Translation notes on source side')
+    matches=list(PAIR.finditer(content))
+    if not matches or content[:matches[0].start()].strip():
+        raise ValueError('No pairs or unpaired leading content')
+    rows=[];seen=set()
+    for i,m in enumerate(matches):
+        pid=m.group(1).strip()
+        if not re.fullmatch('TGD-[0-9]{6}',pid) or pid in seen:
+            raise ValueError('Invalid/duplicate pair ID: '+pid)
+        seen.add(pid);md={}
+        for item in m.group(2).split('|'):
+            if not item.strip():continue
+            key,colon,value=item.strip().partition(':')
+            if not colon or key.strip() in md:
+                raise ValueError('Invalid/duplicate pair metadata')
+            md[key.strip()]=value.strip()
         if source_side:
-            missing = {"golden", "role", "format"} - metadata.keys()
-            if missing:
-                raise ValueError(f"{ident} missing source metadata: {sorted(missing)}")
-            if metadata["format"] not in ALLOWED_FORMATS:
-                raise ValueError(f"{ident} unsupported format: {metadata['format']}")
-        rows.append((ident, metadata))
-    return rows
+            if set(md)!={'source','role','format'} or md['format'] not in FORMATS:
+                raise ValueError('Invalid source metadata: '+pid)
+        elif md:
+            raise ValueError('English must inherit source metadata: '+pid)
+        body=content[m.end():matches[i+1].start() if i+1<len(matches) else len(content)].strip()
+        if not body or '<!-- pair:' in body:
+            raise ValueError('Empty/malformed pair: '+pid)
+        rows.append(dict(id=pid,metadata=md,body=body))
+    return fm,rows,footer
 
+def validate(root=ROOT, final=False):
+    anchors=validate_intake(root)
+    by_id={r['anchor']:r for r in anchors}
+    sp=root/'paired/source.md';tp=root/'paired/translation.md'
+    sf,srows,sfooter=parse(sp.read_text(),True)
+    tf,trows,tfooter=parse(tp.read_text(),False)
+    for fm in (sf,tf):
+        if fm.get('schema')!='paired-text/2' or fm.get('text-id')!='TGD':
+            raise ValueError('Wrong schema/text identity')
+    if sf.get('edition')!='provisional-source-v0.1.0' or sf.get('source-status')!='provisional':
+        raise ValueError('Wrong source edition/status')
+    if tf.get('source-edition')!=sf['edition'] or tf.get('translation-edition')!='annotated-working-draft-v0.1.0':
+        raise ValueError('Wrong translation/source edition')
+    if sf.get('language')!='bo' or tf.get('language')!='en':raise ValueError('Wrong languages')
+    if [r['id'] for r in srows]!=[r['id'] for r in trows]:
+        raise ValueError('Pair identity/order mismatch')
+    manifest=json.loads((root/'paired/manifest.json').read_text())
+    if len(manifest['pairs'])!=len(srows):raise ValueError('Manifest pair count mismatch')
+    coverage=[]
+    for sr,tr,expected in zip(srows,trows,manifest['pairs']):
+        md=sr['metadata'];ids=md['source'].split()
+        if not ids or any(i not in by_id for i in ids):raise ValueError('Unknown/empty source-object reference')
+        numbers=[by_id[i]['index'] for i in ids]
+        if numbers!=list(range(numbers[0],numbers[-1]+1)):raise ValueError('Source objects not contiguous')
+        if any(numbers[0]<=b<numbers[-1] for b in REQUIRED_BOUNDARIES):raise ValueError('Pair crosses chapter/closing boundary')
+        if sr['id']!=f'TGD-{numbers[0]:06}':raise ValueError('Pair identity not tied to initial anchor')
+        if sr['body']!='\n'.join(by_id[i]['tibetan'] for i in ids):raise ValueError('Source text differs from fixed transcript')
+        for key,value in [('id',sr['id']),('source',ids),('format',md['format']),('role',md['role'])]:
+            if expected[key]!=value:raise ValueError('Manifest/source structural mismatch: '+sr['id'])
+        if any(c in sr['body'] for c in ['␣',' ']):raise ValueError('Tokenizer markup remains')
+        if expected['status']=='translated' and re.search('[x×✖]',sr['body']) and not expected['note_ids']:
+            raise ValueError('Source placeholder lacks review note: '+sr['id'])
+        if final and (expected['status']!='translated' or 'Not yet translated:' in tr['body']):
+            raise ValueError('Unprocessed source in final draft')
+        coverage.extend(dict(anchor=i,pair_id=sr['id'],status=expected['status'],
+                             has_review_note=bool(expected['note_ids'])) for i in ids)
+    if [r['anchor'] for r in coverage]!=[r['anchor'] for r in anchors]:
+        raise ValueError('Omitted, duplicated or reordered source objects')
+    if coverage!=json.loads((root/'translations/coverage.json').read_text()):raise ValueError('Coverage record differs')
+    notes=json.loads((root/'translations/notes.json').read_text())
+    note_map={n['id']:n for n in notes}
+    if len(note_map)!=len(notes):raise ValueError('Duplicate note ID')
+    definitions=re.findall(r'^\[\^([^\]]+)\]:',tfooter,re.M)
+    if sorted(definitions)!=sorted(note_map):raise ValueError('Footnote definitions differ')
+    all_refs=set()
+    for tr,expected in zip(trows,manifest['pairs']):
+        refs=set(re.findall(r'\[\^([^\]]+)\]',tr['body']))
+        if refs!=set(expected['note_ids']):raise ValueError('Required note/reference lost: '+tr['id'])
+        all_refs.update(refs)
+        for nid in refs:
+            if nid not in note_map:raise ValueError('Undefined note: '+nid)
+            note=note_map[nid]
+            if note['pair_id']!=tr['id'] or not set(note['anchors'])<=set(expected['source']):
+                raise ValueError('Incorrect note source allocation')
+    if all_refs!=set(note_map):raise ValueError('Orphan note')
+    for path,key in [(sp,'source_sha256'),(tp,'translation_sha256'),(root/'translations/notes.json','notes_sha256')]:
+        if sha(path)!=manifest[key]:raise ValueError('Unrecorded canonical mutation: '+str(path.name))
+    if final:
+        signoff_path=root/'translations/release-signoff.json'
+        if not signoff_path.exists():raise ValueError('Final mode requires explicit draft signoff')
+        signoff=json.loads(signoff_path.read_text())
+        if signoff.get('release_kind')!='annotated-working-draft' or signoff.get('human_certification') is not False:
+            raise ValueError('Missing/invalid draft signoff scope')
+        for key in ['source_sha256','translation_sha256','notes_sha256']:
+            if signoff.get(key)!=manifest[key]:raise ValueError('Stale signoff')
+        if not signoff.get('structural_validation') or not signoff.get('negative_tests'):
+            raise ValueError('Incomplete signoff')
+    result=dict(pairs=len(srows),anchors=len(coverage),notes=len(notes),
+                coverage=dict(Counter(r['status'] for r in coverage)),
+                formats=dict(Counter(r['metadata']['format'] for r in srows)),
+                source_edition=sf['edition'],translation_edition=tf['translation-edition'],
+                independent_semantic_qc=False,final_mode=final)
+    return result
 
-def main():
-    source = SOURCE.read_text(encoding="utf-8")
-    translation = TRANSLATION.read_text(encoding="utf-8")
-    sfm, tfm = front_matter(source), front_matter(translation)
-    if sfm.get("schema") != "paired-text/2" or tfm.get("schema") != "paired-text/2":
-        raise ValueError("both files must use schema paired-text/2")
-    if sfm.get("text-id") != tfm.get("text-id"):
-        raise ValueError("text-id mismatch")
-    if tfm.get("source-edition") not in {sfm.get("edition"), "unset"}:
-        raise ValueError("translation source-edition does not match source edition")
-    source_rows = pairs(source, True)
-    translation_rows = pairs(translation, False)
-    sids = [row[0] for row in source_rows]
-    tids = [row[0] for row in translation_rows]
-    if sids != tids:
-        raise ValueError("source/translation pair IDs or order differ")
-    counts = {name: 0 for name in sorted(ALLOWED_FORMATS)}
-    for _, metadata in source_rows:
-        counts[metadata["format"]] += 1
-    print("paired-text/2 valid")
-    print("pairs:", len(source_rows))
-    print("formats:", " ".join(f"{k}={counts[k]}" for k in sorted(counts)))
-
-
-if __name__ == "__main__":
+if __name__=='__main__':
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--final',action='store_true')
+    args=parser.parse_args()
     try:
-        main()
-    except (OSError, ValueError) as exc:
-        print("PAIRED VALIDATION FAILED:", exc, file=sys.stderr)
-        raise SystemExit(1)
+        print(json.dumps(validate(final=args.final),indent=2))
+    except (OSError,ValueError,KeyError) as exc:
+        print('PAIRED VALIDATION FAILED: '+str(exc),file=sys.stderr)
+        sys.exit(1)

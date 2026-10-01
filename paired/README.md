@@ -1,22 +1,9 @@
-# Paired publication
+# Paired reading
 
-The canonical reusable publication layer is:
+The canonical reading files are source.md and translation.md. Shared TGD pair IDs refer to coherent translation units; their markers map every original U anchor exactly once.
 
-- source.md
-- translation.md
+Source `format` is prose, verse, h1, h2 or h3. English inherits it. D01's explicit provisional-source exception uses `source:` provenance instead of `golden:`. See ../FORMAT.md.
 
-Both files share the same stable pair IDs in the same order.
+Initial assembly uses ../scripts/assemble_draft.py on reviewed translation batches. The files are then the canonical publication surface. The manifest records structure and hashes; ../scripts/validate_paired.py rejects source loss, mismatch, unrecorded changes, broken notes and invalid release state.
 
-Read ../FORMAT.md for the paired-text/2 specification.
-
-Do not treat source anchors as translation segments automatically. Pair segmentation should be a coherent translation unit while retaining provenance back to the fixed golden object IDs.
-
-Every source pair has one required structural field:
-
-`format: prose | verse | h1 | h2 | h3`
-
-The translation inherits that value by shared pair ID. This is the only reader-facing structural field in the paired-text format.
-
-Validate with:
-
-`python3 scripts/validate_paired.py`
+An unreleased draft can contain explicit unprocessed markers. Final draft validation rejects those markers. Source-linked unresolved readings remain visible review items and are counted separately from translation coverage.

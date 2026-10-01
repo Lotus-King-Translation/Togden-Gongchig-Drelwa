@@ -1,17 +1,9 @@
 # Translation workspace
 
-Translate only fixed golden releases unless the project owner explicitly authorizes a provisional exception.
+D01 authorizes translation from the fixed provisional source without a golden edition. Read ../AGENTS.md, ../PROJECT-STATUS.md, HANDOFF.md and the active standard before working.
 
-Read guidelines/tibetan_translation_standard_v2.md and the active glossary before translation or QC.
+The complete commentary is one bounded annotated working-draft deliverable, including front matter and colophons. Range workers read the Tibetan in context and use the rough human translation only as reference. They preserve uncertainties, glossary authority and source distinctions.
 
-Preserve:
+Batch JSONL files are initial drafting inputs. `paired/source.md` and `paired/translation.md` become the canonical reading surface after assembly; batch files remain audit evidence. Never regenerate over later canonical edits without preserving those edits. Coverage, notes, manifest and publication projections must match the canonical reading.
 
-- exact golden source identity
-- stable source locators
-- translator notes and unresolved readings
-- terminology provenance
-- source-linked English decisions
-- coverage records
-- final validation and release receipts
-
-After a translation release is fixed, produce or update the canonical paired files under paired/.
+Independent QC is not claimed. Terminology proposals remain proposed, and a working-draft signoff is not final human approval.
