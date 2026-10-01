@@ -1,0 +1,27 @@
+{
+  "source_sha256": "902aae3473f3c0e7fbd173795727b77ada62ad2a11d70c74774ef10d255960a1",
+  "translation_sha256": "f26fa33f7c93c33057f3e9e7b026e5168949cee07beaf5f5bc60789f74451491",
+  "notes_sha256": "29638ba69603afcdf1736a27b20c6b358753390565c341f61c9f4cd6f247c83b",
+  "date": "2026-10-01",
+  "reviewer": "Codex coordinating agent",
+  "release_kind": "annotated-working-draft",
+  "human_certification": false,
+  "independent_semantic_qc": false,
+  "structural_validation": true,
+  "negative_tests": true,
+  "tests_passed": 26,
+  "unsigned_final_rejected": true,
+  "reproducible_publication": true,
+  "source_snapshot_pinned": true,
+  "translator_self_checks": [
+    "A",
+    "B",
+    "C"
+  ],
+  "source_anchors": 4499,
+  "paired_units": 970,
+  "review_notes": 350,
+  "range_specific_proposal_rows": 61,
+  "source_placeholders_preserved": 29,
+  "interpretation": "Complete annotated working draft for human editing; unresolved readings and proposed usages remain visible."
+}

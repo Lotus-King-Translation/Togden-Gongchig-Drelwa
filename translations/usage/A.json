@@ -1,0 +1,1246 @@
+[
+  {
+    "tibetan": "ཀུན་གཞི་",
+    "approved_english": "All-basis",
+    "exact_string_hit_anchors": [
+      "U01537"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རྒྱན་",
+    "approved_english": "Adornment",
+    "exact_string_hit_anchors": [
+      "U00001",
+      "U00010",
+      "U00123",
+      "U00309",
+      "U00412",
+      "U00413",
+      "U00819",
+      "U00908",
+      "U00998",
+      "U01181",
+      "U01205"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "དགག་སྒྲུབ་",
+    "approved_english": "Denying and affirming",
+    "exact_string_hit_anchors": [
+      "U00244",
+      "U00317",
+      "U00335",
+      "U00574",
+      "U01244",
+      "U01281",
+      "U01286",
+      "U01493",
+      "U01661"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྒྲོ་འདོགས་",
+    "approved_english": "Superimposition",
+    "exact_string_hit_anchors": [
+      "U01010"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ཆོས་སྐུ་",
+    "approved_english": "Dharma embodiment",
+    "exact_string_hit_anchors": [
+      "U00123",
+      "U00450"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ཆོས་ཉིད་",
+    "approved_english": "Nature of phenomena",
+    "exact_string_hit_anchors": [
+      "U00639",
+      "U00662"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རྗེས་ཐོབ་",
+    "approved_english": "Post-cultivation attainment",
+    "exact_string_hit_anchors": [
+      "U00056"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "གཉིས་འཛིན་",
+    "approved_english": "Dualistic grasping",
+    "exact_string_hit_anchors": [
+      "U00237"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རང་བཞིན་",
+    "approved_english": "Intrinsic nature",
+    "exact_string_hit_anchors": [
+      "U00054",
+      "U00075",
+      "U00080",
+      "U00151",
+      "U00434",
+      "U00454",
+      "U00581",
+      "U00586",
+      "U00828",
+      "U00839",
+      "U00932",
+      "U01115",
+      "U01301",
+      "U01328",
+      "U01463",
+      "U01465",
+      "U01466",
+      "U01468",
+      "U01475",
+      "U01477",
+      "U01500",
+      "U01523"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རྟོག་",
+    "approved_english": "Conceptualizing",
+    "exact_string_hit_anchors": [
+      "U00004",
+      "U00036",
+      "U00260",
+      "U00422",
+      "U00557",
+      "U00588",
+      "U00846",
+      "U00987",
+      "U00988",
+      "U01011",
+      "U01028",
+      "U01077",
+      "U01081"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རྟོག་པ་",
+    "approved_english": "Conceptual thought",
+    "exact_string_hit_anchors": [
+      "U00422",
+      "U00988",
+      "U01028",
+      "U01077",
+      "U01081"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྟོང་པ་",
+    "approved_english": "Emptiness",
+    "exact_string_hit_anchors": [
+      "U00089",
+      "U00099",
+      "U00102",
+      "U00165",
+      "U00221",
+      "U00363",
+      "U00379",
+      "U00563",
+      "U00662",
+      "U00673"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "འདུ་ཤེས་",
+    "approved_english": "Perception",
+    "exact_string_hit_anchors": [
+      "U00237",
+      "U00917",
+      "U00921",
+      "U01351",
+      "U01369",
+      "U01432",
+      "U01464"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ནམ་མཁའ་",
+    "approved_english": "Space",
+    "exact_string_hit_anchors": [
+      "U00466",
+      "U00649",
+      "U00827"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "གནས་པ་",
+    "approved_english": "Abiding",
+    "exact_string_hit_anchors": [
+      "U01537"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "གནས་ལུགས་",
+    "approved_english": "Natural state",
+    "exact_string_hit_anchors": [
+      "U00078",
+      "U00083",
+      "U00084",
+      "U01086"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རྣམ་པ་",
+    "approved_english": "Aspect",
+    "exact_string_hit_anchors": [
+      "U00164",
+      "U00214",
+      "U00283",
+      "U00513",
+      "U01093",
+      "U01340"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རྣམ་ཤེས་",
+    "approved_english": "Consciousness",
+    "exact_string_hit_anchors": [
+      "U00440"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྣང་བ་",
+    "approved_english": "Appearance",
+    "exact_string_hit_anchors": [
+      "U00089",
+      "U00149",
+      "U00465",
+      "U00645",
+      "U01087",
+      "U01090",
+      "U01317"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྤང་བླང་",
+    "approved_english": "Rejecting and accepting",
+    "exact_string_hit_anchors": [
+      "U01518",
+      "U01638"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྤྲོས་བྲལ་",
+    "approved_english": "Free from conceptual elaborations",
+    "exact_string_hit_anchors": [
+      "U00013",
+      "U00217",
+      "U00433"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "བག་ཆགས་",
+    "approved_english": "Habitual tendencies",
+    "exact_string_hit_anchors": [
+      "U00155",
+      "U00241",
+      "U01027",
+      "U01089",
+      "U01436"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "བློ་",
+    "approved_english": "Conceptual mind",
+    "exact_string_hit_anchors": [
+      "U00001",
+      "U00010",
+      "U00023",
+      "U00027",
+      "U00094",
+      "U00137",
+      "U00269",
+      "U00553",
+      "U00570",
+      "U00595",
+      "U00829",
+      "U00837",
+      "U00967"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "མ་རིག་པ་",
+    "approved_english": "Ignorance",
+    "exact_string_hit_anchors": [
+      "U00532",
+      "U00981",
+      "U01052",
+      "U01055",
+      "U01061",
+      "U01065"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "མིང་",
+    "approved_english": "Name",
+    "exact_string_hit_anchors": [
+      "U01509",
+      "U01595"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "མངོན་སུམ་",
+    "approved_english": "Direct perception",
+    "exact_string_hit_anchors": [
+      "U00559",
+      "U00572",
+      "U00594",
+      "U01137",
+      "U01396"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "འཛིན་པ་",
+    "approved_english": "Apprehending subject",
+    "exact_string_hit_anchors": [
+      "U00313",
+      "U00602",
+      "U00640"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ཡིད་",
+    "approved_english": "Mental faculty",
+    "exact_string_hit_anchors": [
+      "U00018",
+      "U00030",
+      "U00572",
+      "U00573",
+      "U00607",
+      "U00767",
+      "U00807",
+      "U01034",
+      "U01372",
+      "U01374",
+      "U01376",
+      "U01389",
+      "U01392",
+      "U01394",
+      "U01399",
+      "U01402",
+      "U01454"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ཡེ་ཤེས་",
+    "approved_english": "Primordial knowing",
+    "exact_string_hit_anchors": [
+      "U00055",
+      "U00060",
+      "U00082",
+      "U00114",
+      "U00348",
+      "U00517",
+      "U00539",
+      "U00541",
+      "U00555",
+      "U00963",
+      "U01063",
+      "U01177",
+      "U01277",
+      "U01283",
+      "U01284",
+      "U01288",
+      "U01300",
+      "U01469",
+      "U01487",
+      "U01520"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རང་སངས་",
+    "approved_english": "Self-purified",
+    "exact_string_hit_anchors": [
+      "U00953"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རིག་པ་",
+    "approved_english": "Awareness",
+    "exact_string_hit_anchors": [
+      "U00350",
+      "U00532",
+      "U00981",
+      "U01052",
+      "U01055",
+      "U01061",
+      "U01065"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རོལ་པ་",
+    "approved_english": "Play",
+    "exact_string_hit_anchors": [
+      "U00676",
+      "U00684",
+      "U00688",
+      "U00882"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རླུང་",
+    "approved_english": "Wind",
+    "exact_string_hit_anchors": [
+      "U00146",
+      "U00743",
+      "U00745"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ལུང་མ་བསྟན་",
+    "approved_english": "Stagnant neutrality",
+    "exact_string_hit_anchors": [
+      "U00674",
+      "U00827",
+      "U00971",
+      "U00973",
+      "U00981",
+      "U00985"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ལྟ་བ་",
+    "approved_english": "View",
+    "exact_string_hit_anchors": [
+      "U00055",
+      "U00058",
+      "U00108",
+      "U00341",
+      "U00596",
+      "U00666",
+      "U00673",
+      "U01098",
+      "U01285"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྒོམ་པ་",
+    "approved_english": "Cultivation",
+    "exact_string_hit_anchors": [
+      "U00661",
+      "U00884",
+      "U01188"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྤྱོད་པ་",
+    "approved_english": "Activity",
+    "exact_string_hit_anchors": [
+      "U00180",
+      "U00666",
+      "U00675",
+      "U00686",
+      "U00692",
+      "U01078",
+      "U01267"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "འབྲས་བུ་",
+    "approved_english": "Result",
+    "exact_string_hit_anchors": [
+      "U00109",
+      "U00133",
+      "U00236",
+      "U00279",
+      "U00321",
+      "U00326",
+      "U00393",
+      "U00395",
+      "U00498",
+      "U00516",
+      "U00558",
+      "U00563",
+      "U00593",
+      "U00686",
+      "U00694",
+      "U00710",
+      "U00711",
+      "U00740",
+      "U00753",
+      "U00810",
+      "U00853",
+      "U00939",
+      "U01051",
+      "U01053",
+      "U01157",
+      "U01161",
+      "U01163",
+      "U01224",
+      "U01309",
+      "U01319",
+      "U01329",
+      "U01330",
+      "U01360",
+      "U01362",
+      "U01433",
+      "U01526",
+      "U01639",
+      "U01666"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ལྷུན་གྲུབ་",
+    "approved_english": "Spontaneous presence",
+    "exact_string_hit_anchors": [
+      "U00391"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ཤེས་པ་",
+    "approved_english": "Knowing",
+    "exact_string_hit_anchors": [
+      "U00258",
+      "U00551",
+      "U00552",
+      "U00555",
+      "U00844",
+      "U01139",
+      "U01622"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སེམས་",
+    "approved_english": "Ordinary mind",
+    "exact_string_hit_anchors": [
+      "U00079",
+      "U00133",
+      "U00191",
+      "U00202",
+      "U00241",
+      "U00320",
+      "U00389",
+      "U00406",
+      "U00410",
+      "U00411",
+      "U00415",
+      "U00416",
+      "U00417",
+      "U00420",
+      "U00428",
+      "U00432",
+      "U00433",
+      "U00434",
+      "U00440",
+      "U00445",
+      "U00448",
+      "U00456",
+      "U00469",
+      "U00490",
+      "U00595",
+      "U00598",
+      "U00694",
+      "U00695",
+      "U00698",
+      "U00703",
+      "U00705",
+      "U00707",
+      "U00728",
+      "U00733",
+      "U00779",
+      "U00789",
+      "U00794",
+      "U00801",
+      "U00802",
+      "U00839",
+      "U00879",
+      "U00884",
+      "U00912",
+      "U00913",
+      "U00919",
+      "U00920",
+      "U00943",
+      "U00955",
+      "U00960",
+      "U00992",
+      "U00993",
+      "U00997",
+      "U01006",
+      "U01010",
+      "U01012",
+      "U01013",
+      "U01014",
+      "U01016",
+      "U01017",
+      "U01018",
+      "U01019",
+      "U01023",
+      "U01060",
+      "U01087",
+      "U01095",
+      "U01121",
+      "U01136",
+      "U01195",
+      "U01237",
+      "U01248",
+      "U01258",
+      "U01264",
+      "U01352",
+      "U01355",
+      "U01356",
+      "U01365",
+      "U01368",
+      "U01374",
+      "U01380",
+      "U01421",
+      "U01472",
+      "U01491",
+      "U01507",
+      "U01525",
+      "U01552",
+      "U01557",
+      "U01590",
+      "U01630",
+      "U01656",
+      "U01664",
+      "U01666"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "གཞི་",
+    "approved_english": "The Ground",
+    "exact_string_hit_anchors": [
+      "U00198",
+      "U00253",
+      "U00336",
+      "U00753",
+      "U00853",
+      "U00859",
+      "U00875",
+      "U00950",
+      "U01006",
+      "U01027",
+      "U01038",
+      "U01077",
+      "U01102",
+      "U01180",
+      "U01198",
+      "U01232",
+      "U01259",
+      "U01310",
+      "U01334",
+      "U01338",
+      "U01350",
+      "U01429",
+      "U01537",
+      "U01584",
+      "U01588",
+      "U01602"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "གཞལ་བྱ་",
+    "approved_english": "Object of comprehension",
+    "exact_string_hit_anchors": [
+      "U00564"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རྩེ་གཅིག་",
+    "approved_english": "One-pointedness",
+    "exact_string_hit_anchors": [
+      "U00013"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "འོད་གསལ་",
+    "approved_english": "Clear light",
+    "exact_string_hit_anchors": [
+      "U00054",
+      "U00434",
+      "U00839"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "གསལ་བ་",
+    "approved_english": "Clarity",
+    "exact_string_hit_anchors": [
+      "U00250",
+      "U00434",
+      "U00662"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ངོ་བོ་",
+    "approved_english": "Essence",
+    "exact_string_hit_anchors": [
+      "U00076",
+      "U00255",
+      "U00265",
+      "U00819",
+      "U00822",
+      "U00886",
+      "U00959",
+      "U01334",
+      "U01335"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "དྲན་པ་",
+    "approved_english": "Mindfulness",
+    "exact_string_hit_anchors": [
+      "U00069",
+      "U00850",
+      "U00865",
+      "U00868",
+      "U00870",
+      "U00871",
+      "U00872",
+      "U01655"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "འཕྲོ་",
+    "approved_english": "Proliferation",
+    "exact_string_hit_anchors": [
+      "U00591",
+      "U00900"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ཞི་གནས་",
+    "approved_english": "Calm abiding",
+    "exact_string_hit_anchors": [
+      "U00875",
+      "U01174"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ལྷག་མཐོང་",
+    "approved_english": "Special insight",
+    "exact_string_hit_anchors": [
+      "U01174"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ཉམས་",
+    "approved_english": "Experience",
+    "exact_string_hit_anchors": [
+      "U00169",
+      "U00184",
+      "U00271",
+      "U00375",
+      "U00739",
+      "U00740",
+      "U00749",
+      "U00793",
+      "U00803",
+      "U00822",
+      "U00823",
+      "U00872",
+      "U01162",
+      "U01190",
+      "U01200",
+      "U01227",
+      "U01245",
+      "U01281",
+      "U01288",
+      "U01293",
+      "U01416",
+      "U01417",
+      "U01418",
+      "U01445",
+      "U01448",
+      "U01449",
+      "U01533",
+      "U01534",
+      "U01538",
+      "U01660",
+      "U01663"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "དགོངས་པ་",
+    "approved_english": "Enlightened intent",
+    "exact_string_hit_anchors": [
+      "U00001",
+      "U00022",
+      "U00030",
+      "U00371",
+      "U00387",
+      "U00408",
+      "U00966",
+      "U01200"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "བྱིན་རླབས་",
+    "approved_english": "Blessing",
+    "exact_string_hit_anchors": [
+      "U00497"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "དད་པ་",
+    "approved_english": "Faith",
+    "exact_string_hit_anchors": [
+      "U00232"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "དབང་བཞི་",
+    "approved_english": "Four empowerments",
+    "exact_string_hit_anchors": [
+      "U00717"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ཐུགས་རྗེ་",
+    "approved_english": "Compassionate responsiveness",
+    "exact_string_hit_anchors": [
+      "U00401",
+      "U00405",
+      "U00958"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "གདངས་",
+    "approved_english": "Radiance",
+    "exact_string_hit_anchors": [
+      "U00500"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྒོམ་མེད་",
+    "approved_english": "Non-cultivation",
+    "exact_string_hit_anchors": [
+      "U00014"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རྒྱུད་",
+    "approved_english": "Continuum",
+    "exact_string_hit_anchors": [
+      "U00001",
+      "U00016",
+      "U00065",
+      "U00160",
+      "U00184",
+      "U00186",
+      "U00241",
+      "U00298",
+      "U00299",
+      "U00357",
+      "U00412",
+      "U00426",
+      "U00427",
+      "U00601",
+      "U00627",
+      "U00632",
+      "U00633",
+      "U00712",
+      "U00806",
+      "U00834",
+      "U00899",
+      "U00950",
+      "U01005",
+      "U01213"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྒྲ་",
+    "approved_english": "Word",
+    "exact_string_hit_anchors": [
+      "U00001",
+      "U00036",
+      "U00385",
+      "U00386",
+      "U00438",
+      "U01241",
+      "U01260",
+      "U01303",
+      "U01327"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "དོན་",
+    "approved_english": "Meaning",
+    "exact_string_hit_anchors": [
+      "U00001",
+      "U00016",
+      "U00020",
+      "U00024",
+      "U00031",
+      "U00032",
+      "U00034",
+      "U00035",
+      "U00066",
+      "U00133",
+      "U00144",
+      "U00145",
+      "U00147",
+      "U00160",
+      "U00215",
+      "U00224",
+      "U00227",
+      "U00246",
+      "U00249",
+      "U00283",
+      "U00292",
+      "U00294",
+      "U00298",
+      "U00300",
+      "U00301",
+      "U00317",
+      "U00331",
+      "U00352",
+      "U00356",
+      "U00359",
+      "U00361",
+      "U00371",
+      "U00373",
+      "U00375",
+      "U00376",
+      "U00378",
+      "U00383",
+      "U00386",
+      "U00387",
+      "U00392",
+      "U00395",
+      "U00396",
+      "U00406",
+      "U00408",
+      "U00417",
+      "U00448",
+      "U00449",
+      "U00450",
+      "U00451",
+      "U00453",
+      "U00463",
+      "U00477",
+      "U00538",
+      "U00552",
+      "U00553",
+      "U00570",
+      "U00576",
+      "U00597",
+      "U00609",
+      "U00614",
+      "U00615",
+      "U00694",
+      "U00696",
+      "U00706",
+      "U00742",
+      "U00800",
+      "U00803",
+      "U00808",
+      "U00825",
+      "U00865",
+      "U00878",
+      "U00883",
+      "U00913",
+      "U00995",
+      "U01008",
+      "U01010",
+      "U01045",
+      "U01088",
+      "U01146",
+      "U01153",
+      "U01196",
+      "U01210",
+      "U01218",
+      "U01241",
+      "U01280",
+      "U01306",
+      "U01508",
+      "U01551",
+      "U01552",
+      "U01637",
+      "U01644"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྒྲ་དོན་",
+    "approved_english": "Word and meaning",
+    "exact_string_hit_anchors": [
+      "U01241"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "རྟོགས་པ་",
+    "approved_english": "Realization",
+    "exact_string_hit_anchors": [
+      "U00061",
+      "U00215",
+      "U00221",
+      "U00420",
+      "U00461",
+      "U00499",
+      "U00662"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "བྱ་བ་",
+    "approved_english": "Doing",
+    "exact_string_hit_anchors": [
+      "U00001",
+      "U00150",
+      "U00687",
+      "U00817",
+      "U00928",
+      "U00973",
+      "U01119",
+      "U01243",
+      "U01293",
+      "U01482",
+      "U01506",
+      "U01606"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ཤེས་རབ་",
+    "approved_english": "Discerning knowing",
+    "exact_string_hit_anchors": [
+      "U00190",
+      "U00218",
+      "U00263",
+      "U00449",
+      "U00477",
+      "U01061",
+      "U01159",
+      "U01183",
+      "U01185",
+      "U01381"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྤྲུལ་པའི་སྐུ་",
+    "approved_english": "Emanation embodiment",
+    "exact_string_hit_anchors": [
+      "U00016"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྐུ་",
+    "approved_english": "Embodiment",
+    "exact_string_hit_anchors": [
+      "U00016",
+      "U00123",
+      "U00415",
+      "U00450",
+      "U00589",
+      "U00900",
+      "U01205"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "ཐོབ་",
+    "approved_english": "Attainment",
+    "exact_string_hit_anchors": [
+      "U00056",
+      "U00068",
+      "U00159",
+      "U00185",
+      "U00190",
+      "U00238",
+      "U00326",
+      "U00380",
+      "U00460",
+      "U00492",
+      "U00493",
+      "U00550",
+      "U00554",
+      "U00638",
+      "U00741",
+      "U00753",
+      "U00754",
+      "U00759",
+      "U00761",
+      "U00810",
+      "U00867",
+      "U00875",
+      "U00947",
+      "U00954",
+      "U00956",
+      "U01062",
+      "U01110",
+      "U01157",
+      "U01163",
+      "U01168",
+      "U01172",
+      "U01178",
+      "U01258",
+      "U01262",
+      "U01305",
+      "U01319",
+      "U01329",
+      "U01330",
+      "U01394",
+      "U01453",
+      "U01514",
+      "U01589",
+      "U01600",
+      "U01659",
+      "U01660"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  },
+  {
+    "tibetan": "སྣང་",
+    "approved_english": "Appearance",
+    "exact_string_hit_anchors": [
+      "U00089",
+      "U00149",
+      "U00176",
+      "U00246",
+      "U00450",
+      "U00465",
+      "U00645",
+      "U00666",
+      "U01039",
+      "U01087",
+      "U01090",
+      "U01094",
+      "U01095",
+      "U01317"
+    ],
+    "metadata_read": true,
+    "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+  }
+]

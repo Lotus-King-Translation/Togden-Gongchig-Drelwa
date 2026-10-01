@@ -207,31 +207,31 @@
     "anchor": "U00035",
     "pair_id": "TGD-000035",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00036",
     "pair_id": "TGD-000035",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00037",
     "pair_id": "TGD-000035",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00038",
     "pair_id": "TGD-000035",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00039",
     "pair_id": "TGD-000035",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00040",
@@ -4173,37 +4173,37 @@
     "anchor": "U00696",
     "pair_id": "TGD-000696",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00697",
     "pair_id": "TGD-000696",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00698",
     "pair_id": "TGD-000696",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00699",
     "pair_id": "TGD-000696",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00700",
     "pair_id": "TGD-000696",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00701",
     "pair_id": "TGD-000696",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00702",
@@ -4233,13 +4233,13 @@
     "anchor": "U00706",
     "pair_id": "TGD-000706",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00707",
     "pair_id": "TGD-000706",
     "status": "translated",
-    "has_review_note": true
+    "has_review_note": false
   },
   {
     "anchor": "U00708",
@@ -6451,37 +6451,37 @@
   },
   {
     "anchor": "U01076",
-    "pair_id": "TGD-001076",
+    "pair_id": "TGD-001072",
     "status": "translated",
     "has_review_note": true
   },
   {
     "anchor": "U01077",
-    "pair_id": "TGD-001076",
+    "pair_id": "TGD-001072",
     "status": "translated",
     "has_review_note": true
   },
   {
     "anchor": "U01078",
-    "pair_id": "TGD-001076",
+    "pair_id": "TGD-001072",
     "status": "translated",
     "has_review_note": true
   },
   {
     "anchor": "U01079",
-    "pair_id": "TGD-001076",
+    "pair_id": "TGD-001072",
     "status": "translated",
     "has_review_note": true
   },
   {
     "anchor": "U01080",
-    "pair_id": "TGD-001076",
+    "pair_id": "TGD-001072",
     "status": "translated",
     "has_review_note": true
   },
   {
     "anchor": "U01081",
-    "pair_id": "TGD-001076",
+    "pair_id": "TGD-001072",
     "status": "translated",
     "has_review_note": true
   },
@@ -8630,1483 +8630,1483 @@
   {
     "anchor": "U01439",
     "pair_id": "TGD-001439",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01440",
-    "pair_id": "TGD-001440",
-    "status": "unprocessed",
+    "pair_id": "TGD-001439",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01441",
     "pair_id": "TGD-001441",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01442",
-    "pair_id": "TGD-001442",
-    "status": "unprocessed",
+    "pair_id": "TGD-001441",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01443",
     "pair_id": "TGD-001443",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01444",
-    "pair_id": "TGD-001444",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001443",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01445",
-    "pair_id": "TGD-001445",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001443",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01446",
-    "pair_id": "TGD-001446",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001443",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01447",
-    "pair_id": "TGD-001447",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001443",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01448",
-    "pair_id": "TGD-001448",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001443",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01449",
-    "pair_id": "TGD-001449",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001443",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01450",
     "pair_id": "TGD-001450",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01451",
-    "pair_id": "TGD-001451",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001450",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01452",
-    "pair_id": "TGD-001452",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001450",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01453",
-    "pair_id": "TGD-001453",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001450",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01454",
-    "pair_id": "TGD-001454",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001450",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01455",
-    "pair_id": "TGD-001455",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001450",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01456",
-    "pair_id": "TGD-001456",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001450",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01457",
-    "pair_id": "TGD-001457",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001450",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01458",
     "pair_id": "TGD-001458",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01459",
-    "pair_id": "TGD-001459",
-    "status": "unprocessed",
+    "pair_id": "TGD-001458",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01460",
-    "pair_id": "TGD-001460",
-    "status": "unprocessed",
+    "pair_id": "TGD-001458",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01461",
-    "pair_id": "TGD-001461",
-    "status": "unprocessed",
+    "pair_id": "TGD-001458",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01462",
     "pair_id": "TGD-001462",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01463",
-    "pair_id": "TGD-001463",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001462",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01464",
-    "pair_id": "TGD-001464",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001462",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01465",
-    "pair_id": "TGD-001465",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001462",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01466",
-    "pair_id": "TGD-001466",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001462",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01467",
-    "pair_id": "TGD-001467",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001462",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01468",
     "pair_id": "TGD-001468",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01469",
-    "pair_id": "TGD-001469",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001468",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01470",
-    "pair_id": "TGD-001470",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001468",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01471",
-    "pair_id": "TGD-001471",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001468",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01472",
-    "pair_id": "TGD-001472",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001468",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01473",
-    "pair_id": "TGD-001473",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001468",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01474",
-    "pair_id": "TGD-001474",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001468",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01475",
-    "pair_id": "TGD-001475",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001468",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01476",
-    "pair_id": "TGD-001476",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001468",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01477",
-    "pair_id": "TGD-001477",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001468",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01478",
     "pair_id": "TGD-001478",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01479",
-    "pair_id": "TGD-001479",
-    "status": "unprocessed",
+    "pair_id": "TGD-001478",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01480",
-    "pair_id": "TGD-001480",
-    "status": "unprocessed",
+    "pair_id": "TGD-001478",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01481",
-    "pair_id": "TGD-001481",
-    "status": "unprocessed",
+    "pair_id": "TGD-001478",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01482",
-    "pair_id": "TGD-001482",
-    "status": "unprocessed",
+    "pair_id": "TGD-001478",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01483",
-    "pair_id": "TGD-001483",
-    "status": "unprocessed",
+    "pair_id": "TGD-001478",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01484",
     "pair_id": "TGD-001484",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01485",
-    "pair_id": "TGD-001485",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001484",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01486",
-    "pair_id": "TGD-001486",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001484",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01487",
-    "pair_id": "TGD-001487",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001484",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01488",
-    "pair_id": "TGD-001488",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001484",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01489",
-    "pair_id": "TGD-001489",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001484",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01490",
-    "pair_id": "TGD-001490",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001484",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01491",
-    "pair_id": "TGD-001491",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001484",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01492",
-    "pair_id": "TGD-001492",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001484",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01493",
-    "pair_id": "TGD-001493",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001484",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01494",
-    "pair_id": "TGD-001494",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001484",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01495",
     "pair_id": "TGD-001495",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01496",
-    "pair_id": "TGD-001496",
-    "status": "unprocessed",
+    "pair_id": "TGD-001495",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01497",
-    "pair_id": "TGD-001497",
-    "status": "unprocessed",
+    "pair_id": "TGD-001495",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01498",
-    "pair_id": "TGD-001498",
-    "status": "unprocessed",
+    "pair_id": "TGD-001495",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01499",
     "pair_id": "TGD-001499",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01500",
-    "pair_id": "TGD-001500",
-    "status": "unprocessed",
+    "pair_id": "TGD-001499",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01501",
-    "pair_id": "TGD-001501",
-    "status": "unprocessed",
+    "pair_id": "TGD-001499",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01502",
-    "pair_id": "TGD-001502",
-    "status": "unprocessed",
+    "pair_id": "TGD-001499",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01503",
-    "pair_id": "TGD-001503",
-    "status": "unprocessed",
+    "pair_id": "TGD-001499",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01504",
-    "pair_id": "TGD-001504",
-    "status": "unprocessed",
+    "pair_id": "TGD-001499",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01505",
-    "pair_id": "TGD-001505",
-    "status": "unprocessed",
+    "pair_id": "TGD-001499",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01506",
     "pair_id": "TGD-001506",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01507",
-    "pair_id": "TGD-001507",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001506",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01508",
-    "pair_id": "TGD-001508",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001506",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01509",
-    "pair_id": "TGD-001509",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001506",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01510",
-    "pair_id": "TGD-001510",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001506",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01511",
-    "pair_id": "TGD-001511",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001506",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01512",
     "pair_id": "TGD-001512",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01513",
-    "pair_id": "TGD-001513",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001512",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01514",
-    "pair_id": "TGD-001514",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001512",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01515",
     "pair_id": "TGD-001515",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01516",
-    "pair_id": "TGD-001516",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001515",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01517",
     "pair_id": "TGD-001517",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01518",
-    "pair_id": "TGD-001518",
-    "status": "unprocessed",
+    "pair_id": "TGD-001517",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01519",
-    "pair_id": "TGD-001519",
-    "status": "unprocessed",
+    "pair_id": "TGD-001517",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01520",
-    "pair_id": "TGD-001520",
-    "status": "unprocessed",
+    "pair_id": "TGD-001517",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01521",
-    "pair_id": "TGD-001521",
-    "status": "unprocessed",
+    "pair_id": "TGD-001517",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01522",
-    "pair_id": "TGD-001522",
-    "status": "unprocessed",
+    "pair_id": "TGD-001517",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01523",
-    "pair_id": "TGD-001523",
-    "status": "unprocessed",
+    "pair_id": "TGD-001517",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01524",
-    "pair_id": "TGD-001524",
-    "status": "unprocessed",
+    "pair_id": "TGD-001517",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01525",
-    "pair_id": "TGD-001525",
-    "status": "unprocessed",
+    "pair_id": "TGD-001517",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01526",
-    "pair_id": "TGD-001526",
-    "status": "unprocessed",
+    "pair_id": "TGD-001517",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01527",
-    "pair_id": "TGD-001527",
-    "status": "unprocessed",
+    "pair_id": "TGD-001517",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01528",
     "pair_id": "TGD-001528",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01529",
-    "pair_id": "TGD-001529",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001528",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01530",
-    "pair_id": "TGD-001530",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001528",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01531",
-    "pair_id": "TGD-001531",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001528",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01532",
     "pair_id": "TGD-001532",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01533",
-    "pair_id": "TGD-001533",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001532",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01534",
-    "pair_id": "TGD-001534",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001532",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01535",
-    "pair_id": "TGD-001535",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001532",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01536",
-    "pair_id": "TGD-001536",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001532",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01537",
-    "pair_id": "TGD-001537",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001532",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01538",
-    "pair_id": "TGD-001538",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001532",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01539",
-    "pair_id": "TGD-001539",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001532",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01540",
     "pair_id": "TGD-001540",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01541",
-    "pair_id": "TGD-001541",
-    "status": "unprocessed",
+    "pair_id": "TGD-001540",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01542",
-    "pair_id": "TGD-001542",
-    "status": "unprocessed",
+    "pair_id": "TGD-001540",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01543",
-    "pair_id": "TGD-001543",
-    "status": "unprocessed",
+    "pair_id": "TGD-001540",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01544",
-    "pair_id": "TGD-001544",
-    "status": "unprocessed",
+    "pair_id": "TGD-001540",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01545",
     "pair_id": "TGD-001545",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01546",
-    "pair_id": "TGD-001546",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001545",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01547",
-    "pair_id": "TGD-001547",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001545",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01548",
-    "pair_id": "TGD-001548",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001545",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01549",
-    "pair_id": "TGD-001549",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001545",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01550",
-    "pair_id": "TGD-001550",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001545",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01551",
-    "pair_id": "TGD-001551",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001545",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01552",
-    "pair_id": "TGD-001552",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001545",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01553",
-    "pair_id": "TGD-001553",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001545",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01554",
-    "pair_id": "TGD-001554",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001545",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01555",
     "pair_id": "TGD-001555",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01556",
-    "pair_id": "TGD-001556",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001555",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01557",
-    "pair_id": "TGD-001557",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001555",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01558",
-    "pair_id": "TGD-001558",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001555",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01559",
     "pair_id": "TGD-001559",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01560",
-    "pair_id": "TGD-001560",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001559",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01561",
-    "pair_id": "TGD-001561",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001559",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01562",
-    "pair_id": "TGD-001562",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001559",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01563",
-    "pair_id": "TGD-001563",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001559",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01564",
     "pair_id": "TGD-001564",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01565",
-    "pair_id": "TGD-001565",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001564",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01566",
-    "pair_id": "TGD-001566",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001564",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01567",
-    "pair_id": "TGD-001567",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001564",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01568",
-    "pair_id": "TGD-001568",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001564",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01569",
-    "pair_id": "TGD-001569",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001564",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01570",
-    "pair_id": "TGD-001570",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001564",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01571",
-    "pair_id": "TGD-001571",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001564",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01572",
-    "pair_id": "TGD-001572",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001564",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01573",
     "pair_id": "TGD-001573",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01574",
-    "pair_id": "TGD-001574",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01575",
-    "pair_id": "TGD-001575",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01576",
-    "pair_id": "TGD-001576",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01577",
-    "pair_id": "TGD-001577",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01578",
-    "pair_id": "TGD-001578",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01579",
-    "pair_id": "TGD-001579",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01580",
-    "pair_id": "TGD-001580",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01581",
-    "pair_id": "TGD-001581",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01582",
-    "pair_id": "TGD-001582",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01583",
-    "pair_id": "TGD-001583",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01584",
-    "pair_id": "TGD-001584",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001573",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01585",
     "pair_id": "TGD-001585",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01586",
-    "pair_id": "TGD-001586",
-    "status": "unprocessed",
+    "pair_id": "TGD-001585",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01587",
-    "pair_id": "TGD-001587",
-    "status": "unprocessed",
+    "pair_id": "TGD-001585",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01588",
-    "pair_id": "TGD-001588",
-    "status": "unprocessed",
+    "pair_id": "TGD-001585",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01589",
-    "pair_id": "TGD-001589",
-    "status": "unprocessed",
+    "pair_id": "TGD-001585",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01590",
     "pair_id": "TGD-001590",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01591",
-    "pair_id": "TGD-001591",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001590",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01592",
-    "pair_id": "TGD-001592",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001590",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01593",
-    "pair_id": "TGD-001593",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001590",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01594",
-    "pair_id": "TGD-001594",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001590",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01595",
-    "pair_id": "TGD-001595",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001590",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01596",
-    "pair_id": "TGD-001596",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001590",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01597",
     "pair_id": "TGD-001597",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01598",
-    "pair_id": "TGD-001598",
-    "status": "unprocessed",
+    "pair_id": "TGD-001597",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01599",
-    "pair_id": "TGD-001599",
-    "status": "unprocessed",
+    "pair_id": "TGD-001597",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01600",
-    "pair_id": "TGD-001600",
-    "status": "unprocessed",
+    "pair_id": "TGD-001597",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01601",
     "pair_id": "TGD-001601",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01602",
-    "pair_id": "TGD-001602",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001601",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01603",
-    "pair_id": "TGD-001603",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001601",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01604",
-    "pair_id": "TGD-001604",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001601",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01605",
-    "pair_id": "TGD-001605",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001601",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01606",
-    "pair_id": "TGD-001606",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001601",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01607",
-    "pair_id": "TGD-001607",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001601",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01608",
-    "pair_id": "TGD-001608",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001601",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01609",
-    "pair_id": "TGD-001609",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001601",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01610",
     "pair_id": "TGD-001610",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01611",
-    "pair_id": "TGD-001611",
-    "status": "unprocessed",
+    "pair_id": "TGD-001610",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01612",
-    "pair_id": "TGD-001612",
-    "status": "unprocessed",
+    "pair_id": "TGD-001610",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01613",
-    "pair_id": "TGD-001613",
-    "status": "unprocessed",
+    "pair_id": "TGD-001610",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01614",
-    "pair_id": "TGD-001614",
-    "status": "unprocessed",
+    "pair_id": "TGD-001610",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01615",
-    "pair_id": "TGD-001615",
-    "status": "unprocessed",
+    "pair_id": "TGD-001610",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01616",
-    "pair_id": "TGD-001616",
-    "status": "unprocessed",
+    "pair_id": "TGD-001610",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01617",
-    "pair_id": "TGD-001617",
-    "status": "unprocessed",
+    "pair_id": "TGD-001610",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01618",
     "pair_id": "TGD-001618",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01619",
-    "pair_id": "TGD-001619",
-    "status": "unprocessed",
+    "pair_id": "TGD-001618",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01620",
     "pair_id": "TGD-001620",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01621",
-    "pair_id": "TGD-001621",
-    "status": "unprocessed",
+    "pair_id": "TGD-001620",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01622",
-    "pair_id": "TGD-001622",
-    "status": "unprocessed",
+    "pair_id": "TGD-001620",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01623",
-    "pair_id": "TGD-001623",
-    "status": "unprocessed",
+    "pair_id": "TGD-001620",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01624",
     "pair_id": "TGD-001624",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01625",
-    "pair_id": "TGD-001625",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001624",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01626",
-    "pair_id": "TGD-001626",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001624",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01627",
-    "pair_id": "TGD-001627",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001624",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01628",
     "pair_id": "TGD-001628",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01629",
-    "pair_id": "TGD-001629",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001628",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01630",
-    "pair_id": "TGD-001630",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001628",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01631",
-    "pair_id": "TGD-001631",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001628",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01632",
-    "pair_id": "TGD-001632",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001628",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01633",
-    "pair_id": "TGD-001633",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001628",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01634",
-    "pair_id": "TGD-001634",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001628",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01635",
-    "pair_id": "TGD-001635",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001628",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01636",
-    "pair_id": "TGD-001636",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001628",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01637",
     "pair_id": "TGD-001637",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01638",
-    "pair_id": "TGD-001638",
-    "status": "unprocessed",
+    "pair_id": "TGD-001637",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01639",
-    "pair_id": "TGD-001639",
-    "status": "unprocessed",
+    "pair_id": "TGD-001637",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01640",
     "pair_id": "TGD-001640",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01641",
-    "pair_id": "TGD-001641",
-    "status": "unprocessed",
+    "pair_id": "TGD-001640",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01642",
-    "pair_id": "TGD-001642",
-    "status": "unprocessed",
+    "pair_id": "TGD-001640",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01643",
-    "pair_id": "TGD-001643",
-    "status": "unprocessed",
+    "pair_id": "TGD-001640",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01644",
-    "pair_id": "TGD-001644",
-    "status": "unprocessed",
+    "pair_id": "TGD-001640",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01645",
-    "pair_id": "TGD-001645",
-    "status": "unprocessed",
+    "pair_id": "TGD-001640",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01646",
-    "pair_id": "TGD-001646",
-    "status": "unprocessed",
+    "pair_id": "TGD-001640",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01647",
-    "pair_id": "TGD-001647",
-    "status": "unprocessed",
+    "pair_id": "TGD-001640",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01648",
-    "pair_id": "TGD-001648",
-    "status": "unprocessed",
+    "pair_id": "TGD-001640",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01649",
-    "pair_id": "TGD-001649",
-    "status": "unprocessed",
+    "pair_id": "TGD-001640",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01650",
     "pair_id": "TGD-001650",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01651",
-    "pair_id": "TGD-001651",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001650",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01652",
-    "pair_id": "TGD-001652",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001650",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01653",
-    "pair_id": "TGD-001653",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001650",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01654",
-    "pair_id": "TGD-001654",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001650",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01655",
-    "pair_id": "TGD-001655",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001650",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01656",
-    "pair_id": "TGD-001656",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001650",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01657",
-    "pair_id": "TGD-001657",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001650",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01658",
-    "pair_id": "TGD-001658",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001650",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01659",
     "pair_id": "TGD-001659",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01660",
-    "pair_id": "TGD-001660",
-    "status": "unprocessed",
+    "pair_id": "TGD-001659",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01661",
-    "pair_id": "TGD-001661",
-    "status": "unprocessed",
+    "pair_id": "TGD-001659",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01662",
-    "pair_id": "TGD-001662",
-    "status": "unprocessed",
+    "pair_id": "TGD-001659",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01663",
-    "pair_id": "TGD-001663",
-    "status": "unprocessed",
+    "pair_id": "TGD-001659",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01664",
-    "pair_id": "TGD-001664",
-    "status": "unprocessed",
+    "pair_id": "TGD-001659",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01665",
-    "pair_id": "TGD-001665",
-    "status": "unprocessed",
+    "pair_id": "TGD-001659",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01666",
-    "pair_id": "TGD-001666",
-    "status": "unprocessed",
+    "pair_id": "TGD-001659",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01667",
-    "pair_id": "TGD-001667",
-    "status": "unprocessed",
+    "pair_id": "TGD-001659",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01668",
     "pair_id": "TGD-001668",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01669",
-    "pair_id": "TGD-001669",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001668",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01670",
-    "pair_id": "TGD-001670",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001668",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01671",
-    "pair_id": "TGD-001671",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001668",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01672",
-    "pair_id": "TGD-001672",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001668",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01673",
-    "pair_id": "TGD-001673",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001668",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01674",
     "pair_id": "TGD-001674",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01675",
-    "pair_id": "TGD-001675",
-    "status": "unprocessed",
+    "pair_id": "TGD-001674",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01676",
     "pair_id": "TGD-001676",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01677",
-    "pair_id": "TGD-001677",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001676",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01678",
     "pair_id": "TGD-001678",
-    "status": "unprocessed",
-    "has_review_note": false
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01679",
-    "pair_id": "TGD-001679",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001678",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01680",
-    "pair_id": "TGD-001680",
-    "status": "unprocessed",
-    "has_review_note": false
+    "pair_id": "TGD-001678",
+    "status": "translated",
+    "has_review_note": true
   },
   {
     "anchor": "U01681",
     "pair_id": "TGD-001681",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01682",
-    "pair_id": "TGD-001682",
-    "status": "unprocessed",
+    "pair_id": "TGD-001681",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01683",
-    "pair_id": "TGD-001683",
-    "status": "unprocessed",
+    "pair_id": "TGD-001681",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01684",
-    "pair_id": "TGD-001684",
-    "status": "unprocessed",
+    "pair_id": "TGD-001681",
+    "status": "translated",
     "has_review_note": false
   },
   {
     "anchor": "U01685",
     "pair_id": "TGD-001685",
-    "status": "unprocessed",
+    "status": "translated",
     "has_review_note": false
   },
   {

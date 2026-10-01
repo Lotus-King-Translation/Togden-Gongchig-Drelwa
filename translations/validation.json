@@ -1,0 +1,19 @@
+{
+  "pairs": 970,
+  "anchors": 4499,
+  "notes": 350,
+  "coverage": {
+    "translated": 4499
+  },
+  "formats": {
+    "h1": 1,
+    "prose": 718,
+    "verse": 248,
+    "h3": 2,
+    "h2": 1
+  },
+  "source_edition": "provisional-source-v0.1.0",
+  "translation_edition": "annotated-working-draft-v0.1.0",
+  "independent_semantic_qc": false,
+  "final_mode": true
+}

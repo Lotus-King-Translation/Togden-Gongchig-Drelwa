@@ -42,8 +42,7 @@
     "id": "N-A-004",
     "anchors": [
       "U00030",
-      "U00031",
-      "U00039"
+      "U00031"
     ],
     "tibetan": "བརྒྱ་དང་ལྔ་བཅུ།",
     "category": "scope",
@@ -739,14 +738,11 @@
   {
     "id": "N-A-054",
     "anchors": [
-      "U00695",
-      "U00698",
-      "U00703",
-      "U00707"
+      "U00695"
     ],
-    "tibetan": "བྱང་ཆུབ་སེམས་",
+    "tibetan": "སེམས་བསྐྱེད་",
     "category": "terminology gap",
-    "problem": "Bodhicitta and its generation lack full-expression glossary assignments.",
+    "problem": "Bodhicitta and its generation lack full-expression glossary assignments; related expanded occurrences follow at U00698, U00703, and U00707.",
     "treatment": "Ordinary mind of awakening provisionally preserves the established ordinary mind component; bodhisattva remains a provisional whole-expression name for the person.",
     "uncertainty": "The working interpretation is provisional.",
     "review_action": "Approve connected compound entries for bodhicitta, its generation, and bodhisattva; do not silently shorten standalone སེམས་.",
@@ -1092,7 +1088,7 @@
     "treatment": "Read the three portions in sequence, preserving the source’s explanation without silently converting ’du byas to ’du byed.",
     "uncertainty": "The working interpretation is provisional.",
     "review_action": "Check the reading and interpretation against an authenticated source.",
-    "pair_id": "TGD-001076"
+    "pair_id": "TGD-001072"
   },
   {
     "id": "N-A-080",
@@ -1269,7 +1265,7 @@
     ],
     "tibetan": "སྐུ་གསུང་ཐུགས་ཀྱི་ཟད་པ་",
     "category": "source reading",
-    "problem": "The text has exhaustion (zad pa), where a familiar formula might have inexhaustible; the syntax connecting this to the ornamental wheel is defective.",
+    "problem": "The text has exhaustion (zad pa), where a familiar formula might have inexhaustible; the syntax connecting this to the wheel of adornment is defective.",
     "treatment": "Translate the intelligible assertion of limitless manifestations and preserve exhaustion visibly as an unresolved transmitted phrase. Use awakened mind provisionally for the honorific thugs.",
     "uncertainty": "The working interpretation is provisional.",
     "review_action": "Check the reading and interpretation against an authenticated source.",
@@ -1484,8 +1480,8 @@
     ],
     "tibetan": "གཞི་བསམ་སྦྱོར་བ་མཐར་ཐུག་བཞི་",
     "category": "terminology",
-    "problem": "The four factors belong to an action whose noun is implicit. The technical whole uses of gzhi and ’du shes require context-specific treatment.",
-    "treatment": "Supply action and aspects in brackets; use basis for the action’s object and recognition provisionally for ’du shes in identifying that object.",
+    "problem": "The four factors belong to an action whose noun is implicit. Gzhi is used for an action basis rather than an ontological Ground.",
+    "treatment": "Supply action and aspects in brackets; use basis provisionally for the action’s object and retain perception for ’du shes.",
     "uncertainty": "The working interpretation is provisional.",
     "review_action": "Check the reading and interpretation against an authenticated source.",
     "pair_id": "TGD-001350"
@@ -1686,6 +1682,314 @@
     "uncertainty": "The working interpretation is provisional.",
     "review_action": "Check the reading and interpretation against an authenticated source.",
     "pair_id": "TGD-001434"
+  },
+  {
+    "id": "N-A-122",
+    "anchors": [
+      "U01448",
+      "U01449"
+    ],
+    "tibetan": "ཉམས་པ་ནི་རང་ལ་ནོར་ཡོད་པ་ཅན་བཞིན་ནོ།",
+    "category": "source reading",
+    "problem": "Both sides of the contrast read impairment; the wealth comparison suggests a missing negative in the second, but that is unverified.",
+    "treatment": "Preserve the second impairment explicitly as an uncertain transmitted phrase; bracket the implicit restraints and aspect without silently correcting the contrast.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001443"
+  },
+  {
+    "id": "N-A-123",
+    "anchors": [
+      "U01456"
+    ],
+    "tibetan": "མཐར་ཁྱོན་ལས་འདའ་",
+    "category": "source reading",
+    "problem": "The transmitted object is khyon, expanse, rather than an explicit samsara. The opening and following quotation specify nirvana.",
+    "treatment": "Provisionally supply samsara in brackets as the intended scope of passing beyond, retaining the anomalous source here.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001450"
+  },
+  {
+    "id": "N-A-124",
+    "anchors": [
+      "U01465"
+    ],
+    "tibetan": "བཅས་པ་སྒྱིས་འཚལ་",
+    "category": "source reading",
+    "problem": "The hedge expression is irregularly transmitted, and the source’s tree-grove analogy is compressed.",
+    "treatment": "Render thorn hedge provisionally from the protecting-grove relationship; bracket misdeeds and restraints where the nouns are implicit.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001462"
+  },
+  {
+    "id": "N-A-125",
+    "anchors": [
+      "U01471"
+    ],
+    "tibetan": "ཕྱྭ་",
+    "category": "proper name",
+    "problem": "The name of this creator figure is not identified securely in the supplied materials.",
+    "treatment": "Retain Phywa in transliteration without equating it with an unverified deity.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001468"
+  },
+  {
+    "id": "N-A-126",
+    "anchors": [
+      "U01489"
+    ],
+    "tibetan": "ལུང་སྡེ་བཞི་རེ་རེ་བཅའ་ཞུས་པའི་ཕྱིར།",
+    "category": "source reading",
+    "problem": "The verb bca’ zhus is irregular and the agent is implicit.",
+    "treatment": "Render the hypothetical attribution of prescribing to śrāvakas provisionally, bracket the supplied agent, and retain the source for review.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001484"
+  },
+  {
+    "id": "N-A-127",
+    "anchors": [
+      "U01511"
+    ],
+    "tibetan": "བཅས་མ་བཅས་གཉིས་ཀའང་ཉེས་པ་ཆེ་ཆུང་མཉམ་པ་",
+    "category": "source reading",
+    "problem": "The statement can mean equal degrees of fault or that both categories admit greater and lesser degrees.",
+    "treatment": "Read it provisionally as both admitting degrees, consistent with the question about subtle and gross; bracket misdeeds.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001506"
+  },
+  {
+    "id": "N-A-128",
+    "anchors": [
+      "U01512",
+      "U01513",
+      "U01514"
+    ],
+    "tibetan": "མི་སྐྱེས་དགྲ་བཟོད་པ་ཐོབ་པ་",
+    "category": "source reading",
+    "problem": "The name has mi skyes rather than the usual ma skyes, but the named attainment and earlier discussion point to Ajātaśatru. The objection’s syntax and missing object of arising are uncertain.",
+    "treatment": "Retain Ajātaśatru as a provisional identification; bracket result and keep acceptance unspecified rather than introduce an unattested realization level.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001512"
+  },
+  {
+    "id": "N-A-129",
+    "anchors": [
+      "U01515"
+    ],
+    "tibetan": "སྡེ༽༽",
+    "category": "source annotation",
+    "problem": "The label differs from the usual Vajra statement or Supplement labels.",
+    "treatment": "Translate Section visibly and retain the unusual source label without reclassifying it.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001515"
+  },
+  {
+    "id": "N-A-130",
+    "anchors": [
+      "U01530"
+    ],
+    "tibetan": "བུ་མེད་ཆུས་ཁུར་བར་རོ་ལེན་པ་",
+    "category": "source reading",
+    "problem": "Ro normally denotes a corpse, but the water-rescue context may use it for the woman’s body; the source does not establish whether she is alive.",
+    "treatment": "Use body provisionally without claiming successful rescue or that she was dead; bracket acts in the conclusion.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001528"
+  },
+  {
+    "id": "N-A-131",
+    "anchors": [
+      "U01537",
+      "U01539"
+    ],
+    "tibetan": "རྒྱུ་ཀུན་གཞི་ལ་ཉོན་མོངས་པའི་ས་འོན་གནས་པ་དེ།",
+    "category": "missing reference",
+    "problem": "The reference is blank for the causal explanation; sa ’on is transmitted where seed is expected. Pham lhag abbreviates two Vinaya offense categories.",
+    "treatment": "Translate directly from Tibetan with seed as a flagged contextual reading. Use defeat and offense requiring a remainder procedure provisionally, preserving both categories rather than flattening them to defeat alone.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001532"
+  },
+  {
+    "id": "N-A-132",
+    "anchors": [
+      "U01554"
+    ],
+    "tibetan": "ཀུན་ཏུ་རྒྱུ་ཉེར་འཚོ་ལ།",
+    "category": "missing reference",
+    "problem": "The reference is blank for the addressee; nyer ’tsho names the wanderer but the Sanskrit equivalence is not verified against the cited edition.",
+    "treatment": "Translate the addressee directly, provisionally using Upajīva; bracket his words and the teaching verb required by the compressed preceding sequence.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001545"
+  },
+  {
+    "id": "N-A-133",
+    "anchors": [
+      "U01556",
+      "U01558"
+    ],
+    "tibetan": "མཚུངས་མ་མེད་པའི་",
+    "category": "source reading",
+    "problem": "The source has an extra ma in the expression for unequaled; the first two lines also run across an electronic line boundary.",
+    "treatment": "Give the contextually defensible unequaled provisionally and preserve the two destination clauses without harmonizing their apparent repetition.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001555"
+  },
+  {
+    "id": "N-A-134",
+    "anchors": [
+      "U01560"
+    ],
+    "tibetan": "བརྩམས་པར་བྱ་ཞིང་དབྱུང་བར་བྱ།",
+    "category": "material supply",
+    "problem": "The second verb is quoted without an explicit object.",
+    "treatment": "Supply effort in brackets provisionally, without restoring the rest of a known canonical verse.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001559"
+  },
+  {
+    "id": "N-A-135",
+    "anchors": [
+      "U01569"
+    ],
+    "tibetan": "དེ་ལྟར་ཡིན་ན་",
+    "category": "material supply",
+    "problem": "If it is thus could superficially point to the immediately preceding analogy, but the ensuing reductio targets restriction to followers.",
+    "treatment": "Supply the opposing view claims in brackets to identify the logically required antecedent, flagged for review.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001564"
+  },
+  {
+    "id": "N-A-136",
+    "anchors": [
+      "U01583",
+      "U01584"
+    ],
+    "tibetan": "འཇིག་རྟེན་གཞག་པ་དང༌།",
+    "category": "bibliographic uncertainty",
+    "problem": "The two compact expressions may be abbreviated titles or section labels; their canonical identities are not securely established.",
+    "treatment": "Render them provisionally as titles and mark that status, without assigning external bibliographic references.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001573"
+  },
+  {
+    "id": "N-A-137",
+    "anchors": [
+      "U01596"
+    ],
+    "tibetan": "ཉེ་ཞོའི་ཕུང་པོར་",
+    "category": "source reading",
+    "problem": "Nye zho is an irregular expression here; the preceding argument concerns partiality toward ordained followers.",
+    "treatment": "Render partiality provisionally from that argument, retaining the exact source for checking.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001590"
+  },
+  {
+    "id": "N-A-138",
+    "anchors": [
+      "U01609"
+    ],
+    "tibetan": "གསོལ་གཞིའི་ལས་",
+    "category": "terminology and source reading",
+    "problem": "The formal-act term is transmitted as gsol gzhi rather than the expected gsol bzhi.",
+    "treatment": "Provisionally interpret the four-part communal act as a motion and three proclamations, record the source form, and bracket who conduct.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001601"
+  },
+  {
+    "id": "N-A-139",
+    "anchors": [
+      "U01625",
+      "U01626"
+    ],
+    "tibetan": "བདག་གཞན་ཆ་ལས་འཇིག་དང་སྡང༌།",
+    "category": "source reading",
+    "problem": "The source reads ’jig, not the attachment term commonly expected in this quotation, and the following linkage is irregular.",
+    "treatment": "Render fear provisionally as the contextual value of ’jig, retain hatred, and do not restore a familiar canonical wording.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001624"
+  },
+  {
+    "id": "N-A-140",
+    "anchors": [
+      "U01634"
+    ],
+    "tibetan": "ཞེ་སྡང་ནི་ཉེས་པ་ཆེ་ལ་འབྲལ་དཀའ།",
+    "category": "source reading",
+    "problem": "The source explicitly says hatred is difficult to part from; a familiar parallel may instead say easy.",
+    "treatment": "Retain difficult exactly as transmitted, without doctrinal or canonical harmonization.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001628"
+  },
+  {
+    "id": "N-A-141",
+    "anchors": [
+      "U01656",
+      "U01657"
+    ],
+    "tibetan": "སེམས་ཅན་དམྱལ་བར་སྐྱེས་པ་ནི་སླ་ཡི་༑",
+    "category": "material supply",
+    "problem": "The quoted adjective easy has no explicit complement. The surrounding argument concerns duration and difficulty of escape, not ease of obtaining a bad rebirth.",
+    "treatment": "Supply to emerge from in brackets as the contextual reading, while flagging that the words are not explicit in the quotation.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001650"
+  },
+  {
+    "id": "N-A-142",
+    "anchors": [
+      "U01669"
+    ],
+    "tibetan": "དགེ་སློང་རྒྱ་ཆེན་ཆེར་འཁྲུགས་",
+    "category": "source reading",
+    "problem": "The wording rgya chen may reflect an irregular expression for a large number, but does not unambiguously give a numeral.",
+    "treatment": "Render many monks provisionally; do not supply an unattested hundred or other exact number.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001668"
+  },
+  {
+    "id": "N-A-143",
+    "anchors": [
+      "U01676",
+      "U01677"
+    ],
+    "tibetan": "གང་ཞིག་སྔོན་ཆད×",
+    "category": "source abbreviation",
+    "problem": "Both lines are abbreviated with literal multiplication-sign markers, and the second retains separated fragments.",
+    "treatment": "Translate only surviving words and keep both × markers visibly unresolved. Do not restore the complete familiar quotation from the reference.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001676"
+  },
+  {
+    "id": "N-A-144",
+    "anchors": [
+      "U01678"
+    ],
+    "tibetan": "དགའ་བོ་སོར་འཕྲེང་྾",
+    "category": "source abbreviation",
+    "problem": "The source gives only two names followed by an abbreviation mark; the reference supplies two additional names.",
+    "treatment": "Retain the two attested names and an ellipsis. No additional names are restored.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001678"
   },
   {
     "id": "N-B-001",

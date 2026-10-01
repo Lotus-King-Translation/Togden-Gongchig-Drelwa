@@ -1,0 +1,73 @@
+{
+  "scope": "Closure of V1\u2013V4 software integrity findings; semantic translation QC excluded",
+  "repository_modified_by_auditor": false,
+  "base_commit": "cc0394de00684ac30622ca53edbd8c3929e44d28",
+  "working_tree_fixes_audited": true,
+  "status": "closed",
+  "closed_findings": [
+    "V1",
+    "V2",
+    "V3",
+    "V4"
+  ],
+  "existing_test_suite": "26/26 passed",
+  "independent_reproductions": {
+    "V2_canonical_note_divergence": {
+      "rejected": true,
+      "reason": "Canonical footnote content differs from notes ledger"
+    },
+    "V3_nonexistent_note_owner": {
+      "rejected": true,
+      "reason": "Incorrect note owner pair allocation"
+    },
+    "V1_resealed_archive": {
+      "rejected": true,
+      "reason": "Intake manifest differs from fixed source snapshot"
+    },
+    "V4_corrupt_html": {
+      "rejected": true,
+      "reason": "Generated publication differs from canonical rebuild: paired/bilingual.html"
+    },
+    "V4_corrupt_markdown": {
+      "rejected": true,
+      "reason": "Generated publication differs from canonical rebuild: paired/bilingual.md"
+    },
+    "V4_missing_receipt": {
+      "rejected": true,
+      "reason": "Generated publication differs from canonical rebuild: paired/publication-manifest.json"
+    }
+  },
+  "positive_checks": {
+    "source_and_canonical_validation": {
+      "pairs": 1176,
+      "anchors": 4499,
+      "notes": 327,
+      "coverage": {
+        "translated": 4252,
+        "unprocessed": 247
+      },
+      "formats": {
+        "h1": 1,
+        "prose": 930,
+        "verse": 242,
+        "h3": 2,
+        "h2": 1
+      },
+      "source_edition": "provisional-source-v0.1.0",
+      "translation_edition": "annotated-working-draft-v0.1.0",
+      "independent_semantic_qc": false,
+      "final_mode": false
+    },
+    "existing_projections_match_read_only_rebuild": true,
+    "signed_complete_synthetic_fixture_accepted": true,
+    "current_partial_final_rejection": "Expected: Unprocessed source in final draft"
+  },
+  "remaining_findings_within_closure_scope": [],
+  "audited_script_sha256": {
+    "scripts/source_io.py": "577475465eec70d52116087f76890d006afa3e03675eacc37a24765b0c260712",
+    "scripts/assemble_draft.py": "ef11d7a9d58295c9d96609dd4a7965fc308ed75b274e068f15511c2b31d54f75",
+    "scripts/validate_paired.py": "866a9c7864fa0ffb04af76ef7ac087fa942cfd310b1c1e86170505ab5b5835ec",
+    "scripts/build_publication.py": "3c4b840921ed1d95720019887b4d2536774d0a5c0a814466c049f21ff5db7d90",
+    "scripts/test_validation.py": "607f8fffe67994b9240367b4edffbf7bd58a6a5e10c192ecd6d0ae9a246e02ef"
+  }
+}

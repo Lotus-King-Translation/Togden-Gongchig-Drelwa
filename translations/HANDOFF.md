@@ -1,11 +1,25 @@
 # Translation handoff
 
-Read ../AGENTS.md first, then ../PROJECT-STATUS.md, ../DECISIONS.md, standard v2.0 and the full relevant glossary rows.
+Read ../AGENTS.md first. D01 authorizes direct translation from a provisional transcript and skips the golden-edition phase.
 
-Fixed input: source/anchors.json, U00001–U04499, provisional-source-v0.1.0; upstream 063eb57bc01767fe1a33d8db50074ca936086f56. The source snapshot is fixed; no golden edition exists. Hashes: source/intake-manifest.json.
+## Fixed inputs and coverage
 
-Whole work is one bounded working-draft scope. Current checkpoint snapshot: 4,252/4,499 anchors drafted; 247 remain. Worker staging may be ahead of this committed snapshot. B self-check report is saved; A/C reports pending. Prepare coherent pairs from adjacent anchors and classify each as prose/verse/h1/h2/h3 before drafting it; do not mix formats. Preserve continuity across electronic line boundaries and source order. Source fidelity takes precedence over the rough reference. Identify every unresolved reading and technical use needing review.
+Source: provisional-source-v0.1.0, commit 8d7a583020ffc3dee6a4e56f6cecc35a18e09436. The source snapshot is immutable; all originals, source UUIDs, hashes and normalization boundaries are in ../source/PROVENANCE.md and ../source/intake-manifest.json. Standard v2.0 and the unchanged 222-row glossary govern.
 
-Production partitions: A U00001–U01685; B U01686–U03196; C U03197–U04499. Concurrent workers own only their assigned staging files outside the repository; coordinator alone assembles, commits, pushes and releases.
+The whole work U00001–U04499 is represented in 970 paired units. All 4,499 anchors are processed; 0 remain. All 17 empty human-reference entries were addressed from Tibetan. Front matter, seven sections, closing verses and compiler's colophon are included. Original spellings and source marks are unchanged.
 
-No independent QC, no final human signoff, no publication clearance. All draft claims must remain appropriately qualified.
+## Checks and review flags
+
+All three range reports document completed translator self-checks. There are 350 review notes and 61 range-specific eight-column terminology proposals, none activated. Every affected source span is traceable. Source placeholders at 29 anchors remain unresolved. No source emendations or restorations were made.
+
+Exact source reconstruction, fixed-manifest pinning, pair symmetry, complete ordered coverage, exact note quotations, canonical-note/ledger agreement and publication regeneration pass. All 26 tests pass; six independent tooling corruption reproductions reject correctly. The tooling audit is closed. Unsigned final mode rejected as required; the explicit hash-bound working-draft signoff passes final mode. Receipts record remote publication verification.
+
+Full scan proofreading: false. Exhaustive witness collation: false. Independent whole-text semantic QC: false. Human certification: false. These are outside the completed translation run.
+
+## Canonical state
+
+Canonical: ../paired/source.md and ../paired/translation.md. Do not regenerate them from historical drafting helpers: final self-check revisions are preserved in the JSONL batches and canonical reading. Bilingual Markdown/HTML are generated projections. Note definitions and notes.json must stay synchronized. Preserve fixed pair identities in released versions.
+
+## Next finite task
+
+On a future review request, independently review U00001–U00069 against the fixed translation, exact source, full glossary rows and current notes. This review has not started. Do not silently approve provisional terminology or repair source readings.

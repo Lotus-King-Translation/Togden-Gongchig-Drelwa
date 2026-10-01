@@ -1,0 +1,3669 @@
+{
+  "run_header": {
+    "mode": "TRANSLATE",
+    "source": "source/anchors.json",
+    "source_release": "provisional-source-v0.1.0",
+    "source_commit": "8d7a583020ffc3dee6a4e56f6cecc35a18e09436",
+    "glossary": "glossary/expanded_tibetan_english_glossary.csv",
+    "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+    "active_glossary_rows": 222,
+    "guidance": "guidelines/tibetan_translation_standard_v2.md, v2.0",
+    "decision": "D01",
+    "range": "U03197–U04499",
+    "reference": "Pinned rough human English, used as comparison only",
+    "missing_evidence": [
+      "No physical witness inspected",
+      "No independently authenticated quotations or proper names",
+      "No independent semantic QC or human signoff"
+    ]
+  },
+  "completed_anchor_range": [
+    3197,
+    4499
+  ],
+  "completed_anchors": 1303,
+  "remaining_anchors": 0,
+  "pair_count": 312,
+  "english_word_count": 10674,
+  "note_count": 114,
+  "formats": {
+    "prose": 219,
+    "verse": 92,
+    "h2": 1
+  },
+  "roles": {
+    "main_text": 294,
+    "chapter_colophon": 2,
+    "source_annotation": 1,
+    "source_heading": 1,
+    "closing_text": 10,
+    "work_colophon": 3,
+    "dedication": 1
+  },
+  "self_check_performed": true,
+  "self_check_details": [
+    "Read every Tibetan anchor in the assigned range and neighboring U03193–U03196; drafted from Tibetan with the rough English as reference",
+    "Read the complete standard, all 222 mappings, full metadata for matching rows and additional relevant inflected/abbreviated entries",
+    "Reviewed participants, negations, repeated terms, quantities, compound boundaries and doubtful source readings during drafting",
+    "Mechanical ordered coverage proves all 1,303 anchors represented once",
+    "Each note quote verified as an exact substring of joined cited source anchors; each note marker verified in its pair",
+    "Preserved all five source x loci in this range with visible unresolved markers",
+    "Translated all six anchors with blank human references",
+    "Checked protected-term candidate mismatches contextually, distinguishing names/compounds, plurals, inflections and annotated provisional uses; no global semantic replacement",
+    "Revised local compound uses in N-C-049 and N-C-061 to disclose benefit/entities exceptions instead of forcing misleading standalone meaning",
+    "Corrected N-C-069 quotation to full exact consecutive source lines; added N-C-114 compound-usage note"
+  ],
+  "independent_qc": false,
+  "full_scan_proofreading": false,
+  "exhaustive_witness_collation": false,
+  "source_changes": 0,
+  "glossary_changes": 0,
+  "coverage_status": "Complete for assigned range: represented, with explicit unresolved readings",
+  "disposition": "Working draft complete with explicit review flags; not independently QC-cleared or publication-cleared",
+  "unresolved_issues": [
+    {
+      "id": "N-C-001",
+      "anchors": [
+        "U03197",
+        "U03198",
+        "U03199",
+        "U03200"
+      ],
+      "tibetan": "རྡོལ་ཆོས་དཔེ་དཀར་བུ་བཞི་དང།",
+      "category": "terminology gap",
+      "problem": "These historical teaching names and the source label lack active whole-expression entries; the reference is blank at U03198.",
+      "treatment": "Translate all named groups provisionally; render རྡོ༽༽ as Vajra statement throughout this range. Tantra is a textual-category use, distinct from the glossary continuum.",
+      "uncertainty": "The referents of the four booklets and tree/sky teachings are unverified.",
+      "review_action": "Check the historical titles and their lineage context; retain the source label."
+    },
+    {
+      "id": "N-C-002",
+      "anchors": [
+        "U03214",
+        "U03215",
+        "U03216"
+      ],
+      "tibetan": "རྒྱུད་དཀྲུག་པ།\nལུང་བཅུས།\nམན་ངག་གབ་པའི་ཕྱིར",
+      "category": "source reading",
+      "problem": "ལུང་བཅུས is not a straightforward reference to ten transmissions; the surrounding parallel phrases concern obscured instructions.",
+      "treatment": "Provisionally read བཅུས as twisted; preserve the transmitted spelling.",
+      "uncertainty": "The exact form and intended description of transmission need source verification.",
+      "review_action": "Compare a witness at U03215 and review the three parallel clauses."
+    },
+    {
+      "id": "N-C-003",
+      "anchors": [
+        "U03233",
+        "U03234"
+      ],
+      "tibetan": "རྡོ་རྗེ་འཆང་ཏེ་\nལོ་ནས་བརྒྱུད་པའི",
+      "category": "source reading",
+      "problem": "The name ཏེ་ལོ is divided across electronic anchors; the rough reference misreads ལོ as years.",
+      "treatment": "Read the joined name as Tilo, without changing the Tibetan.",
+      "uncertainty": "The spelling differs from the common ཏི་ལོ; identification is provisional.",
+      "review_action": "Verify the proper-name spelling in a witness."
+    },
+    {
+      "id": "N-C-004",
+      "anchors": [
+        "U03238"
+      ],
+      "tibetan": "ཁམས་གསུམ་འཁོར་བ་དང་མྱང་འདས་གསུམ་གྱི",
+      "category": "scope",
+      "problem": "The second གསུམ can attach to nirvāṇa; the rough reference leaves its force unclear.",
+      "treatment": "Provisionally retain three nirvāṇas, alongside the three realms of saṃsāra.",
+      "uncertainty": "The intended enumeration is not explained locally.",
+      "review_action": "Check the enumeration and modifier scope."
+    },
+    {
+      "id": "N-C-005",
+      "anchors": [
+        "U03245"
+      ],
+      "tibetan": "གཉིས་པ་ལྟར་ནའང་དོན་ཡོད་པ་ལྟར་འགྱུར་རོ",
+      "category": "syntax/reference",
+      "problem": "The stated consequence for the second horn is compressed and its logical connection is unclear.",
+      "treatment": "Retain the literal consequence rather than supplying a doctrinal reconstruction.",
+      "uncertainty": "Whether a word is missing cannot be determined from this transcript.",
+      "review_action": "Review the argument against a witness and parallel commentary."
+    },
+    {
+      "id": "N-C-006",
+      "anchors": [
+        "U03280",
+        "U03281"
+      ],
+      "tibetan": "དེ་སྐད་ཅིག་གི་བསམ་པ་དེའི་རང་གི་སྣང།\nགཟུགས་ཡིན་པས",
+      "category": "source reading",
+      "problem": "A shad and electronic line break interrupt སྣང་གཟུགས; the reference treats གཟུགས separately.",
+      "treatment": "Read the phrase across the break as appearing form; render བསམ་པ provisionally as intention here and below.",
+      "uncertainty": "Punctuation is preserved; the exact relationship of intention and habitual tendencies remains compressed.",
+      "review_action": "Verify punctuation and review the recurrent བསམ་པའི་རང་གཟུགས construction."
+    },
+    {
+      "id": "N-C-007",
+      "anchors": [
+        "U03287",
+        "U03288",
+        "U03289"
+      ],
+      "tibetan": "རྒྱུན་གྱི་འཇུག་པའི་ཕྱིར།",
+      "category": "terminology gap",
+      "problem": "རྒྱུན is distinct from the established རྒྱུད continuum; ཆོས་ཅན also has no active entry.",
+      "treatment": "Use succession for རྒྱུན and bearers of qualities for ཆོས་ཅན locally.",
+      "uncertainty": "The causal explanation of momentariness is compressed.",
+      "review_action": "Review these contextual terms without adding them to the active glossary."
+    },
+    {
+      "id": "N-C-008",
+      "anchors": [
+        "U03291",
+        "U03292",
+        "U03293"
+      ],
+      "tibetan": "ཆོས་ཅན་བསམ་པའི་རང་གཟུགས་ལ་ནི་གསུམ་སྟེ།",
+      "category": "syntax/reference",
+      "problem": "The relationship between Mahamudra, nature of phenomena, and intention is densely stated; the second member of the enumeration lacks an explicit repeated noun.",
+      "treatment": "Retain own-form as a provisional rendering and supply [its form] only to expose the parallel construction.",
+      "uncertainty": "Doctrinal scope and the relation of the second and third members remain uncertain.",
+      "review_action": "Review the whole U03291–U03293 construction and its three following examples."
+    },
+    {
+      "id": "N-C-009",
+      "anchors": [
+        "U03297",
+        "U03298",
+        "U03299"
+      ],
+      "tibetan": "བྲམ་ཟེ་ཏོ་རྒྱའི་ནེ་ཚོའི་ཁྱི་དཀར་པོ་དུང་ལྟ་བུའི",
+      "category": "syntax/reference",
+      "problem": "The proper names and the attachment of ནེ་ཚོའི are unclear; the anger and love examples are idiomatic.",
+      "treatment": "Retain Torya and Nétso provisionally; translate the visible color and happiness contrasts without adding the story.",
+      "uncertainty": "Nétso could be a person or another name rather than a place.",
+      "review_action": "Identify the cited narrative and check the name/possessive chain."
+    },
+    {
+      "id": "N-C-010",
+      "anchors": [
+        "U03301",
+        "U03302"
+      ],
+      "tibetan": "འཆི་ཁར་མི་དགེ་བས་མཚམས་སྦྱར་ན་སོང་དུ་སྐྱེ་བ",
+      "category": "source reading",
+      "problem": "སོང་དུ is incomplete for the expected destiny expression; འཕགས་རྒྱལ is provisionally identified with Ujjayinī.",
+      "treatment": "Translate bad destiny as a disclosed contextual reading, with no source repair.",
+      "uncertainty": "Neither the defective wording nor the narrative identification is authenticated.",
+      "review_action": "Check སོང་དུ and identify the hunter narrative."
+    },
+    {
+      "id": "N-C-011",
+      "anchors": [
+        "U03305",
+        "U03306",
+        "U03307"
+      ],
+      "tibetan": "མོ་མཁན་དང་འདྲ་བའི་སེམས་ལ་སྣང་བའི་གཟུགས",
+      "category": "syntax/reference",
+      "problem": "The comparison with a diviner has no explanation here; འབྲས་བུས also complicates the preceding list.",
+      "treatment": "Attach like a diviner to ordinary mind, as the genitive construction permits, and retain the threefold list.",
+      "uncertainty": "The intended force of the analogy remains uncertain.",
+      "review_action": "Review the analogy and case ending against a witness."
+    },
+    {
+      "id": "N-C-012",
+      "anchors": [
+        "U03319",
+        "U03320",
+        "U03321"
+      ],
+      "tibetan": "རྗེ་ཕག་མོ་གྲུ་པའི་སྣང་བ་\nརང་སེམས་ཀྱི་ཁྲོད་ནས་\nང་འབུས",
+      "category": "syntax/reference",
+      "problem": "The reference reads I am a bug as the intention, but ང་འབུས is an instrumental self-deprecating subject. The attachment of Phakmo Drupa’s appearance is less certain.",
+      "treatment": "Render I, a mere worm as the speaker; provisionally connect the appearance with the speaker’s ordinary mind.",
+      "uncertainty": "Whether the appearance belongs to Phakmo Drupa or is an appearance of him needs review.",
+      "review_action": "Check the quotation in its source and confirm attachment."
+    },
+    {
+      "id": "N-C-013",
+      "anchors": [
+        "U03323",
+        "U03324"
+      ],
+      "tibetan": "གཤིས",
+      "category": "terminology gap",
+      "problem": "གཤིས lacks an entry and should not silently be merged with རང་བཞིན intrinsic nature, which also occurs here.",
+      "treatment": "Use actual condition provisionally throughout this argument.",
+      "uncertainty": "The local term may denote the way things actually are rather than a separate entity.",
+      "review_action": "Review a proposed contextual entry while preserving the distinction from intrinsic nature."
+    },
+    {
+      "id": "N-C-014",
+      "anchors": [
+        "U03351",
+        "U03352"
+      ],
+      "tibetan": "མི་དག་རྣམ་པར་འགྱུར།\nཐད་ཀར་བབས་པ",
+      "category": "syntax/reference",
+      "problem": "མི་དག is read as people, not impure; ཐད་ཀར་བབས་པ is interpreted as someone on the same level. The first line leaves the direction of change implicit.",
+      "treatment": "Supply [for the worse] from the inferior/equal/superior contrast and translate equal provisionally.",
+      "uncertainty": "Exact wording of the quoted verse needs verification.",
+      "review_action": "Check the quotation and the idiom ཐད་ཀར་བབས་པ."
+    },
+    {
+      "id": "N-C-015",
+      "anchors": [
+        "U03370"
+      ],
+      "tibetan": "སངས་རྒྱས་ཞལ་འདི་གང་གི་ཐུགས་དང་ཞལ་ལ་གནས་པར",
+      "category": "contextual use",
+      "problem": "ཞལ occurs twice and ཐུགས has no standalone active entry. The reference’s face/mind construction is not intelligible.",
+      "treatment": "Provisionally render the first ཞལ as utterance and the pair ཐུགས་དང་ཞལ as heart and mouth.",
+      "uncertainty": "Utterance assumes metonymy; the transmitted reading may be incomplete.",
+      "review_action": "Check the quotation and approve or revise the local ཐུགས treatment."
+    },
+    {
+      "id": "N-C-016",
+      "anchors": [
+        "U03375"
+      ],
+      "tibetan": "བླ་མ་སྐྱོན་དང་ཡོན་ཏན་འདྲེན།",
+      "category": "source reading",
+      "problem": "The verb འདྲེན literally leads or brings; the contrast appears to describe a lama bearing both faults and qualities.",
+      "treatment": "Use bear provisionally; do not silently change the Tibetan to a different verb.",
+      "uncertainty": "A transcription error is possible but unverified.",
+      "review_action": "Compare the quotation in its textual source."
+    },
+    {
+      "id": "N-C-017",
+      "anchors": [
+        "U03393"
+      ],
+      "tibetan": "ཐོས་བསམ་སྒོམ་གསུམ་གཏན་ཚིག་ལྔས་གཞིག་ན་",
+      "category": "scope",
+      "problem": "The grouping of the three practices and five reasons is compressed; the reference treats primordial knowing as another thing examined rather than the object of realization.",
+      "treatment": "Read co-emergent primordial knowing as the object to be realized and retain both numerical groups.",
+      "uncertainty": "Whether the five reasons qualify all three practices or only the examination is not settled.",
+      "review_action": "Review the instrumental scope and identify the five reasons."
+    },
+    {
+      "id": "N-C-018",
+      "anchors": [
+        "U03407"
+      ],
+      "tibetan": "བློ་དང་ལྡན་པའི་མིས",
+      "category": "contextual use",
+      "problem": "Literal endowed with conceptual mind could misleadingly suggest that the contrast concerns possessing a mind rather than good judgment.",
+      "treatment": "Use conceptual intelligence locally, retaining the conceptual component; the canonical entry remains conceptual mind.",
+      "uncertainty": "This is an unapproved contextual rendering of བློ in the compound.",
+      "review_action": "Approve or replace this scoped usage."
+    },
+    {
+      "id": "N-C-019",
+      "anchors": [
+        "U03417"
+      ],
+      "tibetan": "ཆོས་སྐུར་འདུ་ཤེས་པས་མོས་གུས་སྐྱེས་ན",
+      "category": "interpretive supply",
+      "problem": "The object perceived as Dharma embodiment is not stated in this clause.",
+      "treatment": "Supply [the lama] from the surrounding faith/devotion discussion and Tilopa–Nāropa example.",
+      "uncertainty": "Context strongly supports the supply, but it is not explicit.",
+      "review_action": "Confirm the referent when reviewing the full argument."
+    },
+    {
+      "id": "N-C-020",
+      "anchors": [
+        "U03420"
+      ],
+      "tibetan": "བཅུ་གཉིས་བར་དུ",
+      "category": "interpretive supply",
+      "problem": "The unit of twelve is unstated.",
+      "treatment": "Supply [years], following the apparent duration of service.",
+      "uncertainty": "The numeral is explicit; its unit is contextual.",
+      "review_action": "Check the quotation’s complete wording."
+    },
+    {
+      "id": "N-C-021",
+      "anchors": [
+        "U03428",
+        "U03430"
+      ],
+      "tibetan": "ཡེ་སྙིང་གིས",
+      "category": "source reading",
+      "problem": "ཡེ་སྙིང appears to introduce an attribution, but the reference treats it as primordial essence.",
+      "treatment": "Retain Yé Nying provisionally as a source/name; do not silently identify it.",
+      "uncertainty": "It may abbreviate a title rather than a person.",
+      "review_action": "Identify the quotation source and check the transmitted reading."
+    },
+    {
+      "id": "N-C-022",
+      "anchors": [
+        "U03433"
+      ],
+      "tibetan": "གང་གི་ཐུགས་བརྩེས་ཉེར་བཟུང་ན།",
+      "category": "interpretive supply",
+      "problem": "The recipient of the loving care is implicit, and the opening clause has an unusual final ན.",
+      "treatment": "Supply [beings] and read the clause as qualifying Gautama.",
+      "uncertainty": "Source spelling of Gautama and the clause ending are irregular.",
+      "review_action": "Compare the quoted verse without silently normalizing the source."
+    },
+    {
+      "id": "N-C-023",
+      "anchors": [
+        "U03456",
+        "U03457"
+      ],
+      "tibetan": "ཇི་ལྟར་བར་སྣངཤིན་ཏུx\nདེ་བཞིནx",
+      "category": "source reading",
+      "problem": "Two x placeholders interrupt a quoted verse; བར་སྣངཤིན lacks an expected syllable separator.",
+      "treatment": "Keep both x marks visibly unresolved and translate only the supplied wording.",
+      "uncertainty": "The missing text and verse structure are not recoverable from this transcript.",
+      "review_action": "Collate the quoted Avataṃsaka passage against a source witness."
+    },
+    {
+      "id": "N-C-024",
+      "anchors": [
+        "U03470"
+      ],
+      "tibetan": "ཚིག་གི་འཛིན་པ་བོར་ལ་ཐོད།",
+      "category": "contextual use",
+      "problem": "འཛིན་པ here functions verbally as grasping at words, not as the noun apprehending subject; final ཐོད is unclear.",
+      "treatment": "Render the action as grasping provisionally and flag the unclear final word rather than supplying a separate action.",
+      "uncertainty": "The repeated imperative likely resembles the preceding line, but no source correction is made.",
+      "review_action": "Check final ཐོད and review the contextual grasping use."
+    },
+    {
+      "id": "N-C-025",
+      "anchors": [
+        "U03479"
+      ],
+      "tibetan": "དཀར་པོ་ཆིག་ཐུབ",
+      "category": "terminology gap",
+      "problem": "This technical epithet is absent from the glossary.",
+      "treatment": "Use single white remedy provisionally, retaining the singularity central to the objection.",
+      "uncertainty": "Its medical/doctrinal connotations require terminology review.",
+      "review_action": "Review the term as a whole expression; do not activate a new mapping by repetition."
+    },
+    {
+      "id": "N-C-114",
+      "anchors": [
+        "U03480"
+      ],
+      "tibetan": "བློ་གྲོས་རྩིང",
+      "category": "contextual use",
+      "problem": "The compound བློ་གྲོས denotes understanding here and lacks an active whole-expression row; standalone བློ is conceptual mind.",
+      "treatment": "Use conceptual understanding provisionally, retaining the conceptual component rather than silently treating the compound as generic wisdom.",
+      "uncertainty": "The compound needs a scoped glossary decision; this is not a new default for བློ.",
+      "review_action": "Review conceptual understanding alongside the conceptual intelligence use at N-C-018."
+    },
+    {
+      "id": "N-C-026",
+      "anchors": [
+        "U03486",
+        "U03487",
+        "U03488"
+      ],
+      "tibetan": "རིག་པས་གཞལ་བློས་བརྟགས",
+      "category": "contextual use",
+      "problem": "རིག་པ can denote reasoning in this analytical context, while the active assignment is awareness. མཚན་ཉིད here contrasts a meaning generalization with the genuine realization.",
+      "treatment": "Retain awareness and explicitly flag the possible logical sense; translate མཚན་ཉིད as genuine locally.",
+      "uncertainty": "The technical sense of རིག་པ and the repeated མཚན་ཉིད require review.",
+      "review_action": "Decide the occurrence-specific awareness/reasoning use without changing the canonical entry."
+    },
+    {
+      "id": "N-C-027",
+      "anchors": [
+        "U03504",
+        "U03505",
+        "U03506",
+        "U03507",
+        "U03508"
+      ],
+      "tibetan": "ཆོས་ཉིད་གཏན་ལ་ཕབ་ནས་ཡུལ་དུ་བྱེད་པ་ལྟ་བ་",
+      "category": "interpretive supply",
+      "problem": "The subject of the definitions is unstated; the following འདིར contrasts the author’s position.",
+      "treatment": "Supply [Some call] to mark the preceding definitions as the position being contrasted.",
+      "uncertainty": "The disjunction at སྒོམ་པའམ is read as introducing an alternative account.",
+      "review_action": "Confirm the grouping of the two accounts."
+    },
+    {
+      "id": "N-C-028",
+      "anchors": [
+        "U03510",
+        "U03511"
+      ],
+      "tibetan": "གསུམ་གྱིས་\nམ་རེག་པའི་རྟོགས་པ",
+      "category": "syntax/reference",
+      "problem": "The three that do not touch realization are unnamed; they may refer to hearing/reflection/cultivation or the three named systems.",
+      "treatment": "Retain untouched by the three without supplying a definite referent.",
+      "uncertainty": "The antecedent remains open.",
+      "review_action": "Resolve the antecedent from the full commentary or a parallel explanation."
+    },
+    {
+      "id": "N-C-029",
+      "anchors": [
+        "U03521",
+        "U03522",
+        "U03523",
+        "U03524"
+      ],
+      "tibetan": "དྲན་པའི་རྒྱུན་ཆད་མ་ཤེས་ན།",
+      "category": "source reading",
+      "problem": "The third line says interruption, whereas the preceding teaching emphasizes uninterrupted mindfulness; the final idiom is uncertain.",
+      "treatment": "Retain interruption and provisionally translate ཏབ་ཏབ་ཁ as frantic bustle.",
+      "uncertainty": "A missing negation or other textual defect is possible but unverified.",
+      "review_action": "Check the quoted song and its lineation."
+    },
+    {
+      "id": "N-C-030",
+      "anchors": [
+        "U03527",
+        "U03529",
+        "U03532"
+      ],
+      "tibetan": "མཐར་མ་འདྲེས་པའི་དྲན་ཉམས་པ་མངའ་བའི་བར་དུ",
+      "category": "source reading",
+      "problem": "The final reading has impaired mindfulness, apparently contrary to the expected unshared quality; the list of awakening factors is abbreviated.",
+      "treatment": "Preserve the problematic reading visibly instead of silently adding a negation; identify the list as selective.",
+      "uncertainty": "A missing negative particle is likely but not authenticated.",
+      "review_action": "Collate U03532 and review the full thirty-seven-factor enumeration."
+    },
+    {
+      "id": "N-C-031",
+      "anchors": [
+        "U03538",
+        "U03539",
+        "U03540",
+        "U03541"
+      ],
+      "tibetan": "འདོད་ཆགས་ཡུལ་སྡུག་པ་དང་\nདགག་བཅས་ཀུན་འབྱུང་དུ་འོང་ཞིང༌།",
+      "category": "syntax/reference",
+      "problem": "The parallel phrases join attraction/prohibition and aversion/accomplishment in a compressed construction; དགག་བཅས may be a defective reading.",
+      "treatment": "Preserve the explicit contrasts, supply [of suffering] for origin, and flag the construction as provisional.",
+      "uncertainty": "The precise attachment of what is prohibited/accomplished is unresolved.",
+      "review_action": "Check the reading and syntax before treating this as a settled instruction."
+    },
+    {
+      "id": "N-C-032",
+      "anchors": [
+        "U03547"
+      ],
+      "tibetan": "དཀྱིལ་འཁོར་གྱི་ལྷར་མཆོད་པས",
+      "category": "interpretive supply",
+      "problem": "The object offered is implicit.",
+      "treatment": "Supply [food] from the immediately preceding example.",
+      "uncertainty": "The context supports this supply.",
+      "review_action": "Retain or remove the brackets after human review."
+    },
+    {
+      "id": "N-C-033",
+      "anchors": [
+        "U03574"
+      ],
+      "tibetan": "སྐུ་གསུམ་འདུ་འབྲེལ་མེད",
+      "category": "source reading",
+      "problem": "The transcript reads འདུ་འབྲེལ, not the expected joining/separation pair འདུ་འབྲལ.",
+      "treatment": "Use joining or separation provisionally to expose the likely intended contrast; do not alter source.",
+      "uncertainty": "The reading may instead assert absence of an assembled connection.",
+      "review_action": "Verify the quotation and decide the final local wording."
+    },
+    {
+      "id": "N-C-034",
+      "anchors": [
+        "U03583",
+        "U03585"
+      ],
+      "tibetan": "གཞི་ཚུལ་ཁྲིམས",
+      "category": "contextual use",
+      "problem": "གཞི appears both as the technical Ground and as the supporting ground of ethical discipline. The glossary has intentional internal capitalization not otherwise explained.",
+      "treatment": "Keep the Ground for the technical ground/path/result usage, lower-case ground where ordinary support is meant; preserve the lexical term.",
+      "uncertainty": "The contextual and capitalization distinction is provisional.",
+      "review_action": "Review presentation once for this range; no change to the glossary."
+    },
+    {
+      "id": "N-C-035",
+      "anchors": [
+        "U03598"
+      ],
+      "tibetan": "གསུང་སྐྱེས",
+      "category": "interpretive supply",
+      "problem": "The possessor of speech is not explicit in this compound.",
+      "treatment": "Supply [Buddha’s] for the conventional epithet of hearers.",
+      "uncertainty": "The doctrinal referent is likely; the source remains abbreviated.",
+      "review_action": "Review the compound together with the four classes listed."
+    },
+    {
+      "id": "N-C-036",
+      "anchors": [
+        "U03608",
+        "U03609"
+      ],
+      "tibetan": "ཆོས་རྣམས་རང་བཞིན་སྟོང་པར་མཉམ་གཞག་ནས།།\nབྱིས་པ་མེ་རེག་བརྩོན་པས་མི་ཤེས་སོ།",
+      "category": "syntax/reference",
+      "problem": "The subject changes awkwardly between the equipoise clause and the childish touching fire; a defect in the quoted text is possible.",
+      "treatment": "Retain the sequence and fire image; supply only [this] as the implicit object of not knowing.",
+      "uncertainty": "The attachment is unresolved and this verse is not a settled reading.",
+      "review_action": "Check all four lines of the quotation in a witness."
+    },
+    {
+      "id": "N-C-037",
+      "anchors": [
+        "U03615"
+      ],
+      "tibetan": "སྡིག་པ་ཕྲ་བས་གཅིག་པ་ཡིན་ནོ།",
+      "category": "source reading",
+      "problem": "The phrase literally connects subtle wrongdoing with being one, but lacks an explicit verb of avoidance. The later parallel U03753 supplies such a verb.",
+      "treatment": "Supply [avoiding] visibly from the parallel argument; retain the unity of Mahamudra and discipline.",
+      "uncertainty": "This is a contextual reconstruction, not an authenticated reading.",
+      "review_action": "Compare U03615 with U03750–U03753 and a physical witness."
+    },
+    {
+      "id": "N-C-038",
+      "anchors": [
+        "U03651",
+        "U03652"
+      ],
+      "tibetan": "དེ་ལས་འདིར་རང་ཕྱག་ཆེན་ལ་དགེ་མི་དགེ་གཉིས་ཀས་སྒྲིབ",
+      "category": "syntax/reference",
+      "problem": "The source uses འདིར while still presenting a claim later explicitly rejected at U03656.",
+      "treatment": "Keep here but identify the claim as reported rather than the author’s conclusion.",
+      "uncertainty": "The discourse boundary may reflect defective punctuation or wording.",
+      "review_action": "Review attribution across U03644–U03656."
+    },
+    {
+      "id": "N-C-039",
+      "anchors": [
+        "U03668",
+        "U03669",
+        "U03670",
+        "U03671",
+        "U03672",
+        "U03673",
+        "U03674",
+        "U03675"
+      ],
+      "tibetan": "ས་བདུན་པར་ཁྲག་ཁྲིག་འབུམ་ཕྲག་བཅུ་གཉིས།",
+      "category": "scope",
+      "problem": "The enumeration omits the third ground. Large-number names vary by system and the particle counts must not be reduced to twelve particles.",
+      "treatment": "Preserve the stated factorized quantities; retain koṭi and khrak-khrik without decimal conversion. Translate སྟོང་ཆེན contextually as great thousandfold world system.",
+      "uncertainty": "The value of khrak-khrik and the omitted third-ground quantity remain unverified.",
+      "review_action": "Check the numerical tradition and the missing third-ground entry; do not silently insert it."
+    },
+    {
+      "id": "N-C-040",
+      "anchors": [
+        "U03676",
+        "U03683",
+        "U03685"
+      ],
+      "tibetan": "ལུང་རིག་འཁོར་གྱིས་བསྐོར་བ་སྟོན་པ།",
+      "category": "source reading",
+      "problem": "The tenth-ground quantity lacks an explicit counted cosmic unit; the last item’s ལུང་རིག is anomalous in a list of retinues. U03683 contains repeated tshegs.",
+      "treatment": "Supply the quantitative link in brackets, retain the particle expression, and quote scripture and awareness as unresolved wording rather than inventing a retinue.",
+      "uncertainty": "A defective final item is probable; the correct reading is unknown.",
+      "review_action": "Collate the complete twelve-quality list and tenth-ground quantity."
+    },
+    {
+      "id": "N-C-041",
+      "anchors": [
+        "U03698"
+      ],
+      "tibetan": "སོ་སྐྱེ་རྣམས་རྗེ་ཤེས་ཁོ་ན་ཡིན་པའི་ཕྱིར",
+      "category": "source reading",
+      "problem": "The reference is blank. རྗེ་ཤེས appears to stand for subsequent knowing, contrasted with equipoise; the source lacks the usual final letter of རྗེས.",
+      "treatment": "Translate subsequent knowing provisionally, retaining the original source.",
+      "uncertainty": "The textual form and its relation to post-cultivation attainment need review.",
+      "review_action": "Check U03698 against U03714 and a witness."
+    },
+    {
+      "id": "N-C-042",
+      "anchors": [
+        "U03706",
+        "U03707"
+      ],
+      "tibetan": "ས་ནི་བསམ་གྱིས་མི་ཁྱབ་པའི། །\nདགེ་བའི་ལས་ཀྱི་རྒྱུ་རྐྱེན་གྱིས།།",
+      "category": "syntax/reference",
+      "problem": "The attachment of grounds to inconceivable virtuous karma is compressed, and ས་ནི might instead be an independent topic.",
+      "treatment": "Read on the grounds provisionally while preserving the causal and instrumental sequence.",
+      "uncertainty": "The exact topic relation remains uncertain.",
+      "review_action": "Check the full verse in the cited sūtra."
+    },
+    {
+      "id": "N-C-043",
+      "anchors": [
+        "U03717"
+      ],
+      "tibetan": "བྲལ་བའི་འབྲས་བུ",
+      "category": "terminology gap",
+      "problem": "This technical result category is absent from the active glossary, as is the source label ལྷན༽༽.",
+      "treatment": "Use result of separation provisionally; visibly render the label Addendum throughout this range.",
+      "uncertainty": "The intended scholastic category should be confirmed.",
+      "review_action": "Review the whole-expression term and retain all source labels."
+    },
+    {
+      "id": "N-C-044",
+      "anchors": [
+        "U03722",
+        "U03723",
+        "U03724"
+      ],
+      "tibetan": "ཐེག་པ་དམན་པ་འདི་ནི་གནས་མིན།\nསྐབས་མེད་བསྟན་པའི་སྟོབས",
+      "category": "syntax/reference",
+      "problem": "The precise impossibility concerning the Lesser Vehicle is not specified, and the clause may be incomplete.",
+      "treatment": "Retain the stated vehicle and impossibility; bracket the minimal verbal supply rather than inventing a fall or exclusion.",
+      "uncertainty": "The quotation’s intended scope is unresolved.",
+      "review_action": "Check the complete passage in the Sūtra of the Questions of the Girl Ratna."
+    },
+    {
+      "id": "N-C-045",
+      "anchors": [
+        "U03741",
+        "U03742"
+      ],
+      "tibetan": "ཞི་བར་གནས་པ་རང་རྒྱལ་ཐེག་པ་དེ།\nཉན་ཐོས་རྣམ་པར་གྲོལ་བའི་སྒྲ་ཕྱིར་འབྲང༌།",
+      "category": "syntax/reference",
+      "problem": "The latter two lines have an unclear subject and logical relation to the preceding karmic statement.",
+      "treatment": "Retain the visible vehicle, hearers, liberation, and word relationships without importing a familiar alternate quotation.",
+      "uncertainty": "The text may be incomplete or defective.",
+      "review_action": "Collate the four-line quotation."
+    },
+    {
+      "id": "N-C-046",
+      "anchors": [
+        "U03768"
+      ],
+      "tibetan": "དེ་ཕྱིར་སྟོང་ཉིད་མ་ཡིན་པའི།།",
+      "category": "source reading",
+      "problem": "The quotation stops at a genitive phrase before its conclusion.",
+      "treatment": "Translate the available clause and mark the break explicitly; do not restore the familiar missing line.",
+      "uncertainty": "The absence is in the fixed transcript, not proof of omission in a physical witness.",
+      "review_action": "Collate the quotation and preserve the original partial reading."
+    },
+    {
+      "id": "N-C-047",
+      "anchors": [
+        "U03774",
+        "U03779"
+      ],
+      "tibetan": "ནམ་མཁའ་གཉིས་འདྲེས",
+      "category": "terminology gap",
+      "problem": "The standalone mixing family is not fully entered in the glossary, though existing compounds establish mix/mixed/mixing vocabulary.",
+      "treatment": "Use mixed provisionally for this explicit two-spaces analogy and keep the term linked at later doctrinal uses.",
+      "uncertainty": "This does not approve integrate with or a universal standalone mapping.",
+      "review_action": "Review the mixing construction in relation to the existing glossary compounds."
+    },
+    {
+      "id": "N-C-048",
+      "anchors": [
+        "U03791"
+      ],
+      "tibetan": "རྫུ་འཕྲུལ་དང་མངོནཤེས་ཡ་མ་ཟུང",
+      "category": "source reading",
+      "problem": "ཡ་མ་ཟུང is an unusual expression here and མངོནཤེས lacks a syllable separator.",
+      "treatment": "Render miraculous powers and superknowledges as a pair provisionally; do not alter the source.",
+      "uncertainty": "The pairing expression may have another force.",
+      "review_action": "Check the wording and the technical term for superknowledges."
+    },
+    {
+      "id": "N-C-049",
+      "anchors": [
+        "U03799",
+        "U03800",
+        "U03801"
+      ],
+      "tibetan": "སྟོང་པ་ཉིད་ནིx\nབློ་ནི་གཞན་དོནx\nའགྱུར་བ་ཉིད་དུx",
+      "category": "source reading",
+      "problem": "Three x marks interrupt the quoted verse; གཞན་དོན is an altruistic benefit compound, not the standalone meaning sense, but its complete predicate is missing.",
+      "treatment": "Preserve all three x marks and translate only surviving fragments; use benefit provisionally for the compound, retaining the canonical meaning assignment unchanged.",
+      "uncertainty": "The missing predicates and relationships are unresolved.",
+      "review_action": "Locate and collate the master’s quoted verse."
+    },
+    {
+      "id": "N-C-050",
+      "anchors": [
+        "U03820",
+        "U03821"
+      ],
+      "tibetan": "ལུག་རྒྱུད་རྒྱུ་མ་ཕུས་བཏབ་བཞིན།",
+      "category": "source reading",
+      "problem": "The human reference is blank at U03820. ལུག་རྒྱུད་རྒྱུ་མ is an irregular phrase, and ha-ra-ra is an expressive sound rather than a named agent.",
+      "treatment": "Translate the apparent inflated-intestine simile and retain ha-ra-ra as sound.",
+      "uncertainty": "The sheep/intestine construction needs witness verification.",
+      "review_action": "Check U03820; do not infer continuum from the incidental རྒྱུད sequence."
+    },
+    {
+      "id": "N-C-051",
+      "anchors": [
+        "U03825",
+        "U03830"
+      ],
+      "tibetan": "ཐུབ་ཀྱང་དྲག་ཏུ་མནན་པར་བྱ།",
+      "category": "contextual use",
+      "problem": "The concessive ཀྱང makes the first instruction awkward; the technical name གཞིལ་བ lacks an active entry.",
+      "treatment": "Read while able provisionally from the following unable contrast; render the named stage as pressing.",
+      "uncertainty": "Precise force and conventional name require review.",
+      "review_action": "Check the original instructional verse and approve the local stage name."
+    },
+    {
+      "id": "N-C-052",
+      "anchors": [
+        "U03833",
+        "U03837"
+      ],
+      "tibetan": "སྔོ་ནི་ཕྱུར་ཕྱུར་འགྲོ་བར་བསམས།",
+      "category": "contextual use",
+      "problem": "The expressive phrase ཕྱུར་ཕྱུར and the quantity ཆ་གཅིག are not precisely specified.",
+      "treatment": "Retain one portion without inventing a fraction; use blue and billowing provisionally.",
+      "uncertainty": "The color could be conventionally called green; the motion image is uncertain.",
+      "review_action": "Review the image and quantity against the complete practice text."
+    },
+    {
+      "id": "N-C-053",
+      "anchors": [
+        "U03843",
+        "U03845"
+      ],
+      "tibetan": "རླུང་ལ་རྩོལ་འབུང་འདོན་པའི་རྩར་རྩིར་གཡོ་འགུལ",
+      "category": "source reading",
+      "problem": "The cluster describing wind effort and channel movement is irregular; the relation of སེམས and དངོས་པོ is compressed.",
+      "treatment": "Render the physical operations provisionally and preserve ordinary mind as the thing whose natural state is seen.",
+      "uncertainty": "Exact operations and syntactic attachment need confirmation.",
+      "review_action": "Review U03843–U03848 in a witness, without turning the rough reference into authority."
+    },
+    {
+      "id": "N-C-054",
+      "anchors": [
+        "U03849",
+        "U03852"
+      ],
+      "tibetan": "རླུང་གི་གནད་འཆིང་བ་མ་བྱས་བྱར་མེད",
+      "category": "syntax/reference",
+      "problem": "The phrase མ་བྱས་བྱར་མེད is interpreted as cannot do without, rather than as non-doing. This must be reconciled with the preceding uncontrived wind instruction.",
+      "treatment": "Translate indispensable while preserving binding; leave the three inner-heat instructions unnamed.",
+      "uncertainty": "The referent of three instructions and the precise idiom require review.",
+      "review_action": "Check the idiom and the referenced inner-heat instruction collection."
+    },
+    {
+      "id": "N-C-055",
+      "anchors": [
+        "U03862",
+        "U03863"
+      ],
+      "tibetan": "ཕྱག་རྒྱ་མ་ཁྲིད་ནས་",
+      "category": "terminology gap",
+      "problem": "ཕྱག་རྒྱ་མ is the female-consort noun, not a negated verb meaning without instructing a mudrā. བརྟུལ་ཞུགས lacks an active entry.",
+      "treatment": "Use female mudrā consort and disciplined observance provisionally, retaining the reported rather than endorsed instruction.",
+      "uncertainty": "The word རིགས་པ may be defective or qualify the observance.",
+      "review_action": "Review both technical compounds and the claim’s attribution."
+    },
+    {
+      "id": "N-C-056",
+      "anchors": [
+        "U03880",
+        "U03884",
+        "U03885"
+      ],
+      "tibetan": "ལུས་སྲོག་ཐད་ལ་འཁོར་བའི་རྟོགས་ལྡན་སྤྱོད་པ",
+      "category": "syntax/reference",
+      "problem": "The body/life idiom is unclear; the subject of the final superior comparison is implicit. The rough reference reverses the comparison.",
+      "treatment": "Use heedlessness about body and life provisionally and supply [Ethical discipline] as the subject of being superior.",
+      "uncertainty": "The comparison is clear from context; the idiom remains uncertain.",
+      "review_action": "Check U03880 and retain the author’s contrast rather than endorsing the criticized activity."
+    },
+    {
+      "id": "N-C-057",
+      "anchors": [
+        "U03892",
+        "U03896",
+        "U03897",
+        "U03898",
+        "U03899"
+      ],
+      "tibetan": "ཆོས་མཆོག་ཉིད་ཀྱི་བརྩམས་པའི་ཚད་མར་མཉེས་པས་",
+      "category": "syntax/reference",
+      "problem": "The threefold list must not become four by separating Dharma from ethical discipline. ཆོས་མཆོག is read as the name Dharmottara, and the cited narratives are unverified.",
+      "treatment": "Keep three items and provisionally identify Dharmottara; do not assign his composition to the earlier noble master.",
+      "uncertainty": "The persons and stories need authentication; yakṣa accomplishment is also abbreviated.",
+      "review_action": "Identify both narratives and review the two agents."
+    },
+    {
+      "id": "N-C-058",
+      "anchors": [
+        "U03914",
+        "U03915"
+      ],
+      "tibetan": "གང་དག་ང་ལ་དགྲར་ཤེས་ན།",
+      "category": "source reading",
+      "problem": "The transcript reads enemy, དགྲར, where the familiar quotation has a sound-related reading; U03914 also has compressed spelling.",
+      "treatment": "Translate enemy as supplied and flag it; do not silently repair the source to sound.",
+      "uncertainty": "This is a suspected source defect, not a verified witness variant.",
+      "review_action": "Collate the Vajra Cutter quotation and decide any correction in a separate edition."
+    },
+    {
+      "id": "N-C-059",
+      "anchors": [
+        "U03920"
+      ],
+      "tibetan": "རྟོགས་བྱེད་ཀྱི་བློ་འདྲེས",
+      "category": "terminology gap",
+      "problem": "The standalone mixing construction remains proposed, as recorded at N-C-047.",
+      "treatment": "Use mixed locally for the explicit basic-space/conceptual-mind relation.",
+      "uncertainty": "The source phrase འདྲེས་གང་ཡོད་པས is compressed.",
+      "review_action": "Review the construction and retain its proposed status."
+    },
+    {
+      "id": "N-C-060",
+      "anchors": [
+        "U03936"
+      ],
+      "tibetan": "གང་དུ་ཡང་དག་འདྲེས་གྱུར་པ",
+      "category": "terminology gap",
+      "problem": "The mixing use has no standalone approved entry; its subject is implicit.",
+      "treatment": "Use mixed provisionally, relating it to conventional and ultimate in the preceding lines.",
+      "uncertainty": "Whether the union is of the two truths or their freedom from conceptual thought needs review.",
+      "review_action": "Review the whole stanza; keep N-C-047’s family-level proposal status."
+    },
+    {
+      "id": "N-C-061",
+      "anchors": [
+        "U03944"
+      ],
+      "tibetan": "ཐ་དད་དོན་མིན་དོན་གཅིག་མིན།",
+      "category": "contextual use",
+      "problem": "དོན in this philosophical contrast can mean entities or objects, but the canonical assignment is meaning.",
+      "treatment": "Use entities provisionally in this ontological different/single contrast; leave the canonical meaning assignment unchanged.",
+      "uncertainty": "This is a scoped contextual rendering, not an approved alternative glossary default.",
+      "review_action": "Review the quotation and decide a local terminology treatment."
+    },
+    {
+      "id": "N-C-062",
+      "anchors": [
+        "U03950",
+        "U03951"
+      ],
+      "tibetan": "བརྟེན་པ་ཡེ་ཤེས",
+      "category": "terminology gap",
+      "problem": "Supported primordial knowing introduces an abode/support distinction continued later; རྒྱུན is not the glossary continuum.",
+      "treatment": "Retain supported and use succession for རྒྱུན, as in N-C-007.",
+      "uncertainty": "The full scholastic framework is not supplied here.",
+      "review_action": "Review supported primordial knowing together with the later supporting embodiment discussion."
+    },
+    {
+      "id": "N-C-063",
+      "anchors": [
+        "U03956",
+        "U03958"
+      ],
+      "tibetan": "བསྲེགས་པས་ཞིང་དེ་རྒྱལ་རྣམས་ཆོས་སྐུ་དེ།",
+      "category": "source reading",
+      "problem": "The source reads ཞིང, field/and, where peaceful is contextually expected; the final embodiment instrument is also compressed.",
+      "treatment": "Mark peaceful [state] as a provisional contextual reading, retaining the original Tibetan without emendation.",
+      "uncertainty": "A textual defect is suspected but unverified.",
+      "review_action": "Collate the verse, especially ཞིང and the final agent/instrument relation."
+    },
+    {
+      "id": "N-C-064",
+      "anchors": [
+        "U03962"
+      ],
+      "tibetan": "གཞན་དབང",
+      "category": "contextual use",
+      "problem": "The expression can denote dependence on others here, rather than the technical other-powered nature proposed by the rough reference.",
+      "treatment": "Use made in dependence on others provisionally, with statements as subject.",
+      "uncertainty": "Its precise hermeneutic force is not explicit.",
+      "review_action": "Review this use with the Prāsaṅgika attribution."
+    },
+    {
+      "id": "N-C-065",
+      "anchors": [
+        "U03964",
+        "U03965"
+      ],
+      "tibetan": "མཚོན་གྱི་རི་མོ་འབྲི་བ",
+      "category": "source reading",
+      "problem": "The source has མཚོན, which can suggest weapons rather than pigments; the two analogies share space as their apparent object. The action describing is implicit.",
+      "treatment": "Supply [describing] and provisionally interpret མཚོན as colors, not a weapon.",
+      "uncertainty": "Both the exact source form and omitted verbal relationship need checking.",
+      "review_action": "Collate the analogy and confirm the syntax."
+    },
+    {
+      "id": "N-C-066",
+      "anchors": [
+        "U03983",
+        "U03984"
+      ],
+      "tibetan": "བློ་ལས་འདས་པ་ཡིན་ནོ།",
+      "category": "interpretive supply",
+      "problem": "The subject of beyond the conceptual mind is not repeated.",
+      "treatment": "Supply [buddhahood] from the preceding thesis.",
+      "uncertainty": "The Buddha rather than buddhahood would also express the referent.",
+      "review_action": "Confirm the nominal reference in human editing."
+    },
+    {
+      "id": "N-C-067",
+      "anchors": [
+        "U03989",
+        "U03990",
+        "U03991",
+        "U03992",
+        "U03993",
+        "U03994",
+        "U03995"
+      ],
+      "tibetan": "ཐུགས་ཚད་མ་ཡིན་ལ་",
+      "category": "terminology gap",
+      "problem": "The scholastic sevenfold cognition taxonomy and standalone ཐུགས lack active entries. སྐད་ཅིག་དང་པོ་ཕན་ཆད is awkward beside the explicit second-moment contrast.",
+      "treatment": "Use the listed cognition labels provisionally; use awakened heart for honorific ཐུགས throughout this section, distinct from ordinary mind and enlightened intent. Read the first/second contrast as stated.",
+      "uncertainty": "These are proposed local usages, not approved glossary additions; exact temporal particle needs checking.",
+      "review_action": "Review the seven labels, temporal construction, and standalone ཐུགས proposal."
+    },
+    {
+      "id": "N-C-068",
+      "anchors": [
+        "U04001"
+      ],
+      "tibetan": "ཚད་མ་མི་བསླུ་བའོ།",
+      "category": "contextual use",
+      "problem": "ཚད་མ predicates authority of a person here, whereas the prior passage classifies cognitions.",
+      "treatment": "Use authority locally and keep the valid-cognition relationship in the surrounding argument.",
+      "uncertainty": "No active glossary assignment exists for this family.",
+      "review_action": "Review person-predicate authority alongside the cognition terminology in N-C-067."
+    },
+    {
+      "id": "N-C-069",
+      "anchors": [
+        "U04045",
+        "U04046",
+        "U04047",
+        "U04048",
+        "U04049"
+      ],
+      "tibetan": "སྟོང་ཉིད་དབུ་མ་ཐལ་འགྱུར་བའི་རྒྱ་ཆད།\nཉན་ཐོས་པའི་བཅོམ་ཆད།\nམུ་སྟེགས་ཆད་ལྟ་བའི་ཤི་ཆད།\nབློས་བྱས་ཀྱི་སྟོང་པ་ཕྱལ་ཆད།\nརྫོགས་ཆེན་པའི་གདོད་ནས་ཡེ་ཆད།",
+      "category": "terminology gap",
+      "problem": "These five polemical technical compounds lack established whole-expression entries.",
+      "treatment": "Preserve the repeated annihilation element and differentiate sweeping, through destruction, at death, blank, and primordial provisionally.",
+      "uncertainty": "The exact historical senses and scope of the school labels need review.",
+      "review_action": "Review the five as a family; do not treat this author’s attributions as independent factual certification of those schools."
+    },
+    {
+      "id": "N-C-070",
+      "anchors": [
+        "U04052",
+        "U04053",
+        "U04054"
+      ],
+      "tibetan": "དེས་ན་བློས་དཔག་པ་ལས།\nཚད་མར་གཟིགས་པ།",
+      "category": "syntax/reference",
+      "problem": "The short source phrases do not clearly specify who sees what; the relation to the Dignāga citation is compressed.",
+      "treatment": "Retain the passive formulations and the inference qualification without inserting an agent.",
+      "uncertainty": "This transition remains syntactically unresolved.",
+      "review_action": "Review the passage against a fuller witness or commentary."
+    },
+    {
+      "id": "N-C-071",
+      "anchors": [
+        "U04060",
+        "U04061",
+        "U04062",
+        "U04065",
+        "U04067"
+      ],
+      "tibetan": "རྟེན་སྐུ་བསོད།",
+      "category": "source reading",
+      "problem": "The word བསོད is isolated and likely incomplete; the opening list compresses the timing of abandonment. The reported-position subject is implicit.",
+      "treatment": "Supply [Some maintain], retain merit in quotation marks, and preserve the source’s seventh-ground and end-of-succession placements.",
+      "uncertainty": "Whether བསོད begins merit or is a different defect remains unresolved.",
+      "review_action": "Collate U04067 and check the abandonment sequence and attribution."
+    },
+    {
+      "id": "N-C-072",
+      "anchors": [
+        "U04075",
+        "U04076"
+      ],
+      "tibetan": "ནམ་མཁའ་ལྡིང་གི་མཆོད་སྡོང",
+      "category": "terminology gap",
+      "problem": "The garuḍa shrine analogy is not identified; དཔག་བསམ is an abbreviated name and may join the preceding jewel.",
+      "treatment": "Keep garuḍa shrine and provisionally distinguish jewel, wish-fulfilling tree, and sun.",
+      "uncertainty": "The grouping and narrative referent need verification.",
+      "review_action": "Identify the analogies in the cited sūtra."
+    },
+    {
+      "id": "N-C-073",
+      "anchors": [
+        "U04080",
+        "U04081",
+        "U04082"
+      ],
+      "tibetan": "རྣམ་རྟོགས་ཐམས་ཅད་དང་བྲལ་བ",
+      "category": "source reading",
+      "problem": "The source reads རྣམ་རྟོགས with final ས, unlike རྣམ་རྟོག differentiating conceptualization. The subject of precedes/follows is omitted.",
+      "treatment": "Provisionally translate differentiating conceptualization as indicated by context and explicitly supply [primordial knowing] as the preceding/following agent.",
+      "uncertainty": "The spelling may be defective; the source is not corrected.",
+      "review_action": "Check U04080 and confirm the agent of U04081–U04083."
+    },
+    {
+      "id": "N-C-074",
+      "anchors": [
+        "U04087"
+      ],
+      "tibetan": "དཔའ་བོས།",
+      "category": "syntax/reference",
+      "problem": "The instrumental name དཔའ་བོས appears to introduce an author, whereas the reference reads heroes.",
+      "treatment": "Treat it provisionally as Śūra’s attribution.",
+      "uncertainty": "The author’s exact identity is unverified.",
+      "review_action": "Identify the quotation source."
+    },
+    {
+      "id": "N-C-075",
+      "anchors": [
+        "U04099"
+      ],
+      "tibetan": "ངམ་གྲོགས་ལ་སོགས་བེམ་བོའོ།",
+      "category": "source reading",
+      "problem": "The reference is blank, and ངམ་གྲོགས appears to be an irregular form of a ravine word.",
+      "treatment": "Translate ravines provisionally, with no change to the exact Tibetan.",
+      "uncertainty": "The intended material example remains unverified.",
+      "review_action": "Check the line against the cited tantra."
+    },
+    {
+      "id": "N-C-076",
+      "anchors": [
+        "U04108",
+        "U04111"
+      ],
+      "tibetan": "རང་བཞིན་གྱིས་སེམས་ཅན་རྣམས་ལ་ཡོད་པས་",
+      "category": "contextual use",
+      "problem": "The adverbial intrinsic-nature construction requires local treatment; the standard does not approve a blanket by its intrinsic nature formula.",
+      "treatment": "Use in virtue of intrinsic nature provisionally, retaining the complete canonical term once. Read causes/conditions as the two categories of the following dual-phenomena phrase.",
+      "uncertainty": "The precise force of གཉིས་ཆོས is open.",
+      "review_action": "Review both grammatical constructions without weakening intrinsic nature."
+    },
+    {
+      "id": "N-C-077",
+      "anchors": [
+        "U04117",
+        "U04118"
+      ],
+      "tibetan": "རང་དོན་གཞན་དོན་དོན་དམ་སྐུ་རང་ནི།",
+      "category": "syntax/reference",
+      "problem": "The paired benefits and embodiments are compressed. དོན in self/other-benefit compounds is not the standalone meaning sense.",
+      "treatment": "Use benefit provisionally in these compounds while preserving both beneficiaries and both embodiment terms; do not invent an explicit one-to-one assignment absent from the quoted wording.",
+      "uncertainty": "The expected pairing is plausible but not fully expressed.",
+      "review_action": "Review the quotation and the scoped benefit use, also found in nearby altruistic passages."
+    },
+    {
+      "id": "N-C-078",
+      "anchors": [
+        "U04128",
+        "U04130"
+      ],
+      "tibetan": "རྒྱུ་ལ་མི་འཇུག་པས་ཐུགས་བསྐྱེད་ཡོད་ཟེར།",
+      "category": "source reading",
+      "problem": "The reported objection ends with exists, though the ensuing rebuttal appears to require does not exist. ཐུགས་བསྐྱེད has no established whole-expression row.",
+      "treatment": "Retain the affirmative in quotation marks; use resolve for awakening provisionally for the honorific compound.",
+      "uncertainty": "A missing negative is likely but not authenticated.",
+      "review_action": "Collate U04130 and approve or revise the compound terminology."
+    },
+    {
+      "id": "N-C-079",
+      "anchors": [
+        "U04133",
+        "U04135"
+      ],
+      "tibetan": "བྱང་ཆུབ་ཀྱི་སེམས",
+      "category": "terminology gap",
+      "problem": "The whole expression bodhicitta is absent from the active glossary; its སེམས component must remain recognizable.",
+      "treatment": "Use ordinary mind of awakening provisionally and preserve the distinction from honorific resolve for awakening.",
+      "uncertainty": "A whole-expression assignment may be preferable but is not approved.",
+      "review_action": "Review the proposed compound and its relation to ཐུགས་བསྐྱེད."
+    },
+    {
+      "id": "N-C-080",
+      "anchors": [
+        "U04143",
+        "U04145"
+      ],
+      "tibetan": "ད་དུང་ཆོག་པའི་འདུ་ཤེས་གསལ།",
+      "category": "source reading",
+      "problem": "The line states that contentment-perception is clear, apparently awkward in the argument for continuing resolve. The eighty-koṭi quantity lacks an explicit unit.",
+      "treatment": "Retain the affirmative as supplied; bracket [of times] as a provisional count of displays.",
+      "uncertainty": "Both the line and the counted unit require verification.",
+      "review_action": "Collate this six-line quotation; do not insert absent noncontentment."
+    },
+    {
+      "id": "N-C-081",
+      "anchors": [
+        "U04159",
+        "U04160"
+      ],
+      "tibetan": "དེ་ལྟར་དུག་ཟོས་ཉེན་པའི་བུ་ལ་མ་ཡི་སྡུག་བསྔལ་མིན་པར་འགྱུར་མ་ལགས༎",
+      "category": "syntax/reference",
+      "problem": "The negation in the maternal comparison is dense and its exact force is uncertain.",
+      "treatment": "Provisionally express the mother’s suffering as comparable, retaining the negative construction as not other than this.",
+      "uncertainty": "The verse may instead assert that the mother’s suffering does not equal the Buddha’s compassion.",
+      "review_action": "Check the source quotation and decide the comparison’s direction."
+    },
+    {
+      "id": "N-C-082",
+      "anchors": [
+        "U04172",
+        "U04173",
+        "U04174",
+        "U04176",
+        "U04177"
+      ],
+      "tibetan": "གསང་འདུས་གཉིས་མེད་རྣམས་ལས།",
+      "category": "syntax/reference",
+      "problem": "The three analogies and tantra grouping are abbreviated; the reference conflates Guhyasamāja and nondual into a title.",
+      "treatment": "Retain the three analogies as prose enumeration; bracket [forms], [of awakening], and [tantras] as contextual supplies.",
+      "uncertainty": "Whether nondual qualifies Guhyasamāja or names another class remains open.",
+      "review_action": "Check the analogies and citation grouping."
+    },
+    {
+      "id": "N-C-083",
+      "anchors": [
+        "U04228",
+        "U04229"
+      ],
+      "tibetan": "ཀུན་དགའ་བོ་གང་དག་ན་སངས་རྒྱས་ཀྱི་མཛད་པ་བྱེད་པའི",
+      "category": "source reading",
+      "problem": "The opening citation leaves the operative item unspecified; the next line says to apply the construction to a list.",
+      "treatment": "Keep the abbreviated opening as supplied and retain every listed instrument.",
+      "uncertainty": "The complete quotation may identify an initial item absent here.",
+      "review_action": "Check the quotation boundary and its first omitted or abbreviated instrument."
+    },
+    {
+      "id": "N-C-084",
+      "anchors": [
+        "U04240"
+      ],
+      "tibetan": "རྣམ་པར་འཁྲུལ་པ་བསྟན་པ",
+      "category": "source reading",
+      "problem": "The title reads འཁྲུལ་པ delusion where a transformation/display title is likely.",
+      "treatment": "Use Transformations provisionally in the title without changing the Tibetan.",
+      "uncertainty": "The source title has not been authenticated.",
+      "review_action": "Identify the sūtra and check the title spelling."
+    },
+    {
+      "id": "N-C-085",
+      "anchors": [
+        "U04242",
+        "U04247",
+        "U04248"
+      ],
+      "tibetan": "ཐབས་མཁས་པས་སྣེར་བརྩེ་བ་ཤ་སྟག་གོ",
+      "category": "syntax/reference",
+      "problem": "The guiding/loving phrase is irregular; ཀུན་ཏུ་དཔྱོད་པ་བ may be a defective form of the wanderer designation. Attention is a whole-construction use of ཡིད་ལ་བྱ.",
+      "treatment": "Translate wanderers and lovingly lead provisionally; bracket [beings] as the implicit beneficiary. Use attention for the whole construction rather than mechanically treating ཡིད as an independent entity.",
+      "uncertainty": "Exact source forms and compound interpretation need review.",
+      "review_action": "Collate the passage and review the scoped attention construction."
+    },
+    {
+      "id": "N-C-086",
+      "anchors": [
+        "U04254",
+        "U04255",
+        "U04256",
+        "U04257"
+      ],
+      "tibetan": "སོར་འཕྲེང་སངས་རྒྱས་བཅོམ་ལྡན་འདས་མཐོང་ན་དགའ་བ་ཅན",
+      "category": "syntax/reference",
+      "problem": "The narrative names are compressed, especially Aṅgulimāla and Delightful to Behold; the reference treats the latter as an ordinary description.",
+      "treatment": "Retain the threefold respectively relation and provisionally group the names as written.",
+      "uncertainty": "Whether Delightful to Behold is a separate Buddha name or qualifies another figure is unresolved.",
+      "review_action": "Identify the three narratives and verify all agents."
+    },
+    {
+      "id": "N-C-087",
+      "anchors": [
+        "U04259"
+      ],
+      "tibetan": "རྡུལ་དང༌། མུན་པ། སྙིང་སྟོབས",
+      "category": "terminology gap",
+      "problem": "The three may be guṇa terminology (rajas, tamas, sattva), but the source supplies Tibetan labels and no explanation.",
+      "treatment": "Retain literal dust, darkness, and strength of heart provisionally rather than silently asserting the Sanskrit identification.",
+      "uncertainty": "The technical identification remains open.",
+      "review_action": "Check the tantra quotation and decide whole-expression terminology."
+    },
+    {
+      "id": "N-C-088",
+      "anchors": [
+        "U04275"
+      ],
+      "tibetan": "མངོན་པར་རྫོགས་པར་བྱའོ།",
+      "category": "source reading",
+      "problem": "The line has shall fully accomplish, without an explicit awakening verb; the reference supplies awakening.",
+      "treatment": "Retain the future accomplishment wording rather than silently replacing it with a standard sūtra formula.",
+      "uncertainty": "A missing syllable or shortened formula is possible.",
+      "review_action": "Compare the cited Extensive Play passage."
+    },
+    {
+      "id": "N-C-089",
+      "anchors": [
+        "U04283",
+        "U04284",
+        "U04285"
+      ],
+      "tibetan": "སོར་འཕྲེང་ལ་ཕན་པ་སོགས",
+      "category": "terminology gap",
+      "problem": "The reference is blank at U04285; the titles are abbreviated and unverified. The quantity modifies four-continent systems, not individual continents or buddhas.",
+      "treatment": "Retain one hundred koṭis and supply [world systems]; translate the title list provisionally.",
+      "uncertainty": "Exact titles and the referent of Benefit to Aṅgulimāla remain open.",
+      "review_action": "Identify the cited works and check the numerical unit."
+    },
+    {
+      "id": "N-C-090",
+      "anchors": [
+        "U04288",
+        "U04289",
+        "U04290"
+      ],
+      "tibetan": "འཇིག་རྟེན་ཁམས་རྒྱ་མཚོ་བཅུའི་གྲངས་ཀྱི་",
+      "category": "interpretive supply",
+      "problem": "The object ruled and awakening qualifier of ordinary mind are abbreviated.",
+      "treatment": "Supply [world systems] for the particle comparison and [of awakening] for the established local compound.",
+      "uncertainty": "The count’s precise nesting should be checked.",
+      "review_action": "Verify the cosmological comparison and compound scope."
+    },
+    {
+      "id": "N-C-091",
+      "anchors": [
+        "U04294",
+        "U04295"
+      ],
+      "tibetan": "བཟོ་དང༌། སྒྱེ་བ་རི་བོང་སོགས་སྟེ་བཞི",
+      "category": "source reading",
+      "problem": "སྒྱེ་བ reads sack rather than the likely birth; the fourfold enumeration and the separate cultivated emanation are compressed. The prostitute is the subduer, not someone subdued by Tenpé Lodrö.",
+      "treatment": "Use birth [emanations] as an explicitly provisional contextual reading, keep four, and preserve the agent relationship. U04293 remains a separate source annotation.",
+      "uncertainty": "The exact fourfold taxonomy and source spelling remain unresolved.",
+      "review_action": "Check the classification and narrative; do not flatten the source annotation into main prose."
+    },
+    {
+      "id": "N-C-092",
+      "anchors": [
+        "U04300"
+      ],
+      "tibetan": "རི་བོང་གི་རང་བཞིན་ནོ།",
+      "category": "source reading",
+      "problem": "The example says intrinsic nature of a rabbit; the intended impossibility may require a missing horn, but that word is absent.",
+      "treatment": "Retain the exact rabbit assertion in quotation marks and do not insert horns.",
+      "uncertainty": "The logical example is unresolved.",
+      "review_action": "Collate U04300 and preserve any correction as a separate editorial decision."
+    },
+    {
+      "id": "N-C-093",
+      "anchors": [
+        "U04305"
+      ],
+      "tibetan": "མཇའ་གཉིས",
+      "category": "source reading",
+      "problem": "The source has མཇའ where the repeated quotation elsewhere reads མཐའ.",
+      "treatment": "Translate extremes provisionally using the exact internal parallel at U04190, without source modification.",
+      "uncertainty": "A transcript error is likely but not authenticated to a witness.",
+      "review_action": "Check the unusual spelling in a physical or independent source."
+    },
+    {
+      "id": "N-C-094",
+      "anchors": [
+        "U04318"
+      ],
+      "tibetan": "སངས་རྒྱས་རང་ལས་རྒྱུད་པའི་རྒྱུ་ཅན",
+      "category": "interpretive supply",
+      "problem": "The subject of having causes is not repeated; རྒྱུད་པ functions verbally as deriving/transmitting here, not as the technical noun continuum.",
+      "treatment": "Supply [emanations] and render deriving locally.",
+      "uncertainty": "The grammatical relation is supported by the preceding argument; terminology use remains scoped.",
+      "review_action": "Review the supplied subject and verbal use."
+    },
+    {
+      "id": "N-C-095",
+      "anchors": [
+        "U04333"
+      ],
+      "tibetan": "དབྱེན་གྱི་གཞི་ལས།",
+      "category": "terminology gap",
+      "problem": "The reference is blank at U04333; this is a textual title containing གཞི rather than an occurrence of the ontological Ground.",
+      "treatment": "Translate Foundation of Schism provisionally as a whole title.",
+      "uncertainty": "The exact title identification is not independently checked.",
+      "review_action": "Verify the Vinaya textual source and approve the title."
+    },
+    {
+      "id": "N-C-096",
+      "anchors": [
+        "U04351"
+      ],
+      "tibetan": "སེམས་བསྐྱེད་པ་དེ་ལ་བརྟེན་པ",
+      "category": "interpretive supply",
+      "problem": "The awakening qualifier is implicit in the short compound.",
+      "treatment": "Supply [of awakening], following the explicit compound at U04343 and the prior terminology record N-C-079.",
+      "uncertainty": "The supply is contextually strong.",
+      "review_action": "Review the whole-expression terminology once for this section."
+    },
+    {
+      "id": "N-C-097",
+      "anchors": [
+        "U04354"
+      ],
+      "tibetan": "རྫ་མཁན་ཡང་པའི་འོད",
+      "category": "source reading",
+      "problem": "The potter’s name is irregular and not identifiable with confidence; the reference turns it into ordinary light.",
+      "treatment": "Retain Yangpé Ö provisionally as a name rather than replace it with a conjectured known figure.",
+      "uncertainty": "The antecedent of former case and the name remain open.",
+      "review_action": "Identify the potter narrative and check the source spelling."
+    },
+    {
+      "id": "N-C-098",
+      "anchors": [
+        "U04362",
+        "U04363"
+      ],
+      "tibetan": "དུས་དུས་གསུམ་དུས་མེད་དང་།\nརྟག་པ་རྒྱུན་འཁོར་དང་འདུལ་བའི་དུས་ཏེ་གསུམ་ལ་",
+      "category": "scope",
+      "problem": "The three temporal categories are compressed and contain repeated དུས; རྒྱུན་འཁོར is unusual.",
+      "treatment": "Keep the threefold respectively structure across place, retinue, teaching, and time; render the temporal categories provisionally.",
+      "uncertainty": "The first and second temporal expressions require verification.",
+      "review_action": "Review the four parallel triples and exact temporal readings."
+    },
+    {
+      "id": "N-C-099",
+      "anchors": [
+        "U04371",
+        "U04372"
+      ],
+      "tibetan": "ཡིད་ཀྱི་རང་བཞིན་ཕུང་པོ་དང༌།",
+      "category": "syntax/reference",
+      "problem": "The relation between mental faculty, intrinsic nature, and aggregates is compressed and potentially defective.",
+      "treatment": "Retain all three components in their apparent modifier chain; do not silently substitute a familiar version.",
+      "uncertainty": "Whether the mental-faculty phrase qualifies aggregates is unresolved.",
+      "review_action": "Collate the quoted Supreme Continuum verse."
+    },
+    {
+      "id": "N-C-100",
+      "anchors": [
+        "U04373"
+      ],
+      "tibetan": "མཚན་ཉིད་བཞི་ལྡན",
+      "category": "scope",
+      "problem": "The prose states four characteristics, while the preceding excerpt visibly discusses purity, self, and bliss only.",
+      "treatment": "Retain four and do not manufacture an omitted fourth verse.",
+      "uncertainty": "The quotation may be deliberately abbreviated.",
+      "review_action": "Check the quotation’s extent and the intended four-characteristic set."
+    },
+    {
+      "id": "N-C-101",
+      "anchors": [
+        "U04382"
+      ],
+      "tibetan": "ལྡོག་པ་ཙམ",
+      "category": "terminology gap",
+      "problem": "ལྡོག་པ is a scholastic distinction term here, not simple reversal.",
+      "treatment": "Use conceptual distinction provisionally.",
+      "uncertainty": "Its precise technical account is not supplied.",
+      "review_action": "Review the term in relation to the embodiment argument."
+    },
+    {
+      "id": "N-C-102",
+      "anchors": [
+        "U04388",
+        "U04391",
+        "U04392"
+      ],
+      "tibetan": "ད་ཐུགས་ལས་ཆུང་ངུར་བཞུགས་པ",
+      "category": "contextual use",
+      "problem": "The ཐུགས་ལས idiom may concern little concern or little activity, not a small mind. གཏན་ལ་ཕབ་པ may be a source title rather than a statement.",
+      "treatment": "Use little concern provisionally and bracket [elsewhere] for the unresolved citation transition; use elemental continua for ཁམས་རྒྱུད.",
+      "uncertainty": "Both the idiom and possible source title remain open.",
+      "review_action": "Review the idiom and identify whether གཏན་ལ་ཕབ་པ is a cited work."
+    },
+    {
+      "id": "N-C-103",
+      "anchors": [
+        "U04403",
+        "U04404",
+        "U04407"
+      ],
+      "tibetan": "སངས་རྒྱས་སྙིང་པོ",
+      "category": "terminology gap",
+      "problem": "Buddha-heart and lineage/element terminology lacks whole-expression entries; using essence for སྙིང་པོ would overlap the active ངོ་བོ entry.",
+      "treatment": "Use buddha heart provisionally for སངས་རྒྱས་སྙིང་པོ and lineage for རིགས; retain the source’s result-imputation relation.",
+      "uncertainty": "A final tathāgatagarbha/gotra terminology decision remains open.",
+      "review_action": "Review these compounds together with buddha element and elemental continuum usages."
+    },
+    {
+      "id": "N-C-104",
+      "anchors": [
+        "U04412",
+        "U04413"
+      ],
+      "tibetan": "མ་སྤངས་ན་ཐུགས་ཁྲེལ་བར་འགྱུར་བ",
+      "category": "syntax/reference",
+      "problem": "The subject of displeasure/pleasure is unstated; the reference assigns it to oneself, which conflicts with the honorific and the preceding buddhas.",
+      "treatment": "Read the buddhas as the implicit experiencers, preserving awakened heart in the first clause.",
+      "uncertainty": "The implicit subject is contextually strong but requires confirmation.",
+      "review_action": "Review the referent and causal relation to enlightened activity."
+    },
+    {
+      "id": "N-C-105",
+      "anchors": [
+        "U04416",
+        "U04417",
+        "U04418",
+        "U04419",
+        "U04420",
+        "U04421",
+        "U04422",
+        "U04423"
+      ],
+      "tibetan": "ཟབ་དགུ་ཚོགས་སུ་བཤད་ན་ཡང་།",
+      "category": "syntax/reference",
+      "problem": "The wealth metaphor, saying about experiential acquaintance, and four valid cognitions are joined in a compressed construction. ཟབ་དགུ may be idiomatic all profound things rather than the numeral nine.",
+      "treatment": "Preserve each component and provisionally read all manner of profound things; do not invent a missing transition.",
+      "uncertainty": "The exact object wasted and the force of the saying require review.",
+      "review_action": "Review the full opening comparison U04416–U04423 against a witness."
+    },
+    {
+      "id": "N-C-106",
+      "anchors": [
+        "U04429",
+        "U04430"
+      ],
+      "tibetan": "ཆོས་ཀྱི་རྒྱལ་པོ་འཇིག་རྟེན་གསུམ་གྱི་མགོན་པོ་ཡིས་འཁྲུངས་ཏེ་",
+      "category": "syntax/reference",
+      "problem": "The instrumental ending before was born is awkward; the source may intend the arising of the teacher or of his distinctive teachings.",
+      "treatment": "Provisionally take the Dharma king as born and as actualizing meanings; retain the later explicit Jikten Gönpo attribution.",
+      "uncertainty": "The attachment of the birth clause remains open.",
+      "review_action": "Check the case ending and full comparison."
+    },
+    {
+      "id": "N-C-107",
+      "anchors": [
+        "U04442",
+        "U04445"
+      ],
+      "tibetan": "རིགས་འཆོལ་བས་གཞན་གྱི་གྲུབ་མཐའ་དང་གང་ཟག་ལ་སྨོད་པར་མི་བྱེད་པ་",
+      "category": "syntax/reference",
+      "problem": "The instruction’s main preserving verb comes after the quotation; རིགས་འཆོལ is idiomatic, and the compound ཐུགས་དགོངས contains the protected enlightened-intent family.",
+      "treatment": "Supply [one should preserve] from U04449, render indiscriminately provisionally, and retain enlightened intent rather than reducing it to mind.",
+      "uncertainty": "The precise adverbial scope and title attachment need review.",
+      "review_action": "Confirm the long modifier chain and the supplied verb."
+    },
+    {
+      "id": "N-C-108",
+      "anchors": [
+        "U04458"
+      ],
+      "tibetan": "གཞི་བདེ་བར་གཤེགས་པ་དམ་པའི་སྙིང་པོ",
+      "category": "terminology gap",
+      "problem": "The Sugata-heart phrase is a compound not established in the glossary; it parallels the buddha-heart terminology at N-C-103.",
+      "treatment": "Use sublime Sugata heart provisionally, preserving the Ground and distinguishing སྙིང་པོ from the assigned essence for ངོ་བོ.",
+      "uncertainty": "The exact attachment of sublime could qualify Sugata or heart.",
+      "review_action": "Review the compound and modifier attachment."
+    },
+    {
+      "id": "N-C-109",
+      "anchors": [
+        "U04470"
+      ],
+      "tibetan": "སྙན་པ་དང་གྲགས་པའི་སྒྲ་ཆེན་འབྲུག་སྒྲ",
+      "category": "contextual use",
+      "problem": "སྒྲ denotes both renown’s report and literal thunder-sound; mechanical word in the latter compound would distort the image.",
+      "treatment": "Retain word for the renown report and use thunder as a scoped whole-expression rendering of འབྲུག་སྒྲ.",
+      "uncertainty": "The word/sound family needs a broader contextual glossary decision.",
+      "review_action": "Review this compound together with musical-instrument and mantra-sound uses in the range."
+    },
+    {
+      "id": "N-C-110",
+      "anchors": [
+        "U04471",
+        "U04473",
+        "U04474",
+        "U04477"
+      ],
+      "tibetan": "བརྗོད་བྱ་ཆོས་ཐུན་མཉམ་པ་ཉིད",
+      "category": "source reading",
+      "problem": "The phrase ཆོས་ཐུན is unusual; the long chain contrasts subject matter with expressive texts and their enlightened intent. Sherab Jungné’s authorial statement precedes the later compiler’s colophon.",
+      "treatment": "Read Dharma teachings provisionally and preserve the expressed/expressing relationship; classify this as the embedded author’s work colophon.",
+      "uncertainty": "The ཐུན reading and attachment need checking.",
+      "review_action": "Collate U04471 and retain the distinction between root author and compiler."
+    },
+    {
+      "id": "N-C-111",
+      "anchors": [
+        "U04478",
+        "U04479",
+        "U04483",
+        "U04487"
+      ],
+      "tibetan": "འཁོར་གསུམ་གང་དུ་གང་ཞིག་\nཇི་ལྟར་བསྔོ་བའི་ཆོས་མི་དམིགས",
+      "category": "interpretive supply",
+      "problem": "The three spheres and dedication grammar are compressed; the beneficiaries of the final aspiration are implicit.",
+      "treatment": "Render the source’s who/to what/how relations without imposing another threefold list; supply [beings] from the surrounding altruistic context.",
+      "uncertainty": "Exact three-sphere interpretation requires review.",
+      "review_action": "Confirm the dedication’s agents, objects, and beneficiaries."
+    },
+    {
+      "id": "N-C-112",
+      "anchors": [
+        "U04488",
+        "U04489",
+        "U04490",
+        "U04491",
+        "U04492",
+        "U04493"
+      ],
+      "tibetan": "སྔོན་བྱོན་སྐྱེས་ཆེན་དམ་པ་བཅུ་ཕྲག་རིགས་པའི་གནས་ལ་མཁས་པ",
+      "category": "syntax/reference",
+      "problem": "The colophon’s nested agents must be distinguished. Ten qualifies fields of knowledge, not former great beings. The names have irregular spellings.",
+      "treatment": "Assign versification to the throne-holder, notes to Paljor Rinpoche, and subsequent compilation to the named Togden in the next pair; render names provisionally.",
+      "uncertainty": "The exact name forms and scope of the continuous-sequence clause need witness verification.",
+      "review_action": "Check the colophon modifier chain and proper names without transferring the predecessors’ qualities to the compiler."
+    },
+    {
+      "id": "N-C-113",
+      "anchors": [
+        "U04494",
+        "U04495",
+        "U04496",
+        "U04497",
+        "U04498",
+        "U04499"
+      ],
+      "tibetan": "འབྱུང་བ་བཞི་ལྡན་\nས་མོ་བྱ་ལོའི་དུས་འཁོར་གྱི་གསོ་དཔྱད་རྒྱ་རྩིས་ཀྱི་སྟོན་ར།",
+      "category": "source reading",
+      "problem": "The calendrical systems and four-elements descriptor are compressed; གྲོ་ཞིན is an unverified month name. No sexagenary cycle is stated.",
+      "treatment": "Retain female earth-bird, four elements, both seasonal datings, Drozhing, waning phase, and day thirteen; give no Gregorian conversion.",
+      "uncertainty": "The calendar grouping, month spelling, place name, and absolute year remain unverified.",
+      "review_action": "Check the colophon witness and calendars before dating the composition absolutely."
+    }
+  ],
+  "terminology_usage_records": [
+    {
+      "source_units": [
+        "U03197",
+        "U03198",
+        "U03199",
+        "U03200"
+      ],
+      "pair_id": "TGD-003197",
+      "exact_tibetan": "རྡོལ་ཆོས་དཔེ་དཀར་བུ་བཞི་དང།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Vajra statement. Some regard as profound experiential acquaintance without a Dharma lineage, the spontaneously disclosed teachings called the Four White Booklets, the tree teachings of the eightfold restoration and purification, the sky teachings of the eighteen tantra divisions, and so forth. Yet even if their words and meanings are good, they yield no result without a lineage of lamas. Here, it is the holy Dharma connected through lineage after lineage that is held to be profound.[^N-C-001]",
+      "category": "Provisional",
+      "condition_evidence": "These historical teaching names and the source label lack active whole-expression entries; the reference is blank at U03198. Translate all named groups provisionally; render རྡོ༽༽ as Vajra statement throughout this range. Tantra is a textual-category use, distinct from the glossary continuum.",
+      "approval_or_note_id": "N-C-001",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03287",
+        "U03288",
+        "U03289"
+      ],
+      "pair_id": "TGD-003286",
+      "exact_tibetan": "རྒྱུན་གྱི་འཇུག་པའི་ཕྱིར།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "So it is said. Furthermore, conditioned things being momentary means that phenomena of causes and conditions are momentary bearers of qualities, because they proceed in a succession. For example, there cannot be a hundred beads without the individual beads.[^N-C-007]",
+      "category": "Provisional",
+      "condition_evidence": "རྒྱུན is distinct from the established རྒྱུད continuum; ཆོས་ཅན also has no active entry. Use succession for རྒྱུན and bearers of qualities for ཆོས་ཅན locally.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03323",
+        "U03324"
+      ],
+      "pair_id": "TGD-003323",
+      "exact_tibetan": "གཤིས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Vajra statement. Some say, “Although it does not abide in the actual condition, it changes through viewing it, because the actual condition is not established, it is delusory appearance, and its intrinsic nature is not fixed.”[^N-C-013]",
+      "category": "Provisional",
+      "condition_evidence": "གཤིས lacks an entry and should not silently be merged with རང་བཞིན intrinsic nature, which also occurs here. Use actual condition provisionally throughout this argument.",
+      "approval_or_note_id": "N-C-013",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03370"
+      ],
+      "pair_id": "TGD-003369",
+      "exact_tibetan": "སངས་རྒྱས་ཞལ་འདི་གང་གི་ཐུགས་དང་ཞལ་ལ་གནས་པར",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "The Kālacakra says, “The one in whose heart and mouth this utterance of the Buddha abides is the glorious lama.”[^N-C-015]",
+      "category": "Provisional",
+      "condition_evidence": "ཞལ occurs twice and ཐུགས has no standalone active entry. The reference’s face/mind construction is not intelligible. Provisionally render the first ཞལ as utterance and the pair ཐུགས་དང་ཞལ as heart and mouth.",
+      "approval_or_note_id": "N-C-015",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03407"
+      ],
+      "pair_id": "TGD-003405",
+      "exact_tibetan": "བློ་དང་ལྡན་པའི་མིས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Faith is the supreme vehicle\nWhose guidance leads to definite emergence.\nTherefore a person with conceptual intelligence\nShould rely on following faith.[^N-C-018]",
+      "category": "Provisional",
+      "condition_evidence": "Literal endowed with conceptual mind could misleadingly suggest that the contrast concerns possessing a mind rather than good judgment. Use conceptual intelligence locally, retaining the conceptual component; the canonical entry remains conceptual mind.",
+      "approval_or_note_id": "N-C-018",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03417"
+      ],
+      "pair_id": "TGD-003417",
+      "exact_tibetan": "ཆོས་སྐུར་འདུ་ཤེས་པས་མོས་གུས་སྐྱེས་ན",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Thus, if confident devotion arises through perceiving [the lama] as the Dharma embodiment, it is as Tilopa said:[^N-C-019]",
+      "category": "Provisional",
+      "condition_evidence": "The object perceived as Dharma embodiment is not stated in this clause. Supply [the lama] from the surrounding faith/devotion discussion and Tilopa–Nāropa example.",
+      "approval_or_note_id": "N-C-019",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03420"
+      ],
+      "pair_id": "TGD-003419",
+      "exact_tibetan": "བཅུ་གཉིས་བར་དུ",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Nāropa, who attained the retention of never forgetting,\nPleased me for twelve [years].\nHe possesses my realization.[^N-C-020]",
+      "category": "Provisional",
+      "condition_evidence": "The unit of twelve is unstated. Supply [years], following the apparent duration of service.",
+      "approval_or_note_id": "N-C-020",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03433"
+      ],
+      "pair_id": "TGD-003433",
+      "exact_tibetan": "གང་གི་ཐུགས་བརྩེས་ཉེར་བཟུང་ན།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "To Gautama, who, taking [beings] into his loving care,\nTaught the holy Dharma\nFor the abandonment of all views,\nI pay homage.[^N-C-022]",
+      "category": "Provisional",
+      "condition_evidence": "The recipient of the loving care is implicit, and the opening clause has an unusual final ན. Supply [beings] and read the clause as qualifying Gautama.",
+      "approval_or_note_id": "N-C-022",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03470"
+      ],
+      "pair_id": "TGD-003467",
+      "exact_tibetan": "ཚིག་གི་འཛིན་པ་བོར་ལ་ཐོད།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "All thinking is conceptual mind;\nLeave the workings of conceptual mind aside.\n“Leave aside” is itself a phrase,\nSo let go of grasping at the phrase.[^N-C-024]",
+      "category": "Provisional",
+      "condition_evidence": "འཛིན་པ here functions verbally as grasping at words, not as the noun apprehending subject; final ཐོད is unclear. Render the action as grasping provisionally and flag the unclear final word rather than supplying a separate action.",
+      "approval_or_note_id": "N-C-024",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03479"
+      ],
+      "pair_id": "TGD-003479",
+      "exact_tibetan": "དཀར་པོ་ཆིག་ཐུབ",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Therefore it is called the “single white remedy.” Those who argue that it would consequently become three are crude in conceptual understanding.[^N-C-114] On their reasoning, one would never find anything ultimately called nondual. Therefore it is supreme realization.[^N-C-025]",
+      "category": "Provisional",
+      "condition_evidence": "This technical epithet is absent from the glossary. Use single white remedy provisionally, retaining the singularity central to the objection.",
+      "approval_or_note_id": "N-C-025",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03480"
+      ],
+      "pair_id": "TGD-003479",
+      "exact_tibetan": "བློ་གྲོས་རྩིང",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Therefore it is called the “single white remedy.” Those who argue that it would consequently become three are crude in conceptual understanding.[^N-C-114] On their reasoning, one would never find anything ultimately called nondual. Therefore it is supreme realization.[^N-C-025]",
+      "category": "Provisional",
+      "condition_evidence": "The compound བློ་གྲོས denotes understanding here and lacks an active whole-expression row; standalone བློ is conceptual mind. Use conceptual understanding provisionally, retaining the conceptual component rather than silently treating the compound as generic wisdom.",
+      "approval_or_note_id": "N-C-114",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03486",
+        "U03487",
+        "U03488"
+      ],
+      "pair_id": "TGD-003484",
+      "exact_tibetan": "རིག་པས་གཞལ་བློས་བརྟགས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Vajra statement. Some maintain that the natural state is realized through hearing, reflection, and cultivation. Here, the emptiness of hearing, reflection, and cultivation is a place of slipping and straying: what is measured by awareness, examined by the conceptual mind, and settled through words is a meaning generalization of emptiness made into an object of conceptual mind, rather than the genuine thing. It is therefore said to be a place of slipping and straying from genuine, ultimate, inseparable view and realization. Lord Maitreya says:[^N-C-026]",
+      "category": "Provisional",
+      "condition_evidence": "རིག་པ can denote reasoning in this analytical context, while the active assignment is awareness. མཚན་ཉིད here contrasts a meaning generalization with the genuine realization. Retain awareness and explicitly flag the possible logical sense; translate མཚན་ཉིད as genuine locally.",
+      "approval_or_note_id": "N-C-026",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03504",
+        "U03505",
+        "U03506",
+        "U03507",
+        "U03508"
+      ],
+      "pair_id": "TGD-003504",
+      "exact_tibetan": "ཆོས་ཉིད་གཏན་ལ་ཕབ་ནས་ཡུལ་དུ་བྱེད་པ་ལྟ་བ་",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Vajra statement. [Some call] settling the nature of phenomena and taking it as an object “view,” and accomplishing calm abiding on that basis “cultivation.” Alternatively, they call the arising of experiences of bliss, clarity, and non-conceptuality through cultivating according to instructions “cultivation,” and the meaning generalization arising from that “view.”[^N-C-027]",
+      "category": "Provisional",
+      "condition_evidence": "The subject of the definitions is unstated; the following འདིར contrasts the author’s position. Supply [Some call] to mark the preceding definitions as the position being contrasted.",
+      "approval_or_note_id": "N-C-027",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03547"
+      ],
+      "pair_id": "TGD-003545",
+      "exact_tibetan": "དཀྱིལ་འཁོར་གྱི་ལྷར་མཆོད་པས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "And in the perfections, one is told to eat for the worms in the body. In mantra too, offering [food] to the maṇḍala’s deities is taught as freedom from attachment and aversion.[^N-C-032]",
+      "category": "Provisional",
+      "condition_evidence": "The object offered is implicit. Supply [food] from the immediately preceding example.",
+      "approval_or_note_id": "N-C-032",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03583",
+        "U03585"
+      ],
+      "pair_id": "TGD-003580",
+      "exact_tibetan": "གཞི་ཚུལ་ཁྲིམས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "For, if ordinary mind itself is realized, attachment and hatred are absent; ethical discipline also abandons them, and that too depends on the Ground, the nature of phenomena. Clear realization of Mahamudra must depend on the ground of ethical discipline. They share the function of abandoning the three poisons and accomplishing temporary and ultimate qualities, and they are one with emptiness, the actual condition as it is.[^N-C-034]",
+      "category": "Provisional",
+      "condition_evidence": "གཞི appears both as the technical Ground and as the supporting ground of ethical discipline. The glossary has intentional internal capitalization not otherwise explained. Keep the Ground for the technical ground/path/result usage, lower-case ground where ordinary support is meant; preserve the lexical term.",
+      "approval_or_note_id": "N-C-034",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03598"
+      ],
+      "pair_id": "TGD-003598",
+      "exact_tibetan": "གསུང་སྐྱེས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "For ordinary people, those born from the [Buddha’s] speech,\nThose whose character is fixed on solitary awakening,\nAnd the children of the victorious ones, there is no cause\nOf definite goodness and higher rebirth other than ethical discipline.[^N-C-035]",
+      "category": "Provisional",
+      "condition_evidence": "The possessor of speech is not explicit in this compound. Supply [Buddha’s] for the conventional epithet of hearers.",
+      "approval_or_note_id": "N-C-035",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03717"
+      ],
+      "pair_id": "TGD-003717",
+      "exact_tibetan": "བྲལ་བའི་འབྲས་བུ",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Addendum. Some say that the qualities of results of separation do not require causes. Here, all results of separation have causes, because a result without a cause is impossible in the actual condition. Thus, in the Sūtra of the Questions of the Girl Ratna:[^N-C-043]",
+      "category": "Provisional",
+      "condition_evidence": "This technical result category is absent from the active glossary, as is the source label ལྷན༽༽. Use result of separation provisionally; visibly render the label Addendum throughout this range.",
+      "approval_or_note_id": "N-C-043",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03774",
+        "U03779"
+      ],
+      "pair_id": "TGD-003773",
+      "exact_tibetan": "ནམ་མཁའ་གཉིས་འདྲེས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Addendum. Some hold that realizing the ultimate basic space of phenomena, where what is cultivated and the cultivator are nondual, and becoming like two spaces mixed together, is ultimate. Here, it is not ultimate: the mere emptiness in which both object and subject are empty, without causal dependent arising becoming manifest, is like two spaces mixed together and is the clear realization of a hearer.[^N-C-047]",
+      "category": "Provisional",
+      "condition_evidence": "The standalone mixing family is not fully entered in the glossary, though existing compounds establish mix/mixed/mixing vocabulary. Use mixed provisionally for this explicit two-spaces analogy and keep the term linked at later doctrinal uses.",
+      "approval_or_note_id": "N-C-047",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03825",
+        "U03830"
+      ],
+      "pair_id": "TGD-003824",
+      "exact_tibetan": "ཐུབ་ཀྱང་དྲག་ཏུ་མནན་པར་བྱ།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Then bring the wind into the belly\nAnd, while able, press it down strongly.\nWhen unable, inhale a little.\nIf that too is insufficient, through both nostrils\nRelease outward for the measure of a finger snap\nAnd hold the remainder.\nThis is the wind practice of pressing.[^N-C-051]",
+      "category": "Provisional",
+      "condition_evidence": "The concessive ཀྱང makes the first instruction awkward; the technical name གཞིལ་བ lacks an active entry. Read while able provisionally from the following unable contrast; render the named stage as pressing.",
+      "approval_or_note_id": "N-C-051",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03833",
+        "U03837"
+      ],
+      "pair_id": "TGD-003831",
+      "exact_tibetan": "སྔོ་ནི་ཕྱུར་ཕྱུར་འགྲོ་བར་བསམས།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "When unable to hold it and the time comes to release,\nActually release just one portion slowly\nUpward through both nostrils.\nAs the object of focus, imagine it rising inside the central channel,\nLike an arrow shot by a powerful archer,\nThrough Brahmā’s gate into space,\nBlue and billowing as it goes.\nThis is the wind practice of shooting like an arrow.[^N-C-052]",
+      "category": "Provisional",
+      "condition_evidence": "The expressive phrase ཕྱུར་ཕྱུར and the quantity ཆ་གཅིག are not precisely specified. Retain one portion without inventing a fraction; use blue and billowing provisionally.",
+      "approval_or_note_id": "N-C-052",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03862",
+        "U03863"
+      ],
+      "pair_id": "TGD-003861",
+      "exact_tibetan": "ཕྱག་རྒྱ་མ་ཁྲིད་ནས་",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Vajra statement. Some say that to enhance realization one must undertake various suitable activities of disciplined observance: discard the signs of ordination, wear a yogin’s dress, take a female mudrā consort along, and wander in charnel grounds, marketplaces, and so forth, singing and dancing.[^N-C-055]",
+      "category": "Provisional",
+      "condition_evidence": "ཕྱག་རྒྱ་མ is the female-consort noun, not a negated verb meaning without instructing a mudrā. བརྟུལ་ཞུགས lacks an active entry. Use female mudrā consort and disciplined observance provisionally, retaining the reported rather than endorsed instruction.",
+      "approval_or_note_id": "N-C-055",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03920"
+      ],
+      "pair_id": "TGD-003918",
+      "exact_tibetan": "རྟོགས་བྱེད་ཀྱི་བློ་འདྲེས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "On this basis some say that the Dharma embodiment alone is ultimate. Others say that since the basic space to be realized and the realizing conceptual mind are mixed, the Dharma embodiment too has a small conventional component. Such positions are found.[^N-C-059]",
+      "category": "Provisional",
+      "condition_evidence": "The standalone mixing construction remains proposed, as recorded at N-C-047. Use mixed locally for the explicit basic-space/conceptual-mind relation.",
+      "approval_or_note_id": "N-C-059",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03936"
+      ],
+      "pair_id": "TGD-003934",
+      "exact_tibetan": "གང་དུ་ཡང་དག་འདྲེས་གྱུར་པ",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Truly free from the two conceptual thoughts\nOf conventional and ultimate,\nWhere they have authentically mixed,\nThat is explained as union.[^N-C-060]",
+      "category": "Provisional",
+      "condition_evidence": "The mixing use has no standalone approved entry; its subject is implicit. Use mixed provisionally, relating it to conventional and ultimate in the preceding lines.",
+      "approval_or_note_id": "N-C-060",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03944"
+      ],
+      "pair_id": "TGD-003940",
+      "exact_tibetan": "ཐ་དད་དོན་མིན་དོན་གཅིག་མིན།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "That which arises dependently\nHas no cessation and no arising,\nNo annihilation and no permanence,\nNo coming and no going,\nNeither distinct entities nor a single entity.[^N-C-061]",
+      "category": "Provisional",
+      "condition_evidence": "དོན in this philosophical contrast can mean entities or objects, but the canonical assignment is meaning. Use entities provisionally in this ontological different/single contrast; leave the canonical meaning assignment unchanged.",
+      "approval_or_note_id": "N-C-061",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03950",
+        "U03951"
+      ],
+      "pair_id": "TGD-003950",
+      "exact_tibetan": "བརྟེན་པ་ཡེ་ཤེས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Vajra statement. Concerning supported primordial knowing, some Prāsaṅgikas, such as Candrakīrti, say that as long as there are things to abandon, up through abandoning the subtle objects of abandonment by vajra-like deep absorption at the end of the succession, antidotal primordial knowing also exists—just as flames exist while there is wood. Accordingly:[^N-C-062]",
+      "category": "Provisional",
+      "condition_evidence": "Supported primordial knowing introduces an abode/support distinction continued later; རྒྱུན is not the glossary continuum. Retain supported and use succession for རྒྱུན, as in N-C-007.",
+      "approval_or_note_id": "N-C-062",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03962"
+      ],
+      "pair_id": "TGD-003959",
+      "exact_tibetan": "གཞན་དབང",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "And the Heart of Discerning Knowing says, “There is no primordial knowing.” Statements that it exists, they say, are made in dependence on others.[^N-C-064]",
+      "category": "Provisional",
+      "condition_evidence": "The expression can denote dependence on others here, rather than the technical other-powered nature proposed by the rough reference. Use made in dependence on others provisionally, with statements as subject.",
+      "approval_or_note_id": "N-C-064",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03983",
+        "U03984"
+      ],
+      "pair_id": "TGD-003983",
+      "exact_tibetan": "བློ་ལས་འདས་པ་ཡིན་ནོ།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "As the Adornment of the Appearance of Primordial Knowing says this, [buddhahood] is beyond the conceptual mind. Why, then, is it taught as illusion-like? That is taught from the perspective of beings who have not realized transcendence of illusion and wander in the three realms as though in an illusion or dream.[^N-C-066]",
+      "category": "Provisional",
+      "condition_evidence": "The subject of beyond the conceptual mind is not repeated. Supply [buddhahood] from the preceding thesis.",
+      "approval_or_note_id": "N-C-066",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03989",
+        "U03990",
+        "U03991",
+        "U03992",
+        "U03993",
+        "U03994",
+        "U03995"
+      ],
+      "pair_id": "TGD-003989",
+      "exact_tibetan": "ཐུགས་ཚད་མ་ཡིན་ལ་",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Vajra statement. Seven types of conceptual mind are taught: the two valid cognitions, direct perception and inference, and the five nonvalid types—doubt, presumption, mistaken knowing, subsequent knowing, and appearance without ascertainment. Some therefore say that only at the first moment of attaining primordial knowing of all aspects at dawn is the awakened heart a valid cognition; from the second moment onward it is subsequent knowing, with superimposition already cut off, and so is no longer a valid cognition.[^N-C-067]",
+      "category": "Provisional",
+      "condition_evidence": "The scholastic sevenfold cognition taxonomy and standalone ཐུགས lack active entries. སྐད་ཅིག་དང་པོ་ཕན་ཆད is awkward beside the explicit second-moment contrast. Use the listed cognition labels provisionally; use awakened heart for honorific ཐུགས throughout this section, distinct from ordinary mind and enlightened intent. Read the first/second contrast as stated.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04001"
+      ],
+      "pair_id": "TGD-003996",
+      "exact_tibetan": "ཚད་མ་མི་བསླུ་བའོ།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Here, at all times of buddhahood there is valid cognition, because the Tathāgata is unequalled in the world and undeceiving. Thus the Tantra of the Empowerment of Vajrapāṇi says, “The Tathāgata is the undeceiving authority for the world together with its gods.”[^N-C-068]",
+      "category": "Provisional",
+      "condition_evidence": "ཚད་མ predicates authority of a person here, whereas the prior passage classifies cognitions. Use authority locally and keep the valid-cognition relationship in the surrounding argument.",
+      "approval_or_note_id": "N-C-068",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04045",
+        "U04046",
+        "U04047",
+        "U04048",
+        "U04049"
+      ],
+      "pair_id": "TGD-004043",
+      "exact_tibetan": "སྟོང་ཉིད་དབུ་མ་ཐལ་འགྱུར་བའི་རྒྱ་ཆད།\nཉན་ཐོས་པའི་བཅོམ་ཆད།\nམུ་སྟེགས་ཆད་ལྟ་བའི་ཤི་ཆད།\nབློས་བྱས་ཀྱི་སྟོང་པ་ཕྱལ་ཆད།\nརྫོགས་ཆེན་པའི་གདོད་ནས་ཡེ་ཆད།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "So it is said. Thus there is freedom from five kinds of annihilation: the sweeping annihilation of Prāsaṅgika Madhyamaka emptiness; the annihilation through destruction of the hearers; the annihilation at death of non-Buddhist annihilationists; the blank annihilation of emptiness constructed by the conceptual mind; and the primordial annihilation, from the very beginning, of Dzogchen proponents. These five do not transcend phenomena measured by conceptual mind, as can be understood from “The ultimate is not the sphere of conceptual mind” and so forth.[^N-C-069]",
+      "category": "Provisional",
+      "condition_evidence": "These five polemical technical compounds lack established whole-expression entries. Preserve the repeated annihilation element and differentiate sweeping, through destruction, at death, blank, and primordial provisionally.",
+      "approval_or_note_id": "N-C-069",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04075",
+        "U04076"
+      ],
+      "pair_id": "TGD-004070",
+      "exact_tibetan": "ནམ་མཁའ་ལྡིང་གི་མཆོད་སྡོང",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Why? They say this is also the meaning of the analogy of gods without perception in the chapter on the secret of the awakened heart in the Sūtra of Inconceivable Secrets. Though there is no differentiating conceptualization, through previously gathered accumulations there is no contradiction in appearances arising to the conceptual minds of disciples, like the garuḍa shrine, a jewel, a wish-fulfilling tree, and the sun.[^N-C-072]",
+      "category": "Provisional",
+      "condition_evidence": "The garuḍa shrine analogy is not identified; དཔག་བསམ is an abbreviated name and may join the preceding jewel. Keep garuḍa shrine and provisionally distinguish jewel, wish-fulfilling tree, and sun.",
+      "approval_or_note_id": "N-C-072",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04108",
+        "U04111"
+      ],
+      "pair_id": "TGD-004107",
+      "exact_tibetan": "རང་བཞིན་གྱིས་སེམས་ཅན་རྣམས་ལ་ཡོད་པས་",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Vajra statement. Some say, “Although Dharma embodiment emptiness is not realized, it is present in beings in virtue of intrinsic nature. Like the first day’s moon waxing to fullness, it increases through the ten grounds to the end of the succession. Then, transcending all the dual phenomena of causes and conditions, at awakening there are neither faults nor qualities.”[^N-C-076]",
+      "category": "Provisional",
+      "condition_evidence": "The adverbial intrinsic-nature construction requires local treatment; the standard does not approve a blanket by its intrinsic nature formula. Use in virtue of intrinsic nature provisionally, retaining the complete canonical term once. Read causes/conditions as the two categories of the following dual-phenomena phrase.",
+      "approval_or_note_id": "N-C-076",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04133",
+        "U04135"
+      ],
+      "pair_id": "TGD-004131",
+      "exact_tibetan": "བྱང་ཆུབ་ཀྱི་སེམས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Taking that as the subject: even at buddhahood, the ultimate result of knowing every aspect, the resolve for awakening is present. For the wheel of the inexhaustible adornments of embodiment, speech, and awakened heart, in which the ordinary mind of awakening has reached completion, is uninterrupted—like the uninterrupted rays of the sun’s disk. Accordingly, the Commentary on the Ordinary Mind of Awakening says:[^N-C-079]",
+      "category": "Provisional",
+      "condition_evidence": "The whole expression bodhicitta is absent from the active glossary; its སེམས component must remain recognizable. Use ordinary mind of awakening provisionally and preserve the distinction from honorific resolve for awakening.",
+      "approval_or_note_id": "N-C-079",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04259"
+      ],
+      "pair_id": "TGD-004258",
+      "exact_tibetan": "རྡུལ་དང༌། མུན་པ། སྙིང་སྟོབས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Accordingly, the Tantra of Authentic Union says, “Dust, darkness, and strength of heart also act for beings’ benefit.”[^N-C-087]",
+      "category": "Provisional",
+      "condition_evidence": "The three may be guṇa terminology (rajas, tamas, sattva), but the source supplies Tibetan labels and no explanation. Retain literal dust, darkness, and strength of heart provisionally rather than silently asserting the Sanskrit identification.",
+      "approval_or_note_id": "N-C-087",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04283",
+        "U04284",
+        "U04285"
+      ],
+      "pair_id": "TGD-004281",
+      "exact_tibetan": "སོར་འཕྲེང་ལ་ཕན་པ་སོགས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "The Avataṃsaka teaches awakening in one hundred koṭis of four-continent [world systems] within this very three-thousandfold world system. It is also taught at limitless length in the Heroic Progress, the Source of Jewels, the Benefit to Aṅgulimāla, and so forth.[^N-C-089]",
+      "category": "Provisional",
+      "condition_evidence": "The reference is blank at U04285; the titles are abbreviated and unverified. The quantity modifies four-continent systems, not individual continents or buddhas. Retain one hundred koṭis and supply [world systems]; translate the title list provisionally.",
+      "approval_or_note_id": "N-C-089",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04288",
+        "U04289",
+        "U04290"
+      ],
+      "pair_id": "TGD-004286",
+      "exact_tibetan": "འཇིག་རྟེན་ཁམས་རྒྱ་མཚོ་བཅུའི་གྲངས་ཀྱི་",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "If this were not established, the result of limitless accumulations would be less than a universal monarch, for the Avataṃsaka speaks of a universal monarch ruling [world systems] as numerous as the particles in ten oceans of world systems. Therefore the essential point of generating the ordinary mind [of awakening] is later awakening everywhere.[^N-C-090]",
+      "category": "Provisional",
+      "condition_evidence": "The object ruled and awakening qualifier of ordinary mind are abbreviated. Supply [world systems] for the particle comparison and [of awakening] for the established local compound.",
+      "approval_or_note_id": "N-C-090",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04318"
+      ],
+      "pair_id": "TGD-004316",
+      "exact_tibetan": "སངས་རྒྱས་རང་ལས་རྒྱུད་པའི་རྒྱུ་ཅན",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "As this says, according to your position it would follow that everything is causeless. Therefore [emanations] have causes deriving from the Buddha himself.[^N-C-094]",
+      "category": "Provisional",
+      "condition_evidence": "The subject of having causes is not repeated; རྒྱུད་པ functions verbally as deriving/transmitting here, not as the technical noun continuum. Supply [emanations] and render deriving locally.",
+      "approval_or_note_id": "N-C-094",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04333"
+      ],
+      "pair_id": "TGD-004330",
+      "exact_tibetan": "དབྱེན་གྱི་གཞི་ལས།",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "The Eight Thousand teaches this through the example of a vīṇā. And the Foundation of Schism says:[^N-C-095]",
+      "category": "Provisional",
+      "condition_evidence": "The reference is blank at U04333; this is a textual title containing གཞི rather than an occurrence of the ontological Ground. Translate Foundation of Schism provisionally as a whole title.",
+      "approval_or_note_id": "N-C-095",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04351"
+      ],
+      "pair_id": "TGD-004346",
+      "exact_tibetan": "སེམས་བསྐྱེད་པ་དེ་ལ་བརྟེན་པ",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "The result of this aspiration, which includes within conceptual mind all beings equal to the limits of space, is immeasurable. Because desire and aspiration are generated toward the buddhas of the limitless ten directions, complete enjoyment embodiment arises from aspiration. Depending on that generation of ordinary mind [of awakening], each distinct root of virtue gives rise to an individual emanation embodiment. Awakening throughout the basic space of phenomena and holding embodiments to be dependent arising rest on the essential point that emanations have causes.[^N-C-096]",
+      "category": "Provisional",
+      "condition_evidence": "The awakening qualifier is implicit in the short compound. Supply [of awakening], following the explicit compound at U04343 and the prior terminology record N-C-079.",
+      "approval_or_note_id": "N-C-096",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04382"
+      ],
+      "pair_id": "TGD-004381",
+      "exact_tibetan": "ལྡོག་པ་ཙམ",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "So it is said. Therefore they differ only by conceptual distinction.[^N-C-101]",
+      "category": "Provisional",
+      "condition_evidence": "ལྡོག་པ is a scholastic distinction term here, not simple reversal. Use conceptual distinction provisionally.",
+      "approval_or_note_id": "N-C-101",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04388",
+        "U04391",
+        "U04392"
+      ],
+      "pair_id": "TGD-004388",
+      "exact_tibetan": "ད་ཐུགས་ལས་ཆུང་ངུར་བཞུགས་པ",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Here, all buddhas of the three times abide in the elemental continua of beings. From the first generation of the resolve for awakening until the holy Dharma abides, they have accomplished the benefit of limitless beings; it is impossible for them now to abide with little concern. This is also established [elsewhere]. The Moon Lamp says:[^N-C-102]",
+      "category": "Provisional",
+      "condition_evidence": "The ཐུགས་ལས idiom may concern little concern or little activity, not a small mind. གཏན་ལ་ཕབ་པ may be a source title rather than a statement. Use little concern provisionally and bracket [elsewhere] for the unresolved citation transition; use elemental continua for ཁམས་རྒྱུད.",
+      "approval_or_note_id": "N-C-102",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04403",
+        "U04404",
+        "U04407"
+      ],
+      "pair_id": "TGD-004405",
+      "exact_tibetan": "སངས་རྒྱས་སྙིང་པོ",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Because buddha primordial knowing enters the multitude of beings,\nBecause its stainless intrinsic nature is nondual,\nAnd because the result is imputed to the buddha lineage,\nAll wandering beings are said to possess the buddha heart.[^N-C-103]",
+      "category": "Provisional",
+      "condition_evidence": "Buddha-heart and lineage/element terminology lacks whole-expression entries; using essence for སྙིང་པོ would overlap the active ངོ་བོ entry. Use buddha heart provisionally for སངས་རྒྱས་སྙིང་པོ and lineage for རིགས; retain the source’s result-imputation relation.",
+      "approval_or_note_id": "N-C-103",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04458"
+      ],
+      "pair_id": "TGD-004457",
+      "exact_tibetan": "གཞི་བདེ་བར་གཤེགས་པ་དམ་པའི་སྙིང་པོ",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "What makes them superior? They are not bewildered about the uncommon Ground, the sublime Sugata heart, or the limitless stages of the path of methods that actualize it—all the Sage’s teachings. Alternatively, they are not bewildered about emptiness, Mahamudra beyond all dual phenomena, and all the dependent arising of saṃsāra and nirvāṇa in which it occurs as cause and result. Therefore, like a snow lion, they have not a hair’s breadth of fear or anxiety before the packs of jackals that are hostile outside disputants.[^N-C-108]",
+      "category": "Provisional",
+      "condition_evidence": "The Sugata-heart phrase is a compound not established in the glossary; it parallels the buddha-heart terminology at N-C-103. Use sublime Sugata heart provisionally, preserving the Ground and distinguishing སྙིང་པོ from the assigned essence for ངོ་བོ.",
+      "approval_or_note_id": "N-C-108",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04470"
+      ],
+      "pair_id": "TGD-004466",
+      "exact_tibetan": "སྙན་པ་དང་གྲགས་པའི་སྒྲ་ཆེན་འབྲུག་སྒྲ",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "To their following retinues and individual disciples of varied lineages, they excellently teach distinct Dharma particulars without confusion, in accord with lineage and faculties. They distinguish the successive particulars of inclination toward the paths of inferior hearers and solitary victors or supreme awakening, and through teaching establish beings in the three awakenings. The great word of their fame and renown resounds like thunder in the ten directions.[^N-C-109]",
+      "category": "Provisional",
+      "condition_evidence": "སྒྲ denotes both renown’s report and literal thunder-sound; mechanical word in the latter compound would distort the image. Retain word for the renown report and use thunder as a scoped whole-expression rendering of འབྲུག་སྒྲ.",
+      "approval_or_note_id": "N-C-109",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04478",
+        "U04479",
+        "U04483",
+        "U04487"
+      ],
+      "pair_id": "TGD-004478",
+      "exact_tibetan": "འཁོར་གསུམ་གང་དུ་གང་ཞིག་\nཇི་ལྟར་བསྔོ་བའི་ཆོས་མི་དམིགས",
+      "canonical_entry": "See active glossary; no new assignment activated",
+      "english_realization": "Through this virtue, white as a snow mountain and completely pure in the nonfinding of any phenomenon of dedication—who dedicates, to what, and in what way, within the three spheres—may the precious teaching of the victorious ones spread without limit throughout the ten directions to the furthest future. Through its power, may [beings] become completely free from unknowing bewilderment, the root of worldly saṃsāra, and from adventitious stains; may they swiftly attain consummate buddhahood, the very character of the three embodiments and five primordial knowings.[^N-C-111]",
+      "category": "Provisional",
+      "condition_evidence": "The three spheres and dedication grammar are compressed; the beneficiaries of the final aspiration are implicit. Render the source’s who/to what/how relations without imposing another threefold list; supply [beings] from the surrounding altruistic context.",
+      "approval_or_note_id": "N-C-111",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03370"
+      ],
+      "pair_id": "TGD-003369",
+      "exact_tibetan": "སངས་རྒྱས་ཞལ་འདི་གང་གི་ཐུགས་དང་ཞལ་ལ་གནས་པར་གྱུར་པ་དེ་ནི་དཔལ་ལྡན་བླ་མའོ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03433"
+      ],
+      "pair_id": "TGD-003433",
+      "exact_tibetan": "གང་གི་ཐུགས་བརྩེས་ཉེར་བཟུང་ན།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03854"
+      ],
+      "pair_id": "TGD-003853",
+      "exact_tibetan": "བླ་མའམ་ཡི་དམ་གྱི་ཐུགས་ཀར་འཕོ་བ་ཡིན་ཟེར་ཡང་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03979"
+      ],
+      "pair_id": "TGD-003979",
+      "exact_tibetan": "དེ་ལྟར་ཡང་ཆོས་ཀུན་སྒྱུ་མར་ཐུགས་སུ་ཆུད།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03993"
+      ],
+      "pair_id": "TGD-003989",
+      "exact_tibetan": "ཐུགས་ཚད་མ་ཡིན་ལ་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04072"
+      ],
+      "pair_id": "TGD-004070",
+      "exact_tibetan": "ཐུགས་ཀྱི་གསང་བའི་སྐབས་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04079",
+        "U04081"
+      ],
+      "pair_id": "TGD-004078",
+      "exact_tibetan": "སྤྲོས་བྲལ་ཇི་ལྟ་མཁྱེན་པའི་ཡེ་ཤེས་དང་རྟེན་འབྲེལ་ཇི་སྙེད་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱི་ཐུགས་ཅན་\nསྐུ་གསུང་ཐུགས་ཀྱི་ཕྲིན་ལས་ཐམས་ཅད་ཀྱི་སྔོན་དུ་འགྲོ་ཞིང་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04093",
+        "U04094"
+      ],
+      "pair_id": "TGD-004092",
+      "exact_tibetan": "སངས་རྒྱས་ཐུགས་ཀྱི་འཇུག་པ་ཆད་པར་འདོད་པ་དེ་ཆོས་ཅན།\nམཁྱེན་གཉིས་དང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་རྒྱུན་ཆད་དུ་ཐལ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04104"
+      ],
+      "pair_id": "TGD-004101",
+      "exact_tibetan": "སྒྲིབ་པ་ཐམས་ཅད་བྲལ་བའི་ཡེ་ཤེས་ཀྱི་ཐུགས་མེད་ཅེས་གསུངས་པ་མིན་པའི་ཕྱིར་རོ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04120"
+      ],
+      "pair_id": "TGD-004119",
+      "exact_tibetan": "དེ་ལྟར་ན་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04128",
+        "U04130"
+      ],
+      "pair_id": "TGD-004127",
+      "exact_tibetan": "རྒྱུ་བྱང་ཆུབ་ཏུ་ཐུགས་བསྐྱེད་དེ་\nརྒྱུ་ལ་མི་འཇུག་པས་ཐུགས་བསྐྱེད་ཡོད་ཟེར།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04132",
+        "U04133"
+      ],
+      "pair_id": "TGD-004131",
+      "exact_tibetan": "འབྲས་བུ་མཐར་ཐུག་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་སངས་རྒྱས་ཀྱི་ས་ནའང་ཐུགས་བསྐྱེད་ཡོད་དེ།\nབྱང་ཆུབ་ཀྱི་སེམས་མཐར་ཕྱིན་པའི་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་རྒྱུན་མི་ཆད་པའི་ཕྱིར།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04139"
+      ],
+      "pair_id": "TGD-004138",
+      "exact_tibetan": "གཞན་དོན་དུ་ཐུགས་བསྐྱེད་པ་འཁོར་བ་མ་སྟོང་གི་བར་དུ་འབྱུང་ཞིང་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04147"
+      ],
+      "pair_id": "TGD-004142",
+      "exact_tibetan": "བྱང་ཆུབ་མཆོག་ཏུ་ཐུགས་ཀྱང་འཇུག །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04156"
+      ],
+      "pair_id": "TGD-004154",
+      "exact_tibetan": "ཤེས་རབ་ཡུམ་གྱིས་བསྐྱེད་པ་ཁྱོད་ལ་ཐུགས་བརྩེ་མ་མ་ཡི། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04170"
+      ],
+      "pair_id": "TGD-004169",
+      "exact_tibetan": "སངས་རྒྱས་ཀྱི་ས་ན་ཐུགས་བསྐྱེད་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04187"
+      ],
+      "pair_id": "TGD-004186",
+      "exact_tibetan": "སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་མཐའ་ཐམས་ཅད་དང་བྲལ་བ་ཡིན་ཏེ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04201"
+      ],
+      "pair_id": "TGD-004200",
+      "exact_tibetan": "གདུལ་བྱ་འདི་ལྟ་བུས་འདུལ་བར་བྱེད་སྙམ་པའི་ཐུགས་མེད་ཀྱང་།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04204",
+        "U04207"
+      ],
+      "pair_id": "TGD-004204",
+      "exact_tibetan": "འདིར་ཐུགས་ནི་ཐ་ན་རྟག་ཆད་ཀྱི་ལྟ་བ་ཚུན་ཆད་ལ་ཡང་འབྱུང་བ་ཡིན་ཏེ་\nདེ་སྙེད་དུ་འདུལ་བྱེད་ཐུགས་ཀྱི་འཇུག་པ་ཡང་འབྱུང་བའི་ཕྱིར།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04218"
+      ],
+      "pair_id": "TGD-004218",
+      "exact_tibetan": "སངས་རྒྱས་ཀྱི་ཐུགས་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04322"
+      ],
+      "pair_id": "TGD-004319",
+      "exact_tibetan": "སེམས་ཅན་རྣམས་སངས་རྒྱས་ཀྱི་སར་འགོད་པའི་ཐུགས་དམ་བཞེས་པ་དང༌།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04389",
+        "U04391"
+      ],
+      "pair_id": "TGD-004388",
+      "exact_tibetan": "དང་པོ་ཐུགས་བསྐྱེད་པ་ནས་དམ་པའི་ཆོས་གནས་ཀྱི་བར་\nད་ཐུགས་ལས་ཆུང་ངུར་བཞུགས་པ་མི་སྲིད་པའི་ཕྱིར་རོ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04412"
+      ],
+      "pair_id": "TGD-004409",
+      "exact_tibetan": "མ་སྤངས་ན་ཐུགས་ཁྲེལ་བར་འགྱུར་བ་དང་།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04445"
+      ],
+      "pair_id": "TGD-004442",
+      "exact_tibetan": "དེ་ཡི་བཞེད་པའི་ཐུགས་དགོངས་དུས་གསུམ་སངས་རྒྱས་ཀྱི་བསྟན་པ་མཐའ་དག་གི་སྙིང་པོར་གྱུར་པའི་ཁྱད་ཆོས་རྣམས།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "awakened heart / resolve compounds",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03365"
+      ],
+      "pair_id": "TGD-003363",
+      "exact_tibetan": "བྱང་ཆུབ་སེམས་དཔའི་རྟུལ་ཞུགས་མཆོག །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "ordinary mind of awakening",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-079",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03693"
+      ],
+      "pair_id": "TGD-003693",
+      "exact_tibetan": "བྱང་ཆུབ་སེམས་དཔའ་ས་བཅུ་དག །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "ordinary mind of awakening",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-079",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03722"
+      ],
+      "pair_id": "TGD-003722",
+      "exact_tibetan": "བུ་མོ་བྱང་ཆུབ་སེམས་དཔའི་སྤྱད་པ་སྤྱོད་པ་ན་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "ordinary mind of awakening",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-079",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04135"
+      ],
+      "pair_id": "TGD-004131",
+      "exact_tibetan": "དེ་ལྟར་ཡང་བྱང་ཆུབ་སེམས་འགྲེལ་ལས།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "ordinary mind of awakening",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-079",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04136"
+      ],
+      "pair_id": "TGD-004136",
+      "exact_tibetan": "བྱང་ཆུབ་སེམས་ཀྱི་རང་བཞིན་སྐུ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "ordinary mind of awakening",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-079",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04178"
+      ],
+      "pair_id": "TGD-004178",
+      "exact_tibetan": "བྱང་ཆུབ་སེམས་ནི་མི་ཟད་ཕྱིར། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "ordinary mind of awakening",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-079",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04133"
+      ],
+      "pair_id": "TGD-004131",
+      "exact_tibetan": "བྱང་ཆུབ་ཀྱི་སེམས་མཐར་ཕྱིན་པའི་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་རྒྱུན་མི་ཆད་པའི་ཕྱིར།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "ordinary mind of awakening",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-079",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04186"
+      ],
+      "pair_id": "TGD-004186",
+      "exact_tibetan": "འདིར་བྱང་ཆུབ་ཀྱི་སེམས་གཉིས་ཀྱི་རང་བཞིན་གྱི་གཟུགས་སྐུ་སངས་རྒྱས་དེ་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "ordinary mind of awakening",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-079",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04343"
+      ],
+      "pair_id": "TGD-004343",
+      "exact_tibetan": "རྡོ་༽༽ ཀུན་རྫོབ་བྱང་ཆུབ་ཀྱི་སེམས་སྨོན་པ་ལས་སྤྲུལ་སྐུ་འབྱུང་བ་ཁོ་ནར་ངེས་ཟེར་ཡང།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "ordinary mind of awakening",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-079",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03323",
+        "U03324"
+      ],
+      "pair_id": "TGD-003323",
+      "exact_tibetan": "རྡོ༽༽ གཤིས་ལ་མི་གནས་ཀྱང་བལྟས་པས་འགྱུར་ཏེ།\nགཤིས་མ་གྲུབ་པ་དང་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "actual condition",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-013",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03327",
+        "U03330"
+      ],
+      "pair_id": "TGD-003327",
+      "exact_tibetan": "འདིར་རྒྱུ་འབྲས་ཀྱི་གཤིས༌ལ་རྟེན་འབྲེལ་ལ་མི་གནས་ན་\nརྒྱུ་འབྲས་རྟེན་འབྲེལ་གྱི་གཤིས་དང་འགལ་བ་དང༌།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "actual condition",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-013",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03340"
+      ],
+      "pair_id": "TGD-003335",
+      "exact_tibetan": "དེ་དག་འབྱུང་བ་གཤིས་ལ་གནས་པ་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "actual condition",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-013",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03588"
+      ],
+      "pair_id": "TGD-003580",
+      "exact_tibetan": "གཤིས་བབས་སྟོང་ཉིད་དང་གཅིག་པའི་ཕྱིར་རོ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "actual condition",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-013",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03719"
+      ],
+      "pair_id": "TGD-003717",
+      "exact_tibetan": "རྒྱུ་མེད་པའི་འབྲས་བུ་གཤིས་ལ་མི་སྲིད་པའི་ཕྱིར་རོ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "actual condition",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-013",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03289"
+      ],
+      "pair_id": "TGD-003286",
+      "exact_tibetan": "རྒྱུན་གྱི་འཇུག་པའི་ཕྱིར།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03345"
+      ],
+      "pair_id": "TGD-003344",
+      "exact_tibetan": "ཀུན་དགའ་བོ་རྒྱུན་ཞུགས་ལ་སློབ་པས་དགྲ་བཅོམ་པ་བྱུང་བ་བཞིན་ནོ་ཞེས་ཟེར་རོ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03511"
+      ],
+      "pair_id": "TGD-003509",
+      "exact_tibetan": "མ་རེག་པའི་རྟོགས་པ་དེ་ལ་འདྲིས་ཤིང་རྒྱུན་མ་ཆད་གོམ་པར་བྱེད་པ་ནི་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03519"
+      ],
+      "pair_id": "TGD-003518",
+      "exact_tibetan": "དྲན་པ་རྒྱུན་ཆད་མེད་པ་ཡིན།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03522",
+        "U03523"
+      ],
+      "pair_id": "TGD-003521",
+      "exact_tibetan": "དུས་རྒྱུན་ཆད་མེད་པར་མ་ཤེས་ན། ། །\nདྲན་པའི་རྒྱུན་ཆད་མ་ཤེས་ན། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03613"
+      ],
+      "pair_id": "TGD-003610",
+      "exact_tibetan": "དཀར་པོའི་ཆོས་སྤྱོད་རྒྱུན་མི་བཅད།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03635"
+      ],
+      "pair_id": "TGD-003633",
+      "exact_tibetan": "རྒྱུན་མི་ཆད་པ་འབྱུང་བས་ཡོན་ཏན་གྱི་བདག་ཉིད་དུ་གནས་སོ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03665"
+      ],
+      "pair_id": "TGD-003662",
+      "exact_tibetan": "སེམས་ཅན་གྱི་ཁམས་རྒྱུན་མི་འཆད་པར་འཇུག་པར་བྱེད་པ་ཡིན་པའི་ཕྱིར་རོ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03751"
+      ],
+      "pair_id": "TGD-003750",
+      "exact_tibetan": "དཀར་པོའི་ཆོས་སྤྱོད་རྒྱུན་མི་བཅད།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03951"
+      ],
+      "pair_id": "TGD-003950",
+      "exact_tibetan": "རྒྱུན་མཐའི་རྡོ་ཏིང་གི་སྤངས་བྱ་ཕྲ་བ་སྤང་བ་ཡན་ཆད་སྤང་བྱ་ཡོད་པས་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04062"
+      ],
+      "pair_id": "TGD-004060",
+      "exact_tibetan": "རྒྱུན་མཐརཤེས་སྒྲིབ་སྤོང་བའམ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04094"
+      ],
+      "pair_id": "TGD-004092",
+      "exact_tibetan": "མཁྱེན་གཉིས་དང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་རྒྱུན་ཆད་དུ་ཐལ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04110"
+      ],
+      "pair_id": "TGD-004107",
+      "exact_tibetan": "ས་བཅུ་རྒྱུན་མཐའི་བར་འཕེལ་བས་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04125"
+      ],
+      "pair_id": "TGD-004123",
+      "exact_tibetan": "རྒྱུན་ཆད་དེ་ཕྲིན་ལས་མི་འཇུག་ཅིང་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04133",
+        "U04134"
+      ],
+      "pair_id": "TGD-004131",
+      "exact_tibetan": "བྱང་ཆུབ་ཀྱི་སེམས་མཐར་ཕྱིན་པའི་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་རྒྱུན་མི་ཆད་པའི་ཕྱིར།\nདཔེར་ན་ཉི་མའི་དཀྱིལ་འཁོར་ལ་འོད་ཟེར་རྒྱུན་མི་ཆད་པ་བཞིན་ནོ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04179"
+      ],
+      "pair_id": "TGD-004178",
+      "exact_tibetan": "དེ་ཕྱིར་ཕྲིན་ལས་རྒྱུན་མི་ཆད།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04363"
+      ],
+      "pair_id": "TGD-004356",
+      "exact_tibetan": "རྟག་པ་རྒྱུན་འཁོར་དང་འདུལ་བའི་དུས་ཏེ་གསུམ་ལ་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "succession / uninterrupted constructions",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-007",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03230"
+      ],
+      "pair_id": "TGD-003226",
+      "exact_tibetan": "རྒྱུད་པ་ཆུ་བོ་གཉིས་འདྲེས་ཇོ་བོ་རྗེ་དང་།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "mix / mixed",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-047",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03532"
+      ],
+      "pair_id": "TGD-003525",
+      "exact_tibetan": "མཐར་མ་འདྲེས་པའི་དྲན་ཉམས་པ་མངའ་བའི་བར་དུ་འགྲུབ་པོ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "mix / mixed",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-047",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03774",
+        "U03779"
+      ],
+      "pair_id": "TGD-003773",
+      "exact_tibetan": "ནམ་མཁའ་གཉིས་འདྲེས་བཞིན་དུ་གྱུར་བ་དེ་\nནམ་མཁའ་གཉིས་འདྲེས་ལྟ་བུ་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "mix / mixed",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-047",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03920"
+      ],
+      "pair_id": "TGD-003918",
+      "exact_tibetan": "རྟོགས་བྱེད་ཀྱི་བློ་འདྲེས་གང་ཡོད་པས་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "mix / mixed",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-047",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03936"
+      ],
+      "pair_id": "TGD-003934",
+      "exact_tibetan": "གང་དུ་ཡང་དག་འདྲེས་གྱུར་པ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "mix / mixed",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-047",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04010"
+      ],
+      "pair_id": "TGD-004007",
+      "exact_tibetan": "མ་འདྲེས་པ་བཅོ་བརྒྱད་ལས་ཡེ་ཤེས་ཀྱི་བསྡུས་པ་གསུམ་དུ་གསུངས་པའི་ཕྱིར་ཡོད་དོ་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "mix / mixed",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-047",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04467"
+      ],
+      "pair_id": "TGD-004466",
+      "exact_tibetan": "རིགས་ཅན་སྣ་ཚོགས་པའི་གདུལ་བྱ་སོ་སོ་ལ་མ་འདྲེས་པའི་ཆོས་ ཀྱི་ཁྱད་པར་ལེགས་པར་བསྟན་པ་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "mix / mixed",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-047",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03718"
+      ],
+      "pair_id": "TGD-003717",
+      "exact_tibetan": "འདིར་བྲལ་འབྲས་ཐམས་ཅད་རྒྱུ་དང་བཅས་པ་ཡིན་ཏེ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "result of separation",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-043",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03717"
+      ],
+      "pair_id": "TGD-003717",
+      "exact_tibetan": "ལྷན༽༽ འགའ་ཞིག་བྲལ་བའི་འབྲས་བུའི་ཡོན་ཏན་ལ་རྒྱུ་མི་དགོས་ཟེར་ཡང་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "result of separation",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-043",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04078"
+      ],
+      "pair_id": "TGD-004078",
+      "exact_tibetan": "འདིར་ནི་སྤང་བྱ་སྒྲིབ་པ་ཐམས་ཅད་དང་བྲལ་བའི་འབྲས་བུས་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "result of separation",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-043",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03331"
+      ],
+      "pair_id": "TGD-003327",
+      "exact_tibetan": "ཆོས་ཀྱི་གྲགས་པའི་ཚད་མས་ཀྱང་མི་འགྲུབ་པའི་ཕྱིར་རོ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "valid cognition / authority",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03892",
+        "U03898"
+      ],
+      "pair_id": "TGD-003892",
+      "exact_tibetan": "འདིར་དེའི་སྟེང་དུ་ཆོས་ཚུལ་ཁྲིམས་དང་སྒྲུབ་པ་དང་ཚད་མེད་པའི་སྙིང་རྗེ་གསུམ་མི་ལྡན་ན་\nཆོས་མཆོག་ཉིད་ཀྱི་བརྩམས་པའི་ཚད་མར་མཉེས་པས་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "valid cognition / authority",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03901"
+      ],
+      "pair_id": "TGD-003900",
+      "exact_tibetan": "རྣམ་སྨིན་གྱི་ཡོན་ཏན་ཚད་མེད་པ་དག་སྒྲུབ་དགོས་ཏེ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "valid cognition / authority",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03904"
+      ],
+      "pair_id": "TGD-003903",
+      "exact_tibetan": "ཚད་མེད་པའི་སྙིང་རྗེ་གཞན་དོན་མཐར་ཐུག་ཏུ་བྱེད་དགོས་ཏེ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "valid cognition / authority",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03989",
+        "U03990",
+        "U03993",
+        "U03995"
+      ],
+      "pair_id": "TGD-003989",
+      "exact_tibetan": "རྡོ༽༽ ཚད་མའི་བློ་མངོན་སུམ་དང་རྗེས་དཔག་གཉིས་\nཚད་མིན་གྱི་བློ་ཐེ་ཚོམ་ཡིད་དཔྱོད། ལོག་ཤེས། བཅད་ཤེས། སྣང་བ་མ་ངེས་པ་དང་ལྔ་་སྟེ་\nཐུགས་ཚད་མ་ཡིན་ལ་\nཚད་མར་མི་འགྱུར་ཟེར་བ་དག་ཀྱང་ཡོད་དོ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "valid cognition / authority",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03997",
+        "U04001"
+      ],
+      "pair_id": "TGD-003996",
+      "exact_tibetan": "རྟག་ཏུ་ཚད་མར་བཞུགས་པ་ཡིན་ཏེ།\nདེ་བཞིན་གཤེགས་པ་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་གྱི་ཚད་མ་མི་བསླུ་བའོ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "valid cognition / authority",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04053"
+      ],
+      "pair_id": "TGD-004052",
+      "exact_tibetan": "ཚད་མར་གཟིགས་པ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "valid cognition / authority",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04056"
+      ],
+      "pair_id": "TGD-004056",
+      "exact_tibetan": "ཚད་མར་གྱུར་པ་འགྲོ་ལ་ཕན་བཞེད་པ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "valid cognition / authority",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04274"
+      ],
+      "pair_id": "TGD-004272",
+      "exact_tibetan": "ཚངས་པ་ང་ནི་ཚད་མེད་ཅིང་རིས་སུ་མ་ཆད་པའི་རྣམ་པས་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "valid cognition / authority",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04421"
+      ],
+      "pair_id": "TGD-004416",
+      "exact_tibetan": "ཚད་མ་བཞིའི་སྒོ་ནས་ངེས་ཤེས་ཁྱད་པར་ཅན་ལྡན་པར་གྱུར་ཀྱང་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "valid cognition / authority",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-067",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03800"
+      ],
+      "pair_id": "TGD-003798",
+      "exact_tibetan": "བློ་ནི་གཞན་དོནx",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "others’ benefit (compound)",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-077",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03904"
+      ],
+      "pair_id": "TGD-003903",
+      "exact_tibetan": "ཚད་མེད་པའི་སྙིང་རྗེ་གཞན་དོན་མཐར་ཐུག་ཏུ་བྱེད་དགོས་ཏེ།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "others’ benefit (compound)",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-077",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04117"
+      ],
+      "pair_id": "TGD-004117",
+      "exact_tibetan": "རང་དོན་གཞན་དོན་དོན་དམ་སྐུ་རང་ནི། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "others’ benefit (compound)",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-077",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04139"
+      ],
+      "pair_id": "TGD-004138",
+      "exact_tibetan": "གཞན་དོན་དུ་ཐུགས་བསྐྱེད་པ་འཁོར་བ་མ་སྟོང་གི་བར་དུ་འབྱུང་ཞིང་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "others’ benefit (compound)",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-077",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03291",
+        "U03292",
+        "U03293"
+      ],
+      "pair_id": "TGD-003291",
+      "exact_tibetan": "སྣང་གཟུགས་ནི་ཕྱག་རྒྱ་ཆེན་པོའི་ཆོས་ཉིད་འདི་བསམ་པའི་རང་གཟུགས་ཡིན་ལ་\nཆོས་ཅན་བསམ་པའི་རང་གཟུགས་ལ་ནི་གསུམ་སྟེ།\nད་ལྟའི་བསམ་པའི་རང་གཟུགས་དང་ཚེ་འཕོས་པ་དང༌། ཚེ་འཕོས་ཀྱང་ལུས་འགྱུར་པའི་བསམ་པ་སྐད་ཅིག་མའི་རང་གཟུགས་སོ། །",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "own-form",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-008",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03297"
+      ],
+      "pair_id": "TGD-003294",
+      "exact_tibetan": "དེའི་རང་གཟུགས་སུ་འགྲུབ་པ་ནི་ཞེ་སྡང་གིས་དམར་ལམ་གྱི་སོང་བ་དང།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "own-form",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-008",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03321"
+      ],
+      "pair_id": "TGD-003317",
+      "exact_tibetan": "ང་འབུས་བསམ་པའི་རང་གཟུགས་འདི་རྙེད་པ་ཡིན་གསུངས།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "own-form",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-008",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03862"
+      ],
+      "pair_id": "TGD-003861",
+      "exact_tibetan": "རིགས་པ་བརྟུལ་ཞུགས་ཀྱི་སྤྱོད་པ་སྣ་ཚོགས་པས་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "disciplined observance",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-055",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U03876",
+        "U03885"
+      ],
+      "pair_id": "TGD-003876",
+      "exact_tibetan": "དེང་སང་འགའ་ཞིག་བརྟུལ་ཞུགས་ཀྱི་སྤྱོད་པ་ཡིན་པར་\nསྤྱོད་པ་བརྟུལ་ཞུགས་ལས་ཆེས་འཕགས་པའི་ཕྱིར་",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "disciplined observance",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-055",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04404"
+      ],
+      "pair_id": "TGD-004401",
+      "exact_tibetan": "རྟག་ཏུ་སངས་རྒྱས་སྙིང་པོ་ཅན།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "buddha heart",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-103",
+      "approved": false
+    },
+    {
+      "source_units": [
+        "U04408"
+      ],
+      "pair_id": "TGD-004405",
+      "exact_tibetan": "འགྲོ་ཀུན་སངས་རྒྱས་སྙིང་པོ་ཅན་དུ་གསུངས།",
+      "canonical_entry": "Uncovered term or scoped family; active glossary unchanged",
+      "english_realization": "buddha heart",
+      "category": "Provisional-family locator",
+      "condition_evidence": "Family occurrence requires contextual reading; full source lines retained. A match inside a name or a different compound is not a new lexical assignment.",
+      "approval_or_note_id": "N-C-103",
+      "approved": false
+    }
+  ],
+  "proposed_glossary_rows": [
+    {
+      "Tibetan": "ཐུགས་",
+      "English": "awakened heart",
+      "Meaning and scope": "Honorific cognitive subject in the buddhahood discussion, not a claim that it is a separate entity",
+      "Allowed grammatical forms": "awakened heart; awakened hearts where plural reference requires",
+      "Contextual exceptions": "Do not replace ཐུགས་རྗེ compassionate responsiveness or དགོངས་པ enlightened intent; whole compounds need separate analysis",
+      "Related entries": "ཐུགས་རྗེ་; དགོངས་པ་; སེམས་",
+      "Rationale and sources": "U03993 onward; N-C-067; standard explicitly identifies absent standalone entry",
+      "Status and open questions": "Proposed; Owner approval required; heart may be unsuitable in some honorific compounds"
+    },
+    {
+      "Tibetan": "བྱང་ཆུབ་སེམས་",
+      "English": "ordinary mind of awakening",
+      "Meaning and scope": "Bodhicitta compound; preserves the established ordinary mind component",
+      "Allowed grammatical forms": "ordinary mind of awakening; generation of the ordinary mind of awakening",
+      "Contextual exceptions": "Does not replace སེམས standalone or the honorific ཐུགས་བསྐྱེད construction",
+      "Related entries": "སེམས་; ཐུགས་བསྐྱེད་",
+      "Rationale and sources": "U04135–U04136, U04178; N-C-079",
+      "Status and open questions": "Proposed; Whole-expression rendering requires owner approval"
+    },
+    {
+      "Tibetan": "ཐུགས་བསྐྱེད་",
+      "English": "resolve for awakening",
+      "Meaning and scope": "Honorific generating/resolving for awakening in the result discussion",
+      "Allowed grammatical forms": "generate the resolve for awakening; resolve for awakening",
+      "Contextual exceptions": "Scope limited to explicit awakening context; not every ཐུགས verb construction",
+      "Related entries": "སེམས་; དགོངས་པ་; proposed ཐུགས་",
+      "Rationale and sources": "U04128–U04132; N-C-078",
+      "Status and open questions": "Proposed; Do not merge with enlightened intent; owner approval required"
+    },
+    {
+      "Tibetan": "གཤིས་",
+      "English": "actual condition",
+      "Meaning and scope": "Actual causal condition contrasted with how something is viewed",
+      "Allowed grammatical forms": "actual condition; actual condition as it is for explicitly related construction",
+      "Contextual exceptions": "Does not replace རང་བཞིན intrinsic nature or གནས་ལུགས natural state",
+      "Related entries": "རང་བཞིན་; གནས་ལུགས་",
+      "Rationale and sources": "U03323–U03343; N-C-013",
+      "Status and open questions": "Proposed; Review whole family before activation"
+    },
+    {
+      "Tibetan": "རྒྱུན་",
+      "English": "succession",
+      "Meaning and scope": "Temporal sequence, particularly successive moments and end-of-path sequence",
+      "Allowed grammatical forms": "succession; uninterrupted constructions may be adverbial",
+      "Contextual exceptions": "Do not merge spelling with རྒྱུད continuum; compounds such as stream-enterer need separate treatment",
+      "Related entries": "རྒྱུད་; རྗེས་ཐོབ་",
+      "Rationale and sources": "U03289; U03951; N-C-007, N-C-062",
+      "Status and open questions": "Proposed; English realization varies grammatically; no blanket continuum replacement"
+    },
+    {
+      "Tibetan": "འདྲེས་",
+      "English": "mixed",
+      "Meaning and scope": "Source-attested mixing in two-space and two-truth analogies",
+      "Allowed grammatical forms": "mixed; have mixed; mixing where grammar requires",
+      "Contextual exceptions": "Not approval of integrate with; source variants འདྲེ་ need their own form/construction record",
+      "Related entries": "མིང་དོན་འདྲེས་པ་; སྒྲ་དོན་འདྲེས་རུང་",
+      "Rationale and sources": "U03774, U03779, U03920, U03936; N-C-047, N-C-059, N-C-060",
+      "Status and open questions": "Proposed; Preserves existing mix family; owner review required"
+    },
+    {
+      "Tibetan": "བསམ་པའི་རང་གཟུགས་",
+      "English": "own-form of intention",
+      "Meaning and scope": "Recurring account of appearances as the form of intention",
+      "Allowed grammatical forms": "own-form; own-form of intention",
+      "Contextual exceptions": "Do not equate with རང་སྣང self-appearance; do not identify every བསམ་པ with intention without context",
+      "Related entries": "རང་སྣང་; རྣམ་རྟོག་; སྣང་བ་",
+      "Rationale and sources": "U03292–U03322; N-C-006, N-C-008, N-C-012",
+      "Status and open questions": "Proposed; Exact interpretation and hyphenation require review"
+    },
+    {
+      "Tibetan": "བྲལ་བའི་འབྲས་བུ་",
+      "English": "result of separation",
+      "Meaning and scope": "Technical result category whose dependence on causes is argued",
+      "Allowed grammatical forms": "result/results of separation",
+      "Contextual exceptions": "Does not conflate separation itself with liberation or all instances of བྲལ",
+      "Related entries": "འབྲས་བུ་; སྤྲོས་བྲལ་",
+      "Rationale and sources": "U03717–U03719; N-C-043",
+      "Status and open questions": "Proposed; Confirm scholastic category and shortened form བྲལ་འབྲས"
+    },
+    {
+      "Tibetan": "ཚད་མ་",
+      "English": "valid cognition",
+      "Meaning and scope": "Cognitive epistemic validity in the sevenfold cognition taxonomy",
+      "Allowed grammatical forms": "valid cognition; valid cognitions",
+      "Contextual exceptions": "Proposed scoped authority when predicated of a person, N-C-068, not independently approved",
+      "Related entries": "མངོན་སུམ་; བློ་; ཤེས་པ་",
+      "Rationale and sources": "U03989–U04001; N-C-067, N-C-068",
+      "Status and open questions": "Proposed; Review person/cognition distinction before activation"
+    },
+    {
+      "Tibetan": "བརྟུལ་ཞུགས་",
+      "English": "disciplined observance",
+      "Meaning and scope": "Ascetic/yogic observance in the activity discussion",
+      "Allowed grammatical forms": "disciplined observance; disciplined activity when compounded with སྤྱོད་པ",
+      "Contextual exceptions": "Not interchangeable with general ethical discipline ཚུལ་ཁྲིམས",
+      "Related entries": "སྤྱོད་པ་; སྒོམ་པ་",
+      "Rationale and sources": "U03862–U03885; N-C-055",
+      "Status and open questions": "Proposed; Source variants རྟུལ་ཞུགས to be checked; owner review required"
+    },
+    {
+      "Tibetan": "སངས་རྒྱས་སྙིང་པོ་",
+      "English": "buddha heart",
+      "Meaning and scope": "Tathāgatagarbha expression in the closing of section seven",
+      "Allowed grammatical forms": "buddha heart; possess the buddha heart",
+      "Contextual exceptions": "Do not assign bare essence here by default, reserved for ངོ་བོ; Sugata compound needs linked record",
+      "Related entries": "ངོ་བོ་; རང་བཞིན་; proposed ཐུགས་",
+      "Rationale and sources": "U04404, U04408; N-C-103, N-C-108",
+      "Status and open questions": "Proposed; Check potential English heart overlap with honorific awakened heart"
+    },
+    {
+      "Tibetan": "ལྡོག་པ་",
+      "English": "conceptual distinction",
+      "Meaning and scope": "Scholastic distinction in the statement that embodiments differ only this way",
+      "Allowed grammatical forms": "conceptual distinction",
+      "Contextual exceptions": "Not a universal replacement for reversal in ordinary verbal uses",
+      "Related entries": "རྣམ་པ་; སྐུ་གསུམ་",
+      "Rationale and sources": "U04382; N-C-101",
+      "Status and open questions": "Proposed; Occurrence-specific proposed sense only"
+    }
+  ],
+  "proposal_family_audit": [
+    {
+      "Tibetan": "ཐུགས་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [
+        {
+          "Tibetan": "ཐུགས་རྗེ་",
+          "English": "Compassionate responsiveness"
+        }
+      ],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "བྱང་ཆུབ་སེམས་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [
+        {
+          "Tibetan": "སེམས་",
+          "English": "Ordinary mind"
+        }
+      ],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "ཐུགས་བསྐྱེད་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "གཤིས་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "རྒྱུན་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "འདྲེས་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [
+        {
+          "Tibetan": "སྒྲ་དོན་འདྲེས་རུང་",
+          "English": "Fit for word and meaning to be mixed"
+        },
+        {
+          "Tibetan": "མིང་དོན་འདྲེས་པ་",
+          "English": "Mixing of name and meaning"
+        }
+      ],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "བསམ་པའི་རང་གཟུགས་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "བྲལ་བའི་འབྲས་བུ་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [
+        {
+          "Tibetan": "འབྲས་བུ་",
+          "English": "Result"
+        }
+      ],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "ཚད་མ་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "བརྟུལ་ཞུགས་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "སངས་རྒྱས་སྙིང་པོ་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    },
+    {
+      "Tibetan": "ལྡོག་པ་",
+      "whole_active_glossary_rows_scanned": 222,
+      "matching_active_rows": [],
+      "english_exact_collision": false,
+      "decision": "Proposed only; no active rows changed"
+    }
+  ],
+  "blank_reference_anchors_translated": [
+    3198,
+    3698,
+    3820,
+    4099,
+    4285,
+    4333
+  ],
+  "placeholder_anchors_preserved": [
+    3456,
+    3457,
+    3799,
+    3800,
+    3801
+  ],
+  "structural_decisions": [
+    "U03907 and U04414 are separate chapter colophons",
+    "U04293 explicitly says source annotation and has source_annotation role",
+    "U04415 is source heading; U04416–U04470 are closing text",
+    "U04471–U04477 preserve Sherab Jungné’s embedded authorial colophon separately from the compiler",
+    "U04478–U04487 are prose dedication; no regular verse meter was imposed on electronic line breaks",
+    "U04488–U04499 are compiler work colophon, separate at U04488",
+    "Quoted verse intros embedded in an indivisible electronic source object remain in the corresponding verse pair; the Tibetan object itself is never split or reordered"
+  ],
+  "files": [
+    {
+      "path": "translations/batches/C/C-3197-3382.jsonl",
+      "sha256": "816cc51fbc9a58d2395f6f44108e76f2f4b5acbf07d18051372e45a8066d8d0b",
+      "pairs": 45,
+      "range": [
+        3197,
+        3382
+      ]
+    },
+    {
+      "path": "translations/batches/C/C-3383-3579.jsonl",
+      "sha256": "7ad7dae275056542e975a0fb071e680110c5fc3a7ed1e64543b4f19a8437e409",
+      "pairs": 57,
+      "range": [
+        3383,
+        3579
+      ]
+    },
+    {
+      "path": "translations/batches/C/C-3580-3772.jsonl",
+      "sha256": "46509e6530f46fe0d1ea6a73d12a1a7457fea0d962796d5515f380df3c578b5b",
+      "pairs": 47,
+      "range": [
+        3580,
+        3772
+      ]
+    },
+    {
+      "path": "translations/batches/C/C-3773-3972.jsonl",
+      "sha256": "12216304015f7b7461f54d0d76bcb761835ab01d047d4bd1fa5623a10d5ac4ee",
+      "pairs": 43,
+      "range": [
+        3773,
+        3972
+      ]
+    },
+    {
+      "path": "translations/batches/C/C-3973-4168.jsonl",
+      "sha256": "dcc8250bd0d028791f065b0aa3517102b5bcea6a9ff2fca08ce3aed0aa9e934c",
+      "pairs": 47,
+      "range": [
+        3973,
+        4168
+      ]
+    },
+    {
+      "path": "translations/batches/C/C-4169-4414.jsonl",
+      "sha256": "b88a3fcef5ea8a962fd7f9dbbc3d62645903436d4c17ff8005431c7bfd559ace",
+      "pairs": 58,
+      "range": [
+        4169,
+        4414
+      ]
+    },
+    {
+      "path": "translations/batches/C/C-4415-4499.jsonl",
+      "sha256": "d1ba7cc215c745909bdc99c01df7d776d806d00fa15b83e4302f4b1fd98f9f1c",
+      "pairs": 15,
+      "range": [
+        4415,
+        4499
+      ]
+    }
+  ],
+  "authored_inputs": "C-*.jsonl are the staging authored outputs; batch*.py are drafting helpers and should not be used to overwrite later JSONL self-check revisions",
+  "next_task": "Coordinator assembles exact source pairs and translation, publishes checkpoint, validates repository-wide symmetry and coverage; independent QC and human editorial review remain separate gates",
+  "publication_owner": "Coordinator only"
+}

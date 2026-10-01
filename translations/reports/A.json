@@ -1,0 +1,2982 @@
+{
+  "range": "A",
+  "completed_anchor_range": {
+    "start": "U00001",
+    "end": "U01685",
+    "count": 1685
+  },
+  "remaining_anchors": 0,
+  "pair_count": 319,
+  "english_word_count_including_note_markers": 15575,
+  "note_count": 144,
+  "format_counts": {
+    "h1": 1,
+    "prose": 241,
+    "verse": 75,
+    "h3": 2
+  },
+  "source_release": "provisional-source-v0.1.0",
+  "source_release_commit": "8d7a583020ffc3dee6a4e56f6cecc35a18e09436",
+  "self_check_performed": true,
+  "self_check_scope": [
+    "Source-led translation of every assigned anchor in successive contextual batches, consulting but not copying the rough reference.",
+    "Contiguous exact coverage, one appearance per anchor, valid formats, no section crossing.",
+    "Every linked note ID unique, every marker matched to a note, every exact note quote checked against its cited fixed Tibetan anchors, every note anchor in its pair.",
+    "All literal x/×/✖ markers checked for visible unresolved treatment; missing-reference anchors all translated.",
+    "Contextual review of established glossary commitments and flagged provisional technical compounds.",
+    "Manual final corrections to Adornment, Perception, Rejecting and accepting, and Inferior faculty; acoustic title preserved as explicitly flagged provisional exception."
+  ],
+  "independent_qc": false,
+  "human_review": false,
+  "scan_proofreading": false,
+  "exhaustive_witness_collation": false,
+  "validation_errors": [],
+  "placeholders": [
+    {
+      "anchor": "U01383",
+      "pair": 1382,
+      "explicit_unresolved_marker": true
+    },
+    {
+      "anchor": "U01384",
+      "pair": 1382,
+      "explicit_unresolved_marker": true
+    },
+    {
+      "anchor": "U01385",
+      "pair": 1382,
+      "explicit_unresolved_marker": true
+    },
+    {
+      "anchor": "U01388",
+      "pair": 1387,
+      "explicit_unresolved_marker": true
+    },
+    {
+      "anchor": "U01389",
+      "pair": 1387,
+      "explicit_unresolved_marker": true
+    },
+    {
+      "anchor": "U01390",
+      "pair": 1387,
+      "explicit_unresolved_marker": true
+    },
+    {
+      "anchor": "U01676",
+      "pair": 1676,
+      "explicit_unresolved_marker": true
+    },
+    {
+      "anchor": "U01677",
+      "pair": 1676,
+      "explicit_unresolved_marker": true
+    }
+  ],
+  "missing_reference_anchors_translated": [
+    "U00221",
+    "U00308",
+    "U00309",
+    "U00557",
+    "U00611",
+    "U01276",
+    "U01537",
+    "U01554"
+  ],
+  "unresolved_issues": [
+    {
+      "id": "N-A-001",
+      "anchors": [
+        "U00001"
+      ],
+      "category": "contextual use",
+      "problem": "The glossary assigns Word to སྒྲ་; this title uses it for a drum’s sound.",
+      "review_action": "Approve a scoped sound sense for this title or revise the title wording."
+    },
+    {
+      "id": "N-A-002",
+      "anchors": [
+        "U00004"
+      ],
+      "category": "source reading",
+      "problem": "The supplied reading has རྟོག་, conceptualizing, where the formula appears to require རྟོགས་, realization.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-003",
+      "anchors": [
+        "U00016"
+      ],
+      "category": "terminology gap",
+      "problem": "The established རྒྱུད་ = continuum does not directly express the bibliographical compound here.",
+      "review_action": "Approve a separate scripture/tantra sense and its compounds; do not change the continuum assignment."
+    },
+    {
+      "id": "N-A-004",
+      "anchors": [
+        "U00030",
+        "U00031"
+      ],
+      "category": "scope",
+      "problem": "The introduction gives 150 utterances and 40 supplements; U00039 gives 152 and 47.",
+      "review_action": "Check whether these are rounded counts, different enumerations, or transcript errors."
+    },
+    {
+      "id": "N-A-005",
+      "anchors": [
+        "U00041",
+        "U00051"
+      ],
+      "category": "syntax/reference",
+      "problem": "The syllable ཕ་ before Śākya is syntactically doubtful; the list concerns the ten powers. གནས་དང་གནས་མིན་ here concerns possibility, not the meditation term abiding.",
+      "review_action": "Check ཕ་ and the etymological explanation of Śākya."
+    },
+    {
+      "id": "N-A-006",
+      "anchors": [
+        "U00056"
+      ],
+      "category": "terminology gap",
+      "problem": "Standalone ཐུགས་ has no established glossary entry.",
+      "review_action": "Approve an occurrence-specific treatment of ཐུགས་ and preserve the established neighboring entries."
+    },
+    {
+      "id": "N-A-007",
+      "anchors": [
+        "U00069"
+      ],
+      "category": "contextual use",
+      "problem": "The glossary’s mindfulness entry appears here in an ordinary recollection construction.",
+      "review_action": "Approve recollection/remembering for this construction without replacing technical mindfulness."
+    },
+    {
+      "id": "N-A-008",
+      "anchors": [
+        "U00075",
+        "U00076"
+      ],
+      "category": "syntax/reference",
+      "problem": "The syntax of the Buddha/purified-essence clause is compressed.",
+      "review_action": "Review whether སངས་རྒྱས་པས་ is nominal or verbal in this clause."
+    },
+    {
+      "id": "N-A-009",
+      "anchors": [
+        "U00105",
+        "U00106"
+      ],
+      "category": "source reading",
+      "problem": "The cited title has not been securely identified; U00105 is only a quotation incipit.",
+      "review_action": "Identify the cited sūtra and compare its quotation."
+    },
+    {
+      "id": "N-A-010",
+      "anchors": [
+        "U00130"
+      ],
+      "category": "terminology gap",
+      "problem": "This honorific compound is not separately established in the glossary.",
+      "review_action": "Review the compound alongside སེམས་བསྐྱེད་ and bodhicitta terminology."
+    },
+    {
+      "id": "N-A-011",
+      "anchors": [
+        "U00139"
+      ],
+      "category": "scope",
+      "problem": "The closing phrase can concern distinct realizations or definitive allocation of teachings.",
+      "review_action": "Review the attachment of སོ་སོར་རྟོགས་པའི་."
+    },
+    {
+      "id": "N-A-012",
+      "anchors": [
+        "U00145",
+        "U00146",
+        "U00147",
+        "U00150",
+        "U00151",
+        "U00152",
+        "U00153"
+      ],
+      "category": "syntax/reference",
+      "problem": "The enumeration repeats third; the relation of its subdivisions and the secret/intention phrase is unclear.",
+      "review_action": "Check the enumeration and clause boundaries against a physical source."
+    },
+    {
+      "id": "N-A-013",
+      "anchors": [
+        "U00154"
+      ],
+      "category": "scope",
+      "problem": "The source says eighty thousand here, whereas U00174 explicitly says eighty-four thousand.",
+      "review_action": "Check whether the shorter number is intentional abbreviation."
+    },
+    {
+      "id": "N-A-014",
+      "anchors": [
+        "U00193"
+      ],
+      "category": "source reading",
+      "problem": "The quotation is only an incipit, and its exact grammatical completion is absent.",
+      "review_action": "Identify the quotation and verify གྲག་."
+    },
+    {
+      "id": "N-A-015",
+      "anchors": [
+        "U00197",
+        "U00198",
+        "U00199"
+      ],
+      "category": "terminology gap",
+      "problem": "Names of the twelve scriptural branches lack established full-expression glossary entries.",
+      "review_action": "Approve a consistent twelve-branch terminology set."
+    },
+    {
+      "id": "N-A-016",
+      "anchors": [
+        "U00221",
+        "U00225",
+        "U00226"
+      ],
+      "category": "source reading",
+      "problem": "U00221 contains a repeated/doubtful phrase; U00225–226 are compressed quotation fragments.",
+      "review_action": "Verify the repeated phrase and identify the quoted passages."
+    },
+    {
+      "id": "N-A-017",
+      "anchors": [
+        "U00246"
+      ],
+      "category": "syntax/reference",
+      "problem": "The relation of Caṇḍapradyota, the three requests, and the teaching is syntactically compressed.",
+      "review_action": "Verify the cited episode and its participants."
+    },
+    {
+      "id": "N-A-018",
+      "anchors": [
+        "U00253",
+        "U00255"
+      ],
+      "category": "terminology gap",
+      "problem": "The technical compound for non-informative form is compressed, without an explicit form noun. The basis analogy uses གཞི་ ordinarily, rather than an explicit doctrinal Ground.",
+      "review_action": "Approve terminology for རྣམ་རིག་མིན་པ་ and this ordinary basis construction."
+    },
+    {
+      "id": "N-A-019",
+      "anchors": [
+        "U00300"
+      ],
+      "category": "scope",
+      "problem": "The source invokes four yogas and four wheels while concluding that three are established.",
+      "review_action": "Check the four-wheels reading and the intended relation to three turnings."
+    },
+    {
+      "id": "N-A-020",
+      "anchors": [
+        "U00304"
+      ],
+      "category": "source reading",
+      "problem": "The sequence may contain a sūtra title or compressed description; its boundaries are uncertain.",
+      "review_action": "Identify the sūtra and verify the word division."
+    },
+    {
+      "id": "N-A-021",
+      "anchors": [
+        "U00308",
+        "U00309"
+      ],
+      "category": "source reading",
+      "problem": "U00308–309 have no human translation and contain doubtful or compressed textual titles, including སོར་འབྲད་ and ནོར་བཟང་མི་.",
+      "review_action": "Collate these lines and identify every cited text; review whether སྡོང་པོ་རྒྱན་ refers to Gaṇḍavyūha."
+    },
+    {
+      "id": "N-A-022",
+      "anchors": [
+        "U00317"
+      ],
+      "category": "syntax/reference",
+      "problem": "The objection’s transition is compressed and appears textually awkward.",
+      "review_action": "Check the clause ending after ཡིན་གྱི་."
+    },
+    {
+      "id": "N-A-023",
+      "anchors": [
+        "U00323",
+        "U00325",
+        "U00329"
+      ],
+      "category": "scope",
+      "problem": "The nouns governed by 253 and 47 are compressed or absent; the lama/path root-branch relation is terse.",
+      "review_action": "Verify the counted sets and syntactic attachment of lama and noble path."
+    },
+    {
+      "id": "N-A-024",
+      "anchors": [
+        "U00333",
+        "U00334"
+      ],
+      "category": "syntax/reference",
+      "problem": "The identification of person with origin is unusually compressed; the parallel question concerns emergence.",
+      "review_action": "Check the alignment of the four truths with the questions."
+    },
+    {
+      "id": "N-A-025",
+      "anchors": [
+        "U00339",
+        "U00342"
+      ],
+      "category": "source reading",
+      "problem": "The first line’s ཁོ་ན་ལས་ is doubtful, and the last contains joined or malformed syllables. The reference’s “except you and me” changes the participants.",
+      "review_action": "Compare this four-truths quotation with its source; verify the inclusive subject."
+    },
+    {
+      "id": "N-A-026",
+      "anchors": [
+        "U00350"
+      ],
+      "category": "source reading",
+      "problem": "This appears defective and cannot securely be construed as the reference’s “father of awareness.”",
+      "review_action": "Check whether a reasoning formula such as རིགས་པས་ཀྱང་ was intended, without silently emending."
+    },
+    {
+      "id": "N-A-027",
+      "anchors": [
+        "U00352",
+        "U00353",
+        "U00354",
+        "U00355",
+        "U00356"
+      ],
+      "category": "syntax/reference",
+      "problem": "Several rival classifications are juxtaposed without clear quotation boundaries; the referent of latter two is uncertain.",
+      "review_action": "Identify the rival schemes and the scope of each attribution."
+    },
+    {
+      "id": "N-A-028",
+      "anchors": [
+        "U00374"
+      ],
+      "category": "source reading",
+      "problem": "Literally “the middle two” does not clearly fit the threefold scheme.",
+      "review_action": "Check བར་པ་གཉིས་ against the cited sūtra and source witness."
+    },
+    {
+      "id": "N-A-029",
+      "anchors": [
+        "U00386"
+      ],
+      "category": "interpretive supply",
+      "problem": "The source seems to call the three expedient falsehoods definitive; the implied contrasting group is absent.",
+      "review_action": "Check whether a negation or contrasting clause is missing; review the six-limit terminology."
+    },
+    {
+      "id": "N-A-030",
+      "anchors": [
+        "U00407"
+      ],
+      "category": "source reading",
+      "problem": "The transmitted སྐྱེ་ངའི་ is irregular; a birth-causing karma construction is contextually likely.",
+      "review_action": "Verify whether སྐྱེ་བའི་ was intended."
+    },
+    {
+      "id": "N-A-031",
+      "anchors": [
+        "U00410",
+        "U00411",
+        "U00415"
+      ],
+      "category": "terminology gap",
+      "problem": "No whole-expression school name is established in the glossary.",
+      "review_action": "Approve a school-name rendering without shortening standalone ordinary mind."
+    },
+    {
+      "id": "N-A-032",
+      "anchors": [
+        "U00438",
+        "U00440",
+        "U00441",
+        "U00442",
+        "U00443",
+        "U00444"
+      ],
+      "category": "source reading",
+      "problem": "Proper names and Abhidharma titles are compressed; the apparent list does not transparently yield the stated seven.",
+      "review_action": "Identify the named figures and seven treatises, checking the word divisions."
+    },
+    {
+      "id": "N-A-033",
+      "anchors": [
+        "U00448"
+      ],
+      "category": "scope",
+      "problem": "This can deny higher/lower classification or deny identification with those Abhidharma collections.",
+      "review_action": "Review the scope of མ་ཡིན་ in the taxonomy."
+    },
+    {
+      "id": "N-A-034",
+      "anchors": [
+        "U00455"
+      ],
+      "category": "source reading",
+      "problem": "The transmitted line appears to say “not seeing truth,” whereas the argument and following examples point to seeing truth through a reflection.",
+      "review_action": "Check whether བདེན་པ་མཐོང་ was intended; the polarity remains unresolved."
+    },
+    {
+      "id": "N-A-035",
+      "anchors": [
+        "U00461"
+      ],
+      "category": "source reading",
+      "problem": "The compound is irregular; skull-cup liquor is a plausible reading of ཐོད་ཆང་ but is not the supplied spelling.",
+      "review_action": "Check the source spelling and identify the great brahmin’s episode."
+    },
+    {
+      "id": "N-A-036",
+      "anchors": [
+        "U00473"
+      ],
+      "category": "source reading",
+      "problem": "Only a compressed quotation fragment is supplied, with unclear relation between authentic and conventional.",
+      "review_action": "Locate the quotation and check its wording."
+    },
+    {
+      "id": "N-A-037",
+      "anchors": [
+        "U00493",
+        "U00497"
+      ],
+      "category": "source reading",
+      "problem": "The master-king is unnamed; ཐབས་བྱུང་ is an uncertain phrase, plausibly ཐབས་ཅིག་/together.",
+      "review_action": "Identify the master-king and check the phrase describing simultaneous arising."
+    },
+    {
+      "id": "N-A-038",
+      "anchors": [
+        "U00500",
+        "U00501"
+      ],
+      "category": "source reading",
+      "problem": "གདངས་ is canonically radiance, but the gradual-ascent analogy may have a defective spelling of rungs; གཉིས་ཆར་ is also doubtful for simultaneous.",
+      "review_action": "Check both source forms; do not promote these contextual treatments to glossary alternatives."
+    },
+    {
+      "id": "N-A-039",
+      "anchors": [
+        "U00520",
+        "U00523",
+        "U00524"
+      ],
+      "category": "scope",
+      "problem": "The threefold ignorance list and abandonment ranges are defective or compressed: མན་ངག་ and འདུན་པ་ do not securely yield the expected ranges.",
+      "review_action": "Collate the ignorance list and all three level ranges; do not treat the inferred ranges as fixed."
+    },
+    {
+      "id": "N-A-040",
+      "anchors": [
+        "U00557",
+        "U00558"
+      ],
+      "category": "source reading",
+      "problem": "The untranslated reference entry contains དན་པ་, an unclear modifier of tenet systems. The following ལས་ links only/refutation, rather than necessarily meaning karma.",
+      "review_action": "Check དན་པ་ and identify the Lord’s quotation."
+    },
+    {
+      "id": "N-A-041",
+      "anchors": [
+        "U00569",
+        "U00573",
+        "U00574",
+        "U00575"
+      ],
+      "category": "terminology gap",
+      "problem": "The source lists pairs but says three; epistemological terms are abbreviated and lack established full-expression glossary entries.",
+      "review_action": "Review the epistemological taxonomy and establish glossary rows for recurrent logical terms."
+    },
+    {
+      "id": "N-A-042",
+      "anchors": [
+        "U00583"
+      ],
+      "category": "source reading",
+      "problem": "The transmitted རྣམ་དག་ literally suggests purification, while the logical context and reference suggest examination.",
+      "review_action": "Verify the quotation, especially whether རྣམ་དཔྱད་ was intended."
+    },
+    {
+      "id": "N-A-043",
+      "anchors": [
+        "U00594"
+      ],
+      "category": "source reading",
+      "problem": "The supplied མཐོང་ལས་ is doubtful for མཐོང་ལམ་, path of seeing.",
+      "review_action": "Check the source spelling at this conclusion."
+    },
+    {
+      "id": "N-A-044",
+      "anchors": [
+        "U00603",
+        "U00604"
+      ],
+      "category": "interpretive supply",
+      "problem": "The transition from eternalism to the karmic insult example is syntactically broken.",
+      "review_action": "Check the anecdote and the missing or displaced verbal material."
+    },
+    {
+      "id": "N-A-045",
+      "anchors": [
+        "U00608"
+      ],
+      "category": "source reading",
+      "problem": "The referent of great mother-and-child is not explained here.",
+      "review_action": "Identify this tenet designation in its source tradition."
+    },
+    {
+      "id": "N-A-046",
+      "anchors": [
+        "U00611"
+      ],
+      "category": "source reading",
+      "problem": "This line has no reference translation and joins an abbreviated quotation to an unidentified or defective attribution.",
+      "review_action": "Identify the author and the boundary between citations."
+    },
+    {
+      "id": "N-A-047",
+      "anchors": [
+        "U00614",
+        "U00615"
+      ],
+      "category": "source reading",
+      "problem": "The predicate བཀྲ་ and final གང་གི་ are doubtful; the verse’s overall polemical direction is clear.",
+      "review_action": "Collate the verse and verify the verb and final clause."
+    },
+    {
+      "id": "N-A-048",
+      "anchors": [
+        "U00620"
+      ],
+      "category": "terminology gap",
+      "problem": "The glossary explicitly notes that སྙིང་རྗེ་ is absent; it must not be conflated with established compassionate responsiveness for ཐུགས་རྗེ་.",
+      "review_action": "Approve a separate compassion entry for སྙིང་རྗེ་."
+    },
+    {
+      "id": "N-A-049",
+      "anchors": [
+        "U00638"
+      ],
+      "category": "interpretive supply",
+      "problem": "The object of inability to attain is unstated.",
+      "review_action": "Review whether buddhahood or another result is intended."
+    },
+    {
+      "id": "N-A-050",
+      "anchors": [
+        "U00655"
+      ],
+      "category": "terminology gap",
+      "problem": "These are traditional polemical classifications whose precise historical referents are not supplied.",
+      "review_action": "Review the three labels and their scoped meanings."
+    },
+    {
+      "id": "N-A-051",
+      "anchors": [
+        "U00659",
+        "U00660",
+        "U00661",
+        "U00664"
+      ],
+      "category": "syntax/reference",
+      "problem": "The stated three follows a four-stage list; it is best attached to the three preceding classes of conducive factors. དམིགས་པ་ functions verbally.",
+      "review_action": "Confirm the attachment of three; review terminology for the four preparatory stages."
+    },
+    {
+      "id": "N-A-052",
+      "anchors": [
+        "U00673",
+        "U00674",
+        "U00677"
+      ],
+      "category": "contextual use",
+      "problem": "The established stagnant-neutrality term occurs in the different context of unanswered questions; the nihilist and middle-position descriptions are compressed.",
+      "review_action": "Approve an unanswered-question sense distinct from ethical stagnant neutrality; verify the brahmin’s name."
+    },
+    {
+      "id": "N-A-053",
+      "anchors": [
+        "U00689",
+        "U00690"
+      ],
+      "category": "syntax/reference",
+      "problem": "The relation between giving/receiving and abstaining from water is unclear; the sequence may be defective.",
+      "review_action": "Collate the practice list and check the clause division."
+    },
+    {
+      "id": "N-A-054",
+      "anchors": [
+        "U00695"
+      ],
+      "category": "terminology gap",
+      "problem": "Bodhicitta and its generation lack full-expression glossary assignments; related expanded occurrences follow at U00698, U00703, and U00707.",
+      "review_action": "Approve connected compound entries for bodhicitta, its generation, and bodhisattva; do not silently shorten standalone སེམས་."
+    },
+    {
+      "id": "N-A-055",
+      "anchors": [
+        "U00705"
+      ],
+      "category": "contextual use",
+      "problem": "The compound སེམས་ཤེས་ is irregular in this rhetorical question; its referent is a person capable of judgment.",
+      "review_action": "Verify the quotation’s reading, including whether སེམས་ཤེས་ is correct."
+    },
+    {
+      "id": "N-A-056",
+      "anchors": [
+        "U00718",
+        "U00720"
+      ],
+      "category": "source reading",
+      "problem": "The source writes དུམ་ rather than བུམ་, and the sequence of names is defective, especially the apparent Sadāprarudita reference.",
+      "review_action": "Check the empowerment term and all three names."
+    },
+    {
+      "id": "N-A-057",
+      "anchors": [
+        "U00807"
+      ],
+      "category": "terminology gap",
+      "problem": "This ritual technical compound has no established glossary entry.",
+      "review_action": "Approve a consistent rendering of the ritual deity-pride compound."
+    },
+    {
+      "id": "N-A-058",
+      "anchors": [
+        "U00831",
+        "U00833"
+      ],
+      "category": "source reading",
+      "problem": "The silk-scroll example is compressed, and ཞི་དུས་ may stand for གཞི་དུས་, ground stage.",
+      "review_action": "Check the example and ground-stage reading against cited texts."
+    },
+    {
+      "id": "N-A-059",
+      "anchors": [
+        "U00842",
+        "U00843",
+        "U00844"
+      ],
+      "category": "source reading",
+      "problem": "The affliction clause combines separability with “indivisible,” whereas the next clause explicitly denies separability and distinction.",
+      "review_action": "Collate this Śrīmālā quotation, especially the first དབྱེར་མེད་པ་."
+    },
+    {
+      "id": "N-A-060",
+      "anchors": [
+        "U00847"
+      ],
+      "category": "interpretive supply",
+      "problem": "The comparison is abbreviated and its action is unclear; the reference instead has a rat scattering the house.",
+      "review_action": "Identify the cited dhāraṇī example before fixing the action."
+    },
+    {
+      "id": "N-A-061",
+      "anchors": [
+        "U00855"
+      ],
+      "category": "source reading",
+      "problem": "The citation label is defective; the human reference identifies Supreme Continuum, but the Tibetan does not securely do so.",
+      "review_action": "Identify the text containing the following two lines."
+    },
+    {
+      "id": "N-A-062",
+      "anchors": [
+        "U00862"
+      ],
+      "category": "scope",
+      "problem": "The additional བཞི་, four, after thirty-seven is unexplained.",
+      "review_action": "Check whether བཞི་ is defective for a grammatical particle or a meaningful number."
+    },
+    {
+      "id": "N-A-063",
+      "anchors": [
+        "U00864",
+        "U00865"
+      ],
+      "category": "source reading",
+      "problem": "The negative “not phenomena of the path” sits awkwardly with the objection that buddhahood lies beyond the factors; a particle or negation may be defective.",
+      "review_action": "Verify the objection’s polarity and the middle-accumulation claim."
+    },
+    {
+      "id": "N-A-064",
+      "anchors": [
+        "U00873",
+        "U00874"
+      ],
+      "category": "syntax/reference",
+      "problem": "The final sequence and its three-way correspondence are compressed; exact doctrinal labels are uncertain.",
+      "review_action": "Check the three mindfulness expressions and their relation to the eight topics."
+    },
+    {
+      "id": "N-A-065",
+      "anchors": [
+        "U00883",
+        "U00884"
+      ],
+      "category": "source reading",
+      "problem": "The quotation is syntactically incomplete and the first line’s relation to the next is uncertain.",
+      "review_action": "Locate the Lalitavistara quotation and verify the transmitted lines."
+    },
+    {
+      "id": "N-A-066",
+      "anchors": [
+        "U00909"
+      ],
+      "category": "source reading",
+      "problem": "The source says shape/form, དབྱིབས་, where the quotation is apparently about དབྱིངས་, basic space.",
+      "review_action": "Collate the Abhisamayālaṃkāra quotation."
+    },
+    {
+      "id": "N-A-067",
+      "anchors": [
+        "U00955"
+      ],
+      "category": "contextual use",
+      "problem": "Literally the phrase means in a stealing/secret manner; its doctrinal force is not explained.",
+      "review_action": "Review how the secret generation of the awakening intention is intended here."
+    },
+    {
+      "id": "N-A-068",
+      "anchors": [
+        "U00966",
+        "U00967"
+      ],
+      "category": "syntax/reference",
+      "problem": "The scope of དགོངས་པ་ may be the teacher’s intent concerning a long delay, rather than the wrong-view holder’s contemplation.",
+      "review_action": "Review the scope of enlightened intent and the antecedent of that conceptual mind."
+    },
+    {
+      "id": "N-A-069",
+      "anchors": [
+        "U00996",
+        "U00997"
+      ],
+      "category": "terminology and syntax",
+      "problem": "The text abbreviates two doctrinal positions and does not repeat the verb of refutation for the first.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-070",
+      "anchors": [
+        "U01006"
+      ],
+      "category": "terminology",
+      "problem": "The active glossary does not establish the Abhidharma compound sems byung. The literal component mapping ordinary mind does not alone name this category.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-071",
+      "anchors": [
+        "U01010"
+      ],
+      "category": "source reading",
+      "problem": "The compact relation between the object, removal of superimposition, and ordinary mind is not fully explicit.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-072",
+      "anchors": [
+        "U01016",
+        "U01017"
+      ],
+      "category": "material supply",
+      "problem": "The awakening orientation of generating ordinary mind is implicit in the Great Vehicle example; the next clause can mean fulfillment or establishment.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-073",
+      "anchors": [
+        "U01033",
+        "U01034"
+      ],
+      "category": "terminology",
+      "problem": "These specialized classifications are not established as whole compounds in the glossary; the assertion about formless states should not be doctrinally harmonized.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-074",
+      "anchors": [
+        "U01036"
+      ],
+      "category": "material supply",
+      "problem": "The subject of newly arising is omitted.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-075",
+      "anchors": [
+        "U01049"
+      ],
+      "category": "source reading",
+      "problem": "The fixed source reads byang chung where the formula would normally have byang chub.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-076",
+      "anchors": [
+        "U01054"
+      ],
+      "category": "material supply",
+      "problem": "The source names a spear structure, whereas the reference substitutes the familiar example of a bundle of reeds.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-077",
+      "anchors": [
+        "U01067"
+      ],
+      "category": "source reading",
+      "problem": "The introduction reads literally along the lines of concerning others’ knowing and is syntactically irregular.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-078",
+      "anchors": [
+        "U01072",
+        "U01073",
+        "U01074",
+        "U01075"
+      ],
+      "category": "source reading",
+      "problem": "Two clauses are repeated verbatim, interrupting the transition to the author’s position; lhag is also awkward in this construction.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-079",
+      "anchors": [
+        "U01077",
+        "U01078",
+        "U01079",
+        "U01080"
+      ],
+      "category": "source reading",
+      "problem": "The division between conditioned activity and the karma portion is compressed; the suffering phrase contains the spelling sdug ’sngal.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-080",
+      "anchors": [
+        "U01083",
+        "U01084"
+      ],
+      "category": "bibliographic uncertainty",
+      "problem": "The Hayagrīva title and segmentation of Vinaya/Designation are uncertain.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-081",
+      "anchors": [
+        "U01098",
+        "U01099"
+      ],
+      "category": "material supply",
+      "problem": "The shared object is implicit, and the following ragged terrain expression reads rang rong rather than an unambiguous familiar spelling.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-082",
+      "anchors": [
+        "U01110"
+      ],
+      "category": "source reading",
+      "problem": "The source reads choice, where the lama/king parallel may suggest instructions, but that would require another reading.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-083",
+      "anchors": [
+        "U01127"
+      ],
+      "category": "source reading",
+      "problem": "The affirmative statement that a visible-life result occurs does not clearly contrast with the following response; a missing negative is possible but unverified.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-084",
+      "anchors": [
+        "U01136"
+      ],
+      "category": "terminology",
+      "problem": "The whole awakening-mind compound has no approved glossary row.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-085",
+      "anchors": [
+        "U01140",
+        "U01141"
+      ],
+      "category": "terminology",
+      "problem": "The paired terms mi chos and lha chos have no approved whole-expression mappings. Literal divine Dharma could misleadingly restrict the latter to gods.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-086",
+      "anchors": [
+        "U01142"
+      ],
+      "category": "source reading",
+      "problem": "As transmitted, the quoted affirmative first line appears to contradict the preceding claim of difference.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-087",
+      "anchors": [
+        "U01151",
+        "U01152"
+      ],
+      "category": "material supply",
+      "problem": "The source quotes only the opening of the second verse line before returning to prose.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-088",
+      "anchors": [
+        "U01155",
+        "U01156",
+        "U01157",
+        "U01160"
+      ],
+      "category": "source reading",
+      "problem": "The passage names ten periods but enumerates three groups of three; its first group names four attainment levels.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-089",
+      "anchors": [
+        "U01165",
+        "U01166",
+        "U01167"
+      ],
+      "category": "bibliographic uncertainty",
+      "problem": "The phrase may name a text, but its identity and the exact division between the cited predictions are unverified.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-090",
+      "anchors": [
+        "U01176",
+        "U01180"
+      ],
+      "category": "source reading",
+      "problem": "The affirmative claim of an exclusive fixed order conflicts with the counterexamples and conclusion; a lost negation is possible but unverified. The abbreviated citation gzhi is also unidentified.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-091",
+      "anchors": [
+        "U01186",
+        "U01187",
+        "U01188"
+      ],
+      "category": "material supply",
+      "problem": "The second twelve omits its unit; the preceding re distributes twelve years over the listed subjects.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-092",
+      "anchors": [
+        "U01205"
+      ],
+      "category": "source reading",
+      "problem": "The text has exhaustion (zad pa), where a familiar formula might have inexhaustible; the syntax connecting this to the wheel of adornment is defective.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-093",
+      "anchors": [
+        "U01213"
+      ],
+      "category": "terminology",
+      "problem": "The glossary’s continuum mapping for rgyud does not name a class of scriptures.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-094",
+      "anchors": [
+        "U01237",
+        "U01238",
+        "U01240"
+      ],
+      "category": "material supply",
+      "problem": "Root is elliptical and byang sems could name either awakening mind or its practitioner; the parallel with practitioners favors the latter.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-095",
+      "anchors": [
+        "U01242"
+      ],
+      "category": "reference divergence",
+      "problem": "The source says fifty fascicles; the rough reference mistakenly says the fifth volume.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-096",
+      "anchors": [
+        "U01258",
+        "U01260"
+      ],
+      "category": "material supply",
+      "problem": "Öden is presented as a birth identity, not explicitly as a realm. The actor and awakening qualifier are implicit.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-097",
+      "anchors": [
+        "U01261",
+        "U01262",
+        "U01263"
+      ],
+      "category": "source reading",
+      "problem": "The first line has a repeated arising phrase and a strained final construction. The aspiration’s first-person subject and the beneficiaries are unexpressed.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-098",
+      "anchors": [
+        "U01276"
+      ],
+      "category": "missing reference",
+      "problem": "The reference is blank and the source gives an abbreviated title gsang bsam whose expansion is not secure.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-099",
+      "anchors": [
+        "U01303",
+        "U01304",
+        "U01305",
+        "U01306"
+      ],
+      "category": "source reading",
+      "problem": "This list is highly compressed. The numbered categories qualify obstacles named only at its end; the first lists examples rather than a single causal narrative.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-100",
+      "anchors": [
+        "U01312",
+        "U01313",
+        "U01320"
+      ],
+      "category": "source reading",
+      "problem": "The expulsion verbs have irregular spellings; the object of not arising is implicit. Later skal chen is transmitted where a great aeon is expected.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-101",
+      "anchors": [
+        "U01327",
+        "U01328",
+        "U01330"
+      ],
+      "category": "terminology",
+      "problem": "The passage uses sprul pa for a nāga’s assumed form; the precise Vinaya classification is not explained here. Vows are implicit in the preceding Uttarakuru clause.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-102",
+      "anchors": [
+        "U01334"
+      ],
+      "category": "source reading",
+      "problem": "The defining phrase is compressed and lacks an explicit ablative after harm and its basis.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-103",
+      "anchors": [
+        "U01335",
+        "U01336",
+        "U01337"
+      ],
+      "category": "terminology and source reading",
+      "problem": "The threefold classification is transmitted irregularly; sd om ma’i appears where a non-vow member is expected. Informative/non-informative form is not established in the glossary.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-104",
+      "anchors": [
+        "U01338",
+        "U01341"
+      ],
+      "category": "material supply",
+      "problem": "The actual rite is implicit, and shā rag is uncertain; the reference’s dried apricot does not fit the water-retaining comparison.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-105",
+      "anchors": [
+        "U01343",
+        "U01344",
+        "U01345"
+      ],
+      "category": "source reading",
+      "problem": "The quotation’s list is not fully intelligible in the transmitted wording; the antecedent of those three is uncertain.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-106",
+      "anchors": [
+        "U01347",
+        "U01348",
+        "U01349"
+      ],
+      "category": "material supply",
+      "problem": "Here de kho na nyid can refer back emphatically to the account just given rather than introduce an abstract doctrine of suchness. The final subject is omitted.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-107",
+      "anchors": [
+        "U01350",
+        "U01351"
+      ],
+      "category": "terminology",
+      "problem": "The four factors belong to an action whose noun is implicit. Gzhi is used for an action basis rather than an ontological Ground.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-108",
+      "anchors": [
+        "U01364",
+        "U01365"
+      ],
+      "category": "terminology",
+      "problem": "Thugs is an honorific address to the hearer, not proof that their mind is already awakened. The next citation stops mid-phrase.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-109",
+      "anchors": [
+        "U01368"
+      ],
+      "category": "source reading",
+      "problem": "Literally a wound in ordinary mind may refer to mental impairment, but the source does not specify the category.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-110",
+      "anchors": [
+        "U01370"
+      ],
+      "category": "bibliographic uncertainty",
+      "problem": "This compressed sequence of Vinaya case references lacks secure name boundaries.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-111",
+      "anchors": [
+        "U01375"
+      ],
+      "category": "source reading",
+      "problem": "The transmitted spong ’dun differs from the seven-abandonments wording in the preceding lines.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-112",
+      "anchors": [
+        "U01379"
+      ],
+      "category": "source reading",
+      "problem": "The source repeats desire with three tshegs between occurrences; the first fragment is syntactically unintegrated.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-113",
+      "anchors": [
+        "U01383",
+        "U01384",
+        "U01385"
+      ],
+      "category": "source abbreviation",
+      "problem": "Three lines are abbreviated with literal x markers; the familiar complete verse is not present in the fixed source.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-114",
+      "anchors": [
+        "U01388",
+        "U01389",
+        "U01390"
+      ],
+      "category": "source abbreviation",
+      "problem": "Three further verse lines end in literal x markers.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-115",
+      "anchors": [
+        "U01394"
+      ],
+      "category": "source reading",
+      "problem": "The pronoun what is attained likely refers to a vow or its restraint, but its antecedent is not explicit.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-116",
+      "anchors": [
+        "U01399",
+        "U01400",
+        "U01401"
+      ],
+      "category": "source reading",
+      "problem": "The monarch example is unidentified and its causal phrase has no clear subject; the preceding bodily-conduct claim is contextually qualified.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-117",
+      "anchors": [
+        "U01405",
+        "U01407"
+      ],
+      "category": "source reading",
+      "problem": "The final verb is gtod (direct/bestow), but the surrounding discussion repeatedly treats these as causes of relinquishment. Mtshan ’das is also an abbreviated expression.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-118",
+      "anchors": [
+        "U01410",
+        "U01411",
+        "U01412",
+        "U01413",
+        "U01414"
+      ],
+      "category": "source reading",
+      "problem": "The line merely says knowing full ordination, with under twenty immediately before it; treating them as separate causes would yield ten, not nine.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-119",
+      "anchors": [
+        "U01416",
+        "U01417",
+        "U01418",
+        "U01419"
+      ],
+      "category": "source reading",
+      "problem": "The text says four possibilities (with irregular spelling) but explicitly lists only three.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-120",
+      "anchors": [
+        "U01429"
+      ],
+      "category": "bibliographic uncertainty",
+      "problem": "The source gives an unusual abbreviated title or section label whose exact identity is unverified.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-121",
+      "anchors": [
+        "U01436"
+      ],
+      "category": "source reading",
+      "problem": "The source again has gtod rather than the expected gtong of relinquishment.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-122",
+      "anchors": [
+        "U01448",
+        "U01449"
+      ],
+      "category": "source reading",
+      "problem": "Both sides of the contrast read impairment; the wealth comparison suggests a missing negative in the second, but that is unverified.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-123",
+      "anchors": [
+        "U01456"
+      ],
+      "category": "source reading",
+      "problem": "The transmitted object is khyon, expanse, rather than an explicit samsara. The opening and following quotation specify nirvana.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-124",
+      "anchors": [
+        "U01465"
+      ],
+      "category": "source reading",
+      "problem": "The hedge expression is irregularly transmitted, and the source’s tree-grove analogy is compressed.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-125",
+      "anchors": [
+        "U01471"
+      ],
+      "category": "proper name",
+      "problem": "The name of this creator figure is not identified securely in the supplied materials.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-126",
+      "anchors": [
+        "U01489"
+      ],
+      "category": "source reading",
+      "problem": "The verb bca’ zhus is irregular and the agent is implicit.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-127",
+      "anchors": [
+        "U01511"
+      ],
+      "category": "source reading",
+      "problem": "The statement can mean equal degrees of fault or that both categories admit greater and lesser degrees.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-128",
+      "anchors": [
+        "U01512",
+        "U01513",
+        "U01514"
+      ],
+      "category": "source reading",
+      "problem": "The name has mi skyes rather than the usual ma skyes, but the named attainment and earlier discussion point to Ajātaśatru. The objection’s syntax and missing object of arising are uncertain.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-129",
+      "anchors": [
+        "U01515"
+      ],
+      "category": "source annotation",
+      "problem": "The label differs from the usual Vajra statement or Supplement labels.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-130",
+      "anchors": [
+        "U01530"
+      ],
+      "category": "source reading",
+      "problem": "Ro normally denotes a corpse, but the water-rescue context may use it for the woman’s body; the source does not establish whether she is alive.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-131",
+      "anchors": [
+        "U01537",
+        "U01539"
+      ],
+      "category": "missing reference",
+      "problem": "The reference is blank for the causal explanation; sa ’on is transmitted where seed is expected. Pham lhag abbreviates two Vinaya offense categories.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-132",
+      "anchors": [
+        "U01554"
+      ],
+      "category": "missing reference",
+      "problem": "The reference is blank for the addressee; nyer ’tsho names the wanderer but the Sanskrit equivalence is not verified against the cited edition.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-133",
+      "anchors": [
+        "U01556",
+        "U01558"
+      ],
+      "category": "source reading",
+      "problem": "The source has an extra ma in the expression for unequaled; the first two lines also run across an electronic line boundary.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-134",
+      "anchors": [
+        "U01560"
+      ],
+      "category": "material supply",
+      "problem": "The second verb is quoted without an explicit object.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-135",
+      "anchors": [
+        "U01569"
+      ],
+      "category": "material supply",
+      "problem": "If it is thus could superficially point to the immediately preceding analogy, but the ensuing reductio targets restriction to followers.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-136",
+      "anchors": [
+        "U01583",
+        "U01584"
+      ],
+      "category": "bibliographic uncertainty",
+      "problem": "The two compact expressions may be abbreviated titles or section labels; their canonical identities are not securely established.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-137",
+      "anchors": [
+        "U01596"
+      ],
+      "category": "source reading",
+      "problem": "Nye zho is an irregular expression here; the preceding argument concerns partiality toward ordained followers.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-138",
+      "anchors": [
+        "U01609"
+      ],
+      "category": "terminology and source reading",
+      "problem": "The formal-act term is transmitted as gsol gzhi rather than the expected gsol bzhi.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-139",
+      "anchors": [
+        "U01625",
+        "U01626"
+      ],
+      "category": "source reading",
+      "problem": "The source reads ’jig, not the attachment term commonly expected in this quotation, and the following linkage is irregular.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-140",
+      "anchors": [
+        "U01634"
+      ],
+      "category": "source reading",
+      "problem": "The source explicitly says hatred is difficult to part from; a familiar parallel may instead say easy.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-141",
+      "anchors": [
+        "U01656",
+        "U01657"
+      ],
+      "category": "material supply",
+      "problem": "The quoted adjective easy has no explicit complement. The surrounding argument concerns duration and difficulty of escape, not ease of obtaining a bad rebirth.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-142",
+      "anchors": [
+        "U01669"
+      ],
+      "category": "source reading",
+      "problem": "The wording rgya chen may reflect an irregular expression for a large number, but does not unambiguously give a numeral.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-143",
+      "anchors": [
+        "U01676",
+        "U01677"
+      ],
+      "category": "source abbreviation",
+      "problem": "Both lines are abbreviated with literal multiplication-sign markers, and the second retains separated fragments.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    },
+    {
+      "id": "N-A-144",
+      "anchors": [
+        "U01678"
+      ],
+      "category": "source abbreviation",
+      "problem": "The source gives only two names followed by an abbreviation mark; the reference supplies two additional names.",
+      "review_action": "Check the reading and interpretation against an authenticated source."
+    }
+  ],
+  "terminology_usage_records": [
+    {
+      "tibetan": "ཀུན་གཞི་",
+      "approved_english": "All-basis",
+      "exact_string_hit_anchors": [
+        "U01537"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རྒྱན་",
+      "approved_english": "Adornment",
+      "exact_string_hit_anchors": [
+        "U00001",
+        "U00010",
+        "U00123",
+        "U00309",
+        "U00412",
+        "U00413",
+        "U00819",
+        "U00908",
+        "U00998",
+        "U01181",
+        "U01205"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "དགག་སྒྲུབ་",
+      "approved_english": "Denying and affirming",
+      "exact_string_hit_anchors": [
+        "U00244",
+        "U00317",
+        "U00335",
+        "U00574",
+        "U01244",
+        "U01281",
+        "U01286",
+        "U01493",
+        "U01661"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྒྲོ་འདོགས་",
+      "approved_english": "Superimposition",
+      "exact_string_hit_anchors": [
+        "U01010"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ཆོས་སྐུ་",
+      "approved_english": "Dharma embodiment",
+      "exact_string_hit_anchors": [
+        "U00123",
+        "U00450"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ཆོས་ཉིད་",
+      "approved_english": "Nature of phenomena",
+      "exact_string_hit_anchors": [
+        "U00639",
+        "U00662"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རྗེས་ཐོབ་",
+      "approved_english": "Post-cultivation attainment",
+      "exact_string_hit_anchors": [
+        "U00056"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "གཉིས་འཛིན་",
+      "approved_english": "Dualistic grasping",
+      "exact_string_hit_anchors": [
+        "U00237"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རང་བཞིན་",
+      "approved_english": "Intrinsic nature",
+      "exact_string_hit_anchors": [
+        "U00054",
+        "U00075",
+        "U00080",
+        "U00151",
+        "U00434",
+        "U00454",
+        "U00581",
+        "U00586",
+        "U00828",
+        "U00839",
+        "U00932",
+        "U01115",
+        "U01301",
+        "U01328",
+        "U01463",
+        "U01465",
+        "U01466",
+        "U01468",
+        "U01475",
+        "U01477",
+        "U01500",
+        "U01523"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རྟོག་",
+      "approved_english": "Conceptualizing",
+      "exact_string_hit_anchors": [
+        "U00004",
+        "U00036",
+        "U00260",
+        "U00422",
+        "U00557",
+        "U00588",
+        "U00846",
+        "U00987",
+        "U00988",
+        "U01011",
+        "U01028",
+        "U01077",
+        "U01081"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རྟོག་པ་",
+      "approved_english": "Conceptual thought",
+      "exact_string_hit_anchors": [
+        "U00422",
+        "U00988",
+        "U01028",
+        "U01077",
+        "U01081"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྟོང་པ་",
+      "approved_english": "Emptiness",
+      "exact_string_hit_anchors": [
+        "U00089",
+        "U00099",
+        "U00102",
+        "U00165",
+        "U00221",
+        "U00363",
+        "U00379",
+        "U00563",
+        "U00662",
+        "U00673"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "འདུ་ཤེས་",
+      "approved_english": "Perception",
+      "exact_string_hit_anchors": [
+        "U00237",
+        "U00917",
+        "U00921",
+        "U01351",
+        "U01369",
+        "U01432",
+        "U01464"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ནམ་མཁའ་",
+      "approved_english": "Space",
+      "exact_string_hit_anchors": [
+        "U00466",
+        "U00649",
+        "U00827"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "གནས་པ་",
+      "approved_english": "Abiding",
+      "exact_string_hit_anchors": [
+        "U01537"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "གནས་ལུགས་",
+      "approved_english": "Natural state",
+      "exact_string_hit_anchors": [
+        "U00078",
+        "U00083",
+        "U00084",
+        "U01086"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རྣམ་པ་",
+      "approved_english": "Aspect",
+      "exact_string_hit_anchors": [
+        "U00164",
+        "U00214",
+        "U00283",
+        "U00513",
+        "U01093",
+        "U01340"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རྣམ་ཤེས་",
+      "approved_english": "Consciousness",
+      "exact_string_hit_anchors": [
+        "U00440"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྣང་བ་",
+      "approved_english": "Appearance",
+      "exact_string_hit_anchors": [
+        "U00089",
+        "U00149",
+        "U00465",
+        "U00645",
+        "U01087",
+        "U01090",
+        "U01317"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྤང་བླང་",
+      "approved_english": "Rejecting and accepting",
+      "exact_string_hit_anchors": [
+        "U01518",
+        "U01638"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྤྲོས་བྲལ་",
+      "approved_english": "Free from conceptual elaborations",
+      "exact_string_hit_anchors": [
+        "U00013",
+        "U00217",
+        "U00433"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "བག་ཆགས་",
+      "approved_english": "Habitual tendencies",
+      "exact_string_hit_anchors": [
+        "U00155",
+        "U00241",
+        "U01027",
+        "U01089",
+        "U01436"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "བློ་",
+      "approved_english": "Conceptual mind",
+      "exact_string_hit_anchors": [
+        "U00001",
+        "U00010",
+        "U00023",
+        "U00027",
+        "U00094",
+        "U00137",
+        "U00269",
+        "U00553",
+        "U00570",
+        "U00595",
+        "U00829",
+        "U00837",
+        "U00967"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "མ་རིག་པ་",
+      "approved_english": "Ignorance",
+      "exact_string_hit_anchors": [
+        "U00532",
+        "U00981",
+        "U01052",
+        "U01055",
+        "U01061",
+        "U01065"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "མིང་",
+      "approved_english": "Name",
+      "exact_string_hit_anchors": [
+        "U01509",
+        "U01595"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "མངོན་སུམ་",
+      "approved_english": "Direct perception",
+      "exact_string_hit_anchors": [
+        "U00559",
+        "U00572",
+        "U00594",
+        "U01137",
+        "U01396"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "འཛིན་པ་",
+      "approved_english": "Apprehending subject",
+      "exact_string_hit_anchors": [
+        "U00313",
+        "U00602",
+        "U00640"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ཡིད་",
+      "approved_english": "Mental faculty",
+      "exact_string_hit_anchors": [
+        "U00018",
+        "U00030",
+        "U00572",
+        "U00573",
+        "U00607",
+        "U00767",
+        "U00807",
+        "U01034",
+        "U01372",
+        "U01374",
+        "U01376",
+        "U01389",
+        "U01392",
+        "U01394",
+        "U01399",
+        "U01402",
+        "U01454"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ཡེ་ཤེས་",
+      "approved_english": "Primordial knowing",
+      "exact_string_hit_anchors": [
+        "U00055",
+        "U00060",
+        "U00082",
+        "U00114",
+        "U00348",
+        "U00517",
+        "U00539",
+        "U00541",
+        "U00555",
+        "U00963",
+        "U01063",
+        "U01177",
+        "U01277",
+        "U01283",
+        "U01284",
+        "U01288",
+        "U01300",
+        "U01469",
+        "U01487",
+        "U01520"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རང་སངས་",
+      "approved_english": "Self-purified",
+      "exact_string_hit_anchors": [
+        "U00953"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རིག་པ་",
+      "approved_english": "Awareness",
+      "exact_string_hit_anchors": [
+        "U00350",
+        "U00532",
+        "U00981",
+        "U01052",
+        "U01055",
+        "U01061",
+        "U01065"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རོལ་པ་",
+      "approved_english": "Play",
+      "exact_string_hit_anchors": [
+        "U00676",
+        "U00684",
+        "U00688",
+        "U00882"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རླུང་",
+      "approved_english": "Wind",
+      "exact_string_hit_anchors": [
+        "U00146",
+        "U00743",
+        "U00745"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ལུང་མ་བསྟན་",
+      "approved_english": "Stagnant neutrality",
+      "exact_string_hit_anchors": [
+        "U00674",
+        "U00827",
+        "U00971",
+        "U00973",
+        "U00981",
+        "U00985"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ལྟ་བ་",
+      "approved_english": "View",
+      "exact_string_hit_anchors": [
+        "U00055",
+        "U00058",
+        "U00108",
+        "U00341",
+        "U00596",
+        "U00666",
+        "U00673",
+        "U01098",
+        "U01285"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྒོམ་པ་",
+      "approved_english": "Cultivation",
+      "exact_string_hit_anchors": [
+        "U00661",
+        "U00884",
+        "U01188"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྤྱོད་པ་",
+      "approved_english": "Activity",
+      "exact_string_hit_anchors": [
+        "U00180",
+        "U00666",
+        "U00675",
+        "U00686",
+        "U00692",
+        "U01078",
+        "U01267"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "འབྲས་བུ་",
+      "approved_english": "Result",
+      "exact_string_hit_anchors": [
+        "U00109",
+        "U00133",
+        "U00236",
+        "U00279",
+        "U00321",
+        "U00326",
+        "U00393",
+        "U00395",
+        "U00498",
+        "U00516",
+        "U00558",
+        "U00563",
+        "U00593",
+        "U00686",
+        "U00694",
+        "U00710",
+        "U00711",
+        "U00740",
+        "U00753",
+        "U00810",
+        "U00853",
+        "U00939",
+        "U01051",
+        "U01053",
+        "U01157",
+        "U01161",
+        "U01163",
+        "U01224",
+        "U01309",
+        "U01319",
+        "U01329",
+        "U01330",
+        "U01360",
+        "U01362",
+        "U01433",
+        "U01526",
+        "U01639",
+        "U01666"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ལྷུན་གྲུབ་",
+      "approved_english": "Spontaneous presence",
+      "exact_string_hit_anchors": [
+        "U00391"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ཤེས་པ་",
+      "approved_english": "Knowing",
+      "exact_string_hit_anchors": [
+        "U00258",
+        "U00551",
+        "U00552",
+        "U00555",
+        "U00844",
+        "U01139",
+        "U01622"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སེམས་",
+      "approved_english": "Ordinary mind",
+      "exact_string_hit_anchors": [
+        "U00079",
+        "U00133",
+        "U00191",
+        "U00202",
+        "U00241",
+        "U00320",
+        "U00389",
+        "U00406",
+        "U00410",
+        "U00411",
+        "U00415",
+        "U00416",
+        "U00417",
+        "U00420",
+        "U00428",
+        "U00432",
+        "U00433",
+        "U00434",
+        "U00440",
+        "U00445",
+        "U00448",
+        "U00456",
+        "U00469",
+        "U00490",
+        "U00595",
+        "U00598",
+        "U00694",
+        "U00695",
+        "U00698",
+        "U00703",
+        "U00705",
+        "U00707",
+        "U00728",
+        "U00733",
+        "U00779",
+        "U00789",
+        "U00794",
+        "U00801",
+        "U00802",
+        "U00839",
+        "U00879",
+        "U00884",
+        "U00912",
+        "U00913",
+        "U00919",
+        "U00920",
+        "U00943",
+        "U00955",
+        "U00960",
+        "U00992",
+        "U00993",
+        "U00997",
+        "U01006",
+        "U01010",
+        "U01012",
+        "U01013",
+        "U01014",
+        "U01016",
+        "U01017",
+        "U01018",
+        "U01019",
+        "U01023",
+        "U01060",
+        "U01087",
+        "U01095",
+        "U01121",
+        "U01136",
+        "U01195",
+        "U01237",
+        "U01248",
+        "U01258",
+        "U01264",
+        "U01352",
+        "U01355",
+        "U01356",
+        "U01365",
+        "U01368",
+        "U01374",
+        "U01380",
+        "U01421",
+        "U01472",
+        "U01491",
+        "U01507",
+        "U01525",
+        "U01552",
+        "U01557",
+        "U01590",
+        "U01630",
+        "U01656",
+        "U01664",
+        "U01666"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "གཞི་",
+      "approved_english": "The Ground",
+      "exact_string_hit_anchors": [
+        "U00198",
+        "U00253",
+        "U00336",
+        "U00753",
+        "U00853",
+        "U00859",
+        "U00875",
+        "U00950",
+        "U01006",
+        "U01027",
+        "U01038",
+        "U01077",
+        "U01102",
+        "U01180",
+        "U01198",
+        "U01232",
+        "U01259",
+        "U01310",
+        "U01334",
+        "U01338",
+        "U01350",
+        "U01429",
+        "U01537",
+        "U01584",
+        "U01588",
+        "U01602"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "གཞལ་བྱ་",
+      "approved_english": "Object of comprehension",
+      "exact_string_hit_anchors": [
+        "U00564"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རྩེ་གཅིག་",
+      "approved_english": "One-pointedness",
+      "exact_string_hit_anchors": [
+        "U00013"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "འོད་གསལ་",
+      "approved_english": "Clear light",
+      "exact_string_hit_anchors": [
+        "U00054",
+        "U00434",
+        "U00839"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "གསལ་བ་",
+      "approved_english": "Clarity",
+      "exact_string_hit_anchors": [
+        "U00250",
+        "U00434",
+        "U00662"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ངོ་བོ་",
+      "approved_english": "Essence",
+      "exact_string_hit_anchors": [
+        "U00076",
+        "U00255",
+        "U00265",
+        "U00819",
+        "U00822",
+        "U00886",
+        "U00959",
+        "U01334",
+        "U01335"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "དྲན་པ་",
+      "approved_english": "Mindfulness",
+      "exact_string_hit_anchors": [
+        "U00069",
+        "U00850",
+        "U00865",
+        "U00868",
+        "U00870",
+        "U00871",
+        "U00872",
+        "U01655"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "འཕྲོ་",
+      "approved_english": "Proliferation",
+      "exact_string_hit_anchors": [
+        "U00591",
+        "U00900"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ཞི་གནས་",
+      "approved_english": "Calm abiding",
+      "exact_string_hit_anchors": [
+        "U00875",
+        "U01174"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ལྷག་མཐོང་",
+      "approved_english": "Special insight",
+      "exact_string_hit_anchors": [
+        "U01174"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ཉམས་",
+      "approved_english": "Experience",
+      "exact_string_hit_anchors": [
+        "U00169",
+        "U00184",
+        "U00271",
+        "U00375",
+        "U00739",
+        "U00740",
+        "U00749",
+        "U00793",
+        "U00803",
+        "U00822",
+        "U00823",
+        "U00872",
+        "U01162",
+        "U01190",
+        "U01200",
+        "U01227",
+        "U01245",
+        "U01281",
+        "U01288",
+        "U01293",
+        "U01416",
+        "U01417",
+        "U01418",
+        "U01445",
+        "U01448",
+        "U01449",
+        "U01533",
+        "U01534",
+        "U01538",
+        "U01660",
+        "U01663"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "དགོངས་པ་",
+      "approved_english": "Enlightened intent",
+      "exact_string_hit_anchors": [
+        "U00001",
+        "U00022",
+        "U00030",
+        "U00371",
+        "U00387",
+        "U00408",
+        "U00966",
+        "U01200"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "བྱིན་རླབས་",
+      "approved_english": "Blessing",
+      "exact_string_hit_anchors": [
+        "U00497"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "དད་པ་",
+      "approved_english": "Faith",
+      "exact_string_hit_anchors": [
+        "U00232"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "དབང་བཞི་",
+      "approved_english": "Four empowerments",
+      "exact_string_hit_anchors": [
+        "U00717"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ཐུགས་རྗེ་",
+      "approved_english": "Compassionate responsiveness",
+      "exact_string_hit_anchors": [
+        "U00401",
+        "U00405",
+        "U00958"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "གདངས་",
+      "approved_english": "Radiance",
+      "exact_string_hit_anchors": [
+        "U00500"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྒོམ་མེད་",
+      "approved_english": "Non-cultivation",
+      "exact_string_hit_anchors": [
+        "U00014"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རྒྱུད་",
+      "approved_english": "Continuum",
+      "exact_string_hit_anchors": [
+        "U00001",
+        "U00016",
+        "U00065",
+        "U00160",
+        "U00184",
+        "U00186",
+        "U00241",
+        "U00298",
+        "U00299",
+        "U00357",
+        "U00412",
+        "U00426",
+        "U00427",
+        "U00601",
+        "U00627",
+        "U00632",
+        "U00633",
+        "U00712",
+        "U00806",
+        "U00834",
+        "U00899",
+        "U00950",
+        "U01005",
+        "U01213"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྒྲ་",
+      "approved_english": "Word",
+      "exact_string_hit_anchors": [
+        "U00001",
+        "U00036",
+        "U00385",
+        "U00386",
+        "U00438",
+        "U01241",
+        "U01260",
+        "U01303",
+        "U01327"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "དོན་",
+      "approved_english": "Meaning",
+      "exact_string_hit_anchors": [
+        "U00001",
+        "U00016",
+        "U00020",
+        "U00024",
+        "U00031",
+        "U00032",
+        "U00034",
+        "U00035",
+        "U00066",
+        "U00133",
+        "U00144",
+        "U00145",
+        "U00147",
+        "U00160",
+        "U00215",
+        "U00224",
+        "U00227",
+        "U00246",
+        "U00249",
+        "U00283",
+        "U00292",
+        "U00294",
+        "U00298",
+        "U00300",
+        "U00301",
+        "U00317",
+        "U00331",
+        "U00352",
+        "U00356",
+        "U00359",
+        "U00361",
+        "U00371",
+        "U00373",
+        "U00375",
+        "U00376",
+        "U00378",
+        "U00383",
+        "U00386",
+        "U00387",
+        "U00392",
+        "U00395",
+        "U00396",
+        "U00406",
+        "U00408",
+        "U00417",
+        "U00448",
+        "U00449",
+        "U00450",
+        "U00451",
+        "U00453",
+        "U00463",
+        "U00477",
+        "U00538",
+        "U00552",
+        "U00553",
+        "U00570",
+        "U00576",
+        "U00597",
+        "U00609",
+        "U00614",
+        "U00615",
+        "U00694",
+        "U00696",
+        "U00706",
+        "U00742",
+        "U00800",
+        "U00803",
+        "U00808",
+        "U00825",
+        "U00865",
+        "U00878",
+        "U00883",
+        "U00913",
+        "U00995",
+        "U01008",
+        "U01010",
+        "U01045",
+        "U01088",
+        "U01146",
+        "U01153",
+        "U01196",
+        "U01210",
+        "U01218",
+        "U01241",
+        "U01280",
+        "U01306",
+        "U01508",
+        "U01551",
+        "U01552",
+        "U01637",
+        "U01644"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྒྲ་དོན་",
+      "approved_english": "Word and meaning",
+      "exact_string_hit_anchors": [
+        "U01241"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "རྟོགས་པ་",
+      "approved_english": "Realization",
+      "exact_string_hit_anchors": [
+        "U00061",
+        "U00215",
+        "U00221",
+        "U00420",
+        "U00461",
+        "U00499",
+        "U00662"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "བྱ་བ་",
+      "approved_english": "Doing",
+      "exact_string_hit_anchors": [
+        "U00001",
+        "U00150",
+        "U00687",
+        "U00817",
+        "U00928",
+        "U00973",
+        "U01119",
+        "U01243",
+        "U01293",
+        "U01482",
+        "U01506",
+        "U01606"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ཤེས་རབ་",
+      "approved_english": "Discerning knowing",
+      "exact_string_hit_anchors": [
+        "U00190",
+        "U00218",
+        "U00263",
+        "U00449",
+        "U00477",
+        "U01061",
+        "U01159",
+        "U01183",
+        "U01185",
+        "U01381"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྤྲུལ་པའི་སྐུ་",
+      "approved_english": "Emanation embodiment",
+      "exact_string_hit_anchors": [
+        "U00016"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྐུ་",
+      "approved_english": "Embodiment",
+      "exact_string_hit_anchors": [
+        "U00016",
+        "U00123",
+        "U00415",
+        "U00450",
+        "U00589",
+        "U00900",
+        "U01205"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "ཐོབ་",
+      "approved_english": "Attainment",
+      "exact_string_hit_anchors": [
+        "U00056",
+        "U00068",
+        "U00159",
+        "U00185",
+        "U00190",
+        "U00238",
+        "U00326",
+        "U00380",
+        "U00460",
+        "U00492",
+        "U00493",
+        "U00550",
+        "U00554",
+        "U00638",
+        "U00741",
+        "U00753",
+        "U00754",
+        "U00759",
+        "U00761",
+        "U00810",
+        "U00867",
+        "U00875",
+        "U00947",
+        "U00954",
+        "U00956",
+        "U01062",
+        "U01110",
+        "U01157",
+        "U01163",
+        "U01168",
+        "U01172",
+        "U01178",
+        "U01258",
+        "U01262",
+        "U01305",
+        "U01319",
+        "U01329",
+        "U01330",
+        "U01394",
+        "U01453",
+        "U01514",
+        "U01589",
+        "U01600",
+        "U01659",
+        "U01660"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    },
+    {
+      "tibetan": "སྣང་",
+      "approved_english": "Appearance",
+      "exact_string_hit_anchors": [
+        "U00089",
+        "U00149",
+        "U00176",
+        "U00246",
+        "U00450",
+        "U00465",
+        "U00645",
+        "U00666",
+        "U01039",
+        "U01087",
+        "U01090",
+        "U01094",
+        "U01095",
+        "U01317"
+      ],
+      "metadata_read": true,
+      "review": "Inflected and compound uses considered in context; string hits alone are not a semantic conformity certificate."
+    }
+  ],
+  "proposed_glossary_rows": [
+    {
+      "Tibetan": "སྒྲ་",
+      "English": "Sound",
+      "Meaning and scope": "Acoustic sound in literary title imagery.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "Word remains governing for linguistic words; acoustic use only.",
+      "Related entries": "Existing Word entry",
+      "Rationale and sources": "U00001; N-A-001; avoids misleading drum-word.",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "རྒྱུད་སྡེ་",
+      "English": "Tantra classes",
+      "Meaning and scope": "Classes of tantric scripture, not a sentient continuum.",
+      "Allowed grammatical forms": "tantra; tantras when text titles/classes are explicit",
+      "Contextual exceptions": "",
+      "Related entries": "Continuum",
+      "Rationale and sources": "N-A-003; N-A-093",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "ཐུགས་",
+      "English": "Awakened mind",
+      "Meaning and scope": "Honorific Buddha/guru mental activity.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "Honorific address to an unawakened hearer may require mind, not awakened mind; N-A-108.",
+      "Related entries": "Ordinary mind; Mental faculty; Enlightened intent",
+      "Rationale and sources": "N-A-006; N-A-108",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "ཐུགས་བསྐྱེད་",
+      "English": "Awakening intention",
+      "Meaning and scope": "Honorific generation of the intention to awaken.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "Ordinary mind of awakening",
+      "Rationale and sources": "N-A-010",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "གཞི་",
+      "English": "Basis",
+      "Meaning and scope": "Support, ethical action basis, or ordinary analogy; not ontological Ground.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "Do not alter The Ground in its established ontological scope.",
+      "Related entries": "The Ground",
+      "Rationale and sources": "N-A-018; N-A-070; N-A-107",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "སེམས་ཙམ་",
+      "English": "Ordinary Mind Only",
+      "Meaning and scope": "Name of the philosophical school or system.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "Ordinary mind",
+      "Rationale and sources": "N-A-031; N-A-069",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "སྙིང་རྗེ་",
+      "English": "Compassion",
+      "Meaning and scope": "Concern for suffering beings.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "Keep distinct from thugs rje.",
+      "Related entries": "Compassionate responsiveness",
+      "Rationale and sources": "N-A-048",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "བྱང་ཆུབ་སེམས་",
+      "English": "Ordinary mind of awakening",
+      "Meaning and scope": "The awakening intention; includes genitival byang chub kyi sems.",
+      "Allowed grammatical forms": "ordinary mind [of awakening] when the qualifier is materially supplied",
+      "Contextual exceptions": "",
+      "Related entries": "Ordinary mind",
+      "Rationale and sources": "N-A-054; N-A-084",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "བྱང་ཆུབ་སེམས་དཔའ་",
+      "English": "Bodhisattva",
+      "Meaning and scope": "Whole-expression practitioner name, including byang sems where context denotes a person.",
+      "Allowed grammatical forms": "bodhisattvas",
+      "Contextual exceptions": "",
+      "Related entries": "Ordinary mind of awakening",
+      "Rationale and sources": "N-A-054; N-A-094",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "ལྷའི་ང་རྒྱལ་",
+      "English": "Divine identity",
+      "Meaning and scope": "Tantric deity identification rather than ordinary conceit.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "",
+      "Rationale and sources": "N-A-057",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "སེམས་བྱུང་",
+      "English": "Mental factor",
+      "Meaning and scope": "Abhidharma factor associated with ordinary mind.",
+      "Allowed grammatical forms": "mental factors",
+      "Contextual exceptions": "",
+      "Related entries": "Ordinary mind",
+      "Rationale and sources": "N-A-070",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "རྣམ་པར་རིག་བྱེད་མིན་པའི་གཟུགས་",
+      "English": "Non-informative form",
+      "Meaning and scope": "Abhidharma avijñapti form in the Vinaya vow analysis; contracted source variants present.",
+      "Allowed grammatical forms": "non-informative",
+      "Contextual exceptions": "",
+      "Related entries": "Informative form",
+      "Rationale and sources": "N-A-073; N-A-103",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "རྣམ་པར་རིག་བྱེད་",
+      "English": "Informative",
+      "Meaning and scope": "Abhidharma vijñapti, particularly informative form.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "Non-informative form",
+      "Rationale and sources": "U01338; N-A-103",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "ཡིད་ལུས་",
+      "English": "Mental-faculty body",
+      "Meaning and scope": "Body described in the intermediate state.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "Mental faculty; Intermediate state",
+      "Rationale and sources": "N-A-073",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "མི་ཆོས་",
+      "English": "Human principles",
+      "Meaning and scope": "The sixteen ethical principles discussed in relation to the three vows.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "Spiritual Dharma",
+      "Rationale and sources": "N-A-085",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "ལྷ་ཆོས་",
+      "English": "Spiritual Dharma",
+      "Meaning and scope": "Religious Dharma contrasted with human principles; not confined to gods.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "Human principles",
+      "Rationale and sources": "N-A-085",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "བསྐྱེད་རིམ་",
+      "English": "Generation stage",
+      "Meaning and scope": "Tantric practice stage.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "Completion stage",
+      "Rationale and sources": "N-A-091",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "རྫོགས་རིམ་",
+      "English": "Completion stage",
+      "Meaning and scope": "Tantric practice stage.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "Generation stage",
+      "Rationale and sources": "N-A-091",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "སྦྱོར་དྲུག་",
+      "English": "Six applications",
+      "Meaning and scope": "Sixfold tantric practice classification; exact system is not expanded in passage.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "",
+      "Related entries": "",
+      "Rationale and sources": "N-A-091",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "སོ་སོར་ཐར་པ་",
+      "English": "Individual liberation",
+      "Meaning and scope": "Prātimokṣa including abbreviated so thar.",
+      "Allowed grammatical forms": "vows of individual liberation",
+      "Contextual exceptions": "",
+      "Related entries": "",
+      "Rationale and sources": "U01241–U01246; U01685",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "ལུང་མ་བསྟན་",
+      "English": "Unanswered",
+      "Meaning and scope": "Questions left unanswered, distinct from meditative or ethical neutrality.",
+      "Allowed grammatical forms": "",
+      "Contextual exceptions": "Only in the explicit unanswered-question context; ethical neutrality retained as Stagnant neutrality in this draft.",
+      "Related entries": "Stagnant neutrality",
+      "Rationale and sources": "N-A-052",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    },
+    {
+      "Tibetan": "དྲན་པ་",
+      "English": "Remembering",
+      "Meaning and scope": "Ordinary episodic remembering, distinguished from technical mindfulness.",
+      "Allowed grammatical forms": "remember; remembers; remembered",
+      "Contextual exceptions": "Mindfulness remains established for technical practice.",
+      "Related entries": "Mindfulness",
+      "Rationale and sources": "N-A-007",
+      "Status and open questions": "PROPOSED ONLY; requires explicit approval; active glossary unchanged."
+    }
+  ],
+  "notes": [
+    "Draft is complete in coverage, not independently certified semantic accuracy. All 144 notes require appropriate editorial/terminology review before final certification.",
+    "pairs.jsonl is authoritative. Batch authoring scripts are historical scratch and predate final targeted corrections; do not rerun them to regenerate the draft.",
+    "No repository files were edited or commits/pushes performed by this agent; coordinator owns canonical integration.",
+    "Local basis, honorific mind, tantra, and other provisional treatments do not alter the active glossary."
+  ],
+  "source_identity_check": {
+    "working_source_equals_fixed_tag": true,
+    "sha256": "ddb439d5b19b183de834e5d354415855833125db45b58601db0801a74f2985f5"
+  }
+}

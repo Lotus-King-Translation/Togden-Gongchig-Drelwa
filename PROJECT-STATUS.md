@@ -1,18 +1,18 @@
 # Project status
 
 - Work: Togden Rinpoche's Gongchig commentary; work code TGD.
-- Phase: provisional source fixed; whole-text translation in progress.
-- Governing transcript: archived root/001.txt, upstream 063eb57bc01767fe1a33d8db50074ca936086f56.
-- Golden edition: skipped by explicit owner instruction D01; no physical witness authenticated.
-- Source items registered: 9; fixed anchors: 4,499; English reference entries: 4,482 present, 17 blank.
-- Source reconciliation: all 4,499 UUIDs aligned; 13 outer-whitespace differences and 2 residual PO/raw differences recorded.
-- Translation draft snapshot: 4,252/4,499 source anchors represented in new English; 247 remaining. Translator self-checks: B complete; A/C reports pending.
-- Paired reading structure: 1,176 draft pairs including explicit unprocessed placeholders; no released pair IDs yet.
-- Textual emendations/restorations: 0. Scan checks required by this scope: 0; performed: 0.
-- Full scan proofreading: false; exhaustive witness collation: false; independent translation QC: false.
-- Deliverables complete: archival intake, source register, anchored input. Remaining: paired structure, annotated translation, coverage/usage/proposals, validation, draft release.
-- Finite task: translate U00001–U04499 as one complete working draft under standard v2.0.
-- Working partitions: U00001–U01685; U01686–U03196; U03197–U04499. These are not separate chapter releases.
-- Unresolved source: PO/raw differences U00176 and U01173; original placeholders retained. See source/PROVENANCE.md.
-
-- Validation: source/archive verification and 26 positive/corruption tests pass; final-mode gate remains closed while coverage is incomplete.
+- Phase: complete annotated working translation, v0.1.0.
+- Governing source: provisional-source-v0.1.0, commit 8d7a583020ffc3dee6a4e56f6cecc35a18e09436.
+- Golden edition: skipped by explicit owner decision D01; no physical witness authenticated.
+- Registered originals: 9; fixed source anchors: 4,499; represented: 4,499; unprocessed: 0.
+- Paired reading: 970 pairs — 718 prose, 248 verse, 1 h1, 1 h2, 2 h3.
+- English reference gaps: all 17 addressed from Tibetan. Closing material and compiler's colophon included.
+- Textual emendations/restorations: 0. Original x/×/✖ marks at 29 anchors remain visible and annotated.
+- Translator self-checks: A/B/C complete. Independent semantic QC: not performed.
+- Review notes: 350. Range-specific proposed terminology rows: 61; active glossary unchanged at 222 rows.
+- Required translation/assembly queues: closed. Unresolved source and terminology decisions remain explicit in translations/notes.json and translations/proposals/.
+- Validation: exact pinned-source preservation, ordered coverage, note agreement and final-mode checks pass; 26 tests pass; tooling audit V1–V4 closed; publication rebuild reproduces exactly.
+- Full scan proofreading: false; exhaustive witness collation: false; targeted scan checks required/performed: 0/0.
+- Deliverable groups: source, paired translation, notes, coverage, usage/proposals, reports and reading projections complete.
+- Release versions: annotated-working-draft-v0.1.0 and paired-v0.1.0; remote verification belongs in translations/receipts/ after tagging.
+- Next finite task, on a future review request: independent semantic QC of U00001–U00069 against the fixed draft and active glossary. Not started.

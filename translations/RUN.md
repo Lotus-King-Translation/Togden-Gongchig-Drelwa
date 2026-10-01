@@ -12,7 +12,7 @@
 - Translation production: three Codex agent ranges, with coordinator assembly and validation. This is an LLM working translation.
 - Human reference: original English PO credits Mikko Kotila (2024) and Tenzin Norgyal (2025). The reference is retained unchanged and is not treated as source authority.
 - Missing context: no authenticated physical exemplar, scans, verified citation editions, or separately approved new terminology. Source defects and provisional usages require source-linked annotations.
-- Current coverage: see PROJECT-STATUS.md and coverage.json; unprocessed placeholders never count as translated.
+- Completed coverage: 4,499/4,499 source anchors, 970 coherent pairs, 350 notes; no unprocessed units. All three translator self-checks complete.
 - Checks: translator terminology/grammar self-checks, targeted coordination checks, exact source/reference reconstruction, pair/coverage/note validation, negative corruption tests and reproducible projections.
 - Independent whole-text semantic QC: not performed. No human certification or final human editorial approval is claimed.
 

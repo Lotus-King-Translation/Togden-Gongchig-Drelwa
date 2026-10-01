@@ -114,7 +114,7 @@ First: the meaning of the title
 རྡོ་རྗེ་རིན་ཆེན་ལྟར་དཀོན་པས་ན་
 རྡོ་རྗེ་སྟེ་དེ་ལྟ་བུའི་གསུང་གི་གཞུང་ཚིག་འབྲུ་བརྒྱ་ལྔ་བཅུ་ང་གཉིས་པ་དང་ལྷན་ཐབས་ཞེ་བདུན་པ་ཞེས་བྱ་བ།
 
-“Vajra”: the illustrative vajra signifies the vajra of the meaning illustrated. It is profound, being difficult to realize through words and conceptualizing; other erroneous views cannot overcome it. Its emptiness is indivisible, and it is rare like a precious vajra. Thus it is called “vajra”: the text of such utterances, the one hundred and fifty-two statements together with forty-seven supplements.[^N-A-004]
+“Vajra”: the illustrative vajra signifies the vajra of the meaning illustrated. It is profound, being difficult to realize through words and conceptualizing; other erroneous views cannot overcome it. Its emptiness is indivisible, and it is rare like a precious vajra. Thus it is called “vajra”: the text of such utterances, the one hundred and fifty-two statements together with forty-seven supplements.
 
 <!-- TGD-000040 -->
 
@@ -901,7 +901,7 @@ And the Golden Light says, “The teacher of truth does not deceive,” and ther
 ཐོགས་མེད་སྐུ་མཆེད་ཀྱིས་སེམས་ཙམ་གྱི་དགོངས་འགྲེལ་མངོན་པ་གོང་འོག་ལྟ་བུ་
 མདོར་ན་བཀའ་བསྟན་གང་གི་སྒོ་ནས་བརྟགས་ཚེ་དབུ་སེམས་ཐ་དད་ཡིན་ཟེར་རོ། །
 
-Vajra statement. Others say that the great vehicle’s Middle Way and Ordinary-Mind-Only systems have distinct Buddha-word: the Perfection teachings, and the four Ordinary-Mind-Only sūtras such as the Avataṃsaka. Likewise, among treatises Maitreya composed the Ornament of Manifest Realization and Supreme Continuum for the first, and the Ornament and the two Distinctions for the second. The noble father and son composed the reasoning collections explaining the enlightened intent of the Middle Way, while Asaṅga and his brother composed explanations of the enlightened intent of Ordinary Mind Only, such as the higher and lower Abhidharma. In brief, examined through either Buddha-word or treatise, Middle Way and Ordinary Mind Only are distinct.[^N-A-031]
+Vajra statement. Others say that the great vehicle’s Middle Way and Ordinary-Mind-Only systems have distinct Buddha-word: the Perfection teachings, and the four Ordinary-Mind-Only sūtras such as the Avataṃsaka. Likewise, among treatises Maitreya composed the Adornment of Manifest Realization and Supreme Continuum for the first, and the Adornment and the two Distinctions for the second. The noble father and son composed the reasoning collections explaining the enlightened intent of the Middle Way, while Asaṅga and his brother composed explanations of the enlightened intent of Ordinary Mind Only, such as the higher and lower Abhidharma. In brief, examined through either Buddha-word or treatise, Middle Way and Ordinary Mind Only are distinct.[^N-A-031]
 
 <!-- TGD-000417 -->
 
@@ -1486,7 +1486,7 @@ Why would compassionate people become weary?<br>
 Through the power of the ordinary mind of awakening,<br>
 They exhaust past wrongdoing<br>
 And gather an ocean of merit;<br>
-Thus they are said to surpass the śrāvakas.[^N-A-054]
+Thus they are said to surpass the śrāvakas.
 
 <!-- TGD-000702 -->
 
@@ -1498,14 +1498,14 @@ Thus they are said to surpass the śrāvakas.[^N-A-054]
 Mounting the horse of the ordinary mind of awakening,<br>
 Which dispels every weariness,<br>
 And traveling from happiness to happiness,<br>
-What discerning person would lose heart?[^N-A-055][^N-A-054]
+What discerning person would lose heart?[^N-A-055]
 
 <!-- TGD-000706 -->
 
 ཞེས་གསུངས་པ་འཞིན་སྙིང་རྗེས་གཞན་དོན་ཕྱིར་དུ་
 བྱང་ཆུབ་འདོད་པའི་སེམས་བསྐྱེད་ཀྱིས་འབྱེད་པ་ལས་གཞན་གྱིས་མིན་ནོ།
 
-As stated there, the distinction is made solely through compassionately generating the ordinary mind that wishes for awakening for others’ sake, and through nothing else.[^N-A-054]
+As stated there, the distinction is made solely through compassionately generating the ordinary mind that wishes for awakening for others’ sake, and through nothing else.
 
 <!-- TGD-000708 -->
 
@@ -1924,7 +1924,7 @@ Whatever is past suchness and whatever is future suchness …
 སོཊ་དང།
 མངོན་རྒྱན་ལས།
 
-And so forth. The Ornament of Manifest Realization says:
+And so forth. The Adornment of Manifest Realization says:
 
 <!-- TGD-000909 -->
 
@@ -2126,7 +2126,7 @@ Nonvirtuous ordinary mind too is momentary.
 ཞེས་སོགས་ཀྱིས་གནོད་ཅིང་
 གང་ཟག་གཅིག་ཤེས་རྒྱུད་དུ་མར་ཐལ་བས་སོ།
 
-Moreover, if external objects are accepted, the reasoning that refutes the Sautrāntika position of equal numbers of apprehended objects and apprehending subjects applies; if they are denied, the reasoning that refutes the true-aspect Ordinary Mind Only position applies. The Ornament of the Middle Way refutes these positions with passages beginning “If that is so, white and so forth …,” “The very nature of particles, white and so forth …,” “If according to the number of aspects …,” and “If that manifold were one ….” It would also follow that a single individual had many continua of knowing.[^N-A-069]
+Moreover, if external objects are accepted, the reasoning that refutes the Sautrāntika position of equal numbers of apprehended objects and apprehending subjects applies; if they are denied, the reasoning that refutes the true-aspect Ordinary Mind Only position applies. The Adornment of the Middle Way refutes these positions with passages beginning “If that is so, white and so forth …,” “The very nature of particles, white and so forth …,” “If according to the number of aspects …,” and “If that manifold were one ….” It would also follow that a single individual had many continua of knowing.[^N-A-069]
 
 <!-- TGD-001006 -->
 
@@ -2245,11 +2245,6 @@ Vajra statement. Others explain that the twelve links of dependent arising fall 
 འདིར་བཅུ་གཉིས་པོ་དེ་ཡང་
 རིམ་བཞིན་ལྷག་སྔ་མ་ད་ལྟ་ཕྱི་མ་གསུམ་ལས་རྫོགས་ཟེར།
 འདིར་བཅུ་གཉིས་པོ་དེ་ཡང་
-
-They say that these are completed successively across three [lives]: previous, present, and future. Here those twelve too—“They say that these are completed successively across three [lives]: previous, present, and future. Here those twelve too”—[^N-A-078]
-
-<!-- TGD-001076 -->
-
 སྐད་ཅིག་གཅིག་ལ་ཚང་བར་འབྱུང་བའང་ཡོད་དེ་
 ཞེ་སྡང་རྟོག་པ་སྐྱེས་པ་མ་རིག་པའི་དབང་ལས་སྦྱོར་བ་མགོ་ཙམ་པ་ཉོན་མོངས་པའི་དུམ་བུ་དངོས་གཞི་འདུ་བྱས་ཏེ།
 སྤྱོད་པ་ལས་ཀྱི་དུམ་བུ།
@@ -2257,7 +2252,7 @@ They say that these are completed successively across three [lives]: previous, p
 སྡུག་འསྔལ་གྱི་དུམ་བུ་སྟེ་
 རྟོག་པ་གཅིག་སྐྱེས་པ་ནས་འགགས་པའི་བར་ལ་ཚང་བར་འབྱུང་བར་འགྲུབ་བོ།
 
-can also occur in their entirety within a single instant. When a conceptual thought of hatred arises under the power of ignorance, its initial preparatory phase is the affliction portion; the actual phase is conditioned activity, the karma portion; and its subsequent subsiding is the suffering portion. Thus all are established to occur between the arising and cessation of a single conceptual thought.[^N-A-079]
+They say that these are completed successively across three [lives]: previous, present, and future. Here those twelve too—“They say that these are completed successively across three [lives]: previous, present, and future. Here those twelve too”—[^N-A-078] can also occur in their entirety within a single instant. When a conceptual thought of hatred arises under the power of ignorance, its initial preparatory phase is the affliction portion; the actual phase is conditioned activity, the karma portion; and its subsequent subsiding is the suffering portion. Thus all are established to occur between the arising and cessation of a single conceptual thought.[^N-A-079]
 
 <!-- TGD-001082 -->
 
@@ -2461,7 +2456,7 @@ Vajra statement. They hold that, among the three trainings, training in ethical 
 སོགས་གསུངས་པས།
 ཤེས་རབ་བསླབས་པ་ཐོག་མར་འགྲོ་བའང་ཡོད་དོ།
 
-Here [the source says] “it is fixed exclusively thus,” yet the five excellent companions received full ordination by comprehending primordial knowing, and Yaśas, son of the foremost householder, attained arhatship while still wearing a householder’s clothing and went forth later.[^N-A-090] Distinguishing these cases, the Basis says, “Like an ornament upon an ornament …,” while the Condensed Perfection of Discerning Knowing says, “Discerning knowing precedes the giving of gifts ….” Thus there are also cases in which training in discerning knowing comes first.
+Here [the source says] “it is fixed exclusively thus,” yet the five excellent companions received full ordination by comprehending primordial knowing, and Yaśas, son of the foremost householder, attained arhatship while still wearing a householder’s clothing and went forth later.[^N-A-090] Distinguishing these cases, the Basis says, “Like an adornment upon an adornment …,” while the Condensed Perfection of Discerning Knowing says, “Discerning knowing precedes the giving of gifts ….” Thus there are also cases in which training in discerning knowing comes first.
 
 <!-- TGD-001186 -->
 
@@ -2500,7 +2495,7 @@ Here all stages of the path must be practiced even within a single session. If o
 པདྨ་དཀར་པོ་གསུངས་པའི་དུས་
 སངས་རྒྱས་དཔག་ཏུ་མེད་པར་འབྱོན་པར་གསུངས་པའི་ཕྱིར་རོ། །
 
-Vajra statement. Since the Gathered Enlightened Intents and the Hundred Thousand of Bön accept that only one Buddha appears in a single field, some say that is so. Yet countless buddhas have appeared: the manifestations of the ornamental wheel of the buddhas’ embodiment, speech, and awakened mind are limitless and endless [the transmitted phrase also reads “exhaustion”].[^N-A-092] It is taught that, within the expanse of a single particle, the deeds of buddhas as numerous as particles are displayed. It is also taught that countless buddhas appeared when our teacher expounded the Precious Collection and White Lotus.
+Vajra statement. Since the Gathered Enlightened Intents and the Hundred Thousand of Bön accept that only one Buddha appears in a single field, some say that is so. Yet countless buddhas have appeared: the manifestations of the wheel of adornment of the buddhas’ embodiment, speech, and awakened mind are limitless and endless [the transmitted phrase also reads “exhaustion”].[^N-A-092] It is taught that, within the expanse of a single particle, the deeds of buddhas as numerous as particles are displayed. It is also taught that countless buddhas appeared when our teacher expounded the Precious Collection and White Lotus.
 
 <!-- TGD-001210 -->
 
@@ -2801,7 +2796,7 @@ Thus it is said. The essential point in accepting precisely this is that all phe
 དེ་ལས་ལྡོག་ན་དུག་གི་ས་བོན་བཞིན་ནོ། །
 དེའི་ཕྱིར་དེས་པས་ཞུས་པ་ལས།
 
-Vajra statement. [An action] is complete when it has four factors: basis, intention, enactment, and culmination. Two accounts are given, one prioritizing recognition and the other the actual object. Here all phenomena have three [aspects]: ordinary mind as their root, the karma it produces, and that karma’s maturation. Since it is taught that when ordinary mind ceases, karma and maturation cease, if ordinary mind is virtuous, the initial karma and its maturation are also virtuous, like a medicinal seed. The reverse is like a poisonous seed. Therefore the Questions of Surata says:[^N-A-107]
+Vajra statement. [An action] is complete when it has four factors: basis, intention, enactment, and culmination. Two accounts are given, one prioritizing perception and the other the actual object. Here all phenomena have three [aspects]: ordinary mind as their root, the karma it produces, and that karma’s maturation. Since it is taught that when ordinary mind ceases, karma and maturation cease, if ordinary mind is virtuous, the initial karma and its maturation are also virtuous, like a medicinal seed. The reverse is like a poisonous seed. Therefore the Questions of Surata says:[^N-A-107]
 
 <!-- TGD-001359 -->
 
@@ -2826,7 +2821,7 @@ Sweet results will arise.
 དེའི་ཕྱིར་ལྟུང་བ་མཐའ་དག་ལ་ནི་ཀུན་སློང་བསམ་པ་འདུ་ཤེས་གཙོ་སྟེ་
 དགེ་སློང་དགོན་པ་བ་ཚོགས་ཅན་མི་སྐབས་པ་བཟང་མོ་བཞིན་ནོ།
 
-And the Blessed One says, “Tame your own mind,” and “Ordinary mind is, of phenomena …,” and so forth.[^N-A-108] The Analysis of Karma teaches four possibilities, such as action performed but not accumulated. It is taught that there is no fault when ordinary mind is wounded.[^N-A-109] Thus, in every downfall, motivation, intention, and recognition are primary—as in the cases of the forest monk, Tshokchen, Mi Skabs Pa, and Zangmo [the names and their division are uncertain].[^N-A-110]
+And the Blessed One says, “Tame your own mind,” and “Ordinary mind is, of phenomena …,” and so forth.[^N-A-108] The Analysis of Karma teaches four possibilities, such as action performed but not accumulated. It is taught that there is no fault when ordinary mind is wounded.[^N-A-109] Thus, in every downfall, motivation, intention, and perception are primary—as in the cases of the forest monk, Tshokchen, Mi Skabs Pa, and Zangmo [the names and their division are uncertain].[^N-A-110]
 
 <!-- TGD-001371 -->
 
@@ -2971,7 +2966,7 @@ They act in another existence as in a dream.
 འདུ་ཤེས་དང་མ་བྲལ་བས་དང་དུ་མ་བླང་བར་གསུངས་པའི་ཕྱིར།
 དབང་འབྲིང་ཐ་མ་གཉིས་ཀྱང་ཕྱི་མའི་འབྲས་བུ་ལ་ལྟོས་ན་མ་གཏོང་བ་ཡིན་ནོ། །
 
-Furthermore, the Basis of the Island of Throne Legs [title uncertain] relates that a forest monk died and was reborn as a god. Although offered sense pleasures, he did not accept them because he had not lost his recognition.[^N-A-120] Those of middling and lesser faculties likewise do not relinquish [the vows] in relation to the results of a future life.
+Furthermore, the Basis of the Island of Throne Legs [title uncertain] relates that a forest monk died and was reborn as a god. Although offered sense pleasures, he did not accept them because he had not lost his perception.[^N-A-120] Those of middling and inferior faculties likewise do not relinquish [the vows] in relation to the results of a future life.
 
 <!-- TGD-001434 -->
 
@@ -2986,1484 +2981,471 @@ If [vows] were relinquished at death, what use would preserving them be? They wo
 <!-- TGD-001439 -->
 
 རྡོ༽༽ གཞན་དག་གིས་རྩ་ལྟུང་གཅིག་བྱུང་ན་སྡོམ་པ་ཐམས་ཅད་ཞིག་པར་འདོད་པ་ཡོད་མོད།
-
-[Not yet translated: U01439.]
-
-<!-- TGD-001440 -->
-
 འདིར་ནི་མཛོད་ལས།
 
-[Not yet translated: U01440.]
+Vajra statement. Some others hold that a single root downfall destroys all vows. Here the Treasury says:
 
 <!-- TGD-001441 -->
 
-ཁ་ཆེ་དག་ནི་བྱུང་བ་ན།
-
-[Not yet translated: U01441.]
-
-<!-- TGD-001442 -->
-
+ཁ་ཆེ་དག་ནི་བྱུང་བ་ན།<br>
 བུ་ལོན་ནོར་ཅན་བཞིན་དུ་འདོད།
 
-[Not yet translated: U01442.]
+“When it occurs, the Kashmiris<br>
+Hold it to be like a wealthy debtor.”
 
 <!-- TGD-001443 -->
 
 ཅེས་པ་བྱེ་སྨྲའི་འདོད་པར་ལྟུང་བ་གཅིག་བྱུང་ཡང་
-
-[Not yet translated: U01443.]
-
-<!-- TGD-001444 -->
-
 གཞན་གསུམ་མི་གཏོང་བ་འདི་རྗེས་ཀྱང་བཞེད་དོ།
-
-[Not yet translated: U01444.]
-
-<!-- TGD-001445 -->
-
 གལ་ཏེ་གཅིག་གིས་ཐམས་ཅད་ཉམས་ན་
-
-[Not yet translated: U01445.]
-
-<!-- TGD-001446 -->
-
 གཅིག་བསྲུང་བས་ཐམས་ཅད་སྲུང་བར་ཐལ་ལོ། །
-
-[Not yet translated: U01446.]
-
-<!-- TGD-001447 -->
-
 འོ་ན་ལུང་ལས་གཅིག་བྱུང་ན་དགེ་སྦྱོང་དུ་མི་རུང་གསུངས་པ་ནི་དེ་ཁོ་ནའི་ངོས་ནའོ། །
-
-[Not yet translated: U01447.]
-
-<!-- TGD-001448 -->
-
 དེའི་ཕྱིར་ཕམ་པ་བཞི་ཉམས་པ་ནི་བུ་ལོན་དགོས་པ་ལྟར་དང་
-
-[Not yet translated: U01448.]
-
-<!-- TGD-001449 -->
-
 ཉམས་པ་ནི་རང་ལ་ནོར་ཡོད་པ་ཅན་བཞིན་ནོ།
 
-[Not yet translated: U01449.]
+Thus the Vaibhāṣika position is that, even when one downfall occurs, the other three [restraints] are not relinquished; this position is accepted here too. If one impairment impaired them all, preserving one would have to preserve them all. The scriptural statement that a single occurrence makes one unfit to be an ascetic concerns precisely that [aspect]. Therefore impairment in relation to the four defeats is like owing a debt, while “impairment” is like still possessing wealth [the second occurrence is uncertain].[^N-A-122]
 
 <!-- TGD-001450 -->
 
 རྡོ༽༽ གཞན་དག་ན་རེ།
-
-[Not yet translated: U01450.]
-
-<!-- TGD-001451 -->
-
 ལྟུང་བ་གཅིག་བྱུང་ན་ངན་འགྲོར་ལྟུང་བ་ཡིན་པས་
-
-[Not yet translated: U01451.]
-
-<!-- TGD-001452 -->
-
 སྣ་རེ་གཉིས་སྲུང་མ་སྲུང་མེད་ཟེར་རོ། །
-
-[Not yet translated: U01452.]
-
-<!-- TGD-001453 -->
-
 འདིར་ནི་སྣ་གཅིག་བསྲུང་བས་འབྲས་བུས་ཀྱང་མྱ་འདས་ཐོབ་སྟེ།
-
-[Not yet translated: U01453.]
-
-<!-- TGD-001454 -->
-
 མཆོག་གསུམ་ལ་ཡིད་རབ་ཏུ་དྭངས་བས་
-
-[Not yet translated: U01454.]
-
-<!-- TGD-001455 -->
-
 སྣ་གཅིག་པོ་དེ་རྐྱེན་གང་གིས་ཀྱང་མིི་འཇིག་པ་
-
-[Not yet translated: U01455.]
-
-<!-- TGD-001456 -->
-
 ཕྱི་བཤོལ་མེད་ཅིང་སྲོག་གི་ཕྱིར་ཡང་མི་འདོར་བའི་བརྟུལ་ཞུགས་ལ་འབད་པ་ཞིག་བྱུང་ན་མཐར་ཁྱོན་ལས་འདའ་སྟེ།
-
-[Not yet translated: U01456.]
-
-<!-- TGD-001457 -->
-
 སྙིང་རྗེ་པད་དཀར་ལས།
 
-[Not yet translated: U01457.]
+Vajra statement. Others say that, since a single downfall causes a fall to bad migrations, preserving one or two [restraints] makes no difference. Here even the result of preserving one kind can bring nirvana. With the mental faculty utterly clear in confidence toward the Three Jewels, if one undertakes the discipline of preserving that one kind so that no condition can destroy it, without postponement and without abandoning it even for one’s life, one will ultimately pass beyond [samsara].[^N-A-123] The White Lotus of Compassion says:
 
 <!-- TGD-001458 -->
 
 ང་ཡི་བསྟན་ལ་རབ་ཏུ་བྱུང་བ་བུའི་ལག་པ་ནས་བཟུང་སྟེ་
-
-[Not yet translated: U01458.]
-
-<!-- TGD-001459 -->
-
 ཁྱིམ་དུ་རྒྱུ་བ་རྣམས་ཀྱང་བསྐལ་པ་བཟང་པོ་འདི་ལ་
-
-[Not yet translated: U01459.]
-
-<!-- TGD-001460 -->
-
 གཅིག་ཀྱང་མ་ལུས་པ་མྱ་ངན་ལས་འདའ་བར་འགྱུར་རོ། །
-
-[Not yet translated: U01460.]
-
-<!-- TGD-001461 -->
-
 ཞེས་སོ།
 
-[Not yet translated: U01461.]
+“Even those who have gone forth in my teaching and then move about in households holding a child’s hand will, in this Fortunate Aeon, pass into nirvana without a single one being left behind.” Thus it is said.
 
 <!-- TGD-001462 -->
 
 རྡོ༽༽ གཞན་ཤེས་ལ།
-
-[Not yet translated: U01462.]
-
-<!-- TGD-001463 -->
-
 རྩ་བཞི་ངོ་བོའི་ཆ་ནས་རང་བཞིན་དང་།
-
-[Not yet translated: U01463.]
-
-<!-- TGD-001464 -->
-
 ས་རྐོ་མེ་རེག་སོགས་འདུ་ཤེས་ཀྱི་ཆ་ནས་བཅས་པ་སྟེ་
-
-[Not yet translated: U01464.]
-
-<!-- TGD-001465 -->
-
 རང་བཞིན་ཨ་མྲའི་ཚལ་ལ་བཅས་པ་སྒྱིས་འཚལ་ལྟ་བུས་བསྲུངས་ཏེ་
-
-[Not yet translated: U01465.]
-
-<!-- TGD-001466 -->
-
 རང་བཞིན་གཏན་ནས་བཀག་པ་ཡིན་ལ།
-
-[Not yet translated: U01466.]
-
-<!-- TGD-001467 -->
-
 བཅས་པ་གནང་བའི་སྐབས་ཡོད་པས་ཐ་དད་ཡིན་ཟེར་ཡང་།
 
-[Not yet translated: U01467.]
+Vajra statement. Others explain that the four root [misdeeds] are misdeeds by intrinsic nature in terms of their essence, while digging earth, touching fire, and so forth are prescribed [misdeeds] in terms of perception. Prescribed [restraints] protect those of intrinsic nature as a thorn hedge protects a mango grove.[^N-A-124] They say the two differ because misdeeds by intrinsic nature are always prohibited, whereas prescribed ones are sometimes permitted.
 
 <!-- TGD-001468 -->
 
 འདིར་ནི་བཅས་པ་དང་རང་བཞིན་གྱི་ཁ་ན་མ་ཐོ་བ་གནད་གཅིག་སྟེ་
-
-[Not yet translated: U01468.]
-
-<!-- TGD-001469 -->
-
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱིས་རྒྱུ་འབྲས་རྟེན་འབྲེལ་བསླུ་བ་མེད་པ་འབྱུང་བར་གཟིགས་པའི་ཕྱིར་དང་།
-
-[Not yet translated: U01469.]
-
-<!-- TGD-001470 -->
-
 ཆོས་ཐམས་ཅད་ཀྱི་ངོ་བོར་སངས་རྒྱས་པས་
-
-[Not yet translated: U01470.]
-
-<!-- TGD-001471 -->
-
 ཕྱྭ་དང་དབང་ཕྱུག་ལྟར་བྱེད་པོ་མིན་པའི་ཕྱིར་དང་
-
-[Not yet translated: U01471.]
-
-<!-- TGD-001472 -->
-
 བརྩེ་བ་ཆེན་པོས་སེམས་ཅན་ཐམས་ཅད་ཐུགས་སྙོམས་པའི་ཕྱིར་དང༌།
-
-[Not yet translated: U01472.]
-
-<!-- TGD-001473 -->
-
 བརྩོན་པ་མི་འདོར་བས་གནོད་པ་སྤོང་ཞིང་
-
-[Not yet translated: U01473.]
-
-<!-- TGD-001474 -->
-
 ཕན་བདེ་ལ་སྦྱོར་བར་མཛད་པའི་ཕྱིར་
-
-[Not yet translated: U01474.]
-
-<!-- TGD-001475 -->
-
 རང་བཞིན་དང་བཅས་བ་གང་མ་བསྲུངས་ཀྱང་
-
-[Not yet translated: U01475.]
-
-<!-- TGD-001476 -->
-
 གཤིས་ལ་ཇི་ལྟར་ཡོད་པའི་ཉེས་དམིགས་འབྱུང་སྟེ་
-
-[Not yet translated: U01476.]
-
-<!-- TGD-001477 -->
-
 རང་བཞིན་གྱིས་བཅས་པ་ལ་ཁྱབ་བཅས་པས་རང་བཞིན་ལ་ཁྱབ་པའི་ཕྱིར་རོ། །
 
-[Not yet translated: U01477.]
+Here prescribed misdeeds and those of intrinsic nature share one essential point. The Buddha’s primordial knowing sees the unfailing occurrence of dependent arising as cause and result. Having awakened to the essence of all phenomena, he is no creator like Phywa or Īśvara. With great love, his awakened mind is impartial toward all beings; without abandoning diligence, he removes harm and brings them benefit and happiness. Thus, whichever one fails to guard against—misdeeds by intrinsic nature or prescribed misdeeds—the faults inherent in that case arise. Those of intrinsic nature encompass prescribed ones, and prescribed ones encompass those of intrinsic nature.[^N-A-125]
 
 <!-- TGD-001478 -->
 
 འོ་ན་དུད་འགྲོར་མ་བཅས་ཤིང་ཉེས་པ་ཡང་མ་གསུངས་པས་ཅི་སྙམ་ན།
-
-[Not yet translated: U01478.]
-
-<!-- TGD-001479 -->
-
 བཅས་པའི་ཉེས་པ་དུད་འགྲོར་སྐྱེ་ཞིང་
-
-[Not yet translated: U01479.]
-
-<!-- TGD-001480 -->
-
 མྱ་འདས་ལ་རྒྱབ་ཀྱི་ཕྱོགས་པ་དེ་ཡིན་ཅིང།
-
-[Not yet translated: U01480.]
-
-<!-- TGD-001481 -->
-
 སྤྱིར་བཅས་ཀྱང་དམིགས་བསལ་དུ་མ་གསུངས༌པ་ནི་
-
-[Not yet translated: U01481.]
-
-<!-- TGD-001482 -->
-
 དཔེར་ན་ཕས་བུ་འགའ་ཞིག་ལ་བྱ་བ་མིན་པ་བསླབ་ཀྱང་
-
-[Not yet translated: U01482.]
-
-<!-- TGD-001483 -->
-
 མི་ཉན་པ་ཞིག་བྱར་མེད་པས་སྐྱུར་བ་དང་མཚུངས་སོ།
 
-[Not yet translated: U01483.]
+One may wonder why [rules] were not prescribed for animals and why their faults were not mentioned. Prescribed faults arise in animals and turn them away from nirvana. Although the rules were prescribed generally, they were not stated specifically [for animals]. It is like a father who teaches his sons what not to do, but leaves aside one who will not listen because nothing can be done.
 
 <!-- TGD-001484 -->
 
 ལྷན༽༽ འདུལ་བ་སྡེ་པ་བཞི་ལ།
-
-[Not yet translated: U01484.]
-
-<!-- TGD-001485 -->
-
 མི་འདྲ་བ་རེ་རེ་འདོད་པ་ཡོད་མོད།
-
-[Not yet translated: U01485.]
-
-<!-- TGD-001486 -->
-
 འདིར་ནི་སྡེ་པ་ཀུན་གྱི་འདུལ་བའི་རྩ་བ་ནི་ལུང་སྡེ་བཞི་ཁོ་ནར་ངེས་ཏེ།
-
-[Not yet translated: U01486.]
-
-<!-- TGD-001487 -->
-
 སངས་རྒྱས་ཀྱི་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱི་ལུང་སྡེ་བཞི་བསྒྲུབ་པའི་ཕྱིར།
-
-[Not yet translated: U01487.]
-
-<!-- TGD-001488 -->
-
 མ་གྲུབ་ན་ཉན་ཐོས་དང་སངས་རྒྱས་སྤངས་རྟོགས་མཉམ་པར་ཐལ།
-
-[Not yet translated: U01488.]
-
-<!-- TGD-001489 -->
-
 ལུང་སྡེ་བཞི་རེ་རེ་བཅའ་ཞུས་པའི་ཕྱིར།
-
-[Not yet translated: U01489.]
-
-<!-- TGD-001490 -->
-
 འདོད་མི་ནུས་ཏེ།
-
-[Not yet translated: U01490.]
-
-<!-- TGD-001491 -->
-
 ས་བཅུ་པའི་བྱང་སེམས་ཀྱིས་ཀྱང་འཆའ་མི་ནུས་ན་གཞན་གྱིས་ལྟ་ཅི་སྨྲོས།
-
-[Not yet translated: U01491.]
-
-<!-- TGD-001492 -->
-
 གྲུབ་མཐའ་བག་རེ་མི་མཐུན་པ་མ་གཏོགས་
-
-[Not yet translated: U01492.]
-
-<!-- TGD-001493 -->
-
 དགག་སྒྲུབ་ཀྱི་བསླབ་པར་གཞོལ་ཞིང་འབབ་པའི་ཕྱིར།
-
-[Not yet translated: U01493.]
-
-<!-- TGD-001494 -->
-
 ལུང་ལས།
 
-[Not yet translated: U01494.]
+Supplement. It is held that each of the four Vinaya schools differs in some respects. Here the root of all schools’ Vinaya is certainly the four scriptural divisions alone, for the Buddha’s primordial knowing establishes those four divisions. Otherwise śrāvakas and buddhas would have equal abandonment and realization, because [the śrāvakas] would have prescribed each of the four divisions.[^N-A-126] This cannot be accepted: even a bodhisattva on the tenth level cannot prescribe them, much less anyone else. Apart from slight differences in tenets, all incline and converge upon training in denying and affirming. Scripture says:
 
 <!-- TGD-001495 -->
 
-ཇི་ལྟར་འདི་ན་ཤིང་རྩ་གཙོ་བོ་སྟེ། །
-
-[Not yet translated: U01495.]
-
-<!-- TGD-001496 -->
-
-རྣམ་པར་འཕེལ་དང་ཀུན་འཛིན་གཉིས་ཀྱི་གཞི། །
-
-[Not yet translated: U01496.]
-
-<!-- TGD-001497 -->
-
-དེ་བཞིན་ཡོན་ཏན་ཚོགས་རྣམས་ཀུན་གྱི་ཡང་། །
-
-[Not yet translated: U01497.]
-
-<!-- TGD-001498 -->
-
+ཇི་ལྟར་འདི་ན་ཤིང་རྩ་གཙོ་བོ་སྟེ། །<br>
+རྣམ་པར་འཕེལ་དང་ཀུན་འཛིན་གཉིས་ཀྱི་གཞི། །<br>
+དེ་བཞིན་ཡོན་ཏན་ཚོགས་རྣམས་ཀུན་གྱི་ཡང་། །<br>
 རྒྱུ་དང་རྩ་བ་འདུལ་བ་ཡིན་ཞེས་གསུངས།
 
-[Not yet translated: U01498.]
+Just as a tree’s roots are foremost here,<br>
+The basis both for growth and for sustaining the whole,<br>
+So too, for every collection of qualities,<br>
+Vinaya is taught to be the cause and root.
 
 <!-- TGD-001499 -->
 
 ཞེས་སོ།
-
-[Not yet translated: U01499.]
-
-<!-- TGD-001500 -->
-
 རྡོ༽༽བཅས་པ་དང་རང་བཞིན་ཐ་དད་པས་སྡིག་ལྟུང་ཡང་ཐ་དད་ཟེར་རོ།
-
-[Not yet translated: U01500.]
-
-<!-- TGD-001501 -->
-
 འདིར་ནི་
-
-[Not yet translated: U01501.]
-
-<!-- TGD-001502 -->
-
 སྡིག་ལྟུང་ཐ་དད་མེད་ཅིང་གཅིག་པ་ཡིན་ཏེ།
-
-[Not yet translated: U01502.]
-
-<!-- TGD-001503 -->
-
 བཅས་རང་གཅིག་པ་དང་འགྲོ་བ་སྤྱི་ལ་བཅས་པར་བཞེད་པའི་ཕྱིར་དང༌།
-
-[Not yet translated: U01503.]
-
-<!-- TGD-001504 -->
-
 སྡིག་ལྟུང་གཉིས་ཀས་ངན་འགྲོར་འགྲོ་བར་མཚུངས་པའི་ཕྱིར།
-
-[Not yet translated: U01504.]
-
-<!-- TGD-001505 -->
-
 ལུང་རྣམ་འབྱེདལས།
 
-[Not yet translated: U01505.]
+Thus it is said. Vajra statement. They say that, because prescribed misdeeds and those of intrinsic nature differ, evil deeds and downfalls also differ. Here evil deeds and downfalls are the same, without a difference. Prescribed misdeeds and those of intrinsic nature are one, and the rules are held to have been prescribed for beings generally. Moreover, evil deeds and downfalls alike lead to bad migrations. The Scriptural Analysis says:
 
 <!-- TGD-001506 -->
 
 ལྟུང་བ་ལྟུང་བ་ཞེས་བྱ་བ་
-
-[Not yet translated: U01506.]
-
-<!-- TGD-001507 -->
-
 སེམས་ཅན་དམྱལ་བ་དང་དུད་འགྲོའི་སྐྱེ་གནས་དང་
-
-[Not yet translated: U01507.]
-
-<!-- TGD-001508 -->
-
 གཤིན་རྗེའི་འཇིག་རྟེན་དུ་ལྟུང་བར་བྱེད་པའི་དོན་གྱིས་ལྟུང་བའོ། །
-
-[Not yet translated: U01508.]
-
-<!-- TGD-001509 -->
-
 ཞེས་པས་ཟན་དང་བཤོས་ཀྱི་མིང་བཞིན་ནོ།
-
-[Not yet translated: U01509.]
-
-<!-- TGD-001510 -->
-
 ཁོ་ན་ཕྲ་རག་ལའང་ཁྱད་མེད་དམ་སྙམ་ན།
-
-[Not yet translated: U01510.]
-
-<!-- TGD-001511 -->
-
 དེ་ནི་བཅས་མ་བཅས་གཉིས་ཀའང་ཉེས་པ་ཆེ་ཆུང་མཉམ་པ་ཡིན་ནོ། །
 
-[Not yet translated: U01511.]
+“A downfall is called a downfall because it causes a fall into the hells, birth as an animal, or the world of the Lord of Death.” Thus the two are like the terms “food” and “repast.” One may wonder whether there is also no distinction between subtle and gross. Both prescribed and unprescribed [misdeeds] alike have greater and lesser faults.[^N-A-127]
 
 <!-- TGD-001512 -->
 
 འོ་ན་མི་སྐྱེ་མཚམས་མེད་བྱས་པ་སྐྱེ་བའི་བར་ཆད་དུ་གསུངས་ཤིང།
-
-[Not yet translated: U01512.]
-
-<!-- TGD-001513 -->
-
 རབ་བྱུང་ཕྱིར་བཅོས་ཡོད་པར་སྙམ་ན།
-
-[Not yet translated: U01513.]
-
-<!-- TGD-001514 -->
-
 དེའང་ཡོད་དེ་མི་སྐྱེས་དགྲ་བཟོད་པ་ཐོབ་པ་ལྟ་བུ་ཡིན་ནོ།
 
-[Not yet translated: U01514.]
+One may object: “An act of immediate retribution is said to obstruct arising, so that [the result] does not arise; yet for one who has gone forth, restoration is possible.” This too is possible, as in Ajātaśatru’s attainment of acceptance.[^N-A-128]
 
 <!-- TGD-001515 -->
 
 སྡེ༽༽ བཅས་པ་རྐྱེན་ལ་ལྟོས་པས་
-
-[Not yet translated: U01515.]
-
-<!-- TGD-001516 -->
-
 དང་པོ་བཀག་པ་ཕྱིས་རྐྱེན་ལ་ལྟོས་ཏེ་གནང་ན་ཉེས་པ་མེད་ཟེར།
 
-[Not yet translated: U01516.]
+Section [source label]. Since prescriptions depend on conditions, they say that something prohibited initially is faultless when later permitted in dependence on conditions.[^N-A-129]
 
 <!-- TGD-001517 -->
 
 འདིར་ནི་བཀག་པ་ཡེ་བཀག་གནང་བ་ཡེ་གནང་ཡིན་པ་ནི་
-
-[Not yet translated: U01517.]
-
-<!-- TGD-001518 -->
-
 སྤང་བླང་དགེ་སྡིག་གཉིས་སུ་ངེས་པ་གང་ཞིག །
-
-[Not yet translated: U01518.]
-
-<!-- TGD-001519 -->
-
 བདེ་སྡུག་གཉིས་འབྱུང་བའི་ལས་ཡིན་པས་
-
-[Not yet translated: U01519.]
-
-<!-- TGD-001520 -->
-
 གནས་དང་གནས་མིན་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱིས་གཟིགས་པའི་ཕྱིར་དང༌།
-
-[Not yet translated: U01520.]
-
-<!-- TGD-001521 -->
-
 ཐུགས་བརྩེ་ཡང་འཇུག་ལྡོག་གི་ཚུལ་ཁྲིམས་འདི་ལ་མ་བརྟེན་ན་
-
-[Not yet translated: U01521.]
-
-<!-- TGD-001522 -->
-
 སྐྱོན་སྤོང་ཡོན་ཏན་བསྒྲུབ་པའི་ཐབས་གཞན་མེད་པའི་ཕྱིར་རོ།
-
-[Not yet translated: U01522.]
-
-<!-- TGD-001523 -->
-
 རང་བཞིན་གཅིག་ལ་དགེ་མི་དགེ་གཉིས་
-
-[Not yet translated: U01523.]
-
-<!-- TGD-001524 -->
-
 གནང་བཀག་གིས་མི་འགྱུར་བས་
-
-[Not yet translated: U01524.]
-
-<!-- TGD-001525 -->
-
 སེམས་ཉོན་མོངས་ཅན་ལས་མི་དགེ་བ།
-
-[Not yet translated: U01525.]
-
-<!-- TGD-001526 -->
-
 འབྲས་བུ་གནོད་པའི་སྒོར་གྱུར་པ་ནི་ཡེ་བཀག་དང་
-
-[Not yet translated: U01526.]
-
-<!-- TGD-001527 -->
-
 དེ་ལས་ལྡོག་པ་ཡེ་གནང་ཡིན་པས་སོ། །
 
-[Not yet translated: U01527.]
+Here what is prohibited has always been prohibited, and what is permitted has always been permitted. What is to be rejected and accepted is determined as evil and virtue: these are the actions from which suffering and happiness arise. This is seen by the primordial knowing that knows what is and is not possible. Even compassionate concern has no other means of abandoning faults and accomplishing qualities without relying on this ethical discipline of engaging and refraining. Permission and prohibition do not turn one intrinsic nature into both virtue and nonvirtue. Nonvirtue arising from afflicted ordinary mind, whose result opens the way to harm, has always been prohibited; its opposite has always been permitted.
 
 <!-- TGD-001528 -->
 
 ནད་པར་སྨན།
-
-[Not yet translated: U01528.]
-
-<!-- TGD-001529 -->
-
 ཤཱ་རིའི་བུས་དཔལ་ལྡན་མོ་ལ་ཆོས་བསྟན་པ་དང༌།
-
-[Not yet translated: U01529.]
-
-<!-- TGD-001530 -->
-
 བུ་མེད་ཆུས་ཁུར་བར་རོ་ལེན་པ་སོགས་ནི་
-
-[Not yet translated: U01530.]
-
-<!-- TGD-001531 -->
-
 སྔར་བཀག་པ་དང་ཕྱིས་གནང་བ་མི་དགེ་བ་དང་དགེ་བ་ཐ་དད་དོ།
 
-[Not yet translated: U01531.]
+Examples include medicine for the ill, Śāriputra’s teaching Dharma to Paldenmo, and taking hold of the body of a woman being carried away by water.[^N-A-130] What was prohibited earlier and permitted later are distinct nonvirtuous and virtuous [acts].
 
 <!-- TGD-001532 -->
 
 ལྷན༽༽ བཅས་འགལ་གྱི་ལྟུང་བ་མ་གཏོགས་
-
-[Not yet translated: U01532.]
-
-<!-- TGD-001533 -->
-
 རྨི་ལམ་དུ་ཁུ་བ་ཉམས་པ་ལ་ཉེས་པ་མེད་ཟེར་ལ། །
-
-[Not yet translated: U01533.]
-
-<!-- TGD-001534 -->
-
 འདིར་ནི་རྨི་ལམ་དུ་ནི་ཉམས་ཀྱང་
-
-[Not yet translated: U01534.]
-
-<!-- TGD-001535 -->
-
 ཕྲ་རག་གི་ཁྱད་པར་ལས་ཉེས་པ་ནི་འབྱུང་བ་
-
-[Not yet translated: U01535.]
-
-<!-- TGD-001536 -->
-
 ཕྲ་རག་ཐམས་ཅད་བསྟན་པའི་ཕྱིར་དང་།
-
-[Not yet translated: U01536.]
-
-<!-- TGD-001537 -->
-
 རྒྱུ་ཀུན་གཞི་ལ་ཉོན་མོངས་པའི་ས་འོན་གནས་པ་དེ།
-
-[Not yet translated: U01537.]
-
-<!-- TGD-001538 -->
-
 རྐྱེན་རྨི་ལམ་གྱི་བུད་མེད་ལ་བརྟེན་ནས་ཉམས་པས་
-
-[Not yet translated: U01538.]
-
-<!-- TGD-001539 -->
-
 དངོས་ཀྱི་ཕམ་ལྷག་དང་མཚུངས་པའི་ཕྱིར་རོ། །
 
-[Not yet translated: U01539.]
+Supplement. They say that, apart from a downfall through contravening a prescription, there is no fault in losing seminal fluid during a dream. Here, even when loss occurs in a dream, there is a fault, differing only in being subtle or gross; both subtle and gross are taught. The cause, a seed of affliction, remains in the all-basis; depending on the condition of a woman in a dream, loss occurs. Thus it resembles an actual defeat or offense requiring a remainder [procedure].[^N-A-131]
 
 <!-- TGD-001540 -->
 
 འོ་ན་ཉེས་མེད་དུ་གསུངས་པ་ཅི་ཞེ་ན།
-
-[Not yet translated: U01540.]
-
-<!-- TGD-001541 -->
-
 ཐབས་མཁས་པས་གནས་སྐབས་སྒྲུབ་མ་ནུས་པ་ལ་གསུངས་ཀྱི།
-
-[Not yet translated: U01541.]
-
-<!-- TGD-001542 -->
-
 གཏན་ནས་ཉེས་མེད་དུ་གསུངས་པ་ནི་མིན་ནོ། །
-
-[Not yet translated: U01542.]
-
-<!-- TGD-001543 -->
-
 གལ་ཏེ་ཉེས་མེད་ཡིན་ན་
-
-[Not yet translated: U01543.]
-
-<!-- TGD-001544 -->
-
 ཉིན་གཉིད་དང་སྲོད་དང་ཐོ་རང་ཉལ་བ་བཀག་པའང་ཉེས་མེད་དུ་ཐལ་ཏེ་མཚུངས་པའི་ཕྱིར་རོ།
 
-[Not yet translated: U01544.]
+Why, then, is it said to be faultless? This is taught through skillful means to those temporarily unable to accomplish [such restraint]; it is not a declaration of absolute faultlessness. If it were faultless, then sleep during the day, at dusk, and toward dawn—which is prohibited—would likewise have to be faultless, because the cases are alike.
 
 <!-- TGD-001545 -->
 
 རྡོ༽༽ བཅས་པ་ནི་རྗེས་འབྲང་གི་སྲས་དགེ་སློང་དགེ་བསྙེན་ཁོ་ན་ལས་འགྲོ་བ་
-
-[Not yet translated: U01545.]
-
-<!-- TGD-001546 -->
-
 གཞན་ལ་མ་བཅས་པར་འདོད་མོད།
-
-[Not yet translated: U01546.]
-
-<!-- TGD-001547 -->
-
 འདིར་ནི་བཅས་རང་གཅིག་པའི་གནད་ཀྱིས་འགྲོ་བ་སྤྱི་ལ་བཅས་ཏེ།
-
-[Not yet translated: U01547.]
-
-<!-- TGD-001548 -->
-
 དང་པོ་ཐུགས་བསྐྱེད་པ།
-
-[Not yet translated: U01548.]
-
-<!-- TGD-001549 -->
-
 བར་དུ་ཚོགས་བསགས་པ།
-
-[Not yet translated: U01549.]
-
-<!-- TGD-001550 -->
-
 མཐར་སངས་རྒྱས་ཏེ་
-
-[Not yet translated: U01550.]
-
-<!-- TGD-001551 -->
-
 ཆོས་ཀྱི་འཁོར་ལོ་དང་བཅས་པ་རྗེས་འབྲང་ཁོ་ནའི་དོན་མིན་པ་
-
-[Not yet translated: U01551.]
-
-<!-- TGD-001552 -->
-
 མཐའ་ཡས་པའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་དུ་ཡིན་པའི་ཕྱིར་རོ། །
-
-[Not yet translated: U01552.]
-
-<!-- TGD-001553 -->
-
 དེ་སྐད་དུའང༌། རྒྱ་རོལ་ལས།
-
-[Not yet translated: U01553.]
-
-<!-- TGD-001554 -->
-
 ཀུན་ཏུ་རྒྱུ་ཉེར་འཚོ་ལ།
 
-[Not yet translated: U01554.]
+Vajra statement. It is held that rules were prescribed only for the children who follow [the Buddha], fully ordained monks and lay vow holders, and not for other beings. Here, because prescribed misdeeds and those of intrinsic nature are one, the rules were prescribed for beings generally. Initially generating the awakening intention, gathering the accumulations in the middle, and finally awakening and [teaching] the Dharma wheel and prescriptions were undertaken for limitless beings, not only for followers. Thus the Extensive Display relates [his words] to the wanderer Upajīva:[^N-A-132]
 
 <!-- TGD-001555 -->
 
-ང་ནི་ཝ་རཱ་ཎ་སཱིར།
-
-[Not yet translated: U01555.]
-
-<!-- TGD-001556 -->
-
-འགྲོ་གྲོང་ཁྱེར་གསལ་ལྡན་སོང་ནས་ནི།
-
-[Not yet translated: U01556.]
-
-<!-- TGD-001557 -->
-
-ལོང་བ་ལྟ་བུའི་སེམས་ཅན་ལ།
-
-[Not yet translated: U01557.]
-
-<!-- TGD-001558 -->
-
+ང་ནི་ཝ་རཱ་ཎ་སཱིར།<br>
+འགྲོ་གྲོང་ཁྱེར་གསལ་ལྡན་སོང་ནས་ནི།<br>
+ལོང་བ་ལྟ་བུའི་སེམས་ཅན་ལ།<br>
 མཚུངས་མ་མེད་པའི་འོད་བྱའོ། །
 
-[Not yet translated: U01558.]
+“I shall go to Vārāṇasī.<br>
+Having gone to the city Kāśī,<br>
+For beings who are like the blind<br>
+I shall make an unequaled light.”[^N-A-133]
 
 <!-- TGD-001559 -->
 
 ཞེས་དང༌།
-
-[Not yet translated: U01559.]
-
-<!-- TGD-001560 -->
-
 བརྩམས་པར་བྱ་ཞིང་དབྱུང་བར་བྱ།
-
-[Not yet translated: U01560.]
-
-<!-- TGD-001561 -->
-
 ཞེས་དང༌།
-
-[Not yet translated: U01561.]
-
-<!-- TGD-001562 -->
-
 སྡིག་པ་ཅི་ཡང་མི་བྱ་ཞིང་།
-
-[Not yet translated: U01562.]
-
-<!-- TGD-001563 -->
-
 སོགས་སོ༑ །
 
-[Not yet translated: U01563.]
+And: “Make a beginning and bring forth [effort]”; and: “Do not do any evil,” and so forth.[^N-A-134]
 
 <!-- TGD-001564 -->
 
 འོ་ན་དགེ་སློང་ལ་དམིགས་ཀྱིས་བསལ་བ་ཅི་ཞེ་ན།
-
-[Not yet translated: U01564.]
-
-<!-- TGD-001565 -->
-
 གཙོ་བོར་བསྟན་པ་ཡིན་ཏེ།
-
-[Not yet translated: U01565.]
-
-<!-- TGD-001566 -->
-
 འཁོར་བསྒྱུར་གྱིས་འབངས་ཐམས་ཅད་
-
-[Not yet translated: U01566.]
-
-<!-- TGD-001567 -->
-
 དགེ་བཅུར་བཀོད་པའི་སྔོན་དུ་
-
-[Not yet translated: U01567.]
-
-<!-- TGD-001568 -->
-
 རྒྱལ་སྲིད་སྣ་བོ་དག་ལ་བསྒོ་བ་བཞིན་ནོ། །
-
-[Not yet translated: U01568.]
-
-<!-- TGD-001569 -->
-
 དེ་ལྟར་ཡིན་ན་
-
-[Not yet translated: U01569.]
-
-<!-- TGD-001570 -->
-
 དེ་བཞིན་གཤེགས་པ་དབང་ཕྱུག་ལྟར་བྱེད་པོ་ཐལ་བ་དང༌།
-
-[Not yet translated: U01570.]
-
-<!-- TGD-001571 -->
-
 ཉེ་རིང་ཅན་དུ་ཐལ་ལོ། །
-
-[Not yet translated: U01571.]
-
-<!-- TGD-001572 -->
-
 དེའི་ཕྱིར་ཆོས་ཀྱི་རྒྱལ་པོས་འགྲོ་བ་སྤྱི་ལ་བཅས་པ་ཡིན་ནོ།
 
-[Not yet translated: U01572.]
+Why, then, are fully ordained monks singled out? They are taught as the principal recipients. It is like a wheel-turning monarch first instructing the leaders of the realm before establishing all his subjects in the ten virtues. If it were as [the opposing view claims], the Tathāgata would be a creator like Īśvara and would be partial. Therefore the Dharma king prescribed the rules for beings generally.[^N-A-135]
 
 <!-- TGD-001573 -->
 
 རྡོ༽༽བཅས་རང་ཐ་དད་ལས་
-
-[Not yet translated: U01573.]
-
-<!-- TGD-001574 -->
-
 རབ་བྱུང་གིས་བསྲུང་ན་ཕན་ཡོན་འབྱུང་ལ་
-
-[Not yet translated: U01574.]
-
-<!-- TGD-001575 -->
-
 གཞན་གྱིས་བསྲུངས་ཀྱང་ཕན་ཡོན་མི་འབྱུང་ངོ་ཞེས་པ་དང༌།
-
-[Not yet translated: U01575.]
-
-<!-- TGD-001576 -->
-
 འདས་པའི་ཉེས་དམིགས་ཀྱང་རབ་བྱུང་ལ་ཡིན་གྱི་
-
-[Not yet translated: U01576.]
-
-<!-- TGD-001577 -->
-
 འགྲོ་བ་གཞན་ལ་མི་འབྱུང་ངོ་ཞེས་སྨྲ་བར་བྱེད་དོ།
-
-[Not yet translated: U01577.]
-
-<!-- TGD-001578 -->
-
 འདིར་ནི་འགྲོ་བ་གང་གིས་འདས་ཀྱང་
-
-[Not yet translated: U01578.]
-
-<!-- TGD-001579 -->
-
 ཉེས་པ་དང་བཅས་པར་འགྱུར་ལ་
-
-[Not yet translated: U01579.]
-
-<!-- TGD-001580 -->
-
 དེ་རྣམས་ཀྱིས་བསྲུང་བའི་ཕན་ཡོན་ཡང་ནི་ཀུན་ལ་འབྱུང་སྟེ་
-
-[Not yet translated: U01580.]
-
-<!-- TGD-001581 -->
-
 བཅས་རང་དང་སྡིག་ལྟུང་ཐ་དད་མེད་པ་དང་
-
-[Not yet translated: U01581.]
-
-<!-- TGD-001582 -->
-
 འགྲོ་བ་སྤྱི་ལ་བཅས་པ་དང་རྒྱུ་འབྲས་ཀྱི་རྟེན་འབྲེལ་མི་བསླུ་བའི་ཕྱིར་
-
-[Not yet translated: U01582.]
-
-<!-- TGD-001583 -->
-
 སྐྱོན་ཡོན་འབྱུང་བ་འཇིག་རྟེན་གཞག་པ་དང༌།
-
-[Not yet translated: U01583.]
-
-<!-- TGD-001584 -->
-
 དབྱེ་ན་གཞི་ལས།
 
-[Not yet translated: U01584.]
+Vajra statement. On the basis of distinguishing prescribed misdeeds from those of intrinsic nature, some say that preserving [the rules] benefits those who have gone forth but does not benefit others; likewise the faults of transgression occur for the ordained but not for other beings. Here any being who transgresses incurs a fault, and all who preserve the rules receive their benefits. Prescribed misdeeds and those of intrinsic nature, and evil deeds and downfalls, are not distinct; the rules apply to beings generally; and dependent arising as cause and result is unfailing. The arising of faults and qualities is described in the Establishment of the World and the Basis of Distinctions [titles provisional]:[^N-A-136]
 
 <!-- TGD-001585 -->
 
 བསྐལ་པ་དང་པོའི་མིས་ས་ལུ་སོགས་འཇོག་བྱས་པས་
-
-[Not yet translated: U01585.]
-
-<!-- TGD-001586 -->
-
 ཕྱིས་ཉེས་པ་དུ་མ་བསྐྱེད་པ་དང་།
-
-[Not yet translated: U01586.]
-
-<!-- TGD-001587 -->
-
 ཕྱི་རོལ་པའི་དྲང་སྲོང་ལྔ་བརྒྱས་
-
-[Not yet translated: U01587.]
-
-<!-- TGD-001588 -->
-
 གཡང་གཞི་སོགས་ཡོ་བྱད་ལྷག་པོ་བཅངས་པས་
-
-[Not yet translated: U01588.]
-
-<!-- TGD-001589 -->
-
 མངོན་ཤེས་ཐོབ་པ་ལ་སྒྲིབ་པར་གསུངས་པ་བཞིན་ནོ། །
 
-[Not yet translated: U01589.]
+When people at the beginning of the aeon stored rice and so forth, many faults arose later. Likewise, five hundred non-Buddhist sages retained excess possessions, such as hides, and this is said to have obstructed their attainment of superknowledge.
 
 <!-- TGD-001590 -->
 
 ཕན་ཡོན་ཡང་ཀཱ་ཤིའི་ནགས་ཀྱི་སེམས་ཅན་ཆེན་པོ་བཞིས་
-
-[Not yet translated: U01590.]
-
-<!-- TGD-001591 -->
-
 གཏན་ཁྲིམས་བསྲུངས་ཤིང་
-
-[Not yet translated: U01591.]
-
-<!-- TGD-001592 -->
-
 གཞན་ཡང་བཀོད་པའི་ཕན་ཡོན་གྱིས་ཚེ་འཕོས་ཚད་
-
-[Not yet translated: U01592.]
-
-<!-- TGD-001593 -->
-
 སུམ་ཅུ་རྩ་གསུམ་དུ་སྐྱེས་པར་གསུངས་བཞིན་ནོ། །
-
-[Not yet translated: U01593.]
-
-<!-- TGD-001594 -->
-
 དམིགས་བསལ་མེད་པ་ནི་སྤྱི་ལ་བཅས་ཀྱང་
-
-[Not yet translated: U01594.]
-
-<!-- TGD-001595 -->
-
 གཙོ་བོའི་མིང་ནས་སྨྲོས་པ་ལྟ་བུའོ། །
-
-[Not yet translated: U01595.]
-
-<!-- TGD-001596 -->
-
 དེ་ལྟར་མིན་ན་བདེ་གཤེགས་ཉེ་ཞོའི་ཕུང་པོར་འགྱུར་རོ།
 
-[Not yet translated: U01596.]
+As for benefits, the four great animals in the forest of Kāśī kept the established ethical rules and placed others in them. Through that benefit, all who died were said to be reborn among the Thirty-Three gods. The absence of specific mention [of others] is like naming the principal recipients even though rules are prescribed generally. Otherwise the Sugata would become a mass of partiality.[^N-A-137]
 
 <!-- TGD-001597 -->
 
 རྡོ༽༽བཅས་རང་གཅིག་པས་དང༌།
-
-[Not yet translated: U01597.]
-
-<!-- TGD-001598 -->
-
 ཆོ་ག་མེད་ཀྱང་སྲུང་བས་ཆོག་སྙམ་པའམ།
-
-[Not yet translated: U01598.]
-
-<!-- TGD-001599 -->
-
 རྟེན་གྱི་མདུན་དུ་རང་གི་དམ་བཅས་པས་
-
-[Not yet translated: U01599.]
-
-<!-- TGD-001600 -->
-
 ཐོབ་པར་འདོད་པའང་བྱུང་སྐད།
 
-[Not yet translated: U01600.]
+Vajra statement. Some reportedly think that, since prescribed misdeeds and those of intrinsic nature are one, preserving [the restraints] suffices without a rite. Others hold that [vows] are obtained by making a personal pledge before a sacred representation.
 
 <!-- TGD-001601 -->
 
 འདིར་བསྟན་པར་འཇུག་པ་ལ་ཆོ་ག་ལྷག་པར་གལ་ཆེ་སྟེ།
-
-[Not yet translated: U01601.]
-
-<!-- TGD-001602 -->
-
 ཆོ་ག་བསྟན་པའི་དངོས་གཞི་ཡིན་པས་
-
-[Not yet translated: U01602.]
-
-<!-- TGD-001603 -->
-
 དེ་ཡོད་ན་བསྟན་པ་གནས་པའི་ཕྱིར་དང༌།
-
-[Not yet translated: U01603.]
-
-<!-- TGD-001604 -->
-
 བསྙེན་བཀུར་དང་ཕྱག་རྟེན་ཕུལ་བས་བསོད་ནམས་ཀྱི་ཚོགས་རྫོགས་པའི་ཕྱིར་དང༌།
-
-[Not yet translated: U01604.]
-
-<!-- TGD-001605 -->
-
 ལས་ཆོག་ཕྱག་བཞེས་ཀྱི་རིམ་པ་མཐོང་བས་
-
-[Not yet translated: U01605.]
-
-<!-- TGD-001606 -->
-
 བྱ་བ་དང་བྱ་བ་མ་ཡིན་པ་ལ་མཁས་པར་འགྱུར་བའི་ཕྱིར་དང༌།
-
-[Not yet translated: U01606.]
-
-<!-- TGD-001607 -->
-
 མཁན་སློབ་དགེ་འདུན་རྣམས་ཀྱི་མདུན་དུ་བླངས་པས་
-
-[Not yet translated: U01607.]
-
-<!-- TGD-001608 -->
-
 ཁྲེལ་ཡོད་ངོ་ཚ་ཤེས་པའི་ཕྱིར།
-
-[Not yet translated: U01608.]
-
-<!-- TGD-001609 -->
-
 གསོལ་གཞིའི་ལས་ཀྱི་གང་ཟག་ལ་བརྟེན་ནས་ལེན་པ་ཟབ་བོ། །
 
-[Not yet translated: U01609.]
+Here rites are especially important for entering the teaching. A rite is the teaching’s actual basis: when it is present, the teaching endures. Offering service and gifts of respect completes the accumulation of merit. Seeing the sequence of ritual procedures and their practice makes one skilled in what to do and what not to do. Taking [vows] before the preceptor, instructors, and community brings conscientiousness and a sense of shame. Therefore taking them in dependence on the persons [who conduct] the formal act of motion and three proclamations is profound.[^N-A-138]
 
 <!-- TGD-001610 -->
 
 དེ་སྐད་དུའང་ལུང་ལས།
-
-[Not yet translated: U01610.]
-
-<!-- TGD-001611 -->
-
 བཅོམ་ལྡན་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ནས་
-
-[Not yet translated: U01611.]
-
-<!-- TGD-001612 -->
-
 སྟོན་པ་གང་ལ་བགྱི་ཞུས་པས།
-
-[Not yet translated: U01612.]
-
-<!-- TGD-001613 -->
-
 སྟོན་པ་སོ་སོར་ཐར་པ་ལ་གྱིས་ཤིག །
-
-[Not yet translated: U01613.]
-
-<!-- TGD-001614 -->
-
 ཅེས་པ་དང་།
-
-[Not yet translated: U01614.]
-
-<!-- TGD-001615 -->
-
 ང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ནས་
-
-[Not yet translated: U01615.]
-
-<!-- TGD-001616 -->
-
 ཆོ་ག་ཕུན་སུམ་ཚོགས་པ་བརྟེན་པར་བྱའོ། །
-
-[Not yet translated: U01616.]
-
-<!-- TGD-001617 -->
-
 ཞེས་དང༌།
 
-[Not yet translated: U01617.]
+Accordingly, scripture relates that [the Buddha] was asked, “After the Blessed One has passed into final nirvana, whom should we take as our teacher?” He replied, “Take individual liberation as your teacher.” And: “After I have passed into final nirvana, rely on complete rites.” And:
 
 <!-- TGD-001618 -->
 
-ང་ནི་མྱ་ངན་འདས་གྱུར་ན།
-
-[Not yet translated: U01618.]
-
-<!-- TGD-001619 -->
-
+ང་ནི་མྱ་ངན་འདས་གྱུར་ན།<br>
 འདི་ནི་ཁྱེད་ཀྱི་སྟོན་པའོ།
 
-[Not yet translated: U01619.]
+“When I have passed into nirvana,<br>
+This will be your teacher.”
 
 <!-- TGD-001620 -->
 
 ཞེས་སོགས་སོ།
-
-[Not yet translated: U01620.]
-
-<!-- TGD-001621 -->
-
 རྡོ༽༽ དུག་གསུམ་ལས་འདོད་ཆགས་དང་ལྷག་པར་ཞེ་སྡང་ཉེས་པ་ཆེ་བར་གསུངས་མོད།
-
-[Not yet translated: U01621.]
-
-<!-- TGD-001622 -->
-
 འདིར་ནི་མི་ཤེས་པ་གཏི་མུག་དེ་ཉེས་པ་གཞན་ལས་ལྕི་སྟེ།
-
-[Not yet translated: U01622.]
-
-<!-- TGD-001623 -->
-
 རྣམ་འགྲེལ་ལས།
 
-[Not yet translated: U01623.]
+And so forth. Vajra statement. Although desire and especially hatred are said to be grave faults among the three poisons, here unknowing stupidity is weightier than the other faults. The Commentary on Valid Cognition says:
 
 <!-- TGD-001624 -->
 
-བདག་ཡོད་ན་ནི་གཞན་དུ་ཤེས།
-
-[Not yet translated: U01624.]
-
-<!-- TGD-001625 -->
-
-བདག་གཞན་ཆ་ལས་འཇིག་དང་སྡང༌།
-
-[Not yet translated: U01625.]
-
-<!-- TGD-001626 -->
-
-དེ་གཉིས་དག་དང་ཡོད་འབྲེལ་ལས། །
-
-[Not yet translated: U01626.]
-
-<!-- TGD-001627 -->
-
+བདག་ཡོད་ན་ནི་གཞན་དུ་ཤེས།<br>
+བདག་གཞན་ཆ་ལས་འཇིག་དང་སྡང༌།<br>
+དེ་གཉིས་དག་དང་ཡོད་འབྲེལ་ལས། །<br>
 ཉེས་པ་ཐམས་ཅད་འབྱུང་བ་ཡིན།
 
-[Not yet translated: U01627.]
+“When there is a self, one knows an other.<br>
+From the division into self and other come fear and hatred.<br>
+Through connection with those two,<br>
+Every fault arises.”[^N-A-139]
 
 <!-- TGD-001628 -->
 
 ཅེས་དང་།
-
-[Not yet translated: U01628.]
-
-<!-- TGD-001629 -->
-
 སྡུད་པ་ལས།
-
-[Not yet translated: U01629.]
-
-<!-- TGD-001630 -->
-
 སེམས་ཅན་ཐ་མ་འབྲིང་དང་མཆོག་གྱུར་ཇི་སྙེད་པ། །
-
-[Not yet translated: U01630.]
-
-<!-- TGD-001631 -->
-
 དེ་ཀུན་མ་རིག་སོགས་དང༌།
-
-[Not yet translated: U01631.]
-
-<!-- TGD-001632 -->
-
 ཉེ་བར་འཁོར་གྱིས་ཞུས་པ་ལས།
-
-[Not yet translated: U01632.]
-
-<!-- TGD-001633 -->
-
 འདོད་ཆགས་ནི་ཉེས་པ་ཆུང་ལ་འབྲལ་དཀའ།
-
-[Not yet translated: U01633.]
-
-<!-- TGD-001634 -->
-
 ཞེ་སྡང་ནི་ཉེས་པ་ཆེ་ལ་འབྲལ་དཀའ།
-
-[Not yet translated: U01634.]
-
-<!-- TGD-001635 -->
-
 གཏི་མུག་ནི་ཉེས་པ་ཡང་ཆེ་ལ་འབྲལ་ཡང་དཀའ།
-
-[Not yet translated: U01635.]
-
-<!-- TGD-001636 -->
-
 ཞེས་གསུངས་པས་
 
-[Not yet translated: U01636.]
+The Condensed Perfection of Discerning Knowing also says, “All beings who are inferior, middling, or supreme—all of them, ignorance …,” and so forth. The Questions of Upāli says: “Desire is a small fault but difficult to part from. Hatred is a great fault and difficult to part from. Stupidity is both a great fault and difficult to part from.”[^N-A-140]
 
 <!-- TGD-001637 -->
 
 འདི་ཡོད་ན་བདག་མེད་ཀྱི་དོན་མི་རྟོགས་པས་
-
-[Not yet translated: U01637.]
-
-<!-- TGD-001638 -->
-
 དེ་མ་རྟོགས་ན་རྒྱུ་འབྲས་ཀྱི་རྟེན་འབྲེལ་སྤང་བླང་མི་ཤེས་ཤིང་
-
-[Not yet translated: U01638.]
-
-<!-- TGD-001639 -->
-
 འབྲས་བུ་ངན་སོང་ལས་མི་འདའ་བའི་ཕྱིར་རོ།
 
-[Not yet translated: U01639.]
+When this [stupidity] is present, one does not realize the meaning of selflessness. Without that realization, one does not know what to reject and accept within dependent arising as cause and result, and therefore does not transcend the result of bad migrations.
 
 <!-- TGD-001640 -->
 
 རྡོ༽༽ ངན་འགྲོའི་གནས་དམྱལ་བ་དམན་པ་དུད་འགྲོ་མཐོ་བར་འདོད་མོད་ཀྱི།
-
-[Not yet translated: U01640.]
-
-<!-- TGD-001641 -->
-
 འདིར་ནི་དུད་འགྲོ་ཆོས་ཅན་
-
-[Not yet translated: U01641.]
-
-<!-- TGD-001642 -->
-
 ཁྱོད་གཏི་མུག་ཆེ་བའི་ཕྱིར་
-
-[Not yet translated: U01642.]
-
-<!-- TGD-001643 -->
-
 ཁྱོད་ཀུན་ལས་དམན་པ་ཡིན་པར་ཐལ་ལོ།
-
-[Not yet translated: U01643.]
-
-<!-- TGD-001644 -->
-
 དེའི་དོན་ནི་
-
-[Not yet translated: U01644.]
-
-<!-- TGD-001645 -->
-
 དམྱལ་བ་དང་ཡི་དྭགས་སུ་གནས་སྐབས་སྡུག་བསྔལ་ཆེ་ཡང་
-
-[Not yet translated: U01645.]
-
-<!-- TGD-001646 -->
-
 ཡུན་ཐུང་བས་མཐོ་རིས་སུ་སྐྱེ་བ་མང་དུ་གསུངས་ཏེ།
-
-[Not yet translated: U01646.]
-
-<!-- TGD-001647 -->
-
 གང་ལ་སྐྱེས། རྒྱུ་གང་གིས་སྐྱེས། ཇི་ལྟར་སྐྱེས་པ་ཤེས་པས་
-
-[Not yet translated: U01647.]
-
-<!-- TGD-001648 -->
-
 དགེ་བའི་བསམ་པ་སྐྱེས་ཏེ་
-
-[Not yet translated: U01648.]
-
-<!-- TGD-001649 -->
-
 ཚེ་འཕོས་པ་མང་དུ་འབྱུང་བའི་ཕྱིར་རོ། །
 
-[Not yet translated: U01649.]
+Vajra statement. Although the hells are held to be lower and animals higher among the bad migrations, here, taking animals as the subject, it follows that they are lowest of all because their stupidity is great. The meaning is this: although suffering is temporarily greater in the hell and hungry-ghost states, their duration is short, and many are said to be reborn in higher realms. Knowing where they have been born, through what cause, and how, they generate virtuous intentions; many therefore pass away [from those states].
 
 <!-- TGD-001650 -->
 
 དུད་འགྲོ་ནི་རྨོངས་ཤིང་བླུན་པ་གཏི་མུག་པས་
-
-[Not yet translated: U01650.]
-
-<!-- TGD-001651 -->
-
 དེ་འདྲ་གང་ཡང་མི་འབྱུང་ཞིང་
-
-[Not yet translated: U01651.]
-
-<!-- TGD-001652 -->
-
 སྡུག་བསྔལ་ལ་སྔ་མ་མ་དག་པར་ཕྱི་མའི་རྒྱུ་ཉིན་རེ་བཞིན་སྲོག་ཆག་མང་པོ་ཟར་འགྲོ་བས་
-
-[Not yet translated: U01652.]
-
-<!-- TGD-001653 -->
-
 ཐར་དུས་ཀྱང་ཤིན་ཏུ་རིང་བའི་ཕྱིར་རོ། །
-
-[Not yet translated: U01653.]
-
-<!-- TGD-001654 -->
-
 དེ་སྐད་དུའང༌།
-
-[Not yet translated: U01654.]
-
-<!-- TGD-001655 -->
-
 དྲན་པ་ཉེར་བཞག་ལས།
-
-[Not yet translated: U01655.]
-
-<!-- TGD-001656 -->
-
 སེམས་ཅན་དམྱལ་བར་སྐྱེས་པ་ནི་སླ་ཡི་༑
-
-[Not yet translated: U01656.]
-
-<!-- TGD-001657 -->
-
 དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེས་པ་ནི་དེ་ལྟར་མ་ཡིན་ནོ། །
-
-[Not yet translated: U01657.]
-
-<!-- TGD-001658 -->
-
 ཞེས་གསུངས་པ་ཡིན་ནོ། །
 
-[Not yet translated: U01658.]
+Animals, being bewildered, foolish, and stupid, have none of these [opportunities]. Before their earlier suffering has been purified, they consume many creatures each day, creating causes of later suffering. Their time to liberation is therefore extremely long. Accordingly, the Close Applications of Mindfulness says, “Birth in the hells is easy [to emerge from]; birth among animals is not so.”[^N-A-141]
 
 <!-- TGD-001659 -->
 
 རྡོ༽༽ བསླབ་པ་བླང་པས་ཉེས་པ་སྤྱད་པ་ནི་ལྕི་ལ་ཐོག་མ་ནས་མ་ཐོབ་པ་ལ་ཉེས་པ་མེད་པར་འདོད་མོད།
-
-[Not yet translated: U01659.]
-
-<!-- TGD-001660 -->
-
 འདིར་ནི་ཉམས་པ་ལས༌མ་ཐོབ་པ་ཉེས་པ་ཆེ་བར་བཞེད་དེ་
-
-[Not yet translated: U01660.]
-
-<!-- TGD-001661 -->
-
 འཁོར་བའི་གཉེན་པོ་དགག་སྒྲུབ་ཀྱི་ཚུལ་ཁྲིམས་ཡིན།
-
-[Not yet translated: U01661.]
-
-<!-- TGD-001662 -->
-
 དེ་སྤྱད་དཀའ་བའི་གནད་ཀྱིས་
-
-[Not yet translated: U01662.]
-
-<!-- TGD-001663 -->
-
 ལན་གཅིག་ཉམས་ཤིང༌སྡུག་བསྔལ་ཉམས་སུ་མྱོང་ཡང་
-
-[Not yet translated: U01663.]
-
-<!-- TGD-001664 -->
-
 ཐོག་མར་བསྲུང་སེམས་ངེས་འབྱུང་གིས་མཚམས་སྦྱར་ཏེ་
-
-[Not yet translated: U01664.]
-
-<!-- TGD-001665 -->
-
 མཆོག་གསུམ་དང་འབྲེལ་བའི་ཕྱིར་
-
-[Not yet translated: U01665.]
-
-<!-- TGD-001666 -->
-
 སྤོང་སེམས་དགེ་བའི་འབྲས་བུ་ནི་འབྱུང་སྟེ།
-
-[Not yet translated: U01666.]
-
-<!-- TGD-001667 -->
-
 འཇམ་དཔལ་གནས་པའི་མདོ་ལས།
 
-[Not yet translated: U01667.]
+Vajra statement. It is held that wrongdoing is grave for someone who has taken up the trainings, while there is no fault for someone who never acquired them. Here never acquiring them is held to be a greater fault than impairing them. Ethical discipline in denying and affirming is the antidote to samsara. Because it is difficult to practice, one may impair it on an occasion and experience suffering. Yet one’s initial ordinary mind intent on preserving it was connected through renunciation to the Three Jewels. Therefore the virtuous result of ordinary mind intent on abandonment will arise. The Sūtra of Mañjuśrī’s Abiding relates:
 
 <!-- TGD-001668 -->
 
 འཇམ་དཔལ་གྱིས་ཤཱ་རིའི་བུ་ཁྱོད་བསམ་གཏན་གང་བྱེད་སོགས་དྲིས་པས་
-
-[Not yet translated: U01668.]
-
-<!-- TGD-001669 -->
-
 དགེ་སློང་རྒྱ་ཆེན་ཆེར་འཁྲུགས་ནས་ལུས་དེ་ཉིད་དུ་དམྱལ་བར་ལྟུང་།
-
-[Not yet translated: U01669.]
-
-<!-- TGD-001670 -->
-
 ཤཱ་རིའི་བུས་དགེ་སློང་དེ་དག་ཆུད་བཟན་ཏོ་ཞེས་སྨྲས་པས།
-
-[Not yet translated: U01670.]
-
-<!-- TGD-001671 -->
-
 སངས་རྒྱས་ཀྱིས་ཁྱོད་དེ་སྐད་མ་ཟེར།
-
-[Not yet translated: U01671.]
-
-<!-- TGD-001672 -->
-
 དེ་དག་དམྱལ་བར་ཐང་ཅིག་རེག་ནས་དགའ་ལྡན་དུ་སྐྱེ་བར་འགྱུར་རོ། །
-
-[Not yet translated: U01672.]
-
-<!-- TGD-001673 -->
-
 ཞེས་དང་།
 
-[Not yet translated: U01673.]
+Mañjuśrī asked Śāriputra, “What meditative absorption do you practice?” and so forth. Many monks became greatly disturbed and fell into hell in those very bodies. Śāriputra said, “Those monks have been ruined.” The Buddha replied, “Do not say that. After briefly touching hell, they will be reborn in Tuṣita.”[^N-A-142]
 
 <!-- TGD-001674 -->
 
 རེ་ཞིག་མི་དགེ་བ་ལ་ཞུགས་ཀྱང་འགྱོད་པ་ལྡོག་པར་འགྱུར་ཏེ།
-
-[Not yet translated: U01674.]
-
-<!-- TGD-001675 -->
-
 བཤེས་སྤྲིང་ལས།
 
-[Not yet translated: U01675.]
+Moreover, even if one temporarily enters nonvirtue, regret will cause one to turn back. A Letter to a Friend says:
 
 <!-- TGD-001676 -->
 
-གང་ཞིག་སྔོན་ཆད×
-
-[Not yet translated: U01676.]
-
-<!-- TGD-001677 -->
-
+གང་ཞིག་སྔོན་ཆད×<br>
 ཕྱིས་ནས་ ཟླ་བ་སྤྲིན×
 
-[Not yet translated: U01677.]
+“Whoever formerly—[×: source abbreviation unresolved].<br>
+Afterward … the moon … clouds—[×: source abbreviation unresolved].”[^N-A-143]
 
 <!-- TGD-001678 -->
 
 དགའ་བོ་སོར་འཕྲེང་྾ ཅེས་དང༌།
-
-[Not yet translated: U01678.]
-
-<!-- TGD-001679 -->
-
 ཡང༌དབྱིག་གཉེན་གྱིས་མི་ཤེས་སྡིག་པ་བྱས་པ་ཤིན་ཏུ་ལྕི།
-
-[Not yet translated: U01679.]
-
-<!-- TGD-001680 -->
-
 སོགས་དང༌།
 
-[Not yet translated: U01680.]
+And: “Nanda, Aṅgulimāla ….”[^N-A-144] Vasubandhu also says, “Evil deeds committed unknowingly are extremely grave,” and so forth.
 
 <!-- TGD-001681 -->
 
 འདུལ་བ་ལས།
-
-[Not yet translated: U01681.]
-
-<!-- TGD-001682 -->
-
 ལེགས་སྐར་གྱིས་ལ་བ་ནག་པོ་གྱོན་ནས་ང་ནི་བ་ཀུ་ལའོ།
-
-[Not yet translated: U01682.]
-
-<!-- TGD-001683 -->
-
 ཞེས་སངས་རྒྱས་ལ་བསྡིག་པས་བརྒྱ་བྱིན་གྱིས་འདི་འདྲའང་འདུལ་བར་ངེས་པར་འབྱུང་ངམ་ཞུས་པས།
-
-[Not yet translated: U01683.]
-
-<!-- TGD-001684 -->
-
 ནམ་ཞིག་ན་དུས་ཡོད་གསུངས་པ་སོགས་ཀྱི་ལེགས་པར་གྲུབ་བོ། །
 
-[Not yet translated: U01684.]
+The Vinaya also relates that Sunakṣatra put on a black woolen garment, said, “I am Bakula,” and threatened the Buddha. Indra asked, “Will even someone like this certainly come to be tamed?” [The Buddha] replied, “At some point, there will be a time.” These accounts establish the matter well.
 
 <!-- TGD-001685 -->
 
 སོ་ཐར་གནད་བསྡུས་ཏེ་རྡོ་རྗེའི་གསུངས་ཚིག་ཉི་ཤུ་པ་ལྷན་ཐབས་ཚིག་གསུམ་པའི་འགྲེལ་བཤད་ཀྱི་སྐབས་ཏེ་གསུམ་པའོ། །
 
-[Not yet translated: U01685.]
+This is the third section: an explanation of the twenty vajra statements and three supplementary statements summarizing the essential points of individual liberation.
 
 <!-- TGD-001686 -->
 
@@ -10956,7 +9938,7 @@ I, the degenerate age’s mendicant, the Drigung incarnation Togden Könchok Thu
 
 [^N-A-003]: Anchors: U00016. Exact Tibetan: རྒྱུད་སྡེ་ Category: terminology gap. Issue: The established རྒྱུད་ = continuum does not directly express the bibliographical compound here. Working treatment: Tantra classes is a provisional compound-specific rendering, distinguished from continuum for a being’s continuity. Uncertainty: The working interpretation is provisional. Review action: Approve a separate scripture/tantra sense and its compounds; do not change the continuum assignment.
 
-[^N-A-004]: Anchors: U00030, U00031, U00039. Exact Tibetan: བརྒྱ་དང་ལྔ་བཅུ། Category: scope. Issue: The introduction gives 150 utterances and 40 supplements; U00039 gives 152 and 47. Working treatment: Retain both stated counts without harmonizing them. Uncertainty: The working interpretation is provisional. Review action: Check whether these are rounded counts, different enumerations, or transcript errors.
+[^N-A-004]: Anchors: U00030, U00031. Exact Tibetan: བརྒྱ་དང་ལྔ་བཅུ། Category: scope. Issue: The introduction gives 150 utterances and 40 supplements; U00039 gives 152 and 47. Working treatment: Retain both stated counts without harmonizing them. Uncertainty: The working interpretation is provisional. Review action: Check whether these are rounded counts, different enumerations, or transcript errors.
 
 [^N-A-005]: Anchors: U00041, U00051. Exact Tibetan: དབང་ཕྱུག་ཕ་ཤཱཀྱ་ Category: syntax/reference. Issue: The syllable ཕ་ before Śākya is syntactically doubtful; the list concerns the ten powers. གནས་དང་གནས་མིན་ here concerns possibility, not the meditation term abiding. Working treatment: Translate the ten-power construction provisionally; no father is supplied. Uncertainty: The working interpretation is provisional. Review action: Check ཕ་ and the etymological explanation of Śākya.
 
@@ -11056,7 +10038,7 @@ I, the degenerate age’s mendicant, the Drigung incarnation Togden Könchok Thu
 
 [^N-A-053]: Anchors: U00689, U00690. Exact Tibetan: སྦྱིན་ལེན་ན་ ཆུ་མི་འཐུང་བ་ Category: syntax/reference. Issue: The relation between giving/receiving and abstaining from water is unclear; the sequence may be defective. Working treatment: Retain both practices with a bracketed connective instead of inventing an ascetic rationale. Uncertainty: The working interpretation is provisional. Review action: Collate the practice list and check the clause division.
 
-[^N-A-054]: Anchors: U00695, U00698, U00703, U00707. Exact Tibetan: བྱང་ཆུབ་སེམས་ Category: terminology gap. Issue: Bodhicitta and its generation lack full-expression glossary assignments. Working treatment: Ordinary mind of awakening provisionally preserves the established ordinary mind component; bodhisattva remains a provisional whole-expression name for the person. Uncertainty: The working interpretation is provisional. Review action: Approve connected compound entries for bodhicitta, its generation, and bodhisattva; do not silently shorten standalone སེམས་.
+[^N-A-054]: Anchors: U00695. Exact Tibetan: སེམས་བསྐྱེད་ Category: terminology gap. Issue: Bodhicitta and its generation lack full-expression glossary assignments; related expanded occurrences follow at U00698, U00703, and U00707. Working treatment: Ordinary mind of awakening provisionally preserves the established ordinary mind component; bodhisattva remains a provisional whole-expression name for the person. Uncertainty: The working interpretation is provisional. Review action: Approve connected compound entries for bodhicitta, its generation, and bodhisattva; do not silently shorten standalone སེམས་.
 
 [^N-A-055]: Anchors: U00705. Exact Tibetan: སེམས་ཤེས་སུ་ཞིག་ Category: contextual use. Issue: The compound སེམས་ཤེས་ is irregular in this rhetorical question; its referent is a person capable of judgment. Working treatment: Use discerning person provisionally, not as a mapping of ordinary mind or discerning knowing. Uncertainty: The working interpretation is provisional. Review action: Verify the quotation’s reading, including whether སེམས་ཤེས་ is correct.
 
@@ -11132,7 +10114,7 @@ I, the degenerate age’s mendicant, the Drigung incarnation Togden Könchok Thu
 
 [^N-A-091]: Anchors: U01186, U01187, U01188. Exact Tibetan: དེ་རྗེས་བཅུ་གཉིས་རྫོགས་རིམ་བསྒོམ་པ་ཡིན་ Category: material supply. Issue: The second twelve omits its unit; the preceding re distributes twelve years over the listed subjects. Working treatment: Supply years in brackets in the second occurrence. Generation stage, completion stage, and six applications are provisional whole-expression technical renderings. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
 
-[^N-A-092]: Anchors: U01205. Exact Tibetan: སྐུ་གསུང་ཐུགས་ཀྱི་ཟད་པ་ Category: source reading. Issue: The text has exhaustion (zad pa), where a familiar formula might have inexhaustible; the syntax connecting this to the ornamental wheel is defective. Working treatment: Translate the intelligible assertion of limitless manifestations and preserve exhaustion visibly as an unresolved transmitted phrase. Use awakened mind provisionally for the honorific thugs. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+[^N-A-092]: Anchors: U01205. Exact Tibetan: སྐུ་གསུང་ཐུགས་ཀྱི་ཟད་པ་ Category: source reading. Issue: The text has exhaustion (zad pa), where a familiar formula might have inexhaustible; the syntax connecting this to the wheel of adornment is defective. Working treatment: Translate the intelligible assertion of limitless manifestations and preserve exhaustion visibly as an unresolved transmitted phrase. Use awakened mind provisionally for the honorific thugs. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
 
 [^N-A-093]: Anchors: U01213. Exact Tibetan: རྒྱུད་གཉིས་མེད་ Category: terminology. Issue: The glossary’s continuum mapping for rgyud does not name a class of scriptures. Working treatment: Use tantras provisionally for the textual compound; nondual specifies its class. Supply a buddha’s in the preceding sentence to identify the actor implicit in the discussion. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
 
@@ -11162,7 +10144,7 @@ I, the degenerate age’s mendicant, the Drigung incarnation Togden Könchok Thu
 
 [^N-A-106]: Anchors: U01347, U01348, U01349. Exact Tibetan: དེ་ཁོ་ན་ཉིད་བཞེད་པའི་གནད་ Category: material supply. Issue: Here de kho na nyid can refer back emphatically to the account just given rather than introduce an abstract doctrine of suchness. The final subject is omitted. Working treatment: Read precisely this provisionally and bracket its corresponding phenomenon to make the shared subject explicit. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
 
-[^N-A-107]: Anchors: U01350, U01351. Exact Tibetan: གཞི་བསམ་སྦྱོར་བ་མཐར་ཐུག་བཞི་ Category: terminology. Issue: The four factors belong to an action whose noun is implicit. The technical whole uses of gzhi and ’du shes require context-specific treatment. Working treatment: Supply action and aspects in brackets; use basis for the action’s object and recognition provisionally for ’du shes in identifying that object. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+[^N-A-107]: Anchors: U01350, U01351. Exact Tibetan: གཞི་བསམ་སྦྱོར་བ་མཐར་ཐུག་བཞི་ Category: terminology. Issue: The four factors belong to an action whose noun is implicit. Gzhi is used for an action basis rather than an ontological Ground. Working treatment: Supply action and aspects in brackets; use basis provisionally for the action’s object and retain perception for ’du shes. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
 
 [^N-A-108]: Anchors: U01364, U01365. Exact Tibetan: ཁྱོད་ཀྱི་ཐུགས་འདུལ་མཛོད་ཅིག་ Category: terminology. Issue: Thugs is an honorific address to the hearer, not proof that their mind is already awakened. The next citation stops mid-phrase. Working treatment: Use own mind locally for honorific thugs, preserving the imperative; keep the second quotation incomplete without restoring a known verse. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
 
@@ -11191,6 +10173,52 @@ I, the degenerate age’s mendicant, the Drigung incarnation Togden Könchok Thu
 [^N-A-120]: Anchors: U01429. Exact Tibetan: ཁྲི་རྐང་གི་གླིང་གཞི་ལས། Category: bibliographic uncertainty. Issue: The source gives an unusual abbreviated title or section label whose exact identity is unverified. Working treatment: Translate its visible components provisionally and mark the title uncertain rather than assign a canonical identity. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
 
 [^N-A-121]: Anchors: U01436. Exact Tibetan: མི་གཏོད། Category: source reading. Issue: The source again has gtod rather than the expected gtong of relinquishment. Working treatment: Translate not relinquished provisionally from the sustained argument, recording rather than silently repairing the source spelling. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-122]: Anchors: U01448, U01449. Exact Tibetan: ཉམས་པ་ནི་རང་ལ་ནོར་ཡོད་པ་ཅན་བཞིན་ནོ། Category: source reading. Issue: Both sides of the contrast read impairment; the wealth comparison suggests a missing negative in the second, but that is unverified. Working treatment: Preserve the second impairment explicitly as an uncertain transmitted phrase; bracket the implicit restraints and aspect without silently correcting the contrast. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-123]: Anchors: U01456. Exact Tibetan: མཐར་ཁྱོན་ལས་འདའ་ Category: source reading. Issue: The transmitted object is khyon, expanse, rather than an explicit samsara. The opening and following quotation specify nirvana. Working treatment: Provisionally supply samsara in brackets as the intended scope of passing beyond, retaining the anomalous source here. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-124]: Anchors: U01465. Exact Tibetan: བཅས་པ་སྒྱིས་འཚལ་ Category: source reading. Issue: The hedge expression is irregularly transmitted, and the source’s tree-grove analogy is compressed. Working treatment: Render thorn hedge provisionally from the protecting-grove relationship; bracket misdeeds and restraints where the nouns are implicit. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-125]: Anchors: U01471. Exact Tibetan: ཕྱྭ་ Category: proper name. Issue: The name of this creator figure is not identified securely in the supplied materials. Working treatment: Retain Phywa in transliteration without equating it with an unverified deity. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-126]: Anchors: U01489. Exact Tibetan: ལུང་སྡེ་བཞི་རེ་རེ་བཅའ་ཞུས་པའི་ཕྱིར། Category: source reading. Issue: The verb bca’ zhus is irregular and the agent is implicit. Working treatment: Render the hypothetical attribution of prescribing to śrāvakas provisionally, bracket the supplied agent, and retain the source for review. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-127]: Anchors: U01511. Exact Tibetan: བཅས་མ་བཅས་གཉིས་ཀའང་ཉེས་པ་ཆེ་ཆུང་མཉམ་པ་ Category: source reading. Issue: The statement can mean equal degrees of fault or that both categories admit greater and lesser degrees. Working treatment: Read it provisionally as both admitting degrees, consistent with the question about subtle and gross; bracket misdeeds. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-128]: Anchors: U01512, U01513, U01514. Exact Tibetan: མི་སྐྱེས་དགྲ་བཟོད་པ་ཐོབ་པ་ Category: source reading. Issue: The name has mi skyes rather than the usual ma skyes, but the named attainment and earlier discussion point to Ajātaśatru. The objection’s syntax and missing object of arising are uncertain. Working treatment: Retain Ajātaśatru as a provisional identification; bracket result and keep acceptance unspecified rather than introduce an unattested realization level. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-129]: Anchors: U01515. Exact Tibetan: སྡེ༽༽ Category: source annotation. Issue: The label differs from the usual Vajra statement or Supplement labels. Working treatment: Translate Section visibly and retain the unusual source label without reclassifying it. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-130]: Anchors: U01530. Exact Tibetan: བུ་མེད་ཆུས་ཁུར་བར་རོ་ལེན་པ་ Category: source reading. Issue: Ro normally denotes a corpse, but the water-rescue context may use it for the woman’s body; the source does not establish whether she is alive. Working treatment: Use body provisionally without claiming successful rescue or that she was dead; bracket acts in the conclusion. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-131]: Anchors: U01537, U01539. Exact Tibetan: རྒྱུ་ཀུན་གཞི་ལ་ཉོན་མོངས་པའི་ས་འོན་གནས་པ་དེ། Category: missing reference. Issue: The reference is blank for the causal explanation; sa ’on is transmitted where seed is expected. Pham lhag abbreviates two Vinaya offense categories. Working treatment: Translate directly from Tibetan with seed as a flagged contextual reading. Use defeat and offense requiring a remainder procedure provisionally, preserving both categories rather than flattening them to defeat alone. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-132]: Anchors: U01554. Exact Tibetan: ཀུན་ཏུ་རྒྱུ་ཉེར་འཚོ་ལ། Category: missing reference. Issue: The reference is blank for the addressee; nyer ’tsho names the wanderer but the Sanskrit equivalence is not verified against the cited edition. Working treatment: Translate the addressee directly, provisionally using Upajīva; bracket his words and the teaching verb required by the compressed preceding sequence. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-133]: Anchors: U01556, U01558. Exact Tibetan: མཚུངས་མ་མེད་པའི་ Category: source reading. Issue: The source has an extra ma in the expression for unequaled; the first two lines also run across an electronic line boundary. Working treatment: Give the contextually defensible unequaled provisionally and preserve the two destination clauses without harmonizing their apparent repetition. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-134]: Anchors: U01560. Exact Tibetan: བརྩམས་པར་བྱ་ཞིང་དབྱུང་བར་བྱ། Category: material supply. Issue: The second verb is quoted without an explicit object. Working treatment: Supply effort in brackets provisionally, without restoring the rest of a known canonical verse. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-135]: Anchors: U01569. Exact Tibetan: དེ་ལྟར་ཡིན་ན་ Category: material supply. Issue: If it is thus could superficially point to the immediately preceding analogy, but the ensuing reductio targets restriction to followers. Working treatment: Supply the opposing view claims in brackets to identify the logically required antecedent, flagged for review. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-136]: Anchors: U01583, U01584. Exact Tibetan: འཇིག་རྟེན་གཞག་པ་དང༌། Category: bibliographic uncertainty. Issue: The two compact expressions may be abbreviated titles or section labels; their canonical identities are not securely established. Working treatment: Render them provisionally as titles and mark that status, without assigning external bibliographic references. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-137]: Anchors: U01596. Exact Tibetan: ཉེ་ཞོའི་ཕུང་པོར་ Category: source reading. Issue: Nye zho is an irregular expression here; the preceding argument concerns partiality toward ordained followers. Working treatment: Render partiality provisionally from that argument, retaining the exact source for checking. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-138]: Anchors: U01609. Exact Tibetan: གསོལ་གཞིའི་ལས་ Category: terminology and source reading. Issue: The formal-act term is transmitted as gsol gzhi rather than the expected gsol bzhi. Working treatment: Provisionally interpret the four-part communal act as a motion and three proclamations, record the source form, and bracket who conduct. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-139]: Anchors: U01625, U01626. Exact Tibetan: བདག་གཞན་ཆ་ལས་འཇིག་དང་སྡང༌། Category: source reading. Issue: The source reads ’jig, not the attachment term commonly expected in this quotation, and the following linkage is irregular. Working treatment: Render fear provisionally as the contextual value of ’jig, retain hatred, and do not restore a familiar canonical wording. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-140]: Anchors: U01634. Exact Tibetan: ཞེ་སྡང་ནི་ཉེས་པ་ཆེ་ལ་འབྲལ་དཀའ། Category: source reading. Issue: The source explicitly says hatred is difficult to part from; a familiar parallel may instead say easy. Working treatment: Retain difficult exactly as transmitted, without doctrinal or canonical harmonization. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-141]: Anchors: U01656, U01657. Exact Tibetan: སེམས་ཅན་དམྱལ་བར་སྐྱེས་པ་ནི་སླ་ཡི་༑ Category: material supply. Issue: The quoted adjective easy has no explicit complement. The surrounding argument concerns duration and difficulty of escape, not ease of obtaining a bad rebirth. Working treatment: Supply to emerge from in brackets as the contextual reading, while flagging that the words are not explicit in the quotation. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-142]: Anchors: U01669. Exact Tibetan: དགེ་སློང་རྒྱ་ཆེན་ཆེར་འཁྲུགས་ Category: source reading. Issue: The wording rgya chen may reflect an irregular expression for a large number, but does not unambiguously give a numeral. Working treatment: Render many monks provisionally; do not supply an unattested hundred or other exact number. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-143]: Anchors: U01676, U01677. Exact Tibetan: གང་ཞིག་སྔོན་ཆད× Category: source abbreviation. Issue: Both lines are abbreviated with literal multiplication-sign markers, and the second retains separated fragments. Working treatment: Translate only surviving words and keep both × markers visibly unresolved. Do not restore the complete familiar quotation from the reference. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
+
+[^N-A-144]: Anchors: U01678. Exact Tibetan: དགའ་བོ་སོར་འཕྲེང་྾ Category: source abbreviation. Issue: The source gives only two names followed by an abbreviation mark; the reference supplies two additional names. Working treatment: Retain the two attested names and an ellipsis. No additional names are restored. Uncertainty: The working interpretation is provisional. Review action: Check the reading and interpretation against an authenticated source.
 
 [^N-B-001]: Anchors: U01686, U01687, U01688. Exact Tibetan: སྙིང་རྗེ་བྱང་ཆུབ་ཀྱི་སེམས Category: terminology gap. Issue: The glossary has ordinary mind for sems, but no complete bodhicitta, bodhisattva, sentient-being or snying rje entries. The repeated compassion in this sentence is in the source. Working treatment: Use ordinary mind of awakening for bodhicitta, bodhisattva and sentient being for the lexicalized personal compounds, and compassion for snying rje; preserve the repetition. These are local proposals, not additions to the active glossary. Uncertainty: Compound treatments and the first sentence syntax require human review. Review action: Review these whole-expression proposals across section 4; distinguish compassion from established compassionate responsiveness.
 
