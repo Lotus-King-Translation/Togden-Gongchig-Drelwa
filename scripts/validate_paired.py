@@ -75,6 +75,9 @@ def validate(root=ROOT, final=False):
         raise ValueError('Pair identity/order mismatch')
     manifest=json.loads((root/'paired/manifest.json').read_text())
     if len(manifest['pairs'])!=len(srows):raise ValueError('Manifest pair count mismatch')
+    if manifest.get('translation_edition')!=tf['translation-edition'] or manifest.get('source_edition')!=sf['edition']:
+        raise ValueError('Manifest edition pins differ')
+    if manifest.get('paired_edition')!='paired-v0.1.0':raise ValueError('Wrong paired edition')
     if manifest.get('source_commit')!='8d7a583020ffc3dee6a4e56f6cecc35a18e09436':raise ValueError('Wrong pinned source commit')
     if manifest.get('glossary_sha256')!=sha(root/'glossary/expanded_tibetan_english_glossary.csv'):raise ValueError('Wrong pinned glossary')
     coverage=[]

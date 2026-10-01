@@ -1,6 +1,8 @@
 {
   "schema": "paired-text/2",
   "source_edition": "provisional-source-v0.1.0",
+  "translation_edition": "annotated-working-draft-v0.1.0",
+  "paired_edition": "paired-v0.1.0",
   "source_commit": "8d7a583020ffc3dee6a4e56f6cecc35a18e09436",
   "pairs": [
     {
@@ -2484,309 +2486,71 @@
     {
       "id": "TGD-000808",
       "source": [
-        "U00808"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000809",
-      "source": [
-        "U00809"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000810",
-      "source": [
-        "U00810"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000811",
-      "source": [
-        "U00811"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000812",
-      "source": [
-        "U00812"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000813",
-      "source": [
-        "U00813"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000814",
-      "source": [
+        "U00808",
+        "U00809",
+        "U00810",
+        "U00811",
+        "U00812",
+        "U00813",
         "U00814"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000815",
       "source": [
-        "U00815"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000816",
-      "source": [
-        "U00816"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000817",
-      "source": [
-        "U00817"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000818",
-      "source": [
-        "U00818"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000819",
-      "source": [
-        "U00819"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000820",
-      "source": [
-        "U00820"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000821",
-      "source": [
-        "U00821"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000822",
-      "source": [
-        "U00822"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000823",
-      "source": [
-        "U00823"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000824",
-      "source": [
-        "U00824"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000825",
-      "source": [
+        "U00815",
+        "U00816",
+        "U00817",
+        "U00818",
+        "U00819",
+        "U00820",
+        "U00821",
+        "U00822",
+        "U00823",
+        "U00824",
         "U00825"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000826",
       "source": [
-        "U00826"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000827",
-      "source": [
-        "U00827"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000828",
-      "source": [
-        "U00828"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000829",
-      "source": [
-        "U00829"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000830",
-      "source": [
-        "U00830"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000831",
-      "source": [
-        "U00831"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000832",
-      "source": [
-        "U00832"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000833",
-      "source": [
-        "U00833"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000834",
-      "source": [
+        "U00826",
+        "U00827",
+        "U00828",
+        "U00829",
+        "U00830",
+        "U00831",
+        "U00832",
+        "U00833",
         "U00834"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
+      "note_ids": [
+        "N-A-058"
+      ]
     },
     {
       "id": "TGD-000835",
       "source": [
         "U00835"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
@@ -2796,8 +2560,8 @@
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
@@ -2805,10 +2569,10 @@
       "source": [
         "U00837"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
@@ -2818,8 +2582,8 @@
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
@@ -2827,593 +2591,186 @@
       "source": [
         "U00839"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000840",
       "source": [
-        "U00840"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000841",
-      "source": [
-        "U00841"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000842",
-      "source": [
-        "U00842"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000843",
-      "source": [
-        "U00843"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000844",
-      "source": [
-        "U00844"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000845",
-      "source": [
+        "U00840",
+        "U00841",
+        "U00842",
+        "U00843",
+        "U00844",
         "U00845"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
+      "note_ids": [
+        "N-A-059"
+      ]
     },
     {
       "id": "TGD-000846",
       "source": [
-        "U00846"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000847",
-      "source": [
-        "U00847"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000848",
-      "source": [
+        "U00846",
+        "U00847",
         "U00848"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
+      "note_ids": [
+        "N-A-060"
+      ]
     },
     {
       "id": "TGD-000849",
       "source": [
-        "U00849"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000850",
-      "source": [
-        "U00850"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000851",
-      "source": [
-        "U00851"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000852",
-      "source": [
-        "U00852"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000853",
-      "source": [
-        "U00853"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000854",
-      "source": [
-        "U00854"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000855",
-      "source": [
+        "U00849",
+        "U00850",
+        "U00851",
+        "U00852",
+        "U00853",
+        "U00854",
         "U00855"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
+      "note_ids": [
+        "N-A-061"
+      ]
     },
     {
       "id": "TGD-000856",
       "source": [
-        "U00856"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000857",
-      "source": [
+        "U00856",
         "U00857"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000858",
       "source": [
-        "U00858"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000859",
-      "source": [
-        "U00859"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000860",
-      "source": [
-        "U00860"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000861",
-      "source": [
-        "U00861"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000862",
-      "source": [
+        "U00858",
+        "U00859",
+        "U00860",
+        "U00861",
         "U00862"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
+      "note_ids": [
+        "N-A-062"
+      ]
     },
     {
       "id": "TGD-000863",
       "source": [
-        "U00863"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000864",
-      "source": [
-        "U00864"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000865",
-      "source": [
-        "U00865"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000866",
-      "source": [
-        "U00866"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000867",
-      "source": [
-        "U00867"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000868",
-      "source": [
-        "U00868"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000869",
-      "source": [
-        "U00869"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000870",
-      "source": [
-        "U00870"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000871",
-      "source": [
-        "U00871"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000872",
-      "source": [
-        "U00872"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000873",
-      "source": [
-        "U00873"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000874",
-      "source": [
+        "U00863",
+        "U00864",
+        "U00865",
+        "U00866",
+        "U00867",
+        "U00868",
+        "U00869",
+        "U00870",
+        "U00871",
+        "U00872",
+        "U00873",
         "U00874"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
+      "note_ids": [
+        "N-A-063",
+        "N-A-064"
+      ]
     },
     {
       "id": "TGD-000875",
       "source": [
-        "U00875"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000876",
-      "source": [
-        "U00876"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000877",
-      "source": [
-        "U00877"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000878",
-      "source": [
-        "U00878"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000879",
-      "source": [
-        "U00879"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000880",
-      "source": [
-        "U00880"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000881",
-      "source": [
-        "U00881"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000882",
-      "source": [
+        "U00875",
+        "U00876",
+        "U00877",
+        "U00878",
+        "U00879",
+        "U00880",
+        "U00881",
         "U00882"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000883",
       "source": [
-        "U00883"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000884",
-      "source": [
-        "U00884"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000885",
-      "source": [
+        "U00883",
+        "U00884",
         "U00885"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
+      "note_ids": [
+        "N-A-065"
+      ]
     },
     {
       "id": "TGD-000886",
       "source": [
-        "U00886"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000887",
-      "source": [
+        "U00886",
         "U00887"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000888",
       "source": [
-        "U00888"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000889",
-      "source": [
-        "U00889"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000890",
-      "source": [
+        "U00888",
+        "U00889",
         "U00890"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000891",
       "source": [
-        "U00891"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000892",
-      "source": [
+        "U00891",
         "U00892"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
@@ -3421,76 +2778,26 @@
       "source": [
         "U00893"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000894",
       "source": [
-        "U00894"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000895",
-      "source": [
-        "U00895"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000896",
-      "source": [
-        "U00896"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000897",
-      "source": [
-        "U00897"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000898",
-      "source": [
-        "U00898"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000899",
-      "source": [
+        "U00894",
+        "U00895",
+        "U00896",
+        "U00897",
+        "U00898",
         "U00899"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
@@ -3498,32 +2805,22 @@
       "source": [
         "U00900"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000901",
       "source": [
-        "U00901"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000902",
-      "source": [
+        "U00901",
         "U00902"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
@@ -3531,32 +2828,22 @@
       "source": [
         "U00903"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000904",
       "source": [
-        "U00904"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000905",
-      "source": [
+        "U00904",
         "U00905"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
@@ -3564,693 +2851,199 @@
       "source": [
         "U00906"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000907",
       "source": [
-        "U00907"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000908",
-      "source": [
+        "U00907",
         "U00908"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000909",
       "source": [
-        "U00909"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000910",
-      "source": [
+        "U00909",
         "U00910"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
+      "note_ids": [
+        "N-A-066"
+      ]
     },
     {
       "id": "TGD-000911",
       "source": [
-        "U00911"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000912",
-      "source": [
-        "U00912"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000913",
-      "source": [
-        "U00913"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000914",
-      "source": [
-        "U00914"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000915",
-      "source": [
-        "U00915"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000916",
-      "source": [
-        "U00916"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000917",
-      "source": [
-        "U00917"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000918",
-      "source": [
-        "U00918"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000919",
-      "source": [
+        "U00911",
+        "U00912",
+        "U00913",
+        "U00914",
+        "U00915",
+        "U00916",
+        "U00917",
+        "U00918",
         "U00919"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000920",
       "source": [
-        "U00920"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000921",
-      "source": [
-        "U00921"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000922",
-      "source": [
-        "U00922"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000923",
-      "source": [
-        "U00923"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000924",
-      "source": [
+        "U00920",
+        "U00921",
+        "U00922",
+        "U00923",
         "U00924"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000925",
       "source": [
-        "U00925"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000926",
-      "source": [
-        "U00926"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000927",
-      "source": [
-        "U00927"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000928",
-      "source": [
-        "U00928"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000929",
-      "source": [
-        "U00929"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000930",
-      "source": [
+        "U00925",
+        "U00926",
+        "U00927",
+        "U00928",
+        "U00929",
         "U00930"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000931",
       "source": [
-        "U00931"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000932",
-      "source": [
-        "U00932"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000933",
-      "source": [
-        "U00933"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000934",
-      "source": [
+        "U00931",
+        "U00932",
+        "U00933",
         "U00934"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000935",
       "source": [
-        "U00935"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000936",
-      "source": [
-        "U00936"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000937",
-      "source": [
-        "U00937"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000938",
-      "source": [
-        "U00938"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000939",
-      "source": [
-        "U00939"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000940",
-      "source": [
+        "U00935",
+        "U00936",
+        "U00937",
+        "U00938",
+        "U00939",
         "U00940"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000941",
       "source": [
-        "U00941"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000942",
-      "source": [
-        "U00942"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000943",
-      "source": [
-        "U00943"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000944",
-      "source": [
-        "U00944"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000945",
-      "source": [
+        "U00941",
+        "U00942",
+        "U00943",
+        "U00944",
         "U00945"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000946",
       "source": [
-        "U00946"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000947",
-      "source": [
-        "U00947"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000948",
-      "source": [
-        "U00948"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000949",
-      "source": [
-        "U00949"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000950",
-      "source": [
-        "U00950"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000951",
-      "source": [
+        "U00946",
+        "U00947",
+        "U00948",
+        "U00949",
+        "U00950",
         "U00951"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000952",
       "source": [
-        "U00952"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000953",
-      "source": [
-        "U00953"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000954",
-      "source": [
-        "U00954"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000955",
-      "source": [
-        "U00955"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000956",
-      "source": [
-        "U00956"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000957",
-      "source": [
-        "U00957"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000958",
-      "source": [
-        "U00958"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000959",
-      "source": [
-        "U00959"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000960",
-      "source": [
+        "U00952",
+        "U00953",
+        "U00954",
+        "U00955",
+        "U00956",
+        "U00957",
+        "U00958",
+        "U00959",
         "U00960"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
+      "note_ids": [
+        "N-A-067"
+      ]
     },
     {
       "id": "TGD-000961",
       "source": [
-        "U00961"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000962",
-      "source": [
-        "U00962"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000963",
-      "source": [
-        "U00963"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000964",
-      "source": [
+        "U00961",
+        "U00962",
+        "U00963",
         "U00964"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-000965",
       "source": [
-        "U00965"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000966",
-      "source": [
-        "U00966"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000967",
-      "source": [
-        "U00967"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-000968",
-      "source": [
+        "U00965",
+        "U00966",
+        "U00967",
         "U00968"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
+      "note_ids": [
+        "N-A-068"
+      ]
     },
     {
       "id": "TGD-000969",
@@ -4258,9 +3051,9 @@
         "U00969"
       ],
       "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "role": "chapter_colophon",
+      "status": "translated",
+      "batch_file": "translations/batches/A/pairs.jsonl",
       "note_ids": []
     },
     {
@@ -15718,233 +14511,57 @@
     {
       "id": "TGD-002753",
       "source": [
-        "U02753"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002754",
-      "source": [
-        "U02754"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002755",
-      "source": [
-        "U02755"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002756",
-      "source": [
-        "U02756"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002757",
-      "source": [
-        "U02757"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002758",
-      "source": [
+        "U02753",
+        "U02754",
+        "U02755",
+        "U02756",
+        "U02757",
         "U02758"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-066"
+      ]
     },
     {
       "id": "TGD-002759",
       "source": [
-        "U02759"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002760",
-      "source": [
-        "U02760"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002761",
-      "source": [
-        "U02761"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002762",
-      "source": [
-        "U02762"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002763",
-      "source": [
-        "U02763"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002764",
-      "source": [
-        "U02764"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002765",
-      "source": [
-        "U02765"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002766",
-      "source": [
+        "U02759",
+        "U02760",
+        "U02761",
+        "U02762",
+        "U02763",
+        "U02764",
+        "U02765",
         "U02766"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002767",
       "source": [
-        "U02767"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002768",
-      "source": [
-        "U02768"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002769",
-      "source": [
-        "U02769"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002770",
-      "source": [
-        "U02770"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002771",
-      "source": [
-        "U02771"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002772",
-      "source": [
-        "U02772"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002773",
-      "source": [
+        "U02767",
+        "U02768",
+        "U02769",
+        "U02770",
+        "U02771",
+        "U02772",
         "U02773"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-067"
+      ]
     },
     {
       "id": "TGD-002774",
@@ -15953,1361 +14570,367 @@
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002775",
       "source": [
-        "U02775"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002776",
-      "source": [
-        "U02776"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002777",
-      "source": [
-        "U02777"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002778",
-      "source": [
-        "U02778"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002779",
-      "source": [
+        "U02775",
+        "U02776",
+        "U02777",
+        "U02778",
         "U02779"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002780",
       "source": [
-        "U02780"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002781",
-      "source": [
-        "U02781"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002782",
-      "source": [
-        "U02782"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002783",
-      "source": [
-        "U02783"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002784",
-      "source": [
-        "U02784"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002785",
-      "source": [
-        "U02785"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002786",
-      "source": [
-        "U02786"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002787",
-      "source": [
+        "U02780",
+        "U02781",
+        "U02782",
+        "U02783",
+        "U02784",
+        "U02785",
+        "U02786",
         "U02787"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-068"
+      ]
     },
     {
       "id": "TGD-002788",
       "source": [
-        "U02788"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002789",
-      "source": [
-        "U02789"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002790",
-      "source": [
+        "U02788",
+        "U02789",
         "U02790"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002791",
       "source": [
-        "U02791"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002792",
-      "source": [
-        "U02792"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002793",
-      "source": [
-        "U02793"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002794",
-      "source": [
-        "U02794"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002795",
-      "source": [
+        "U02791",
+        "U02792",
+        "U02793",
+        "U02794",
         "U02795"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-069"
+      ]
     },
     {
       "id": "TGD-002796",
       "source": [
-        "U02796"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002797",
-      "source": [
-        "U02797"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002798",
-      "source": [
-        "U02798"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002799",
-      "source": [
-        "U02799"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002800",
-      "source": [
-        "U02800"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002801",
-      "source": [
-        "U02801"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002802",
-      "source": [
-        "U02802"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002803",
-      "source": [
-        "U02803"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002804",
-      "source": [
-        "U02804"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002805",
-      "source": [
+        "U02796",
+        "U02797",
+        "U02798",
+        "U02799",
+        "U02800",
+        "U02801",
+        "U02802",
+        "U02803",
+        "U02804",
         "U02805"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002806",
       "source": [
-        "U02806"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002807",
-      "source": [
-        "U02807"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002808",
-      "source": [
+        "U02806",
+        "U02807",
         "U02808"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002809",
       "source": [
-        "U02809"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002810",
-      "source": [
-        "U02810"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002811",
-      "source": [
-        "U02811"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002812",
-      "source": [
+        "U02809",
+        "U02810",
+        "U02811",
         "U02812"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-070"
+      ]
     },
     {
       "id": "TGD-002813",
       "source": [
-        "U02813"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002814",
-      "source": [
-        "U02814"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002815",
-      "source": [
-        "U02815"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002816",
-      "source": [
-        "U02816"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002817",
-      "source": [
-        "U02817"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002818",
-      "source": [
+        "U02813",
+        "U02814",
+        "U02815",
+        "U02816",
+        "U02817",
         "U02818"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002819",
       "source": [
-        "U02819"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002820",
-      "source": [
-        "U02820"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002821",
-      "source": [
-        "U02821"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002822",
-      "source": [
-        "U02822"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002823",
-      "source": [
-        "U02823"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002824",
-      "source": [
+        "U02819",
+        "U02820",
+        "U02821",
+        "U02822",
+        "U02823",
         "U02824"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002825",
       "source": [
-        "U02825"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002826",
-      "source": [
-        "U02826"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002827",
-      "source": [
-        "U02827"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002828",
-      "source": [
-        "U02828"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002829",
-      "source": [
-        "U02829"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002830",
-      "source": [
-        "U02830"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002831",
-      "source": [
-        "U02831"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002832",
-      "source": [
+        "U02825",
+        "U02826",
+        "U02827",
+        "U02828",
+        "U02829",
+        "U02830",
+        "U02831",
         "U02832"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002833",
       "source": [
-        "U02833"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002834",
-      "source": [
-        "U02834"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002835",
-      "source": [
-        "U02835"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002836",
-      "source": [
-        "U02836"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002837",
-      "source": [
-        "U02837"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002838",
-      "source": [
-        "U02838"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002839",
-      "source": [
-        "U02839"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002840",
-      "source": [
-        "U02840"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002841",
-      "source": [
-        "U02841"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002842",
-      "source": [
+        "U02833",
+        "U02834",
+        "U02835",
+        "U02836",
+        "U02837",
+        "U02838",
+        "U02839",
+        "U02840",
+        "U02841",
         "U02842"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002843",
       "source": [
-        "U02843"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002844",
-      "source": [
-        "U02844"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002845",
-      "source": [
+        "U02843",
+        "U02844",
         "U02845"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-071"
+      ]
     },
     {
       "id": "TGD-002846",
       "source": [
-        "U02846"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002847",
-      "source": [
-        "U02847"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002848",
-      "source": [
-        "U02848"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002849",
-      "source": [
-        "U02849"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002850",
-      "source": [
-        "U02850"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002851",
-      "source": [
+        "U02846",
+        "U02847",
+        "U02848",
+        "U02849",
+        "U02850",
         "U02851"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-072"
+      ]
     },
     {
       "id": "TGD-002852",
       "source": [
-        "U02852"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002853",
-      "source": [
-        "U02853"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002854",
-      "source": [
-        "U02854"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002855",
-      "source": [
-        "U02855"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002856",
-      "source": [
-        "U02856"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002857",
-      "source": [
-        "U02857"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002858",
-      "source": [
-        "U02858"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002859",
-      "source": [
-        "U02859"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002860",
-      "source": [
-        "U02860"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002861",
-      "source": [
-        "U02861"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002862",
-      "source": [
-        "U02862"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002863",
-      "source": [
+        "U02852",
+        "U02853",
+        "U02854",
+        "U02855",
+        "U02856",
+        "U02857",
+        "U02858",
+        "U02859",
+        "U02860",
+        "U02861",
+        "U02862",
         "U02863"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-073"
+      ]
     },
     {
       "id": "TGD-002864",
       "source": [
-        "U02864"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002865",
-      "source": [
-        "U02865"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002866",
-      "source": [
-        "U02866"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002867",
-      "source": [
-        "U02867"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002868",
-      "source": [
-        "U02868"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002869",
-      "source": [
+        "U02864",
+        "U02865",
+        "U02866",
+        "U02867",
+        "U02868",
         "U02869"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002870",
       "source": [
-        "U02870"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002871",
-      "source": [
-        "U02871"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002872",
-      "source": [
-        "U02872"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002873",
-      "source": [
-        "U02873"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002874",
-      "source": [
-        "U02874"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002875",
-      "source": [
-        "U02875"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002876",
-      "source": [
+        "U02870",
+        "U02871",
+        "U02872",
+        "U02873",
+        "U02874",
+        "U02875",
         "U02876"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-074"
+      ]
     },
     {
       "id": "TGD-002877",
       "source": [
-        "U02877"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002878",
-      "source": [
-        "U02878"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002879",
-      "source": [
+        "U02877",
+        "U02878",
         "U02879"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-075"
+      ]
     },
     {
       "id": "TGD-002880",
       "source": [
-        "U02880"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002881",
-      "source": [
-        "U02881"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002882",
-      "source": [
-        "U02882"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002883",
-      "source": [
-        "U02883"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002884",
-      "source": [
+        "U02880",
+        "U02881",
+        "U02882",
+        "U02883",
         "U02884"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002885",
       "source": [
-        "U02885"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002886",
-      "source": [
-        "U02886"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002887",
-      "source": [
-        "U02887"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002888",
-      "source": [
-        "U02888"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002889",
-      "source": [
-        "U02889"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002890",
-      "source": [
+        "U02885",
+        "U02886",
+        "U02887",
+        "U02888",
+        "U02889",
         "U02890"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002891",
       "source": [
-        "U02891"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002892",
-      "source": [
+        "U02891",
         "U02892"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002893",
       "source": [
-        "U02893"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002894",
-      "source": [
+        "U02893",
         "U02894"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002895",
       "source": [
-        "U02895"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002896",
-      "source": [
-        "U02896"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002897",
-      "source": [
+        "U02895",
+        "U02896",
         "U02897"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
@@ -17317,470 +14940,152 @@
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002899",
       "source": [
-        "U02899"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002900",
-      "source": [
-        "U02900"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002901",
-      "source": [
-        "U02901"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002902",
-      "source": [
-        "U02902"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002903",
-      "source": [
-        "U02903"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002904",
-      "source": [
-        "U02904"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002905",
-      "source": [
+        "U02899",
+        "U02900",
+        "U02901",
+        "U02902",
+        "U02903",
+        "U02904",
         "U02905"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002906",
       "source": [
-        "U02906"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002907",
-      "source": [
-        "U02907"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002908",
-      "source": [
-        "U02908"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002909",
-      "source": [
+        "U02906",
+        "U02907",
+        "U02908",
         "U02909"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002910",
       "source": [
-        "U02910"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002911",
-      "source": [
-        "U02911"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002912",
-      "source": [
-        "U02912"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002913",
-      "source": [
-        "U02913"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002914",
-      "source": [
+        "U02910",
+        "U02911",
+        "U02912",
+        "U02913",
         "U02914"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002915",
       "source": [
-        "U02915"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002916",
-      "source": [
-        "U02916"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002917",
-      "source": [
+        "U02915",
+        "U02916",
         "U02917"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002918",
       "source": [
-        "U02918"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002919",
-      "source": [
+        "U02918",
         "U02919"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002920",
       "source": [
-        "U02920"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002921",
-      "source": [
-        "U02921"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002922",
-      "source": [
-        "U02922"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002923",
-      "source": [
-        "U02923"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002924",
-      "source": [
-        "U02924"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002925",
-      "source": [
+        "U02920",
+        "U02921",
+        "U02922",
+        "U02923",
+        "U02924",
         "U02925"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002926",
       "source": [
-        "U02926"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002927",
-      "source": [
-        "U02927"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002928",
-      "source": [
+        "U02926",
+        "U02927",
         "U02928"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002929",
       "source": [
-        "U02929"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002930",
-      "source": [
-        "U02930"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002931",
-      "source": [
+        "U02929",
+        "U02930",
         "U02931"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-076"
+      ]
     },
     {
       "id": "TGD-002932",
       "source": [
-        "U02932"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002933",
-      "source": [
-        "U02933"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002934",
-      "source": [
-        "U02934"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002935",
-      "source": [
-        "U02935"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002936",
-      "source": [
-        "U02936"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002937",
-      "source": [
+        "U02932",
+        "U02933",
+        "U02934",
+        "U02935",
+        "U02936",
         "U02937"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002938",
       "source": [
-        "U02938"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002939",
-      "source": [
-        "U02939"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002940",
-      "source": [
+        "U02938",
+        "U02939",
         "U02940"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
@@ -17790,338 +15095,124 @@
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002942",
       "source": [
-        "U02942"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002943",
-      "source": [
+        "U02942",
         "U02943"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002944",
       "source": [
-        "U02944"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002945",
-      "source": [
+        "U02944",
         "U02945"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002946",
       "source": [
-        "U02946"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002947",
-      "source": [
-        "U02947"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002948",
-      "source": [
+        "U02946",
+        "U02947",
         "U02948"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-077"
+      ]
     },
     {
       "id": "TGD-002949",
       "source": [
-        "U02949"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002950",
-      "source": [
-        "U02950"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002951",
-      "source": [
-        "U02951"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002952",
-      "source": [
-        "U02952"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002953",
-      "source": [
+        "U02949",
+        "U02950",
+        "U02951",
+        "U02952",
         "U02953"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002954",
       "source": [
-        "U02954"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002955",
-      "source": [
-        "U02955"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002956",
-      "source": [
-        "U02956"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002957",
-      "source": [
+        "U02954",
+        "U02955",
+        "U02956",
         "U02957"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002958",
       "source": [
-        "U02958"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002959",
-      "source": [
-        "U02959"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002960",
-      "source": [
-        "U02960"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002961",
-      "source": [
+        "U02958",
+        "U02959",
+        "U02960",
         "U02961"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-078"
+      ]
     },
     {
       "id": "TGD-002962",
       "source": [
-        "U02962"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002963",
-      "source": [
-        "U02963"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002964",
-      "source": [
-        "U02964"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002965",
-      "source": [
+        "U02962",
+        "U02963",
+        "U02964",
         "U02965"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-079"
+      ]
     },
     {
       "id": "TGD-002966",
       "source": [
-        "U02966"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002967",
-      "source": [
-        "U02967"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002968",
-      "source": [
-        "U02968"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002969",
-      "source": [
-        "U02969"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002970",
-      "source": [
-        "U02970"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002971",
-      "source": [
+        "U02966",
+        "U02967",
+        "U02968",
+        "U02969",
+        "U02970",
         "U02971"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
@@ -18129,10 +15220,10 @@
       "source": [
         "U02972"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
@@ -18142,184 +15233,44 @@
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002974",
       "source": [
-        "U02974"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002975",
-      "source": [
-        "U02975"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002976",
-      "source": [
-        "U02976"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002977",
-      "source": [
-        "U02977"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002978",
-      "source": [
-        "U02978"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002979",
-      "source": [
-        "U02979"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002980",
-      "source": [
-        "U02980"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002981",
-      "source": [
-        "U02981"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002982",
-      "source": [
-        "U02982"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002983",
-      "source": [
+        "U02974",
+        "U02975",
+        "U02976",
+        "U02977",
+        "U02978",
+        "U02979",
+        "U02980",
+        "U02981",
+        "U02982",
         "U02983"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002984",
       "source": [
-        "U02984"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002985",
-      "source": [
-        "U02985"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002986",
-      "source": [
-        "U02986"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002987",
-      "source": [
-        "U02987"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002988",
-      "source": [
-        "U02988"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002989",
-      "source": [
+        "U02984",
+        "U02985",
+        "U02986",
+        "U02987",
+        "U02988",
         "U02989"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
@@ -18329,636 +15280,182 @@
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002991",
       "source": [
-        "U02991"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002992",
-      "source": [
-        "U02992"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002993",
-      "source": [
-        "U02993"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002994",
-      "source": [
+        "U02991",
+        "U02992",
+        "U02993",
         "U02994"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-002995",
       "source": [
-        "U02995"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002996",
-      "source": [
-        "U02996"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002997",
-      "source": [
-        "U02997"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002998",
-      "source": [
-        "U02998"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-002999",
-      "source": [
-        "U02999"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003000",
-      "source": [
+        "U02995",
+        "U02996",
+        "U02997",
+        "U02998",
+        "U02999",
         "U03000"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003001",
       "source": [
-        "U03001"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003002",
-      "source": [
-        "U03002"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003003",
-      "source": [
-        "U03003"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003004",
-      "source": [
-        "U03004"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003005",
-      "source": [
-        "U03005"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003006",
-      "source": [
+        "U03001",
+        "U03002",
+        "U03003",
+        "U03004",
+        "U03005",
         "U03006"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003007",
       "source": [
-        "U03007"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003008",
-      "source": [
-        "U03008"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003009",
-      "source": [
-        "U03009"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003010",
-      "source": [
-        "U03010"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003011",
-      "source": [
+        "U03007",
+        "U03008",
+        "U03009",
+        "U03010",
         "U03011"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003012",
       "source": [
-        "U03012"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003013",
-      "source": [
-        "U03013"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003014",
-      "source": [
+        "U03012",
+        "U03013",
         "U03014"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003015",
       "source": [
-        "U03015"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003016",
-      "source": [
-        "U03016"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003017",
-      "source": [
-        "U03017"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003018",
-      "source": [
+        "U03015",
+        "U03016",
+        "U03017",
         "U03018"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-080"
+      ]
     },
     {
       "id": "TGD-003019",
       "source": [
-        "U03019"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003020",
-      "source": [
-        "U03020"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003021",
-      "source": [
-        "U03021"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003022",
-      "source": [
-        "U03022"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003023",
-      "source": [
-        "U03023"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003024",
-      "source": [
-        "U03024"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003025",
-      "source": [
+        "U03019",
+        "U03020",
+        "U03021",
+        "U03022",
+        "U03023",
+        "U03024",
         "U03025"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003026",
       "source": [
-        "U03026"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003027",
-      "source": [
-        "U03027"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003028",
-      "source": [
+        "U03026",
+        "U03027",
         "U03028"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003029",
       "source": [
-        "U03029"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003030",
-      "source": [
-        "U03030"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003031",
-      "source": [
-        "U03031"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003032",
-      "source": [
-        "U03032"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003033",
-      "source": [
-        "U03033"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003034",
-      "source": [
-        "U03034"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003035",
-      "source": [
-        "U03035"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003036",
-      "source": [
-        "U03036"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003037",
-      "source": [
+        "U03029",
+        "U03030",
+        "U03031",
+        "U03032",
+        "U03033",
+        "U03034",
+        "U03035",
+        "U03036",
         "U03037"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-081"
+      ]
     },
     {
       "id": "TGD-003038",
       "source": [
-        "U03038"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003039",
-      "source": [
+        "U03038",
         "U03039"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003040",
       "source": [
-        "U03040"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003041",
-      "source": [
-        "U03041"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003042",
-      "source": [
-        "U03042"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003043",
-      "source": [
-        "U03043"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003044",
-      "source": [
-        "U03044"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003045",
-      "source": [
-        "U03045"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003046",
-      "source": [
-        "U03046"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003047",
-      "source": [
+        "U03040",
+        "U03041",
+        "U03042",
+        "U03043",
+        "U03044",
+        "U03045",
+        "U03046",
         "U03047"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
+      "note_ids": [
+        "N-B-082"
+      ]
     },
     {
       "id": "TGD-003048",
@@ -18967,184 +15464,64 @@
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003049",
       "source": [
-        "U03049"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003050",
-      "source": [
-        "U03050"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003051",
-      "source": [
-        "U03051"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003052",
-      "source": [
+        "U03049",
+        "U03050",
+        "U03051",
         "U03052"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003053",
       "source": [
-        "U03053"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003054",
-      "source": [
+        "U03053",
         "U03054"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003055",
       "source": [
-        "U03055"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003056",
-      "source": [
-        "U03056"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003057",
-      "source": [
+        "U03055",
+        "U03056",
         "U03057"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003058",
       "source": [
-        "U03058"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003059",
-      "source": [
-        "U03059"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003060",
-      "source": [
-        "U03060"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003061",
-      "source": [
-        "U03061"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003062",
-      "source": [
-        "U03062"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003063",
-      "source": [
-        "U03063"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003064",
-      "source": [
+        "U03058",
+        "U03059",
+        "U03060",
+        "U03061",
+        "U03062",
+        "U03063",
         "U03064"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
@@ -19154,96 +15531,36 @@
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003066",
       "source": [
-        "U03066"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003067",
-      "source": [
-        "U03067"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003068",
-      "source": [
-        "U03068"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003069",
-      "source": [
-        "U03069"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003070",
-      "source": [
-        "U03070"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003071",
-      "source": [
+        "U03066",
+        "U03067",
+        "U03068",
+        "U03069",
+        "U03070",
         "U03071"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003072",
       "source": [
-        "U03072"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003073",
-      "source": [
+        "U03072",
         "U03073"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
@@ -19253,8 +15570,8 @@
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/B/translation.jsonl",
       "note_ids": []
     },
     {
@@ -23428,1299 +19745,407 @@
     {
       "id": "TGD-003973",
       "source": [
-        "U03973"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003974",
-      "source": [
-        "U03974"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003975",
-      "source": [
-        "U03975"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003976",
-      "source": [
-        "U03976"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003977",
-      "source": [
-        "U03977"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003978",
-      "source": [
+        "U03973",
+        "U03974",
+        "U03975",
+        "U03976",
+        "U03977",
         "U03978"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003979",
       "source": [
-        "U03979"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003980",
-      "source": [
-        "U03980"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003981",
-      "source": [
-        "U03981"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003982",
-      "source": [
+        "U03979",
+        "U03980",
+        "U03981",
         "U03982"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-003983",
       "source": [
-        "U03983"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003984",
-      "source": [
-        "U03984"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003985",
-      "source": [
-        "U03985"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003986",
-      "source": [
-        "U03986"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003987",
-      "source": [
-        "U03987"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003988",
-      "source": [
+        "U03983",
+        "U03984",
+        "U03985",
+        "U03986",
+        "U03987",
         "U03988"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-066"
+      ]
     },
     {
       "id": "TGD-003989",
       "source": [
-        "U03989"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003990",
-      "source": [
-        "U03990"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003991",
-      "source": [
-        "U03991"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003992",
-      "source": [
-        "U03992"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003993",
-      "source": [
-        "U03993"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003994",
-      "source": [
-        "U03994"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003995",
-      "source": [
+        "U03989",
+        "U03990",
+        "U03991",
+        "U03992",
+        "U03993",
+        "U03994",
         "U03995"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-067"
+      ]
     },
     {
       "id": "TGD-003996",
       "source": [
-        "U03996"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003997",
-      "source": [
-        "U03997"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003998",
-      "source": [
-        "U03998"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-003999",
-      "source": [
-        "U03999"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004000",
-      "source": [
-        "U04000"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004001",
-      "source": [
+        "U03996",
+        "U03997",
+        "U03998",
+        "U03999",
+        "U04000",
         "U04001"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-068"
+      ]
     },
     {
       "id": "TGD-004002",
       "source": [
-        "U04002"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004003",
-      "source": [
-        "U04003"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004004",
-      "source": [
+        "U04002",
+        "U04003",
         "U04004"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004005",
       "source": [
-        "U04005"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004006",
-      "source": [
+        "U04005",
         "U04006"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004007",
       "source": [
-        "U04007"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004008",
-      "source": [
-        "U04008"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004009",
-      "source": [
-        "U04009"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004010",
-      "source": [
-        "U04010"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004011",
-      "source": [
+        "U04007",
+        "U04008",
+        "U04009",
+        "U04010",
         "U04011"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004012",
       "source": [
-        "U04012"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004013",
-      "source": [
-        "U04013"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004014",
-      "source": [
-        "U04014"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004015",
-      "source": [
-        "U04015"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004016",
-      "source": [
-        "U04016"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004017",
-      "source": [
-        "U04017"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004018",
-      "source": [
+        "U04012",
+        "U04013",
+        "U04014",
+        "U04015",
+        "U04016",
+        "U04017",
         "U04018"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004019",
       "source": [
-        "U04019"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004020",
-      "source": [
+        "U04019",
         "U04020"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004021",
       "source": [
-        "U04021"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004022",
-      "source": [
+        "U04021",
         "U04022"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004023",
       "source": [
-        "U04023"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004024",
-      "source": [
+        "U04023",
         "U04024"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004025",
       "source": [
-        "U04025"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004026",
-      "source": [
-        "U04026"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004027",
-      "source": [
-        "U04027"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004028",
-      "source": [
-        "U04028"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004029",
-      "source": [
+        "U04025",
+        "U04026",
+        "U04027",
+        "U04028",
         "U04029"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004030",
       "source": [
-        "U04030"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004031",
-      "source": [
-        "U04031"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004032",
-      "source": [
+        "U04030",
+        "U04031",
         "U04032"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004033",
       "source": [
-        "U04033"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004034",
-      "source": [
-        "U04034"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004035",
-      "source": [
-        "U04035"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004036",
-      "source": [
+        "U04033",
+        "U04034",
+        "U04035",
         "U04036"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004037",
       "source": [
-        "U04037"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004038",
-      "source": [
+        "U04037",
         "U04038"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004039",
       "source": [
-        "U04039"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004040",
-      "source": [
-        "U04040"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004041",
-      "source": [
-        "U04041"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004042",
-      "source": [
+        "U04039",
+        "U04040",
+        "U04041",
         "U04042"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004043",
       "source": [
-        "U04043"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004044",
-      "source": [
-        "U04044"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004045",
-      "source": [
-        "U04045"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004046",
-      "source": [
-        "U04046"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004047",
-      "source": [
-        "U04047"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004048",
-      "source": [
-        "U04048"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004049",
-      "source": [
-        "U04049"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004050",
-      "source": [
-        "U04050"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004051",
-      "source": [
+        "U04043",
+        "U04044",
+        "U04045",
+        "U04046",
+        "U04047",
+        "U04048",
+        "U04049",
+        "U04050",
         "U04051"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-069"
+      ]
     },
     {
       "id": "TGD-004052",
       "source": [
-        "U04052"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004053",
-      "source": [
-        "U04053"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004054",
-      "source": [
-        "U04054"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004055",
-      "source": [
+        "U04052",
+        "U04053",
+        "U04054",
         "U04055"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-070"
+      ]
     },
     {
       "id": "TGD-004056",
       "source": [
-        "U04056"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004057",
-      "source": [
+        "U04056",
         "U04057"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004058",
       "source": [
-        "U04058"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004059",
-      "source": [
+        "U04058",
         "U04059"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004060",
       "source": [
-        "U04060"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004061",
-      "source": [
-        "U04061"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004062",
-      "source": [
-        "U04062"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004063",
-      "source": [
-        "U04063"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004064",
-      "source": [
-        "U04064"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004065",
-      "source": [
-        "U04065"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004066",
-      "source": [
-        "U04066"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004067",
-      "source": [
-        "U04067"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004068",
-      "source": [
-        "U04068"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004069",
-      "source": [
+        "U04060",
+        "U04061",
+        "U04062",
+        "U04063",
+        "U04064",
+        "U04065",
+        "U04066",
+        "U04067",
+        "U04068",
         "U04069"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-071"
+      ]
     },
     {
       "id": "TGD-004070",
       "source": [
-        "U04070"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004071",
-      "source": [
-        "U04071"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004072",
-      "source": [
-        "U04072"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004073",
-      "source": [
-        "U04073"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004074",
-      "source": [
-        "U04074"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004075",
-      "source": [
-        "U04075"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004076",
-      "source": [
-        "U04076"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004077",
-      "source": [
+        "U04070",
+        "U04071",
+        "U04072",
+        "U04073",
+        "U04074",
+        "U04075",
+        "U04076",
         "U04077"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-072"
+      ]
     },
     {
       "id": "TGD-004078",
       "source": [
-        "U04078"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004079",
-      "source": [
-        "U04079"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004080",
-      "source": [
-        "U04080"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004081",
-      "source": [
-        "U04081"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004082",
-      "source": [
-        "U04082"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004083",
-      "source": [
-        "U04083"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004084",
-      "source": [
-        "U04084"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004085",
-      "source": [
+        "U04078",
+        "U04079",
+        "U04080",
+        "U04081",
+        "U04082",
+        "U04083",
+        "U04084",
         "U04085"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-073"
+      ]
     },
     {
       "id": "TGD-004086",
       "source": [
-        "U04086"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004087",
-      "source": [
+        "U04086",
         "U04087"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-074"
+      ]
     },
     {
       "id": "TGD-004088",
       "source": [
         "U04088"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004089",
       "source": [
-        "U04089"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004090",
-      "source": [
+        "U04089",
         "U04090"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
@@ -24728,857 +20153,291 @@
       "source": [
         "U04091"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004092",
       "source": [
-        "U04092"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004093",
-      "source": [
-        "U04093"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004094",
-      "source": [
-        "U04094"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004095",
-      "source": [
-        "U04095"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004096",
-      "source": [
+        "U04092",
+        "U04093",
+        "U04094",
+        "U04095",
         "U04096"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004097",
       "source": [
-        "U04097"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004098",
-      "source": [
-        "U04098"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004099",
-      "source": [
-        "U04099"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004100",
-      "source": [
+        "U04097",
+        "U04098",
+        "U04099",
         "U04100"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-075"
+      ]
     },
     {
       "id": "TGD-004101",
       "source": [
-        "U04101"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004102",
-      "source": [
-        "U04102"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004103",
-      "source": [
-        "U04103"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004104",
-      "source": [
-        "U04104"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004105",
-      "source": [
-        "U04105"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004106",
-      "source": [
+        "U04101",
+        "U04102",
+        "U04103",
+        "U04104",
+        "U04105",
         "U04106"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004107",
       "source": [
-        "U04107"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004108",
-      "source": [
-        "U04108"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004109",
-      "source": [
-        "U04109"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004110",
-      "source": [
-        "U04110"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004111",
-      "source": [
-        "U04111"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004112",
-      "source": [
+        "U04107",
+        "U04108",
+        "U04109",
+        "U04110",
+        "U04111",
         "U04112"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-076"
+      ]
     },
     {
       "id": "TGD-004113",
       "source": [
-        "U04113"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004114",
-      "source": [
-        "U04114"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004115",
-      "source": [
-        "U04115"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004116",
-      "source": [
+        "U04113",
+        "U04114",
+        "U04115",
         "U04116"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004117",
       "source": [
-        "U04117"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004118",
-      "source": [
+        "U04117",
         "U04118"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-077"
+      ]
     },
     {
       "id": "TGD-004119",
       "source": [
-        "U04119"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004120",
-      "source": [
-        "U04120"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004121",
-      "source": [
-        "U04121"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004122",
-      "source": [
+        "U04119",
+        "U04120",
+        "U04121",
         "U04122"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004123",
       "source": [
-        "U04123"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004124",
-      "source": [
-        "U04124"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004125",
-      "source": [
-        "U04125"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004126",
-      "source": [
+        "U04123",
+        "U04124",
+        "U04125",
         "U04126"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004127",
       "source": [
-        "U04127"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004128",
-      "source": [
-        "U04128"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004129",
-      "source": [
-        "U04129"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004130",
-      "source": [
+        "U04127",
+        "U04128",
+        "U04129",
         "U04130"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-078"
+      ]
     },
     {
       "id": "TGD-004131",
       "source": [
-        "U04131"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004132",
-      "source": [
-        "U04132"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004133",
-      "source": [
-        "U04133"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004134",
-      "source": [
-        "U04134"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004135",
-      "source": [
+        "U04131",
+        "U04132",
+        "U04133",
+        "U04134",
         "U04135"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-079"
+      ]
     },
     {
       "id": "TGD-004136",
       "source": [
-        "U04136"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004137",
-      "source": [
+        "U04136",
         "U04137"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004138",
       "source": [
-        "U04138"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004139",
-      "source": [
-        "U04139"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004140",
-      "source": [
-        "U04140"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004141",
-      "source": [
+        "U04138",
+        "U04139",
+        "U04140",
         "U04141"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004142",
       "source": [
-        "U04142"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004143",
-      "source": [
-        "U04143"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004144",
-      "source": [
-        "U04144"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004145",
-      "source": [
-        "U04145"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004146",
-      "source": [
-        "U04146"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004147",
-      "source": [
+        "U04142",
+        "U04143",
+        "U04144",
+        "U04145",
+        "U04146",
         "U04147"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-080"
+      ]
     },
     {
       "id": "TGD-004148",
       "source": [
-        "U04148"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004149",
-      "source": [
+        "U04148",
         "U04149"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004150",
       "source": [
-        "U04150"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004151",
-      "source": [
-        "U04151"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004152",
-      "source": [
-        "U04152"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004153",
-      "source": [
+        "U04150",
+        "U04151",
+        "U04152",
         "U04153"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004154",
       "source": [
-        "U04154"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004155",
-      "source": [
-        "U04155"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004156",
-      "source": [
-        "U04156"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004157",
-      "source": [
+        "U04154",
+        "U04155",
+        "U04156",
         "U04157"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004158",
       "source": [
-        "U04158"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004159",
-      "source": [
-        "U04159"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004160",
-      "source": [
-        "U04160"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004161",
-      "source": [
+        "U04158",
+        "U04159",
+        "U04160",
         "U04161"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
+      "note_ids": [
+        "N-C-081"
+      ]
     },
     {
       "id": "TGD-004162",
       "source": [
-        "U04162"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004163",
-      "source": [
+        "U04162",
         "U04163"
       ],
       "format": "prose",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
       "id": "TGD-004164",
       "source": [
-        "U04164"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004165",
-      "source": [
-        "U04165"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004166",
-      "source": [
-        "U04166"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004167",
-      "source": [
-        "U04167"
-      ],
-      "format": "prose",
-      "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
-      "note_ids": []
-    },
-    {
-      "id": "TGD-004168",
-      "source": [
+        "U04164",
+        "U04165",
+        "U04166",
+        "U04167",
         "U04168"
       ],
-      "format": "prose",
+      "format": "verse",
       "role": "main_text",
-      "status": "unprocessed",
-      "batch_file": null,
+      "status": "translated",
+      "batch_file": "translations/batches/C/C-3973-4168.jsonl",
       "note_ids": []
     },
     {
@@ -29223,18 +24082,18 @@
       "note_ids": []
     }
   ],
-  "source_sha256": "42fcd0a11e3053e755c32abec8f81365eecb5b76375bb5280670b6a0ce8f3203",
-  "translation_sha256": "97ef99b9af9b5289c0d2bb1d2c3264d683b8e22041fe62b9a238c7d303c4dbf7",
-  "notes_sha256": "0995461a95552e117214dfa05b318d4ca5d15bf3e1f8dede3984fbf84ae0c330",
+  "source_sha256": "9e25e16b74eb5ef62bfc909e74ec63de18e875125cf57d4a2b1783010461e1cf",
+  "translation_sha256": "5ba321c33705a4735d6ec5fc9d5dfda87c49952e7995994d5363aaa5a9edbdb6",
+  "notes_sha256": "9949571ae4948b3e0932ff602346158ad4e167a31c6f52239d233cfba9acdb2a",
   "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
   "coverage_counts": {
-    "translated": 2650,
-    "unprocessed": 1849
+    "translated": 3330,
+    "unprocessed": 1169
   },
   "format_counts": {
     "h1": 1,
-    "prose": 2275,
-    "verse": 156,
+    "prose": 1704,
+    "verse": 204,
     "h3": 2
   },
   "independent_qc": false

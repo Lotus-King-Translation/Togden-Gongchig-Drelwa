@@ -5,26 +5,26 @@
     "translations/notes.json"
   ],
   "input_hashes": {
-    "paired/source.md": "42fcd0a11e3053e755c32abec8f81365eecb5b76375bb5280670b6a0ce8f3203",
-    "paired/translation.md": "97ef99b9af9b5289c0d2bb1d2c3264d683b8e22041fe62b9a238c7d303c4dbf7",
-    "translations/notes.json": "0995461a95552e117214dfa05b318d4ca5d15bf3e1f8dede3984fbf84ae0c330"
+    "paired/source.md": "9e25e16b74eb5ef62bfc909e74ec63de18e875125cf57d4a2b1783010461e1cf",
+    "paired/translation.md": "5ba321c33705a4735d6ec5fc9d5dfda87c49952e7995994d5363aaa5a9edbdb6",
+    "translations/notes.json": "9949571ae4948b3e0932ff602346158ad4e167a31c6f52239d233cfba9acdb2a"
   },
   "output_hashes": {
-    "paired/bilingual.md": "a0508f0fa68980404800da6572cd523613fafd254fd04dbfdd56925ed4346bc7",
-    "paired/bilingual.html": "d9d1bd0fe93afa033bd15adeda1def77b7199841f02f1e63a7750242e58bf20e"
+    "paired/bilingual.md": "9ead980b3c2c7f5b55736bf0ea82c34c0562ad2e55c4d6f7d7ec36a98174e268",
+    "paired/bilingual.html": "24ebb7abe1dbe7033f882aea6c65841cde39802b290502de33bd1921197266d3"
   },
   "counts": {
-    "pairs": 2434,
+    "pairs": 1911,
     "anchors": 4499,
-    "notes": 187,
+    "notes": 231,
     "coverage": {
-      "translated": 2650,
-      "unprocessed": 1849
+      "translated": 3330,
+      "unprocessed": 1169
     },
     "formats": {
       "h1": 1,
-      "prose": 2275,
-      "verse": 156,
+      "prose": 1704,
+      "verse": 204,
       "h3": 2
     },
     "source_edition": "provisional-source-v0.1.0",

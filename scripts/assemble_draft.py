@@ -93,6 +93,7 @@ def assemble(root=ROOT, partial=False):
     (root/'translations/notes.json').write_text(json.dumps(notes,ensure_ascii=False,indent=2)+'\n')
     (root/'translations/coverage.json').write_text(json.dumps(coverage,ensure_ascii=False,indent=2)+'\n')
     manifest=dict(schema='paired-text/2',source_edition='provisional-source-v0.1.0',
+                  translation_edition='annotated-working-draft-v0.1.0',paired_edition='paired-v0.1.0',
                   source_commit='8d7a583020ffc3dee6a4e56f6cecc35a18e09436',
                   pairs=pairs,source_sha256=sha(root/'paired/source.md'),
                   translation_sha256=sha(root/'paired/translation.md'),

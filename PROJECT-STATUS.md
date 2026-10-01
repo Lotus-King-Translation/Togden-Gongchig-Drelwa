@@ -6,8 +6,8 @@
 - Golden edition: skipped by explicit owner instruction D01; no physical witness authenticated.
 - Source items registered: 9; fixed anchors: 4,499; English reference entries: 4,482 present, 17 blank.
 - Source reconciliation: all 4,499 UUIDs aligned; 13 outer-whitespace differences and 2 residual PO/raw differences recorded.
-- Translation draft snapshot: 2,650/4,499 source anchors represented in new English; 1,849 remaining. Translator self-checks still in progress.
-- Paired reading structure: 2,434 draft pairs including explicit unprocessed placeholders; no released pair IDs yet.
+- Translation draft snapshot: 3,330/4,499 source anchors represented in new English; 1,169 remaining. Translator self-checks still in progress.
+- Paired reading structure: 1,911 draft pairs including explicit unprocessed placeholders; no released pair IDs yet.
 - Textual emendations/restorations: 0. Scan checks required by this scope: 0; performed: 0.
 - Full scan proofreading: false; exhaustive witness collation: false; independent translation QC: false.
 - Deliverables complete: archival intake, source register, anchored input. Remaining: paired structure, annotated translation, coverage/usage/proposals, validation, draft release.
