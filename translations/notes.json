@@ -943,6 +943,751 @@
     "pair_id": "TGD-000965"
   },
   {
+    "id": "N-A-069",
+    "anchors": [
+      "U00996",
+      "U00997"
+    ],
+    "tibetan": "གཟུངས་འཛིན་གྲངས་མཉམ་",
+    "category": "terminology and syntax",
+    "problem": "The text abbreviates two doctrinal positions and does not repeat the verb of refutation for the first.",
+    "treatment": "The shared refutation is supplied from the coordinated syntax. Ordinary Mind Only remains the provisional compound rendering used in section one.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-000994"
+  },
+  {
+    "id": "N-A-070",
+    "anchors": [
+      "U01006"
+    ],
+    "tibetan": "སེམས་བྱུང་",
+    "category": "terminology",
+    "problem": "The active glossary does not establish the Abhidharma compound sems byung. The literal component mapping ordinary mind does not alone name this category.",
+    "treatment": "Use mental factors provisionally as a whole compound, while retaining ordinary mind for sems and basis for this non-ontological use of gzhi.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001006"
+  },
+  {
+    "id": "N-A-071",
+    "anchors": [
+      "U01010"
+    ],
+    "tibetan": "སྒྲོ་འདོགས་ཆོད་པའི་དོན་ལ་",
+    "category": "source reading",
+    "problem": "The compact relation between the object, removal of superimposition, and ordinary mind is not fully explicit.",
+    "treatment": "Retain the object-relative construction without supplying a further epistemological account.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001006"
+  },
+  {
+    "id": "N-A-072",
+    "anchors": [
+      "U01016",
+      "U01017"
+    ],
+    "tibetan": "སེམས་བསྐྱེད་པ་",
+    "category": "material supply",
+    "problem": "The awakening orientation of generating ordinary mind is implicit in the Great Vehicle example; the next clause can mean fulfillment or establishment.",
+    "treatment": "Supply of awakening in brackets and render the earlier intention as fulfilled, without identifying the sequence with a particular later scholastic model.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001013"
+  },
+  {
+    "id": "N-A-073",
+    "anchors": [
+      "U01033",
+      "U01034"
+    ],
+    "tibetan": "རྣམ་རིག་མིན་པའི་གཟུགས་",
+    "category": "terminology",
+    "problem": "These specialized classifications are not established as whole compounds in the glossary; the assertion about formless states should not be doctrinally harmonized.",
+    "treatment": "Retain the source assertion with provisional non-informative form, body of habitual tendencies, and mental-faculty body.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001031"
+  },
+  {
+    "id": "N-A-074",
+    "anchors": [
+      "U01036"
+    ],
+    "tibetan": "གསར་སྐྱེ་མེད་པས་",
+    "category": "material supply",
+    "problem": "The subject of newly arising is omitted.",
+    "treatment": "Supply beings in brackets as required by the argument about whether samsara can be exhausted.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001035"
+  },
+  {
+    "id": "N-A-075",
+    "anchors": [
+      "U01049"
+    ],
+    "tibetan": "བྱང་ཆུང་",
+    "category": "source reading",
+    "problem": "The fixed source reads byang chung where the formula would normally have byang chub.",
+    "treatment": "Render awakening provisionally from the repeated surrounding phrase, without correcting the Tibetan.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001044"
+  },
+  {
+    "id": "N-A-076",
+    "anchors": [
+      "U01054"
+    ],
+    "tibetan": "མདུང་ཁྱིམ་",
+    "category": "material supply",
+    "problem": "The source names a spear structure, whereas the reference substitutes the familiar example of a bundle of reeds.",
+    "treatment": "Retain spears and provisionally supply their mutual support to express the stated dependency; do not substitute reeds.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001050"
+  },
+  {
+    "id": "N-A-077",
+    "anchors": [
+      "U01067"
+    ],
+    "tibetan": "གཞན་ཤེས་ལ།",
+    "category": "source reading",
+    "problem": "The introduction reads literally along the lines of concerning others’ knowing and is syntactically irregular.",
+    "treatment": "Render an introduction to the opposing explanation provisionally.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001067"
+  },
+  {
+    "id": "N-A-078",
+    "anchors": [
+      "U01072",
+      "U01073",
+      "U01074",
+      "U01075"
+    ],
+    "tibetan": "རིམ་བཞིན་ལྷག་སྔ་མ་ད་ལྟ་ཕྱི་མ་གསུམ་ལས་རྫོགས་ཟེར།",
+    "category": "source reading",
+    "problem": "Two clauses are repeated verbatim, interrupting the transition to the author’s position; lhag is also awkward in this construction.",
+    "treatment": "Preserve the duplicated clauses visibly as a source repetition and supply lives in brackets. No deletion or Tibetan repair is made.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001072"
+  },
+  {
+    "id": "N-A-079",
+    "anchors": [
+      "U01077",
+      "U01078",
+      "U01079",
+      "U01080"
+    ],
+    "tibetan": "དངོས་གཞི་འདུ་བྱས་ཏེ།",
+    "category": "source reading",
+    "problem": "The division between conditioned activity and the karma portion is compressed; the suffering phrase contains the spelling sdug ’sngal.",
+    "treatment": "Read the three portions in sequence, preserving the source’s explanation without silently converting ’du byas to ’du byed.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001076"
+  },
+  {
+    "id": "N-A-080",
+    "anchors": [
+      "U01083",
+      "U01084"
+    ],
+    "tibetan": "རྟ་མགྲིན་གཤམ་པ་བཀོད་པ།",
+    "category": "bibliographic uncertainty",
+    "problem": "The Hayagrīva title and segmentation of Vinaya/Designation are uncertain.",
+    "treatment": "Give a provisional partial title with an explicit uncertainty marker; treat Vinaya and Designation as separate citations pending bibliographic checking.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001082"
+  },
+  {
+    "id": "N-A-081",
+    "anchors": [
+      "U01098",
+      "U01099"
+    ],
+    "tibetan": "ལྟ་བ་ཐུན་མོང་བ་གཅིག་ལ་",
+    "category": "material supply",
+    "problem": "The shared object is implicit, and the following ragged terrain expression reads rang rong rather than an unambiguous familiar spelling.",
+    "treatment": "Supply world in brackets; render the terrain provisionally as ravines.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001096"
+  },
+  {
+    "id": "N-A-082",
+    "anchors": [
+      "U01110"
+    ],
+    "tibetan": "གདམ་ག་",
+    "category": "source reading",
+    "problem": "The source reads choice, where the lama/king parallel may suggest instructions, but that would require another reading.",
+    "treatment": "Preserve choice and show instructions only as a bracketed uncertain alternative. The source is not corrected.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001104"
+  },
+  {
+    "id": "N-A-083",
+    "anchors": [
+      "U01127"
+    ],
+    "tibetan": "མ་གཏོགས་མཐོང་ཆོས་བྱུང་ཟེར་རོ།",
+    "category": "source reading",
+    "problem": "The affirmative statement that a visible-life result occurs does not clearly contrast with the following response; a missing negative is possible but unverified.",
+    "treatment": "Retain the affirmative wording and display the uncertainty, rather than silently translating a negative.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001125"
+  },
+  {
+    "id": "N-A-084",
+    "anchors": [
+      "U01136"
+    ],
+    "tibetan": "བྱང་ཆུབ་ཀྱི་སེམས་",
+    "category": "terminology",
+    "problem": "The whole awakening-mind compound has no approved glossary row.",
+    "treatment": "Retain the provisional ordinary mind of awakening from section one, preserving the established ordinary mind commitment for sems.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001135"
+  },
+  {
+    "id": "N-A-085",
+    "anchors": [
+      "U01140",
+      "U01141"
+    ],
+    "tibetan": "མི་ཆོས་",
+    "category": "terminology",
+    "problem": "The paired terms mi chos and lha chos have no approved whole-expression mappings. Literal divine Dharma could misleadingly restrict the latter to gods.",
+    "treatment": "Use human principles and spiritual Dharma provisionally for the ethical/religious distinction being debated.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001138"
+  },
+  {
+    "id": "N-A-086",
+    "anchors": [
+      "U01142"
+    ],
+    "tibetan": "མི་ཆོས་མཁས་པ་ལྷ་ཆོས་ཡིན།",
+    "category": "source reading",
+    "problem": "As transmitted, the quoted affirmative first line appears to contradict the preceding claim of difference.",
+    "treatment": "Keep the affirmation, without inserting a negative.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001142"
+  },
+  {
+    "id": "N-A-087",
+    "anchors": [
+      "U01151",
+      "U01152"
+    ],
+    "tibetan": "ལྷ་ཡུལ་སོགས་གསུངས་པས་",
+    "category": "material supply",
+    "problem": "The source quotes only the opening of the second verse line before returning to prose.",
+    "treatment": "Keep the quotation incomplete; supply one reaches in brackets solely to connect its named destination.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001151"
+  },
+  {
+    "id": "N-A-088",
+    "anchors": [
+      "U01155",
+      "U01156",
+      "U01157",
+      "U01160"
+    ],
+    "tibetan": "ལན་ཅིག་ཕྱིར་འོང་རྒྱུན་ཞུགས་འབྲས་བུ་",
+    "category": "source reading",
+    "problem": "The passage names ten periods but enumerates three groups of three; its first group names four attainment levels.",
+    "treatment": "Preserve ten and all named levels, provisionally grouping once-returning and stream-entry in the third period. No tenth period is supplied.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001154"
+  },
+  {
+    "id": "N-A-089",
+    "anchors": [
+      "U01165",
+      "U01166",
+      "U01167"
+    ],
+    "tibetan": "ཁྲོ་མ་དུས་མཇུག་ལས་",
+    "category": "bibliographic uncertainty",
+    "problem": "The phrase may name a text, but its identity and the exact division between the cited predictions are unverified.",
+    "treatment": "Treat it provisionally as a second citation, visibly marking the title as uncertain; retain the two reigns and the number two in the latter prediction.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001162"
+  },
+  {
+    "id": "N-A-090",
+    "anchors": [
+      "U01176",
+      "U01180"
+    ],
+    "tibetan": "འདིར་ནི་དེ་ཁོ་ནར་ངེས་ཏེ་",
+    "category": "source reading",
+    "problem": "The affirmative claim of an exclusive fixed order conflicts with the counterexamples and conclusion; a lost negation is possible but unverified. The abbreviated citation gzhi is also unidentified.",
+    "treatment": "Expose the transmitted affirmation with a source attribution instead of silently negating it; retain Basis as a provisional title.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001176"
+  },
+  {
+    "id": "N-A-091",
+    "anchors": [
+      "U01186",
+      "U01187",
+      "U01188"
+    ],
+    "tibetan": "དེ་རྗེས་བཅུ་གཉིས་རྫོགས་རིམ་བསྒོམ་པ་ཡིན་",
+    "category": "material supply",
+    "problem": "The second twelve omits its unit; the preceding re distributes twelve years over the listed subjects.",
+    "treatment": "Supply years in brackets in the second occurrence. Generation stage, completion stage, and six applications are provisional whole-expression technical renderings.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001186"
+  },
+  {
+    "id": "N-A-092",
+    "anchors": [
+      "U01205"
+    ],
+    "tibetan": "སྐུ་གསུང་ཐུགས་ཀྱི་ཟད་པ་",
+    "category": "source reading",
+    "problem": "The text has exhaustion (zad pa), where a familiar formula might have inexhaustible; the syntax connecting this to the ornamental wheel is defective.",
+    "treatment": "Translate the intelligible assertion of limitless manifestations and preserve exhaustion visibly as an unresolved transmitted phrase. Use awakened mind provisionally for the honorific thugs.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001201"
+  },
+  {
+    "id": "N-A-093",
+    "anchors": [
+      "U01213"
+    ],
+    "tibetan": "རྒྱུད་གཉིས་མེད་",
+    "category": "terminology",
+    "problem": "The glossary’s continuum mapping for rgyud does not name a class of scriptures.",
+    "treatment": "Use tantras provisionally for the textual compound; nondual specifies its class. Supply a buddha’s in the preceding sentence to identify the actor implicit in the discussion.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001210"
+  },
+  {
+    "id": "N-A-094",
+    "anchors": [
+      "U01237",
+      "U01238",
+      "U01240"
+    ],
+    "tibetan": "བྱང་སེམས་ཀྱི་རྩ་བ་ལྟ་བུ།",
+    "category": "material supply",
+    "problem": "Root is elliptical and byang sems could name either awakening mind or its practitioner; the parallel with practitioners favors the latter.",
+    "treatment": "Use bodhisattvas provisionally as the whole practitioner term and supply downfall, of the world, and Vinaya’s relevance in brackets.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001233"
+  },
+  {
+    "id": "N-A-095",
+    "anchors": [
+      "U01242"
+    ],
+    "tibetan": "བམ་པོ་ལྔ་བཅུ་པ་",
+    "category": "reference divergence",
+    "problem": "The source says fifty fascicles; the rough reference mistakenly says the fifth volume.",
+    "treatment": "Retain fifty-fascicle. The commentary’s bibliographic identity remains unverified.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001241"
+  },
+  {
+    "id": "N-A-096",
+    "anchors": [
+      "U01258",
+      "U01260"
+    ],
+    "tibetan": "འོད་ལྡན་དུ་སྐྱེ་བ་བཞེས་པ་ན་",
+    "category": "material supply",
+    "problem": "Öden is presented as a birth identity, not explicitly as a realm. The actor and awakening qualifier are implicit.",
+    "treatment": "Retain the Tibetan name provisionally; supply our teacher, he aspired, and of awakening in brackets, without adopting the reference’s Luminous realm.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001255"
+  },
+  {
+    "id": "N-A-097",
+    "anchors": [
+      "U01261",
+      "U01262",
+      "U01263"
+    ],
+    "tibetan": "གཏོང་བ་ལས་བྱུང་བསོད་ནམས་རྣམས་ལས་བྱུང་གང་ལ།།",
+    "category": "source reading",
+    "problem": "The first line has a repeated arising phrase and a strained final construction. The aspiration’s first-person subject and the beneficiaries are unexpressed.",
+    "treatment": "Give a provisional aspirational reading based on the surrounding account of generating awakening mind; bracket the supplied pronouns.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001261"
+  },
+  {
+    "id": "N-A-098",
+    "anchors": [
+      "U01276"
+    ],
+    "tibetan": "འདུ་ཚུལ་གསང་བསམ་ལས།",
+    "category": "missing reference",
+    "problem": "The reference is blank and the source gives an abbreviated title gsang bsam whose expansion is not secure.",
+    "treatment": "Translate directly from Tibetan and retain Gsang Bsam as a provisional citation label without expanding its title.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001272"
+  },
+  {
+    "id": "N-A-099",
+    "anchors": [
+      "U01303",
+      "U01304",
+      "U01305",
+      "U01306"
+    ],
+    "tibetan": "མཚམས་མེད་སྒྲ་མི་སྙན་སྤྲུལ་པ་སྐྱེ་བ་ ༡ དང་།",
+    "category": "source reading",
+    "problem": "This list is highly compressed. The numbered categories qualify obstacles named only at its end; the first lists examples rather than a single causal narrative.",
+    "treatment": "Preserve all four numbers and unpack the syntactic grouping provisionally. Do not take Uttarakuru or emanation as consequences of immediate-retribution acts.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001303"
+  },
+  {
+    "id": "N-A-100",
+    "anchors": [
+      "U01312",
+      "U01313",
+      "U01320"
+    ],
+    "tibetan": "བཀྲོད་ཅིག་གསུངས་པས་བཀྲད།",
+    "category": "source reading",
+    "problem": "The expulsion verbs have irregular spellings; the object of not arising is implicit. Later skal chen is transmitted where a great aeon is expected.",
+    "treatment": "Read the verbs provisionally as expulsion, bracket result and the speaker, and give great aeon as a flagged contextual reading; no source correction is made.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001311"
+  },
+  {
+    "id": "N-A-101",
+    "anchors": [
+      "U01327",
+      "U01328",
+      "U01330"
+    ],
+    "tibetan": "སྤྲུལ་པའང་ཀླུ་གཞོན་ནུ་ལྟ་བུ་",
+    "category": "terminology",
+    "problem": "The passage uses sprul pa for a nāga’s assumed form; the precise Vinaya classification is not explained here. Vows are implicit in the preceding Uttarakuru clause.",
+    "treatment": "Retain emanated forms provisionally and bracket forms and vows; do not recast the nāga as an enlightened emanation.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001327"
+  },
+  {
+    "id": "N-A-102",
+    "anchors": [
+      "U01334"
+    ],
+    "tibetan": "སྡོམ་པའི་ངོ་བོ་གཞན་གནོད་གཞི་བཅས་ལོག་པ་",
+    "category": "source reading",
+    "problem": "The defining phrase is compressed and lacks an explicit ablative after harm and its basis.",
+    "treatment": "Render turning away from harm and its basis provisionally, rather than the reference’s reversed claim of harmful wrong association.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001333"
+  },
+  {
+    "id": "N-A-103",
+    "anchors": [
+      "U01335",
+      "U01336",
+      "U01337"
+    ],
+    "tibetan": "སྡོམ་མའི་བར་མའི་གཟུགས་གསུམ་",
+    "category": "terminology and source reading",
+    "problem": "The threefold classification is transmitted irregularly; sd om ma’i appears where a non-vow member is expected. Informative/non-informative form is not established in the glossary.",
+    "treatment": "Preserve the number three and provisionally interpret vows, non-vows, and intermediate form; supply members of in brackets.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001333"
+  },
+  {
+    "id": "N-A-104",
+    "anchors": [
+      "U01338",
+      "U01341"
+    ],
+    "tibetan": "ཆུའི་ཆུ་ལོན་ནམ་ཤཱ་རག་",
+    "category": "material supply",
+    "problem": "The actual rite is implicit, and shā rag is uncertain; the reference’s dried apricot does not fit the water-retaining comparison.",
+    "treatment": "Supply ordination in brackets and provisionally render shā rag as embankment from its local function, pending source review.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001338"
+  },
+  {
+    "id": "N-A-105",
+    "anchors": [
+      "U01343",
+      "U01344",
+      "U01345"
+    ],
+    "tibetan": "འདུས་མ་བྱས་དང་བྱས་རྣམས་དང༌།",
+    "category": "source reading",
+    "problem": "The quotation’s list is not fully intelligible in the transmitted wording; the antecedent of those three is uncertain.",
+    "treatment": "Preserve the wording and enumeration without restoring a familiar canonical verse. Bracket only form.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001343"
+  },
+  {
+    "id": "N-A-106",
+    "anchors": [
+      "U01347",
+      "U01348",
+      "U01349"
+    ],
+    "tibetan": "དེ་ཁོ་ན་ཉིད་བཞེད་པའི་གནད་",
+    "category": "material supply",
+    "problem": "Here de kho na nyid can refer back emphatically to the account just given rather than introduce an abstract doctrine of suchness. The final subject is omitted.",
+    "treatment": "Read precisely this provisionally and bracket its corresponding phenomenon to make the shared subject explicit.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001346"
+  },
+  {
+    "id": "N-A-107",
+    "anchors": [
+      "U01350",
+      "U01351"
+    ],
+    "tibetan": "གཞི་བསམ་སྦྱོར་བ་མཐར་ཐུག་བཞི་",
+    "category": "terminology",
+    "problem": "The four factors belong to an action whose noun is implicit. The technical whole uses of gzhi and ’du shes require context-specific treatment.",
+    "treatment": "Supply action and aspects in brackets; use basis for the action’s object and recognition provisionally for ’du shes in identifying that object.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001350"
+  },
+  {
+    "id": "N-A-108",
+    "anchors": [
+      "U01364",
+      "U01365"
+    ],
+    "tibetan": "ཁྱོད་ཀྱི་ཐུགས་འདུལ་མཛོད་ཅིག་",
+    "category": "terminology",
+    "problem": "Thugs is an honorific address to the hearer, not proof that their mind is already awakened. The next citation stops mid-phrase.",
+    "treatment": "Use own mind locally for honorific thugs, preserving the imperative; keep the second quotation incomplete without restoring a known verse.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001363"
+  },
+  {
+    "id": "N-A-109",
+    "anchors": [
+      "U01368"
+    ],
+    "tibetan": "སེམས་ལ་རྨ་བྱུང་ན་",
+    "category": "source reading",
+    "problem": "Literally a wound in ordinary mind may refer to mental impairment, but the source does not specify the category.",
+    "treatment": "Preserve wounded as a provisional literal description rather than supply a diagnostic category.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001363"
+  },
+  {
+    "id": "N-A-110",
+    "anchors": [
+      "U01370"
+    ],
+    "tibetan": "དགེ་སློང་དགོན་པ་བ་ཚོགས་ཅན་མི་སྐབས་པ་བཟང་མོ་",
+    "category": "bibliographic uncertainty",
+    "problem": "This compressed sequence of Vinaya case references lacks secure name boundaries.",
+    "treatment": "Retain each visible component in provisional transliteration or translation, and mark their division uncertain.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001363"
+  },
+  {
+    "id": "N-A-111",
+    "anchors": [
+      "U01375"
+    ],
+    "tibetan": "སྤོང་འདུན་",
+    "category": "source reading",
+    "problem": "The transmitted spong ’dun differs from the seven-abandonments wording in the preceding lines.",
+    "treatment": "Provisionally read the intended reference as the seven abandonments, explicitly recording the irregular source without correcting it.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001371"
+  },
+  {
+    "id": "N-A-112",
+    "anchors": [
+      "U01379"
+    ],
+    "tibetan": "ངས་འདོད་ཆགས་་་འདོད་ཆགས་དང་བྲལ་བའི་ཕྱིར་།",
+    "category": "source reading",
+    "problem": "The source repeats desire with three tshegs between occurrences; the first fragment is syntactically unintegrated.",
+    "treatment": "Preserve the interrupted phrase visibly with ellipses and bracket the English auxiliary; do not silently omit the first desire.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001379"
+  },
+  {
+    "id": "N-A-113",
+    "anchors": [
+      "U01383",
+      "U01384",
+      "U01385"
+    ],
+    "tibetan": "དགེ་བx",
+    "category": "source abbreviation",
+    "problem": "Three lines are abbreviated with literal x markers; the familiar complete verse is not present in the fixed source.",
+    "treatment": "Translate only the surviving words and retain an explicit x marker for every abbreviation. The rough reference’s restorations are not promoted into source text.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001382"
+  },
+  {
+    "id": "N-A-114",
+    "anchors": [
+      "U01388",
+      "U01389",
+      "U01390"
+    ],
+    "tibetan": "ངག་གི x",
+    "category": "source abbreviation",
+    "problem": "Three further verse lines end in literal x markers.",
+    "treatment": "Preserve each marker and translate only the attested words, without restoring the known parallel verse.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001387"
+  },
+  {
+    "id": "N-A-115",
+    "anchors": [
+      "U01394"
+    ],
+    "tibetan": "ངེས་འབྱུང་གིས་ཐོབ་པ་དེ་ཡིད་མིན་པར་ཐལ།",
+    "category": "source reading",
+    "problem": "The pronoun what is attained likely refers to a vow or its restraint, but its antecedent is not explicit.",
+    "treatment": "Retain the pronoun without naming an unattested referent; render the relation to the mental faculty provisionally.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001391"
+  },
+  {
+    "id": "N-A-116",
+    "anchors": [
+      "U01399",
+      "U01400",
+      "U01401"
+    ],
+    "tibetan": "ཉེས་པས་བསྐྱེད་པས་འཁོར་ལོ་བསྒྱུར་བའི་རྒྱལ་པོ་བཞིན་ནོ།",
+    "category": "source reading",
+    "problem": "The monarch example is unidentified and its causal phrase has no clear subject; the preceding bodily-conduct claim is contextually qualified.",
+    "treatment": "Keep the opaque example visibly incomplete, and bracket by itself, in a case, and of wrongdoing rather than invent its narrative.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001397"
+  },
+  {
+    "id": "N-A-117",
+    "anchors": [
+      "U01405",
+      "U01407"
+    ],
+    "tibetan": "སོ་སོར་ཐར་པའི་སྡོམ་པ་གཏོད།",
+    "category": "source reading",
+    "problem": "The final verb is gtod (direct/bestow), but the surrounding discussion repeatedly treats these as causes of relinquishment. Mtshan ’das is also an abbreviated expression.",
+    "treatment": "Render relinquished provisionally from the explicit framing, flagging the variant; interpret mtshan ’das as expiration of the allotted period, subject to canonical checking.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001404"
+  },
+  {
+    "id": "N-A-118",
+    "anchors": [
+      "U01410",
+      "U01411",
+      "U01412",
+      "U01413",
+      "U01414"
+    ],
+    "tibetan": "བསྙེན་རྫོགས་ཤེས་པ།",
+    "category": "source reading",
+    "problem": "The line merely says knowing full ordination, with under twenty immediately before it; treating them as separate causes would yield ten, not nine.",
+    "treatment": "Provisionally combine them as discovering underage full ordination, preserving the stated total nine.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001408"
+  },
+  {
+    "id": "N-A-119",
+    "anchors": [
+      "U01416",
+      "U01417",
+      "U01418",
+      "U01419"
+    ],
+    "tibetan": "མུ་གཞིར་གསུངས་པ་",
+    "category": "source reading",
+    "problem": "The text says four possibilities (with irregular spelling) but explicitly lists only three.",
+    "treatment": "Preserve both the stated four and the three stated cases; do not add the missing fourth.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001415"
+  },
+  {
+    "id": "N-A-120",
+    "anchors": [
+      "U01429"
+    ],
+    "tibetan": "ཁྲི་རྐང་གི་གླིང་གཞི་ལས།",
+    "category": "bibliographic uncertainty",
+    "problem": "The source gives an unusual abbreviated title or section label whose exact identity is unverified.",
+    "treatment": "Translate its visible components provisionally and mark the title uncertain rather than assign a canonical identity.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001428"
+  },
+  {
+    "id": "N-A-121",
+    "anchors": [
+      "U01436"
+    ],
+    "tibetan": "མི་གཏོད།",
+    "category": "source reading",
+    "problem": "The source again has gtod rather than the expected gtong of relinquishment.",
+    "treatment": "Translate not relinquished provisionally from the sustained argument, recording rather than silently repairing the source spelling.",
+    "uncertainty": "The working interpretation is provisional.",
+    "review_action": "Check the reading and interpretation against an authenticated source.",
+    "pair_id": "TGD-001434"
+  },
+  {
     "id": "N-B-001",
     "anchors": [
       "U01686",
@@ -1550,6 +2295,19 @@
     "pair_id": "TGD-002320"
   },
   {
+    "id": "N-B-091",
+    "anchors": [
+      "U02354"
+    ],
+    "tibetan": "གཞི",
+    "category": "presentation",
+    "problem": "The glossary display has exceptional capitals The Ground; its status as a prose capitalization rule is unresolved.",
+    "treatment": "Retain The Ground consistently for technical gzhi in this draft, including section 4; nontechnical ground in walking or geographical compounds is contextual.",
+    "uncertainty": "Capitalization and broader physical-support senses require editorial review.",
+    "review_action": "Approve presentation and scoped physical-support uses without changing glossary assignment.",
+    "pair_id": "TGD-002354"
+  },
+  {
     "id": "N-B-045",
     "anchors": [
       "U02359",
@@ -1716,6 +2474,19 @@
     "uncertainty": "Identification unresolved.",
     "review_action": "Check witness and any ascetic example intended.",
     "pair_id": "TGD-002581"
+  },
+  {
+    "id": "N-B-092",
+    "anchors": [
+      "U02600"
+    ],
+    "tibetan": "ལས་འཕྲོ",
+    "category": "terminology gap",
+    "problem": "The compound las ’phro has no complete row; standalone ’phro is proliferation.",
+    "treatment": "Karmic impetus is a provisional whole-compound rendering for residual force of former practice.",
+    "uncertainty": "A whole-expression exception is proposed, not active glossary terminology.",
+    "review_action": "Review compound and relation to proliferation family.",
+    "pair_id": "TGD-002600"
   },
   {
     "id": "N-B-057",
@@ -1977,6 +2748,19 @@
     "pair_id": "TGD-002877"
   },
   {
+    "id": "N-B-090",
+    "anchors": [
+      "U02927"
+    ],
+    "tibetan": "དགོས་པར་སེམས་ཤིང",
+    "category": "contextual use",
+    "problem": "sems functions here as the finite verb think, not a noun denoting ordinary mind.",
+    "treatment": "Render I think as a local grammatical/contextual use, preserving the author’s tentative stance.",
+    "uncertainty": "No blanket exception to ordinary mind is implied.",
+    "review_action": "Review the finite verbal use separately from noun occurrences.",
+    "pair_id": "TGD-002926"
+  },
+  {
     "id": "N-B-076",
     "anchors": [
       "U02930"
@@ -2057,7 +2841,7 @@
     ],
     "tibetan": "ཚུལ་བཞིན་ལས་སྦས་དོན་སྤྱི་བཤད",
     "category": "source reading",
-    "problem": "tshul bzhin can read appropriately; four modes would require tshul bzhi, suggested by the ensuing hermeneutic categories.",
+    "problem": "tshul bzhin can read appropriately; four modes would require tshul bzhi, suggested by the ensuing hermeneutic categories. The substring don spyi crosses the boundary between concealed meaning and general explanation; it is not meaning generalization here.",
     "treatment": "Use among the four modes as an explicitly provisional interpretation. The lung bcus issue recurs from N-B-066.",
     "uncertainty": "Spelling and category relation unresolved.",
     "review_action": "Check witness and hermeneutic classification.",
@@ -2076,6 +2860,102 @@
     "uncertainty": "Probable textual defects; last two lines’ relationship uncertain.",
     "review_action": "Check complete quotation and witness before reconstruction.",
     "pair_id": "TGD-003040"
+  },
+  {
+    "id": "N-B-083",
+    "anchors": [
+      "U03079"
+    ],
+    "tibetan": "ཀུན་ཏུ་ཁྭ་ཀྱི་རྒྱུད",
+    "category": "source reading",
+    "problem": "The reference is blank and the continuum title’s khwa is unusual.",
+    "treatment": "Transliterate Kuntu Khwa without identifying it as another known title.",
+    "uncertainty": "Title unresolved.",
+    "review_action": "Check witness and catalog identification.",
+    "pair_id": "TGD-003075"
+  },
+  {
+    "id": "N-B-084",
+    "anchors": [
+      "U03090",
+      "U03093"
+    ],
+    "tibetan": "དུས་རྒྱུན་ཆད་མེད་པ་སྒོར་རོ་རོ། །",
+    "category": "source reading",
+    "problem": "The final gor ro ro is not securely parsed; the first line may describe turning an enemy into a friend or decisively recognizing one.",
+    "treatment": "Retain the final expression transliterated; use determines as a provisional first-line relation.",
+    "uncertainty": "Song wording and imagery uncertain.",
+    "review_action": "Identify the complete song and inspect witness.",
+    "pair_id": "TGD-003090"
+  },
+  {
+    "id": "N-B-085",
+    "anchors": [
+      "U03110",
+      "U03113"
+    ],
+    "tibetan": "ནི་སྙིགས་མ་སྟེ་དྲུག་དང་བཅས་པ་",
+    "category": "source reading",
+    "problem": "The source at U03113 reads dregs together with six, while U03110 has a disrupted phrase about stages and the three poisons.",
+    "treatment": "Retain six visibly and construe the three poisons as disrupting the three subtle-body factors.",
+    "uncertainty": "Exact grouping and whether drug should read dug, poison, remain uncertain.",
+    "review_action": "Check both readings against witness; do not normalize number to poison.",
+    "pair_id": "TGD-003110"
+  },
+  {
+    "id": "N-B-086",
+    "anchors": [
+      "U03166",
+      "U03167"
+    ],
+    "tibetan": "གསང་སྔགས་སུ་ངུ་འབོད་ལ་\nརྡོ་རྗེའི་དམྱལ་བ་མནར་མེད་དུ་བཞག་པ",
+    "category": "syntax/reference",
+    "problem": "Wailing, vajra hell, and Unceasing Torment are compressed into one classification.",
+    "treatment": "Retain the identification provisionally rather than invent a separate location.",
+    "uncertainty": "Exact equivalence and case attachment uncertain.",
+    "review_action": "Compare the Kalachakra classification and source witness.",
+    "pair_id": "TGD-003165"
+  },
+  {
+    "id": "N-B-087",
+    "anchors": [
+      "U03182",
+      "U03183"
+    ],
+    "tibetan": "ཆེན་པོ་བཞི་ལ་གནས་བཅས་ཀྱང་། །\nནམ་མཁའ་ལ་ནི་སྤྲིན་བཞིན་དུ།",
+    "category": "interpretive supply",
+    "problem": "The quote ends mid-comparison and gives four great without naming what is counted.",
+    "treatment": "Supply offenses in brackets from the ensuing literalist misconduct narrative; keep the comparison incomplete.",
+    "uncertainty": "Fourfold referent requires confirmation.",
+    "review_action": "Verify narrative and full quotation.",
+    "pair_id": "TGD-003181"
+  },
+  {
+    "id": "N-B-088",
+    "anchors": [
+      "U03185",
+      "U03186"
+    ],
+    "tibetan": "ལས་མི་ཟད་པ་ལ་སྤྱད་པས",
+    "category": "source reading",
+    "problem": "mi zad literally says inexhaustible, although dreadful actions would fit the narrative; Dedpak’s identity is not documented here.",
+    "treatment": "Retain inexhaustible karma and transliterate Dedpak rather than supplying an unverified Sanskrit identification.",
+    "uncertainty": "Possible spelling defect and narrative-name ambiguity.",
+    "review_action": "Check witness and the Tharpa Nakpo account.",
+    "pair_id": "TGD-003184"
+  },
+  {
+    "id": "N-B-089",
+    "anchors": [
+      "U03193"
+    ],
+    "tibetan": "ས།",
+    "category": "source reading",
+    "problem": "An isolated sa followed by shad precedes the clause about consequences.",
+    "treatment": "Keep it visibly as an unresolved source marker.",
+    "uncertainty": "Could be a stray syllable or a marker; no evidential basis for deletion.",
+    "review_action": "Check witness and determine source-layer function.",
+    "pair_id": "TGD-003191"
   },
   {
     "id": "N-C-001",
@@ -2425,6 +3305,19 @@
     "pair_id": "TGD-003479"
   },
   {
+    "id": "N-C-114",
+    "anchors": [
+      "U03480"
+    ],
+    "tibetan": "བློ་གྲོས་རྩིང",
+    "category": "contextual use",
+    "problem": "The compound བློ་གྲོས denotes understanding here and lacks an active whole-expression row; standalone བློ is conceptual mind.",
+    "treatment": "Use conceptual understanding provisionally, retaining the conceptual component rather than silently treating the compound as generic wisdom.",
+    "uncertainty": "The compound needs a scoped glossary decision; this is not a new default for བློ.",
+    "review_action": "Review conceptual understanding alongside the conceptual intelligence use at N-C-018.",
+    "pair_id": "TGD-003479"
+  },
+  {
     "id": "N-C-026",
     "anchors": [
       "U03486",
@@ -2764,8 +3657,8 @@
     ],
     "tibetan": "སྟོང་པ་ཉིད་ནིx\nབློ་ནི་གཞན་དོནx\nའགྱུར་བ་ཉིད་དུx",
     "category": "source reading",
-    "problem": "Three x marks interrupt the quoted verse; གཞན་དོན normally concerns others’ benefit, but its complete construction is missing.",
-    "treatment": "Preserve all three x marks and only translate surviving fragments, with meaning retained for དོན.",
+    "problem": "Three x marks interrupt the quoted verse; གཞན་དོན is an altruistic benefit compound, not the standalone meaning sense, but its complete predicate is missing.",
+    "treatment": "Preserve all three x marks and translate only surviving fragments; use benefit provisionally for the compound, retaining the canonical meaning assignment unchanged.",
     "uncertainty": "The missing predicates and relationships are unresolved.",
     "review_action": "Locate and collate the master’s quoted verse.",
     "pair_id": "TGD-003798"
@@ -2934,8 +3827,8 @@
     "tibetan": "ཐ་དད་དོན་མིན་དོན་གཅིག་མིན།",
     "category": "contextual use",
     "problem": "དོན in this philosophical contrast can mean entities or objects, but the canonical assignment is meaning.",
-    "treatment": "Preserve meaning while flagging this particular usage.",
-    "uncertainty": "The entity sense may require a scoped exception.",
+    "treatment": "Use entities provisionally in this ontological different/single contrast; leave the canonical meaning assignment unchanged.",
+    "uncertainty": "This is a scoped contextual rendering, not an approved alternative glossary default.",
     "review_action": "Review the quotation and decide a local terminology treatment.",
     "pair_id": "TGD-003940"
   },
@@ -3043,7 +3936,6 @@
   {
     "id": "N-C-069",
     "anchors": [
-      "U04044",
       "U04045",
       "U04046",
       "U04047",
@@ -3228,5 +4120,468 @@
     "uncertainty": "The verse may instead assert that the mother’s suffering does not equal the Buddha’s compassion.",
     "review_action": "Check the source quotation and decide the comparison’s direction.",
     "pair_id": "TGD-004158"
+  },
+  {
+    "id": "N-C-082",
+    "anchors": [
+      "U04172",
+      "U04173",
+      "U04174",
+      "U04176",
+      "U04177"
+    ],
+    "tibetan": "གསང་འདུས་གཉིས་མེད་རྣམས་ལས།",
+    "category": "syntax/reference",
+    "problem": "The three analogies and tantra grouping are abbreviated; the reference conflates Guhyasamāja and nondual into a title.",
+    "treatment": "Retain the three analogies as prose enumeration; bracket [forms], [of awakening], and [tantras] as contextual supplies.",
+    "uncertainty": "Whether nondual qualifies Guhyasamāja or names another class remains open.",
+    "review_action": "Check the analogies and citation grouping.",
+    "pair_id": "TGD-004169"
+  },
+  {
+    "id": "N-C-083",
+    "anchors": [
+      "U04228",
+      "U04229"
+    ],
+    "tibetan": "ཀུན་དགའ་བོ་གང་དག་ན་སངས་རྒྱས་ཀྱི་མཛད་པ་བྱེད་པའི",
+    "category": "source reading",
+    "problem": "The opening citation leaves the operative item unspecified; the next line says to apply the construction to a list.",
+    "treatment": "Keep the abbreviated opening as supplied and retain every listed instrument.",
+    "uncertainty": "The complete quotation may identify an initial item absent here.",
+    "review_action": "Check the quotation boundary and its first omitted or abbreviated instrument.",
+    "pair_id": "TGD-004228"
+  },
+  {
+    "id": "N-C-084",
+    "anchors": [
+      "U04240"
+    ],
+    "tibetan": "རྣམ་པར་འཁྲུལ་པ་བསྟན་པ",
+    "category": "source reading",
+    "problem": "The title reads འཁྲུལ་པ delusion where a transformation/display title is likely.",
+    "treatment": "Use Transformations provisionally in the title without changing the Tibetan.",
+    "uncertainty": "The source title has not been authenticated.",
+    "review_action": "Identify the sūtra and check the title spelling.",
+    "pair_id": "TGD-004239"
+  },
+  {
+    "id": "N-C-085",
+    "anchors": [
+      "U04242",
+      "U04247",
+      "U04248"
+    ],
+    "tibetan": "ཐབས་མཁས་པས་སྣེར་བརྩེ་བ་ཤ་སྟག་གོ",
+    "category": "syntax/reference",
+    "problem": "The guiding/loving phrase is irregular; ཀུན་ཏུ་དཔྱོད་པ་བ may be a defective form of the wanderer designation. Attention is a whole-construction use of ཡིད་ལ་བྱ.",
+    "treatment": "Translate wanderers and lovingly lead provisionally; bracket [beings] as the implicit beneficiary. Use attention for the whole construction rather than mechanically treating ཡིད as an independent entity.",
+    "uncertainty": "Exact source forms and compound interpretation need review.",
+    "review_action": "Collate the passage and review the scoped attention construction.",
+    "pair_id": "TGD-004241"
+  },
+  {
+    "id": "N-C-086",
+    "anchors": [
+      "U04254",
+      "U04255",
+      "U04256",
+      "U04257"
+    ],
+    "tibetan": "སོར་འཕྲེང་སངས་རྒྱས་བཅོམ་ལྡན་འདས་མཐོང་ན་དགའ་བ་ཅན",
+    "category": "syntax/reference",
+    "problem": "The narrative names are compressed, especially Aṅgulimāla and Delightful to Behold; the reference treats the latter as an ordinary description.",
+    "treatment": "Retain the threefold respectively relation and provisionally group the names as written.",
+    "uncertainty": "Whether Delightful to Behold is a separate Buddha name or qualifies another figure is unresolved.",
+    "review_action": "Identify the three narratives and verify all agents.",
+    "pair_id": "TGD-004250"
+  },
+  {
+    "id": "N-C-087",
+    "anchors": [
+      "U04259"
+    ],
+    "tibetan": "རྡུལ་དང༌། མུན་པ། སྙིང་སྟོབས",
+    "category": "terminology gap",
+    "problem": "The three may be guṇa terminology (rajas, tamas, sattva), but the source supplies Tibetan labels and no explanation.",
+    "treatment": "Retain literal dust, darkness, and strength of heart provisionally rather than silently asserting the Sanskrit identification.",
+    "uncertainty": "The technical identification remains open.",
+    "review_action": "Check the tantra quotation and decide whole-expression terminology.",
+    "pair_id": "TGD-004258"
+  },
+  {
+    "id": "N-C-088",
+    "anchors": [
+      "U04275"
+    ],
+    "tibetan": "མངོན་པར་རྫོགས་པར་བྱའོ།",
+    "category": "source reading",
+    "problem": "The line has shall fully accomplish, without an explicit awakening verb; the reference supplies awakening.",
+    "treatment": "Retain the future accomplishment wording rather than silently replacing it with a standard sūtra formula.",
+    "uncertainty": "A missing syllable or shortened formula is possible.",
+    "review_action": "Compare the cited Extensive Play passage.",
+    "pair_id": "TGD-004272"
+  },
+  {
+    "id": "N-C-089",
+    "anchors": [
+      "U04283",
+      "U04284",
+      "U04285"
+    ],
+    "tibetan": "སོར་འཕྲེང་ལ་ཕན་པ་སོགས",
+    "category": "terminology gap",
+    "problem": "The reference is blank at U04285; the titles are abbreviated and unverified. The quantity modifies four-continent systems, not individual continents or buddhas.",
+    "treatment": "Retain one hundred koṭis and supply [world systems]; translate the title list provisionally.",
+    "uncertainty": "Exact titles and the referent of Benefit to Aṅgulimāla remain open.",
+    "review_action": "Identify the cited works and check the numerical unit.",
+    "pair_id": "TGD-004281"
+  },
+  {
+    "id": "N-C-090",
+    "anchors": [
+      "U04288",
+      "U04289",
+      "U04290"
+    ],
+    "tibetan": "འཇིག་རྟེན་ཁམས་རྒྱ་མཚོ་བཅུའི་གྲངས་ཀྱི་",
+    "category": "interpretive supply",
+    "problem": "The object ruled and awakening qualifier of ordinary mind are abbreviated.",
+    "treatment": "Supply [world systems] for the particle comparison and [of awakening] for the established local compound.",
+    "uncertainty": "The count’s precise nesting should be checked.",
+    "review_action": "Verify the cosmological comparison and compound scope.",
+    "pair_id": "TGD-004286"
+  },
+  {
+    "id": "N-C-091",
+    "anchors": [
+      "U04294",
+      "U04295"
+    ],
+    "tibetan": "བཟོ་དང༌། སྒྱེ་བ་རི་བོང་སོགས་སྟེ་བཞི",
+    "category": "source reading",
+    "problem": "སྒྱེ་བ reads sack rather than the likely birth; the fourfold enumeration and the separate cultivated emanation are compressed. The prostitute is the subduer, not someone subdued by Tenpé Lodrö.",
+    "treatment": "Use birth [emanations] as an explicitly provisional contextual reading, keep four, and preserve the agent relationship. U04293 remains a separate source annotation.",
+    "uncertainty": "The exact fourfold taxonomy and source spelling remain unresolved.",
+    "review_action": "Check the classification and narrative; do not flatten the source annotation into main prose.",
+    "pair_id": "TGD-004294"
+  },
+  {
+    "id": "N-C-092",
+    "anchors": [
+      "U04300"
+    ],
+    "tibetan": "རི་བོང་གི་རང་བཞིན་ནོ།",
+    "category": "source reading",
+    "problem": "The example says intrinsic nature of a rabbit; the intended impossibility may require a missing horn, but that word is absent.",
+    "treatment": "Retain the exact rabbit assertion in quotation marks and do not insert horns.",
+    "uncertainty": "The logical example is unresolved.",
+    "review_action": "Collate U04300 and preserve any correction as a separate editorial decision.",
+    "pair_id": "TGD-004298"
+  },
+  {
+    "id": "N-C-093",
+    "anchors": [
+      "U04305"
+    ],
+    "tibetan": "མཇའ་གཉིས",
+    "category": "source reading",
+    "problem": "The source has མཇའ where the repeated quotation elsewhere reads མཐའ.",
+    "treatment": "Translate extremes provisionally using the exact internal parallel at U04190, without source modification.",
+    "uncertainty": "A transcript error is likely but not authenticated to a witness.",
+    "review_action": "Check the unusual spelling in a physical or independent source.",
+    "pair_id": "TGD-004304"
+  },
+  {
+    "id": "N-C-094",
+    "anchors": [
+      "U04318"
+    ],
+    "tibetan": "སངས་རྒྱས་རང་ལས་རྒྱུད་པའི་རྒྱུ་ཅན",
+    "category": "interpretive supply",
+    "problem": "The subject of having causes is not repeated; རྒྱུད་པ functions verbally as deriving/transmitting here, not as the technical noun continuum.",
+    "treatment": "Supply [emanations] and render deriving locally.",
+    "uncertainty": "The grammatical relation is supported by the preceding argument; terminology use remains scoped.",
+    "review_action": "Review the supplied subject and verbal use.",
+    "pair_id": "TGD-004316"
+  },
+  {
+    "id": "N-C-095",
+    "anchors": [
+      "U04333"
+    ],
+    "tibetan": "དབྱེན་གྱི་གཞི་ལས།",
+    "category": "terminology gap",
+    "problem": "The reference is blank at U04333; this is a textual title containing གཞི rather than an occurrence of the ontological Ground.",
+    "treatment": "Translate Foundation of Schism provisionally as a whole title.",
+    "uncertainty": "The exact title identification is not independently checked.",
+    "review_action": "Verify the Vinaya textual source and approve the title.",
+    "pair_id": "TGD-004330"
+  },
+  {
+    "id": "N-C-096",
+    "anchors": [
+      "U04351"
+    ],
+    "tibetan": "སེམས་བསྐྱེད་པ་དེ་ལ་བརྟེན་པ",
+    "category": "interpretive supply",
+    "problem": "The awakening qualifier is implicit in the short compound.",
+    "treatment": "Supply [of awakening], following the explicit compound at U04343 and the prior terminology record N-C-079.",
+    "uncertainty": "The supply is contextually strong.",
+    "review_action": "Review the whole-expression terminology once for this section.",
+    "pair_id": "TGD-004346"
+  },
+  {
+    "id": "N-C-097",
+    "anchors": [
+      "U04354"
+    ],
+    "tibetan": "རྫ་མཁན་ཡང་པའི་འོད",
+    "category": "source reading",
+    "problem": "The potter’s name is irregular and not identifiable with confidence; the reference turns it into ordinary light.",
+    "treatment": "Retain Yangpé Ö provisionally as a name rather than replace it with a conjectured known figure.",
+    "uncertainty": "The antecedent of former case and the name remain open.",
+    "review_action": "Identify the potter narrative and check the source spelling.",
+    "pair_id": "TGD-004354"
+  },
+  {
+    "id": "N-C-098",
+    "anchors": [
+      "U04362",
+      "U04363"
+    ],
+    "tibetan": "དུས་དུས་གསུམ་དུས་མེད་དང་།\nརྟག་པ་རྒྱུན་འཁོར་དང་འདུལ་བའི་དུས་ཏེ་གསུམ་ལ་",
+    "category": "scope",
+    "problem": "The three temporal categories are compressed and contain repeated དུས; རྒྱུན་འཁོར is unusual.",
+    "treatment": "Keep the threefold respectively structure across place, retinue, teaching, and time; render the temporal categories provisionally.",
+    "uncertainty": "The first and second temporal expressions require verification.",
+    "review_action": "Review the four parallel triples and exact temporal readings.",
+    "pair_id": "TGD-004356"
+  },
+  {
+    "id": "N-C-099",
+    "anchors": [
+      "U04371",
+      "U04372"
+    ],
+    "tibetan": "ཡིད་ཀྱི་རང་བཞིན་ཕུང་པོ་དང༌།",
+    "category": "syntax/reference",
+    "problem": "The relation between mental faculty, intrinsic nature, and aggregates is compressed and potentially defective.",
+    "treatment": "Retain all three components in their apparent modifier chain; do not silently substitute a familiar version.",
+    "uncertainty": "Whether the mental-faculty phrase qualifies aggregates is unresolved.",
+    "review_action": "Collate the quoted Supreme Continuum verse.",
+    "pair_id": "TGD-004367"
+  },
+  {
+    "id": "N-C-100",
+    "anchors": [
+      "U04373"
+    ],
+    "tibetan": "མཚན་ཉིད་བཞི་ལྡན",
+    "category": "scope",
+    "problem": "The prose states four characteristics, while the preceding excerpt visibly discusses purity, self, and bliss only.",
+    "treatment": "Retain four and do not manufacture an omitted fourth verse.",
+    "uncertainty": "The quotation may be deliberately abbreviated.",
+    "review_action": "Check the quotation’s extent and the intended four-characteristic set.",
+    "pair_id": "TGD-004373"
+  },
+  {
+    "id": "N-C-101",
+    "anchors": [
+      "U04382"
+    ],
+    "tibetan": "ལྡོག་པ་ཙམ",
+    "category": "terminology gap",
+    "problem": "ལྡོག་པ is a scholastic distinction term here, not simple reversal.",
+    "treatment": "Use conceptual distinction provisionally.",
+    "uncertainty": "Its precise technical account is not supplied.",
+    "review_action": "Review the term in relation to the embodiment argument.",
+    "pair_id": "TGD-004381"
+  },
+  {
+    "id": "N-C-102",
+    "anchors": [
+      "U04388",
+      "U04391",
+      "U04392"
+    ],
+    "tibetan": "ད་ཐུགས་ལས་ཆུང་ངུར་བཞུགས་པ",
+    "category": "contextual use",
+    "problem": "The ཐུགས་ལས idiom may concern little concern or little activity, not a small mind. གཏན་ལ་ཕབ་པ may be a source title rather than a statement.",
+    "treatment": "Use little concern provisionally and bracket [elsewhere] for the unresolved citation transition; use elemental continua for ཁམས་རྒྱུད.",
+    "uncertainty": "Both the idiom and possible source title remain open.",
+    "review_action": "Review the idiom and identify whether གཏན་ལ་ཕབ་པ is a cited work.",
+    "pair_id": "TGD-004388"
+  },
+  {
+    "id": "N-C-103",
+    "anchors": [
+      "U04403",
+      "U04404",
+      "U04407"
+    ],
+    "tibetan": "སངས་རྒྱས་སྙིང་པོ",
+    "category": "terminology gap",
+    "problem": "Buddha-heart and lineage/element terminology lacks whole-expression entries; using essence for སྙིང་པོ would overlap the active ངོ་བོ entry.",
+    "treatment": "Use buddha heart provisionally for སངས་རྒྱས་སྙིང་པོ and lineage for རིགས; retain the source’s result-imputation relation.",
+    "uncertainty": "A final tathāgatagarbha/gotra terminology decision remains open.",
+    "review_action": "Review these compounds together with buddha element and elemental continuum usages.",
+    "pair_id": "TGD-004405"
+  },
+  {
+    "id": "N-C-104",
+    "anchors": [
+      "U04412",
+      "U04413"
+    ],
+    "tibetan": "མ་སྤངས་ན་ཐུགས་ཁྲེལ་བར་འགྱུར་བ",
+    "category": "syntax/reference",
+    "problem": "The subject of displeasure/pleasure is unstated; the reference assigns it to oneself, which conflicts with the honorific and the preceding buddhas.",
+    "treatment": "Read the buddhas as the implicit experiencers, preserving awakened heart in the first clause.",
+    "uncertainty": "The implicit subject is contextually strong but requires confirmation.",
+    "review_action": "Review the referent and causal relation to enlightened activity.",
+    "pair_id": "TGD-004409"
+  },
+  {
+    "id": "N-C-105",
+    "anchors": [
+      "U04416",
+      "U04417",
+      "U04418",
+      "U04419",
+      "U04420",
+      "U04421",
+      "U04422",
+      "U04423"
+    ],
+    "tibetan": "ཟབ་དགུ་ཚོགས་སུ་བཤད་ན་ཡང་།",
+    "category": "syntax/reference",
+    "problem": "The wealth metaphor, saying about experiential acquaintance, and four valid cognitions are joined in a compressed construction. ཟབ་དགུ may be idiomatic all profound things rather than the numeral nine.",
+    "treatment": "Preserve each component and provisionally read all manner of profound things; do not invent a missing transition.",
+    "uncertainty": "The exact object wasted and the force of the saying require review.",
+    "review_action": "Review the full opening comparison U04416–U04423 against a witness.",
+    "pair_id": "TGD-004416"
+  },
+  {
+    "id": "N-C-106",
+    "anchors": [
+      "U04429",
+      "U04430"
+    ],
+    "tibetan": "ཆོས་ཀྱི་རྒྱལ་པོ་འཇིག་རྟེན་གསུམ་གྱི་མགོན་པོ་ཡིས་འཁྲུངས་ཏེ་",
+    "category": "syntax/reference",
+    "problem": "The instrumental ending before was born is awkward; the source may intend the arising of the teacher or of his distinctive teachings.",
+    "treatment": "Provisionally take the Dharma king as born and as actualizing meanings; retain the later explicit Jikten Gönpo attribution.",
+    "uncertainty": "The attachment of the birth clause remains open.",
+    "review_action": "Check the case ending and full comparison.",
+    "pair_id": "TGD-004428"
+  },
+  {
+    "id": "N-C-107",
+    "anchors": [
+      "U04442",
+      "U04445"
+    ],
+    "tibetan": "རིགས་འཆོལ་བས་གཞན་གྱི་གྲུབ་མཐའ་དང་གང་ཟག་ལ་སྨོད་པར་མི་བྱེད་པ་",
+    "category": "syntax/reference",
+    "problem": "The instruction’s main preserving verb comes after the quotation; རིགས་འཆོལ is idiomatic, and the compound ཐུགས་དགོངས contains the protected enlightened-intent family.",
+    "treatment": "Supply [one should preserve] from U04449, render indiscriminately provisionally, and retain enlightened intent rather than reducing it to mind.",
+    "uncertainty": "The precise adverbial scope and title attachment need review.",
+    "review_action": "Confirm the long modifier chain and the supplied verb.",
+    "pair_id": "TGD-004442"
+  },
+  {
+    "id": "N-C-108",
+    "anchors": [
+      "U04458"
+    ],
+    "tibetan": "གཞི་བདེ་བར་གཤེགས་པ་དམ་པའི་སྙིང་པོ",
+    "category": "terminology gap",
+    "problem": "The Sugata-heart phrase is a compound not established in the glossary; it parallels the buddha-heart terminology at N-C-103.",
+    "treatment": "Use sublime Sugata heart provisionally, preserving the Ground and distinguishing སྙིང་པོ from the assigned essence for ངོ་བོ.",
+    "uncertainty": "The exact attachment of sublime could qualify Sugata or heart.",
+    "review_action": "Review the compound and modifier attachment.",
+    "pair_id": "TGD-004457"
+  },
+  {
+    "id": "N-C-109",
+    "anchors": [
+      "U04470"
+    ],
+    "tibetan": "སྙན་པ་དང་གྲགས་པའི་སྒྲ་ཆེན་འབྲུག་སྒྲ",
+    "category": "contextual use",
+    "problem": "སྒྲ denotes both renown’s report and literal thunder-sound; mechanical word in the latter compound would distort the image.",
+    "treatment": "Retain word for the renown report and use thunder as a scoped whole-expression rendering of འབྲུག་སྒྲ.",
+    "uncertainty": "The word/sound family needs a broader contextual glossary decision.",
+    "review_action": "Review this compound together with musical-instrument and mantra-sound uses in the range.",
+    "pair_id": "TGD-004466"
+  },
+  {
+    "id": "N-C-110",
+    "anchors": [
+      "U04471",
+      "U04473",
+      "U04474",
+      "U04477"
+    ],
+    "tibetan": "བརྗོད་བྱ་ཆོས་ཐུན་མཉམ་པ་ཉིད",
+    "category": "source reading",
+    "problem": "The phrase ཆོས་ཐུན is unusual; the long chain contrasts subject matter with expressive texts and their enlightened intent. Sherab Jungné’s authorial statement precedes the later compiler’s colophon.",
+    "treatment": "Read Dharma teachings provisionally and preserve the expressed/expressing relationship; classify this as the embedded author’s work colophon.",
+    "uncertainty": "The ཐུན reading and attachment need checking.",
+    "review_action": "Collate U04471 and retain the distinction between root author and compiler.",
+    "pair_id": "TGD-004471"
+  },
+  {
+    "id": "N-C-111",
+    "anchors": [
+      "U04478",
+      "U04479",
+      "U04483",
+      "U04487"
+    ],
+    "tibetan": "འཁོར་གསུམ་གང་དུ་གང་ཞིག་\nཇི་ལྟར་བསྔོ་བའི་ཆོས་མི་དམིགས",
+    "category": "interpretive supply",
+    "problem": "The three spheres and dedication grammar are compressed; the beneficiaries of the final aspiration are implicit.",
+    "treatment": "Render the source’s who/to what/how relations without imposing another threefold list; supply [beings] from the surrounding altruistic context.",
+    "uncertainty": "Exact three-sphere interpretation requires review.",
+    "review_action": "Confirm the dedication’s agents, objects, and beneficiaries.",
+    "pair_id": "TGD-004478"
+  },
+  {
+    "id": "N-C-112",
+    "anchors": [
+      "U04488",
+      "U04489",
+      "U04490",
+      "U04491",
+      "U04492",
+      "U04493"
+    ],
+    "tibetan": "སྔོན་བྱོན་སྐྱེས་ཆེན་དམ་པ་བཅུ་ཕྲག་རིགས་པའི་གནས་ལ་མཁས་པ",
+    "category": "syntax/reference",
+    "problem": "The colophon’s nested agents must be distinguished. Ten qualifies fields of knowledge, not former great beings. The names have irregular spellings.",
+    "treatment": "Assign versification to the throne-holder, notes to Paljor Rinpoche, and subsequent compilation to the named Togden in the next pair; render names provisionally.",
+    "uncertainty": "The exact name forms and scope of the continuous-sequence clause need witness verification.",
+    "review_action": "Check the colophon modifier chain and proper names without transferring the predecessors’ qualities to the compiler.",
+    "pair_id": "TGD-004488"
+  },
+  {
+    "id": "N-C-113",
+    "anchors": [
+      "U04494",
+      "U04495",
+      "U04496",
+      "U04497",
+      "U04498",
+      "U04499"
+    ],
+    "tibetan": "འབྱུང་བ་བཞི་ལྡན་\nས་མོ་བྱ་ལོའི་དུས་འཁོར་གྱི་གསོ་དཔྱད་རྒྱ་རྩིས་ཀྱི་སྟོན་ར།",
+    "category": "source reading",
+    "problem": "The calendrical systems and four-elements descriptor are compressed; གྲོ་ཞིན is an unverified month name. No sexagenary cycle is stated.",
+    "treatment": "Retain female earth-bird, four elements, both seasonal datings, Drozhing, waning phase, and day thirteen; give no Gregorian conversion.",
+    "uncertainty": "The calendar grouping, month spelling, place name, and absolute year remain unverified.",
+    "review_action": "Check the colophon witness and calendars before dating the composition absolutely.",
+    "pair_id": "TGD-004494"
   }
 ]

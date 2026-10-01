@@ -1363,1411 +1363,641 @@ language: bo
 <!-- pair: TGD-000969 | source: U00969 | role: chapter_colophon | format: prose -->
 ཆོས་ཀྱི་འཁོར་ལོའི་གནད་བསྡུས་ཏེ་རྡོ་རྗེ་ཚིགས་རྐང་སུམ་བཅུ་པ་ལྷན་ཐབས་ཚིགས་རྐང་བཅོ་ལྔའི་འགྲེལ་བཤད་ཀྱི་སྐབས་ཏེ་དང་པོའོ། །
 
-<!-- pair: TGD-000970 | source: U00970 | role: main_text | format: prose -->
+<!-- pair: TGD-000970 | source: U00970 U00971 U00972 U00973 U00974 | role: main_text | format: prose -->
 རྡོ༽༽ གཞན་དག་ན་རེ།
-
-<!-- pair: TGD-000971 | source: U00971 | role: main_text | format: prose -->
 དགེ་མི་དགེ་གང་གིས་ཀྱང་དབང་མ་བྱས་པའི་འབྱུང་ཆེན་བཞི་ཁམས་བཅོ་བརྒྱད་ལུང་མ་བསྟན་དུ་གསུངས་མོད།
-
-<!-- pair: TGD-000972 | source: U00972 | role: main_text | format: prose -->
 འདིར་ནི་དགེ་སྡིག་གཉིས་ལ་ཐག་བཅད་ན་
-
-<!-- pair: TGD-000973 | source: U00973 | role: main_text | format: prose -->
 དེ་གཉིས་ལས་ལུང་མ་བསྟན་བྱ་བ་གཞན་ཞིག་མེད་དེ་
-
-<!-- pair: TGD-000974 | source: U00974 | role: main_text | format: prose -->
 སློབ་དཔོན་འཕགས་པས།
 
-<!-- pair: TGD-000975 | source: U00975 | role: main_text | format: prose -->
+<!-- pair: TGD-000975 | source: U00975 U00976 U00977 U00978 | role: main_text | format: verse -->
 འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་གསུམ། །
-
-<!-- pair: TGD-000976 | source: U00976 | role: main_text | format: prose -->
 དེས་བསྐྱེད་ལས་ནི་མི་དགེ་བ།
-
-<!-- pair: TGD-000977 | source: U00977 | role: main_text | format: prose -->
 མ་ཆགས་མི་སྡང་གཏི་མུག་མེད། །
-
-<!-- pair: TGD-000978 | source: U00978 | role: main_text | format: prose -->
 དེས་བསྐྱེད་ལས་ནི་དགེ་བའོ། །
 
-<!-- pair: TGD-000979 | source: U00979 | role: main_text | format: prose -->
+<!-- pair: TGD-000979 | source: U00979 U00980 U00981 U00982 U00983 U00984 U00985 | role: main_text | format: prose -->
 ཞེས་གསུངས་པས་
-
-<!-- pair: TGD-000980 | source: U00980 | role: main_text | format: prose -->
 ཕུང་པོ་གསུམ་པ་ཞིག་མེད་དོ། །
-
-<!-- pair: TGD-000981 | source: U00981 | role: main_text | format: prose -->
 སངས་རྒྱས་ཀྱིས་གསུངས་པའི་ལུང་མ་བསྟན་ནི་ལྷན་སྐྱེས་ཀྱི་མ་རིག་པ་ལ་གསུངས་ཏེ།
-
-<!-- pair: TGD-000982 | source: U00982 | role: main_text | format: prose -->
 སྤང་བྱ་ཤེས་སྒྲིབ་གཏི་མུག་ལས་གྱུར་པ་ཉི་ཁྲི་ཆིག་སྟོང་གི་ཁོངས་སུ་འདུ་བས་
-
-<!-- pair: TGD-000983 | source: U00983 | role: main_text | format: prose -->
 དཔེར་ན་ཁྱོ་ཤུག་གཉིས་བུ་མོ་དང་གསུམ་ཡོད་ཀྱང་
-
-<!-- pair: TGD-000984 | source: U00984 | role: main_text | format: prose -->
 ཕོ་མོར་འདུས་ན་གཉིས་ལས་མེད་པ་བཞིན་
-
-<!-- pair: TGD-000985 | source: U00985 | role: main_text | format: prose -->
 ལུང་མ་བསྟན་མི་དགེ་བའི་ཕྱོགས་སུ་འདུའོ།
 
-<!-- pair: TGD-000986 | source: U00986 | role: main_text | format: prose -->
+<!-- pair: TGD-000986 | source: U00986 U00987 U00988 U00989 U00990 U00991 | role: main_text | format: prose -->
 རྡོ༽༽ མངའ་བདག་སྟག་ཚ་ན་རེ།
-
-<!-- pair: TGD-000987 | source: U00987 | role: main_text | format: prose -->
 ཕྱི་རོལ་གྱི་ཡུལ་ཇི་སྲིད་པ་དང་མཉམ་པའི་གྲངས་བཞིན་རྟོག་པའང་དེ་ཉིད་ཅིག་ཆར་དུ་སྐྱེ་ཟེར་ཡང་།
-
-<!-- pair: TGD-000988 | source: U00988 | role: main_text | format: prose -->
 དེ་ཆོས་ཅན་རྟོག་པ་གཉིས་སམ་མང་པོ་དུས་གཅིག་ཅར་དུ་འཇུག་པ་མི་སྲིད་དེ་
-
-<!-- pair: TGD-000989 | source: U00989 | role: main_text | format: prose -->
 དེ་ལྟར་ན་དགེ་མི་དགེའང་ལྷན་ཅིག་སྐྱེ་རིགས་ནའང་ཕན་ཚུན་སྤང་འགལ་ཡིན་པའི་ཕྱིར།
-
-<!-- pair: TGD-000990 | source: U00990 | role: main_text | format: prose -->
 དཔེར་ན་ཚ་གྲང་གི་རེག་བྱ་བཞིན།
-
-<!-- pair: TGD-000991 | source: U00991 | role: main_text | format: prose -->
 དཔལ་ཕྲེང་གིས་ཞུས་པ་ལས།
 
-<!-- pair: TGD-000992 | source: U00992 | role: main_text | format: prose -->
+<!-- pair: TGD-000992 | source: U00992 U00993 | role: main_text | format: verse -->
 དགེ་བའི་སེམས་ཀྱང་སྐད་ཅིག་མ། །
-
-<!-- pair: TGD-000993 | source: U00993 | role: main_text | format: prose -->
 མི་དགེའི་སེམས་ཀྱང་སྐད་ཅིག་མ།
 
-<!-- pair: TGD-000994 | source: U00994 | role: main_text | format: prose -->
+<!-- pair: TGD-000994 | source: U00994 U00995 U00996 U00997 U00998 U00999 U01000 U01001 U01002 U01003 U01004 U01005 | role: main_text | format: prose -->
 ཞེས་དང༌།
-
-<!-- pair: TGD-000995 | source: U00995 | role: main_text | format: prose -->
 གཞན་ཡང་ཕྱི་དོན་འདོད་ན་
-
-<!-- pair: TGD-000996 | source: U00996 | role: main_text | format: prose -->
 མདོ་སྡེ་པ་གཟུངས་འཛིན་གྲངས་མཉམ་དང༌།
-
-<!-- pair: TGD-000997 | source: U00997 | role: main_text | format: prose -->
 མེད་ན་སེམས་ཙམ་རྣམ་བདེན་ལ་འགོག་པའི་རིགས་པ་འཇུག་སྟེ།
-
-<!-- pair: TGD-000998 | source: U00998 | role: main_text | format: prose -->
 དབུ་མ་རྒྱན་ལས།
-
-<!-- pair: TGD-000999 | source: U00999 | role: main_text | format: prose -->
 དེ་ལྟ་ཡིན་ན་དཀར་ལ་སོགས།
-
-<!-- pair: TGD-001000 | source: U01000 | role: main_text | format: prose -->
 སོགས་དང་རྡུལ་ཕྲན་བདག་ཉིད་དཀར་སོགས་དང༌།
-
-<!-- pair: TGD-001001 | source: U01001 | role: main_text | format: prose -->
 ཇི་སྟེ་རྣམ་པའི་གྲངས་བཞིན་དུ།
-
-<!-- pair: TGD-001002 | source: U01002 | role: main_text | format: prose -->
 སོགས་དང༌།
-
-<!-- pair: TGD-001003 | source: U01003 | role: main_text | format: prose -->
 གལ་ཏེ་སྣ་ཚོགས་དེ་གཅིག་ན།
-
-<!-- pair: TGD-001004 | source: U01004 | role: main_text | format: prose -->
 ཞེས་སོགས་ཀྱིས་གནོད་ཅིང་
-
-<!-- pair: TGD-001005 | source: U01005 | role: main_text | format: prose -->
 གང་ཟག་གཅིག་ཤེས་རྒྱུད་དུ་མར་ཐལ་བས་སོ།
 
-<!-- pair: TGD-001006 | source: U01006 | role: main_text | format: prose -->
+<!-- pair: TGD-001006 | source: U01006 U01007 U01008 U01009 U01010 U01011 U01012 | role: main_text | format: prose -->
 རྡོ༽༽གཞན་དུ་སེམས་གཞི་ལས་སེམས་བྱུང་འབྱུང་བར་འདོད་དེ།
-
-<!-- pair: TGD-001007 | source: U01007 | role: main_text | format: prose -->
 དབུས་མཐར།
-
-<!-- pair: TGD-001008 | source: U01008 | role: main_text | format: prose -->
 དེ་ལ་དོན་མཐོང་རྣམ་པར་ཤེས།
-
-<!-- pair: TGD-001009 | source: U01009 | role: main_text | format: prose -->
 དེ་ཡི་ཁྱད་པར་ཅེས་པས།
-
-<!-- pair: TGD-001010 | source: U01010 | role: main_text | format: prose -->
 སྒྲོ་འདོགས་ཆོད་པའི་དོན་ལ་སེམས་དང་
-
-<!-- pair: TGD-001011 | source: U01011 | role: main_text | format: prose -->
 དེ་ནས་རྟོག་དཔྱོད་བྱེད་པས་
-
-<!-- pair: TGD-001012 | source: U01012 | role: main_text | format: prose -->
 དེའི་ཁྱད་པར་གྱི་ཆོས་སེམས་བྱུང་དུ་བཤད་མོད།
 
-<!-- pair: TGD-001013 | source: U01013 | role: main_text | format: prose -->
+<!-- pair: TGD-001013 | source: U01013 U01014 U01015 U01016 U01017 U01018 U01019 U01020 U01021 | role: main_text | format: prose -->
 འདིར་སེམས་ལས་སེམས་བྱུང་འབྱུང་བ་གཞིར་བཞག་
-
-<!-- pair: TGD-001014 | source: U01014 | role: main_text | format: prose -->
 དེ་ལས་ཀྱང་སེམས་ནི་འབྱུང་བ་འགྲུབ་སྟེ།
-
-<!-- pair: TGD-001015 | source: U01015 | role: main_text | format: prose -->
 དཔེར་ན་བདག་ཐེག་ཆེན་པ་བྱ་སྙམ་པ་སེམས།
-
-<!-- pair: TGD-001016 | source: U01016 | role: main_text | format: prose -->
 དེ་ལ་བརྟེན་ནས་སེམས་བསྐྱེད་པ་སེམས་བྱུང༌།
-
-<!-- pair: TGD-001017 | source: U01017 | role: main_text | format: prose -->
 དེས་ཐེག་ཆེན་གྲུབ་པ་གོང་གི་སེམས་དེ་གྲུབ་པས་
-
-<!-- pair: TGD-001018 | source: U01018 | role: main_text | format: prose -->
 སེམས་ཏེ་མདོར་ན་ཡུལ་ལ་གཏོད་པའི་སྐད་ཅིག་དང་པོ།
-
-<!-- pair: TGD-001019 | source: U01019 | role: main_text | format: prose -->
 སེམས་དང་དེའི་ཁྱད་པར་ལ་དཔྱོད་པ་གཉིས་པ་སེམས་བྱུང་དེ་ཟིན་པ་སླར་སེམས་སྐྱེ་སྟེ།
-
-<!-- pair: TGD-001020 | source: U01020 | role: main_text | format: prose -->
 སྐད་ཅིག་གི་ཕྲེང་བ་ཡིན་པར་གསུངས་པ་
-
-<!-- pair: TGD-001021 | source: U01021 | role: main_text | format: prose -->
 དེའི་ཕྱིར་འདིའང་ཡོད་པར་སྒྲུབ་བོ།
 
-<!-- pair: TGD-001022 | source: U01022 | role: main_text | format: prose -->
+<!-- pair: TGD-001022 | source: U01022 U01023 U01024 U01025 U01026 U01027 U01028 U01029 U01030 | role: main_text | format: prose -->
 རྡོ གཞན་དག་ན་རེ།
-
-<!-- pair: TGD-001023 | source: U01023 | role: main_text | format: prose -->
 འཁོར་བར་འཁོར་བ་ནི་སེམས་ཡིན་ཏེ།
-
-<!-- pair: TGD-001024 | source: U01024 | role: main_text | format: prose -->
 སྡུག་བསྔལ་དང་རྣམ་སྨིན་དེར་བརྟེན་པའི་ཕྱིར་དང་།
-
-<!-- pair: TGD-001025 | source: U01025 | role: main_text | format: prose -->
 ལུས་བེམ་པོ་ཡིན་པའི་ཕྱིར་ཞེས་ཟེར་རོ།
-
-<!-- pair: TGD-001026 | source: U01026 | role: main_text | format: prose -->
 འདིར་ནི་འཁོར་བའི་རྒྱ་མཚོར་ལུས་ཉིད་འཁོར་བར་བཞེད་དེ།
-
-<!-- pair: TGD-001027 | source: U01027 | role: main_text | format: prose -->
 དེ་འཁོར་བའི་གཞི་རྟེན་ཐོག་མེད་བག་ཆགས་ཀྱི་ས་བོན་རྣམས་ཀྱིས་གང་བར་གནས་ཤིང༌།
-
-<!-- pair: TGD-001028 | source: U01028 | role: main_text | format: prose -->
 དེ་དག་རྐྱེན་དང་ཕྲད་པས་རྟོག་པ་སྣ་ཚོགས་སྐྱེ་ཞིང་
-
-<!-- pair: TGD-001029 | source: U01029 | role: main_text | format: prose -->
 དེས་ཕྱི་མའི་ལུས་འགྲུབ་པའི་ཕྱིར།
-
-<!-- pair: TGD-001030 | source: U01030 | role: main_text | format: prose -->
 དཔེར་ན་རྒྱ་མཚོ་ཆེན་པོ་སྲོག་ཆགས་རྣམས་ཀྱི་རྟེན་གནས་སུ་གྱུར་པ་བཞིན་ནོ། །
 
-<!-- pair: TGD-001031 | source: U01031 | role: main_text | format: prose -->
+<!-- pair: TGD-001031 | source: U01031 U01032 U01033 U01034 | role: main_text | format: prose -->
 འོ་ན་གཟུགས་མེད་བཞི་སོགས།
-
-<!-- pair: TGD-001032 | source: U01032 | role: main_text | format: prose -->
 དངོས་ལུས་མེད་པར་ཇི་ལྟར་འཁོར་སྙམ་ན།
-
-<!-- pair: TGD-001033 | source: U01033 | role: main_text | format: prose -->
 གཟུགས་མེད་ན་རྣམ་རིག་མིན་པའི་གཟུགས་དང་རྨི་ལམ་ན་བག་ཆག་གི་དང་།
-
-<!-- pair: TGD-001034 | source: U01034 | role: main_text | format: prose -->
 སྲིད་པ་བར་དོར་ཡིད་ལུས་ཡོད་པར་གསུངས་པའི་ཕྱིར་ལུས་འཁོར་བའོ།
 
-<!-- pair: TGD-001035 | source: U01035 | role: main_text | format: prose -->
+<!-- pair: TGD-001035 | source: U01035 U01036 U01037 U01038 U01039 U01040 U01041 U01042 U01043 | role: main_text | format: prose -->
 ལྷན༽༽ ཁོ་ན་རེ།
-
-<!-- pair: TGD-001036 | source: U01036 | role: main_text | format: prose -->
 འཁོར་བ་མཐའ་ཡོད་དེ་གསར་སྐྱེ་མེད་པས་དང་།
-
-<!-- pair: TGD-001037 | source: U01037 | role: main_text | format: prose -->
 འགའ་ཞིག་མཐའ་མེད་དེ་ཟོ་ཆུན་ལྟར་དུ་གསུངས་པའི་ཕྱིར་ཟེར།
-
-<!-- pair: TGD-001038 | source: U01038 | role: main_text | format: prose -->
 འདིར་ནི་འཁོར་བའི་གཞི་གཤིས་གྲུབ་པ་མེད་ཅིང་
-
-<!-- pair: TGD-001039 | source: U01039 | role: main_text | format: prose -->
 སྣང་བའི་ཆོས་རྣམས་རྟེན་འབྲེལ་ཡིན་པས་
-
-<!-- pair: TGD-001040 | source: U01040 | role: main_text | format: prose -->
 སྐྱེ་འགགས་གནས་གསུམ་སོགས་སྤྲོས་པ་ཐམས་ཅད་བྲལ་བའི་ཕྱིར་
-
-<!-- pair: TGD-001041 | source: U01041 | role: main_text | format: prose -->
 འཁོར་བ་ཐོག་མཐའ་དབུས་མེད་པར་བཞེད་དེ།
-
-<!-- pair: TGD-001042 | source: U01042 | role: main_text | format: prose -->
 གང་ཞིག་རྐྱེན་ལས་སྐྱེས་པ་དེ་མ་སྐྱེས།
-
-<!-- pair: TGD-001043 | source: U01043 | role: main_text | format: prose -->
 སོགས་ཅེས་སོ།
 
-<!-- pair: TGD-001044 | source: U01044 | role: main_text | format: prose -->
+<!-- pair: TGD-001044 | source: U01044 U01045 U01046 U01047 U01048 U01049 | role: main_text | format: prose -->
 རྡོ༽༽ རྟེན་འབྲེལ་ནི་སངས་རྒྱས་ཀྱི་ཆོས་བསྟན་པ་ཐམས་ཅད་ཀྱི་སྙིང་པོ་ཡིན་ཅིང་
-
-<!-- pair: TGD-001045 | source: U01045 | role: main_text | format: prose -->
 འདིའི་དོན་ལེགས་པར་ཁོང་དུ་ཆུད་ནས་བྱང་ཆུབ་བརྙེས་པ་
-
-<!-- pair: TGD-001046 | source: U01046 | role: main_text | format: prose -->
 གྲོང་ཁྱེར་ལྟ་བུའི་མདོར།
-
-<!-- pair: TGD-001047 | source: U01047 | role: main_text | format: prose -->
 དགེ་སློང་དག་ང་བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ལ་འདུག་པའི་ཚེ་
-
-<!-- pair: TGD-001048 | source: U01048 | role: main_text | format: prose -->
 རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་འདི་སྔོན་དུ་བྱས་པས་
-
-<!-- pair: TGD-001049 | source: U01049 | role: main_text | format: prose -->
 ང་བླ་ན་མེད་པའི་བྱང་ཆུང་ཏུ་སངས་རྒྱས་སོ། །
 
-<!-- pair: TGD-001050 | source: U01050 | role: main_text | format: prose -->
+<!-- pair: TGD-001050 | source: U01050 U01051 U01052 U01053 U01054 U01055 | role: main_text | format: prose -->
 ཞེས་པ་འདི་ལ་
-
-<!-- pair: TGD-001051 | source: U01051 | role: main_text | format: prose -->
 ཕྱི་རྒྱུ་ས་བོན་རྐྱེན་འབྱུང་ལྔ་དུས་ཀྱི་འགྱུར་བ་དྲུག་ཚོགས་པས་འབྲས་བུ་འབྱུང་བ་དང༌།
-
-<!-- pair: TGD-001052 | source: U01052 | role: main_text | format: prose -->
 ནང་རྒྱུ་མ་རིག་པ་རྐྱེན་ཁམས་དྲུག་ལ་བརྟེན་ནས་རྒ་ཤིའི་བར་ལུགས་འབྱུང་དང་དེ་ལྡོག་པ་ལུགས་ལྡོག་སྟེ་
-
-<!-- pair: TGD-001053 | source: U01053 | role: main_text | format: prose -->
 དེ་གཉིས་བདག་མེད་བཞིན་དུ་འབྲས་བུ་འབྱུང་ཞིང་
-
-<!-- pair: TGD-001054 | source: U01054 | role: main_text | format: prose -->
 རྟག་ཆད་དང་བྲལ་བས་རྟེན་འབྲེལ་མདུང་ཁྱིམ་ལྟ་བུ་སྟེ་
-
-<!-- pair: TGD-001055 | source: U01055 | role: main_text | format: prose -->
 དེ་དག་ལས་མ་རིག་པ་ནི་བཅུ་གཉིས་ཀྱི་ཡ་རྒྱལ་གཅིག་ཡིན་ཟེར།
 
-<!-- pair: TGD-001056 | source: U01056 | role: main_text | format: prose -->
+<!-- pair: TGD-001056 | source: U01056 U01057 U01058 U01059 U01060 U01061 U01062 U01063 U01064 U01065 U01066 | role: main_text | format: prose -->
 འདིར་ནི་རྟེན་འབྲེལ་བཅུ་གཉིས་མ་རིག་ཁོ་ནའི་གཡོས་སམ་འཕྲུལ་ཏེ་མ་རིག་ཡོད་ན་
-
-<!-- pair: TGD-001057 | source: U01057 | role: main_text | format: prose -->
 རྒ་ཤིའི་བར་ཡོད་དུ་ཡོད་པས་དང༌།
-
-<!-- pair: TGD-001058 | source: U01058 | role: main_text | format: prose -->
 མ་རིག་འགག་ན་རྒ་ཤིའི་བར་དུ་འགག་པས་ཀྱང་མ་རིག་པའི་གཡོས་ཏེ།
-
-<!-- pair: TGD-001059 | source: U01059 | role: main_text | format: prose -->
 སྡུད་པ་ལས།
-
-<!-- pair: TGD-001060 | source: U01060 | role: main_text | format: prose -->
 སེམས་ཅན་ཐ་མ་འབྲིང་དང་མཆོག་གྱུར་ཇི་ཞེས་པ་ཡིན་ཅིང་།
-
-<!-- pair: TGD-001061 | source: U01061 | role: main_text | format: prose -->
 མ་རིག་པ་སྒོམ་བྱུང་ཟག་མེད་ཀྱི་ཤེས་རབ་ཀྱིས་སུན་ཕྱུང་ན་
-
-<!-- pair: TGD-001062 | source: U01062 | role: main_text | format: prose -->
 ཟག་མེད་ཀྱི་ཡོན་ཏན་ཐམས་ཅད་ཐོབ་སྟེ།
-
-<!-- pair: TGD-001063 | source: U01063 | role: main_text | format: prose -->
 ཡེ་ཤེས་ཚུལ་སྒོ་ཐབས་དང་རྩ་བ་ཇི་སྙེད་པ།
-
-<!-- pair: TGD-001064 | source: U01064 | role: main_text | format: prose -->
 ཞེས་སོགས་པས་
-
-<!-- pair: TGD-001065 | source: U01065 | role: main_text | format: prose -->
 དམིགས་མཚན་དུ་འཛིན་པས་མ་རིག་པ་སྟོབས་སུ་གྱུར་ཅིང་།
-
-<!-- pair: TGD-001066 | source: U01066 | role: main_text | format: prose -->
 བཅུ་གཅིག་པོ་ལ་རང་དབང་མེད་པས་སོ།
 
-<!-- pair: TGD-001067 | source: U01067 | role: main_text | format: prose -->
+<!-- pair: TGD-001067 | source: U01067 U01068 U01069 U01070 U01071 | role: main_text | format: prose -->
 རྡོ༽༽ གཞན་ཤེས་ལ།
-
-<!-- pair: TGD-001068 | source: U01068 | role: main_text | format: prose -->
 རྟེན་འབྲེལ་བཅུ་གཉིས་ནི་གསུམ་དུ་འདུ་སྟེ།
-
-<!-- pair: TGD-001069 | source: U01069 | role: main_text | format: prose -->
 དང་པོ་བརྒྱད་པ་དགུ་ཉོན་མོངས་གཉིས་པ་བཅུ་པ་ལས་ཡིན་ཏེ།
-
-<!-- pair: TGD-001070 | source: U01070 | role: main_text | format: prose -->
 ལྷག་མ་རྣམས་ནི་སྡུག་བསྔལ་ལོ།
-
-<!-- pair: TGD-001071 | source: U01071 | role: main_text | format: prose -->
 ཞེས་པས་
 
-<!-- pair: TGD-001072 | source: U01072 | role: main_text | format: prose -->
+<!-- pair: TGD-001072 | source: U01072 U01073 U01074 U01075 | role: main_text | format: prose -->
 རིམ་བཞིན་ལྷག་སྔ་མ་ད་ལྟ་ཕྱི་མ་གསུམ་ལས་རྫོགས་ཟེར།
-
-<!-- pair: TGD-001073 | source: U01073 | role: main_text | format: prose -->
+འདིར་བཅུ་གཉིས་པོ་དེ་ཡང་
+རིམ་བཞིན་ལྷག་སྔ་མ་ད་ལྟ་ཕྱི་མ་གསུམ་ལས་རྫོགས་ཟེར།
 འདིར་བཅུ་གཉིས་པོ་དེ་ཡང་
 
-<!-- pair: TGD-001074 | source: U01074 | role: main_text | format: prose -->
-རིམ་བཞིན་ལྷག་སྔ་མ་ད་ལྟ་ཕྱི་མ་གསུམ་ལས་རྫོགས་ཟེར།
-
-<!-- pair: TGD-001075 | source: U01075 | role: main_text | format: prose -->
-འདིར་བཅུ་གཉིས་པོ་དེ་ཡང་
-
-<!-- pair: TGD-001076 | source: U01076 | role: main_text | format: prose -->
+<!-- pair: TGD-001076 | source: U01076 U01077 U01078 U01079 U01080 U01081 | role: main_text | format: prose -->
 སྐད་ཅིག་གཅིག་ལ་ཚང་བར་འབྱུང་བའང་ཡོད་དེ་
-
-<!-- pair: TGD-001077 | source: U01077 | role: main_text | format: prose -->
 ཞེ་སྡང་རྟོག་པ་སྐྱེས་པ་མ་རིག་པའི་དབང་ལས་སྦྱོར་བ་མགོ་ཙམ་པ་ཉོན་མོངས་པའི་དུམ་བུ་དངོས་གཞི་འདུ་བྱས་ཏེ།
-
-<!-- pair: TGD-001078 | source: U01078 | role: main_text | format: prose -->
 སྤྱོད་པ་ལས་ཀྱི་དུམ་བུ།
-
-<!-- pair: TGD-001079 | source: U01079 | role: main_text | format: prose -->
 རྗེས་ཐིམ་པ།
-
-<!-- pair: TGD-001080 | source: U01080 | role: main_text | format: prose -->
 སྡུག་འསྔལ་གྱི་དུམ་བུ་སྟེ་
-
-<!-- pair: TGD-001081 | source: U01081 | role: main_text | format: prose -->
 རྟོག་པ་གཅིག་སྐྱེས་པ་ནས་འགགས་པའི་བར་ལ་ཚང་བར་འབྱུང་བར་འགྲུབ་བོ།
 
-<!-- pair: TGD-001082 | source: U01082 | role: main_text | format: prose -->
+<!-- pair: TGD-001082 | source: U01082 U01083 U01084 U01085 U01086 | role: main_text | format: prose -->
 རྡོ༽༽ འཇིག་རྟེན་གྱི་ཚད་དང་བྱུང་ཚུལ་ཆགས་གནས་འཇིག་སྟོང་མི་གཅིག་པ་དུས་འཁོར།
-
-<!-- pair: TGD-001083 | source: U01083 | role: main_text | format: prose -->
 རྟ་མགྲིན་གཤམ་པ་བཀོད་པ།
-
-<!-- pair: TGD-001084 | source: U01084 | role: main_text | format: prose -->
 འདུལ་བ་གདགས་པ།
-
-<!-- pair: TGD-001085 | source: U01085 | role: main_text | format: prose -->
 དྲན་ཉེར་སོགས་ལས་དུ་མ་འབྱུང་བ་
-
-<!-- pair: TGD-001086 | source: U01086 | role: main_text | format: prose -->
 སྙན་ངག་ལྟར་བཤད་པ་དང་གནས་ལུགས་ལྟར་བཤད་པ་གཉིས་སུ་ཡོད་ཟེར།
 
-<!-- pair: TGD-001087 | source: U01087 | role: main_text | format: prose -->
+<!-- pair: TGD-001087 | source: U01087 U01088 U01089 U01090 U01091 | role: main_text | format: prose -->
 འདིར་ནི་སེམས་ནི་ཐ་དད་དབང་གིས་སྣང་བ་ཡང་ཐ་དད་དེ།
-
-<!-- pair: TGD-001088 | source: U01088 | role: main_text | format: prose -->
 དོན་དམ་པར་སྣོད་བཅུད་གང་ཡང་མ་གྲུབ་མོད།
-
-<!-- pair: TGD-001089 | source: U01089 | role: main_text | format: prose -->
 ཚུ་རོལ་མཐོང་བའི་ངོར་བག་ཆགས་ཀྱི་ཁམས་དང་
-
-<!-- pair: TGD-001090 | source: U01090 | role: main_text | format: prose -->
 ཆོས་ཐ་དད་པས་སྒྲུབ་པའི་སྣང་བ་བསོད་ནམས་བསགས་ཚུལ་གྱི་བྱེ་བྲག་གིས་ཏེ།
-
-<!-- pair: TGD-001091 | source: U01091 | role: main_text | format: prose -->
 རྡོ་རྗེ་གུར་ལས།
 
-<!-- pair: TGD-001092 | source: U01092 | role: main_text | format: prose -->
+<!-- pair: TGD-001092 | source: U01092 U01093 U01094 U01095 | role: main_text | format: verse -->
 ཡུལ་དང་དབང་པོའི་བྱེ་བྲག་རྣམས།
-
-<!-- pair: TGD-001093 | source: U01093 | role: main_text | format: prose -->
 རྣམ་པ་ཐ་དད་མ་མཆིས་ཏེ།
-
-<!-- pair: TGD-001094 | source: U01094 | role: main_text | format: prose -->
 གཟུགས་སོགས་སྣང་བར་གྱུར་པ་ནི། །
-
-<!-- pair: TGD-001095 | source: U01095 | role: main_text | format: prose -->
 རང་སེམས་ཁོ་ནར་སྣང་བའོ། །
 
-<!-- pair: TGD-001096 | source: U01096 | role: main_text | format: prose -->
+<!-- pair: TGD-001096 | source: U01096 U01097 U01098 U01099 U01100 U01101 U01102 U01103 | role: main_text | format: prose -->
 ཞེས་དང་།
-
-<!-- pair: TGD-001097 | source: U01097 | role: main_text | format: prose -->
 དྲིམ་མེད་པར་གྲགས་པའི་མདོ་ལས།
-
-<!-- pair: TGD-001098 | source: U01098 | role: main_text | format: prose -->
 ལྟ་བ་ཐུན་མོང་བ་གཅིག་ལ་
-
-<!-- pair: TGD-001099 | source: U01099 | role: main_text | format: prose -->
 ཤཱ་རིའི་བུས་རང་རོང་ཅན་དུ་མཐོང་ཞིང་
-
-<!-- pair: TGD-001100 | source: U01100 | role: main_text | format: prose -->
 ཚངས་པ་རལ་བ་ཅན་གྱིས་རྣམ་པར་དག་པའི་ཞིང་དུ་མཐོང་བར་གསུངས་པ་དང༌།
-
-<!-- pair: TGD-001101 | source: U01101 | role: main_text | format: prose -->
 སྤྱོད་འཇུག་ལས།
-
-<!-- pair: TGD-001102 | source: U01102 | role: main_text | format: prose -->
 ལྕགས་བསྲེག་ས་གཞི་སུ་ཡིས་བྱས།
-
-<!-- pair: TGD-001103 | source: U01103 | role: main_text | format: prose -->
 སོགས་གསུངས་པས་ཆུ་ལ་འགྲོ་བ་དྲུག་གིས་མཐོང་བ་བཞིན་ནོ།
 
-<!-- pair: TGD-001104 | source: U01104 | role: main_text | format: prose -->
+<!-- pair: TGD-001104 | source: U01104 U01105 U01106 U01107 U01108 U01109 U01110 U01111 U01112 U01113 | role: main_text | format: prose -->
 རྡོ༽༽ བདེ་སྡུག་རྣམས་སྔོན་གྱི་ལས་ཁོ་ནར་ལས་ཤིང་རྐྱེན་གྱིས་བསྒྲུབས་ཀྱང་ལས་དེ་མི་འགྱུར་ཟེར།
-
-<!-- pair: TGD-001105 | source: U01105 | role: main_text | format: prose -->
 འདིར་ནི་དེར་མ་ངེས་པ་
-
-<!-- pair: TGD-001106 | source: U01106 | role: main_text | format: prose -->
 ད་ལྟ་ཉིད་དུ་ལས་གང་བསྒྲུབས་འབྲས་བུར་ལོངས་སྤྱོད་པའང་ཡོདདེ།
-
-<!-- pair: TGD-001107 | source: U01107 | role: main_text | format: prose -->
 ཆོས་ཀུན་རྐྱེན་ལ་བརྟེན་པ་དང༌།
-
-<!-- pair: TGD-001108 | source: U01108 | role: main_text | format: prose -->
 སྐད་ཅིག་མ་ཡིན་པའི་གནད་ཀྱིས་
-
-<!-- pair: TGD-001109 | source: U01109 | role: main_text | format: prose -->
 ད་ལྟ་བླ་མ་དང་རྒྱལ་པོ་ལྟ་བུ་མཉེས་པའི་ལས་བསྒྲུབ་ན་
-
-<!-- pair: TGD-001110 | source: U01110 | role: main_text | format: prose -->
 གདམ་ག་དང་བྱ་དགའ་ཐོབ་ཅིང་
-
-<!-- pair: TGD-001111 | source: U01111 | role: main_text | format: prose -->
 མ་མཉེས་ན་དེ་ལས་ལྡོག་པ་དེ་
-
-<!-- pair: TGD-001112 | source: U01112 | role: main_text | format: prose -->
 སྔོན་ལས་ཁོ་ནར་མི་ལྟོས་པར་མཉེས་མ་མཉེས་ཀྱི་ཁྱད་པར་ཡིན་པར་གྲུབ་བོ།
-
-<!-- pair: TGD-001113 | source: U01113 | role: main_text | format: prose -->
 ཐམས་ཅད་སྔོན་ལས་ཡིན་ན་རྒྱུར་སྨྲ་བའི་ཞེ་འདོད་ཡིན་པས་དོར་བར་བྱོས་ཤིག
 
-<!-- pair: TGD-001114 | source: U01114 | role: main_text | format: prose -->
+<!-- pair: TGD-001114 | source: U01114 U01115 U01116 U01117 U01118 U01119 U01120 U01121 U01122 U01123 U01124 | role: main_text | format: prose -->
 རྡོ༽༽ གཞན་དག་ན་རེ།
-
-<!-- pair: TGD-001115 | source: U01115 | role: main_text | format: prose -->
 བསྐལ་པ་ཡར་འཕེལ་མར་འགྲིབ་རང་བཞིན་བབས་ཀྱིས་འབྱུང་སྟེ་
-
-<!-- pair: TGD-001116 | source: U01116 | role: main_text | format: prose -->
 འཕེལ་བ་ན་ཐབས་གང་གིས་ཀྱང་མི་འགྲིབ།
-
-<!-- pair: TGD-001117 | source: U01117 | role: main_text | format: prose -->
 འགྲིབ་པ་ན་ཐབས་གང་གིས་ཀྱང་མི་འཕེལ་ཟེརཡང་།
-
-<!-- pair: TGD-001118 | source: U01118 | role: main_text | format: prose -->
 འདིར་དུས་ཀྱི་འཕེལ་འགྲིབ་ད་ལྟར་ཡང་བྱར་ཡོད་པ་ཡིན་ཏེ་
-
-<!-- pair: TGD-001119 | source: U01119 | role: main_text | format: prose -->
 དེའི་རྒྱུ་དགེ་མི་དགེ་ཞེས་བྱ་བ་ལོ་བརྒྱད་ཁྲིའི་ས་ནས་བརྒྱད་བཅུའི་བར་དུ་འགྲིབ།
-
-<!-- pair: TGD-001120 | source: U01120 | role: main_text | format: prose -->
 དེ་ཚེ་རང་རེའི་སྟོན་པ་གདོལ་བ་སྟོབས་ཆེན་དུ་སྐྱེ་བ་བཞེས་ན་
-
-<!-- pair: TGD-001121 | source: U01121 | role: main_text | format: prose -->
 སུས་སེམས་ཅན་གྱི་སྲོག་བཅད་ན་ངས་དེའི་སྲོག་གཅོད་ཅེས་བསྒྲགས་ཏེ་
-
-<!-- pair: TGD-001122 | source: U01122 | role: main_text | format: prose -->
 རིམ་གྱིས་ཆོས་འཅུ་དྲུག་ལ་བཀོད་པས་
-
-<!-- pair: TGD-001123 | source: U01123 | role: main_text | format: prose -->
 ལྔ་བརྒྱའི་བར་དུ་འཕེལ་བར་གསུངས་པ་
-
-<!-- pair: TGD-001124 | source: U01124 | role: main_text | format: prose -->
 ཆུ་ལུད་དྲོད་གཤེར་ཚོགས་པའི་ས་བོན་གྱི་མྱུ་གུ་བཞིན་ནོ།
 
-<!-- pair: TGD-001125 | source: U01125 | role: main_text | format: prose -->
+<!-- pair: TGD-001125 | source: U01125 U01126 U01127 | role: main_text | format: prose -->
 རྡོ༽༽ ཁོ་ན་རེ
-
-<!-- pair: TGD-001126 | source: U01126 | role: main_text | format: prose -->
 ད་ལྟར་གྱི་དུས་སུ་སྐྱེས་ནས་མྱོང་གྱུར་དང་
-
-<!-- pair: TGD-001127 | source: U01127 | role: main_text | format: prose -->
 ལན་གྲངས་གཞན་ལ་མྱོང་འགྱུར་མ་གཏོགས་མཐོང་ཆོས་བྱུང་ཟེར་རོ།
 
-<!-- pair: TGD-001128 | source: U01128 | role: main_text | format: prose -->
+<!-- pair: TGD-001128 | source: U01128 U01129 U01130 U01131 U01132 U01133 U01134 | role: main_text | format: prose -->
 སྐབས་འདི་ན་
-
-<!-- pair: TGD-001129 | source: U01129 | role: main_text | format: prose -->
 ཚེ་འདིར་རང་ལ་མཐོང་ཆོས་གཙོ་བོར་འབྱུང་སྟེ།
-
-<!-- pair: TGD-001130 | source: U01130 | role: main_text | format: prose -->
 མ་སྐྱེས་དགྲས་མཐོང་ཆོས་གང་ལགས་ཞུས།
-
-<!-- pair: TGD-001131 | source: U01131 | role: main_text | format: prose -->
 ཁྱོད་ཀྱི་འབངས་ཐ་ཆད་ཞིག་ང་ལས་རབ་ཏུ་བྱུང་སྟེ་
-
-<!-- pair: TGD-001132 | source: U01132 | role: main_text | format: prose -->
 ཁྱོད་ཀྱི་སར་ཕྱིན་ན་ཐ་ཆད་བྱའམ་གསུངས་པས།
-
-<!-- pair: TGD-001133 | source: U01133 | role: main_text | format: prose -->
 དེ་འདྲ་ལྟ་ཅི་བདག་གིས་ཕྱག་དང་བསྙེན་བཀུར་བ་ཡིན་ཞུས་པས།
-
-<!-- pair: TGD-001134 | source: U01134 | role: main_text | format: prose -->
 དེ་མཐོང་ཆོས་ཡིན་གསུངས་
 
-<!-- pair: TGD-001135 | source: U01135 | role: main_text | format: prose -->
+<!-- pair: TGD-001135 | source: U01135 U01136 U01137 | role: main_text | format: prose -->
 དེ་ལྟར་དེང་སང་ལའང་ཕལ་ཆེར་རབ་ཏུ་བྱུང་བ་དང༌།
-
-<!-- pair: TGD-001136 | source: U01136 | role: main_text | format: prose -->
 བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་པ་དང་
-
-<!-- pair: TGD-001137 | source: U01137 | role: main_text | format: prose -->
 སྔགས་ལ་ཞུགས་པ་དག་མཐོང་བའི་ཆོས་ལ་སྤྱོད་པར་མངོན་སུམ་གྱིས་གྲུབ་བོ།
 
-<!-- pair: TGD-001138 | source: U01138 | role: main_text | format: prose -->
+<!-- pair: TGD-001138 | source: U01138 U01139 U01140 U01141 | role: main_text | format: prose -->
 རྡོ༽༽ དགེ་བཅུའི་ཁར་
-
-<!-- pair: TGD-001139 | source: U01139 | role: main_text | format: prose -->
 ཕ་མ་དགེ་སྦྱོང་བྲམ་ཟེར་ཤེས་པ་བཞི་
-
-<!-- pair: TGD-001140 | source: U01140 | role: main_text | format: prose -->
 རྒན་ལ་རིམ་གྲོ་སྦྱིན་གཏོང་སྟེ་བཅུ་དྲུག་མི་ཆོས་ཡིན།
-
-<!-- pair: TGD-001141 | source: U01141 | role: main_text | format: prose -->
 ལྷ་ཆོས་དེ་ལས་གཞན་ཏེ།
 
-<!-- pair: TGD-001142 | source: U01142 | role: main_text | format: prose -->
+<!-- pair: TGD-001142 | source: U01142 U01143 | role: main_text | format: verse -->
 མི་ཆོས་མཁས་པ་ལྷ་ཆོས་ཡིན། །
-
-<!-- pair: TGD-001143 | source: U01143 | role: main_text | format: prose -->
 མཐུན་འཇུག་མཁས་པ་ཟོལ་ཟོག་ཡིན་
 
-<!-- pair: TGD-001144 | source: U01144 | role: main_text | format: prose -->
+<!-- pair: TGD-001144 | source: U01144 U01145 U01146 U01147 U01148 U01149 U01150 | role: main_text | format: prose -->
 ཅེས་གསུངས་སོ་ཟེར།
-
-<!-- pair: TGD-001145 | source: U01145 | role: main_text | format: prose -->
 འདིར་ནི་ལྷ་ཆོས་སྡོམ་པ་གསུམ་ཀའི་སྐབས་སུ་
-
-<!-- pair: TGD-001146 | source: U01146 | role: main_text | format: prose -->
 གཞན་དོན་དུ་འཁོར་བ་འདའ་འདོད་ཀྱི་བསམ་པས་
-
-<!-- pair: TGD-001147 | source: U01147 | role: main_text | format: prose -->
 སྒྲུབ་དགག་དེ་ལས་གཞན་མེད་པའི་ཕྱིར་དང་།
-
-<!-- pair: TGD-001148 | source: U01148 | role: main_text | format: prose -->
 འདི་དང་ལྡན་ན་མི་ཆོས་ཀྱི་ཡོན་ཏན་ཕྲ་མོ་ནས་མཆོག་གི་དངོས་གྲུབ་བར་འབྱུང་བར་གཅིག་པའི་ཕྱིར་དང༌།
-
-<!-- pair: TGD-001149 | source: U01149 | role: main_text | format: prose -->
 མི་ལྡན་ན་ཉེས་ཚོགས་སྡུག་བསྔལ་འབྱུང་བར་གཅིག་པའི་ཕྱིར།
-
-<!-- pair: TGD-001150 | source: U01150 | role: main_text | format: prose -->
 སློབ་དཔོན་འཕགས་པས།
 
-<!-- pair: TGD-001151 | source: U01151 | role: main_text | format: prose -->
+<!-- pair: TGD-001151 | source: U01151 U01152 | role: main_text | format: verse -->
 མི་ཡི་ཆོས་ལུགས་ལེགས་སྤྱད་ནས།
-
-<!-- pair: TGD-001152 | source: U01152 | role: main_text | format: prose -->
 ལྷ་ཡུལ་སོགས་གསུངས་པས་
 
 <!-- pair: TGD-001153 | source: U01153 | role: main_text | format: prose -->
 མི་ཆོས་བཅུ་དྲུག་ལྷ་ཆོས་དང་གནད་དམ་དོན་གཅིག་སྟེ་མཚུངས་པར་གྲུབ་བོ།
 
-<!-- pair: TGD-001154 | source: U01154 | role: main_text | format: prose -->
+<!-- pair: TGD-001154 | source: U01154 U01155 U01156 U01157 U01158 U01159 U01160 U01161 | role: main_text | format: prose -->
 རྡོ༽༽ བསྟན་པའི་གནས་ཚད་གསུང་རབ་རྣམས་ནས་དུ་མ་ཞིག་གསུངས་ཀྱང་
-
-<!-- pair: TGD-001155 | source: U01155 | role: main_text | format: prose -->
 འབུམ་ཊིཀཱ་པས་བསྟན་པ་ལྔ་བརྒྱ་ཕྲག་བཅུ་ལས་
-
-<!-- pair: TGD-001156 | source: U01156 | role: main_text | format: prose -->
 དང་པོ་གསུམ་རིམ་བཞིན་དགྲ་བཅོམ་དང་ཕྱིར་མི་འོང་དང་།
-
-<!-- pair: TGD-001157 | source: U01157 | role: main_text | format: prose -->
 ལན་ཅིག་ཕྱིར་འོང་རྒྱུན་ཞུགས་འབྲས་བུ་ཐོབ་པར་དེའི་དུས།
-
-<!-- pair: TGD-001158 | source: U01158 | role: main_text | format: prose -->
 བར་པ་གསུམ།
-
-<!-- pair: TGD-001159 | source: U01159 | role: main_text | format: prose -->
 ཤེས་རབ་དང་། ཏིང༌ངེ༌འཛིན་དང་། ཚུལ་ཁྲིམས་ལྡན་པས་སྒྲུབ་པའི་དུས།
-
-<!-- pair: TGD-001160 | source: U01160 | role: main_text | format: prose -->
 ཕྱི་མ་གསུམ་མངོན་པ་དང་། མདོ་སྡེ་དང་། འདུལ་བའི་དུས་ཏེ་ལུང་གི་དུས།
-
-<!-- pair: TGD-001161 | source: U01161 | role: main_text | format: prose -->
 དེང་སང་མདོ་སྡེའི་དུས་ལ་ཡོད་པས་འབྲས་བུ་མི་སྐྱེ་ཟེར་རོ། །
 
-<!-- pair: TGD-001162 | source: U01162 | role: main_text | format: prose -->
+<!-- pair: TGD-001162 | source: U01162 U01163 U01164 U01165 U01166 U01167 U01168 | role: main_text | format: prose -->
 འདིར་ནི་དཀོན་མཆོག་གསུམ་རྟག་པའི་གནད་ཀྱིས་ཉམས་སུ་ལེན་པ་ཡོད་ན་
-
-<!-- pair: TGD-001163 | source: U01163 | role: main_text | format: prose -->
 འབྲས་བུ་ཐོབ་པ་རྒྱུན་མི་ཆད་པ་འབྱུང་སྟེ།
-
-<!-- pair: TGD-001164 | source: U01164 | role: main_text | format: prose -->
 ཟླ་བ་སྙིང་པོའི་མདོར།
-
-<!-- pair: TGD-001165 | source: U01165 | role: main_text | format: prose -->
 བསྟན་པ་ནུབ་ཁར་རྒྱལ་པོ་དཔུང་མར་ཅན་གྱི་རིང་ལ་དགྲ་བཅོམ་པ་དེས་པ་དང་
-
-<!-- pair: TGD-001166 | source: U01166 | role: main_text | format: prose -->
 ཁྲོ་མ་དུས་མཇུག་ལས་ཚེ་ལོ་བཅུ་པའི་དུས་
-
-<!-- pair: TGD-001167 | source: U01167 | role: main_text | format: prose -->
 རྒྱལ་པོ་རྡོ་རྟ་ཅན་གྱི་རིང་ལ་དགྲ་བཅོམ་གཉིས་འབྱུང་བར་གསུངས་ཤིང༌།
-
-<!-- pair: TGD-001168 | source: U01168 | role: main_text | format: prose -->
 མ་སྒྲུབ་ན་སངས་རྒྱས་བཞུགས་ཀྱང་མི་ཐོབ་པ་ལྷ་སྦྱིན་དང་ལེགས་སྐར་བཞིན་ནོ། །
 
-<!-- pair: TGD-001169 | source: U01169 | role: main_text | format: prose -->
+<!-- pair: TGD-001169 | source: U01169 U01170 U01171 U01172 | role: main_text | format: prose -->
 གསེར་འོད་ལས་ཀྱང།
-
-<!-- pair: TGD-001170 | source: U01170 | role: main_text | format: prose -->
 སངས་རྒྱས་མྱ་ངན་ཡོངས་མི་འདའ།
-
-<!-- pair: TGD-001171 | source: U01171 | role: main_text | format: prose -->
 གྲོལ་བ་རྒྱུན་མི་ཆད་པར་འཁོར་བ་མ་སྟོང་གི་བར་དུ་འབྱུང་ངོ་།༽
-
-<!-- pair: TGD-001172 | source: U01172 | role: main_text | format: prose -->
 དུས་བཞིར་བཞག་པ་ཤས་ཆེ་ཆུང་ངམ་གཙོ་ཕལ་ཙམ་ལས་འབྲས་ཐོབ་རྒྱུན་ཆད་མེད་དོ།
 
-<!-- pair: TGD-001173 | source: U01173 | role: main_text | format: prose -->
+<!-- pair: TGD-001173 | source: U01173 U01174 U01175 | role: main_text | format: prose -->
 རྡོ༽༽  བསླབ་གསུམ་ལས་ཚུལ་ཁྲིམས་བསླབ་པ་སྔོན་དུ་འགྲོ་བར་འདོད་དེ།
-
-<!-- pair: TGD-001174 | source: U01174 | role: main_text | format: prose -->
 ཞི་གནས་རབ་ཏུ་ལྡན་པའི་ལྷག་མཐོང་གིས་སོགས།
-
-<!-- pair: TGD-001175 | source: U01175 | role: main_text | format: prose -->
 ཅེས་པས་གོ་རིམ་ངེས་ཅན་ཡིན་ཟེར།
 
-<!-- pair: TGD-001176 | source: U01176 | role: main_text | format: prose -->
+<!-- pair: TGD-001176 | source: U01176 U01177 U01178 U01179 U01180 U01181 U01182 U01183 U01184 U01185 | role: main_text | format: prose -->
 འདིར་ནི་དེ་ཁོ་ནར་ངེས་ཏེ་
-
-<!-- pair: TGD-001177 | source: U01177 | role: main_text | format: prose -->
 ལྔ་སྡེ་བཟང་པོ་ཡེ་ཤེས་ཁོང་དུ་ཆུད་པས་བསྙེན་པར་རྫོགས་པ་དང༌།
-
-<!-- pair: TGD-001178 | source: U01178 | role: main_text | format: prose -->
 ཁྱིམ་བདག་གཙོ་བོའི་བུ་གྲགས་པ་ཁྱིམ་པའི་ཆ་བྱད་དུ་འདུག་བཞིན་པར་དགྲ་བཅོམ་པ་ཐོབ་ནས་
-
-<!-- pair: TGD-001179 | source: U01179 | role: main_text | format: prose -->
 ཕྱིས་རབ་ཏུ་བྱུང་བ་ལྟ་བུ་སྟེ།
-
-<!-- pair: TGD-001180 | source: U01180 | role: main_text | format: prose -->
 དབྱེ་ན་གཞི་ལས།
-
-<!-- pair: TGD-001181 | source: U01181 | role: main_text | format: prose -->
 རྒྱན་གྱི་རྒྱན་བཞིན་དུ་ནི་སོགས་དང།
-
-<!-- pair: TGD-001182 | source: U01182 | role: main_text | format: prose -->
 སྡུད་པ་ལས།
-
-<!-- pair: TGD-001183 | source: U01183 | role: main_text | format: prose -->
 སྦྱིན་པ་སྦྱིན་པའི་སྔོན་དུ་འགྲོ་བ་ཤེས་རབ་སྟེ།
-
-<!-- pair: TGD-001184 | source: U01184 | role: main_text | format: prose -->
 སོགས་གསུངས་པས།
-
-<!-- pair: TGD-001185 | source: U01185 | role: main_text | format: prose -->
 ཤེས་རབ་བསླབས་པ་ཐོག་མར་འགྲོ་བའང་ཡོད་དོ།
 
-<!-- pair: TGD-001186 | source: U01186 | role: main_text | format: prose -->
+<!-- pair: TGD-001186 | source: U01186 U01187 U01188 U01189 | role: main_text | format: prose -->
 རྡོ༽༽ མདོ་སྔགས་ལམ་གྱི་རིམ་པ་སྔགས་ལ་རིམ་ལྔ་སྦྱོར་དྲུག་སོགས་དང་མཚན་ཉིད་རིམ་པ་གསུམ་ཡོད་པས་
-
-<!-- pair: TGD-001187 | source: U01187 | role: main_text | format: prose -->
 སྔོན་དུ་འཆི་བ། མི་རྟག་པ། ལས་རྒྱུ་འབྲས། འཁོར་བའི་ཉེས་དམིགས། བསྐྱེད་རིམ་རྣམས་ལོ་བཅུ་གཉིས་རེ་བསྒོམས་ནས།
-
-<!-- pair: TGD-001188 | source: U01188 | role: main_text | format: prose -->
 དེ་རྗེས་བཅུ་གཉིས་རྫོགས་རིམ་བསྒོམ་པ་ཡིན་
-
-<!-- pair: TGD-001189 | source: U01189 | role: main_text | format: prose -->
 ཅེས་བཀའ་གདམས་པ་འགའ་ཞིག་གིས་ཟེར་རོ། །
 
-<!-- pair: TGD-001190 | source: U01190 | role: main_text | format: prose -->
+<!-- pair: TGD-001190 | source: U01190 U01191 U01192 U01193 U01194 U01195 U01196 U01197 U01198 U01199 U01200 | role: main_text | format: prose -->
 འདིར་ནི་ལམ་རིམ་ཐམས་ཅད་ཐུན་གཅིག་གི་སྟེང་དུའང་ཉམས་སུ་ལེན་དགོས་ཏེ།
-
-<!-- pair: TGD-001191 | source: U01191 | role: main_text | format: prose -->
 སྔ་ཐུན་དང་པོར་མི་རྟག་པ་ཐུན་གཅིག་མ་བསྒོམ་ན་
-
-<!-- pair: TGD-001192 | source: U01192 | role: main_text | format: prose -->
 འཇིག་རྟེན་རང་གར་འཁྱམས་འགྲོ་བའི་ཕྱིར་དང༌།
-
-<!-- pair: TGD-001193 | source: U01193 | role: main_text | format: prose -->
 དེ་རྗེས་ལས་རྒྱུ་འབྲས་འཁོར་བའི་ཉེས་དམིགས་ཐུན་གཅིག་མ སྒོམ་ན་
-
-<!-- pair: TGD-001194 | source: U01194 | role: main_text | format: prose -->
 ཉེས་པ་ལས་བཙན་པར་མི་འགྱུར་བའི་ཕྱིར་དང།
-
-<!-- pair: TGD-001195 | source: U01195 | role: main_text | format: prose -->
 དེ་རྗེས་བྱམས་སྙིང་རྗེ་བྱང་ཆུབ་ཀྱི་སེམས་མ་བསྒོམ་ན་
-
-<!-- pair: TGD-001196 | source: U01196 | role: main_text | format: prose -->
 དོན་དུ་མི་འགྱུར་བའི་ཕྱིར་དང་
-
-<!-- pair: TGD-001197 | source: U01197 | role: main_text | format: prose -->
 དེ་རྗེས་མཚན་ཉིད་ལྟར་ན་བདག་མེད་གཉིས་སྔགས་ལྟར་ན་
-
-<!-- pair: TGD-001198 | source: U01198 | role: main_text | format: prose -->
 བསྐྱེད་རྫོགས་གཉིས་དངོས་གཞི་མེད་ཐབས་མེད་པ་དང་
-
-<!-- pair: TGD-001199 | source: U01199 | role: main_text | format: prose -->
 དགེ་རྩ་བྱང་ཆུབ་ཏུ་བསྔོ་བ་དང་བཅས་པ་མེད་ན་ཆུད་ཟ་བའི་ཕྱིར།
-
-<!-- pair: TGD-001200 | source: U01200 | role: main_text | format: prose -->
 དེ་ལྟར་ཐུན་གཅིག་གི་སྟེང་དུ་ཉམས་སུ་ལེན་ན་ཇོ་བོ་རྗེའི་དགོངས་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-001201 | source: U01201 | role: main_text | format: prose -->
+<!-- pair: TGD-001201 | source: U01201 U01202 U01203 U01204 U01205 U01206 U01207 U01208 U01209 | role: main_text | format: prose -->
 རྡོ༽༽ ཞིང་གཅིག་ལ་སངས་རྒྱས་གཅིག་ལས་མི་འབྱུང་བ་
-
-<!-- pair: TGD-001202 | source: U01202 | role: main_text | format: prose -->
 དགོངས་འདུས་དང་བོན་འབུམ་ན་འདོད་འདོད་པས་
-
-<!-- pair: TGD-001203 | source: U01203 | role: main_text | format: prose -->
 དེ་ལྟར་ཡིན་པ་འགའ་ཞིག་གིས་ཟེར་ཡང་
-
-<!-- pair: TGD-001204 | source: U01204 | role: main_text | format: prose -->
 སངས་རྒྱས་ནི་གྲངས་མེད་བྱོན་པ་ཡོད་དེ་
-
-<!-- pair: TGD-001205 | source: U01205 | role: main_text | format: prose -->
 སངས་རྒྱས་རྣམས་ཀྱི་སྐུ་གསུང་ཐུགས་ཀྱི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོའི་རྣམ་འཕྲུལ་མཐའ་ཡས་ཤིང་ཐུག་པ་མེད་པའི་ཕྱིར་དང༌།
-
-<!-- pair: TGD-001206 | source: U01206 | role: main_text | format: prose -->
 རྡུལ་གཅིག་གི་ཁྱོན་ལ་རྡུལ་སྙེད་ཀྱི་སངས་རྒྱས་ཀྱི་མཛད་པ་སྟོན་པར་གསུངས་པའི་ཕྱིར་དང།
-
-<!-- pair: TGD-001207 | source: U01207 | role: main_text | format: prose -->
 རང་རེའི་སྟོན་པས་འདུས་པ་རིན་པོ་ཆེ་དང་
-
-<!-- pair: TGD-001208 | source: U01208 | role: main_text | format: prose -->
 པདྨ་དཀར་པོ་གསུངས་པའི་དུས་
-
-<!-- pair: TGD-001209 | source: U01209 | role: main_text | format: prose -->
 སངས་རྒྱས་དཔག་ཏུ་མེད་པར་འབྱོན་པར་གསུངས་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-001210 | source: U01210 | role: main_text | format: prose -->
+<!-- pair: TGD-001210 | source: U01210 U01211 U01212 U01213 U01214 | role: main_text | format: prose -->
 དགོངས་འདུས་ཀྱི་ལུང་དོན་མཛད་པ་
-
-<!-- pair: TGD-001211 | source: U01211 | role: main_text | format: prose -->
 ཞིང་དེར་མཐར་ཕྱིན་པ་ལ་དགོངས་ཤིང་
-
-<!-- pair: TGD-001212 | source: U01212 | role: main_text | format: prose -->
 བོན་ལུང་ནི་ལུང་དུ་མི་འགྲུབ་བོ། །
-
-<!-- pair: TGD-001213 | source: U01213 | role: main_text | format: prose -->
 རྒྱུད་གཉིས་མེད་རྣམས་ལས་ལྷ་སྦྱིན་དང་བདུད་དང་།
-
-<!-- pair: TGD-001214 | source: U01214 | role: main_text | format: prose -->
 འཁོར་རྣམས་སངས་རྒྱས་ཡིན་པར་གསུངས་སོ།
 
-<!-- pair: TGD-001215 | source: U01215 | role: main_text | format: prose -->
+<!-- pair: TGD-001215 | source: U01215 | role: chapter_colophon | format: prose -->
 རྟེན་འབྲེལ་གནད་བསྡུས་རྡོ་རྗེ་ཚིགས་རྐང་བཅོ་ལྔ་ལྷན་ཐབས་ཚིགས་རྐང་གཅིག་གི་འགྲེལ་བཤད་ཀྱི་སྐབས་ཏེ་གཉིས་པའོ། ༈
 
-<!-- pair: TGD-001216 | source: U01216 | role: main_text | format: prose -->
+<!-- pair: TGD-001216 | source: U01216 U01217 U01218 U01219 U01220 U01221 U01222 U01223 U01224 U01225 | role: main_text | format: prose -->
 གཞན་དག་ན་རེ་
-
-<!-- pair: TGD-001217 | source: U01217 | role: main_text | format: prose -->
 འདུལ་བའི་སྡེ་སྣོད་སོ་སོར་ཐར་པ་ཞེས་པ་
-
-<!-- pair: TGD-001218 | source: U01218 | role: main_text | format: prose -->
 རང་ཉིད་ཁོ་ན་ཐར་པའི་དོན་ཡིན་པས་ཐེག་དམན་སར་འདོད་པ་མང་མོད།
-
-<!-- pair: TGD-001219 | source: U01219 | role: main_text | format: prose -->
 འདིར་ནི་དམ་ཆོས་འདུལ་བ་ཐེག་པ་ཐུན་མོང་ཡིན་ཏེ་
-
-<!-- pair: TGD-001220 | source: U01220 | role: main_text | format: prose -->
 གནས་སྐབས་འཁོར་བའི་བདེ་སྐྱིད་ཀྱང་སོ་ཐར་སྡོམ་པར་བརྟེན་ནས་བྱུང་སྟེ་
-
-<!-- pair: TGD-001221 | source: U01221 | role: main_text | format: prose -->
 ཚུལ་ཁྲིམས་ཀྱིས་ནི་བདེ་འགྲོར་འགྲོ་ཞེས་དང་།
-
-<!-- pair: TGD-001222 | source: U01222 | role: main_text | format: prose -->
 ཞི་བ་ཉན་རང་མི་ལུས་ལ་བརྟེན་དགོས་ཤིང་
-
-<!-- pair: TGD-001223 | source: U01223 | role: main_text | format: prose -->
 ལུས་དེའང་ཚུལ་ཁྲིམས་ལ་རག་ལས་པའི་ཕྱིར་དང༌།
-
-<!-- pair: TGD-001224 | source: U01224 | role: main_text | format: prose -->
 མཐར་ཐུག་སངས་རྒྱས་ཀྱི་ཡོན་ཏན་སྟོབས་སོགས་ཚུལ་ཁྲིམས་ཀྱི་འབྲས་བུ་གསུངས་ཏེ།
-
-<!-- pair: TGD-001225 | source: U01225 | role: main_text | format: prose -->
 སྡུད་པ་ལས།
 
-<!-- pair: TGD-001226 | source: U01226 | role: main_text | format: prose -->
+<!-- pair: TGD-001226 | source: U01226 U01227 | role: main_text | format: verse -->
 ཚུལ་ཁྲིམས་ཀྱིས་ནི་ཞི་བ་འདོད་རྣམས་འཕགས་པར་འགྱུར། །
-
-<!-- pair: TGD-001227 | source: U01227 | role: main_text | format: prose -->
 སྟོབས་བཅུའི་སྤྱོད་ཡུལ་གནས་ཀྱང་ཚུལ་ཁྲིམས་ཉམས་པ་མེད།
 
-<!-- pair: TGD-001228 | source: U01228 | role: main_text | format: prose -->
+<!-- pair: TGD-001228 | source: U01228 U01229 U01230 | role: main_text | format: prose -->
 ཅེས་པ་ཐོག་མར་མཐོ་རིས་ཀྱི་ཡོན་ཏན་བར་དུ་ཉན་རང་གི་བྱང་ཆུབ།
-
-<!-- pair: TGD-001229 | source: U01229 | role: main_text | format: prose -->
 མཐར་ཐུག་བྱང་ཆུབ་ཆེན་པོའི་བར་ཚུལ་ཁྲིམས་ལས་བྱུང་བ་ནི༑
-
-<!-- pair: TGD-001230 | source: U01230 | role: main_text | format: prose -->
 བཤེས་སྤྲིང་ལས།
 
-<!-- pair: TGD-001231 | source: U01231 | role: main_text | format: prose -->
+<!-- pair: TGD-001231 | source: U01231 U01232 | role: main_text | format: verse -->
 ཁྲིམས་ནི་རྒྱུ་དང་མི་རྒྱུའི་ས་བཞིན་དུ།
-
-<!-- pair: TGD-001232 | source: U01232 | role: main_text | format: prose -->
 ཡོན་ཏན་ཀུན་གྱི་གཞི་རྟེན་ལགས་པར་གསུངས།
 
-<!-- pair: TGD-001233 | source: U01233 | role: main_text | format: prose -->
+<!-- pair: TGD-001233 | source: U01233 U01234 U01235 U01236 U01237 U01238 U01239 U01240 | role: main_text | format: prose -->
 ཞེས་པ་དང༌།
-
-<!-- pair: TGD-001234 | source: U01234 | role: main_text | format: prose -->
 ཐུན་མོང་དུ་སྲོག་གཅོད་པ་ལྟ་བུ་གཅིག་ལ་མཚོན་ན།
-
-<!-- pair: TGD-001235 | source: U01235 | role: main_text | format: prose -->
 འཇིག་རྟེན་པའི་མི་དགེ་བ།
-
-<!-- pair: TGD-001236 | source: U01236 | role: main_text | format: prose -->
 ཉན་རང་གི་ཕས་ཕམ།
-
-<!-- pair: TGD-001237 | source: U01237 | role: main_text | format: prose -->
 བྱང་སེམས་ཀྱི་རྩ་བ་ལྟ་བུ།
-
-<!-- pair: TGD-001238 | source: U01238 | role: main_text | format: prose -->
 སྔགས་སུ་བཅུད་རྣམས་ལྷར་གསུངས་ན་
-
-<!-- pair: TGD-001239 | source: U01239 | role: main_text | format: prose -->
 ལྟུང་བ་དེ་བས་ཆེ་བ་མེད་པས་
-
-<!-- pair: TGD-001240 | source: U01240 | role: main_text | format: prose -->
 དེ་ལྟར་ཐུན་མོང་དུ་གྲུབ་བོ།
 
-<!-- pair: TGD-001241 | source: U01241 | role: main_text | format: prose -->
+<!-- pair: TGD-001241 | source: U01241 U01242 U01243 U01244 U01245 U01246 | role: main_text | format: prose -->
 སོ་ཐར་གྱི་སྒྲ་དོན་པྲ་ཏི་མོཀྵ་ཞེས་པ་
-
-<!-- pair: TGD-001242 | source: U01242 | role: main_text | format: prose -->
 དྲི་མེད་བཤེས་ཉེན་གྱི་འགྲེལ་བ་བམ་པོ་ལྔ་བཅུ་པ་ལས།
-
-<!-- pair: TGD-001243 | source: U01243 | role: main_text | format: prose -->
 སོ་སོར་ཐར་པ་ཞེས་བྱ་བ་ནི་
-
-<!-- pair: TGD-001244 | source: U01244 | role: main_text | format: prose -->
 དགག་སྒྲུབ་ཀྱི་བསླབ་པ་སོ་སོར་མ་འདྲེས་ཕར་
-
-<!-- pair: TGD-001245 | source: U01245 | role: main_text | format: prose -->
 ཉམས་སུ་བླངས་པས་ཐར་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་མངོན་དུ་བྱེད་པའི་ཕྱིར་སོ་སོར་ཐར་པའོ།
-
-<!-- pair: TGD-001246 | source: U01246 | role: main_text | format: prose -->
 ཞེས་སོ།
 
-<!-- pair: TGD-001247 | source: U01247 | role: main_text | format: prose -->
+<!-- pair: TGD-001247 | source: U01247 U01248 U01249 U01250 | role: main_text | format: prose -->
 སོ་ཐར་སྨྲོས་ཙམ་གྱིས་ཐེག་དམན་ཡིན་ན་
-
-<!-- pair: TGD-001248 | source: U01248 | role: main_text | format: prose -->
 བྱང་སེམས་དང་སྔགས་ཀྱི་སྡེ་སྣོད་ཀྱང་དམན་པར་ཐལ་ཏེ།
-
-<!-- pair: TGD-001249 | source: U01249 | role: main_text | format: prose -->
 དེ་དང་དེ་ལས་སྨྲས་པས་སོ།
-
-<!-- pair: TGD-001250 | source: U01250 | role: main_text | format: prose -->
 དེ་ཕྱིར་ལུང་རྣམ་འབྱེད་ལས།
 
-<!-- pair: TGD-001251 | source: U01251 | role: main_text | format: prose -->
+<!-- pair: TGD-001251 | source: U01251 U01252 U01253 U01254 | role: main_text | format: verse -->
 ཇི་ལྟར་འདི་ན་ཤིང་རྩ་གཙོ་བོ་སྟེ། །
-
-<!-- pair: TGD-001252 | source: U01252 | role: main_text | format: prose -->
 རྣམ་པར་འཕེལ་དང་ཀུན་འཛིན་གཉིས་ཀྱི་གཞི། །
-
-<!-- pair: TGD-001253 | source: U01253 | role: main_text | format: prose -->
 དེ་བཞིན་ཡོན་ཏན་ཚོགས་རྣམས་ཀུན་གྱི་ཡང་། །
-
-<!-- pair: TGD-001254 | source: U01254 | role: main_text | format: prose -->
 རྒྱུ་དང་རྩ་བ་འདུལ་བ་ཡིན་པར་གསུངས།
 
-<!-- pair: TGD-001255 | source: U01255 | role: main_text | format: prose -->
+<!-- pair: TGD-001255 | source: U01255 U01256 U01257 U01258 U01259 U01260 | role: main_text | format: prose -->
 ཞེས་སོ།
-
-<!-- pair: TGD-001256 | source: U01256 | role: main_text | format: prose -->
 རྡོ༽༽ ཐེག་དམན་དུ་འདོད་མོད།
-
-<!-- pair: TGD-001257 | source: U01257 | role: main_text | format: prose -->
 ལྷག་པར་དུའང་ཐེག་པ་ཆེན་པོར་གསལ་བར་བཞུགས་ཏེ་
-
-<!-- pair: TGD-001258 | source: U01258 | role: main_text | format: prose -->
 སངས་རྒྱས་ཐོབ་བྱེད་ཀྱི་རྒྱུ་དང་པོ་སེམས་བསྐྱེད་པ་
-
-<!-- pair: TGD-001259 | source: U01259 | role: main_text | format: prose -->
 ལུང་སྨན་གཞི་ལས་
-
-<!-- pair: TGD-001260 | source: U01260 | role: main_text | format: prose -->
 འོད་ལྡན་དུ་སྐྱེ་བ་བཞེས་པ་ན་སངས་རྒྱས་ཀྱི་སྒྲ་ཐོས་ནས།
 
-<!-- pair: TGD-001261 | source: U01261 | role: main_text | format: prose -->
+<!-- pair: TGD-001261 | source: U01261 U01262 U01263 | role: main_text | format: verse -->
 གཏོང་བ་ལས་བྱུང་བསོད་ནམས་རྣམས་ལས་བྱུང་གང་ལ།།
-
-<!-- pair: TGD-001262 | source: U01262 | role: main_text | format: prose -->
 དེས་ནི་འཇིག་རྟེན་སངས་རྒྱས་ཉིད་ཐོབ་ཅིང༌། །
-
-<!-- pair: TGD-001263 | source: U01263 | role: main_text | format: prose -->
 འདོད་པའི་རིམས་ནད་ཀུན་ལས་ཐར་བར་བྱ།
 
-<!-- pair: TGD-001264 | source: U01264 | role: main_text | format: prose -->
+<!-- pair: TGD-001264 | source: U01264 U01265 U01266 U01267 U01268 U01269 U01270 U01271 | role: main_text | format: prose -->
 ཞེས་སེམས་བསྐྱེད་པ་དེར་བཤད་པའི་ཕྱིར་དང་།
-
-<!-- pair: TGD-001265 | source: U01265 | role: main_text | format: prose -->
 བར་དུ་ལམ་ཕྱིན་དྲུག་རྫོགས་པའི་རིམ་པ་
-
-<!-- pair: TGD-001266 | source: U01266 | role: main_text | format: prose -->
 སྐྱེས་རབ་ལྔ་བརྒྱ་ན་མགོ་དང་རྐང་ལག་གཏོང་བ་སོགས་
-
-<!-- pair: TGD-001267 | source: U01267 | role: main_text | format: prose -->
 བྱ་དཀའ་བའི་སྤྱོད་པ་སྤྱད་ཚུལ་དེར་འཞུགས་པའི་ཕྱིར་དང་།
-
-<!-- pair: TGD-001268 | source: U01268 | role: main_text | format: prose -->
 མཐར་བསྔོ་བ་སྨོན་ལམ་དང་གྲུབ་པའི་འབྲས་བུའང།
-
-<!-- pair: TGD-001269 | source: U01269 | role: main_text | format: prose -->
 སྦྱིན་པ་རྒྱ་ཆེན་སོགས།
-
-<!-- pair: TGD-001270 | source: U01270 | role: main_text | format: prose -->
 ཅེས་དང་མཛད་པ་བཅུ་གཉིས་དེ་ལས་
-
-<!-- pair: TGD-001271 | source: U01271 | role: main_text | format: prose -->
 བསྟན་པའི་ཕྱིར་དང་བསྟན་བཅོས་ལས་ཀྱང་བཀྲལ་བའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-001272 | source: U01272 | role: main_text | format: prose -->
+<!-- pair: TGD-001272 | source: U01272 U01273 U01274 U01275 U01276 U01277 U01278 U01279 | role: main_text | format: prose -->
 ལྷན༽༽ གཞན་དག་ན་རེ།
-
-<!-- pair: TGD-001273 | source: U01273 | role: main_text | format: prose -->
 སྤང་བྱ་རེ་རེའི་གཉེན་པོར་ཆོས་ཕུང་དེ་ཉིད་དུ་གསུངས་པས་ཆོས་ཕུང་ཐ་དད་ཡིན་ཟེར།
-
-<!-- pair: TGD-001274 | source: U01274 | role: main_text | format: prose -->
 འདིར་ནི་ཆོས་ཀུན་སོ་སོ་ཐར་པ་སོགས་སྡོམ་གསུམ་རེ་རེར་ཡང་འདུ་བར་གསུངས་ཏེ།
-
-<!-- pair: TGD-001275 | source: U01275 | role: main_text | format: prose -->
 དེའི་རྒྱུ་མཚན་སྤང་བྱའི་གྲངས་སུ་གསུངས་པ་མཐུན་ཡང་
-
-<!-- pair: TGD-001276 | source: U01276 | role: main_text | format: prose -->
 འདུ་ཚུལ་གསང་བསམ་ལས།
-
-<!-- pair: TGD-001277 | source: U01277 | role: main_text | format: prose -->
 སངས་རྒྱས་ཀྱིས་གསུངས་པའི་ཆོས་རྣམས་བསོད་ནམས་ཡེ་ཤེས་ཀྱི་ཚོགས་གཉིས་སུ་འདུ་བར་བྱའོ། །
-
-<!-- pair: TGD-001278 | source: U01278 | role: main_text | format: prose -->
 ཞེས་གསུངས་པས་
-
-<!-- pair: TGD-001279 | source: U01279 | role: main_text | format: prose -->
 ཐབས་ཤེས་དེ་གཉིས་ཀྱིས་སྡོམ་པ་གསུམ་ཀར་ཁྱབ་པའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-001280 | source: U01280 | role: main_text | format: prose -->
+<!-- pair: TGD-001280 | source: U01280 U01281 U01282 U01283 U01284 U01285 U01286 U01287 | role: main_text | format: prose -->
 རྡོ༽༽ འདུལ་འཛིན་ལ་ལའི་འདུལ་བའི་དོན་
-
-<!-- pair: TGD-001281 | source: U01281 | role: main_text | format: prose -->
 དགག་སྒྲུབ་ཏུ་བཅས་པའི་ཚུལ་ཁྲིམས་ནི་ཉན་ཐོས་ཀྱི་ཉམས་སུ་བླང་བྱ་ཡིན་པ་
-
-<!-- pair: TGD-001282 | source: U01282 | role: main_text | format: prose -->
 བོད་ཀྱི་འདུལ་འཛིན་དག་གིས་ཟེར་རོ།
-
-<!-- pair: TGD-001283 | source: U01283 | role: main_text | format: prose -->
 འདིར་ནི་འདུལ་བ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱི་ཡུལ་འདི་ཉིད་ཡིན་ཏེ་
-
-<!-- pair: TGD-001284 | source: U01284 | role: main_text | format: prose -->
 དེའང་མཁྱེན་པའི་ཡེ་ཤེས་སྟོབས་བཅུ་ལས་
-
-<!-- pair: TGD-001285 | source: U01285 | role: main_text | format: prose -->
 གནས་དང་གནས་མིན་སོགས་དགུ་ནི་ཇི་སྙེད་པ་ཐ་མ་ཟག་ཟད་མཁྱེན་པ་ཇི་ལྟ་བ་སྟེ།
-
-<!-- pair: TGD-001286 | source: U01286 | role: main_text | format: prose -->
 ཇི་སྙེད་མཁྱེན་པའི་སྟོབས་དགུ་ཀ་དགག་སྒྲུབ་ཀྱི་ཚུལ་ཁྲིམས་འདིས་བསྡུས་ཤིང་
-
-<!-- pair: TGD-001287 | source: U01287 | role: main_text | format: prose -->
 དེ་ལས་ཀྱང་ལས་དང་ལས་ཀྱི་རྣམ་སྨིན་མཁྱེན་པའི་སྟོབས་ལ་འཇུག །
 
-<!-- pair: TGD-001288 | source: U01288 | role: main_text | format: prose -->
+<!-- pair: TGD-001288 | source: U01288 U01289 U01290 U01291 U01292 U01293 | role: main_text | format: prose -->
 ཡེ་ཤེས་དེའི་གཟིགས་པས་བསླབ་པ་བཅས་ཏེ་ཉམས་སུ་བླངས་པས་
-
-<!-- pair: TGD-001289 | source: U01289 | role: main_text | format: prose -->
 སྟོབས་བཅུ་མངོན་དུ་བྱེད་པའི་ཚུལ་འདིས་སངས་རྒྱས་ཁོ་ནའི་སྤྱོད་ཡུལ་ཏེ།
-
-<!-- pair: TGD-001290 | source: U01290 | role: main_text | format: prose -->
 ལོ་པཎ་རྣམས་ཀྱིས་འདུལ་བའི་ཐད་དུ།
-
-<!-- pair: TGD-001291 | source: U01291 | role: main_text | format: prose -->
 ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །
-
-<!-- pair: TGD-001292 | source: U01292 | role: main_text | format: prose -->
 ཞེས་པ་དང༌།
-
-<!-- pair: TGD-001293 | source: U01293 | role: main_text | format: prose -->
 དེ་ལྟར་ཉམས་སུ་བླངས་ན་སྟོན་པ་ཉིད་ཀྱི་བྱ་བ་བྱེད་པར་གསུངས་ཏེ།
 
-<!-- pair: TGD-001294 | source: U01294 | role: main_text | format: prose -->
+<!-- pair: TGD-001294 | source: U01294 U01295 U01296 U01297 | role: main_text | format: verse -->
 ང་ནི་མྱ་ངན་འདས་གྱུར་ན། །
-
-<!-- pair: TGD-001295 | source: U01295 | role: main_text | format: prose -->
 འདི་ནི་ཁྱོད་ཀྱི་སྟོན་པ་ཞེས། །
-
-<!-- pair: TGD-001296 | source: U01296 | role: main_text | format: prose -->
 རང་བྱུང་ཉིད་ཀྱིས་གུས་བཅས་པར། །
-
-<!-- pair: TGD-001297 | source: U01297 | role: main_text | format: prose -->
 ནན་ཏན་དགེ་སློང་ཚོགས་མདུན་བསྟོད།
 
-<!-- pair: TGD-001298 | source: U01298 | role: main_text | format: prose -->
+<!-- pair: TGD-001298 | source: U01298 U01299 U01300 U01301 U01302 | role: main_text | format: prose -->
 ཅེས་སོ། །
-
-<!-- pair: TGD-001299 | source: U01299 | role: main_text | format: prose -->
 ཚུལ་ཁྲིམས་ཐམས་ཅད་མཁྱེན་པ་འདི་ཡིན་པ་དེ་ལྟར་ན།
-
-<!-- pair: TGD-001300 | source: U01300 | role: main_text | format: prose -->
 དེ་བསྲུང་བའི་བཙུན་པར་ཡེ་ཤེས་ཡོད་པར་འགྱུར་རོ་ཞེ་ན།
-
-<!-- pair: TGD-001301 | source: U01301 | role: main_text | format: prose -->
 མངོན་གྱུར་དུ་མེད་ཀྱང་རང་བཞིན་དུ་ཡོད་དེ།
-
-<!-- pair: TGD-001302 | source: U01302 | role: main_text | format: prose -->
 དཔེར་ན་མཚམས་མེད་བྱེད་པའི་མི་ལ་དམྱལ་བ་པ་བྱས་པ་དང་འདྲའོ།
 
-<!-- pair: TGD-001303 | source: U01303 | role: main_text | format: prose -->
+<!-- pair: TGD-001303 | source: U01303 U01304 U01305 U01306 U01307 | role: main_text | format: prose -->
 རྡོ༽༽ མཚམས་མེད་སྒྲ་མི་སྙན་སྤྲུལ་པ་སྐྱེ་བ་ ༡ དང་།
-
-<!-- pair: TGD-001304 | source: U01304 | role: main_text | format: prose -->
 ཕ་མས་མ་གནང་བ་སོགས་གནས་པའི་དང་ ༢
-
-<!-- pair: TGD-001305 | source: U01305 | role: main_text | format: prose -->
 ནད་པ་ཡོན་ཏན་ཐོབ་པའི་ ༣ དང༌།
-
-<!-- pair: TGD-001306 | source: U01306 | role: main_text | format: prose -->
 གཞན་དོན་དུ་མི་མཛེས་པ་མཛེས་པའི་ ༤ དང༌།
-
-<!-- pair: TGD-001307 | source: U01307 | role: main_text | format: prose -->
 བར་ཆད་དེ་བཞི་ལས་སྐྱེ་བའི་བར་ཆད་གང་རུང་གཅིག་བྱུང་ན་སྡོམ་པ་མི་སྐྱེ་ཟེར།
 
-<!-- pair: TGD-001308 | source: U01308 | role: main_text | format: prose -->
+<!-- pair: TGD-001308 | source: U01308 U01309 U01310 | role: main_text | format: prose -->
 འདིར་ནི་བར་ཆད་ལྡན་ལ་སྡོམ་པ་སྐྱེ་བར་ངེས་ཏེ།
-
-<!-- pair: TGD-001309 | source: U01309 | role: main_text | format: prose -->
 དེ་དག་དགེ་སྦྱོད་གི་འབྲས་བུ་སྐྱེ་བའི་བར་ཆད་ལས་སྡོམ་པ་མིན་ཏེ།
-
-<!-- pair: TGD-001310 | source: U01310 | role: main_text | format: prose -->
 རབ་ཏུ་བྱུང་བའི་གཞི་ལས།
 
-<!-- pair: TGD-001311 | source: U01311 | role: main_text | format: prose -->
+<!-- pair: TGD-001311 | source: U01311 U01312 U01313 U01314 U01315 U01316 U01317 U01318 U01319 U01320 U01321 | role: main_text | format: prose -->
 ཁྱིམ་བདག་ཞིག་གི་བུས་མ་བསད་པར་འགྱོད་ནས་རབ་ཏུ་བྱུང།
-
-<!-- pair: TGD-001312 | source: U01312 | role: main_text | format: prose -->
 སྡེ་སྣོད་གསུམ་ཤེས་མཚམས་མེད་བྱེད་པ་མི་སྐྱེ་བའི་ཆོས་ཅན་ཡིན་པས་
-
-<!-- pair: TGD-001313 | source: U01313 | role: main_text | format: prose -->
 བཀྲོད་ཅིག་གསུངས་པས་བཀྲད།
-
-<!-- pair: TGD-001314 | source: U01314 | role: main_text | format: prose -->
 རྒྱ་མཚོའི་འགྲམ་དུ་ཕྱིན།
-
-<!-- pair: TGD-001315 | source: U01315 | role: main_text | format: prose -->
 སློབ་མ་བསྡུས་ཆོས་བཤད་པས་དགྲ་བཅོམ་པ་མང་པོ་བྱུང༌།
-
-<!-- pair: TGD-001316 | source: U01316 | role: main_text | format: prose -->
 ཚེ་འཕོས་ནས་དམྱལ་བར་སྐྱེས་མ་ཐག་
-
-<!-- pair: TGD-001317 | source: U01317 | role: main_text | format: prose -->
 མེ་ལ་བསྲོ་ཁང་གི་སྣང་བ་བྱུང་བར་བརྟེན་
-
-<!-- pair: TGD-001318 | source: U01318 | role: main_text | format: prose -->
 ལྷར་སྐྱེས་ནས་སངས་རྒྱས་ལས་ཆོས་ཐོས་པས་
-
-<!-- pair: TGD-001319 | source: U01319 | role: main_text | format: prose -->
 འབྲས་བུ་ཐོབ་པ་རབ་ཏུ་བྱུང་བའི་ཕན་ཡོན་ཡིན་ཏེ།
-
-<!-- pair: TGD-001320 | source: U01320 | role: main_text | format: prose -->
 རྣམ་སྨིན་སྐལ་ཆེན་དུ་གསུངས་ན་
-
-<!-- pair: TGD-001321 | source: U01321 | role: main_text | format: prose -->
 འདི་སྐྱེས་མ་ཐག་ལྷར་འཕོས་པའི་ཕྱིར་རོ།
 
-<!-- pair: TGD-001322 | source: U01322 | role: main_text | format: prose -->
+<!-- pair: TGD-001322 | source: U01322 U01323 U01324 U01325 U01326 | role: main_text | format: prose -->
 འོ་ན་མ་སྐྱེས་དགྲ་སོགས་མཚམས་མེད་བྱས་པ་
-
-<!-- pair: TGD-001323 | source: U01323 | role: main_text | format: prose -->
 བདེན་པ་མཐོང་བར་གསུངས་པས་འགལ་ལོ་སྙམ་ན།
-
-<!-- pair: TGD-001324 | source: U01324 | role: main_text | format: prose -->
 དེ་དག་སྔོན་གྱི་རྒྱུའི་སྟོབས་ཀྱིས་རྐྱེན་མཚམས་མེད་པས་
-
-<!-- pair: TGD-001325 | source: U01325 | role: main_text | format: prose -->
 བར་དུ་གཅོད་མ་ནུས་པ་སྟེ་
-
-<!-- pair: TGD-001326 | source: U01326 | role: main_text | format: prose -->
 མ་སྐྱེས་དགྲས་སངས་རྒྱས་བྱེ་བ་ཕྲག་བདུན་ཅུ་རྩ་གཉིས་ལ་མཆོད་པར་གསུངས་པའི་རྒྱུ་ལྟ་བུའོ། །
 
-<!-- pair: TGD-001327 | source: U01327 | role: main_text | format: prose -->
+<!-- pair: TGD-001327 | source: U01327 U01328 U01329 U01330 U01331 U01332 | role: main_text | format: prose -->
 སྒྲ་མི་སྙན་པའང་རྐྱེན་གྱིས་བླངས་པ་མེད་ཀྱང་
-
-<!-- pair: TGD-001328 | source: U01328 | role: main_text | format: prose -->
 རང་བཞིན་གཤིས་ཀྱིས་ནི་ཡོད་
-
-<!-- pair: TGD-001329 | source: U01329 | role: main_text | format: prose -->
 དེ་ལྷར་སྐྱེས་ཤིང་སངས་རྒྱས་དང་མཇལ༌ཏེ༌འབྲས་བུ་ཐོབ་པར་གསུངས་པའི་ཕྱིར་རོ།
-
-<!-- pair: TGD-001330 | source: U01330 | role: main_text | format: prose -->
 སྤྲུལ་པའང་ཀླུ་གཞོན་ནུ་ལྟ་བུ་ཚེ་འདིར་འབྲས་བུ་མི་ཐོབ་པ་ལས་
-
-<!-- pair: TGD-001331 | source: U01331 | role: main_text | format: prose -->
 སྡོམ་པ་མ་སྐྱེས་པ་ནི་མིན་ནོ་
-
-<!-- pair: TGD-001332 | source: U01332 | role: main_text | format: prose -->
 དེས་ན་བར་ཆད་ལྡན་ནའང་སྡོམ་པ་སྐྱེ་བར་སྒྲུབ་བོ།
 
-<!-- pair: TGD-001333 | source: U01333 | role: main_text | format: prose -->
+<!-- pair: TGD-001333 | source: U01333 U01334 U01335 U01336 U01337 | role: main_text | format: prose -->
 རྡོ༽༽ གཞན་གྱིས་བཞེད་པ་ནི།
-
-<!-- pair: TGD-001334 | source: U01334 | role: main_text | format: prose -->
 སྡོམ་པའི་ངོ་བོ་གཞན་གནོད་གཞི་བཅས་ལོག་པ་སོགས་ལེགས་པར་འདོད་པ་མང་མོད།
-
-<!-- pair: TGD-001335 | source: U01335 | role: main_text | format: prose -->
 འདིར་ནི་ངོ་བོ་རྣམ་པར་རིག་བྱེད་མིན་པའི་གཟུགས་དེ་དག་ལས་བྱེད་སྨྲའི་དེ་བཞེད་དེ་།
-
-<!-- pair: TGD-001336 | source: U01336 | role: main_text | format: prose -->
 གཟུགས་ཕུང་བཅུ་གཅིག་ལས་རིག་བྱེད་མིན་པ་སྡོམ་པ།
-
-<!-- pair: TGD-001337 | source: U01337 | role: main_text | format: prose -->
 སྡོམ་མའི་བར་མའི་གཟུགས་གསུམ་ལས་སྡོམ་པའི་གཟུགས་ཏེ།
 
-<!-- pair: TGD-001338 | source: U01338 | role: main_text | format: prose -->
+<!-- pair: TGD-001338 | source: U01338 U01339 U01340 U01341 U01342 | role: main_text | format: prose -->
 དེའང་དངོས་གཞི་རང་དང་མཁན་སློབ་སོགས་རྣམ་པར་རིག་བྱེད་དང་རིག་མིན་གཉིས་ཀའི་གཟུགས་དང་
-
-<!-- pair: TGD-001339 | source: U01339 | role: main_text | format: prose -->
 སྐད་ཅིག་གཉིས་པ་རིག་མིན་གྱི་གཟུགས་ཅན་དུ་ཁམས་བཅོ་བརྒྱད་ལས་ཆོས་ཁམས།
-
-<!-- pair: TGD-001340 | source: U01340 | role: main_text | format: prose -->
 སྐྱེ་མཆེད་བཅུ་གཉིས་ལས་ཆོས་ཀྱི་སྐྱེ་མཆེད་རྣམ་པ་བསྟན་དུ་མེད་ཅིང་
-
-<!-- pair: TGD-001341 | source: U01341 | role: main_text | format: prose -->
 ཐོག་པ་མེད་པ་སྤང་བྱ་སྤོང་བ་ལ་ཆུའི་ཆུ་ལོན་ནམ་ཤཱ་རག་ལྟར་གནས་ཏེ་
-
-<!-- pair: TGD-001342 | source: U01342 | role: main_text | format: prose -->
 མཛོད་ལས།
 
-<!-- pair: TGD-001343 | source: U01343 | role: main_text | format: prose -->
+<!-- pair: TGD-001343 | source: U01343 U01344 U01345 | role: main_text | format: verse -->
 དེ་གསུམ་རྣམ་རིག་བྱེད་མིན་དང༌།
-
-<!-- pair: TGD-001344 | source: U01344 | role: main_text | format: prose -->
 འདུས་མ་བྱས་དང་བྱས་རྣམས་དང༌།
-
-<!-- pair: TGD-001345 | source: U01345 | role: main_text | format: prose -->
 ཆོས་ཀྱི་སྐྱེ་མཆེད་ཁམས་ཞེས་བྱ།
 
-<!-- pair: TGD-001346 | source: U01346 | role: main_text | format: prose -->
+<!-- pair: TGD-001346 | source: U01346 U01347 U01348 U01349 | role: main_text | format: prose -->
 ཞེས་སོ།
-
-<!-- pair: TGD-001347 | source: U01347 | role: main_text | format: prose -->
 དེ་ཁོ་ན་ཉིད་བཞེད་པའི་གནད་ཀྱང་
-
-<!-- pair: TGD-001348 | source: U01348 | role: main_text | format: prose -->
 ཆོས་ཐམས་ཅད་བསམ་པ་སྐད་ཅིག་མའི་རང་གཟུགས་ཡིན་པ་
-
-<!-- pair: TGD-001349 | source: U01349 | role: main_text | format: prose -->
 དགེ་མི་དགེའི་བསམ་པ་གང་དེའི་རང་གཟུགས་སུ་འགྲུབ་པས་ནའོ། །
 
-<!-- pair: TGD-001350 | source: U01350 | role: main_text | format: prose -->
+<!-- pair: TGD-001350 | source: U01350 U01351 U01352 U01353 U01354 U01355 U01356 U01357 U01358 | role: main_text | format: prose -->
 རྡོ༽༽ གཞི་བསམ་སྦྱོར་བ་མཐར་ཐུག་བཞི་དང་ལྡན་ན་རྫོགས་པ་ཡིན་ཏེ་
-
-<!-- pair: TGD-001351 | source: U01351 | role: main_text | format: prose -->
 དེའང་འདུ་ཤེས་གཙོ་བོ་དང་དངོས་པོ་གཙོ་བོ་གཉིས་སུ་བཤད་མོད།
-
-<!-- pair: TGD-001352 | source: U01352 | role: main_text | format: prose -->
 འདིར་ནི་ཆོས་ཐམས་ཅད་རྩ་བ་སེམས་
-
-<!-- pair: TGD-001353 | source: U01353 | role: main_text | format: prose -->
 དེས་བསྒྲུབས་པའི་ལས་
-
-<!-- pair: TGD-001354 | source: U01354 | role: main_text | format: prose -->
 དེའི་རྣམ་སྨིན་དང་གསུམ་ལས་
-
-<!-- pair: TGD-001355 | source: U01355 | role: main_text | format: prose -->
 སེམས་འགགས་ན་ལས་དང་རྣམ་སྨིན་འགགས་པར་གསུངས་པས་
-
-<!-- pair: TGD-001356 | source: U01356 | role: main_text | format: prose -->
 སེམས་དགེ་ན་ལས་དང་པོ་དང་རྣམ་སྨིན་ཡང་དགེ་སྟེ་སྨན་གྱི་ས་བོན་བཞིན་དང༌།
-
-<!-- pair: TGD-001357 | source: U01357 | role: main_text | format: prose -->
 དེ་ལས་ལྡོག་ན་དུག་གི་ས་བོན་བཞིན་ནོ། །
-
-<!-- pair: TGD-001358 | source: U01358 | role: main_text | format: prose -->
 དེའི་ཕྱིར་དེས་པས་ཞུས་པ་ལས།
 
-<!-- pair: TGD-001359 | source: U01359 | role: main_text | format: prose -->
+<!-- pair: TGD-001359 | source: U01359 U01360 U01361 U01362 | role: main_text | format: verse -->
 ས་བོན་ཚ་བ་རྣམས་ལ་ནི།
-
-<!-- pair: TGD-001360 | source: U01360 | role: main_text | format: prose -->
 འབྲས་བུ་ཚ་བ་སྐྱེ་བར་འགྱུར། །
-
-<!-- pair: TGD-001361 | source: U01361 | role: main_text | format: prose -->
 ས་བོན་མངར་བ་རྣམས་ལ་ནི། །
-
-<!-- pair: TGD-001362 | source: U01362 | role: main_text | format: prose -->
 འབྲས་བུ་མངར་བ་སྐྱེ་བར་འགྱུར།
 
-<!-- pair: TGD-001363 | source: U01363 | role: main_text | format: prose -->
+<!-- pair: TGD-001363 | source: U01363 U01364 U01365 U01366 U01367 U01368 U01369 U01370 | role: main_text | format: prose -->
 ཞེས་དང་།
-
-<!-- pair: TGD-001364 | source: U01364 | role: main_text | format: prose -->
 ཁྱོད་ཀྱི་ཐུགས་འདུལ་མཛོད་ཅིག་བཅོམ་ལྡན་གྱིས།
-
-<!-- pair: TGD-001365 | source: U01365 | role: main_text | format: prose -->
 སེམས་ནི་ཆོས་ཀྱི་སོཌ་དང༌།
-
-<!-- pair: TGD-001366 | source: U01366 | role: main_text | format: prose -->
 ལས་རྣམ་འབྱེད་ལས།
-
-<!-- pair: TGD-001367 | source: U01367 | role: main_text | format: prose -->
 བྱས་ལ་མ་བསགས་པ་སོགས་བཞི་གསུངས་
-
-<!-- pair: TGD-001368 | source: U01368 | role: main_text | format: prose -->
 སེམས་ལ་རྨ་བྱུང་ན་ཉེས་པ་མེད་པར་གསུངས་པས་
-
-<!-- pair: TGD-001369 | source: U01369 | role: main_text | format: prose -->
 དེའི་ཕྱིར་ལྟུང་བ་མཐའ་དག་ལ་ནི་ཀུན་སློང་བསམ་པ་འདུ་ཤེས་གཙོ་སྟེ་
-
-<!-- pair: TGD-001370 | source: U01370 | role: main_text | format: prose -->
 དགེ་སློང་དགོན་པ་བ་ཚོགས་ཅན་མི་སྐབས་པ་བཟང་མོ་བཞིན་ནོ།
 
-<!-- pair: TGD-001371 | source: U01371 | role: main_text | format: prose -->
+<!-- pair: TGD-001371 | source: U01371 U01372 U01373 U01374 U01375 U01376 U01377 U01378 | role: main_text | format: prose -->
 རྡོ༽༽ སོ་ཐར་གྱི་སྡོམ་པ་ནི་གཙོ་བོར་ལུས་ངག་གི་སྤོང་བ་བདུན་དང་
-
-<!-- pair: TGD-001372 | source: U01372 | role: main_text | format: prose -->
 འཁོར་ཡིད་ཀྱི་གསུམ་པོ་དེ་ཞོར་ལ་སྤོང་བས་
-
-<!-- pair: TGD-001373 | source: U01373 | role: main_text | format: prose -->
 སྤོང་བདུན་འཁོར་བཅས་ཡིན་ཟེར་བ་དང་།
-
-<!-- pair: TGD-001374 | source: U01374 | role: main_text | format: prose -->
 ཡིད་ཀྱི་གསུམ་ནི་བྱང་སེམས་ཀྱི་ཡིན་པས་
-
-<!-- pair: TGD-001375 | source: U01375 | role: main_text | format: prose -->
 སྤོང་འདུན་ཁོ་ན་ལས་མི་དགོས་ཟེར་རོ། །
-
-<!-- pair: TGD-001376 | source: U01376 | role: main_text | format: prose -->
 འདིར་ནི་ཡིད་ཀྱི་གསུམ་ནི་དུག་གསུམ་ཡིན་ཞིང་
-
-<!-- pair: TGD-001377 | source: U01377 | role: main_text | format: prose -->
 དེས་བསྐྱེད་པའི་ལས་སྡིག་པ་ཡིན་པ་དེ་སོ་ཐར་གྱིས་སྤོང་དགོས་ཏེ།
-
-<!-- pair: TGD-001378 | source: U01378 | role: main_text | format: prose -->
 ལུང་རྣམ་འབྱེད་ལས།
 
-<!-- pair: TGD-001379 | source: U01379 | role: main_text | format: prose -->
+<!-- pair: TGD-001379 | source: U01379 U01380 U01381 | role: main_text | format: prose -->
 ངས་འདོད་ཆགས་་་འདོད་ཆགས་དང་བྲལ་བའི་ཕྱིར་།
-
-<!-- pair: TGD-001380 | source: U01380 | role: main_text | format: prose -->
 སེམས་རྣམ་པར་གྲོལ་བ་དང་
-
-<!-- pair: TGD-001381 | source: U01381 | role: main_text | format: prose -->
 ཤེས་རབ་རྣམ་པར་གྲོལ་བའི་ཆོས་བསྟན་པ་ཅེས་སོགས་དང་།
 
-<!-- pair: TGD-001382 | source: U01382 | role: main_text | format: prose -->
+<!-- pair: TGD-001382 | source: U01382 U01383 U01384 U01385 | role: main_text | format: verse -->
 སྡིག་པ་ཅི་ཡང་མི་བྱ་ཞིང།
-
-<!-- pair: TGD-001383 | source: U01383 | role: main_text | format: prose -->
 དགེ་བx
-
-<!-- pair: TGD-001384 | source: U01384 | role: main_text | format: prose -->
 རང་གིx
-
-<!-- pair: TGD-001385 | source: U01385 | role: main_text | format: prose -->
 འདི་ནི་ x
 
 <!-- pair: TGD-001386 | source: U01386 | role: main_text | format: prose -->
 ཅེས་དང༌།
 
-<!-- pair: TGD-001387 | source: U01387 | role: main_text | format: prose -->
+<!-- pair: TGD-001387 | source: U01387 U01388 U01389 U01390 | role: main_text | format: verse -->
 ལུས་ཀྱི་སྡོམ་པ་ལེགས་པ་ན།
-
-<!-- pair: TGD-001388 | source: U01388 | role: main_text | format: prose -->
 ངག་གི x
-
-<!-- pair: TGD-001389 | source: U01389 | role: main_text | format: prose -->
 ཡིད་ཀྱིx
-
-<!-- pair: TGD-001390 | source: U01390 | role: main_text | format: prose -->
 ཐམས་ཅད་དུ x
 
-<!-- pair: TGD-001391 | source: U01391 | role: main_text | format: prose -->
+<!-- pair: TGD-001391 | source: U01391 U01392 U01393 U01394 U01395 U01396 | role: main_text | format: prose -->
 ཞེས་གསུངས་པས།
-
-<!-- pair: TGD-001392 | source: U01392 | role: main_text | format: prose -->
 ཡིད་ཀྱི་གསུམ་པོ་སྡིག་པ་མིན་པར་ཐལ།
-
-<!-- pair: TGD-001393 | source: U01393 | role: main_text | format: prose -->
 ཁྱེད་རང་གིས་བཞེད་པས།
-
-<!-- pair: TGD-001394 | source: U01394 | role: main_text | format: prose -->
 ངེས་འབྱུང་གིས་ཐོབ་པ་དེ་ཡིད་མིན་པར་ཐལ།
-
-<!-- pair: TGD-001395 | source: U01395 | role: main_text | format: prose -->
 འདོད་མི་ནུས་ཏེ།
-
-<!-- pair: TGD-001396 | source: U01396 | role: main_text | format: prose -->
 མངོན་སུམ་གྱིས་བསལ་ལོ། །
 
-<!-- pair: TGD-001397 | source: U01397 | role: main_text | format: prose -->
+<!-- pair: TGD-001397 | source: U01397 U01398 U01399 U01400 U01401 U01402 | role: main_text | format: prose -->
 དེས་ན་ལུས་ཀྱི་སྤྱོད་ཚུལ་བཟང་ཡང་མི་ཕན་ཏེ་
-
-<!-- pair: TGD-001398 | source: U01398 | role: main_text | format: prose -->
 ཐབ་ཀྱི་མེ་བསད་ན་སྐར་ཁུང་གི་དུ་བ་ཆད་པ་བཞིན་
-
-<!-- pair: TGD-001399 | source: U01399 | role: main_text | format: prose -->
 ཡིད་བཀག་ན་ལུས་ངག་་་་ཁེག་ཅིང།
-
-<!-- pair: TGD-001400 | source: U01400 | role: main_text | format: prose -->
 མ་བཀག་ན་མི་ཁེག་པ་
-
-<!-- pair: TGD-001401 | source: U01401 | role: main_text | format: prose -->
 ཉེས་པས་བསྐྱེད་པས་འཁོར་ལོ་བསྒྱུར་བའི་རྒྱལ་པོ་བཞིན་ནོ།
-
-<!-- pair: TGD-001402 | source: U01402 | role: main_text | format: prose -->
 དེ་ཕྱིར་ཡིད་ཀྱི་རྣམ་གསུམ་གཙོ་བོར་སྤོང་བ་དགོས་སོ།
 
 <!-- pair: TGD-001403 | source: U01403 | role: main_text | format: prose -->
 རྡོ༽༽ མཛོད་ལས།
 
-<!-- pair: TGD-001404 | source: U01404 | role: main_text | format: prose -->
+<!-- pair: TGD-001404 | source: U01404 U01405 U01406 U01407 | role: main_text | format: verse -->
 བསླབ་པ་ཕུལ་དང་ཤི་འཕོས་དང༌། །
-
-<!-- pair: TGD-001405 | source: U01405 | role: main_text | format: prose -->
 རྩ་བ་ཆད་དང་མཚན་འདས་དང༌།
-
-<!-- pair: TGD-001406 | source: U01406 | role: main_text | format: prose -->
 མཚན་གཉིས་གཅིག་ཆར་བྱུང་བ་ན།
-
-<!-- pair: TGD-001407 | source: U01407 | role: main_text | format: prose -->
 སོ་སོར་ཐར་པའི་སྡོམ་པ་གཏོད།
 
-<!-- pair: TGD-001408 | source: U01408 | role: main_text | format: prose -->
+<!-- pair: TGD-001408 | source: U01408 U01409 U01410 U01411 U01412 U01413 U01414 | role: main_text | format: prose -->
 ཞེས་པ་ལྔ་དང།
-
-<!-- pair: TGD-001409 | source: U01409 | role: main_text | format: prose -->
 འདུལ་ལུང༌ལས།
-
-<!-- pair: TGD-001410 | source: U01410 | role: main_text | format: prose -->
 མཚན་ལན་གསུམ་འགྱུར་བ།
-
-<!-- pair: TGD-001411 | source: U01411 | role: main_text | format: prose -->
 ཉི་ཤུ་མ་ལོན།
-
-<!-- pair: TGD-001412 | source: U01412 | role: main_text | format: prose -->
 བསྙེན་རྫོགས་ཤེས་པ།
-
-<!-- pair: TGD-001413 | source: U01413 | role: main_text | format: prose -->
 དམ་ཆོས་ནུབ་པ།
-
-<!-- pair: TGD-001414 | source: U01414 | role: main_text | format: prose -->
 རྩ་ལྟུང་བྱུང་བ་སྟེ་དགུ་པོས་གཏོང་བར་གསུངས་མོད།
 
-<!-- pair: TGD-001415 | source: U01415 | role: main_text | format: prose -->
+<!-- pair: TGD-001415 | source: U01415 U01416 U01417 U01418 U01419 | role: main_text | format: prose -->
 འདིར་ནི་གཏོང་བའི་རྒྱུ་དགུ་པོ་དེ་ཡི་ནང་ནས་མི་གཏོང་བ་ཡང་འགས་ཞིག་ཡོད་དེ་
-
-<!-- pair: TGD-001416 | source: U01416 | role: main_text | format: prose -->
 ལུང་རྣམ་འབྱེད་ལས་ཕུལ་བ་མ་ཉམས་པ།
-
-<!-- pair: TGD-001417 | source: U01417 | role: main_text | format: prose -->
 ཉམས་ལ་མ་ཕུལ་བ།
-
-<!-- pair: TGD-001418 | source: U01418 | role: main_text | format: prose -->
 ཕུལ་ཡང་ཕུལ་ལ་ཉམས་ཡང་ཉམས་པ་སྟེ་
-
-<!-- pair: TGD-001419 | source: U01419 | role: main_text | format: prose -->
 མུ་གཞིར་གསུངས་པ་གསུམ་པས་གཏོང༌།
 
-<!-- pair: TGD-001420 | source: U01420 | role: main_text | format: prose -->
+<!-- pair: TGD-001420 | source: U01420 U01421 U01422 U01423 | role: main_text | format: prose -->
 དབང་རབ་ཤི་འཕོས་པས་མི་གཏོང་སྟེ།
-
-<!-- pair: TGD-001421 | source: U01421 | role: main_text | format: prose -->
 སེམས་སྐྱེ་བའི་ཉོན་མོངས་པ་བསྡམས་ནས་
-
-<!-- pair: TGD-001422 | source: U01422 | role: main_text | format: prose -->
 ཡུལ་གྱི་རྗེས་སུ་མི་འབྲང་བས་ཚུལ་ཁྲིམས་རབ་ཏུ་གྱུར་པའི་ཕྱིར།
-
-<!-- pair: TGD-001423 | source: U01423 | role: main_text | format: prose -->
 ཕལ་ཆེན་ལས།
 
-<!-- pair: TGD-001424 | source: U01424 | role: main_text | format: prose -->
+<!-- pair: TGD-001424 | source: U01424 U01425 U01426 U01427 | role: main_text | format: verse -->
 དགེ་དང་མི་དགེ་རྣམ་སྨིན་གོམས་བྱས་ན།
-
-<!-- pair: TGD-001425 | source: U01425 | role: main_text | format: prose -->
 མི་རྣམས་ལ་ནི་འདྲེས་པ་ཉིད་དུ་འགྱུར།
-
-<!-- pair: TGD-001426 | source: U01426 | role: main_text | format: prose -->
 དེ་ལྟ་བུ་དག་ཆེད་དུ་མ་བསྒྲུབ་ཀྱང་།
-
-<!-- pair: TGD-001427 | source: U01427 | role: main_text | format: prose -->
 སྲིད་པ་གཞན་ལ་རྨི་ལམ་བཞིན་དུ་སྤྱོད།
 
-<!-- pair: TGD-001428 | source: U01428 | role: main_text | format: prose -->
+<!-- pair: TGD-001428 | source: U01428 U01429 U01430 U01431 U01432 U01433 | role: main_text | format: prose -->
 ཅེས་དང་།
-
-<!-- pair: TGD-001429 | source: U01429 | role: main_text | format: prose -->
 ཁྲི་རྐང་གི་གླིང་གཞི་ལས།
-
-<!-- pair: TGD-001430 | source: U01430 | role: main_text | format: prose -->
 དགེ་སློང་དགོན་པ་བ་ཞིག་ཚེ་འཕོས་ནས་
-
-<!-- pair: TGD-001431 | source: U01431 | role: main_text | format: prose -->
 ལྷར་སྐྱེས་འདོད་ཡོན་སྟབས་ཀྱང་
-
-<!-- pair: TGD-001432 | source: U01432 | role: main_text | format: prose -->
 འདུ་ཤེས་དང་མ་བྲལ་བས་དང་དུ་མ་བླང་བར་གསུངས་པའི་ཕྱིར།
-
-<!-- pair: TGD-001433 | source: U01433 | role: main_text | format: prose -->
 དབང་འབྲིང་ཐ་མ་གཉིས་ཀྱང་ཕྱི་མའི་འབྲས་བུ་ལ་ལྟོས་ན་མ་གཏོང་བ་ཡིན་ནོ། །
 
-<!-- pair: TGD-001434 | source: U01434 | role: main_text | format: prose -->
+<!-- pair: TGD-001434 | source: U01434 U01435 U01436 U01437 U01438 | role: main_text | format: prose -->
 གལ་ཏེ་ཤི་འཕོས་པས་གཏོང་ན་
-
-<!-- pair: TGD-001435 | source: U01435 | role: main_text | format: prose -->
 བསྲུང་བས་ཅི་བྱ་སྟེ་དགོས་དུས་མི་ཕན་པས་སོ། །
-
-<!-- pair: TGD-001436 | source: U01436 | role: main_text | format: prose -->
 བསྙེན་གནས་ས་བོན་བག་ཆགས་ཀྱི་ཆ་ནས་མི་གཏོད།
-
-<!-- pair: TGD-001437 | source: U01437 | role: main_text | format: prose -->
 ཆོས་ནུབ་པས་གཏོང་མི་གཏོང་མ་ངེས་པ་གསུམ་ཀ་ཡོད།
-
-<!-- pair: TGD-001438 | source: U01438 | role: main_text | format: prose -->
 མི་གཏོང་བ་ནི་འོད་སྲུང་གི་བསྟན་པ་ལ་བརྩོན་འགྲུས་བྱས་པས་ཀུན་ཤེས་ཀཽཎྜི་ནྱར་གྱུར་པ་བཞིན་ནོ།
 
 <!-- pair: TGD-001439 | source: U01439 | role: main_text | format: prose -->
@@ -5518,370 +4748,186 @@ language: bo
 <!-- pair: TGD-003074 | source: U03074 | role: main_text | format: prose -->
 ཅེས་པ་སོགས་རྒྱ་ཆེར་གསུངས་པས་ཤེས་སོ།
 
-<!-- pair: TGD-003075 | source: U03075 | role: main_text | format: prose -->
+<!-- pair: TGD-003075 | source: U03075 U03076 U03077 U03078 U03079 | role: main_text | format: prose -->
 རྡོ༽༽ ཉོན་མོངས་སངས་རྒྱས་ཀྱི་གདུང་དང་
-
-<!-- pair: TGD-003076 | source: U03076 | role: main_text | format: prose -->
 རིགས་སུ་ཕར་ཕྱིན་དང་སྔགས་གཉིས་ཀ་ནས་བཤད་ཟེར་རོ། །
-
-<!-- pair: TGD-003077 | source: U03077 | role: main_text | format: prose -->
 ཉོན་མོངས་པ་དག་པའམ་བྲལ་བའི་འབྲས་བུ་བདེ་བར་གཤེགས་པ་ཉིད་དེ་
-
-<!-- pair: TGD-003078 | source: U03078 | role: main_text | format: prose -->
 གཞི་བསྒྱུར་བའི་ལམ་པ་མི་སྲིད་པ་གོང་དུ་བསྒྲུབས་ཟིན་པའི་ཕྱིར་
-
-<!-- pair: TGD-003079 | source: U03079 | role: main_text | format: prose -->
 ཀུན་ཏུ་ཁྭ་ཀྱི་རྒྱུད་ལས།
 
-<!-- pair: TGD-003080 | source: U03080 | role: main_text | format: prose -->
+<!-- pair: TGD-003080 | source: U03080 U03081 U03082 U03083 | role: main_text | format: verse -->
 གཏི་མུག་རྣམ་དག་བསྒོམ་པ་ཡི། །
-
-<!-- pair: TGD-003081 | source: U03081 | role: main_text | format: prose -->
 རྣམ་པར་སྣང་མཛད་ཉིད་དུ་འགྱུར། །
-
-<!-- pair: TGD-003082 | source: U03082 | role: main_text | format: prose -->
 ཞེ་སྡང་རྣམ་དག་བསྒོམ་པ་ཡི། །
-
-<!-- pair: TGD-003083 | source: U03083 | role: main_text | format: prose -->
 མི་བསྐྱོད་པ་ནི་ཉིད་དུ་འགྱུར། །
 
-<!-- pair: TGD-003084 | source: U03084 | role: main_text | format: prose -->
+<!-- pair: TGD-003084 | source: U03084 U03085 U03086 U03087 | role: main_text | format: verse -->
 ཕྲག་དོག་རྣམ་དག་བསྒོམ་པ་ཡི། །
-
-<!-- pair: TGD-003085 | source: U03085 | role: main_text | format: prose -->
 དོན་ཡོད་གྲུབ་པ་ཉིད་དུ་འགྱུར། །
-
-<!-- pair: TGD-003086 | source: U03086 | role: main_text | format: prose -->
 ང་རྒྱལ་རྣམ་དག་བསྒོམ་པ་ཡི། །
-
-<!-- pair: TGD-003087 | source: U03087 | role: main_text | format: prose -->
 རིན་ཆེན་འབྱུང་ལྡན་ཉིད་དུ་འགྱུར།
 
-<!-- pair: TGD-003088 | source: U03088 | role: main_text | format: prose -->
+<!-- pair: TGD-003088 | source: U03088 U03089 | role: main_text | format: prose -->
 ཞེས་དང༌།
-
-<!-- pair: TGD-003089 | source: U03089 | role: main_text | format: prose -->
 མགོན་པོ་འབྲི་གུང་པ་ཆེན་པོས།
 
-<!-- pair: TGD-003090 | source: U03090 | role: main_text | format: prose -->
+<!-- pair: TGD-003090 | source: U03090 U03091 U03092 U03093 | role: main_text | format: verse -->
 དགྲ་གཉེན་དུ་ཆོད་པའི་དཔའ་བོ་དང་། །
-
-<!-- pair: TGD-003091 | source: U03091 | role: main_text | format: prose -->
 གཉེན་སྟོང་པར་རྟོགས་པའི་མཁའ་འགྲོ་གཉིས། །
-
-<!-- pair: TGD-003092 | source: U03092 | role: main_text | format: prose -->
 སེམས་འགྱུར་བ་མེད་པའི་རྣལ་འབྱོར་པ། །
-
-<!-- pair: TGD-003093 | source: U03093 | role: main_text | format: prose -->
 དུས་རྒྱུན་ཆད་མེད་པ་སྒོར་རོ་རོ། །
 
-<!-- pair: TGD-003094 | source: U03094 | role: main_text | format: prose -->
+<!-- pair: TGD-003094 | source: U03094 U03095 | role: main_text | format: prose -->
 ཞེས་དང༌།
-
-<!-- pair: TGD-003095 | source: U03095 | role: main_text | format: prose -->
 དཀོན་མཆོག་སྤྲིན་ལས།
 
-<!-- pair: TGD-003096 | source: U03096 | role: main_text | format: prose -->
+<!-- pair: TGD-003096 | source: U03096 U03097 | role: main_text | format: verse -->
 སྲིད་པའི་མྱ་ངན་སྒྲོལ་བ་པོ། །
-
-<!-- pair: TGD-003097 | source: U03097 | role: main_text | format: prose -->
 ཉོན་མོངས་བསྒྲལ་ལ་ཕྱག་འཚལ་ལོ། །
 
 <!-- pair: TGD-003098 | source: U03098 | role: main_text | format: prose -->
 ཞེས་དང༌།
 
-<!-- pair: TGD-003099 | source: U03099 | role: main_text | format: prose -->
+<!-- pair: TGD-003099 | source: U03099 U03100 U03101 U03102 | role: main_text | format: verse -->
 བྱང་ཆུབ་སྙིང་པོར་བཞུགས་པ་ན། །
-
-<!-- pair: TGD-003100 | source: U03100 | role: main_text | format: prose -->
 འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དང་། །
-
-<!-- pair: TGD-003101 | source: U03101 | role: main_text | format: prose -->
 དྲི་མ་གཞན་ཡང་རྣམ་མང་པོ། །
-
-<!-- pair: TGD-003102 | source: U03102 | role: main_text | format: prose -->
 ཁྱོད་ཀྱི་ཡེ་ཤེས་མེ་ཡིས་བསྲེགས།
 
-<!-- pair: TGD-003103 | source: U03103 | role: main_text | format: prose -->
+<!-- pair: TGD-003103 | source: U03103 U03104 U03105 U03106 U03107 U03108 U03109 | role: main_text | format: prose -->
 ཞེས་པས་
-
-<!-- pair: TGD-003104 | source: U03104 | role: main_text | format: prose -->
 དུག་གསུམ་སྦྱོང་བྱེད་ལམ་གྱིས་སྦྱངས་པས་
-
-<!-- pair: TGD-003105 | source: U03105 | role: main_text | format: prose -->
 བྲལ་འབྲས་སྐུ་དང་ཡེ་ཤེས་མཛད་ཕྲིན་རྒྱ་མཚོ་ལྟ་བུ་འབྱུང་བས་
-
-<!-- pair: TGD-003106 | source: U03106 | role: main_text | format: prose -->
 རིགས་དང་གདུངས་ཞེས་གསུངས་སོ། །
-
-<!-- pair: TGD-003107 | source: U03107 | role: main_text | format: prose -->
 གཞན་དུ་ཉོན་མོངས་ཉིད་མ་སྦྱངས་ན་
-
-<!-- pair: TGD-003108 | source: U03108 | role: main_text | format: prose -->
 སངས་རྒྱས་ཀྱི་གདུང་དུ་ལྟ་ཅི་མཐོ་རིས་ཀྱི་གདུང་དུའང་མི་འགྱུར་ཏེ།
-
-<!-- pair: TGD-003109 | source: U03109 | role: main_text | format: prose -->
 ངན་སོང་གི་གདུང་ཡིན་པས་སོ།
 
-<!-- pair: TGD-003110 | source: U03110 | role: main_text | format: prose -->
+<!-- pair: TGD-003110 | source: U03110 U03111 U03112 U03113 U03114 U03115 U03116 U03117 U03118 | role: main_text | format: prose -->
 ལྷན༽༽ དུག་གསུམ་གྱིས་རིམ་བ་ཞིག་རྩ་རླུང་ཐིག་ལེ་གསུམ་མ་དག་པས་
-
-<!-- pair: TGD-003111 | source: U03111 | role: main_text | format: prose -->
 དག་པར་བྱེད་དགོས་ཟེར་བས་
-
-<!-- pair: TGD-003112 | source: U03112 | role: main_text | format: prose -->
 དེ་ངེད་དང་མཐུན་ཀྱང་
-
-<!-- pair: TGD-003113 | source: U03113 | role: main_text | format: prose -->
 འདིར་རྩ་རླུང་ཐིག་ལེ་ནི་སྙིགས་མ་སྟེ་དྲུག་དང་བཅས་པ་
-
-<!-- pair: TGD-003114 | source: U03114 | role: main_text | format: prose -->
 དེ་ཟབ་སྟེ་རྩ་རླུང་མ་དག་པའི་གང་ཟག་ལས་དག་པའི་སྐུ་དང་ཡེ་ཤེས་འབྱུང་ཞིང༌།
-
-<!-- pair: TGD-003115 | source: U03115 | role: main_text | format: prose -->
 གཞན་དུ་ན་དག་རྒྱུའི་དེ་གསུམ་མེད་ན་
-
-<!-- pair: TGD-003116 | source: U03116 | role: main_text | format: prose -->
 དག་པའི་འབྲས་བུ་མི་འབྱུང་སྟེ་
-
-<!-- pair: TGD-003117 | source: U03117 | role: main_text | format: prose -->
 རྒྱུ་མེད་པའི་འབྲས་བུ་བཞིན་ནོ། །
-
-<!-- pair: TGD-003118 | source: U03118 | role: main_text | format: prose -->
 དེ་ལྟར་ཡང་འོད་སྲུང་གིས་ཞུས་པ་ལས།
 
-<!-- pair: TGD-003119 | source: U03119 | role: main_text | format: prose -->
+<!-- pair: TGD-003119 | source: U03119 U03120 U03121 U03122 | role: main_text | format: verse -->
 ཇི་ལྟར་གྲོང་ཁྱེར་དབུས་ཀྱི་མི་གཙང་ལུད། །
-
-<!-- pair: TGD-003120 | source: U03120 | role: main_text | format: prose -->
 དེ་ནི་བུ་རམ་ཤིང་པའི་ཞིང་ལ་ཕན། །
-
-<!-- pair: TGD-003121 | source: U03121 | role: main_text | format: prose -->
 དེ་བཞིན་བྱང་ཆུབ་སེམས་དཔའི་ཉོན་མོངས་ལུད། །
-
-<!-- pair: TGD-003122 | source: U03122 | role: main_text | format: prose -->
 རྒྱལ་དང་རྒྱལ་བའི་ཆོས་ལ་ཕན་པར་བྱེད།
 
-<!-- pair: TGD-003123 | source: U03123 | role: main_text | format: prose -->
+<!-- pair: TGD-003123 | source: U03123 U03124 U03125 U03126 U03127 U03128 | role: main_text | format: prose -->
 ཅེས་པ་བཞིན་རྩ་རླུང་ཐིག་ལེ་མ་དག་པ་འདམ་རྫབ་དང་འདྲ་བ་དེ་རྒྱུ་བྱས་
-
-<!-- pair: TGD-003124 | source: U03124 | role: main_text | format: prose -->
 རྐྱེན་བླ་མ་དམ་པའི་གདམས་ངག་ལ་བརྟེན་ནས་
-
-<!-- pair: TGD-003125 | source: U03125 | role: main_text | format: prose -->
 བརྩོན་འགྲུས་བརྩམས་པས་དག་པ་ཐོབ་པར་འགྱུར་རོ༑ ༑
-
-<!-- pair: TGD-003126 | source: U03126 | role: main_text | format: prose -->
 མ་དག་པ་དེ་སེམས་ཅན་ཐམས་ཅད་ལ་ཡོད་ཀྱང་
-
-<!-- pair: TGD-003127 | source: U03127 | role: main_text | format: prose -->
 རྐྱེན་མ་ཚང་བས་དེ་ལྟར་མི་འགྱུར་ཏེ།
-
-<!-- pair: TGD-003128 | source: U03128 | role: main_text | format: prose -->
 རྩོལ་བ་མ་བྱས་པའི་གསེར་རྡོ་བཞིན་ནོ།
 
-<!-- pair: TGD-003129 | source: U03129 | role: main_text | format: prose -->
+<!-- pair: TGD-003129 | source: U03129 U03130 U03131 U03132 U03133 U03134 U03135 U03136 | role: main_text | format: prose -->
 རྡོ༽༽ སྔགས་ཀྱི་མངོན་སྤྱོད་ཀྱིས་གདུག་པ་ཅན་སྒྲོལ་དགོས་པར་གསུངས་པ་སྒྲ་ཇི་བཞིན་པ་ཡིན་པས་
-
-<!-- pair: TGD-003130 | source: U03130 | role: main_text | format: prose -->
 ཉེས་པར་མི་འགྱུར་བས་གནང་བར་འདོད་དོ།
-
-<!-- pair: TGD-003131 | source: U03131 | role: main_text | format: prose -->
 འདིར་ནི་སྔགས་ཀྱི་མཐུའམ་ནུས་པ་བསྟན་ཙམ་ལས་
-
-<!-- pair: TGD-003132 | source: U03132 | role: main_text | format: prose -->
 མངོན་སྤྱོད་དངོས་སུ་གནང་བ་མེད་དེ་
-
-<!-- pair: TGD-003133 | source: U03133 | role: main_text | format: prose -->
 སྦྱོར་བ་ཞེ་སྡང་ཡིན་པའི་ཕྱིར་དང༌།
-
-<!-- pair: TGD-003134 | source: U03134 | role: main_text | format: prose -->
 དེ་གནས་དང་གནས་མིན་མཁྱེན་པའི་ཡེ་ཤེས་དང་
-
-<!-- pair: TGD-003135 | source: U03135 | role: main_text | format: prose -->
 མི་འཇིགས་པ་དམ་བཅས་པ་དང་། ། འགལ་བའི་ཕྱིར་
-
-<!-- pair: TGD-003136 | source: U03136 | role: main_text | format: prose -->
 འཇམ་དཔལ་རྩ་རྒྱུད་ལས།
 
-<!-- pair: TGD-003137 | source: U03137 | role: main_text | format: prose -->
+<!-- pair: TGD-003137 | source: U03137 U03138 U03139 U03140 U03141 | role: main_text | format: prose -->
 བྲམ་ཟེ་ཙ་ནག་སྐྱ་གཤིན་རྗེའི་ཤེད་ཀྱི་རྣལ་འབྱོར་པ་ཞིག་རྒྱལ་པོ་ཟླ་བས་བླ་མཆོད་དུ་བྱས་ནས་
-
-<!-- pair: TGD-003138 | source: U03138 | role: main_text | format: prose -->
 མངོན་སྤྱོད་ཀྱིས་དགྲ་མང་པོ་བསད་པས་
-
-<!-- pair: TGD-003139 | source: U03139 | role: main_text | format: prose -->
 ལྷ་དེ་ཡི་གཟུགས་བཟུང་ནས་དམྱལ་བར་སྐྱེ་བར་གསུངས་ན།
-
-<!-- pair: TGD-003140 | source: U03140 | role: main_text | format: prose -->
 གཙང་བཙན་དང་པེ་ཧར་སོགས་ལ་རྟེན་ནས་་
-
-<!-- pair: TGD-003141 | source: U03141 | role: main_text | format: prose -->
 སྲོག་གཅོད་པ་ངན་སོང་དུ་སྐྱེ་བ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས།
 
-<!-- pair: TGD-003142 | source: U03142 | role: main_text | format: prose -->
+<!-- pair: TGD-003142 | source: U03142 U03143 U03144 U03145 | role: main_text | format: prose -->
 འོ་ན་མ་གནང་ངམ་ཞེ་ན།
-
-<!-- pair: TGD-003143 | source: U03143 | role: main_text | format: prose -->
 བསད་པ་དག་གསོ་ནུས་པ་རྣམ་ཤེས་སྤར་ནུས་པ་
-
-<!-- pair: TGD-003144 | source: U03144 | role: main_text | format: prose -->
 ཆོས་ཀུན་མཉམ་ཉིད་དུ་རྟོགས་པ་ཇོ་བོ་རྗེ་དང༌། རྗེ་བཙུན་མི་ལ། སློབ་ དཔོན་པདྨ་ལྟ་བུ་ཞིག་གི་མཛད་པ་སྟེ་
-
-<!-- pair: TGD-003145 | source: U03145 | role: main_text | format: prose -->
 གཤིན་རྗེ་མེ་རུ་རྩེའི་རྒྱུད་ལས།
 
-<!-- pair: TGD-003146 | source: U03146 | role: main_text | format: prose -->
+<!-- pair: TGD-003146 | source: U03146 U03147 U03148 U03149 | role: main_text | format: verse -->
 རང་རིག་གསལ་བའི་ཐུགས་རྗེ་ཡི། །
-
-<!-- pair: TGD-003147 | source: U03147 | role: main_text | format: prose -->
 ཉོན་མོངས་བསྒྲལ་བ་མ་གཏོགས་པ། །
-
-<!-- pair: TGD-003148 | source: U03148 | role: main_text | format: prose -->
 ཞེ་སྡང་གདུག་པའི་སེམས་ཀྱིས་སྒྲོལ། །
-
-<!-- pair: TGD-003149 | source: U03149 | role: main_text | format: prose -->
 དམྱལ་བའི་སྐྱེ་བ་མནར་མེད་ལེན།
 
 <!-- pair: TGD-003150 | source: U03150 | role: main_text | format: prose -->
 ཅེས་སོ།༑
 
-<!-- pair: TGD-003151 | source: U03151 | role: main_text | format: prose -->
+<!-- pair: TGD-003151 | source: U03151 U03152 U03153 U03154 | role: main_text | format: prose -->
 རྡོ༽༽ རྡོ་རྗེའི་དམྱལ་བ་ནི་རྒྱུའི་ཐེག་པར་བཤད་པའི་བཅོ་བརྒྱད་ལས་གུད་ན་སྡུག་བསྔལ་ ལག་པར་ཆེ་བ་ཞིག་ཡོད་ཟེར།
-
-<!-- pair: TGD-003152 | source: U03152 | role: main_text | format: prose -->
 འདིར་ནི་དེ་ལ་ལོགས་སུ་མེད་དེ་
-
-<!-- pair: TGD-003153 | source: U03153 | role: main_text | format: prose -->
 མནར་མེད་ལ་སོགས་བཅོ་བརྒྱད་དེ་རྣམས་ཡིན་ཏེ་
-
-<!-- pair: TGD-003154 | source: U03154 | role: main_text | format: prose -->
 མི་གཡོ་བའི་རྟོགས་པ་དང་བླ་མ་ལྔ་བཅུ་པ་ལས།
 
-<!-- pair: TGD-003155 | source: U03155 | role: main_text | format: prose -->
+<!-- pair: TGD-003155 | source: U03155 U03156 U03157 U03158 | role: main_text | format: verse -->
 མནར་མེད་ལ་སོགས་འཇིགས་རུང་བའི། །
-
-<!-- pair: TGD-003156 | source: U03156 | role: main_text | format: prose -->
 དམྱལ་བ་བསྟན་བ་གང་ཡིན་པ། །
-
-<!-- pair: TGD-003157 | source: U03157 | role: main_text | format: prose -->
 སློབ་དཔོན་ལ་ནི་སྨོད་པ་རྣམས། །
-
-<!-- pair: TGD-003158 | source: U03158 | role: main_text | format: prose -->
 དེར་ནི་ངེས་པར་གནས་པར་བསྟན།
 
-<!-- pair: TGD-003159 | source: U03159 | role: main_text | format: prose -->
+<!-- pair: TGD-003159 | source: U03159 U03160 | role: main_text | format: prose -->
 ཅེས་དང༌།
-
-<!-- pair: TGD-003160 | source: U03160 | role: main_text | format: prose -->
 རྡོ་རྗེ་གུར་ལས།
 
-<!-- pair: TGD-003161 | source: U03161 | role: main_text | format: prose -->
+<!-- pair: TGD-003161 | source: U03161 U03162 U03163 U03164 | role: main_text | format: verse -->
 དེ་ཚེ་དབང་བསྒྱུར་མཆོག་ཐོབ་པའི། །
-
-<!-- pair: TGD-003162 | source: U03162 | role: main_text | format: prose -->
 སློབ་མས་བླ་མའི་བཀའ་འདས་ན། །
-
-<!-- pair: TGD-003163 | source: U03163 | role: main_text | format: prose -->
 འཇིག་རྟེན་འདིར་ནི་སྡུག་བསྔལ་ཞིང༌། །
-
-<!-- pair: TGD-003164 | source: U03164 | role: main_text | format: prose -->
 ཕ་རོལ་མནར་མེད་གནས་པར་འགྱུར།
 
-<!-- pair: TGD-003165 | source: U03165 | role: main_text | format: prose -->
+<!-- pair: TGD-003165 | source: U03165 U03166 U03167 U03168 | role: main_text | format: prose -->
 ཞེས་དང་།
-
-<!-- pair: TGD-003166 | source: U03166 | role: main_text | format: prose -->
 གསང་སྔགས་སུ་ངུ་འབོད་ལ་
-
-<!-- pair: TGD-003167 | source: U03167 | role: main_text | format: prose -->
 རྡོ་རྗེའི་དམྱལ་བ་མནར་མེད་དུ་བཞག་པ་ཡང་ཡོད་དེ།
-
-<!-- pair: TGD-003168 | source: U03168 | role: main_text | format: prose -->
 དུས་འཁོར་གྱི་འགྲེལ་བ་དྲི་མེད་འོད་ལས།
 
-<!-- pair: TGD-003169 | source: U03169 | role: main_text | format: prose -->
+<!-- pair: TGD-003169 | source: U03169 U03170 U03171 U03172 U03173 U03174 U03175 | role: main_text | format: prose -->
 རླུང་གི་དཀྱིལ་འཁོར་གྱི་དབུས་སུ་ངུ་འབོད་དང༌།
-
-<!-- pair: TGD-003170 | source: U03170 | role: main_text | format: prose -->
 དེའི་སྟེང་དུ་མུན་པ་ཆེན་པོ་དང༌།
-
-<!-- pair: TGD-003171 | source: U03171 | role: main_text | format: prose -->
 དེ་བཞིན་དུ་མེ་དཀྱིལ་ལ་མེའི་དམྱལ་བ་དང་
-
-<!-- pair: TGD-003172 | source: U03172 | role: main_text | format: prose -->
 ངུ་བ་མི་བཟད་པ་ཆུ་དཀྱིལ་ལ་འདམ་གྱི་ཆུ་དང་བྱེ་མའི་ཆུ།
-
-<!-- pair: TGD-003173 | source: U03173 | role: main_text | format: prose -->
 ས་དཀྱིལ་གྱི་ཕྱེད་འོག་མ་ལ་གསེག་མའི་དམྱལ་བ་སྟེ།
-
-<!-- pair: TGD-003174 | source: U03174 | role: main_text | format: prose -->
 གནས་བདུན་ལ་ཚ་གྲང་གི་དམྱལ་བ་འཁོར་བཅས་
-
-<!-- pair: TGD-003175 | source: U03175 | role: main_text | format: prose -->
 འདུ་བར་ཡང་གསུངས་སོ།
 
-<!-- pair: TGD-003176 | source: U03176 | role: main_text | format: prose -->
+<!-- pair: TGD-003176 | source: U03176 U03177 U03178 U03179 U03180 | role: main_text | format: prose -->
 རྡོ༽༽ དམ་ཚིག་འདས་ནས་རྡོ་རྗེའི་དམྱལ་བར་སྐྱེས་ན་
-
-<!-- pair: TGD-003177 | source: U03177 | role: main_text | format: prose -->
 ཐར་པ་དང་ཐོབ་པའི་དུས་མེད་ཅེས་ཟེར་ཡང་
-
-<!-- pair: TGD-003178 | source: U03178 | role: main_text | format: prose -->
 འདིར་ནི་སློབ་དཔོན་རྒྱུད་ཚོད་མཐོ་ན་མྱུར་དུ་འདྲེན་པ་ཡིན་ཏེ།
-
-<!-- pair: TGD-003179 | source: U03179 | role: main_text | format: prose -->
 ཆོས་ལ་བརྟེན་པའི་བསྐུལ་བ་ཡིན་པའི་ཕྱིར།
-
-<!-- pair: TGD-003180 | source: U03180 | role: main_text | format: prose -->
 དཔེར་ན་ཐུབ་དཀའ་གཞོན་ནུས་ཐར་པ་ནག་པོར།
 
-<!-- pair: TGD-003181 | source: U03181 | role: main_text | format: prose -->
+<!-- pair: TGD-003181 | source: U03181 U03182 U03183 | role: main_text | format: verse -->
 དེ་བཞིན་ཉིད་དེ་མ་བཅོས་ན། །
-
-<!-- pair: TGD-003182 | source: U03182 | role: main_text | format: prose -->
 ཆེན་པོ་བཞི་ལ་གནས་བཅས་ཀྱང་། །
-
-<!-- pair: TGD-003183 | source: U03183 | role: main_text | format: prose -->
 ནམ་མཁའ་ལ་ནི་སྤྲིན་བཞིན་དུ།
 
-<!-- pair: TGD-003184 | source: U03184 | role: main_text | format: prose -->
+<!-- pair: TGD-003184 | source: U03184 U03185 U03186 | role: main_text | format: prose -->
 ཞེས་སོགས་བསྟན་པ་སྒྲ་ཇི་བཞིན་དུ་བཟུང་ནས་
-
-<!-- pair: TGD-003185 | source: U03185 | role: main_text | format: prose -->
 ལས་མི་ཟད་པ་ལ་སྤྱད་པས་ངན་སོང་དུ་ལྟུང་བ་
-
-<!-- pair: TGD-003186 | source: U03186 | role: main_text | format: prose -->
 དད་འཕགས་འཇིགས་བྱེད་ཆེན་པོར་སྤྲུལ་ནས་དྲང་བ་བཞིན་ནོ།
 
-<!-- pair: TGD-003187 | source: U03187 | role: main_text | format: prose -->
+<!-- pair: TGD-003187 | source: U03187 U03188 U03189 U03190 | role: main_text | format: prose -->
 ལྷན༽༽ སྔགས་ཀྱི་རྩ་ལྟུང་སློབ་མས་སློབ་དཔོན་ལ་བརྙས་ན་
-
-<!-- pair: TGD-003188 | source: U03188 | role: main_text | format: prose -->
 ལྟུང་བ་དང་པོ་འཕོག་པས་
-
-<!-- pair: TGD-003189 | source: U03189 | role: main_text | format: prose -->
 སློབ་མའི་དམ་ཚིག་ཤིན་ཏུ་གཉེན་ལ་
-
-<!-- pair: TGD-003190 | source: U03190 | role: main_text | format: prose -->
 སློབ་དཔོན་གྱིས་ནི་སློབ་མར་དེ་ལྟར་མི་གཉེན་ཟེར།
 
-<!-- pair: TGD-003191 | source: U03191 | role: main_text | format: prose -->
+<!-- pair: TGD-003191 | source: U03191 U03192 U03193 U03194 U03195 | role: main_text | format: prose -->
 འདིར་ནི་དཔོན་སློབ་གཉིས་ཀ་ཕན་ཚུན་དམ་ཚིག་གཉེན་མི་གཉེན་མཉམ་པ་ལ་གཅིག་ཡིན་ཏེ།
-
-<!-- pair: TGD-003192 | source: U03192 | role: main_text | format: prose -->
 སློབ་དཔོན་གྱིས་སློབ་མར་བརྙས་ན་རྩ་ལྟུང་བཅུ་གཉིས་པ་ཡིན་པའི་ཕྱིར་དང་
-
-<!-- pair: TGD-003193 | source: U03193 | role: main_text | format: prose -->
 ས།ཉེས་པ་བྱས་ན་བླ་མ་ཡིན་ཀྱང་འབྲས་བུ་འབྱུང་བ་རྟེན་འབྲེལ་ཡིན་པའི་ཕྱིར།
-
-<!-- pair: TGD-003194 | source: U03194 | role: main_text | format: prose -->
 དཔེར་མས་བུ་བསད་པ་དང༌།
-
-<!-- pair: TGD-003195 | source: U03195 | role: main_text | format: prose -->
 བུས་མ་བསད་པ་གཉིས་ཀ་གང་ཡིན་ཡང་དམྱལ་བར་ལྟུང་བ་བཞིན་ནོ།
 
-<!-- pair: TGD-003196 | source: U03196 | role: main_text | format: prose -->
+<!-- pair: TGD-003196 | source: U03196 | role: chapter_colophon | format: prose -->
 གསང་སྔགས་གནད་བསྡུས་ཏེ་རྡོ་རྗེའི་ཚིག་རྐང་ཉེར་བརྒྱད་ལྷན་ཐབས་ཚིག་རྐང་བཅུ་བདུན་བཅས་ཀྱི་འགྲེལ་བཤད་བྱེད་པའི་སྐབས་ཏེ་ལྔ་པའོ།
 
 <!-- pair: TGD-003197 | source: U03197 U03198 U03199 U03200 U03201 U03202 U03203 U03204 U03205 | role: main_text | format: prose -->
@@ -7334,995 +6380,479 @@ language: bo
 དེ་བཞིན་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ཁམས་ཀྱི་སངས་རྒྱས་ཀྱང༌། །
 ཡུམ་གྱུར་ཤེས་རབ་དམ་པ་འདི་ལ་དགོངས་པ་མཛད།
 
-<!-- pair: TGD-004169 | source: U04169 | role: main_text | format: prose -->
+<!-- pair: TGD-004169 | source: U04169 U04170 U04171 U04172 U04173 U04174 U04175 U04176 U04177 | role: main_text | format: prose -->
 ཅེས་པས།
-
-<!-- pair: TGD-004170 | source: U04170 | role: main_text | format: prose -->
 སངས་རྒྱས་ཀྱི་ས་ན་ཐུགས་བསྐྱེད་
-
-<!-- pair: TGD-004171 | source: U04171 | role: main_text | format: prose -->
 མངོན་རྒྱན་ལས།
-
-<!-- pair: TGD-004172 | source: U04172 | role: main_text | format: prose -->
 ཆོས་ཀྱི་དགའ་སྟོན་སྒྲ་སྙན་ལྟ་བུ་དང༌། །
-
-<!-- pair: TGD-004173 | source: U04173 | role: main_text | format: prose -->
 བགྲོད་གཅིག་ལམ་ཆུ་བོ་ལྟ་བུ་དང༌།
-
-<!-- pair: TGD-004174 | source: U04174 | role: main_text | format: prose -->
 ཆོས་སྐུ་སྤྲིན་ལྟ་བུ་གསུམ་དུ་གསུངས་པ་དང༌།
-
-<!-- pair: TGD-004175 | source: U04175 | role: main_text | format: prose -->
 མངོན་རྒྱན་ལས།
-
-<!-- pair: TGD-004176 | source: U04176 | role: main_text | format: prose -->
 སྒྲིབ་པ་སྤངས་པའི་སེམས་བསྐྱེད་སོགས་བཤད་ཅིང་།
-
-<!-- pair: TGD-004177 | source: U04177 | role: main_text | format: prose -->
 གསང་འདུས་གཉིས་མེད་རྣམས་ལས།
 
-<!-- pair: TGD-004178 | source: U04178 | role: main_text | format: prose -->
+<!-- pair: TGD-004178 | source: U04178 U04179 | role: main_text | format: verse -->
 བྱང་ཆུབ་སེམས་ནི་མི་ཟད་ཕྱིར། །
-
-<!-- pair: TGD-004179 | source: U04179 | role: main_text | format: prose -->
 དེ་ཕྱིར་ཕྲིན་ལས་རྒྱུན་མི་ཆད།
 
 <!-- pair: TGD-004180 | source: U04180 | role: main_text | format: prose -->
 ཅེས་སོ།
 
-<!-- pair: TGD-004181 | source: U04181 | role: main_text | format: prose -->
+<!-- pair: TGD-004181 | source: U04181 U04182 U04183 U04184 U04185 | role: main_text | format: prose -->
 ལྷན༽༽ སངས་རྒྱས་མྱ་ངན་འདས་ན་བུད་ཤིང་ཟད་པའི་མེ་བཞིན་དུ་འདོད་པ་དང་
-
-<!-- pair: TGD-004182 | source: U04182 | role: main_text | format: prose -->
 སྐུའི་གདུལ་བྱ་ཟད་ནས་གསུང་གི་གདུལ་བྱར་བསྟན་ཏེ་
-
-<!-- pair: TGD-004183 | source: U04183 | role: main_text | format: prose -->
 འོག་མིན་དུ་གཤེགས་ཏེ་བཞུགས་པས་
-
-<!-- pair: TGD-004184 | source: U04184 | role: main_text | format: prose -->
 བསོད་ནམས་བསགས་པའི་ངོར་
-
-<!-- pair: TGD-004185 | source: U04185 | role: main_text | format: prose -->
 ལན་རེ་སྣང་བ་ཡིན་ཟེར་རོ། །
 
-<!-- pair: TGD-004186 | source: U04186 | role: main_text | format: prose -->
+<!-- pair: TGD-004186 | source: U04186 U04187 U04188 | role: main_text | format: prose -->
 འདིར་བྱང་ཆུབ་ཀྱི་སེམས་གཉིས་ཀྱི་རང་བཞིན་གྱི་གཟུགས་སྐུ་སངས་རྒྱས་དེ་
-
-<!-- pair: TGD-004187 | source: U04187 | role: main_text | format: prose -->
 སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོ་མཐའ་ཐམས་ཅད་དང་བྲལ་བ་ཡིན་ཏེ།
-
-<!-- pair: TGD-004188 | source: U04188 | role: main_text | format: prose -->
 ལྗོན་ཞུས་ལས།
 
-<!-- pair: TGD-004189 | source: U04189 | role: main_text | format: prose -->
+<!-- pair: TGD-004189 | source: U04189 U04190 U04191 U04192 | role: main_text | format: verse -->
 རྒྱུ་ལ་བརྟེན་པའི་མཁས་པ་བཅོམ་ལྡན་འདས། ༑
-
-<!-- pair: TGD-004190 | source: U04190 | role: main_text | format: prose -->
 མཐའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་བ།
-
-<!-- pair: TGD-004191 | source: U04191 | role: main_text | format: prose -->
 ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་ཁོ་ན་གསུངས། །
-
-<!-- pair: TGD-004192 | source: U04192 | role: main_text | format: prose -->
 ལྟ་བའི་མུན་བྲལ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །
 
-<!-- pair: TGD-004193 | source: U04193 | role: main_text | format: prose -->
+<!-- pair: TGD-004193 | source: U04193 U04194 | role: main_text | format: prose -->
 ཞེས་དང་།
-
-<!-- pair: TGD-004194 | source: U04194 | role: main_text | format: prose -->
 མདོ་རྒྱན་ལས།
 
-<!-- pair: TGD-004195 | source: U04195 | role: main_text | format: prose -->
+<!-- pair: TGD-004195 | source: U04195 U04196 U04197 U04198 | role: main_text | format: verse -->
 འཛིན་པ་མི་མངའ་ཉེས་མི་མངའ། །
-
-<!-- pair: TGD-004196 | source: U04196 | role: main_text | format: prose -->
 རྙོག་པ་མི་མངའ་མི་གནས་པ། །
-
-<!-- pair: TGD-004197 | source: U04197 | role: main_text | format: prose -->
 མི་གཡོ་ཆོས་རྣམས་ཐམས་ཅད་ལ།།
-
-<!-- pair: TGD-004198 | source: U04198 | role: main_text | format: prose -->
 སྤྲོས་མེད་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །
 
 <!-- pair: TGD-004199 | source: U04199 | role: main_text | format: prose -->
 ཞེས་པ་བཞིན་ཡིན་ནོ།
 
-<!-- pair: TGD-004200 | source: U04200 | role: main_text | format: prose -->
+<!-- pair: TGD-004200 | source: U04200 U04201 U04202 U04203 | role: main_text | format: prose -->
 རྡོ༽༽ ཆོས་སྐུ་སྟོང་པ་གཟུགས་སྐུའི་ཡོན་ཏན་ཕྲིན་ལས་ཐམས་ཅད་དང་འབྲེལ་བ་མེད་ཅིང་
-
-<!-- pair: TGD-004201 | source: U04201 | role: main_text | format: prose -->
 གདུལ་བྱ་འདི་ལྟ་བུས་འདུལ་བར་བྱེད་སྙམ་པའི་ཐུགས་མེད་ཀྱང་།
-
-<!-- pair: TGD-004202 | source: U04202 | role: main_text | format: prose -->
 མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོས་གཞན་སྣང་ལ་རྣམ་འཕྲུལ་ཙམ་དུ་འབྱུང་ཟེར་བ་དང་
-
-<!-- pair: TGD-004203 | source: U04203 | role: main_text | format: prose -->
 ཡང་འཇུག་པ་མི་འཆད་པར་བཟང་བ་འབའ་ཞིག་ཏུ་འབྱུང་བར་འདོད་ཀྱང༌།
 
-<!-- pair: TGD-004204 | source: U04204 | role: main_text | format: prose -->
+<!-- pair: TGD-004204 | source: U04204 U04205 U04206 U04207 U04208 | role: main_text | format: prose -->
 འདིར་ཐུགས་ནི་ཐ་ན་རྟག་ཆད་ཀྱི་ལྟ་བ་ཚུན་ཆད་ལ་ཡང་འབྱུང་བ་ཡིན་ཏེ་
-
-<!-- pair: TGD-004205 | source: U04205 | role: main_text | format: prose -->
 གདུལ་བྱའི་རྣམ་རྟོག་དང་
-
-<!-- pair: TGD-004206 | source: U04206 | role: main_text | format: prose -->
 ཡིད་ཀྱི་འཇུག་པའི་བྱེ་བྲག་བསམ་གྱིས་མི་ཁྱབ་པ་ཅི་སྙེད་པ་
-
-<!-- pair: TGD-004207 | source: U04207 | role: main_text | format: prose -->
 དེ་སྙེད་དུ་འདུལ་བྱེད་ཐུགས་ཀྱི་འཇུག་པ་ཡང་འབྱུང་བའི་ཕྱིར།
-
-<!-- pair: TGD-004208 | source: U04208 | role: main_text | format: prose -->
 མྱ་ངན་འདས་མདོ་ལས། །
 
-<!-- pair: TGD-004209 | source: U04209 | role: main_text | format: prose -->
+<!-- pair: TGD-004209 | source: U04209 U04210 U04211 U04212 | role: main_text | format: verse -->
 ལོང་བ་མ་ལགས་ལོང་བ་ལྟར། །
-
-<!-- pair: TGD-004210 | source: U04210 | role: main_text | format: prose -->
 ཞ་བོ་མ་ལགས་ཞ་པོ་ལྟར། །
-
-<!-- pair: TGD-004211 | source: U04211 | role: main_text | format: prose -->
 བྱིས་པ་མ་ལགས་བྱིས་ཚུལ་གྱིས། །
-
-<!-- pair: TGD-004212 | source: U04212 | role: main_text | format: prose -->
 སེམས་ཅན་རྣམས་ནི་སྨིན་པར་མཛད།། །
 
-<!-- pair: TGD-004213 | source: U04213 | role: main_text | format: prose -->
+<!-- pair: TGD-004213 | source: U04213 U04214 U04215 | role: main_text | format: verse -->
 བརྒྱ་བྱིན་ཚངས་པའི་ཆ་བྱད་ཀྱིས། །
-
-<!-- pair: TGD-004214 | source: U04214 | role: main_text | format: prose -->
 སེམས་ཅན་རྣམས་ཀྱི་དོན་མཛད་ཀྱང༌། །
-
-<!-- pair: TGD-004215 | source: U04215 | role: main_text | format: prose -->
 འཇིག་རྟེན་རྣམས་ཀྱིས་རྟོགས་མི་ནུས།
 
-<!-- pair: TGD-004216 | source: U04216 | role: main_text | format: prose -->
+<!-- pair: TGD-004216 | source: U04216 U04217 | role: main_text | format: prose -->
 ཞེས་དང་།
-
-<!-- pair: TGD-004217 | source: U04217 | role: main_text | format: prose -->
 གསང་བ་བསམ་གྱིས་མི་ཁྱབ་པ་ལས།
 
-<!-- pair: TGD-004218 | source: U04218 | role: main_text | format: prose -->
+<!-- pair: TGD-004218 | source: U04218 U04219 U04220 | role: main_text | format: prose -->
 སངས་རྒྱས་ཀྱི་ཐུགས་
-
-<!-- pair: TGD-004219 | source: U04219 | role: main_text | format: prose -->
 སེམས་ཀྱི་དམིགས་པ་དང་ཡང་བྲལ་ལ།
-
-<!-- pair: TGD-004220 | source: U04220 | role: main_text | format: prose -->
 སེམས་ཅན་ཐམས་ཅད་ཀྱི་སེམས་ཀྱི་དཔྱོད་པ་དང་བསམ་པ་ཡང་རབ་ཏུ་ཤེས་སོ། །
 
-<!-- pair: TGD-004221 | source: U04221 | role: main_text | format: prose -->
+<!-- pair: TGD-004221 | source: U04221 U04222 U04223 U04224 | role: main_text | format: prose -->
 ཞེས་གསུངས་པས།
-
-<!-- pair: TGD-004222 | source: U04222 | role: main_text | format: prose -->
 འཇིག་རྟེན་ཐ་མལ་པའི་གཏམ་དང་ཆད་པ་དང་རྟག་པ་ལས་རིམ་གྱིས་གོང་དུ་ཁྲིད་དེ།
-
-<!-- pair: TGD-004223 | source: U04223 | role: main_text | format: prose -->
 མཐར་ནང་པའི་ལམ་ལ་དྲངས་ཏེ་
-
-<!-- pair: TGD-004224 | source: U04224 | role: main_text | format: prose -->
 རྣམ་མཁྱེན་ལ་འགོད་པར་མཛད་པའི་ཐབས་མཁས་བསམ་གྱིས་མི་ཁྱབ་པའི་གནས་ཡིན་ནོ།
 
-<!-- pair: TGD-004225 | source: U04225 | role: main_text | format: prose -->
+<!-- pair: TGD-004225 | source: U04225 U04226 U04227 | role: main_text | format: prose -->
 རྡོེ༽༽གདུལ་བྱ་འདུལ་བ་ལ་སྤྲུལ་པ་མཆོག་གི་དོན་བྱེད་པ་ལས་གཞན་དམན་པ་མཱི་བྱོན་ཟེར་བའི་ཚུལ་དེ་ཁོ་ན་མ་ཡིན་ཏེ།
-
-<!-- pair: TGD-004226 | source: U04226 | role: main_text | format: prose -->
 འདིར་ལྟར་བེམ་པོ་དང་མུ་སྟེགས་དང་བདུད་དང་ཉོན་མོངས་སོགས་ཤེས་བྱར་སྲིད་ཚད་ཀྱིས་སངས་རྒྱས་ཀྱི་བྱ་བ་བྱེད་པའི་ཕྱིར།
-
-<!-- pair: TGD-004227 | source: U04227 | role: main_text | format: prose -->
 དྲི་མ་མེད་པར་གྲགས་པའི་མདོ་ལས།
 
-<!-- pair: TGD-004228 | source: U04228 | role: main_text | format: prose -->
+<!-- pair: TGD-004228 | source: U04228 U04229 U04230 U04231 U04232 U04233 U04234 U04235 U04236 U04237 U04238 | role: main_text | format: prose -->
 ཀུན་དགའ་བོ་གང་དག་ན་སངས་རྒྱས་ཀྱི་མཛད་པ་བྱེད་པའི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ཀྱང་ཡོད་དོ། །
-
-<!-- pair: TGD-004229 | source: U04229 | role: main_text | format: prose -->
 དེ་བཞིན་དུ་སྦྱར་ཏེ་འོད་དང༌།
-
-<!-- pair: TGD-004230 | source: U04230 | role: main_text | format: prose -->
 བྱང་ཆུབ་ཀྱི་ཤིང་དང་ཁ་ཟས་དང་།
-
-<!-- pair: TGD-004231 | source: U04231 | role: main_text | format: prose -->
 ཆུ་དང་། བསྐྱེད་མོས་ཚལ་དང༌།
-
-<!-- pair: TGD-004232 | source: U04232 | role: main_text | format: prose -->
 གཞལ་མེད་ཁང་དང་ཁང་པ་བརྩེགས་པ་དང་
-
-<!-- pair: TGD-004233 | source: U04233 | role: main_text | format: prose -->
 སྤྲུལ་པ་དང་ནམ་མཁའ་དང༌།
-
-<!-- pair: TGD-004234 | source: U04234 | role: main_text | format: prose -->
 བར་སྣང་དང། རྨི་ལམ་དང༌། གཟུགས་བརྙན་དང་།
-
-<!-- pair: TGD-004235 | source: U04235 | role: main_text | format: prose -->
 ཆུ་ཟླ་དང༌། བྲག་ཆ་དང༌། སྒྱུ་མ་དང༌།
-
-<!-- pair: TGD-004236 | source: U04236 | role: main_text | format: prose -->
 སྨིག་རྒྱུ་དང་། ཡི་གེར་སྟོན་པ་དང༌། བརྗེད་པ་མེད་པ་དང་།
-
-<!-- pair: TGD-004237 | source: U04237 | role: main_text | format: prose -->
 ལོངས་སྤྱོད་དང་། བདུད་བཞི་པོ་དང༌།
-
-<!-- pair: TGD-004238 | source: U04238 | role: main_text | format: prose -->
 ཉོན་མོངས་པའི་སྒོ་སྟོང་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞི་དག་གིས་སངས་རྒྱས་ཀྱི་མཛད་པ་བྱེད་དོ། །
 
-<!-- pair: TGD-004239 | source: U04239 | role: main_text | format: prose -->
+<!-- pair: TGD-004239 | source: U04239 U04240 | role: main_text | format: prose -->
 ཅེས་དང༌།
-
-<!-- pair: TGD-004240 | source: U04240 | role: main_text | format: prose -->
 བྱང་སེམས་ཐབས་ཀྱི་སྤྱོད་ཡུལ་རྣམ་པར་འཁྲུལ་པ་བསྟན་པ་ལས།
 
-<!-- pair: TGD-004241 | source: U04241 | role: main_text | format: prose -->
+<!-- pair: TGD-004241 | source: U04241 U04242 U04243 U04244 U04245 U04246 U04247 U04248 U04249 | role: main_text | format: prose -->
 འཇམ་དཔལ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ན་
-
-<!-- pair: TGD-004242 | source: U04242 | role: main_text | format: prose -->
 གཞན་མུ་སྟེགས་ཅན་ཀུན་ཏུ་དཔྱོད་པ་བ་གང་དག་སྣང་བ་
-
-<!-- pair: TGD-004243 | source: U04243 | role: main_text | format: prose -->
 འདི་ཡང་དེ་བཞིན་གཤེགས་པའི་བྱིན་རླབས་དང་ཐབས་མཁས་བསམ་གྱིས་མི་ཁྱབ་པར་རིགས་པར་བྱའོ། །
-
-<!-- pair: TGD-004244 | source: U04244 | role: main_text | format: prose -->
 དེ་ཅིའི་ཕྱིར་ཞེ་ན།
-
-<!-- pair: TGD-004245 | source: U04245 | role: main_text | format: prose -->
 འདི་དག་ནི་རྣམ་པར་ཐར་པ་བསམ་གྱིས་མི་ཁྱབ་པའི་སྒོ་ལ་གནས་པ་དང་
-
-<!-- pair: TGD-004246 | source: U04246 | role: main_text | format: prose -->
 ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ངེས་པར་འབྱིན་པ་ལ་
-
-<!-- pair: TGD-004247 | source: U04247 | role: main_text | format: prose -->
 ཐབས་མཁས་པས་སྣེར་བརྩེ་བ་ཤ་སྟག་གོ །
-
-<!-- pair: TGD-004248 | source: U04248 | role: main_text | format: prose -->
 དཀོན་མཆོག་གསུམ་ཡིད་ལ་བྱ་བ་མ་བཏང་བ་
-
-<!-- pair: TGD-004249 | source: U04249 | role: main_text | format: prose -->
 སེམ་ཅན་ཡོངས་སུ་སྨིན་པར་བྱ་བ་ལ་དམ་པའི་ཕ་རོལ་ཏུ་སོན་པ་ཤ་སྟག་གོ །
 
-<!-- pair: TGD-004250 | source: U04250 | role: main_text | format: prose -->
+<!-- pair: TGD-004250 | source: U04250 U04251 U04252 U04253 U04254 U04255 U04256 U04257 | role: main_text | format: prose -->
 ཞེས་དང༌།
-
-<!-- pair: TGD-004251 | source: U04251 | role: main_text | format: prose -->
 དེ་བཞིན་དུ་བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ་དང༌།
-
-<!-- pair: TGD-004252 | source: U04252 | role: main_text | format: prose -->
 ཆོས་ཀུན་འགྲོ་བ་སོགས་མདོ་མང་པོར་
-
-<!-- pair: TGD-004253 | source: U04253 | role: main_text | format: prose -->
 མཐའ་ཡས་པར་གསུངས་ཤིང་
-
-<!-- pair: TGD-004254 | source: U04254 | role: main_text | format: prose -->
 འདོད་ཆགས་དང༌། ཞེ་སྡང་། གཏི་མུག་གིས་བྱ་བ་བྱས་པ་རིམ་བཞིན།
-
-<!-- pair: TGD-004255 | source: U04255 | role: main_text | format: prose -->
 དགེ་སློང་བསྟན་པའི་བློ་གྲོས་དང་༑
-
-<!-- pair: TGD-004256 | source: U04256 | role: main_text | format: prose -->
 སོར་འཕྲེང་སངས་རྒྱས་བཅོམ་ལྡན་འདས་མཐོང་ན་དགའ་བ་ཅན་དང་།
-
-<!-- pair: TGD-004257 | source: U04257 | role: main_text | format: prose -->
 འོད་སྲུང་རྫོགས་བྱེད་ལྟ་བུ་ཡིན་ནོ།
 
-<!-- pair: TGD-004258 | source: U04258 | role: main_text | format: prose -->
+<!-- pair: TGD-004258 | source: U04258 U04259 | role: main_text | format: prose -->
 དེ་ལྟར་ཡང་ཡང་དག་སྦྱོར་བའི་རྒྱུད་ལས།
-
-<!-- pair: TGD-004259 | source: U04259 | role: main_text | format: prose -->
 རྡུལ་དང༌། མུན་པ། སྙིང་སྟོབས་ཀྱང་སེམས་ཅན་གྱི་དོན་བྱེད་དོ་ཞེས་སོ། །
 
-<!-- pair: TGD-004260 | source: U04260 | role: main_text | format: prose -->
+<!-- pair: TGD-004260 | source: U04260 U04261 U04262 U04263 U04264 U04265 U04266 U04267 | role: main_text | format: prose -->
 དེ་ལྟར་ཐམས་ཅད་ཀྱིས་བྱ་བ་བྱེད་ཀྱང་
-
-<!-- pair: TGD-004261 | source: U04261 | role: main_text | format: prose -->
 དུས་ལ་མ་བབས་པར་མི་འགྱུར་ཏེ།
-
-<!-- pair: TGD-004262 | source: U04262 | role: main_text | format: prose -->
 ཆོས་ཀུན་འགྲོ་བར།
-
-<!-- pair: TGD-004263 | source: U04263 | role: main_text | format: prose -->
 དཔེར་ན་མེ་ནི་ཤིང་ཐམས་ཅད་ལ་གནས་མོད་ཀྱི།
-
-<!-- pair: TGD-004264 | source: U04264 | role: main_text | format: prose -->
 རྐྱེན་དང་རྩོལ་བ་མ་ཚང་ན་མི་འབར་ཞིང་དགོས་པ་རྣམས་མི་བྱེད་དོ།
-
-<!-- pair: TGD-004265 | source: U04265 | role: main_text | format: prose -->
 དེ་བཞིན་དུ་སངས་རྒྱས་རྣམས་ཤེས་བྱ་ཐམས་ཅད་ལ་གནས་མོད་ཀྱང་།
-
-<!-- pair: TGD-004266 | source: U04266 | role: main_text | format: prose -->
 དད་པ་སོགས་རྐྱེན་མ་ཚང་ན་མི་འབྱུང་ཞིང་བྱ་བ་མི་མཛད་དོ། །
-
-<!-- pair: TGD-004267 | source: U04267 | role: main_text | format: prose -->
 ཞེས་སོ།
 
-<!-- pair: TGD-004268 | source: U04268 | role: main_text | format: prose -->
+<!-- pair: TGD-004268 | source: U04268 U04269 U04270 U04271 | role: main_text | format: prose -->
 རྡོ༽༽ སངས་རྒྱས་རྣམས་ནི་ཞིང་དག་པ་དང་མ་དག་པ་དབྱིབས་ཀྱང་སྣ་ཚོགས་པའི་ཞིང་ཐ་དད་པ་དེར་སངས་རྒྱ་བ་ཡིན་ཟེར་ཡང༌།
-
-<!-- pair: TGD-004269 | source: U04269 | role: main_text | format: prose -->
 འདིར་ནི་ཆོས་དབྱིངས་མ་ལུས་པ་ཀུན་ཏུ་འཚང་རྒྱ་དགོས་པར་བཞེད་དེ་
-
-<!-- pair: TGD-004270 | source: U04270 | role: main_text | format: prose -->
 བདེ་བར་གཤེགས་པ་ཆོས་ཐམས་ཅད་མངོན་པར་རྫོགས་པར་བྱང་ཆུབ་པ་ཡིན་པའི་ཕྱིར་རོ། །
-
-<!-- pair: TGD-004271 | source: U04271 | role: main_text | format: prose -->
 དེ་ལྟར་ཡང་རྒྱ་ཆེར་རོལ་པ་ལས།
 
-<!-- pair: TGD-004272 | source: U04272 | role: main_text | format: prose -->
+<!-- pair: TGD-004272 | source: U04272 U04273 U04274 U04275 | role: main_text | format: prose -->
 ཚངས་པ་ངས་ཡོངས་སུ་ཆད་པའི་རྣམ་པས་
-
-<!-- pair: TGD-004273 | source: U04273 | role: main_text | format: prose -->
 ཚད་དང་ལྡན་པར་སངས་རྒྱས་པ་མ་ཡིན་གྱི།
-
-<!-- pair: TGD-004274 | source: U04274 | role: main_text | format: prose -->
 ཚངས་པ་ང་ནི་ཚད་མེད་ཅིང་རིས་སུ་མ་ཆད་པའི་རྣམ་པས་
-
-<!-- pair: TGD-004275 | source: U04275 | role: main_text | format: prose -->
 ཆོས་ཐམས་ཅད་མཉམ་པ་ཉིད་དུ་མངོན་པར་རྫོགས་པར་བྱའོ། །
 
-<!-- pair: TGD-004276 | source: U04276 | role: main_text | format: prose -->
+<!-- pair: TGD-004276 | source: U04276 U04277 U04278 U04279 U04280 | role: main_text | format: prose -->
 ཞེས་དང༌།
-
-<!-- pair: TGD-004277 | source: U04277 | role: main_text | format: prose -->
 ཡུམ་ལས་ཆོས་ཐམས་ཅད་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ། །
-
-<!-- pair: TGD-004278 | source: U04278 | role: main_text | format: prose -->
 ཞེས་དང༌།
-
-<!-- pair: TGD-004279 | source: U04279 | role: main_text | format: prose -->
 ཡུམ་ལས་ཆོས་ཐམས་ཅད་མངོན་པར་རྫོགས་པར་སངས་རྒྱ་བར་འདོད་པ་
-
-<!-- pair: TGD-004280 | source: U04280 | role: main_text | format: prose -->
 ཤེར་ཕྱིན་ལ་བསླབ་པར་བྱའོ། །
 
-<!-- pair: TGD-004281 | source: U04281 | role: main_text | format: prose -->
+<!-- pair: TGD-004281 | source: U04281 U04282 U04283 U04284 U04285 | role: main_text | format: prose -->
 ཞེས་དང་ཕལ་ཆེན་ལས།
-
-<!-- pair: TGD-004282 | source: U04282 | role: main_text | format: prose -->
 སྟོང་གསུམ་འདི་ཉིད་དུ་
-
-<!-- pair: TGD-004283 | source: U04283 | role: main_text | format: prose -->
 གླིང་བཞི་བྱེ་བ་ཕྲག་བརྒྱར་སངས་རྒྱས་པར་གསུངས་ཤིང་།
-
-<!-- pair: TGD-004284 | source: U04284 | role: main_text | format: prose -->
 གཞན་ཡང་དཔའ་བར་འགྲོ་བ་དཀོན་མཆོག་འབྱུང་གནས།
-
-<!-- pair: TGD-004285 | source: U04285 | role: main_text | format: prose -->
 སོར་འཕྲེང་ལ་ཕན་པ་སོགས་མཐའ་ཡས་པར་གསུངས་སོ། །
 
-<!-- pair: TGD-004286 | source: U04286 | role: main_text | format: prose -->
+<!-- pair: TGD-004286 | source: U04286 U04287 U04288 U04289 U04290 U04291 | role: main_text | format: prose -->
 དེ་ན་མ་གྲུབ་ན་ཚོགས་མཐའ་ཡས་པའི་འབྲས་བུས་
-
-<!-- pair: TGD-004287 | source: U04287 | role: main_text | format: prose -->
 འཁོར་ལོས་བསྒྱུར་བ་ལས་ཆུང་བར་འགྱུར་ཏེ་
-
-<!-- pair: TGD-004288 | source: U04288 | role: main_text | format: prose -->
 ཕལ་ཆེན་ལས་འཇིག་རྟེན་ཁམས་རྒྱ་མཚོ་བཅུའི་གྲངས་ཀྱི་
-
-<!-- pair: TGD-004289 | source: U04289 | role: main_text | format: prose -->
 རྡུལ་དང་མཉམ་པ་ལ་དབང་བྱེད་པའི་འཁོར་བསྒྱུར་ཡོད་པར་གསུངས་པའི་ཕྱིར་རོ། །
-
-<!-- pair: TGD-004290 | source: U04290 | role: main_text | format: prose -->
 དེ་བས་ན་སེམས་བསྐྱེད་པའི་གནད་
-
-<!-- pair: TGD-004291 | source: U04291 | role: main_text | format: prose -->
 ཕྱིས་ཐམས་ཅད་དུ་སངས་རྒྱས་པ་ཡིན་ནོ།
 
 <!-- pair: TGD-004292 | source: U04292 | role: main_text | format: prose -->
 རྡོ༽༽སྤྲུལ་སྐུ་སྐྱེས་སྟོབས་ལས་བྱུང་བ་མཆོག་དང༌།
 
-<!-- pair: TGD-004293 | source: U04293 | role: main_text | format: prose -->
+<!-- pair: TGD-004293 | source: U04293 | role: source_annotation | format: prose -->
 མཆན་མཛད་པ༡༢།
 
-<!-- pair: TGD-004294 | source: U04294 | role: main_text | format: prose -->
+<!-- pair: TGD-004294 | source: U04294 U04295 U04296 U04297 | role: main_text | format: prose -->
 དམན་པ་ཉན་རང་དང༌། བཟོ་དང༌། སྒྱེ་བ་རི་བོང་སོགས་སྟེ་བཞི་བསྒོམས་པ་ལས་བྱུང་བ་
-
-<!-- pair: TGD-004295 | source: U04295 | role: main_text | format: prose -->
 བསྟན་པའི་བློ་གྲོས་བརྟུལ་བའི་སྨད་ཚོང་མ་ལྟ་བུ་དེ་དག་རྒྱུ་མེད་ཀྱང་
-
-<!-- pair: TGD-004296 | source: U04296 | role: main_text | format: prose -->
 རྣམ་འཕྲུལ་ཙམ་དུ་འབྱུང་ཞིང་
-
-<!-- pair: TGD-004297 | source: U04297 | role: main_text | format: prose -->
 དགེ་མི་དགེའི་འབྲས་བུ་མི་དགོས་ཟེར་བ་དག་ཆོས་ཅན།
 
-<!-- pair: TGD-004298 | source: U04298 | role: main_text | format: prose -->
+<!-- pair: TGD-004298 | source: U04298 U04299 U04300 U04301 U04302 U04303 | role: main_text | format: prose -->
 རྒྱུ་མེད་པའི་སྤྲུལ་པ་མི་སྲིད་པར་ཐལ།
-
-<!-- pair: TGD-004299 | source: U04299 | role: main_text | format: prose -->
 གང་ལ་མ་ལྟོས་པའི་ཆོས་མི་འགྲུབ་པའི་ཕྱིར།
-
-<!-- pair: TGD-004300 | source: U04300 | role: main_text | format: prose -->
 རི་བོང་གི་རང་བཞིན་ནོ། །
-
-<!-- pair: TGD-004301 | source: U04301 | role: main_text | format: prose -->
 མ་གྲུབ་ན་
-
-<!-- pair: TGD-004302 | source: U04302 | role: main_text | format: prose -->
 ཕུར་བུ་པའི་འདོད་པ་ཁས་ལོངས་ཤིག །
-
-<!-- pair: TGD-004303 | source: U04303 | role: main_text | format: prose -->
 དེ་ལྟར་ཡང༌།
 
-<!-- pair: TGD-004304 | source: U04304 | role: main_text | format: prose -->
+<!-- pair: TGD-004304 | source: U04304 U04305 U04306 | role: main_text | format: verse -->
 རྒྱུ་ལ་བརྟེན་་ པའི་མཁས་པ་བཅོམ་ལྡན་འདས། །
-
-<!-- pair: TGD-004305 | source: U04305 | role: main_text | format: prose -->
 མཇའ་གཉིས་ལྟ་བ་རྟག་ཏུ་མི་མངའ་ཞིང༌། །
-
-<!-- pair: TGD-004306 | source: U04306 | role: main_text | format: prose -->
 ལས་ཀྱི་རྣམ་སྨིན་འབྲས་བུ་དེ་དག་གསུངས། །
 
-<!-- pair: TGD-004307 | source: U04307 | role: main_text | format: prose -->
+<!-- pair: TGD-004307 | source: U04307 U04308 U04309 U04310 U04311 U04312 U04313 | role: main_text | format: prose -->
 མ་སྐྱེས་དགྲའི་འགྱོད་བསལ་ལས།
-
-<!-- pair: TGD-004308 | source: U04308 | role: main_text | format: prose -->
 ཆོས་ཐམས་ཅད་རྒྱུའི་རྗེས་སུ་འགྲོ་བ།
-
-<!-- pair: TGD-004309 | source: U04309 | role: main_text | format: prose -->
 ཞེས་དང་འདུལ་བའི་དུས་ལ་བབ་པ་ན།
-
-<!-- pair: TGD-004310 | source: U04310 | role: main_text | format: prose -->
 ཏིང་ངེ་འཛིན་འདི་ཞེས་བྱ་བ་ལ་སྙོམས་པར་ཞུགས་སོ།
-
-<!-- pair: TGD-004311 | source: U04311 | role: main_text | format: prose -->
 ཞེས་པ་དེ་
-
-<!-- pair: TGD-004312 | source: U04312 | role: main_text | format: prose -->
 རྒྱུ་བསྒྲུབ་པ་ཡིན་ཅིང་སྤྱིར་ཆོས་ཐམས་ཅད་སྤྲུལ་པ་ཡིན་པ།
-
-<!-- pair: TGD-004313 | source: U04313 | role: main_text | format: prose -->
 ཡུམ་ལས།
 
-<!-- pair: TGD-004314 | source: U04314 | role: main_text | format: prose -->
+<!-- pair: TGD-004314 | source: U04314 U04315 | role: main_text | format: prose -->
 རབ་འབྱོར་ཁ་ཅིག་ནི་ཉོན་མོངས་པའི་སྤྲུལ་པའོ། །
-
-<!-- pair: TGD-004315 | source: U04315 | role: main_text | format: prose -->
 དེ་བཞིན་དུ་ལས་དང་། ཉན་ཐོས་དང་། རང་རྒྱལ་དང་། སངས་རྒྱས་ཀྱི་སྤྲུལ་པའོ། །
 
-<!-- pair: TGD-004316 | source: U04316 | role: main_text | format: prose -->
+<!-- pair: TGD-004316 | source: U04316 U04317 U04318 | role: main_text | format: prose -->
 གསུངས་པས།
-
-<!-- pair: TGD-004317 | source: U04317 | role: main_text | format: prose -->
 ཁྱེད་ལྟར་ན་ཐམས་ཅད་རྒྱུ་མེད་དུ་ཐལ་བར་འགྱུར་རོ། །
-
-<!-- pair: TGD-004318 | source: U04318 | role: main_text | format: prose -->
 དེས་ན་སངས་རྒྱས་རང་ལས་རྒྱུད་པའི་རྒྱུ་ཅན་ནོ།
 
-<!-- pair: TGD-004319 | source: U04319 | role: main_text | format: prose -->
+<!-- pair: TGD-004319 | source: U04319 U04320 U04321 U04322 U04323 U04324 U04325 | role: main_text | format: prose -->
 རྡོ༽༽ གཟུགས་སྐུ་གཉིས་དང་ཡེ་ཤེས་སངས་རྒྱས་ཆོས་སྐུ་ལ་མེད་ཀྱང་
-
-<!-- pair: TGD-004320 | source: U04320 | role: main_text | format: prose -->
 གདུལ་བྱའི་གཞན་སྣང་ཡིན་ཟེར་ཡང༌།
-
-<!-- pair: TGD-004321 | source: U04321 | role: main_text | format: prose -->
 འདིར་ནི་ཆོས་སྐུ་རྣམ་པར་དག་པ་བརྙེས་པ་དང༌།
-
-<!-- pair: TGD-004322 | source: U04322 | role: main_text | format: prose -->
 སེམས་ཅན་རྣམས་སངས་རྒྱས་ཀྱི་སར་འགོད་པའི་ཐུགས་དམ་བཞེས་པ་དང༌།
-
-<!-- pair: TGD-004323 | source: U04323 | role: main_text | format: prose -->
 གདུལ་བྱ་རྣམས་ཀྱི་སངས་རྒྱས་དང་ཕྲད་པའི་ལས་བསགས་པའི་དད་པའི་སྣང་བ་གསུམ་འཛོམས་ན་
-
-<!-- pair: TGD-004324 | source: U04324 | role: main_text | format: prose -->
 སངས་རྒྱས་མཐོང་སྟེ།
-
-<!-- pair: TGD-004325 | source: U04325 | role: main_text | format: prose -->
 རྒྱུད་བླ་མ་ལས།
 
-<!-- pair: TGD-004326 | source: U04326 | role: main_text | format: prose -->
+<!-- pair: TGD-004326 | source: U04326 U04327 U04328 U04329 | role: main_text | format: verse -->
 ཇི་ལྟར་བཻཌཱུར་ས་གཞི་གཙང་མ་ལ། །
-
-<!-- pair: TGD-004327 | source: U04327 | role: main_text | format: prose -->
 ལྷ་དབང་ལུས་ཀྱི་གཟུགས་བརྙན་སྣང་བ་ལྟར། །
-
-<!-- pair: TGD-004328 | source: U04328 | role: main_text | format: prose -->
 དེ་བཞིན་འགྲོ་སེམས་ས་གཞི་གཙང་མ་ལ། །
-
-<!-- pair: TGD-004329 | source: U04329 | role: main_text | format: prose -->
 ཐུབ་པའི་དབང་པོའི་སྐུ་ཡི་གཟུགས་བརྙན་འཆར།
 
-<!-- pair: TGD-004330 | source: U04330 | role: main_text | format: prose -->
+<!-- pair: TGD-004330 | source: U04330 U04331 U04332 U04333 | role: main_text | format: prose -->
 ཞེས་དང་།
-
-<!-- pair: TGD-004331 | source: U04331 | role: main_text | format: prose -->
 བརྒྱད་སྟོང་པ་ལས།
-
-<!-- pair: TGD-004332 | source: U04332 | role: main_text | format: prose -->
 པི་ཝང་གི་དཔེས་བསྟན་པ་དང་།
-
-<!-- pair: TGD-004333 | source: U04333 | role: main_text | format: prose -->
 དབྱེན་གྱི་གཞི་ལས།
 
-<!-- pair: TGD-004334 | source: U04334 | role: main_text | format: prose -->
+<!-- pair: TGD-004334 | source: U04334 U04335 U04336 | role: main_text | format: prose -->
 སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་སྐུ་གཅིག་གིས་མ་ཡིན།
-
-<!-- pair: TGD-004335 | source: U04335 | role: main_text | format: prose -->
 རྐྱེན་གཅིག་གིས་མ་ཡིན།
-
-<!-- pair: TGD-004336 | source: U04336 | role: main_text | format: prose -->
 དགེ་བའི་རྩ་བ་གཅིག་གིས་མ་ཡིན།
 
-<!-- pair: TGD-004337 | source: U04337 | role: main_text | format: prose -->
+<!-- pair: TGD-004337 | source: U04337 U04338 U04339 U04340 U04341 U04342 | role: main_text | format: prose -->
 ཅེས་པས།
-
-<!-- pair: TGD-004338 | source: U04338 | role: main_text | format: prose -->
 ཡེ་ཤེས་ཡོན་ཏན་ཕྲིན་ལས་རྣམས་རྒྱུ་རྐྱེན་ཚོགས་ན་འབྱུང་བ་དང་
-
-<!-- pair: TGD-004339 | source: U04339 | role: main_text | format: prose -->
 སྐུ་དང་ཡེ་ཤེས་མཛད་པ་བསམ་གྱིས་མི་ཁྱབ་པ་རྣམས་
-
-<!-- pair: TGD-004340 | source: U04340 | role: main_text | format: prose -->
 སངས་རྒྱས་ཉག་གཅིག་གི་སྤྱོད་ཡུལ་ཡིན་པས་
-
-<!-- pair: TGD-004341 | source: U04341 | role: main_text | format: prose -->
 གཞན་སྣང་ཁོ་ནའང་མིན་པ་དེའི་ཕྱིར།
-
-<!-- pair: TGD-004342 | source: U04342 | role: main_text | format: prose -->
 སངས་རྒྱས་ཞེས་བྱ་བ་ནི་རྟེན་ཅིང་འབྲེལ་འབྱུང་ལ་སོགས་པའི་སྐུ་ཡིན་ནོ།
 
-<!-- pair: TGD-004343 | source: U04343 | role: main_text | format: prose -->
+<!-- pair: TGD-004343 | source: U04343 U04344 U04345 | role: main_text | format: prose -->
 རྡོ་༽༽ ཀུན་རྫོབ་བྱང་ཆུབ་ཀྱི་སེམས་སྨོན་པ་ལས་སྤྲུལ་སྐུ་འབྱུང་བ་ཁོ་ནར་ངེས་ཟེར་ཡང།
-
-<!-- pair: TGD-004344 | source: U04344 | role: main_text | format: prose -->
 དེ་གཅིག་པུར་མ་ངེས་ཏེ།
-
-<!-- pair: TGD-004345 | source: U04345 | role: main_text | format: prose -->
 སྨོན་འཇུག་གཉིས་ལས་རིམ་བཞིན་ལོངས་སྐུ་དང་སྤྲུལ་སྐུ་རུ་འབྱུང་བའང་ཡོད་པར་སྲིད་དེ།
 
-<!-- pair: TGD-004346 | source: U04346 | role: main_text | format: prose -->
+<!-- pair: TGD-004346 | source: U04346 U04347 U04348 U04349 U04350 U04351 U04352 U04353 | role: main_text | format: prose -->
 ནམ་མཁའི་མཐའ་དང་མཉམ་པའི་
-
-<!-- pair: TGD-004347 | source: U04347 | role: main_text | format: prose -->
 སེམས་ཅན་བློའི་ཁོངས་སུ་ཆུད་པའི་སྨོན་པ་འདིའི་འབྲས་བུ་ཡང་ཚད་ མེད་པའི་ཕྱིར་དང༌།
-
-<!-- pair: TGD-004348 | source: U04348 | role: main_text | format: prose -->
 རབ་འབྱམས་ཕྱོགས་བཅུའི་སངས་རྒྱས་ལ་
-
-<!-- pair: TGD-004349 | source: U04349 | role: main_text | format: prose -->
 འདོད་འདུན་གྱིས་བསྐྱེད་པའི་ཕྱིར་
-
-<!-- pair: TGD-004350 | source: U04350 | role: main_text | format: prose -->
 སྨོན་པ་ལས་ལོངས་སྐུ་འབྱུང་ཞིང༌།
-
-<!-- pair: TGD-004351 | source: U04351 | role: main_text | format: prose -->
 སེམས་བསྐྱེད་པ་དེ་ལ་བརྟེན་པ་དགེ་རྩ་ཐ་དད་རེ་རེས་ཀྱང་སྤྲུལ་པའི་སྐུ་རེ་རེ་འབྱུང་བ་
-
-<!-- pair: TGD-004352 | source: U04352 | role: main_text | format: prose -->
 ཆོས་དབྱིངས་ཐམས་ཅད་དུ་སངས་རྒྱ་བ་དང་།
-
-<!-- pair: TGD-004353 | source: U04353 | role: main_text | format: prose -->
 སྐུ་རྟེན་འབྲེལ་དུ་བཞེད་པ་དག་སྤྲུལ་པ་རྒྱུ་ཅན་དུ་བཞེད་པའི་གནད་ཀྱིས་ཡིན་ནོ།
 
-<!-- pair: TGD-004354 | source: U04354 | role: main_text | format: prose -->
+<!-- pair: TGD-004354 | source: U04354 U04355 | role: main_text | format: prose -->
 ༑སྔ་མ་ལྟར་རྫ་མཁན་ཡང་པའི་འོད་ལྟར་
-
-<!-- pair: TGD-004355 | source: U04355 | role: main_text | format: prose -->
 སངས་རྒྱས་གཅིག་ལ་འདོད་འདུན་བསྐྱེད་པས་སོ། །
 
-<!-- pair: TGD-004356 | source: U04356 | role: main_text | format: prose -->
+<!-- pair: TGD-004356 | source: U04356 U04357 U04358 U04359 U04360 U04361 U04362 U04363 U04364 | role: main_text | format: prose -->
 རྡོ༽༽ སྐུ་གསུམ་པོ་རིམ་བཞིན་གནས་ཆོས་དབྱིངས་ཀྱི་ཕོ་བྲང་དང༌།
-
-<!-- pair: TGD-004357 | source: U04357 | role: main_text | format: prose -->
 འོག་མིན་དང༌།
-
-<!-- pair: TGD-004358 | source: U04358 | role: main_text | format: prose -->
 བྱ་རྒོད་ཕུང་རི་སོགས་སུ།
-
-<!-- pair: TGD-004359 | source: U04359 | role: main_text | format: prose -->
 འཁོར་སངས་རྒྱས་དང་། ས་བཅུ་པ་དང་། ཐེག་པ་གསུམ་གྱི་རིགས་ཅན་ལ་
-
-<!-- pair: TGD-004360 | source: U04360 | role: main_text | format: prose -->
 ཆོས་ཟབ་མོ་སྐྱེ་མེད་དང༌།
-
-<!-- pair: TGD-004361 | source: U04361 | role: main_text | format: prose -->
 ཐེག་ཆེན་དང་ཐེག་པ་སྣ་ཚོགས་དང་།
-
-<!-- pair: TGD-004362 | source: U04362 | role: main_text | format: prose -->
 དུས་དུས་གསུམ་དུས་མེད་དང་།
-
-<!-- pair: TGD-004363 | source: U04363 | role: main_text | format: prose -->
 རྟག་པ་རྒྱུན་འཁོར་དང་འདུལ་བའི་དུས་ཏེ་གསུམ་ལ་
-
-<!-- pair: TGD-004364 | source: U04364 | role: main_text | format: prose -->
 སོ་སོ་ཐ་དད་དུ་སྟོན་པ་ཡིན་ཟེར་རོ། །
 
-<!-- pair: TGD-004365 | source: U04365 | role: main_text | format: prose -->
+<!-- pair: TGD-004365 | source: U04365 U04366 | role: main_text | format: prose -->
 འདིར་ནི་སྐུ་གསུམ་པོ་ཐ་དད་མེད་པར་བཞུགས་པ་ཡིན་ཏེ་
-
-<!-- pair: TGD-004366 | source: U04366 | role: main_text | format: prose -->
 རྒྱུ་བླ་མ་ལས།
 
-<!-- pair: TGD-004367 | source: U04367 | role: main_text | format: prose -->
+<!-- pair: TGD-004367 | source: U04367 U04368 U04369 U04370 U04371 U04372 | role: main_text | format: verse -->
 དེ་ནི་རང་བཞིན་དག་ཕྱིར་དང་། །
-
-<!-- pair: TGD-004368 | source: U04368 | role: main_text | format: prose -->
 བག་ཆགས་སྤངས་ཕྱིར་གཙང་བ་ཡིན། །
-
-<!-- pair: TGD-004369 | source: U04369 | role: main_text | format: prose -->
 བདག་དང་བདག་མེད་སྤྲོས་པ་དག །
-
-<!-- pair: TGD-004370 | source: U04370 | role: main_text | format: prose -->
 ཉེ་བར་ཞི་བ་དམ་པའི་བདག །
-
-<!-- pair: TGD-004371 | source: U04371 | role: main_text | format: prose -->
 ཡིད་ཀྱི་རང་བཞིན་ཕུང་པོ་དང༌། །
-
-<!-- pair: TGD-004372 | source: U04372 | role: main_text | format: prose -->
 དེ་རྒྱུའི་ལོག་ཕྱིར་བདེ་བ་ཉིད། །
 
-<!-- pair: TGD-004373 | source: U04373 | role: main_text | format: prose -->
+<!-- pair: TGD-004373 | source: U04373 U04374 U04375 U04376 | role: main_text | format: prose -->
 ཅེས་པས་མཚན་ཉིད་བཞི་ལྡན་གྱི་ཆོས་སྐུ་དེ་ཉིད་
-
-<!-- pair: TGD-004374 | source: U04374 | role: main_text | format: prose -->
 མཚན་དང་དཔེ་བྱད་ཀྱིས་བརྒྱན་པ་ལོངས་སྐུ།
-
-<!-- pair: TGD-004375 | source: U04375 | role: main_text | format: prose -->
 དེ་གཉིས་དབྱེར་མེད་པར་སེམས་ཅན་གྱི་དོན་མཛད་པ་སྤྲུལ་སྐུ་ཡིན་པའི་ཕྱིར་རོ། །
-
-<!-- pair: TGD-004376 | source: U04376 | role: main_text | format: prose -->
 དེ་ལྟར་ཟླ་སྒྲོན་ལས།
 
-<!-- pair: TGD-004377 | source: U04377 | role: main_text | format: prose -->
+<!-- pair: TGD-004377 | source: U04377 U04378 U04379 U04380 | role: main_text | format: verse -->
 སྐུ་ནི་ནམ་མཁའི་མཚན་ཉིད་དེ། །
-
-<!-- pair: TGD-004378 | source: U04378 | role: main_text | format: prose -->
 སངས་རྒྱས་ཞིང་ཡང་དེ་འདྲ་སྟེ། །
-
-<!-- pair: TGD-004379 | source: U04379 | role: main_text | format: prose -->
 སྟོབས་དང་རྣམ་ཐར་བསམ་གཏན་དང་། །
-
-<!-- pair: TGD-004380 | source: U04380 | role: main_text | format: prose -->
 དེ་དག་ཐམས་ཅད་མཚན་ཉིད་གཅིག །
 
-<!-- pair: TGD-004381 | source: U04381 | role: main_text | format: prose -->
+<!-- pair: TGD-004381 | source: U04381 U04382 | role: main_text | format: prose -->
 ཅེས་སོ།
-
-<!-- pair: TGD-004382 | source: U04382 | role: main_text | format: prose -->
 དེས་ན་ལྡོག་པ་ཙམ་ལས་ཐ་དད་མེད་དོ།
 
-<!-- pair: TGD-004383 | source: U04383 | role: main_text | format: prose -->
+<!-- pair: TGD-004383 | source: U04383 U04384 U04385 U04386 U04387 | role: main_text | format: prose -->
 རྡོ དུས་གསུམ་གྱི་སངས་རྒྱས་རྣམས་
-
-<!-- pair: TGD-004384 | source: U04384 | role: main_text | format: prose -->
 མཛད་པ་མཛད་ནས་བུད་ཤིང་ཟད་པའི་མེ་བཞིན་
-
-<!-- pair: TGD-004385 | source: U04385 | role: main_text | format: prose -->
 མྱ་ངན་ལས་འདས་ཏེ་
-
-<!-- pair: TGD-004386 | source: U04386 | role: main_text | format: prose -->
 འོག་མིན་ཆོས་དབྱིངས་ཀྱི་ཕོ་བྲང་ན་བཞུགས་པ་ཡིན།
-
-<!-- pair: TGD-004387 | source: U04387 | role: main_text | format: prose -->
 ཟེར་ཡང༌།
 
-<!-- pair: TGD-004388 | source: U04388 | role: main_text | format: prose -->
+<!-- pair: TGD-004388 | source: U04388 U04389 U04390 U04391 U04392 | role: main_text | format: prose -->
 འདིར་ནི། དུས་གསུམ་གྱི་སངས་རྒྱས་ཐམས་ཅད་སེམས་ཅན་རྣམས་ཀྱི་ཁམས་རྒྱུད་ལ་བཞུགས་པ་ཡིན་ཏེ།
-
-<!-- pair: TGD-004389 | source: U04389 | role: main_text | format: prose -->
 དང་པོ་ཐུགས་བསྐྱེད་པ་ནས་དམ་པའི་ཆོས་གནས་ཀྱི་བར་
-
-<!-- pair: TGD-004390 | source: U04390 | role: main_text | format: prose -->
 མཐའ་ཡས་པའི་སེམས་ཅན་གྱི་དོན་བསྒྲུབས་ནས་
-
-<!-- pair: TGD-004391 | source: U04391 | role: main_text | format: prose -->
 ད་ཐུགས་ལས་ཆུང་ངུར་བཞུགས་པ་མི་སྲིད་པའི་ཕྱིར་རོ། །
-
-<!-- pair: TGD-004392 | source: U04392 | role: main_text | format: prose -->
 དེ་ལྟར་ཡང་གཏན་ལ་ཕབ་པ་དང༌། ཟླ་བ་སྒྲོན་མེ་ལས།
 
-<!-- pair: TGD-004393 | source: U04393 | role: main_text | format: prose -->
+<!-- pair: TGD-004393 | source: U04393 U04394 U04395 | role: main_text | format: prose -->
 མྱ་ངན་ལས་འདས་པ་ལ་མི་གནས་པ་
-
-<!-- pair: TGD-004394 | source: U04394 | role: main_text | format: prose -->
 ཡང་དག་པའི་མཉམ་པ་ཉིད་ལ་གནས་པ།
-
-<!-- pair: TGD-004395 | source: U04395 | role: main_text | format: prose -->
 སེམས་ཅན་ཐམས་ཅད་ལ་གཟིགས་པའི་ས་ལ་བཞུགས་པ་སྟེ།
 
-<!-- pair: TGD-004396 | source: U04396 | role: main_text | format: prose -->
+<!-- pair: TGD-004396 | source: U04396 U04397 U04398 U04399 U04400 | role: main_text | format: prose -->
 ཞེས་པས།
-
-<!-- pair: TGD-004397 | source: U04397 | role: main_text | format: prose -->
 དུས་གསུམ་གྱི་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་མ་ཚང་བ་མེད་པ་
-
-<!-- pair: TGD-004398 | source: U04398 | role: main_text | format: prose -->
 སེམས་ཅན་རེ་རེའི་ཁམས་རྒྱུད་ལ་བཞུགས་པ་ནི་
-
-<!-- pair: TGD-004399 | source: U04399 | role: main_text | format: prose -->
 སེམས་ཅན་དོན་ལས་མཛད་པ་གཞན་མེད་པའི་ཕྱིར་རོ། །
-
-<!-- pair: TGD-004400 | source: U04400 | role: main_text | format: prose -->
 ཚུལ་ཇི་ལྟར་བཞུགས་ན།
 
-<!-- pair: TGD-004401 | source: U04401 | role: main_text | format: prose -->
+<!-- pair: TGD-004401 | source: U04401 U04402 U04403 U04404 | role: main_text | format: verse -->
 རྫོགས་སངས་སྐུ་ནི་འཕྲོ་ཕྱིར་དང་།
-
-<!-- pair: TGD-004402 | source: U04402 | role: main_text | format: prose -->
 དེ་བཞིན་ཉིད་དབྱེར་མེད་ཕྱིར་དང༌། །
-
-<!-- pair: TGD-004403 | source: U04403 | role: main_text | format: prose -->
 རིགས་ཡོད་ཕྱིར་ན་ལུས་ཅན་ཀུན།
-
-<!-- pair: TGD-004404 | source: U04404 | role: main_text | format: prose -->
 རྟག་ཏུ་སངས་རྒྱས་སྙིང་པོ་ཅན།
 
-<!-- pair: TGD-004405 | source: U04405 | role: main_text | format: prose -->
+<!-- pair: TGD-004405 | source: U04405 U04406 U04407 U04408 | role: main_text | format: verse -->
 སངས་རྒྱས་ཡེ་ཤེས་སེམས་ཅན་ཚོགས་ཞུགས་ཕྱིར། །
-
-<!-- pair: TGD-004406 | source: U04406 | role: main_text | format: prose -->
 རང་བཞིན་དྲི་མེད་དེ་ནི་གཉིས་མེད་དེ།
-
-<!-- pair: TGD-004407 | source: U04407 | role: main_text | format: prose -->
 སངས་རྒྱས་རིགས་ལ་དེ་འབྲས་ཉེར་བརྟགས་ཕྱིར། །
-
-<!-- pair: TGD-004408 | source: U04408 | role: main_text | format: prose -->
 འགྲོ་ཀུན་སངས་རྒྱས་སྙིང་པོ་ཅན་དུ་གསུངས།
 
-<!-- pair: TGD-004409 | source: U04409 | role: main_text | format: prose -->
+<!-- pair: TGD-004409 | source: U04409 U04410 U04411 U04412 U04413 | role: main_text | format: prose -->
 ཞེས་པ་འདི་ཆོས་ཀྱི་རྗེ་སངས་རྒྱས་ཐམས་ཅད་སེམས་ཅན་གྱི་རྒྱུད་ལ་བཞུགས་པ་ལ་བཞེད་ཅིང་
-
-<!-- pair: TGD-004410 | source: U04410 | role: main_text | format: prose -->
 རྟོག་གེ་བ་རྣམས་དང་ནི་མི་མཐུན་པ་ཡིན་ནོ། །
-
-<!-- pair: TGD-004411 | source: U04411 | role: main_text | format: prose -->
 དེ་ཕྱིར་སྒོ་གསུམ་སྤྱོད་པ་ངན་པ་སྤང་བར་བྱ་སྟེ།
-
-<!-- pair: TGD-004412 | source: U04412 | role: main_text | format: prose -->
 མ་སྤངས་ན་ཐུགས་ཁྲེལ་བར་འགྱུར་བ་དང་།
-
-<!-- pair: TGD-004413 | source: U04413 | role: main_text | format: prose -->
 སྤང་ན་དགྱེས་ནས་འཕྲིན་ལས་ཀྱི་འཇུག་སྒོ་ཡོད་པར་འགྱུར་བའི་ཕྱིར་རོ། །
 
-<!-- pair: TGD-004414 | source: U04414 | role: main_text | format: prose -->
+<!-- pair: TGD-004414 | source: U04414 | role: chapter_colophon | format: prose -->
 འབྲས་བུ་སངས་རྒྱས་པའི་གནད་དོན་རྣམས་བསྡུས་སྟེ་རྡོ་རྗེ་ཚིག་རྐང་བཅུ་དྲུག་ལྷན་ཐབས་ཚིག་རྐང་གཅིག་བཅས་ཀྱི་སྐབས་ཏེ་དེ་ལྟར་ན་ཚོམ་བདུན་ཡོངས་སུ་རྫོགས་པའི་འགྲེལ་བཤད་ལེགས་པར་བྱེད་པའོ། །
 
-<!-- pair: TGD-004415 | source: U04415 | role: main_text | format: prose -->
+<!-- pair: TGD-004415 | source: U04415 | role: source_heading | format: h2 -->
 གཞུང་གི་མཇུག་བསྡུ་བ་ནི།
 
-<!-- pair: TGD-004416 | source: U04416 | role: main_text | format: prose -->
+<!-- pair: TGD-004416 | source: U04416 U04417 U04418 U04419 U04420 U04421 U04422 U04423 | role: closing_text | format: prose -->
 ཇི་ལྟར་འཇིག་རྟེན་གྱི་ཁམས་འདི་ན་
-
-<!-- pair: TGD-004417 | source: U04417 | role: main_text | format: prose -->
 ཕ་ཡི་བུ་ཞིག་ལ་ལོངས་སྤྱོད་ཕལ་པའི་འབྱོར་བ་
-
-<!-- pair: TGD-004418 | source: U04418 | role: main_text | format: prose -->
 གཞན་ལ་གྲགས་པའི་རྫས་མང་པོ་དང་།
-
-<!-- pair: TGD-004419 | source: U04419 | role: main_text | format: prose -->
 ཟབ་དགུ་ཚོགས་སུ་བཤད་ན་ཡང་།
-
-<!-- pair: TGD-004420 | source: U04420 | role: main_text | format: prose -->
 ཉམས་སུ་མ་མྱོང་སྨྲས་པ་མེད་ཅེས་པ་ལྟར་
-
-<!-- pair: TGD-004421 | source: U04421 | role: main_text | format: prose -->
 ཚད་མ་བཞིའི་སྒོ་ནས་ངེས་ཤེས་ཁྱད་པར་ཅན་ལྡན་པར་གྱུར་ཀྱང་
-
-<!-- pair: TGD-004422 | source: U04422 | role: main_text | format: prose -->
 སུས་དེ་ཆུད་གསོན་པར་བྱེད་ན་
-
-<!-- pair: TGD-004423 | source: U04423 | role: main_text | format: prose -->
 གཞན་གྱིས་སྨད་པའི་གནས་སུ་ཡིན་པར་གྱུར་ན།
 
-<!-- pair: TGD-004424 | source: U04424 | role: main_text | format: prose -->
+<!-- pair: TGD-004424 | source: U04424 U04425 U04426 U04427 | role: closing_text | format: prose -->
 དེ་བས་ཀྱང་གཅེས་པ་ཕ་ཡི་ཁྱད་ནོར་གཞན་ལ་མེད་པའི་ནོར་བུའི་རིགས་དག་
-
-<!-- pair: TGD-004425 | source: U04425 | role: main_text | format: prose -->
 སྔོན་སུས་ཀྱང་མ་ཐོས་པ་
-
-<!-- pair: TGD-004426 | source: U04426 | role: main_text | format: prose -->
 དེ་རང་ཉིད་ཀྱིས་མི་འཛིན་པར་འདོད་ན་
-
-<!-- pair: TGD-004427 | source: U04427 | role: main_text | format: prose -->
 དེ་ནི་སྨད་པར་བྱེད་པ་ལྟ་ཅི་སྨྲོས།
 
-<!-- pair: TGD-004428 | source: U04428 | role: main_text | format: prose -->
+<!-- pair: TGD-004428 | source: U04428 U04429 U04430 U04431 U04432 U04433 U04434 | role: closing_text | format: prose -->
 དཔེར་བསྟན་པ་དེ་བཞིན་དུ་མཚུངས་མེད་
-
-<!-- pair: TGD-004429 | source: U04429 | role: main_text | format: prose -->
 ཆོས་ཀྱི་རྒྱལ་པོ་འཇིག་རྟེན་གསུམ་གྱི་མགོན་པོ་ཡིས་འཁྲུངས་ཏེ་
-
-<!-- pair: TGD-004430 | source: U04430 | role: main_text | format: prose -->
 དོན་མཐའ་དག་མངོན་དུ་མཛད་པའི་ཁྱད་པར་གྱི་ཆོས་འདི་དག་
-
-<!-- pair: TGD-004431 | source: U04431 | role: main_text | format: prose -->
 གངས་ཅན་འདིར་སྔོན་ཆད་མ་གྲགས་པ་ཞིག་
-
-<!-- pair: TGD-004432 | source: U04432 | role: main_text | format: prose -->
 ཕྱི་དུས་འཇིག་རྟེན་མགོན་པོས་འདི་ལྟར་གསལ་བར་མཛད་པ་
-
-<!-- pair: TGD-004433 | source: U04433 | role: main_text | format: prose -->
 རྗེས་འབྲངས་སྲས་ཀྱིས་མི་འཛིན་པ་ནི་
-
-<!-- pair: TGD-004434 | source: U04434 | role: main_text | format: prose -->
 དེ་དང་ཚུལ་མཚུངས་པ་ཡིན་ནོ། །
 
-<!-- pair: TGD-004435 | source: U04435 | role: main_text | format: prose -->
+<!-- pair: TGD-004435 | source: U04435 U04436 U04437 U04438 U04439 U04440 U04441 | role: closing_text | format: prose -->
 རྒྱུ་མཚན་དེའི་ཕྱིར་རིགས་པ་དང་ལྡན་པ་
-
-<!-- pair: TGD-004436 | source: U04436 | role: main_text | format: prose -->
 ཕ་ཡི་གདུངས་འཚོབ་པར་འདོད་ན་
-
-<!-- pair: TGD-004437 | source: U04437 | role: main_text | format: prose -->
 རྗེའི་ཞལ་ནས་སུའི་ཆོས་ལ་ཡང་མི་སྨོད།
-
-<!-- pair: TGD-004438 | source: U04438 | role: main_text | format: prose -->
 གང་ལ་ཡང་མ་སྨད་པས་ཆོས་ལ་བརྟེན་པའི་གཡང་ས་མེད།
-
-<!-- pair: TGD-004439 | source: U04439 | role: main_text | format: prose -->
 སུའི་ཆོས་ཀྱི་རྗེས་སུ་མི་འབྲང་
-
-<!-- pair: TGD-004440 | source: U04440 | role: main_text | format: prose -->
 གང་གི་རྗེས་སུ་མ་འབྲངས་པས་
-
-<!-- pair: TGD-004441 | source: U04441 | role: main_text | format: prose -->
 ལོག་པར་ཞུགས་པའི་ཉེས་པ་མི་འབྱུང་ཞེས་གསུངས་པ་ལྟར།
 
-<!-- pair: TGD-004442 | source: U04442 | role: main_text | format: prose -->
+<!-- pair: TGD-004442 | source: U04442 U04443 U04444 U04445 U04446 | role: closing_text | format: prose -->
 རིགས་འཆོལ་བས་གཞན་གྱི་གྲུབ་མཐའ་དང་གང་ཟག་ལ་སྨོད་པར་མི་བྱེད་པ་
-
-<!-- pair: TGD-004443 | source: U04443 | role: main_text | format: prose -->
 ཁམས་གསུམ་ཆོས་ཀྱི་རྒྱལ་པོ་ཆོས་རྗེ་རིན་པོ་ཆེ་
-
-<!-- pair: TGD-004444 | source: U04444 | role: main_text | format: prose -->
 སྲིད་པ་གསུམ་ན་གྲགས་པ་དང་ལྡན་པ་
-
-<!-- pair: TGD-004445 | source: U04445 | role: main_text | format: prose -->
 དེ་ཡི་བཞེད་པའི་ཐུགས་དགོངས་དུས་གསུམ་སངས་རྒྱས་ཀྱི་བསྟན་པ་མཐའ་དག་གི་སྙིང་པོར་གྱུར་པའི་ཁྱད་ཆོས་རྣམས།
-
-<!-- pair: TGD-004446 | source: U04446 | role: main_text | format: prose -->
 མདོ་ལས།
 
-<!-- pair: TGD-004447 | source: U04447 | role: main_text | format: prose -->
+<!-- pair: TGD-004447 | source: U04447 U04448 | role: closing_text | format: verse -->
 མེ་ཚོགས་སྤུ་གྲིའི་སོ་ཡང་བརྒལ་ནས་ནི། །
-
-<!-- pair: TGD-004448 | source: U04448 | role: main_text | format: prose -->
 ཕྱི་མཐར་ཐུག་གི་བར་དུ་བཟུང་བར་བགྱི།
 
-<!-- pair: TGD-004449 | source: U04449 | role: main_text | format: prose -->
+<!-- pair: TGD-004449 | source: U04449 U04450 | role: closing_text | format: prose -->
 ཞེས་པ་ལྟར་ནན་ཏན་ཆེན་པོའི་སྒོ་ནས་འཛིན་པ་ཞིག་བྱུང་ན་
-
-<!-- pair: TGD-004450 | source: U04450 | role: main_text | format: prose -->
 ངོ་མཚར་ཤིན་ཏུ་ཆེ་བ་ཡིན་ནོ། །
 
-<!-- pair: TGD-004451 | source: U04451 | role: main_text | format: prose -->
+<!-- pair: TGD-004451 | source: U04451 U04452 U04453 U04454 U04455 U04456 | role: closing_text | format: prose -->
 བསྟན་པ་གང་གིས་འཛིན་པའི་ཆོས་མཛད་
-
-<!-- pair: TGD-004452 | source: U04452 | role: main_text | format: prose -->
 སྐྱེས་བུ་དམ་པ་རྣམས་ནི་འབངས་ཕལ་པའི་བུ་སྟོང་གི་ནང་དུ་འཁོར་ལོས་བསྒྱུར་རྒྱལ་གྱི་རིགས་རུས་ལས་འཁྲུངས་པའི་མཚན་ལྡན་གྱི་སྲས་དེ་ནི་
-
-<!-- pair: TGD-004453 | source: U04453 | role: main_text | format: prose -->
 ཡོན་ཏན་དུ་མའི་སྒོ་ནས་ཁྱད་པར་འཕགས་པ་བཞིན་དུ་
-
-<!-- pair: TGD-004454 | source: U04454 | role: main_text | format: prose -->
 བསྟན་པའི་སྒོར་ཞུགས་
-
-<!-- pair: TGD-004455 | source: U04455 | role: main_text | format: prose -->
 ཀུན་གྱི་ནང་ན་ཡོན་ཏན་དུ་མས་མཛེས་ཤིང་
-
-<!-- pair: TGD-004456 | source: U04456 | role: main_text | format: prose -->
 ལྷག་པ་ཡིན་ནོ།
 
-<!-- pair: TGD-004457 | source: U04457 | role: main_text | format: prose -->
+<!-- pair: TGD-004457 | source: U04457 U04458 U04459 U04460 U04461 U04462 U04463 U04464 U04465 | role: closing_text | format: prose -->
 དེའང་གང་གིས་ལྷག་པ་ཡིན་སྙམ་ན།
-
-<!-- pair: TGD-004458 | source: U04458 | role: main_text | format: prose -->
 ཐུན་མོང་མ་ཡིན་པ་གཞི་བདེ་བར་གཤེགས་པ་དམ་པའི་སྙིང་པོ་དང་
-
-<!-- pair: TGD-004459 | source: U04459 | role: main_text | format: prose -->
 དེ་མངོན་དུ་བྱེད་པའི་ཐབས་ལམ་གྱི་རིམ་པ་རབ་འབྱམས་ཐུབ་པའི་བཀའ་མཐའ་དག་གམ།
-
-<!-- pair: TGD-004460 | source: U04460 | role: main_text | format: prose -->
 ཡང་ན་གཉིས་ཆོས་ཐམས་ཅད་ལས་འདས་པའི་སྟོང་ཉིད་ཕྱག་རྒྱ་ཆེན་པོ་དང་།
-
-<!-- pair: TGD-004461 | source: U04461 | role: main_text | format: prose -->
 དེ་རྒྱུ་འབྲས་སུ་འབྱུང་བ་
-
-<!-- pair: TGD-004462 | source: U04462 | role: main_text | format: prose -->
 འཁོར་འདས་ཀྱི་རྟེན་འབྲེལ་ཀུན་ལ་མ་རྨོངས་པས་
-
-<!-- pair: TGD-004463 | source: U04463 | role: main_text | format: prose -->
 དེ་ཕྱིར་ཕྱི་རོལ་རྒོལ་བ་ངན་པའི་ཝ་ཚོགས་ཀྱིས། །
-
-<!-- pair: TGD-004464 | source: U04464 | role: main_text | format: prose -->
 གངས་ཅན་སེང་གེ་ལྟ་བུར་ཉམས་ང་།
-
-<!-- pair: TGD-004465 | source: U04465 | role: main_text | format: prose -->
 བག་ཚ་བ་སྤུ་ཙམ་ཡང་མེད་དོ།
 
-<!-- pair: TGD-004466 | source: U04466 | role: main_text | format: prose -->
+<!-- pair: TGD-004466 | source: U04466 U04467 U04468 U04469 U04470 | role: closing_text | format: prose -->
 རིགས་དང་དབང་པོ་དང་མཐུན་པར་རྗེས་འབྲང་ཀྱི་འཁོར་དང་
-
-<!-- pair: TGD-004467 | source: U04467 | role: main_text | format: prose -->
 རིགས་ཅན་སྣ་ཚོགས་པའི་གདུལ་བྱ་སོ་སོ་ལ་མ་འདྲེས་པའི་ཆོས་ ཀྱི་ཁྱད་པར་ལེགས་པར་བསྟན་པ་
-
-<!-- pair: TGD-004468 | source: U04468 | role: main_text | format: prose -->
 དམན་པ་ཉན་རང་དང་བྱང་ཆུབ་མཆོག་གི་ལམ་ལ་མོས་པ་ཇི་ལྟ་བའི་བྱེ་བྲག་གི་རིམ་པ་ཕྱེས་ཏེ་
-
-<!-- pair: TGD-004469 | source: U04469 | role: main_text | format: prose -->
 བསྟན་པས་བྱང༌ཆུབ་གསུམ་ལ་འགོད་པར་བྱེད་ཅིང་
-
-<!-- pair: TGD-004470 | source: U04470 | role: main_text | format: prose -->
 སྙན་པ་དང་གྲགས་པའི་སྒྲ་ཆེན་འབྲུག་སྒྲ་བཞིན་དུ་ཕྱོགས་བཅུར་སྒྲོགས་པར་བྱེད་དོ། །
 
-<!-- pair: TGD-004471 | source: U04471 | role: main_text | format: prose -->
+<!-- pair: TGD-004471 | source: U04471 U04472 U04473 U04474 U04475 U04476 U04477 | role: work_colophon | format: prose -->
 དེ་ལྟར་བརྗོད་བྱ་ཆོས་ཐུན་མཉམ་པ་ཉིད་
-
-<!-- pair: TGD-004472 | source: U04472 | role: main_text | format: prose -->
 སྦྲང་རྩི་རོ་གཅིག་པ་ལྟར་ཟབ་ཅིང་
-
-<!-- pair: TGD-004473 | source: U04473 | role: main_text | format: prose -->
 རྗོད་བྱེད་མདོ་རྒྱུད་དང་བསྟན་བཅོས་རྒྱ་ཆེ་བླ་ན་མེད་པའི།
-
-<!-- pair: TGD-004474 | source: U04474 | role: main_text | format: prose -->
 དགོངས་པ་རྒྱ་མཚོ་ཆེ་ལྟར་
-
-<!-- pair: TGD-004475 | source: U04475 | role: main_text | format: prose -->
 ཤིན་ཏུ་ཡངས་པར་གྱུར་པ་ལས།
-
-<!-- pair: TGD-004476 | source: U04476 | role: main_text | format: prose -->
 སྐྲའི་རྩེ་མོ་བླངས་པའི་ཆུ་ཐིག་ཙམ་ཞིག་སྨྲས་པ་
-
-<!-- pair: TGD-004477 | source: U04477 | role: main_text | format: prose -->
 འདི་ནི་བསོད་སྙོམས་ཀྱི་འཚོ་བའི་བན་དེ་ལྡོམ་བུ་པ་ཤེས་རབ་འབྱུང་གནས་བདག་གིས་བྲིས་ཞེས་སོ། །
 
-<!-- pair: TGD-004478 | source: U04478 | role: main_text | format: prose -->
+<!-- pair: TGD-004478 | source: U04478 U04479 U04480 U04481 U04482 U04483 U04484 U04485 U04486 U04487 | role: dedication | format: prose -->
 འཁོར་གསུམ་གང་དུ་གང་ཞིག་
-
-<!-- pair: TGD-004479 | source: U04479 | role: main_text | format: prose -->
 ཇི་ལྟར་བསྔོ་བའི་ཆོས་མི་དམིགས་རྣམ་པར་དག་པ་
-
-<!-- pair: TGD-004480 | source: U04480 | role: main_text | format: prose -->
 གངས་ཀྱི་རི་ལྟར་དཀར་བའི་དགེ་བ་འདིས། །
-
-<!-- pair: TGD-004481 | source: U04481 | role: main_text | format: prose -->
 རིན་ཆེན་རྒྱལ་བའི་བསྟན་པ་ཕྱོགས་བཅུ་མུ་མེད་པ་
-
-<!-- pair: TGD-004482 | source: U04482 | role: main_text | format: prose -->
 ཕྱི་མའི་མཐའི་བར་དུ་རྒྱས་པ་དང༌།
-
-<!-- pair: TGD-004483 | source: U04483 | role: main_text | format: prose -->
 དེའི་མཐུས་འཇིག་རྟེན་འཁོར་བའི་རྩ་བ་
-
-<!-- pair: TGD-004484 | source: U04484 | role: main_text | format: prose -->
 མི་ཤེས་པའི་གཏི་མུག་
-
-<!-- pair: TGD-004485 | source: U04485 | role: main_text | format: prose -->
 གློ་བུར་པའི་དྲི་མ་དང་རྣམ་པར་བྲལ་ཞིང༌།
-
-<!-- pair: TGD-004486 | source: U04486 | role: main_text | format: prose -->
 མཐར་ཕྱིན་པའི་སངས་རྒྱས་སྐུ་གསུམ་དང་
-
-<!-- pair: TGD-004487 | source: U04487 | role: main_text | format: prose -->
 ཡེ་ཤེས་ལྔའི་བདག་ཉིད་མྱུར་དུ་ཐོབ་པར་ཤོག་ཅིག་ཅེས་པའོ། །
 
-<!-- pair: TGD-004488 | source: U04488 | role: main_text | format: prose -->
+<!-- pair: TGD-004488 | source: U04488 U04489 U04490 U04491 U04492 U04493 | role: work_colophon | format: prose -->
 ཞེས་པ་བཤེར་འབྱུང་གིས་མཛད་པའི་གཞུང་རྩ་བ་དེ་ཉིད་
-
-<!-- pair: TGD-004489 | source: U04489 | role: main_text | format: prose -->
 འབྲི་གུང་གདན་རབ་རྗེ་བཙུན་དཀོན་མཆོག་རིན་ཆེན་ཕྲིན་ལས་རྣམ་རྒྱལ་དཔལ་འཟང་པོས་
-
-<!-- pair: TGD-004490 | source: U04490 | role: main_text | format: prose -->
 ཚིག་བཅད་དུ་ལྡེབས་པ་ལས་
-
-<!-- pair: TGD-004491 | source: U04491 | role: main_text | format: prose -->
 སླར་ལྷན་ཐབས་བཅས་དཀྱུས་སུ་བསྒྲིགས་ནས་
-
-<!-- pair: TGD-004492 | source: U04492 | role: main_text | format: prose -->
 མཆན་གྱིས་བཀྲལ་བ་
-
-<!-- pair: TGD-004493 | source: U04493 | role: main_text | format: prose -->
 སྔོན་བྱོན་སྐྱེས་ཆེན་དམ་པ་བཅུ་ཕྲག་རིགས་པའི་གནས་ལ་མཁས་པ་ཤཱཀྱའི་དགེ་སློང་དཔལ་འབྱོར་རིན་པོ་ཆེས་མཆན་ཐོར་བུར་སྡེབས་པ་ལ་གཞི་བྱས་ཏེ་
 
-<!-- pair: TGD-004494 | source: U04494 | role: main_text | format: prose -->
+<!-- pair: TGD-004494 | source: U04494 U04495 U04496 U04497 U04498 U04499 | role: work_colophon | format: prose -->
 སྙིགས་དུས་ཀྱི་ལྡོམ་བུ་བ་འབྲི་སྤྲུལ་རྟོགས་ལྡན་དཀོན་མཆོག་ཐུབ་བསྟན་བསྟན་པའི་རྒྱལ་མཚན་གྱིས་
-
-<!-- pair: TGD-004495 | source: U04495 | role: main_text | format: prose -->
 མང་ཡུལ་ལ་དྭགས་སྒང་སྔོན་བཀྲཤིས་ཆོས་རྫོང་དུ་
-
-<!-- pair: TGD-004496 | source: U04496 | role: main_text | format: prose -->
 འབྱུང་བ་བཞི་ལྡན་
-
-<!-- pair: TGD-004497 | source: U04497 | role: main_text | format: prose -->
 ས་མོ་བྱ་ལོའི་དུས་འཁོར་གྱི་གསོ་དཔྱད་རྒྱ་རྩིས་ཀྱི་སྟོན་ར།
-
-<!-- pair: TGD-004498 | source: U04498 | role: main_text | format: prose -->
 སྐར་རྩིས་རྒྱ་གར་གྱི་དབྱར་ཐ་གྲོ་ཞིན་
-
-<!-- pair: TGD-004499 | source: U04499 | role: main_text | format: prose -->
 ཟླ་བ་མར་ངོའི་ཚེས་ ༡༣ ལ་བྲིས་པ་དགེ་ལེགས་འཕེལ།།
