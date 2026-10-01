@@ -7772,7 +7772,7 @@ So it is said.
 
 [^N-A-044]: Anchors: U00603, U00604. Exact Tibetan: དགེ་སློང་ནག་པོ་ལ་བྱ་རོག་ཞར་མ་བཞིན་ནོ། Category: interpretive supply. Issue: The transition from eternalism to the karmic insult example is syntactically broken. Working treatment: Supply the insult relation from the next line’s causal consequence, without adding an identified speaker. Uncertainty: The working interpretation is provisional. Review action: Check the anecdote and the missing or displaced verbal material.
 
-[^N-A-045]: Anchors: U00608. Exact Tibetan: མ་བུ་ཆེན་པོ་ Category: source reading. Issue: The referent of great mother-and-child is not explained here. Working treatment: Retain the literal designation without assigning it to an unsupported school. Uncertainty: The working interpretation is provisional. Review action: Identify this tenet designation in its source tradition.
+[^N-A-045]: Anchors: U00608. Exact Tibetan: མ་བུ་ཆེན་པོའི་ Category: source reading. Issue: The referent of great mother-and-child is not explained here. Working treatment: Retain the literal designation without assigning it to an unsupported school. Uncertainty: The working interpretation is provisional. Review action: Identify this tenet designation in its source tradition.
 
 [^N-A-046]: Anchors: U00611. Exact Tibetan: རྩད་ནག་པས། Category: source reading. Issue: This line has no reference translation and joins an abbreviated quotation to an unidentified or defective attribution. Working treatment: Translate the clear quotation incipit; retain the attribution in Tibetan. Uncertainty: The working interpretation is provisional. Review action: Identify the author and the boundary between citations.
 

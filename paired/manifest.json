@@ -29224,8 +29224,8 @@
     }
   ],
   "source_sha256": "42fcd0a11e3053e755c32abec8f81365eecb5b76375bb5280670b6a0ce8f3203",
-  "translation_sha256": "9cd24904bbaeed134ba548ea2b4373a9068e29ac869a589ffb5bbd1f6a6c15fd",
-  "notes_sha256": "50d390949d72e58583a72a4e42bbb7ad3ff7a538d5aa9c87ec4ae243d4bb6e74",
+  "translation_sha256": "97ef99b9af9b5289c0d2bb1d2c3264d683b8e22041fe62b9a238c7d303c4dbf7",
+  "notes_sha256": "0995461a95552e117214dfa05b318d4ca5d15bf3e1f8dede3984fbf84ae0c330",
   "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
   "coverage_counts": {
     "translated": 2650,
