@@ -1,45 +1,11 @@
 # Translation handoff
 
-Update this file before handing translation or QC work to another agent.
+Read ../AGENTS.md first, then ../PROJECT-STATUS.md, ../DECISIONS.md, standard v2.0 and the full relevant glossary rows.
 
-## Fixed inputs
+Fixed input: source/anchors.json, U00001–U04499, provisional-source-v0.1.0; upstream 063eb57bc01767fe1a33d8db50074ca936086f56. The source snapshot is fixed; no golden edition exists. Hashes: source/intake-manifest.json.
 
-- golden release:
-- golden commit/tag:
-- glossary version/hash:
-- translation guideline version:
-- explicit project decisions:
+Whole work is one bounded working-draft scope. Current coverage 0/4,499 anchors; all remaining. Prepare coherent pairs from adjacent anchors and classify each as prose/verse/h1/h2/h3 before drafting it; do not mix formats. Preserve continuity across electronic line boundaries and source order. Source fidelity takes precedence over the rough reference. Identify every unresolved reading and technical use needing review.
 
-## Current coverage
+Production partitions: A U00001–U01685; B U01686–U03196; C U03197–U04499. Concurrent workers own only their assigned staging files outside the repository; coordinator alone assembles, commits, pushes and releases.
 
-- source pair/anchor range:
-- translated segments completed:
-- translated segments remaining:
-- unresolved translation notes:
-- provisional terminology usages:
-- independent QC performed: false
-
-## Release state
-
-- candidate commit:
-- validation:
-- negative tests:
-- final signoff:
-- release tag:
-- publication receipt:
-- remote verification:
-- clean tree:
-
-## Paired-text state
-
-- source release pinned:
-- translation release pinned:
-- pair IDs defined:
-- pair formats classified (prose/verse/h1/h2/h3):
-- unmatched source pairs:
-- unmatched translation pairs:
-- paired validation:
-
-## Next finite task
-
-State one bounded next task and the exact source range it covers.
+No independent QC, no final human signoff, no publication clearance. All draft claims must remain appropriately qualified.

@@ -1,0 +1,44 @@
+{
+  "upstream_repository": "Lotus-King-Translation/Gongchig-Drelwa",
+  "upstream_branch": "transifex",
+  "upstream_commit": "063eb57bc01767fe1a33d8db50074ca936086f56",
+  "template_commit": "f6431c25c7c9fa852c404b8cd3e0e3cdeae1178f",
+  "source_edition": "provisional-source-v0.1.0",
+  "anchor_count": 4499,
+  "blank_reference_anchors": [
+    "U00221",
+    "U00308",
+    "U00309",
+    "U00557",
+    "U00611",
+    "U01276",
+    "U01537",
+    "U01554",
+    "U02135",
+    "U02810",
+    "U03079",
+    "U03198",
+    "U03698",
+    "U03820",
+    "U04099",
+    "U04285",
+    "U04333"
+  ],
+  "files": {
+    "source/intake/root/001.txt": "0855bf2bdd2e375270d61b7c95fa8e741c1feff175d647ecf294f611ad37fe2c",
+    "source/intake/root/001_v2.txt": "0855bf2bdd2e375270d61b7c95fa8e741c1feff175d647ecf294f611ad37fe2c",
+    "source/intake/root/001.tok": "f5be5dc29d52bef632ceec91e8ef97e9ed1923576ccda976cd7b6328a1b3187f",
+    "source/intake/wip/en/001.po": "11f9e4abb30fc437ee0cef8bd679c7eefd7dc65678771bae0a14af9b51ad1af6",
+    "source/intake/wip/bo/001.po": "9ae6881654648b1d068178db93a55ef3b5890453a9b192f9f8ebf3af641576a1",
+    "source/intake/scripts/sentences_to_transifex.py": "1942eb5446ff73bfaf326cc478205daec970a8d9ff3ccd862f79d6e95f5f583e",
+    "source/intake/scripts/export_to_csv.py": "bc9408a7303078004fe279e09982f0de382a89f44c1e89c007d61dbc8e522e26",
+    "source/intake/scripts/export_to_html.py": "ded240161943be1e5781fe29fe2069fe304d82b21babbd30008f4b0d5cdb280e",
+    "source/intake/README.md": "9cb6038624f72b3768a000c8bd3c45b1ef3e40759a06ecb28beba1e9b6534686"
+  },
+  "glossary_sha256": "6b9029f7f02494e947e6a1273da7916b358e4d0738b35f012ce4da662d3fbbaf",
+  "guideline_sha256": "934f54616d1c55a6ecb0c594108397cca5b317dafc7c2c945972ffd1351b7760",
+  "decoded_raw_differences": [
+    "U00176",
+    "U01173"
+  ]
+}

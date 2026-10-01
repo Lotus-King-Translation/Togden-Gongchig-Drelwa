@@ -269,3 +269,7 @@ A paired-text release must pin:
 Release validation must prove exact pair symmetry and exact source coverage.
 
 Once tagged, the pair IDs in that release are immutable.
+
+## Project-specific provisional-source exception (D01)
+
+The owner skipped the golden-edition phase. For this project, `source:` replaces `golden:` in pair metadata and points to fixed U00001–U04499 objects in source/anchors.json. Source front matter additionally declares `source-status: provisional`. The edition is `provisional-source-v0.1.0`; it must match translation `source-edition` exactly. All other paired-text/2 invariants remain: coherent units, identical pair IDs and order, one source format per pair, exact complete ordered source-object coverage, and preserved notes. The reading projection strips only archival outer line whitespace, as recorded in source/PROVENANCE.md. This is not a golden release.

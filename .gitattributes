@@ -1,0 +1,2 @@
+# Archival originals are byte-preserved, including historical whitespace.
+source/intake/** -text -whitespace

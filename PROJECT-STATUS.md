@@ -1,43 +1,16 @@
 # Project status
 
-Keep this file short and current. Older detailed history belongs in phase handoffs and receipts.
-
-## Current state
-
-- Work title: unset
-- Work code for pair IDs: unset
-- Current phase: source intake
-- Current bounded section/chapter: not started
-- Governing physical base witness: not selected
-- Governing base electronic transcript: not selected
-- Source register complete: false
-- Golden release: none
-- Translation release: none
-- Paired-text release: none
-
-## Current finite task
-
-Not yet defined.
-
-## Counts
-
-- registered source items: 0
-- frozen source anchors: 0
-- open electronic comparison loci: 0
-- open targeted scan/source checks: 0
-- open editorial decisions: 0
-- restored main-text objects: 0
-- translation segments complete: 0
-- paired segments complete: 0
-- paired segments with format classified: 0
-
-## Scope flags
-
-- full base-scan proofreading performed: false
-- exhaustive witness collation performed: false
-- eclectic/reconstructed-original edition intended: false
-- translation independent QC completed: false
-
-## Next action
-
-Populate editions/REGISTER.csv and select the project’s governing source strategy before editorial work.
+- Work: Togden Rinpoche's Gongchig commentary; work code TGD.
+- Phase: provisional source fixed; whole-text translation preparation.
+- Governing transcript: archived root/001.txt, upstream 063eb57bc01767fe1a33d8db50074ca936086f56.
+- Golden edition: skipped by explicit owner instruction D01; no physical witness authenticated.
+- Source items registered: 9; fixed anchors: 4,499; English reference entries: 4,482 present, 17 blank.
+- Source reconciliation: all 4,499 UUIDs aligned; 13 outer-whitespace differences and 2 residual PO/raw differences recorded.
+- Translation: 0/4,499 source anchors completed; 4,499 remaining.
+- Paired reading structure: preparation pending; no released pair IDs yet.
+- Textual emendations/restorations: 0. Scan checks required by this scope: 0; performed: 0.
+- Full scan proofreading: false; exhaustive witness collation: false; independent translation QC: false.
+- Deliverables complete: archival intake, source register, anchored input. Remaining: paired structure, annotated translation, coverage/usage/proposals, validation, draft release.
+- Finite task: translate U00001–U04499 as one complete working draft under standard v2.0.
+- Working partitions: U00001–U01685; U01686–U03196; U03197–U04499. These are not separate chapter releases.
+- Unresolved source: PO/raw differences U00176 and U01173; original placeholders retained. See source/PROVENANCE.md.
