@@ -1,0 +1,16 @@
+{
+  "review_mode": "targeted coordination spot-check; not independent whole-text QC",
+  "source_edition": "provisional-source-v0.1.0",
+  "checked_ranges": [[90,96],[173,176],[221,226],[306,310],[556,558],[1746,1753],[1960,1962],[2134,2136],[2252,2255],[3226,3232],[3456,3458],[3521,3524],[3525,3532],[3695,3701],[3766,3768]],
+  "checks_performed": [
+    "Read Tibetan and proposed English together at the listed ranges.",
+    "Checked retention of the negation in the explanation of mastery, U00090–U00096.",
+    "Checked that selected blank-reference entries were actually translated and source difficulties annotated.",
+    "Checked visibility of x gaps, trailing slash, interrupted quotation and anomalous source readings.",
+    "Checked every currently supplied note quotation against its cited exact Tibetan anchors mechanically.",
+    "Requested revision of Summer Drum-Word to a disclosed provisional acoustic rendering, preserving the active glossary.",
+    "Added automatic note cross-links where one authored note cites source anchors belonging to multiple pairs."
+  ],
+  "limitations": ["This is a sample, not full semantic review.","No scans or independent witnesses inspected.","No human certification or glossary-proposal approval."],
+  "independent_qc_completed": false
+}
